@@ -1,0 +1,537 @@
+{
+  "examen": {
+    "id": "geografia-2015-J",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2015,
+    "convocatoria": "juny",
+    "serie": "2",
+    "pdf_examen": "pdfs/geografia/2015-J-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2015-J-solucio.pdf",
+    "estructura": "Sèrie 2. Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun; total 10). Cada exercici parteix d'un document (mapa, gràfic o text) i té quatre qüestions amb la mateixa estructura: 1) descriure el document o resumir el text (1 punt), 2) definir dos termes (1 punt), 3) i 4) explicar, relacionar o comparar segons un esquema (1,5 punts cadascuna). Opció A: exercici 1, mapa dels turistes estrangers per comunitats autònomes (2013) i turisme a Espanya; exercici 2, gràfic del consum d'energia primària i l'autoproveïment a Catalunya i Espanya (2009) i sostenibilitat energètica. Opció B: exercici 1, mapa de l'evolució del nombre d'explotacions agràries a Catalunya (1962-1999) i espai agrari; exercici 2, text d'Oriol Nel·lo sobre la urbanització dispersa i la ciutat de baixa densitat. Cada exercici és un element amb quatre apartats; la lletra final de l'id és l'opció (A/B). Les pautes valoren, a més dels continguts, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2015-J-e1-A",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa dels turistes estrangers per comunitats autònomes (2013): el turisme a Espanya",
+      "tema": "serveis",
+      "temes_secundaris": [
+        "medi-ambient",
+        "territori"
+      ],
+      "conceptes": [
+        "turisme",
+        "turisme de masses",
+        "turisme sostenible",
+        "turisme de sol i platja",
+        "frontur",
+        "mapa de coropletes",
+        "impacte ambiental del turisme",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        1,
+        2
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció A. Exercici 1 [5 punts en total]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2015-J/e1-A.png",
+          "peu": "Turistes estrangers (2013), en % sobre el total d'Espanya, per comunitats autònomes. Llegenda: menys del 5 % (gris clar), entre el 5 % i el 15 % (gris fosc), més del 15 % (negre). Valors rotulats: Catalunya 25,7; Illes Balears 18,3; Illes Canàries 17,5; Andalusia 13,0; Comunitat Valenciana 9,8; Comunitat de Madrid 7,0. Font: Ministeri d'Indústria, Energia i Turisme. Frontur, 2013."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *turisme de masses* i *turisme sostenible*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu les característiques del turisme estranger a Espanya d'acord amb l'esquema següent:\n\n- Causes de la distribució dels turistes estrangers que apareix en el mapa.\n- Posició d'Espanya com a potència turística mundial.\n- Principals procedències dels turistes i nivell de despesa que efectuen durant les estades.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Exposeu la importància de l'activitat turística a Espanya d'acord amb l'esquema següent:\n\n- Importància econòmica del turisme.\n- Impacte del turisme sobre el paisatge.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts i segueix l'esquema habitual de Geografia: **1** descriure el document (1 punt), **2** definir dos conceptes (1 punt), **3** i **4** explicar el fenomen amb l'esquema que dona la pregunta (1,5 punts cadascuna). Dedica-hi uns 40-45 minuts (és la meitat de l'examen).\n\n- A la **descripció** no s'expliquen causes: es diu quin document és (mapa temàtic de coropletes, escala estatal, per comunitats autònomes), quina variable mostra (% de turistes estrangers sobre el total), la data (2013), la font (Frontur) i després es descriu la **distribució amb xifres**.\n- A les **definicions**, una o dues frases precises i un exemple.\n- A les preguntes 3 i 4, **segueix l'esquema punt per punt** (cada guió puntua per separat) i aporta dades. Les pautes valoren l'ordre, la precisió i el vocabulari geogràfic."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos blocs, com a les pautes (0,5 + 0,5):\n\n1. **Identificació**: tipus de mapa (temàtic, de coropletes amb trames de grisos), àmbit (Espanya, per comunitats autònomes), variable (% de turistes estrangers sobre el total estatal), tres intervals de la llegenda, any 2013 i font (Frontur, Ministeri d'Indústria, Energia i Turisme).\n2. **Distribució**: on es concentra el fenomen (Mediterrània i arxipèlags) i on és escàs (interior i cornisa cantàbrica), amb les xifres del mapa.\n\n**Càlcul útil**: les tres primeres comunitats sumen 25,7 + 18,3 + 17,5 = **61,5 %**; les sis rotulades, **91,3 %**; la resta de comunitats, només el **8,7 %** entre totes. (Si es vol, amb uns 60,7 milions de turistes estrangers el 2013, el 25,7 % de Catalunya equival a uns 15,6 milions.)"
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic de coropletes** d'àmbit estatal que representa, per comunitats autònomes, el **percentatge de turistes estrangers** rebuts sobre el total d'Espanya l'any **2013**. Les comunitats s'agrupen en tres intervals amb trames de grisos (menys del 5 %, entre el 5 % i el 15 % i més del 15 %) i s'hi rotulen els valors de les sis comunitats principals. La font és l'enquesta **Frontur** del Ministeri d'Indústria, Energia i Turisme.\n\nEl mapa mostra una distribució molt **concentrada al litoral mediterrani i als arxipèlags**. **Catalunya** és la primera destinació, amb el **25,7 %** dels turistes estrangers, seguida de les **Illes Balears (18,3 %)** i les **Illes Canàries (17,5 %)**: entre les tres reben el 61,5 % del total. En un segon nivell (entre el 5 i el 15 %) hi ha **Andalusia (13,0 %)**, la **Comunitat Valenciana (9,8 %)** i la **Comunitat de Madrid (7,0 %)**, l'única de l'interior, gràcies a la capital. La resta de comunitats de l'interior i de la cornisa cantàbrica reben menys del 5 % cadascuna i, en conjunt, només un 8,7 %."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Per a cada terme: què és (gènere pròxim), trets que el distingeixen i un exemple. **Turisme de masses**: gran volum de persones, estandarditzat, estacional, organitzat per operadors turístics; exemple: sol i platja. **Turisme sostenible**: el que es gestiona per no esgotar els recursos i conservar el patrimoni natural i cultural i beneficiar la població local; exemples: turisme rural, ecoturisme. Contraposar-los ajuda a fer-ho clar."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Turisme de masses**: modalitat turística convencional que mou un gran nombre de persones cap a les mateixes destinacions i en les mateixes dates; és un turisme poc especialitzat, passiu i molt estacional, sovint venut en paquets pels operadors turístics (*tour operators*) a preus baixos. L'exemple típic és el turisme de sol i platja de la costa mediterrània.\n\n**Turisme sostenible**: turisme que es planifica i es gestiona de manera que satisfà les necessitats dels visitants sense esgotar els recursos ni degradar el medi, i que garanteix la conservació del patrimoni natural i cultural i la seva durabilitat per a les generacions futures, amb beneficis per a la població local. En són exemples el turisme rural o agroturisme i l'ecoturisme en espais naturals protegits."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres guions, tres paràgrafs:\n\n1. **Causes de la distribució** (0,5): pes del turisme de **sol i platja** (clima mediterrani, platges, oferta hotelera consolidada des dels anys 60) → litoral i illes; proximitat als mercats europeus i bona connexió aèria; a **Catalunya**, a més, oferta diversificada: **Barcelona** (turisme urbà, cultural, de congressos i creuers), Costa Brava, Pirineu. Madrid, per capitalitat i turisme cultural i de negocis.\n2. **Potència turística mundial** (0,5): Espanya és entre el 2n i el 5è país del món en arribades (la pauta diu 4a el 2013, darrere França, EUA i la Xina; segons l'OMT, el 2013 va ser 3a, amb uns 60,7 milions) i 2a en ingressos, darrere dels EUA.\n3. **Procedència i despesa** (0,25 + 0,25): Regne Unit, França i Alemanya (més de la meitat), després Itàlia, Països Baixos, països nòrdics, Portugal; mercats emergents (Rússia, Xina). Despesa elevada en total però **baixa per turista** al sol i platja (paquets amb tot inclòs, estades curtes)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**Causes de la distribució.** La major part del turisme estranger que arriba a Espanya busca el producte de **sol i platja**: un clima mediterrani amb estius llargs, càlids i secs, platges, preus competitius i una oferta hotelera i de serveis consolidada des del *boom* turístic dels anys seixanta. Per això els turistes es concentren a les comunitats litorals i, sobretot, als **arxipèlags** (Balears a l'estiu, Canàries tot l'any gràcies al clima subtropical). **Catalunya** és la primera comunitat perquè, a més de la Costa Brava i la Costa Daurada, té una oferta molt diversificada: **Barcelona** s'ha consolidat com a destinació de turisme urbà, cultural, de congressos i de creuers, i hi ha també turisme de muntanya i de neu al Pirineu. La proximitat als països emissors europeus, les connexions aèries (aeroports del Prat, Palma, Màlaga...) i la frontera amb França hi contribueixen. **Madrid** destaca a l'interior pel turisme cultural i de negocis lligat a la capitalitat.\n\n**Potència turística mundial.** Espanya és una de les grans potències turístiques del món: el 2013 va rebre uns 60 milions de turistes estrangers i se situava entre el tercer i el quart lloc mundial en arribades, darrere de França i els Estats Units (i al costat de la Xina, segons l'any). En **ingressos per turisme internacional** ocupava el **segon lloc**, només darrere dels Estats Units.\n\n**Procedència i despesa.** Els principals mercats emissors són el **Regne Unit, França i Alemanya**, que aporten més de la meitat dels visitants, seguits d'Itàlia, els Països Baixos, els països nòrdics i Portugal; creixen els mercats emergents com **Rússia** o la **Xina**, que han compensat en part la caiguda de la demanda europea durant la crisi. Tot i que el volum total d'ingressos és molt alt, la **despesa per turista és relativament baixa**, sobretot en el turisme de sol i platja venut amb paquets organitzats; el turisme urbà i cultural, en canvi, té una despesa diària més elevada."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta puntua **0,25 per aspecte** (màxim 0,5 a la part econòmica i 1 punt a la de paisatge): com més aspectes concrets i diferents, més nota.\n\n- **Economia**: més del 10 % del PIB i al voltant del 10 % de l'ocupació; entrada de **divises** que compensa el dèficit comercial; efecte arrossegament (construcció, hostaleria, comerç, transport); però ocupació estacional, precària i de salaris baixos.\n- **Paisatge**, per espais: **costa** (urbanització extensiva, continus urbans, edificis pantalla, sobreexplotació i salinització d'aqüífers, ports esportius i erosió de platges); **muntanya** (estacions d'esquí, segones residències, alteració d'ecosistemes); **ciutats** (massificació de centres històrics, conflictes amb residents, substitució del comerç tradicional per botigues de records i franquícies)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**Importància econòmica.** El turisme és una de les activitats bàsiques de l'economia espanyola: aporta **més del 10 % del PIB** i al voltant del **10 % de la població ocupada**. L'entrada de **divises** dels turistes estrangers permet compensar una bona part del **dèficit de la balança comercial**. A més, té un fort **efecte multiplicador** sobre altres sectors: construcció, hostaleria i restauració, agències de viatges, transport, comerç i activitats culturals i d'oci. Ara bé, l'ocupació que genera sovint és **estacional**, temporal i amb salaris baixos, amb un percentatge elevat de treballadors immigrants, i l'economia de moltes zones depèn excessivament d'aquest monocultiu turístic.\n\n**Impacte sobre el paisatge.** Al **litoral**, el turisme de masses ha provocat una **urbanització extensiva** de la costa, amb continus urbans a primera línia de mar, sovint sense una ordenació adequada, i **edificis pantalla** que tapen la vista del mar. La forta demanda d'aigua a l'estiu ha portat a la **sobreexplotació dels aqüífers**, que s'han salinitzat per intrusió marina, i la proliferació de **ports esportius** ha alterat la dinàmica dels sediments i ha accelerat l'**erosió de les platges**. A la **muntanya**, les **estacions d'esquí** i les segones residències han transformat els pobles i el seu entorn, amb noves urbanitzacions, pistes i infraestructures que alteren els ecosistemes d'alta muntanya. A les **ciutats** com Barcelona, l'afluència de turistes durant tot l'any provoca la **massificació** d'alguns barris i espais emblemàtics, conflictes de convivència amb els residents i canvis en el paisatge urbà, amb la substitució del comerç tradicional per franquícies, botigues de records i pisos turístics."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa temàtic estatal per CA amb trames de grisos (tres intervals), % de turistes estrangers, 2013, font Frontur (0,5). Concentració a la Mediterrània i a les illes: Catalunya 25,7 %, Balears 18,3 %, Canàries 17,5 %; després Andalusia, C. Valenciana i Madrid; interior i nord per sota del 5 % (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Turisme de masses: convencional, passiu, estacional, poc especialitzat, de gran volum i organitzat per operadors; ex. sol i platja (0,5). Turisme sostenible: gestió global dels recursos que en garanteix la durabilitat i conserva el patrimoni natural i cultural; ex. turisme rural, ecoturisme (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Pes del sol i platja → litoral i arxipèlags; Catalunya primera per l'oferta diversificada (Barcelona: turisme cultural, urbà, de congressos) (0,5). Espanya 4a potència en visitants el 2013 darrere França, EUA i Xina (s'accepta del 2n al 5è lloc raonat) (0,5). Procedència: França, Alemanya, Gran Bretanya i altres de la UE; valorar països emergents (Xina, Rússia) (0,25). 2a en ingressos darrere dels EUA però despesa per turista baixa (0,25)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Economia (0,25 per aspecte, màx. 0,5): >10 % del PIB i 9,5 % de l'ocupació, divises que paguen el dèficit comercial, creació d'ocupació en diversos sectors, però estacional i mal pagada. Paisatge (0,25 per aspecte, màx. 1): costa (urbanització extensiva, edificis pantalla, salinització d'aqüífers, ports esportius i erosió de platges), muntanya (estacions d'esquí, edificació, alteració d'ecosistemes), ciutats (massificació, incivisme, canvi del comerç)."
+          }
+        ],
+        "nota": "Errors típics: a l'apartat 1, explicar causes en lloc de descriure (les causes van a l'apartat 3) o oblidar el tipus de mapa, la data i la font; no citar xifres del mapa. Recorda que el mapa dona **percentatges sobre el total estatal**, no nombre de turistes ni densitat. Discrepància amb la pauta: la pauta situa Espanya en 4a posició mundial el 2013 darrere França, els EUA i la Xina; segons l'Organització Mundial del Turisme, el 2013 Espanya (60,7 milions) va ser 3a i la Xina 4a (el 2012 havia estat a l'inrevés). La mateixa pauta accepta qualsevol lloc entre el 2n i el 5è si es raona. A l'apartat 4, cada aspecte diferent suma 0,25: val més enumerar-ne molts (costa, muntanya, ciutat) que desenvolupar-ne només un."
+      }
+    },
+    {
+      "id": "geografia-2015-J-e2-A",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Gràfic del consum d'energia primària i l'autoproveïment a Catalunya i Espanya (2009)",
+      "tema": "industria",
+      "temes_secundaris": [
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "energia primària",
+        "energia renovable",
+        "combustible fòssil",
+        "energia nuclear",
+        "autoproveïment energètic",
+        "dependència energètica",
+        "efecte d'hivernacle",
+        "comentari de gràfic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció A. Exercici 2 [5 punts en total]. Observeu el gràfic següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2015-J/e2-A.png",
+          "peu": "Consum d'energia primària i autoproveïment a Catalunya i Espanya (2009), en %. Gràfic de barres: carbó 0,6 (Catalunya) i 8,0 (Espanya); petroli i derivats 47,2 i 48,3; gas natural 24,6 i 24,0; nuclear 20,1 i 10,4; renovables i altres 7,5 i 9,5; taxa d'autoproveïment 24,6 i 22,9. Font: Institut d'Estadística de Catalunya (Idescat). Xifres de Catalunya 2014."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el gràfic.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *energia renovable* i *combustible fòssil*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Comenteu la sostenibilitat ambiental del model energètic de Catalunya que es dedueix de les dades del gràfic, d'acord amb l'esquema següent:\n\n- Balanç de les fonts d'energia renovable i les fonts d'energia no renovable.\n- Contribució a l'efecte d'hivernacle.\n- Autosuficiència energètica.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Compareu la sostenibilitat ambiental dels tres tipus d'energia següents: l'energia hidroelèctrica, l'energia nuclear i els biocombustibles.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari d'un gràfic de barres (5 punts, uns 40-45 minuts). **1** descripció (1 punt: 0,25 identificació + 0,75 lectura de les dades), **2** dues definicions (1 punt), **3** sostenibilitat del model català amb tres guions (1,5 punts; l'autosuficiència val 0,75), **4** comparació de tres energies (1,5 punts).\n\nAtenció a llegir bé el gràfic: les cinc primeres parelles de barres són l'**estructura del consum** (sumen 100 %), però la darrera, la **taxa d'autoproveïment**, és una altra variable (quina part de l'energia consumida es produeix al propi territori). No la sumis amb les altres."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació** (0,25): gràfic de barres verticals agrupades (Catalunya en gris clar, Espanya en gris fosc), consum d'energia primària per fonts (carbó, petroli i derivats, gas natural, nuclear, renovables i altres) i taxa d'autoproveïment, en %, any 2009, font Idescat (*Xifres de Catalunya 2014*).\n2. **Lectura** (0,75): predomini aclaparador de les no renovables; petroli primera font; després gas i nuclear; carbó irrellevant a Catalunya i amb cert pes a Espanya; nuclear el doble a Catalunya; renovables molt minoritàries; autoproveïment baix (una quarta part)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Comprovacions i dades derivades (verificades amb Python):\n\n| | Catalunya | Espanya |\n|---|---|---|\n| Suma de les fonts | 0,6 + 47,2 + 24,6 + 20,1 + 7,5 = 100,0 % | 8,0 + 48,3 + 24,0 + 10,4 + 9,5 = 100,2 % (arrodoniment) |\n| Combustibles fòssils (carbó + petroli + gas) | **72,4 %** | **80,3 %** |\n| No renovables (fòssils + nuclear) | **92,5 %** | **90,7 %** |\n| Dependència energètica (100 − autoproveïment) | 100 − 24,6 = **75,4 %** | 100 − 22,9 = **77,1 %** |\n\nLa nuclear pesa gairebé el doble a Catalunya que a Espanya (20,1 / 10,4 ≈ 1,9 vegades)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **gràfic de barres verticals agrupades** que compara el **consum d'energia primària** de Catalunya (barres grises clares) i d'Espanya (barres fosques) segons la font d'energia —carbó, petroli i derivats, gas natural, energia nuclear i renovables i altres—, expressat en **percentatge** sobre el consum total, i que afegeix la **taxa d'autoproveïment** de cada territori. Les dades són de l'any **2009** i la font és l'**Idescat** (*Xifres de Catalunya 2014*).\n\nEls dos models energètics depenen sobretot de les **fonts no renovables**. El **petroli i derivats** és la primera font, amb gairebé la meitat del consum (47,2 % a Catalunya i 48,3 % a Espanya), seguit del **gas natural** (24,6 % i 24,0 %). Hi ha dues diferències clares: l'**energia nuclear** té el doble de pes a Catalunya (20,1 %) que a Espanya (10,4 %), mentre que el **carbó** és pràcticament inexistent a Catalunya (0,6 %) i representa un 8,0 % a Espanya. Les **renovables** són molt minoritàries: 7,5 % a Catalunya i 9,5 % a Espanya. En conjunt, les fonts no renovables suposen més del 90 % del consum. Finalment, la **taxa d'autoproveïment** és molt baixa: Catalunya només produeix el 24,6 % de l'energia que consumeix, i Espanya el 22,9 %."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Energia renovable**: fonts inesgotables o de renovació ràpida a escala humana (sol, vent, aigua, marees, geotèrmia, biomassa). **Combustible fòssil**: recurs format fa milions d'anys per transformació de restes orgàniques, atrapat en formacions geològiques, no renovable; carbó, petroli i gas natural. Afegeix-hi un exemple a cada un."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Energia renovable**: energia que s'obté de fonts naturals inesgotables, com el Sol, el vent, l'aigua dels rius, les marees o la calor interna de la Terra, o bé de fonts que es renoven a un ritme ràpid, com la biomassa. Exemples: energia solar fotovoltaica, eòlica, hidroelèctrica o geotèrmica.\n\n**Combustible fòssil**: recurs energètic no renovable format fa milions d'anys per la transformació lenta i complexa de restes de plantes i animals (biomassa) enterrades en els sediments. Es troben atrapats en formacions geològiques d'on s'han d'extreure, i en cremar-los alliberen energia i CO2. Exemples: el carbó, el petroli i el gas natural."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Un paràgraf per guió, amb dades del gràfic:\n\n1. **Balanç renovables / no renovables** (0,25): model **no sostenible**, renovables només el 7,5 %, no renovables el 92,5 %.\n2. **Efecte d'hivernacle** (0,5): els fòssils (72,4 %) emeten CO2; la nuclear i la majoria de renovables (hidroelèctrica, eòlica, fotovoltaica) no n'emeten; per tant, el pes elevat de la nuclear redueix les emissions per unitat d'energia respecte d'Espanya, però el model continua sent molt emissor.\n3. **Autosuficiència** (0,75, la part que més puntua): taxa d'autoproveïment del 24,6 % → dependència del 75,4 %; cal importar petroli, gas i urani; vulnerabilitat davant dels preus i de la geopolítica i pes en la balança comercial."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**Balanç entre renovables i no renovables.** El model energètic català és clarament **poc sostenible**: les fonts no renovables (petroli, gas natural, nuclear i carbó) cobreixen el **92,5 %** del consum d'energia primària i les **renovables només el 7,5 %**, fins i tot per sota de la mitjana espanyola (9,5 %). Es consumeixen, doncs, recursos que s'esgoten i el pes de les energies netes és encara molt petit.\n\n**Contribució a l'efecte d'hivernacle.** Els **combustibles fòssils**, que en la seva combustió emeten CO2 i altres gasos d'efecte d'hivernacle, suposen el **72,4 %** del consum català (petroli 47,2 % i gas 24,6 %). El petroli es destina sobretot al **transport**, un dels sectors que més emissions genera. Entre les energies consumides, només la **nuclear** (20,1 %) i la majoria de **renovables** (hidroelèctrica, eòlica, fotovoltaica) no emeten CO2 en la seva producció. El pes elevat de la nuclear i la quasi absència de carbó fan que Catalunya emeti menys CO2 per unitat d'energia que el conjunt d'Espanya (on els fòssils són el 80,3 %), però el model continua contribuint de manera important a l'escalfament global.\n\n**Autosuficiència energètica.** Catalunya és **molt poc autosuficient**: només produeix el **24,6 %** de l'energia que consumeix (Espanya el 22,9 %), de manera que la **dependència exterior** és del **75,4 %**. Catalunya i Espanya no tenen jaciments significatius de petroli ni de gas, i el carbó espanyol és escàs i de baixa qualitat; per això s'han d'importar el petroli, el gas natural i el combustible nuclear (urani). L'autoproveïment català prové sobretot de l'electricitat nuclear —que les estadístiques comptabilitzen com a producció interior tot i que l'urani és importat— i de les renovables. Aquesta dependència fa l'economia vulnerable a les variacions de preus i als conflictes dels països productors, i encareix la factura energètica exterior. Augmentar les renovables milloraria alhora la sostenibilitat i l'autosuficiència."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Per a cada energia, digues **si és renovable**, **si emet CO2** i **quins altres impactes** té (residus, aigua, sòl), i en quines condicions és sostenible. Acaba amb una comparació: la hidroelèctrica és la més sostenible (renovable i sense emissions, però amb impacte dels embassaments); la nuclear no emet CO2 però no és renovable ni neta (residus radioactius, contaminació tèrmica, risc d'accidents); els biocombustibles són renovables i de balanç de CO2 equilibrat, però només si la producció no consumeix gaire energia i adobs i no competeix amb aliments. La pauta dona 0,25 a la hidroelèctrica, 0,5 a la nuclear i 0,75 als biocombustibles."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "L'**energia hidroelèctrica** aprofita la força dels salts d'aigua dels embassaments, un recurs **renovable**, i en la seva producció no emet CO2 ni residus: és una energia neta i mediambientalment sostenible. Tot i així, la construcció de preses inunda valls, altera el règim natural dels rius i la circulació de sediments (el delta de l'Ebre en perd) i afecta els ecosistemes fluvials, i la seva producció depèn de la pluviositat.\n\nL'**energia nuclear** s'obté de la **fissió** d'àtoms d'urani o plutoni i **no emet CO2**, però no és sostenible: utilitza **minerals no renovables** i escassos, genera **residus radioactius** que continuen sent perillosos durant milers d'anys i que no tenen una solució definitiva d'emmagatzematge, comporta un risc d'accident greu (Txernòbil, Fukushima) i l'aigua de refrigeració que es retorna als rius o al mar és més calenta, cosa que altera els ecosistemes (**contaminació tèrmica**).\n\nEls **biocombustibles** (biomassa de residus vegetals, olis, alcohols com el bioetanol o el biodièsel) són **renovables** perquè la biomassa es renova ràpidament. En cremar-los s'emet CO2, però les plantes l'han absorbit mentre creixien, de manera que el **balanç de carboni és gairebé neutre**. Ara bé, només són sostenibles si l'energia invertida a produir-los (maquinària, adobs, transport) és baixa i si no ocupen terres que caldrien per a aliments; a més, no són una energia del tot neta, perquè la combustió allibera altres gasos i partícules contaminants.\n\nEn conjunt, la **hidroelèctrica** és la més sostenible de les tres, els **biocombustibles** ho són amb condicions, i la **nuclear**, malgrat que no contribueix a l'efecte d'hivernacle, no es pot considerar sostenible pel caràcter no renovable del combustible i pels residus."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Gràfic de barres, consum d'energia primària per fonts i autoproveïment, Catalunya i Espanya, %, 2009, Idescat (0,25). No renovables molt majoritàries; renovables 7,5 % (Cat.) i 9,5 % (Esp.); petroli primera font (47,2 % i 48,3 %), després gas i nuclear; carbó irrellevant a Catalunya; autoproveïment 24,6 % i 22,9 % (0,75)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Energia renovable: de fonts inesgotables (sol, vent, rius, marees, calor interna) o de renovació ràpida (biomassa) (0,5). Combustible fòssil: format fa milions d'anys a partir de biomassa, atrapat en formacions geològiques; carbó, petroli, gas natural (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Model no sostenible: renovables només el 7,5 % (0,25). Només la nuclear i la majoria de renovables no emeten CO2 (0,5). Gran dependència de les importacions: només es produeix el 22,9 % (Espanya) i el 24,6 % (Catalunya); cal importar petroli, gas i combustible nuclear (0,75)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Hidroelèctrica: neta i sostenible, recurs renovable (0,25). Nuclear: no emet CO2 però no sostenible (urani/plutoni no renovables i escassos) ni neta (residus radioactius, escalfament de l'aigua de refrigeració) (0,5). Biocombustibles: sostenibles per la renovació ràpida de la biomassa si la producció no gasta massa energia (adobs, maquinària); el CO2 emès s'equilibra amb l'absorbit en el creixement; no del tot nets (altres gasos i partícules) (0,75)."
+          }
+        ],
+        "nota": "Discrepància amb la pauta: a l'apartat 1, la pauta diu que la taxa d'autoproveïment «és lleugerament inferior a Catalunya, amb un 24,6 %, mentre que a Espanya és del 22,9 %»; segons el gràfic és al revés: la de Catalunya (24,6 %) és lleugerament **superior** a l'espanyola (22,9 %). Errors típics: sumar la taxa d'autoproveïment amb les fonts d'energia; dir que la nuclear és renovable (no ho és) o que emet CO2 en la producció (no n'emet); confondre energia primària (la que es troba a la natura: petroli, gas, urani...) amb energia final o electricitat. A l'apartat 3, l'autosuficiència és el guió que més puntua (0,75): calcula la dependència (75,4 %) i explica quins recursos s'importen."
+      }
+    },
+    {
+      "id": "geografia-2015-J-e1-B",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa de l'evolució del nombre d'explotacions agràries a Catalunya (1962-1999)",
+      "tema": "primari",
+      "temes_secundaris": [
+        "poblacio",
+        "territori"
+      ],
+      "conceptes": [
+        "explotació agrària",
+        "èxode rural",
+        "població activa agrària",
+        "regadiu",
+        "secà",
+        "àmbits territorials de catalunya",
+        "factors ambientals",
+        "comentari de mapa"
+      ],
+      "dificultat": 3,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció B. Exercici 1 [5 punts en total]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2015-J/e1-B.png",
+          "peu": "Evolució del nombre d'explotacions agràries a Catalunya (1962-1999). Mapa de Catalunya dividit en set àmbits territorials (Alt Pirineu i Aran, Ponent, Comarques Centrals, Comarques Gironines, Àmbit Metropolità, Camp de Tarragona i Terres de l'Ebre), amb tres barres horitzontals a cada àmbit: 1962 (gris clar), 1982 (gris fosc) i 1999 (negre). Escala de les barres: 5.000, 20.000 i 40.000 explotacions. Font: adaptació del mapa de la Fundació del Món Rural, Atles de la nova ruralitat [en línia]."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *èxode rural* i *població activa agrària*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Relacioneu l'evolució del nombre d'explotacions agràries que observem en el mapa amb els factors ambientals i socioeconòmics propis de cada àmbit territorial.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Relacioneu la localització de les grans àrees agràries de Catalunya (pastures de muntanya, monocultiu cerealístic de secà, grans zones de regadiu, monocultiu de la vinya) amb els factors ambientals que les condicionen.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Mapa de Catalunya amb **gràfics de barres sobreposats** a cada àmbit territorial (5 punts, uns 40-45 minuts). **1** descripció (1 punt), **2** dues definicions (1 punt), **3** explicar les diferències territorials de l'evolució (1,5 punts), **4** localitzar les grans àrees agràries i relacionar-les amb el relleu, el clima i els sòls (1,5 punts).\n\nEl mapa no rotula els noms dels àmbits ni dona xifres: cal **reconèixer els set àmbits territorials** del Pla territorial general de Catalunya i **estimar els valors** comparant la longitud de les barres amb l'escala (5.000, 20.000 i 40.000 explotacions). No cal precisió absoluta: n'hi ha prou amb ordres de magnitud i amb dir on la disminució és més forta (més de la meitat) i on és més moderada."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació** (0,5): mapa temàtic de Catalunya amb delimitacions supracomarcals (els set àmbits territorials), gràfics de barres horitzontals proporcionals al nombre d'explotacions, tres dates (1962, 1982, 1999), font: Fundació del Món Rural, *Atles de la nova ruralitat*.\n2. **Evolució i distribució** (0,5): descens generalitzat (a Catalunya, de l'ordre de −60 %); descens més fort (més del 50 %) al Pirineu, a les comarques gironines, a l'àmbit metropolità (i a les comarques centrals); més moderat a Ponent, al Camp de Tarragona i a les Terres de l'Ebre, que el 1999 són els àmbits amb més explotacions."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Lectura aproximada de les barres (mesurades sobre l'escala de 40.000 explotacions; valors arrodonits) i variació 1962-1999, calculada amb Python:\n\n| Àmbit | 1962 | 1982 | 1999 | Variació 1962-1999 |\n|---|---|---|---|---|\n| Alt Pirineu i Aran | ≈ 10.000 | ≈ 6.500 | ≈ 3.000 | ≈ −70 % |\n| Comarques Centrals | ≈ 28.000 | ≈ 12.500 | ≈ 7.000 | ≈ −75 % |\n| Comarques Gironines | ≈ 41.000 | ≈ 19.000 | ≈ 7.500 | ≈ −80 % |\n| Àmbit Metropolità | ≈ 35.000 | ≈ 18.000 | ≈ 7.500 | ≈ −79 % |\n| Ponent | ≈ 34.000 | ≈ 24.500 | ≈ 20.000 | ≈ −41 % |\n| Camp de Tarragona | ≈ 27.000 | ≈ 20.500 | ≈ 15.000 | ≈ −45 % |\n| Terres de l'Ebre | ≈ 27.500 | ≈ 25.000 | ≈ 18.000 | ≈ −34 % |\n| **Catalunya (suma)** | **≈ 203.000** | **≈ 126.000** | **≈ 78.000** | **≈ −61 %** |\n\nVariació (%) = (valor 1999 − valor 1962) / valor 1962 × 100. Per exemple, Girona: (7.700 − 40.900) / 40.900 × 100 ≈ −81 %."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic** de Catalunya dividit en **set àmbits territorials** (delimitacions supracomarcals) en què, sobre cada àmbit, uns **gràfics de barres horitzontals sobreposats** representen el **nombre d'explotacions agràries** en tres dates: **1962, 1982 i 1999**. La longitud de cada barra és proporcional al nombre d'explotacions (l'escala marca 5.000, 20.000 i 40.000). La font és la **Fundació del Món Rural** (*Atles de la nova ruralitat*).\n\nEl mapa mostra una **disminució generalitzada i molt intensa** del nombre d'explotacions en tots els àmbits: el conjunt de Catalunya passa d'unes 200.000 explotacions el 1962 a menys de 80.000 el 1999 (aproximadament −60 %). La reducció és **més forta (superior al 50 %)** a les **comarques gironines** (de més de 40.000 a menys de 8.000), a l'**àmbit metropolità** (d'uns 35.000 a uns 7.500), a l'**Alt Pirineu i Aran**, que ja en tenia poques, i a les **comarques centrals**. En canvi, a **Ponent**, al **Camp de Tarragona** i a les **Terres de l'Ebre** la disminució ha estat **menor** (entre un terç i menys de la meitat), i per això el 1999 són els àmbits amb més explotacions (unes 15.000-20.000 cadascun)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Èxode rural**: moviment migratori (qui, d'on, cap a on, per què, quan). **Població activa agrària**: part de la població activa (ocupats + aturats que busquen feina) que treballa o vol treballar en el sector primari (agricultura, ramaderia, explotació forestal). Recorda incloure-hi els aturats: és la definició de *població activa*."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Èxode rural**: emigració massiva de la població del camp cap a les ciutats a la recerca de feina i de millors condicions de vida. A Catalunya i a Espanya es va produir sobretot entre els anys cinquanta i setanta del segle XX, a causa de la mecanització agrària i de l'atracció de la indústria i els serveis urbans, i va provocar el despoblament i l'envelliment de moltes zones rurals i de muntanya.\n\n**Població activa agrària**: conjunt de persones en edat de treballar que estan ocupades en activitats del sector primari —agricultura, ramaderia o explotació forestal— o que hi volen treballar i en busquen feina encara que en aquell moment estiguin a l'atur."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Relaciona cada grup d'àmbits amb les seves causes:\n\n1. **Descens molt fort** (0,5 per descriure-ho): Pirineu, Girona, Barcelona (i comarques centrals).\n2. **Causes** (0,5): a la **muntanya**, factors ambientals desfavorables (pendents, clima rigorós, explotacions petites i poc mecanitzables) + despoblament i èxode; a **Barcelona i Girona**, atracció de la indústria i els serveis i el turisme (Costa Brava), pressió urbanística sobre el sòl agrari i explotacions a temps parcial que desapareixen.\n3. **Descens moderat** (0,5): a **Ponent, el Camp de Tarragona i les Terres de l'Ebre**, plana, regadius (Canal d'Urgell, Segrià, delta de l'Ebre), vinya i fruita seca, agroindústria; i menys alternatives industrials i turístiques.\n\nFactor comú: la **modernització i mecanització** de l'agricultura i la concentració en explotacions més grans i competitives."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "Entre el 1962 i el 1999 desapareixen més de la meitat de les explotacions agràries de Catalunya. Aquest procés general s'explica per la **modernització de l'agricultura**: la mecanització i l'ús d'adobs i fitosanitaris redueixen la mà d'obra necessària, les explotacions petites i poc rendibles tanquen i la terra es concentra en explotacions més grans i competitives. Paral·lelament, l'**èxode rural** porta molts pagesos joves cap a la indústria i els serveis de les ciutats, i molts titulars es jubilen sense relleu generacional.\n\nLa intensitat del descens, però, depèn dels factors de cada àmbit. A l'**Alt Pirineu i Aran** (i també a les zones de muntanya de les comarques centrals i gironines) hi ha **factors ambientals desfavorables**: pendents forts, sòls prims, altitud i un clima rigorós amb un període vegetatiu curt, que limiten els conreus i dificulten la mecanització. Les explotacions eren petites i ramaderes, i el **despoblament** i l'envelliment han provocat l'abandonament de moltes d'elles; part de la població s'ha reorientat cap al turisme (estacions d'esquí, turisme rural). A l'**àmbit metropolità** i a les **comarques gironines** els factors són sobretot **socioeconòmics**: la **indústria**, els **serveis** i el **turisme** (Costa Brava, Maresme) ofereixen feines més ben pagades, i l'expansió urbana i de les infraestructures ocupa sòl agrari i en fa pujar el preu, de manera que moltes explotacions, sovint a temps parcial, desapareixen.\n\nA **Ponent**, al **Camp de Tarragona** i a les **Terres de l'Ebre** el descens és més moderat. D'una banda, els factors ambientals hi són favorables: terres planes de la Depressió Central i del delta, sòls fèrtils i disponibilitat d'aigua gràcies als grans **regadius** (Canal d'Urgell, Segrià, delta de l'Ebre), que permeten una agricultura intensiva i rendible (fruita dolça, arròs, farratges), a més de la vinya, l'olivera i la fruita seca del Camp, el Priorat i la Terra Alta, i una forta **agroindústria** i ramaderia intensiva. De l'altra, el desenvolupament industrial i turístic hi ha ofert **menys alternatives** que a Barcelona i a la costa, de manera que l'agricultura ha continuat sent una activitat bàsica."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta valora tres coses (0,5 cadascuna):\n\n1. **Localitzar** cada àrea: pastures → Pirineus; regadiu → pla de Lleida, delta de l'Ebre, Llobregat, Maresme, Empordà; cereal de secà → Depressió Central; vinya → Penedès, Priorat, Terra Alta, Conca de Barberà, Costers del Segre, Bages, Alella, Empordà.\n2. **Factors ambientals generals**: relleu (pendent, altitud), clima (pluja i temperatures), sòls (fertilitat), disponibilitat d'aigua.\n3. **Un tret ambiental per a cada àrea**: pendent i clima rigorós (pastures); hivern curt, sòls fèrtils i aigua (regadiu); terreny pla, sòls profunds i aigua escassa (secà); sòls pobres i pluges minses i estacionals (vinya).\n\nUna bona estructura és un paràgraf per a cada àrea que digui on és i per què hi és."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "La distribució de les grans àrees agràries de Catalunya depèn sobretot de tres **factors ambientals**: el **relleu** (l'altitud i el pendent dificulten el conreu i la mecanització i afavoreixen l'erosió del sòl), el **clima** (quantitat i règim de pluges i temperatures, que determinen el període vegetatiu) i el **tipus de sòl** (més o menys fèrtil i profund), juntament amb la **disponibilitat d'aigua**.\n\n- **Pastures de muntanya**: als **Pirineus** (Alt Pirineu i Aran, Cerdanya, Ripollès). L'altitud, els **pendents forts** i el **clima rigorós**, amb hiverns llargs i freds i un període vegetatiu curt, impedeixen gairebé els conreus; en canvi, la pluviositat elevada afavoreix les prades i els prats de dall, aprofitats per la ramaderia extensiva (boví, oví) amb transhumància d'estiu.\n- **Grans zones de regadiu**: el **pla de Lleida** (Segrià, Urgell, Pla d'Urgell, Noguera), el **delta de l'Ebre** i, en menor mesura, el delta del **Llobregat**, el **Maresme** i la plana de l'**Empordà**. Són terres **planes** amb **sòls fèrtils** (sovint al·luvials), amb un **hivern relativament curt** i, sobretot, amb **aigua a l'abast** gràcies als rius i als canals (Canal d'Urgell, canals de l'Ebre), que compensen la sequera estival. S'hi conrea fruita dolça, arròs (al delta), farratges i hortalisses.\n- **Monocultiu cerealístic de secà**: a la **Depressió Central** (Segarra, Anoia, part de la Noguera i el Solsonès). Són **terrenys planers o ondulats** amb **sòls profunds**, però amb un clima mediterrani continental de **pluges escasses** i irregulars i sense regadiu, cosa que afavoreix el blat i l'ordi, poc exigents en aigua.\n- **Monocultiu de la vinya**: a la **Depressió Prelitoral** (Penedès, Priorat, Terra Alta), la **Conca de Barberà**, i en sectors més reduïts com els Costers del Segre, el Bages, Alella (Maresme) i l'Empordà. La vinya s'adapta a **sòls pobres** i pedregosos (les llicorelles del Priorat) i a vessants assolellats, amb **pluges minses i estacionals** i estius secs i calorosos, condicions en què altres conreus serien poc rendibles."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa temàtic amb delimitacions supracomarcals i gràfics de barres sobreposats del nombre d'explotacions agràries, 1962, 1982 i 1999, font Fundació del Món Rural (0,5). Disminució notable; més gran (> −50 %) al Pirineu de Lleida, la regió metropolitana de Barcelona i les comarques gironines; menor a les comarques de Lleida, Camp de Tarragona i Terres de l'Ebre (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Èxode rural: emigració del camp a la ciutat en busca de millors condicions de vida i de treball (0,5). Població activa agrària: població que treballa en l'agricultura, la ramaderia o l'explotació forestal, més la que hi vol treballar encara que ara no ho faci (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Descens molt gran 1962-1999: es perd més de la meitat d'explotacions al Pirineu i a les comarques de Girona i Barcelona; Lleida i Tarragona resisteixen millor (0,5). Causes: despoblament i abandonament a les zones de muntanya (Pirineu); transició cap a la indústria, els serveis i el turisme (Girona, Barcelona) (0,5). Al pla de Lleida i Tarragona, principals zones agrícoles (regadius del pla de Lleida i del delta de l'Ebre, vinya i fruita seca al Camp, Priorat, Terra Alta) i menys oportunitats industrials i turístiques (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Localització: pastures → Pirineus; regadiu → pla de Lleida, delta de l'Ebre, Llobregat, Maresme, Empordà; cereal de secà → Depressió Central; vinya → Depressió Prelitoral (Penedès, Priorat, Terra Alta), Conca de Barberà, Costers del Segre, Bages, Alella, Empordà (0,5). Factors: orografia (pendent), clima (pluviositat i règim tèrmic), sòls (fertilitat); s'admeten aigua i altitud (0,5). Un tret per àrea: pendent i rigor climàtic; hivern curt, sòls fèrtils i aigua; terreny planer, sòls profunds i aigua escassa; sòls pobres i pluges minses i estacionals (0,5)."
+          }
+        ],
+        "nota": "El mapa no dona xifres ni noms d'àmbits: les xifres de la taula són estimacions fetes mesurant les barres i poden tenir un marge d'error de ±1.000 explotacions; a l'examen n'hi ha prou amb valors aproximats. Observació: la pauta esmenta el Pirineu, Girona i Barcelona com a àmbits amb descens superior al 50 %, però segons les barres les **comarques centrals** també perden prop del 75 % de les explotacions; esmentar-ho és correcte. Errors típics: a l'apartat 1, explicar causes (van a l'apartat 3); a l'apartat 2, oblidar que la població activa inclou els aturats; a l'apartat 4, localitzar les àrees sense donar el factor ambiental de cadascuna (la pauta en demana almenys un per àrea) o barrejar-hi factors socioeconòmics, que aquí no es demanen."
+      }
+    },
+    {
+      "id": "geografia-2015-J-e2-B",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Text d'Oriol Nel·lo sobre la urbanització dispersa i la ciutat de baixa densitat",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "medi-ambient",
+        "territori"
+      ],
+      "conceptes": [
+        "urbanització dispersa",
+        "ciutat compacta",
+        "ciutat difusa",
+        "qualificació del sòl",
+        "edificabilitat",
+        "agents socials urbans",
+        "mobilitat",
+        "oriol nel·lo"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "**De la urbanització dispersa a la ciutat de baixa densitat**\n\nUna de les característiques més rellevants del procés d'urbanització contemporani a Catalunya i al conjunt de l'Europa meridional és, sens dubte, la dispersió d'activitats i de poblament sobre el territori. En les darreres dècades el fenomen ha crescut tant que alguns autors han pogut parlar de «ciutat estesa», de l'«explosió de la ciutat» o de la «fi de la ciutat». Aquesta dispersió comporta, certament, uns quants avantatges importants per al benestar de la població, com ara la reducció de les desigualtats territorials a l'interior de cada regió, la difusió de les formes de vida urbana i l'accessibilitat als serveis des de qualsevol punt del territori. A més, com ha explicat Francesco Indovina, avui el desenvolupament tecnològic permet l'existència de la «condició urbana», és a dir, de la qualitat de vida, el nivell d'informació i l'accés als serveis, que tradicionalment s'ha associat a la ciutat independentment de la «forma urbana».\n\nAra bé, el fet que la dispersió de la urbanització comporti avantatges i no sempre impedeixi l'existència de condicions de vida urbana no implica, de cap manera, que aquesta sigui la forma d'ús i l'ocupació del territori més sostenible, eficient i equitativa. Ans al contrari, la dispersió planteja problemes ambientals, funcionals, econòmics, socials i polítics de gran pes […].\n\nAdaptació feta a partir del text d'Oriol Nel·lo. «De la urbanització dispersa a la ciutat de baixa densitat». *Blog Oriol Nel·lo* [en línia] (24 juliol 2011)",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció B. Exercici 2 [5 punts en total]. Llegiu el text següent i responeu a les qüestions plantejades.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Resumiu les idees principals del text.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *qualificació del sòl* i *edificabilitat*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Compareu la morfologia de les ciutats compactes amb la de les ciutats de baixa densitat d'acord amb l'esquema següent:\n\n- El consum de sòl.\n- La mobilitat de la població.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Identifiqueu els principals tipus d'agents socials urbans i comenteu la influència que tenen en la creació de l'espai urbà.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari d'un text geogràfic (5 punts, uns 40-45 minuts): **1** resum de les idees principals (1 punt, 0,25 per idea o per la cita de la font), **2** dues definicions d'urbanisme (1 punt), **3** comparació ciutat compacta / ciutat de baixa densitat amb dos guions (1,5 punts), **4** agents socials urbans (1,5 punts, 0,5 per agent ben explicat).\n\nAl resum, no copiïs frases senceres: reformula-les amb les teves paraules, en un paràgraf breu (6-8 línies), i cita l'autor, el tipus de text i la data. A la comparació, contraposa sempre les dues ciutats en cada guió."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "El text té dos paràgrafs i quatre idees, més la font:\n\n1. La **dispersió** d'activitats i població (la «ciutat estesa») és el tret principal de la urbanització actual a Catalunya i a l'Europa del sud.\n2. **Avantatges**: menys desigualtats territorials, difusió de la vida urbana, accés als serveis des de tot el territori.\n3. Gràcies a la **tecnologia**, la «condició urbana» (qualitat de vida, informació, serveis) ja no depèn de viure en una ciutat compacta (idea d'Indovina).\n4. **Però** la dispersió no és sostenible, eficient ni equitativa: crea problemes ambientals, funcionals, econòmics, socials i polítics.\n5. **Font**: entrada del blog d'Oriol Nel·lo, geògraf, del 2011."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El text, adaptat d'una entrada del blog del geògraf **Oriol Nel·lo** (2011), analitza la urbanització dispersa. L'autor afirma que el tret més destacat de la urbanització actual a Catalunya i a l'Europa del sud és la **dispersió de la població i de les activitats** pel territori, fins al punt que s'ha parlat de «ciutat estesa» o de «fi de la ciutat». Reconeix que aquest model té **avantatges**: redueix les desigualtats territorials dins de cada regió, estén les formes de vida urbanes i permet accedir als serveis des de qualsevol lloc. A més, la **tecnologia** fa possible gaudir de la «condició urbana» (qualitat de vida, informació, serveis) sense viure en una ciutat tradicional. Tanmateix, Nel·lo conclou que la dispersió **no és la forma més sostenible, eficient ni equitativa** d'ocupar el territori, perquè genera greus problemes ambientals, funcionals, econòmics, socials i polítics."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Són dos conceptes del planejament urbanístic que sovint es confonen: la **qualificació** diu **quin ús** pot tenir un sòl (residencial, industrial, equipaments, zona verda...), i l'**edificabilitat** diu **quant** s'hi pot construir (m² de sostre per m² de sòl). Tots dos els fixa el pla urbanístic. No confonguis la qualificació amb la **classificació** del sòl (urbà, urbanitzable, no urbanitzable)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Qualificació del sòl**: assignació, per mitjà d'un pla territorial o urbanístic (com el pla d'ordenació urbanística municipal), d'un ús concret i d'unes condicions d'ordenació a cada peça de terreny: residencial, industrial, comercial, d'equipaments, de zona verda, agrícola, etc. És diferent de la classificació (sòl urbà, urbanitzable o no urbanitzable).\n\n**Edificabilitat**: volum o superfície de construcció que el pla urbanístic permet aixecar en un terreny o solar, i que es sol expressar en metres quadrats de sostre per metre quadrat de sòl; determina quantes cases o pisos s'hi poden construir i, per tant, la densitat i el valor del sòl."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos guions, comparant en cada un:\n\n- **Consum de sòl / morfologia** (0,5 + 0,5): ciutat compacta → alta densitat, teixit dens, blocs de pisos plurifamiliars en alçada, barreja d'usos i intensitat d'activitats, poc consum de sòl. Ciutat de baixa densitat → creixement extensiu i dispers, habitatges unifamiliars (ciutat jardí, urbanitzacions), segregació d'usos, gran ocupació de territori, espais verds privats, homogeneïtat social.\n- **Mobilitat** (0,5): compacta → distàncies curtes, a peu, en bicicleta i en transport públic, més sostenible; dispersa → desplaçaments llargs i dependència del cotxe privat, més consum d'energia, emissions i congestió, i transport públic poc viable."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**Consum de sòl.** La **ciutat compacta**, pròpia de la tradició mediterrània, té una **densitat de població elevada** i un teixit urbà dens, on els edificis queden molt junts i deixen poc espai lliure. Hi predominen els **habitatges plurifamiliars** (blocs de pisos), que guanyen alçada per aprofitar el sòl, i hi ha una **barreja d'usos** (habitatge, comerç, serveis, oficines) i una gran intensitat d'activitats. Per tant, **consumeix poc sòl** per habitant. La **ciutat de baixa densitat** o difusa, en canvi, té un teixit poc dens (model de **ciutat jardí**, urbanitzacions d'habitatges unifamiliars aïllats o adossats) i creix de manera **extensiva i dispersa**, amb una baixa densitat d'edificació. Els usos estan **segregats** (zones residencials, polígons industrials, centres comercials separats), hi abunden els espais verds privats i es tracta d'espais socialment homogenis. Això comporta una **ocupació molt elevada de territori**, que fa desaparèixer sòl agrícola i espais naturals i fragmenta el paisatge.\n\n**Mobilitat de la població.** A la ciutat compacta, la concentració de població, serveis i activitats en una àrea reduïda **escurça les distàncies**: molts desplaçaments es fan a peu o en bicicleta, i la densitat fa rendible el **transport col·lectiu** (metro, autobús, tren), de manera que la mobilitat és **més sostenible**. A la ciutat de baixa densitat, la gran extensió del poblament obliga a fer **desplaçaments diaris llargs** (a la feina, a l'escola, a comprar), que es fan majoritàriament en **vehicle privat**, perquè el transport públic no és viable amb tan poca densitat. El resultat és un gran **consum d'energia**, més **emissions de gasos d'efecte d'hivernacle**, congestió de les vies d'accés i més dificultats per a les persones que no poden conduir (infants, gent gran)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Identifica **quatre agents** i, per a cada un, quin objectiu té i com transforma l'espai urbà (0,5 per agent, màxim 1,5): **propietaris del sòl i promotors immobiliaris** (plusvàlues), **empresaris** (localització d'activitats i infraestructures), **ciutadans** (demandes, moviments veïnals), **poders públics** (planejament urbanístic, qualificació, equipaments). Un bon tancament: la ciutat és el resultat de la interacció, sovint conflictiva, entre aquests interessos."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "L'espai urbà és el resultat de l'actuació d'uns **agents socials** amb interessos diferents i sovint contraposats.\n\n- **Propietaris del sòl i promotors immobiliaris**: els propietaris del sòl busquen revaloritzar els seus terrenys, i els promotors projecten i construeixen edificis en sòl que posseeixen o adquireixen. El seu objectiu és obtenir **plusvàlues** amb la compravenda de sòl i d'habitatges, i per això pressionen perquè es requalifiquin terrenys i augmenti l'edificabilitat; han impulsat, per exemple, moltes urbanitzacions de baixa densitat.\n- **Empresaris**: amb la **localització** de les seves fàbriques, oficines, centres comercials o logístics, i de les infraestructures que necessiten, transformen la ciutat i en determinen l'expansió (polígons industrials, parcs empresarials, àrees comercials a la perifèria).\n- **Ciutadans**: a més de ser usuaris de la ciutat, a través dels **moviments socials** i de les associacions de veïns reclamen habitatge, transport, equipaments i zones verdes, i pressionen la resta d'agents (per exemple, les lluites veïnals dels anys setanta a Barcelona).\n- **Poders públics** (ajuntaments, Generalitat, Estat): mitjançant el **planejament urbanístic** classifiquen i qualifiquen el sòl, fixen l'edificabilitat i els usos de cada peça i, per tant, configuren la morfologia del teixit urbà; a més, construeixen equipaments, infraestructures i habitatge públic.\n\nLa forma de la ciutat depèn de l'equilibri entre aquests agents: quan predominen els interessos especulatius es tendeix a la dispersió, i quan l'administració planifica amb criteris d'interès general es pot afavorir una ciutat més compacta i sostenible."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "La dispersió d'activitats i poblament (ciutat estesa) és el tret més rellevant de la urbanització contemporània; avantatges: menys desigualtats territorials, difusió de la vida urbana i accés als serveis; la tecnologia permet la «condició urbana» fora de la ciutat tradicional; però la dispersió comporta problemes ambientals, funcionals, econòmics, socials i polítics; font: blog d'Oriol Nel·lo, 2011 (0,25 per idea o cita de la font, màx. 1)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Qualificació del sòl: assignació d'un ús concret (residencial, industrial, agrícola...) a una peça de terreny per mitjà d'un pla territorial o urbanístic (0,5). Edificabilitat: volum de construcció que permet el pla urbanístic, o quantitat d'habitatges que es poden construir en un solar (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Compacta: densitat alta, teixit dens, habitatges plurifamiliars en alçada, intensitat d'activitats (0,5). Baixa densitat: teixit poc dens (ciutat jardí), creixement extensiu i dispers, segregació d'usos, gran ocupació del territori, espais verds privats, homogeneïtat social (0,5). Mobilitat: la compacta escurça distàncies i facilita el transport col·lectiu (més sostenible); la dispersa obliga a desplaçaments en vehicle privat, amb molt consum d'energia i emissions (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Propietaris del sòl i promotors immobiliaris (plusvàlues); empresaris (localització d'instal·lacions i infraestructures); ciutadans (moviments socials que reclamen habitatge, transport, serveis); poders públics (planejament urbanístic: usos del sòl i morfologia urbana). 0,5 per aportació fins a 1,5."
+          }
+        ],
+        "nota": "Al resum (apartat 1), citar l'autor i la font també puntua (0,25). No el converteixis en un comentari ni hi afegeixis opinions. Errors típics: confondre qualificació del sòl (ús) amb classificació del sòl (urbà / urbanitzable / no urbanitzable) i edificabilitat amb densitat de població; a l'apartat 3, descriure les dues ciutats per separat sense comparar-les; a l'apartat 4, limitar-se a enumerar els agents sense explicar com influeixen en l'espai urbà (és el que puntua)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "examen": {
+    "id": "geografia-2019-S",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2019,
+    "convocatoria": "setembre",
+    "serie": "5",
+    "pdf_examen": "pdfs/geografia/2019-S-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2019-S-solucio.pdf",
+    "estructura": "Sèrie 5. La prova té una part comuna obligatòria (exercicis 1 i 2, de 2 punts cadascun; 4 punts) i una part optativa en què cal escollir DOS dels tres exercicis 3, 4 i 5 (3 punts cadascun; 6 punts); no es poden barrejar preguntes de diferents exercicis. Total 10 punts. Cada exercici parteix d'un document i té dues o tres preguntes: exercici 1, piràmides d'edats de la població espanyola i estrangera de Catalunya (2010); exercici 2, text sobre la UE i la crisi migratòria; exercici 3, gràfics de l'arribada de turistes i la despesa a Espanya (2012-2016); exercici 4, taula de l'agricultura ecològica a Europa (2016), agricultura de mercat i PAC; exercici 5, mapa del risc d'inundacions a Catalunya (2008). No hi ha opcions A/B: cada exercici és un element amb les seves preguntes com a apartats (opcio null). Les pautes valoren, a més dels continguts, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2019-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "5",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Piràmides d'edats de la població espanyola i estrangera de Catalunya (2010)",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "piràmide d'edats",
+        "immigració",
+        "població estrangera",
+        "taxa de masculinitat",
+        "reagrupament familiar",
+        "migracions econòmiques",
+        "comentari de piràmide"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "",
+      "enunciat": "Part comuna (obligatòria). Exercici 1 [2 punts en total].\n\nEl col·lectiu estranger suposa més del 16 % de la població empadronada a Catalunya. A continuació, podem observar un gràfic de la població de Catalunya de l'any 2010 que permet comparar la piràmide d'edats de la població estrangera amb la local.",
+      "figures": [
+        {
+          "src": "img/geografia/2019-S/e1.png",
+          "peu": "Piràmides de la població segons la nacionalitat. Catalunya (2010). Dues piràmides d'edats superposades (homes a l'esquerra, dones a la dreta), en % de població per edats simples de 0 a 100 i més anys: nacionalitat espanyola (gris clar) i nacionalitat estrangera (negre). Efectius rotulats: nacionalitat espanyola 3.079.270 homes i 3.234.573 dones; nacionalitat estrangera 645.245 homes i 553.293 dones. La piràmide estrangera té la base estreta, un eixamplament molt marcat entre els 25 i els 40 anys (màxim cap als 30-34 anys, prop del 3,5 % en els homes) i una cúspide gairebé inexistent. Font: Institut d'Estadística de Catalunya (Idescat). Padró continu de l'INE (1 de gener de 2010)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Quina és la franja d'edat predominant de la població estrangera? Per què és precisament aquesta franja d'edat?",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Observeu la diferència que hi ha entre sexes a la franja d'edat predominant de la població estrangera i expliqueu per què es produeix aquest desequilibri.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici obligatori de 2 punts (uns 15-20 minuts). Són dues preguntes curtes, d'1 punt cadascuna, que combinen **lectura del gràfic** (quina franja, quina diferència) i **explicació** (per què). Cada pregunta té dues meitats de 0,5 punts a la pauta: no et quedis només en la lectura.\n\nLlegeix bé el gràfic: hi ha **dues piràmides superposades**; la negra és la de la població **estrangera** i la grisa, la de nacionalitat espanyola. A l'esquerra hi ha els homes i a la dreta les dones (icones de dalt). Les xifres de la part superior són els efectius totals de cada grup, i serveixen per calcular la proporció d'homes."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Lectura** (0,5): la franja predominant és la dels **adults joves, d'uns 25 a 40 anys, amb el màxim al voltant dels 30-34 anys**: població jove en edat de treballar. Contrasta-ho amb la base estreta (pocs infants) i la cúspide gairebé inexistent (pocs grans).\n2. **Causa** (0,5): és una **immigració econòmica**: el motiu principal és la cerca de feina i de millors condicions de vida, i els adults joves són els que tenen més disposició i capacitat per emigrar."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "A partir dels efectius rotulats (verificat amb Python):\n\n| | Homes | Dones | Total |\n|---|---|---|---|\n| Nacionalitat espanyola | 3.079.270 | 3.234.573 | 6.313.843 |\n| Nacionalitat estrangera | 645.245 | 553.293 | **1.198.538** |\n| Total | | | 7.512.381 |\n\nPes de la població estrangera = 1.198.538 / 7.512.381 × 100 ≈ **16,0 %**."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "La piràmide de la població estrangera té una forma molt diferent de la de la població de nacionalitat espanyola: una base estreta, un **eixamplament molt marcat entre els 25 i els 40 anys**, amb el màxim al voltant dels **30-34 anys** (prop del 3,5 % en els homes), i una cúspide pràcticament inexistent, ja que gairebé no hi ha estrangers de més de 65 anys. La franja predominant és, doncs, la dels **adults joves en edat de treballar**.\n\nAixò s'explica perquè es tracta sobretot d'una **immigració econòmica**: el motiu principal que mou aquestes persones és la **cerca de feina** i de millors condicions de vida que les del seu país d'origen. Els adults joves són els que tenen més disposició a emigrar, perquè estan en plena edat laboral, encara no tenen càrregues familiars o les poden deixar temporalment al país d'origen, i poden assumir els riscos i el cost del desplaçament. A Catalunya, l'arribada massiva d'immigrants es va produir sobretot entre el 2000 i el 2008, atreta per la demanda de mà d'obra de la construcció, els serveis i l'agricultura."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Lectura** (0,5): a la franja de 25-40 anys hi ha clarament **més homes que dones** (la barra negra és més llarga a l'esquerra). Dona-ho amb xifres: en conjunt, 645.245 homes per 553.293 dones.\n2. **Causa** (0,5): patrons culturals de les societats d'origen i tipus de feina (construcció, agricultura); **sovint emigra primer l'home** i, un cop establert, fa venir la família per **reagrupament familiar** (patró habitual en la immigració del Magrib, la més nombrosa)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Càlculs",
+            "cos": "Taxa de masculinitat = homes / dones × 100 (verificat amb Python):\n\n| | Homes | Dones | Homes per cada 100 dones |\n|---|---|---|---|\n| Nacionalitat estrangera | 645.245 | 553.293 | **116,6** |\n| Nacionalitat espanyola | 3.079.270 | 3.234.573 | **95,2** |\n\nEntre els estrangers hi ha uns 92.000 homes més que dones; entre la població de nacionalitat espanyola, en canvi, predominen les dones (per la seva esperança de vida més alta)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "A la franja d'edat predominant de la població estrangera hi ha una **diferència notable entre sexes**: els homes de 25 a 40 anys arriben a percentatges propers al 3,5 %, mentre que les dones de la mateixa edat queden per sota del 3 %. En conjunt hi ha 645.245 homes estrangers i 553.293 dones, és a dir, uns **117 homes per cada 100 dones**, mentre que entre la població de nacionalitat espanyola predominen lleugerament les dones (95 homes per cada 100 dones).\n\nAquest desequilibri s'explica, d'una banda, pel **tipus de feina** que ofereix el país d'acollida als immigrants: molts llocs de treball són en sectors molt masculinitzats, com la **construcció** (en ple creixement fins al 2008) o l'**agricultura**. De l'altra, pels **patrons culturals de les societats d'origen**: sovint és l'**home qui emigra primer** a la recerca de feina i, quan s'ha establert i té feina i habitatge, fa venir la dona i els fills per mitjà del **reagrupament familiar**. Aquest patró és molt habitual en les societats del **nord d'Àfrica** (sobretot el Marroc) i d'altres zones d'Àfrica i d'Àsia (Pakistan), que aporten una part molt important de la immigració a Catalunya. En canvi, en altres col·lectius, com alguns de llatinoamericans, la immigració és més femenina, vinculada a les feines de cura de persones i de servei domèstic, cosa que compensa en part el desequilibri."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Edat predominant al voltant dels 30 anys: població jove en edat de treballar (0,5). Causa: la cerca de feina és el principal motiu de la immigració, i els adults joves són els més disposats a emigrar per millorar les condicions de vida (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Clar predomini dels homes; motius: patrons culturals de les societats d'origen i tipus de feina (agricultura, construcció) (0,5). Sovint l'home emigra primer i després fa venir la família (reagrupament), patró molt habitual en la immigració nord-africana (0,5)."
+          }
+        ],
+        "nota": "Errors típics: confondre les dues piràmides (la negra és la de la població estrangera); descriure sense explicar el perquè (cada pregunta reserva 0,5 punts a la causa); no donar xifres. Observació: l'enunciat diu que els estrangers són «més del 16 %» de la població, però amb les xifres del mateix gràfic surt el 15,95 % (≈ 16 %); la xifra del 16 % i escaig correspon a altres anys o fonts. Si vols lluir-te, calcula la taxa de masculinitat (116,6 homes per 100 dones entre els estrangers)."
+      }
+    },
+    {
+      "id": "geografia-2019-S-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "5",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Text sobre la Unió Europea i la crisi migratòria (2015-2016): requisits d'adhesió i problemes",
+      "tema": "territori",
+      "temes_secundaris": [
+        "poblacio",
+        "mon"
+      ],
+      "conceptes": [
+        "unió europea",
+        "criteris de copenhaguen",
+        "criteris de convergència",
+        "zona euro",
+        "crisi dels refugiats",
+        "asil",
+        "xenofòbia",
+        "comentari de text"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "**La Unió Europea i la crisi migratòria**\n\nEl 2015 i el 2016, la Unió Europea (UE) va experimentar una afluència sense precedents de refugiats i migrants. Més d'un milió de persones van arribar a la UE, la majoria fugint de la guerra i el terror a Síria i altres països.\n\nLa UE ha acordat una sèrie de disposicions per a afrontar la crisi. Aquestes mesures inclouen tractar de resoldre les causes fonamentals de la crisi, així com augmentar enormement l'ajuda a les persones que necessiten assistència humanitària, tant dins com fora de la UE. S'estan prenent mesures per a traslladar els sol·licitants d'asil a Europa, recol·locar les persones que ho necessiten dels països veïns i retornar les que no tenen dret a asil. La UE està millorant la seguretat a les fronteres, aborda el contraban de migrants i ofereix maneres segures perquè les persones hi entrin legalment.\n\n*Traducció feta a partir del text de la Unió Europea* The EU and the migrant crisis, *2017*",
+      "enunciat": "Part comuna (obligatòria). Exercici 2 [2 punts en total]. Llegiu el text i responeu a les qüestions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Quins requisits polítics i econòmics són necessaris per a formar part de la UE?",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Quins problemes han sorgit a la UE arran de la crisi dels migrants?",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici obligatori de 2 punts (uns 15-20 minuts). El text serveix de context, però **no cal resumir-lo**: les dues preguntes demanen coneixements sobre la UE.\n\n- La pregunta 1 té dues meitats de 0,5: **requisits polítics** i **requisits econòmics**. Si en falta una, es perd la meitat de la nota.\n- La pregunta 2 també té dues parts: l'**oposició social** (racisme, xenofòbia, auge de l'extrema dreta) i l'**oposició d'alguns estats** a acollir refugiats tot i els acords de la UE.\n\nResposta en dos paràgrafs per pregunta, amb vocabulari precís (estat de dret, economia de mercat, quotes de reubicació, espai Schengen)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Són els **criteris de Copenhaguen** (1993):\n\n1. **Polítics** (0,5): institucions estables que garanteixin la **democràcia**, l'**estat de dret**, els **drets humans** i el respecte i la protecció de les minories.\n2. **Econòmics** (0,5): una **economia de mercat** que funcioni i que sigui capaç de fer front a la **competència** del mercat interior de la UE. Per entrar a la **zona euro**, a més, cal complir els **criteris de convergència** de Maastricht (inflació, dèficit, deute públic, tipus d'interès i estabilitat del canvi).\n\nSi vols, afegeix-hi el requisit jurídic (adoptar l'acervo comunitari) i el geogràfic (ser un estat europeu)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "Per formar part de la Unió Europea, un estat ha de ser europeu i complir els anomenats **criteris de Copenhaguen**.\n\nEls **requisits polítics** obliguen els països candidats a tenir un **sistema polític democràtic** amb institucions estables que garanteixin l'**estat de dret**: han d'acceptar els principis de **llibertat, democràcia i respecte als drets humans** i a les llibertats fonamentals, i protegir les minories.\n\nEls **requisits econòmics** consisteixen a tenir una **economia de lliure mercat** que funcioni i que sigui capaç de fer front a la **competència** i a les forces del mercat dins la Unió. A més, el candidat ha d'adoptar tota la legislació comunitària (l'acervo comunitari). Per formar part de la **zona euro**, cal complir també els **criteris de convergència** del Tractat de Maastricht: inflació i **tipus d'interès** baixos, un **dèficit públic** inferior al 3 % del PIB, un **deute públic** inferior al 60 % del PIB i **estabilitat del tipus de canvi** de la moneda pròpia."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos blocs de problemes (0,5 + 0,5):\n\n1. **Dins de cada estat**: oposició de part de la societat a acollir immigrants i refugiats, sovint per **racisme i xenofòbia**; creixement de partits **populistes i d'extrema dreta** contraris a la immigració.\n2. **Entre els estats**: alguns estats (**Hongria, Polònia**, República Txeca, Eslovàquia) es neguen a acollir els refugiats que els corresponien segons les **quotes de reubicació** acordades a la UE; tensions sobre el repartiment de la càrrega amb els països d'arribada (Grècia, Itàlia), tancament de fronteres i controls interns que qüestionen l'**espai Schengen**.\n\nEs pot afegir el drama humanitari a la Mediterrània i l'acord polèmic amb Turquia (2016)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "L'arribada de més d'un milió de refugiats i migrants el 2015 i el 2016 va obrir una crisi política a la UE.\n\nD'una banda, a l'**interior de molts estats** va créixer l'**oposició de grups socials** a l'acollida d'immigrants estrangers, sovint per posicions **racistes i xenòfobes** o per la por a la competència laboral i a la pèrdua d'identitat. Aquest malestar ha afavorit l'ascens de **partits populistes i d'extrema dreta** contraris a la immigració en països com Hongria, Itàlia, França, Alemanya o Àustria.\n\nDe l'altra, hi ha hagut **divisions entre els estats membres**. Alguns, com **Hongria, Polònia**, la República Txeca o Eslovàquia, s'han negat a acollir els sol·licitants d'asil que els corresponien segons les **quotes de reubicació** acordades per la UE, mentre que els països d'arribada, com **Grècia i Itàlia**, han suportat la major part de la pressió. Alguns estats han aixecat tanques i han restablert **controls a les fronteres interiors**, cosa que posa en qüestió la lliure circulació de l'**espai Schengen**. A més, la UE ha estat criticada per la gestió humanitària: milers de persones han mort a la Mediterrània i l'acord amb Turquia del 2016 per retornar-hi migrants va ser molt polèmic."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Polítics: sistema democràtic; acceptar la llibertat, la democràcia, el respecte als drets humans i les llibertats fonamentals de l'estat de dret (0,5). Econòmics: economia de lliure mercat capaç de fer front a la competència; per a la zona euro, convergència en dèficit, deute públic, inflació, tipus d'interès i estabilitat del canvi (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Oposició de grups socials de cada estat a l'acollida d'immigrants, sovint per racisme i xenofòbia (0,5). Oposició d'alguns estats (Hongria, Polònia...) a acollir immigrants malgrat els acords de la UE (0,5)."
+          }
+        ],
+        "nota": "Errors típics: resumir el text en lloc de respondre; a la pregunta 1, donar només els requisits polítics o confondre els requisits per entrar a la UE amb els de l'euro (aquests darrers són un pas posterior, i és bo distingir-los); a la pregunta 2, parlar dels problemes dels migrants (que també és pertinent) però oblidar les dues tensions que valora la pauta: el rebuig social i la negativa d'alguns estats a acollir refugiats."
+      }
+    },
+    {
+      "id": "geografia-2019-S-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "5",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Gràfics de l'arribada de turistes internacionals i la despesa per turista a Espanya (2012-2016)",
+      "tema": "serveis",
+      "temes_secundaris": [
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "turisme",
+        "turisme de sol i platja",
+        "potència turística",
+        "impacte ambiental del turisme",
+        "despesa turística",
+        "egatur",
+        "comentari de gràfic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "",
+      "enunciat": "Part optativa: escolliu DOS dels exercicis 3, 4 i 5. Exercici 3 [3 punts en total].\n\nLa despesa dels turistes estrangers continua augmentant. Els que van visitar Espanya el 2017 van gastar 82.293 milions d'euros en els onze primers mesos de l'any. D'aquesta manera, se superava la despesa total dels turistes estrangers que havien visitat el país en tot el 2016 (77.625 milions d'euros), segons l'enquesta Egatur difosa per l'Institut Nacional d'Estadística (INE). Els gràfics següents mostren l'increment tant en el nombre d'arribades com en la despesa mitjana per turista entre 2012 i 2016.",
+      "figures": [
+        {
+          "src": "img/geografia/2019-S/e3.png",
+          "peu": "El mercat turístic a Espanya (2012-2016). Esquerra: arribada de turistes internacionals, línia del total en milions (57,5; 60,7; 64,9; 68,2; 75,3) i barres de la variació anual (2,3 %; 5,6 %; 7,0 %; 5,1 %; 9,9 %). Dreta: despesa mitjana per turista en euros, durant l'estada (línia contínua: 941; 977; 971; 986; 1.023) i al dia (línia discontínua: 105; 109; 109; 113; 138). Font: «España supera por primera vez los 75 millones de turistas extranjeros». El País [en línia] (12 gener 2017)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Exposeu les causes principals de l'increment del turisme estranger que mostra el primer gràfic. Indiqueu quins són els principals països de procedència dels turistes estrangers i comenteu la posició d'Espanya com a potència turística mundial.",
+          "punts": 1.5
+        },
+        {
+          "id": "2",
+          "enunciat": "Expliqueu la rellevància de l'activitat turística a Espanya tenint en compte els aspectes següents:\n\n- Quina és la importància econòmica del turisme?\n- Quin impacte té el turisme sobre el paisatge?",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts (uns 25-30 minuts): dues preguntes d'1,5 punts. No hi ha una pregunta de descripció del gràfic, però és bo **citar-ne les xifres** per justificar l'explicació (de 57,5 a 75,3 milions de turistes).\n\n- Pregunta 1: tres coses (causes; països de procedència; posició mundial). La pauta dona 0,75 a les causes i 0,75 a la procedència i la posició.\n- Pregunta 2: dos guions, un paràgraf per guió (0,75 + 0,75). A l'impacte sobre el paisatge cal esmentar **almenys quatre impactes** diferents per tenir la nota màxima."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Dades** (breument): els turistes passen de 57,5 milions (2012) a 75,3 (2016), +31 %; la despesa per turista també augmenta.\n2. **Causes** (0,75): oferta competitiva respecte d'altres destinacions: **clima mediterrani** (sol i platja), **preus competitius**, bones infraestructures i connexions (vols de baix cost), patrimoni i turisme urbà i, sobretot, la **inestabilitat i els conflictes** de destinacions competidores de la Mediterrània (Turquia, Egipte, Tunísia, Grècia) després de la Primavera Àrab i els atemptats: Espanya és vista com una destinació **segura**.\n3. **Procedència** (dins el 0,75 restant): Regne Unit, Alemanya i França; després Itàlia, Països Baixos, països nòrdics; alguns anys, Rússia i l'Europa de l'Est.\n4. **Posició mundial**: el 2017 Espanya és la **2a** del món en arribades, darrere de França, i la 2a en ingressos, darrere dels EUA."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "A partir dels valors del gràfic (verificat amb Python):\n\n| Any | Turistes (milions) | Variació anual (gràfic) | Variació recalculada | Despesa per turista i estada (€) | Despesa per dia (€) | Estada mitjana (estada / dia) |\n|---|---|---|---|---|---|---|\n| 2012 | 57,5 | 2,3 % | — | 941 | 105 | ≈ 9,0 dies |\n| 2013 | 60,7 | 5,6 % | 5,6 % | 977 | 109 | ≈ 9,0 dies |\n| 2014 | 64,9 | 7,0 % | 6,9 % | 971 | 109 | ≈ 8,9 dies |\n| 2015 | 68,2 | 5,1 % | 5,1 % | 986 | 113 | ≈ 8,7 dies |\n| 2016 | 75,3 | 9,9 % | 10,4 % | 1.023 | 138 | ≈ 7,4 dies |\n\nVariació 2012-2016 = (75,3 − 57,5) / 57,5 × 100 ≈ **+31,0 %**. Despesa per estada: +8,7 %; despesa diària: (138 − 105) / 105 × 100 ≈ **+31,4 %**. Comprovació: 75,3 milions × 1.023 € ≈ 77.000 milions d'euros, coherent amb els 77.625 milions de despesa total del 2016 que dona el text."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El primer gràfic mostra un **creixement continuat** de l'arribada de turistes internacionals a Espanya, que passa de **57,5 milions el 2012 a 75,3 milions el 2016** (un 31 % més), amb un augment especialment fort el 2016 (gairebé un 10 %). Les causes principals són l'**oferta competitiva** d'Espanya respecte d'altres destinacions semblants. D'una banda, les **bones condicions climàtiques** del clima mediterrani, amb estius llargs i assolellats, que sostenen el turisme de **sol i platja**, i un **patrimoni cultural** i unes ciutats (Barcelona, Madrid) molt atractives. De l'altra, uns **preus competitius**, una gran oferta hotelera, bones connexions aèries (companyies de baix cost) i, sobretot, la **seguretat**: els **conflictes** i els atemptats que han afectat destinacions competidores de la conca mediterrània (**Turquia, Egipte, Tunísia** o, per la crisi, Grècia) han desviat molts turistes cap a Espanya.\n\nLa major part dels turistes procedeixen de la **Unió Europea**: el **Regne Unit**, **Alemanya** i **França** són els tres primers mercats emissors, seguits dels països nòrdics, Itàlia, els Països Baixos i Bèlgica; alguns anys també és significativa l'arribada de turistes de l'**Europa de l'Est**, sobretot de **Rússia**, i creixen els procedents dels Estats Units i d'Àsia.\n\nEspanya és una de les **principals potències turístiques del món**: actualment ocupa el **segon lloc en arribades de turistes estrangers, darrere de França** (el 2017 va superar els Estats Units, amb més de 80 milions de turistes), i també és la segona en ingressos per turisme internacional, darrere dels Estats Units."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Importància econòmica** (0,75): més del **10 % del PIB**; gran pes en l'**ocupació** (al voltant del 12-13 % dels ocupats); ingressos en **divises** que compensen el dèficit comercial; **efecte multiplicador** sobre la construcció, el comerç, els transports i altres serveis. Pots afegir-hi els punts febles (estacionalitat, precarietat).\n2. **Impacte sobre el paisatge** (0,75, almenys **quatre impactes**): urbanització extensiva del litoral i de la muntanya; degradació paisatgística (edificis pantalla, continus urbans); alteració d'ecosistemes fràgils (litoral, dunes, aiguamolls, alta muntanya); augment del consum d'aigua (sobreexplotació d'aqüífers); increment dels residus i de la contaminació; massificació dels centres urbans."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Importància econòmica.** El turisme és una de les activitats econòmiques més importants d'Espanya: aporta un percentatge molt alt del **PIB (superior al 10 %)** i té un gran pes en l'**ocupació**, ja que dona feina directament o indirectament a més d'un 12 % dels treballadors. Els ingressos dels turistes estrangers (77.625 milions d'euros el 2016) aporten **divises** que permeten compensar el dèficit de la balança comercial. A més, té una important **capacitat de dinamització** d'altres sectors, com la **construcció**, el **comerç**, l'hostaleria i la restauració, els **transports** i les activitats culturals i d'oci. Com a punts febles, l'ocupació que genera és sovint **estacional** i precària, i algunes zones depenen excessivament d'aquest monocultiu turístic.\n\n**Impacte sobre el paisatge.** En les localitats on hi ha un turisme massiu, l'activitat turística ha produït efectes negatius importants. El més visible és l'**ocupació extensiva de l'espai per la urbanització**: hotels, apartaments, segones residències i infraestructures han format continus urbans a primera línia de mar, amb **edificis pantalla** que provoquen una gran **degradació paisatgística**. També ha provocat l'**alteració d'ecosistemes fràgils**, com les platges, les dunes i els aiguamolls del litoral, o els ecosistemes d'alta muntanya transformats per les estacions d'esquí. La concentració de visitants a l'estiu fa **augmentar el consum de recursos** com l'aigua potable, cosa que porta a la sobreexplotació i la salinització dels aqüífers costaners, i fa créixer la generació de **residus** i la contaminació. Finalment, a les ciutats (Barcelona) la **massificació** transforma els barris històrics, amb la substitució del comerç tradicional i de l'habitatge per botigues de records i pisos turístics."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Causes: oferta competitiva: clima mediterrani, preus competitius i absència dels conflictes que han afectat altres destinacions mediterrànies (Turquia, Grècia, Tunísia, Egipte) (0,75). Procedència: majoritàriament UE (Regne Unit, Alemanya, França) i, alguns anys, Europa de l'Est (Rússia); Espanya, 2a potència turística mundial en arribades, darrere de França (0,75)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Economia: més del 10 % del PIB, gran pes en l'ocupació, dinamització d'altres sectors (construcció, serveis, transports) (0,75). Paisatge: almenys quatre impactes: urbanització extensiva, degradació paisatgística, alteració d'ecosistemes fràgils (litoral, alta muntanya), augment del consum d'aigua, increment dels residus (0,75)."
+          }
+        ],
+        "nota": "Discrepància del document: la barra de variació del 2016 diu 9,9 %, però amb els totals del mateix gràfic (68,2 → 75,3 milions) surt un 10,4 %; probablement les xifres del 2016 eren provisionals. No afecta la resposta. Errors típics: explicar l'augment només pel clima (el clima no canvia d'un any a l'altre; el que explica l'increment recent és sobretot la inestabilitat dels competidors i els preus); confondre la despesa per turista i estada amb la despesa diària; a la pregunta 2, citar menys de quatre impactes paisatgístics (la pauta n'exigeix quatre per a la nota màxima). Sobre la posició mundial, la pauta diu 2a darrere de França (dada del 2017); en anys anteriors Espanya havia estat 3a, darrere de França i els EUA: qualsevol de les dues, ben raonada, és acceptable."
+      }
+    },
+    {
+      "id": "geografia-2019-S-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "5",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Taula de la superfície d'agricultura ecològica a Europa (2016), agricultura de mercat i PAC",
+      "tema": "primari",
+      "temes_secundaris": [
+        "territori",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "agricultura ecològica",
+        "agricultura de mercat",
+        "política agrària comuna",
+        "pac",
+        "productivitat agrària",
+        "mecanització",
+        "desenvolupament rural",
+        "comentari de taula"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        9,
+        10,
+        11
+      ],
+      "text": "",
+      "enunciat": "Part optativa: escolliu DOS dels exercicis 3, 4 i 5. Exercici 4 [3 punts en total].\n\nA la Unió Europea (UE), la superfície destinada a la producció agrícola ecològica ha augmentat bastant en els darrers anys. Els sistemes d'etiquetatge de qualitat de la UE indiquen l'origen geogràfic dels productes i l'ús d'ingredients o mètodes tradicionals en l'elaboració, incloent-hi la producció ecològica. La taula següent mostra la superfície destinada a l'agricultura ecològica en cada país.",
+      "figures": [
+        {
+          "src": "img/geografia/2019-S/e4.png",
+          "peu": "L'agricultura ecològica a Europa (2016). Taula de la superfície destinada a l'agricultura ecològica, en hectàrees: Espanya 2.018.802; Itàlia 1.796.333; França 1.537.351; Alemanya 1.135.941; Àustria 571.423; Suècia 552.695; Polònia 536.579; Regne Unit 490.025; República Txeca 488.591; Total 9.127.740. Font: elaboració pròpia a partir de dades publicades per l'Eurostat."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Quins requisits, quant al conreu i a la transformació dels productes, ha de complir l'agricultura ecològica o orgànica per a rebre aquesta qualificació?",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Expliqueu, en relació amb els aspectes esmentats en la taula següent, les característiques principals de l'agricultura de mercat que es desenvolupa a Europa.\n\n| Aspecte | Característiques |\n|---|---|\n| Població activa agrària | |\n| Productivitat | |\n| Mecanització | |",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "La Unió Europea fa anys que destina una part important del seu pressupost al suport de l'activitat agrícola. Per mitjà de quines polítiques ho fa i amb quins objectius?",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts (uns 25-30 minuts), tres preguntes d'1 punt. La taula és el punt de partida, però les preguntes són de coneixements: **requisits de l'agricultura ecològica** (conreu + transformació), **trets de l'agricultura de mercat** (omplint la taula de l'examen) i **la PAC** (instruments + objectius).\n\nA la pregunta 1, la pauta només dona la nota màxima si es parla dels **dos tipus de requisits** (conreu i transformació). A la pregunta 2, la població activa agrària val 0,5 i cal donar una xifra (menys del 3-5 % dels actius). A la pregunta 3, els ajuts valen 0,5 i els objectius 0,5."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Conreu**: no fer servir productes químics de síntesi (fertilitzants, plaguicides, herbicides, insecticides), ni organismes modificats genèticament; adobs orgànics, rotació de conreus, control biològic de plagues; a la ramaderia, alimentació ecològica i benestar animal, sense antibiòtics preventius ni hormones.\n2. **Transformació**: no fer servir **colorants, conservants** ni additius artificials (només una llista restringida d'additius autoritzats).\n3. **Certificació**: control per un organisme acreditat (a Catalunya, el **CCPAE**) i segell europeu de producció ecològica.\n\nA la taula, pots observar que Espanya és el primer país en superfície (22 % del total dels països de la taula)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Pes de cada país sobre el total de la taula (verificat amb Python; el «total» és la suma exacta dels nou països de la taula, no el de tota la UE):\n\n| País | Superfície (ha) | % del total de la taula |\n|---|---|---|\n| Espanya | 2.018.802 | 22,1 % |\n| Itàlia | 1.796.333 | 19,7 % |\n| França | 1.537.351 | 16,8 % |\n| Alemanya | 1.135.941 | 12,4 % |\n| Àustria | 571.423 | 6,3 % |\n| Suècia | 552.695 | 6,1 % |\n| Polònia | 536.579 | 5,9 % |\n| Regne Unit | 490.025 | 5,4 % |\n| República Txeca | 488.591 | 5,4 % |\n| **Total** | **9.127.740** | **100 %** |\n\nEls quatre primers països concentren el **71,1 %** de la superfície de la taula."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "L'**agricultura ecològica** o orgànica és un sistema de producció que busca obtenir aliments de màxima qualitat respectant el medi ambient i la fertilitat del sòl. Per rebre aquesta qualificació ha de complir dos tipus de requisits.\n\nEn el **conreu**, no pot utilitzar **elements inorgànics o químics de síntesi**: ni fertilitzants químics, ni plaguicides, herbicides o insecticides químics, ni llavors modificades genèticament (transgènics). En lloc seu, fa servir adobs orgànics (fems, compost), la rotació de conreus i el control biològic de les plagues. En la ramaderia ecològica, els animals s'han d'alimentar amb pinsos ecològics, han de disposar d'espai i accés a l'aire lliure i no se'ls poden administrar hormones de creixement ni antibiòtics de manera preventiva.\n\nEn la **transformació o elaboració** dels productes, no es poden utilitzar **colorants, conservants** ni altres additius artificials, llevat d'uns pocs autoritzats per la normativa europea.\n\nEl compliment d'aquests requisits el certifica un organisme de control (a Catalunya, el Consell Català de la Producció Agrària Ecològica), i els productes porten el segell ecològic de la UE. Espanya és el país europeu amb més superfície dedicada a l'agricultura ecològica, amb més de 2 milions d'hectàrees el 2016 (el 22 % del total dels països de la taula), seguida d'Itàlia, França i Alemanya."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Omple la taula de l'examen amb una o dues frases per casella:\n\n- **Població activa agrària** (0,5): molt baixa, **menys del 3 %** dels actius a la major part de l'Europa occidental (més alta a l'Europa de l'Est: Romania, Polònia); envellida.\n- **Productivitat** (0,25): **molt alta**, tant per unitat de superfície (rendiments) com per treballador.\n- **Mecanització** (0,25): **molt alta** en tots els processos productius, juntament amb l'ús de tecnologia, adobs, regadiu i llavors seleccionades.\n\nRecorda que és agricultura **de mercat**: produeix per vendre, especialitzada i integrada en el sistema agroalimentari."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "| Aspecte | Característiques |\n|---|---|\n| Població activa agrària | Molt reduïda: a la major part de l'Europa occidental representa **menys del 3 %** de la població activa (a Espanya, al voltant del 4 %), i és més alta als països de l'Europa de l'Est, com Romania o Polònia. L'èxode rural i la mecanització l'han fet disminuir molt, i està envellida i sovint treballa a temps parcial. |\n| Productivitat | **Molt alta**: s'obtenen rendiments per hectàrea elevats i una gran producció per treballador gràcies a les tècniques intensives (adobs, fitosanitaris, regadiu, llavors seleccionades) i a l'especialització de les explotacions orientades a vendre al mercat. |\n| Mecanització | **Molt alta en tots els processos productius**: tractors, recol·lectores, sistemes de reg automatitzats, hivernacles i, cada cop més, agricultura de precisió. Substitueix el treball humà i explica la baixa població activa i l'alta productivitat. |"
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Instrument** (dins el 0,5 dels ajuts): la **Política Agrària Comuna (PAC)**, la primera política comuna (1962), que encara absorbeix gairebé el 40 % del pressupost de la UE.\n2. **Ajuts** (0,25 + 0,25): **ajuts directes a la renda** dels agricultors (pagament únic desacoblat de la producció, condicionat al respecte al medi ambient: ja no se subvenciona la quantitat sinó la qualitat i les pràctiques sostenibles) i **ajuts als preus / al mercat** (preus mínims, intervenció, protecció davant dels competidors exteriors). També el segon pilar: desenvolupament rural.\n3. **Objectius** (0,5): inicialment (1957-1962), l'**autosuficiència alimentària** (subvencions a la producció i, després, quotes per evitar excedents); avui, el **desenvolupament rural**, la **seguretat alimentària**, el **relleu generacional**, la protecció del medi ambient i rendes dignes per als pagesos."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "La UE dona suport a l'activitat agrícola per mitjà de la **Política Agrària Comuna (PAC)**, creada el 1962 i que encara és una de les partides més importants del pressupost comunitari. La PAC funciona amb diferents programes d'ajuts:\n\n- **Ajuts a la renda dels agricultors**: pagaments directes per hectàrea o per explotació. Després de les successives reformes, la PAC ha deixat de subvencionar la producció en quantitat i ara els ajuts estan desvinculats de la producció i condicionats al **respecte al medi ambient**, al benestar animal i a la qualitat dels productes.\n- **Ajuts als preus i al mercat**: mecanismes d'intervenció i de regulació dels mercats que garanteixen uns preus mínims i protegeixen la producció europea davant dels competidors exteriors, com fan també altres estats.\n- **Ajuts al desenvolupament rural** (segon pilar): modernització d'explotacions, incorporació de joves, diversificació econòmica del món rural i mesures agroambientals.\n\nPel que fa als **objectius**, l'objectiu inicial de la CEE (Tractat de Roma, 1957) era assolir l'**autosuficiència alimentària** d'una Europa que sortia de la postguerra, garantir rendes dignes als pagesos i preus raonables als consumidors; per això es va subvencionar la producció i, quan va haver-hi excedents (llet, vi, cereals), es van aplicar **quotes**. Avui els reptes són uns altres: el **desenvolupament rural** i la lluita contra el despoblament, la **seguretat i la qualitat alimentàries**, el **relleu generacional** a les explotacions, la protecció del medi ambient i la lluita contra el canvi climàtic."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Conreu: no utilitzar elements inorgànics (fertilitzants químics, plaguicides ni insecticides químics). Transformació: no utilitzar colorants ni conservants. Màxima puntuació (1) només si es tenen en compte els dos tipus de requisits."
+          },
+          {
+            "apartat": "2",
+            "valor": "Població activa agrària: menys del 3 % dels actius (0,5). Productivitat: alta en els rendiments per unitat de superfície (0,25). Mecanització: molt alta en tots els processos productius (0,25)."
+          },
+          {
+            "apartat": "3",
+            "valor": "PAC, amb programes d'ajuts: ajuts a la renda (ara es subvenciona la qualitat ambiental i el respecte al medi, no la quantitat) (0,25); ajuts als preus/al mercat per afavorir la producció pròpia (0,25). Objectius: inicialment autosuficiència alimentària (subvencions a la producció i quotes als excedents); avui desenvolupament rural, seguretat alimentària, relleu generacional (0,5)."
+          }
+        ],
+        "nota": "La taula no és imprescindible per respondre, però és bo citar-la (Espanya, primer país en superfície ecològica). Atenció: el «Total» de la taula (9.127.740 ha) és la suma dels nou països llistats, no el total de la UE (que el 2016 era d'uns 12 milions d'hectàrees). Errors típics: a la pregunta 1, parlar només del conreu i oblidar la transformació (la pauta no dona el punt sencer); a la pregunta 2, no donar cap xifra de població activa agrària; a la pregunta 3, explicar els ajuts sense els objectius (valen 0,5)."
+      }
+    },
+    {
+      "id": "geografia-2019-S-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "5",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Mapa del risc d'inundacions a Catalunya i punts negres (2008): causes i factors agreujants",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "clima",
+        "aigua"
+      ],
+      "conceptes": [
+        "risc natural",
+        "inundacions",
+        "gota freda",
+        "pluja torrencial",
+        "clima mediterrani",
+        "pla inuncat",
+        "vulnerabilitat",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        12,
+        14
+      ],
+      "text": "",
+      "enunciat": "Part optativa: escolliu DOS dels exercicis 3, 4 i 5. Exercici 5 [3 punts en total].\n\nEl risc d'inundacions és un dels principals riscos naturals que hi ha a Catalunya, i està relacionat amb les característiques del clima mediterrani. Amb la finalitat de prevenir-ne els efectes, s'ha desenvolupat el Pla Inuncat, que té com a objectiu afrontar les emergències que es puguin produir. El mapa següent mostra el risc d'inundacions a Catalunya per municipis i la situació dels punts negres.",
+      "figures": [
+        {
+          "src": "img/geografia/2019-S/e5.png",
+          "peu": "Risc d'inundacions a Catalunya i punts negres (2008). Mapa de coropletes per municipis amb tres categories: risc alt (gris fosc), risc mitjà (gris clar) i risc baix (blanc), i punts negres (punts) situats al llarg dels cursos fluvials. El risc alt predomina a tot el litoral i prelitoral (Maresme, Barcelonès, Baix Llobregat, Garraf, Camp de Tarragona, Empordà), a les Terres de l'Ebre i a les valls del Pirineu i del Segre; el risc baix es concentra a la Catalunya central i a l'interior de Lleida. Fletxa del nord i escala gràfica de 50 km. Font: Pla Inuncat, 2008."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "En quins mesos de l'any són més probables les inundacions a la zona litoral? Quines en són les causes?",
+          "punts": 1.5
+        },
+        {
+          "id": "2",
+          "enunciat": "Els riscos relacionats amb les condicions meteorològiques, com els aiguats i les inundacions, es poden veure agreujats per factors sovint relacionats amb les activitats humanes. Expliqueu tres factors que poden incrementar aquests riscos.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts (uns 25-30 minuts), dues preguntes d'1,5 punts. No es demana descriure el mapa, però és útil esmentar-lo: el **risc alt** es concentra al **litoral i prelitoral** i als grans eixos fluvials, i els **punts negres** segueixen els rius i les rieres.\n\n- Pregunta 1: **quan** (la tardor, 0,5) i **per què** (pluges torrencials per la gota freda, 1 punt). La causa és la part que més puntua: explica el mecanisme.\n- Pregunta 2: **tres factors humans**, 0,5 cadascun. Un paràgraf per factor explicant **com** augmenta el risc."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Quan** (0,5): a la **tardor** (setembre, octubre i novembre), i en menor mesura a la primavera.\n2. **Per què** (1): al final de l'estiu el **mar Mediterrani és molt calent** i l'aire que hi ha a sobre és càlid i humit; quan arriba una **gota freda** (bossa d'aire fred en altura despresa del corrent en raig) i vents humits de llevant, es produeix una forta inestabilitat: l'aire calent puja ràpidament, el vapor es condensa i es formen núvols de gran desenvolupament vertical (cumulonimbus) que descarreguen **pluges torrencials** (més de 100-200 mm en poques hores).\n3. **Factors del territori** que ho agreugen al litoral: relleu de les serralades litorals molt a prop del mar, conques petites amb pendents forts, **rieres** i rius de règim irregular que es desborden de pressa."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El mapa mostra que el **risc alt d'inundacions** es concentra a la major part dels municipis del **litoral i del prelitoral** (Maresme, àrea de Barcelona, Garraf, Camp de Tarragona, Empordà i Terres de l'Ebre), on també abunden els **punts negres** al llarg dels rius i les rieres.\n\nEn aquesta zona litoral, les inundacions són més probables a la **tardor** (de setembre a novembre). La causa principal són les **pluges torrencials** que es produeixen en aquesta estació a causa del fenomen de la **gota freda**. Després de l'estiu, el mar Mediterrani conserva una **temperatura elevada** i l'aire que hi ha a sobre és càlid i carregat de **vapor d'aigua**. Quan una massa d'aire molt fred s'instal·la en altura (gota freda) o arriben fronts freds, i bufen vents humits de **llevant** des del mar, es crea una gran **inestabilitat**: l'aire calent i humit ascendeix ràpidament, el vapor es **condensa** i es formen cumulonimbus que descarreguen **aiguats** molt intensos, amb més de 100 o 200 litres per metre quadrat en poques hores.\n\nLes característiques del territori ho agreugen: les serralades litorals són molt a prop del mar, de manera que les conques són petites i amb **pendents forts**, i les **rieres** i els rius mediterranis, de règim molt irregular i secs bona part de l'any, augmenten de cabal sobtadament i es desborden (són avingudes **sobtades**, com les del Vallès el 1962)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Tria **tres factors** (0,5 cadascun) i, per a cadascun, explica el mecanisme:\n\n1. **Edificació en zones inundables** (llits de rieres, planes al·luvials, deltes): augmenta l'**exposició** i la vulnerabilitat; ponts i canalitzacions que estrenyen el llit.\n2. **Impermeabilització del sòl** per la urbanització (asfalt, formigó): l'aigua no s'infiltra i l'escolament és més ràpid i més gran.\n3. **Desforestació** i incendis: desapareix l'efecte de retenció de la vegetació.\n4. **Erosió i degradació del sòl** (abandonament de feixes, males pràctiques agrícoles): més escolament i arrossegament de sediments.\n5. **Canvi climàtic**: fenòmens meteorològics extrems més freqüents i intensos.\n\nN'hi ha prou amb tres de ben explicats."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "Les inundacions són un risc natural, però la seva gravetat depèn molt de l'acció humana. Hi ha diversos factors que les agreugen:\n\n**L'edificació en zones vulnerables.** L'expansió urbana, industrial i turística ha ocupat llits de rieres, planes al·luvials i deltes, sovint sense respectar les zones inundables. Això augmenta l'**exposició** de la població i dels béns al risc; a més, els ponts, les canalitzacions i els carrers construïts sobre antigues rieres estrenyen el pas de l'aigua i fan que, en un aiguat, es desbordi amb més força. A més, l'**impermeabilització del sòl** (asfalt, formigó) impedeix que l'aigua s'infiltri i fa que l'escolament superficial sigui més ràpid i més abundant.\n\n**La desforestació.** La vegetació intercepta la pluja, en frena l'escolament i afavoreix que s'infiltri al sòl. Quan desapareix per la tala, els **incendis forestals** o l'ocupació urbana, es perd aquest **efecte de retenció**: l'aigua baixa més de pressa pels vessants i les crescudes dels rius són més sobtades i més grans.\n\n**L'erosió i la degradació del sòl.** L'abandonament de les feixes i dels murs de pedra seca, les males pràctiques agrícoles i la desforestació fan que el sòl es degradi i perdi capacitat d'absorbir l'aigua. Les pluges torrencials arrosseguen grans quantitats de terra i de sediments, que augmenten el poder destructor de les avingudes i colmaten els llits i els embassaments.\n\nFinalment, el **canvi climàtic**, provocat per les emissions de gasos d'efecte d'hivernacle, fa que els fenòmens meteorològics extrems, com els aiguats de tardor, siguin més freqüents i intensos."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "A la tardor (0,5). Pluges torrencials per la gota freda: els fronts freds condensen el vapor d'aigua acumulat a l'atmosfera amb la calor de l'estiu i donen lloc a pluges intenses (1)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Almenys tres factors ben explicats, 0,5 cadascun: desforestació (es perd l'efecte de retenció de la vegetació); erosió i degradació del sòl; canvi climàtic (accentua els fenòmens extrems); edificació en zones vulnerables (augmenta l'exposició al risc)."
+          }
+        ],
+        "nota": "Errors típics: dir que les inundacions són a l'estiu o a l'hivern; explicar la gota freda de manera confusa (la clau és el contrast entre l'aire fred en altura i el mar i l'aire calents i humits de final d'estiu); a la pregunta 2, esmentar factors naturals (relleu, règim dels rius) quan es demanen factors relacionats amb l'activitat humana, o enumerar-los sense explicar com augmenten el risc. La resposta model en desenvolupa quatre; a l'examen n'hi ha prou amb tres."
+      }
+    }
+  ]
+}

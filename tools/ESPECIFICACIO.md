@@ -115,6 +115,10 @@ Si l'oficial no dona resposta model, redacta-la tu.
 - **Economia de l'empresa / Funcionament de l'empresa**: els problemes numèrics com a ciències: dades, fórmula,
   substitució, resultat amb unitats (€, %, unitats) i **interpretació**; verifica els números amb Python.
   Les preguntes teòriques, com a `oberta` amb resposta model.
+- **Geografia**: comentari de mapes, gràfics, taules, fotografies i textos (què és el document, descripció de
+  la distribució o l'evolució amb dades concretes, explicació de les causes, conseqüències i valoració).
+  Fes els càlculs (taxes, densitats, percentatges, índexs) pas a pas i verifica'ls amb Python. Els conceptes, amb
+  definició precisa. Retalla sempre el mapa/gràfic com a figura: sense el document la pregunta no té sentit.
 
 ### Temes per assignatura
 
@@ -140,6 +144,14 @@ Catalunya: catalanisme, Mancomunitat, Generalitat...).
 `financament` (inversions: VAN, TIR, termini de recuperació; fonts de finançament), `comptabilitat` (balanç, compte
 de resultats, ràtios), `marqueting`, `recursos-humans`, `models-negoci` (model Canvas, propostes de valor),
 `emprenedoria`.
+
+**geografia**: `relleu` (relleu, unitats morfoestructurals, geologia), `clima` (climes, elements i factors,
+climogrames, mapes del temps), `aigua` (hidrografia, rius, recursos hídrics), `paisatges` (vegetació, sòls,
+paisatges naturals i espais protegits), `medi-ambient` (problemes ambientals, riscos naturals, canvi climàtic,
+sostenibilitat), `poblacio` (demografia, piràmides, moviments naturals i migratoris), `ciutat` (poblament, espai
+urbà, xarxa urbana), `primari` (agricultura, ramaderia, pesca, espai rural), `industria` (indústria, energia),
+`serveis` (comerç, turisme, transports, comunicacions), `territori` (organització territorial, desequilibris
+regionals, Catalunya/Espanya/UE), `mon` (globalització, desenvolupament, geografia mundial).
 
 ### Format del text
 
@@ -223,3 +235,26 @@ normativa i lèxic → `oberta`. Posa autor i obra als `conceptes`. Recorda les 
 **Vertader/fals de diverses afirmacions**: un sol element `oberta` amb un apartat per afirmació.
 **crosscheck.py** pot marcar preguntes de pàgines sense text extraïble: si les has transcrit de la imatge, és una
 falsa alarma; digues-ho a la resposta final.
+
+## Convencions de geografia (del pilot 2015-J)
+
+1. Un element per exercici, `tipus: "comentari"` (o `oberta` si no hi ha document), amb els apartats de l'enunciat.
+   Id `geografia-<ANY>-<J|S>-e<n>-<A|B>` (opció en majúscula); imatge `img/geografia/<ANY>-<J|S>/e<n>-<A|B>.png`.
+   Si el document és un text, va a `text` i no porta figura.
+2. Retall de figures: des del títol fins a la línia de "Font:", tots dos inclosos (coordenades amb `pdftools text`,
+   ~5 pt de marge). Revisa-les visualment.
+3. Peu de figura descriptiu: tipus de document, variable i unitats, llegenda, xifres rotulades i font.
+4. Passos: "Com enfocar-ho", i per a cada apartat "Com plantejar-ho" → (si hi ha xifres) "Càlculs" amb taula i
+   fórmula → "Resposta model". Verifica els càlculs amb Python. Si el document no dona xifres, estima-les
+   (mesura amb píxels contra l'escala), marca-les amb "≈" i explica-ho a `nota`.
+5. Posa el repartiment de punts de la pauta al "Com plantejar-ho" i als `resultats`; la resposta model ha de
+   cobrir tots els aspectes que puntuen.
+6. Respostes: descripció = identificació del document + distribució/evolució amb xifres (sense causes);
+   explicació = causes i conseqüències; definicions breus amb exemple; guions de l'enunciat → un paràgraf per guió.
+7. `tema` segons el contingut; el tipus de document ("comentari de mapa", "climograma", "piràmide d'edats"...) als
+   `conceptes`.
+8. **Exàmens nous (format amb diversos exercicis de 2,5 punts i preguntes numerades, com 2024-J):** un element per
+   pregunta numerada, id `geografia-<ANY>-<J|S>-e<n>-q<m>`; la pregunta que comenta el document és `comentari` i
+   porta la figura (`e<n>-q1.png`), la resta `oberta` (també les de vertader/fals justificat). Les taules i textos van
+   a `text` i es repeteixen a les preguntes que en depenen. Exemple: data/geografia/2024-J.json.
+9. Sense LaTeX a geografia: fórmules en text pla ("TGF = nascuts / dones de 15-49 × 1.000").

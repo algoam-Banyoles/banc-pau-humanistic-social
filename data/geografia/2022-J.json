@@ -1,0 +1,1022 @@
+{
+  "examen": {
+    "id": "geografia-2022-J",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2022,
+    "convocatoria": "juny",
+    "serie": "2",
+    "pdf_examen": "pdfs/geografia/2022-J-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2022-J-solucio.pdf",
+    "estructura": "Sèrie 2. Cal respondre QUATRE dels cinc exercicis; cada exercici val 2,5 punts (total 10). Si es responen més exercicis, només es valoren els quatre primers. Cada exercici parteix d'un document i té tres preguntes numerades, algunes amb apartats: exercici 1, gràfic de les taxes de creixement de Catalunya 1991-2020 (1,5 + 0,5 + 0,5); exercici 2, gràfic del preu de l'electricitat a Espanya 2014-2021 i energies renovables (0,75 + 0,75 + 1); exercici 3, mapa del regadiu per comunitats autònomes 2020 (0,5 + 1 + 1); exercici 4, ortofotografia de Barcelona: nucli antic i Eixample (1 + 1 + 0,5); exercici 5, fotografia de la Pica d'Estats i turisme als espais naturals protegits (1 + 1 + 0,5). Les pautes valoren, a més del contingut, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2022-J-e1-q1",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Gràfic de les taxes de creixement de Catalunya (1991-2020): tendència del creixement real i causes",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "mon"
+      ],
+      "conceptes": [
+        "creixement real",
+        "creixement natural",
+        "saldo migratori",
+        "immigració estrangera",
+        "crisi del 2008",
+        "covid-19",
+        "gràfic lineal"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**Taxes de creixement per mil habitants a Catalunya (1991-2020)**\n\n(Gràfic lineal amb tres sèries anuals en ‰: taxa de creixement natural, taxa de creixement migratori i taxa de creixement real. Eix vertical de −10 a 30 ‰.)\n\n*Font:* Institut d'Estadística de Catalunya (Idescat).",
+      "enunciat": "Exercici 1. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el gràfic. Pregunta 1: fixeu-vos en l'evolució de la taxa de creixement real que presenta el gràfic i expliqueu quina tendència ha seguit i quines són les causes d'aquesta tendència. [1,5 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2022-J/e1-q1.png",
+          "peu": "Gràfic lineal de les taxes de creixement natural, migratori i real de Catalunya (1991-2020), en ‰. La taxa real passa d'uns 0-4 ‰ als anys 90 a més del 20 ‰ entre 2001 i 2007 (màxim ≈25 ‰ el 2002), baixa fins a ≈−6 ‰ el 2013, puja a ≈13 ‰ el 2019 i cau a ≈1,5 ‰ el 2020; la natural no supera el 4 ‰. Font: Idescat."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "La pregunta val 1,5 punts i té dues parts: **descriure la tendència** de la taxa de creixement real (la línia gruixuda) i **explicar-ne les causes**. Primer identifiqueu el document: gràfic lineal de les taxes de creixement natural, migratori i real de Catalunya (1991-2020), en ‰, font Idescat. Després dividiu l'evolució en etapes amb anys i xifres llegides al gràfic, i per a cada etapa doneu la causa. La clau és veure que la línia del creixement real gairebé es confon amb la del creixement migratori: és la immigració la que explica el creixement, no la natalitat. Extensió: 12-15 línies; temps, uns 12 minuts. Error típic: descriure sense causes o donar causes sense xifres ni dates."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta reparteix els punts així:\n\n1. **Etapa de gran creixement (0,50)**: creixement molt baix als anys 90 (≈0-4 ‰), salt a partir del 2000 i valors per sobre del 20 ‰ fins al 2007 (màxim ≈25 ‰ el 2002).\n2. **Descens i recuperació (part de la descripció)**: caiguda ràpida des del 2008, valors negatius el 2012-2014 (mínim ≈−6 ‰ el 2013), recuperació fins a superar el 10 ‰ el 2018-2019 i caiguda sobtada el 2020.\n3. **Causa del creixement (0,50)**: l'arribada massiva d'immigració estrangera; es veu al gràfic perquè la taxa migratòria és gairebé igual a la real, mentre que la natural no passa mai del 4 ‰.\n4. **Causa del descens i de les oscil·lacions (0,50)**: la crisi financera i econòmica del 2008 redueix l'arribada d'immigrants i el saldo migratori es fa negatiu (2012-2015); la recuperació econòmica fa tornar a pujar el saldo; la COVID-19 provoca la caiguda del 2020.\n\nRecordeu la relació: creixement real = creixement natural + saldo migratori."
+          },
+          {
+            "apartat": null,
+            "titol": "Càlculs",
+            "cos": "Valors llegits al gràfic (aproximats, ≈, perquè el gràfic no rotula les xifres):\n\n| Any | Natural (‰) | Migratori (‰) | Real (‰) | Natural + migratori |\n|---|---:|---:|---:|---:|\n| 1995 | ≈0,3 | ≈0,5 | ≈0,8 | ≈0,8 |\n| 2002 | ≈1,2 | ≈23,8 | ≈24,8 | ≈25,0 |\n| 2013 | ≈1,3 | ≈−7,8 | ≈−6,0 | ≈−6,5 |\n| 2019 | ≈−0,1 | ≈13,0 | ≈12,7 | ≈12,9 |\n| 2020 | ≈−2,7 | ≈5,0 | ≈1,5 | ≈2,3 |\n\nCreixement real ≈ creixement natural + creixement migratori (les petites diferències són error de lectura).\n\nOrdre de magnitud: un creixement del 25 ‰ sobre uns 6,5 milions d'habitants (2002) vol dir uns 6.500.000 × 0,025 ≈ 162.500 habitants més en un sol any."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El gràfic lineal mostra l'evolució de les taxes de creixement natural, migratori i real de la població de Catalunya entre 1991 i 2020, expressades en tants per mil, segons l'Idescat.\n\nLa taxa de creixement real ha passat per diverses etapes. Durant els anys noranta el creixement va ser molt feble, entre el 0 i el 4 ‰. A partir del 2000 la taxa es va disparar i durant tot el període 2001-2007 es va mantenir per sobre del 20 ‰, amb un màxim d'uns 25 ‰ el 2002. A partir del 2008 va caure ràpidament i els anys 2012, 2013 i 2014 va ser negativa (uns −6 ‰ el 2013): Catalunya va perdre població. Des del 2015 es va recuperar fins a superar el 10 ‰ el 2018 i el 2019 (≈13 ‰), i el 2020 va tornar a caure de cop fins a un 1-2 ‰.\n\nLa causa d'aquesta evolució és la immigració, com mostra el fet que la línia del creixement real gairebé coincideix amb la del creixement migratori, mentre que el creixement natural és molt baix (no passa del 4 ‰ i el 2020 ja és negatiu) per la baixa natalitat i l'envelliment. El gran creixement de començament del segle XXI s'explica per l'arribada massiva d'immigració estrangera (del Marroc, de l'Amèrica Llatina, de l'Europa de l'Est...), atreta per l'expansió econòmica, sobretot la construcció i els serveis. La crisi financera i econòmica iniciada el 2008 va reduir molt l'arribada d'immigrants i va provocar el retorn o la marxa de molts, de manera que el saldo migratori va ser negatiu entre el 2012 i el 2015. Amb la recuperació econòmica el saldo migratori va tornar a créixer, fins que la pandèmia de la COVID-19 i el tancament de fronteres van provocar el brusc descens del 2020."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Descripció: creixement real molt alt als anys 90 i sobretot fins al 2007, amb valors per sobre del 20 ‰; després descens ràpid, valors negatius el 2012-2014, recuperació (més del 10 ‰ el 2018-2019) i caiguda el 2020 (0,50)."
+          },
+          {
+            "apartat": null,
+            "valor": "Causa del creixement: augment de la immigració estrangera, visible en la taxa de creixement migratori (0,50)."
+          },
+          {
+            "apartat": null,
+            "valor": "Crisi del 2008: menys arribada d'immigrants i saldo migratori negatiu (2012-2015); recuperació econòmica i nou augment del saldo; brusc descens del 2020 per la COVID-19 (0,50)."
+          }
+        ],
+        "nota": "Les xifres són aproximades (llegides sobre la quadrícula del gràfic), per això porten ≈. Al gràfic el saldo migratori ja és lleugerament negatiu el 2011 i torna a ser positiu el 2015; la pauta parla de saldo negatiu 2012-2015: qualsevol de les dues lectures és acceptable si s'argumenta. Error típic: atribuir el creixement dels anys 2000 a un augment de la natalitat; el gràfic mostra que el creixement natural és petit. Feu servir anys i valors concrets."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e1-q2",
+      "exercici": 1,
+      "questio": 2,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Diferència entre la taxa de creixement natural i la taxa de creixement real",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "creixement natural",
+        "creixement real",
+        "saldo migratori",
+        "definició"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Exercici 1. Pregunta 2. Indiqueu en què es diferencien la taxa de creixement natural i la taxa de creixement real. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de definició (0,5 punts): 3-5 línies. Cal dir què inclou cada taxa i quina és la diferència (el saldo migratori). Si hi afegiu la fórmula i un exemple del gràfic, la resposta queda rodona."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Creixement natural** = naixements − defuncions (per cada 1.000 habitants).\n2. **Creixement real** = creixement natural + saldo migratori (immigrants − emigrants).\n3. Exemple del gràfic: el 2002 el natural era ≈1 ‰ i el real ≈25 ‰; la diferència és la immigració."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La taxa de creixement natural només té en compte el moviment natural de la població, és a dir, la diferència entre els naixements i les defuncions d'un any per cada 1.000 habitants (taxa de natalitat − taxa de mortalitat). La taxa de creixement real, en canvi, hi incorpora també el saldo migratori (immigrants − emigrants): creixement real = creixement natural + saldo migratori. Per això, en una població com la catalana, que rep molta immigració, el creixement real pot ser molt més alt que el natural: el 2002 el natural era d'un 1 ‰ i el real d'uns 25 ‰."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "La taxa de creixement natural només té en compte naixements i defuncions; la de creixement real hi incorpora el saldo migratori (0,50)."
+          }
+        ],
+        "nota": "Fórmules en text: TCN = (naixements − defuncions) / població × 1.000; TCR = TCN + taxa de saldo migratori. No confongueu creixement real amb creixement «total» d'un període llarg."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e1-q3",
+      "exercici": 1,
+      "questio": 3,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals: la natalitat de Catalunya sempre ha estat alta",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "natalitat",
+        "transició demogràfica",
+        "baby boom",
+        "envelliment",
+        "vertader o fals"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Exercici 1. Pregunta 3. Raoneu fins a quin punt és vertadera o falsa l'afirmació següent: «Una de les característiques de la població catalana és que sempre ha tingut una taxa de natalitat alta.» [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Vertader/fals justificat de 0,5 punts: comenceu dient clarament si és vertadera o falsa i argumenteu-ho en 4-6 línies. No n'hi ha prou amb dir «fals»: cal raonar-ho amb dades o amb l'evolució històrica."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Veredicte**: és falsa.\n2. Catalunya té des de fa dècades una **natalitat molt baixa**, semblant a la dels països europeus del seu entorn (≈7-8 ‰ actualment, fecunditat ≈1,2 fills per dona).\n3. Catalunya va ser pionera en la reducció de la natalitat (ja a principis del segle XX); només hi va haver una natalitat relativament alta durant el **baby boom** (anys 1960-1970).\n4. Evidència al gràfic: el creixement natural és molt baix (màxim ≈4 ‰) i el 2020 negatiu."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'afirmació és falsa. La població catalana es caracteritza per tenir una taxa de natalitat molt baixa, de manera similar a la majoria de països del nostre entorn europeu: actualment és d'uns 7-8 naixements per cada 1.000 habitants i la fecunditat és d'uns 1,2 fills per dona, molt per sota del nivell de reemplaçament (2,1). Catalunya va ser, a més, una de les primeres regions d'Espanya a reduir la natalitat, ja des de principis del segle XX, i només durant el baby boom dels anys seixanta i setanta va tenir taxes relativament altes. El mateix gràfic ho confirma: el creixement natural no supera el 4 ‰ en tot el període i el 2020 és negatiu, de manera que el creixement de la població depèn sobretot de la immigració."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Afirmació incorrecta: la població catalana té una taxa de natalitat molt baixa, com la majoria de països del nostre entorn (0,50)."
+          }
+        ],
+        "nota": "Les xifres de natalitat i fecunditat actuals són orientatives (no surten al document). L'error típic és respondre només «fals» sense justificació."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e2-q1",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 0.75,
+      "titol": "Fonts d'energia primària i renovables a Espanya i comunitats amb més producció renovable",
+      "tema": "industria",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "energia primària",
+        "energies renovables",
+        "petroli",
+        "gas natural",
+        "eòlica",
+        "solar",
+        "hidroelèctrica",
+        "gràfic lineal"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5,
+        6
+      ],
+      "text": "**Evolució anual del preu de l'electricitat en el mercat majorista a Espanya (2014-2021)**\n\n(Gràfic lineal del preu mitjà anual de l'electricitat, en €/MWh; eix vertical de 30 a 120.)\n\n*Font:* Organización de Consumidores y Usuarios (OCU).\n\nTal com es pot comprovar en el gràfic, l'any 2021 el preu de l'electricitat va experimentar un increment molt alt. Les dues causes principals d'aquest increment van ser:\n\n- El fort augment del preu de l'energia produïda amb gas, que darrerament és l'energia més cara del mercat i la que serveix per a fixar els preus generals en els mercats internacionals.\n- L'encariment dels drets d'emissió de CO2 que paguen els països, i que els països fan que recaigui en les centrals que produeixen electricitat amb combustibles fòssils.",
+      "enunciat": "Exercici 2. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el gràfic i llegiu el text. Pregunta 1: en els darrers anys la producció d'energia renovable a Espanya ha crescut bastant. [0,75 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2022-J/e2-q1.png",
+          "peu": "Gràfic lineal del preu anual de l'electricitat al mercat majorista a Espanya (2014-2021), en €/MWh: ≈42 (2014), ≈50 (2015), ≈39 (2016), ≈53 (2017), ≈57 (2018), ≈46 (2019), ≈34 (2020) i ≈111 (2021). Font: OCU."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Indiqueu quines són les fonts principals d'energia primària que es consumeixen a Espanya.",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "Quines són les fonts principals d'energia renovable que es consumeixen a Espanya?",
+          "punts": 0.25
+        },
+        {
+          "id": "c",
+          "enunciat": "Quines són les comunitats autònomes que tenen una producció d'energies renovables més important?",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Tres apartats curts de 0,25 punts cadascun: no cal comentar el gràfic, sinó demostrar coneixements sobre el sistema energètic espanyol. Ordeneu les fonts de més a menys important i, si en recordeu, doneu percentatges. 2-4 línies per apartat. Distingiu bé **energia primària** (petroli, gas, carbó, urani, renovables, tal com es troben a la natura) d'**electricitat** (energia secundària): l'error típic és respondre a l'a) només amb fonts d'electricitat. El gràfic (preu de 34 €/MWh el 2020 a 111 €/MWh el 2021) és el context per a les preguntes 2 i 3."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Ordre de consum d'energia primària (2020, dada orientativa de la pauta): **petroli** 44,4 %, **gas natural** 23,5 %, **renovables** 20,3 %, **nuclear** 10,4 %, carbó 1,4 %. Idea clau: forta dependència dels combustibles fòssils importats."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "La principal font d'energia primària que es consumeix a Espanya és el petroli (uns 44 % del consum el 2020), sobretot pel transport; el segueixen el gas natural (uns 24 %), les energies renovables (uns 20 %) i l'energia nuclear (uns 10 %), mentre que el carbó ja és residual (1-2 %). Els combustibles fòssils encara suposen gairebé dues terceres parts del total i s'importen gairebé del tot."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Les tres grans: **eòlica**, **solar** (fotovoltaica i termosolar) i **hidroelèctrica**. Es pot afegir la biomassa."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Les principals fonts d'energia renovable que es consumeixen a Espanya són l'eòlica, que és la primera en producció d'electricitat renovable, la solar (fotovoltaica i termosolar), que és la que més ha crescut els darrers anys, i la hidroelèctrica, molt variable segons si l'any és sec o plujós. En menor mesura hi ha la biomassa i els biocombustibles."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Per potència renovable instal·lada, per ordre: **Castella i Lleó**, **Galícia**, **Andalusia** i **Castella-la Manxa**. Motius: territori extens i poc poblat, vent (eòlica), insolació (solar) i rius amb embassaments (hidroelèctrica a Galícia i Castella i Lleó)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "Les comunitats autònomes amb més potència instal·lada d'energies renovables són, per ordre, Castella i Lleó, Galícia, Andalusia i Castella-la Manxa. Són comunitats extenses i poc poblades, amb sòl barat, bons recursos de vent (eòlica), molta insolació (solar, sobretot a Andalusia i Castella-la Manxa) i rius amb embassaments (hidroelèctrica a Galícia i a Castella i Lleó)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Petroli com a principal font d'energia primària, seguit del gas, les renovables i la nuclear (2020: petroli 44,4 %, gas 23,5 %, renovables 20,3 %, nuclear 10,4 %, carbó 1,4 %) (0,25)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Hidroelèctrica, eòlica i solar (0,25)."
+          },
+          {
+            "apartat": "c",
+            "valor": "Castella i Lleó, Galícia, Andalusia i Castella-la Manxa (0,25)."
+          }
+        ],
+        "nota": "Els percentatges són els que dona la pauta com a dada orientativa; no cal saber-los exactes, però sí l'ordre. A l'a) no confongueu el consum d'energia primària amb la generació d'electricitat (on les renovables ja superen el 40 %)."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e2-q2",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.75,
+      "titol": "Beneficis ambientals i problemes de l'explotació de les energies renovables",
+      "tema": "industria",
+      "temes_secundaris": [
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "energies renovables",
+        "canvi climàtic",
+        "emissions de co2",
+        "impacte paisatgístic",
+        "irregularitat dels recursos"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "**Evolució anual del preu de l'electricitat en el mercat majorista a Espanya (2014-2021)**\n\n(Gràfic lineal del preu mitjà anual de l'electricitat, en €/MWh; eix vertical de 30 a 120.)\n\n*Font:* Organización de Consumidores y Usuarios (OCU).\n\nTal com es pot comprovar en el gràfic, l'any 2021 el preu de l'electricitat va experimentar un increment molt alt. Les dues causes principals d'aquest increment van ser:\n\n- El fort augment del preu de l'energia produïda amb gas, que darrerament és l'energia més cara del mercat i la que serveix per a fixar els preus generals en els mercats internacionals.\n- L'encariment dels drets d'emissió de CO2 que paguen els països, i que els països fan que recaigui en les centrals que produeixen electricitat amb combustibles fòssils.",
+      "enunciat": "Exercici 2. Pregunta 2. Expliqueu quins són els beneficis ambientals que comporta la utilització d'energies renovables i quins són els problemes principals que es deriven de l'explotació d'aquestes energies. [0,75 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'explicació de 0,75 punts amb dues parts: beneficis (0,25) i problemes (0,50, dos problemes). Feu dos paràgrafs, un per a cada part, 6-8 línies en total, amb exemples de fonts concretes."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Benefici (0,25)**: no emeten contaminants ni CO2 (excepte la biomassa en la combustió) → menys contaminació atmosfèrica i menys contribució al canvi climàtic. També són inesgotables i redueixen la dependència exterior.\n2. **Problema 1 (0,25)**: irregularitat temporal i espacial del recurs (aigua, vent, sol): la producció puja i baixa i cal energia de reserva o emmagatzematge.\n3. **Problema 2 (0,25)**: impacte territorial i paisatgístic: embassaments de les hidroelèctriques, parcs eòlics i parcs solars que ocupen molt sòl; no tot el territori és adequat."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El principal benefici ambiental de les energies renovables és que en produir energia no emeten contaminants ni CO2 a l'atmosfera (amb l'excepció de la biomassa, que crema matèria orgànica), de manera que redueixen la contaminació de l'aire i l'impacte sobre el canvi climàtic. A més, són fonts inesgotables i autòctones, que redueixen la dependència dels combustibles fòssils importats.\n\nAra bé, la seva explotació presenta problemes. D'una banda, la irregularitat temporal i espacial d'alguns recursos, com l'aigua dels rius, el vent o la radiació solar, fa que la producció tingui alts i baixos (anys secs, dies sense vent, la nit) i calgui disposar de centrals de reserva o sistemes d'emmagatzematge. De l'altra, tenen un impacte territorial i paisatgístic important: les centrals hidroelèctriques necessiten embassaments que inunden valls, i els parcs eòlics i les grans plantes solars ocupen molta superfície i alteren el paisatge, de manera que no tot el territori és adequat per acollir-les."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Benefici: no emissió de contaminants ni de CO2 (excepte la biomassa) i menys impacte sobre el canvi climàtic (0,25)."
+          },
+          {
+            "apartat": null,
+            "valor": "Problema: irregularitat temporal i espacial de recursos com l'aigua o el vent (0,25)."
+          },
+          {
+            "apartat": null,
+            "valor": "Problema: impacte territorial (embassaments) o paisatgístic (eòlica, parcs solars) (0,25)."
+          }
+        ],
+        "nota": "La pauta accepta altres problemes pertinents (impacte sobre les aus, ús de minerals escassos per a plaques i bateries, conflictes per l'ús del sòl agrícola). No us oblideu de la part dels beneficis."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e2-q3",
+      "exercici": 2,
+      "questio": 3,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals: dependència energètica del gas i tornar als combustibles fòssils",
+      "tema": "industria",
+      "temes_secundaris": [
+        "medi-ambient",
+        "mon"
+      ],
+      "conceptes": [
+        "dependència energètica",
+        "gas natural",
+        "drets d'emissió de co2",
+        "transició energètica",
+        "unió europea",
+        "vertader o fals"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "**Evolució anual del preu de l'electricitat en el mercat majorista a Espanya (2014-2021)**\n\n(Gràfic lineal del preu mitjà anual de l'electricitat, en €/MWh; eix vertical de 30 a 120.)\n\n*Font:* Organización de Consumidores y Usuarios (OCU).\n\nTal com es pot comprovar en el gràfic, l'any 2021 el preu de l'electricitat va experimentar un increment molt alt. Les dues causes principals d'aquest increment van ser:\n\n- El fort augment del preu de l'energia produïda amb gas, que darrerament és l'energia més cara del mercat i la que serveix per a fixar els preus generals en els mercats internacionals.\n- L'encariment dels drets d'emissió de CO2 que paguen els països, i que els països fan que recaigui en les centrals que produeixen electricitat amb combustibles fòssils.",
+      "enunciat": "Exercici 2. Pregunta 3. Raoneu fins a quin punt són vertaderes o falses les afirmacions següents: [1 punt]\n\n- «L'augment del preu del gas a Espanya és un problema degut a la gran dependència energètica del país.»\n- «Si el preu de l'energia elèctrica continua pujant, caldrà tornar a generar electricitat amb uns combustibles fòssils més barats.»",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues afirmacions de 0,5 punts cadascuna: per a cadascuna, digueu primer si és vertadera o falsa i després argumenteu-ho (4-6 línies). La pauta valora sobretot els arguments. Feu servir el text de l'exercici: hi surten les dues causes de la pujada (gas i drets d'emissió de CO2) i el gràfic (de ≈34 €/MWh el 2020 a ≈111 €/MWh el 2021)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "**Afirmació 1 → vertadera (0,50)**: Espanya no produeix gas i l'importa gairebé tot (Algèria, gas liquat d'altres països); no controla la producció ni el preu; la gran demanda mundial i la concentració de la producció en pocs països fan pujar el preu, que es trasllada a l'electricitat perquè el gas fixa el preu marginal del mercat.\n\n**Afirmació 2 → falsa (0,50)**: la política europea obliga a incloure el cost ambiental en el preu dels combustibles fòssils mitjançant els **drets d'emissió de CO2**, que són cada cop més cars i ho seran més per afavorir la transició energètica; per tant, els fòssils no serien «més barats». La sortida és més renovables, no tornar als fòssils."
+          },
+          {
+            "apartat": null,
+            "titol": "Càlculs",
+            "cos": "Preus llegits al gràfic (≈, en €/MWh): 2014 ≈42; 2015 ≈50; 2016 ≈39; 2017 ≈53,5; 2018 ≈57,5; 2019 ≈46; 2020 ≈34; 2021 ≈111.\n\n| Indicador | Càlcul | Resultat |\n|---|---|---:|\n| Mitjana 2014-2020 | (42 + 50,3 + 39 + 53,5 + 57,5 + 46 + 34) / 7 | ≈46 €/MWh |\n| Variació 2020-2021 | (111 − 34) / 34 × 100 | ≈ +226 % |\n| Multiplicador 2020-2021 | 111 / 34 | ≈3,3 vegades |\n| 2021 respecte de la mitjana | 111 / 46 | ≈2,4 vegades |"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La primera afirmació és vertadera. Espanya gairebé no té jaciments de gas natural i depèn completament de l'exterior: l'importa per gasoducte des d'Algèria i en forma de gas liquat d'altres països. Per tant, no té cap control sobre la seva producció i venda. En moments com el 2021, amb una gran demanda mundial i la producció concentrada en pocs països, el preu del gas puja molt, i com que és l'energia que fixa el preu del mercat elèctric, l'electricitat es dispara: va passar d'uns 34 €/MWh el 2020 a uns 111 €/MWh el 2021, més del triple.\n\nLa segona afirmació és falsa. Encara que el cost de producció d'alguns combustibles fòssils, com el carbó, pugui ser més baix que el de les renovables, la política de la Unió Europea obliga a incloure en el preu el seu cost ambiental, que és elevat sobretot per les emissions de CO2. La UE fa pagar a les instal·lacions que emeten CO2 els drets d'emissió, que s'han encarit molt (és una de les causes de la pujada del 2021, segons el text) i que continuaran pujant per afavorir la transició energètica. Per tant, tornar als fòssils no abaratiria l'electricitat; la solució és augmentar la producció renovable, que és autòctona i cada cop més barata."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Primera afirmació, certa: Espanya depèn completament de l'exterior per al gas (Algèria i altres països) i no en controla la producció ni la venda; la gran demanda i la concentració de la producció fan pujar el preu (0,50)."
+          },
+          {
+            "apartat": null,
+            "valor": "Segona afirmació, falsa: la política europea fa incloure en el preu el cost ambiental de les energies fòssils; la UE fa pagar els drets d'emissió de CO2, que han crescut i continuaran pujant per afavorir la transició energètica (0,50)."
+          }
+        ],
+        "nota": "Els preus són estimats sobre la quadrícula del gràfic (≈). La pauta valora sobretot la pertinència dels arguments: si algú defensa una posició matisada (p. ex., que a curt termini alguns països han tornat al carbó), pot puntuar si l'argumenta bé, però cal esmentar els drets d'emissió."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e3-q1",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 0.5,
+      "titol": "Mapa del regadiu a Espanya (2020): relacionar comunitats autònomes i conreus predominants",
+      "tema": "primari",
+      "temes_secundaris": [
+        "aigua"
+      ],
+      "conceptes": [
+        "regadiu",
+        "cítrics",
+        "olivera",
+        "hortalisses",
+        "plàtans",
+        "vinya",
+        "mapa coroplètic"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        8
+      ],
+      "text": "**L'agricultura de regadiu. Superfície regada per comunitat autònoma (2020)**\n\n(Mapa coroplètic de les comunitats autònomes d'Espanya segons la proporció d'hectàrees regades respecte de la superfície total. Llegenda: > 0,15; 0,10-0,15; 0,05-0,09; < 0,05.)\n\n*Font:* Ministerio de Agricultura, Pesca y Alimentación. *Encuesta sobre superficies y rendimientos de cultivos. Informe sobre regadíos en España* [en línia], 2020.\n\nUna gran part de l'agricultura de les regions de clima mediterrani depèn del regadiu. El total de la superfície regada a Espanya l'any 2020 era de 3.831.181 ha.",
+      "enunciat": "Exercici 3. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el mapa i llegiu el text. Pregunta 1: relacioneu cada comunitat autònoma de la columna de l'esquerra amb el conreu que hi predomina. Per fer-ho, escriviu el número corresponent en les caselles de la columna de la dreta. [0,5 punts]\n\n| Comunitat autònoma | Conreu |\n|---|---|\n| 1 Canàries | ☐ Cítrics |\n| 2 Comunitat Valenciana | ☐ Oliveres |\n| 3 Castella-la Manxa | ☐ Hortalisses |\n| 4 Regió de Múrcia | ☐ Plàtans |\n| 5 Andalusia | ☐ Vinya |",
+      "figures": [
+        {
+          "src": "img/geografia/2022-J/e3-q1.png",
+          "peu": "Mapa coroplètic de la superfície regada per comunitat autònoma (2020), en proporció d'hectàrees regades respecte de la superfície total, amb quatre classes (> 0,15; 0,10-0,15; 0,05-0,09; < 0,05). La Regió de Múrcia és a la classe més alta; la Comunitat Valenciana, Andalusia i Navarra, a la segona; la Cornisa Cantàbrica, Galícia i Madrid, a la més baixa. Font: Ministerio de Agricultura, Pesca y Alimentación (2020)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de relacionar (0,10 per encert, els errors no resten): escriviu el número de la comunitat al costat de cada conreu. Raoneu-ho pel clima i per l'especialització agrària de cada comunitat; no cal escriure explicacions, però sí que cal que la casella quedi clara. 2-3 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "- **Plàtans** → clima subtropical de les **Canàries** (1).\n- **Cítrics** → horta valenciana, tarongers de la **Comunitat Valenciana** (2).\n- **Vinya** → la Manxa, la regió vitícola més extensa del món: **Castella-la Manxa** (3).\n- **Hortalisses** → l'«horta d'Europa», regadiu intensiu de la **Regió de Múrcia** (4).\n- **Oliveres** → Jaén i Còrdova, olivar d'**Andalusia** (5).\n\nLectura del mapa (com a context): Múrcia és l'única comunitat en la classe més alta (> 0,15 de la superfície regada), i la Comunitat Valenciana, Andalusia i Navarra són a la classe 0,10-0,15. A escala estatal, 3.831.181 ha / 50.599.000 ha ≈ 7,6 % de la superfície està regada (càlcul propi, verificat amb Python)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "| Conreu | Número |\n|---|---|\n| Cítrics | 2 (Comunitat Valenciana) |\n| Oliveres | 5 (Andalusia) |\n| Hortalisses | 4 (Regió de Múrcia) |\n| Plàtans | 1 (Canàries) |\n| Vinya | 3 (Castella-la Manxa) |"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Cítrics: 2 (Comunitat Valenciana); Oliveres: 5 (Andalusia); Hortalisses: 4 (Regió de Múrcia); Plàtans: 1 (Canàries); Vinya: 3 (Castella-la Manxa). 0,10 per encert, els errors no descompten (0,50)."
+          }
+        ],
+        "nota": "La pauta presenta la solució en dues columnes que es llegeixen com a parelles número-conreu (Canàries → plàtans, etc.); aquí s'ha escrit directament quin número va a cada casella. La lectura de les classes del mapa és aproximada (tons de gris) i la superfície total d'Espanya (≈50,6 milions d'ha) és una dada externa."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e3-q2",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Tres mesures per estalviar aigua i garantir la qualitat dels recursos hídrics en l'agricultura",
+      "tema": "aigua",
+      "temes_secundaris": [
+        "primari",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "regadiu",
+        "reg per degoteig",
+        "contaminació d'aqüífers",
+        "purins",
+        "sostenibilitat",
+        "recursos hídrics"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        9
+      ],
+      "text": "**L'agricultura de regadiu. Superfície regada per comunitat autònoma (2020)**\n\n(Mapa coroplètic de les comunitats autònomes d'Espanya segons la proporció d'hectàrees regades respecte de la superfície total. Llegenda: > 0,15; 0,10-0,15; 0,05-0,09; < 0,05.)\n\n*Font:* Ministerio de Agricultura, Pesca y Alimentación. *Encuesta sobre superficies y rendimientos de cultivos. Informe sobre regadíos en España* [en línia], 2020.\n\nUna gran part de l'agricultura de les regions de clima mediterrani depèn del regadiu. El total de la superfície regada a Espanya l'any 2020 era de 3.831.181 ha.",
+      "enunciat": "Exercici 3. Pregunta 2. El regadiu augmenta la productivitat de la terra i la renda dels agricultors, però també planteja problemes relacionats amb la sostenibilitat dels recursos hídrics. Proposeu tres mesures que es podrien adoptar per a estalviar aigua i per a garantir la sostenibilitat i la qualitat dels recursos hídrics en els usos agrícoles i ramaders. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Demana **tres mesures** (1 punt en total, ≈0,33 cadascuna). Feu un paràgraf o un guió per mesura, explicant per què estalvia aigua o en protegeix la qualitat. Barregeu mesures de **quantitat** (estalvi) i de **qualitat** (contaminació), ja que l'enunciat demana les dues coses i parla d'usos agrícoles **i ramaders**."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Mesures que accepta la pauta (n'hi ha prou amb tres):\n\n1. **Reg per degoteig** en lloc del reg per inundació o per aspersió (estalvi).\n2. **Reduir pesticides i adobs químics**, que contaminen els aqüífers (nitrats) (qualitat).\n3. **Controlar els abocaments de purins** de la ramaderia intensiva (qualitat).\n4. **Mantenir en bon estat** canals i sistemes de reg per evitar pèrdues (estalvi).\n5. **No regar a les hores de més calor** per reduir l'evaporació (estalvi).\n\nAltres de pertinents: reutilitzar aigües depurades, conreus menys exigents en aigua, sensors d'humitat."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Una primera mesura és substituir el reg tradicional per inundació o per aspersió, que malbaraten molta aigua, per sistemes de reg localitzat com el degoteig, que aporten l'aigua just a l'arrel de la planta i poden reduir el consum a la meitat.\n\nUna segona mesura és reduir o evitar l'ús de pesticides i adobs químics, ja que l'excés de nitrats i productes fitosanitaris s'infiltra al subsòl i contamina els aqüífers; cal fomentar l'agricultura ecològica i una fertilització ajustada a les necessitats del conreu.\n\nUna tercera mesura és controlar els abocaments de purins de la ramaderia intensiva (per exemple, de porcí), amb plans de gestió de dejeccions i plantes de tractament, perquè són una de les causes principals de la contaminació per nitrats de les aigües subterrànies.\n\nTambé es pot mantenir en bon estat la xarxa de canals i reg per evitar fuites i no regar a les hores de més calor, per reduir les pèrdues per evaporació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Tres mesures entre: reg per degoteig en lloc d'aspersió o inundació; reduir pesticides i adobs químics que contaminen els aqüífers; controlar els abocaments de purins; mantenir els sistemes de reg en bon estat; no regar a les hores de més calor. Altres mesures pertinents a criteri del corrector (1 punt)."
+          }
+        ],
+        "nota": "Si en doneu més de tres, el corrector en valorarà tres; és millor explicar-ne bé tres que enumerar-ne set. Recordeu la part ramadera (purins), que és la que més s'oblida."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e3-q3",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Dos riscos naturals del clima mediterrani que afecten l'agricultura",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "clima",
+        "primari"
+      ],
+      "conceptes": [
+        "clima mediterrani",
+        "riscos naturals",
+        "sequera",
+        "pluja torrencial",
+        "inundacions",
+        "incendis forestals"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "**L'agricultura de regadiu. Superfície regada per comunitat autònoma (2020)**\n\n(Mapa coroplètic de les comunitats autònomes d'Espanya segons la proporció d'hectàrees regades respecte de la superfície total. Llegenda: > 0,15; 0,10-0,15; 0,05-0,09; < 0,05.)\n\n*Font:* Ministerio de Agricultura, Pesca y Alimentación. *Encuesta sobre superficies y rendimientos de cultivos. Informe sobre regadíos en España* [en línia], 2020.\n\nUna gran part de l'agricultura de les regions de clima mediterrani depèn del regadiu. El total de la superfície regada a Espanya l'any 2020 era de 3.831.181 ha.",
+      "enunciat": "Exercici 3. Pregunta 3. Exposeu dos riscos naturals associats al clima mediterrani que poden afectar l'activitat agrícola. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Demana **dos riscos** (0,5 punts cadascun): per a cada risc, la característica del clima mediterrani que el provoca i l'efecte sobre els conreus. Un paràgraf per risc, 4-5 línies cadascun."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta en dona tres (cal triar-ne dos):\n\n1. **Sequera i aridesa estival**: estius llargs, càlids i secs → falta d'aigua per al secà.\n2. **Pluges torrencials i inundacions**: precipitacions escasses i irregulars, però intenses a la tardor i la primavera (gota freda) → avingudes que inunden els camps i erosionen el sòl.\n3. **Incendis forestals**: calor i absència de pluja a l'estiu → incendis que poden afectar també els conreus.\n\nAltres de pertinents: pedregades, gelades primerenques o tardanes."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El primer risc és la sequera. En el clima mediterrani els estius són llargs, càlids i secs, i en alguns llocs hi ha una aridesa marcada; a més, les precipitacions anuals són escasses i molt irregulars d'un any a l'altre. La falta d'aigua redueix el rendiment dels conreus de secà (cereals, vinya, olivera), pot fer perdre collites senceres i obliga a restringir el reg quan els embassaments i aqüífers baixen.\n\nEl segon risc són les pluges torrencials i les inundacions. Tot i que plou poc, les pluges es concentren a la tardor i a la primavera i poden ser molt intenses (episodis de gota freda), de manera que en poques hores els rius i rieres es desborden, inunden els camps de conreu, arrasen les collites i s'emporten el sòl fèrtil per erosió.\n\nA aquests es pot afegir el risc d'incendis forestals: les altes temperatures i l'absència de precipitacions a l'estiu assequen la vegetació i afavoreixen grans incendis, que poden arribar a les zones conreades."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Dos riscos entre: estius llargs, càlids i secs amb aridesa que afecta el secà; pluges escasses i irregulars però torrencials a la primavera i la tardor que inunden els camps; incendis forestals per les altes temperatures i la falta de pluja a l'estiu. 0,50 per risc (1 punt)."
+          }
+        ],
+        "nota": "Cal relacionar cada risc amb un tret del clima mediterrani i amb l'agricultura; si només l'anomeneu (p. ex. «sequera») no tindreu la puntuació sencera."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e4-q1",
+      "exercici": 4,
+      "questio": 1,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Ortofotografia de Barcelona: nucli antic i Eixample, morfologia i origen",
+      "tema": "ciutat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "morfologia urbana",
+        "trama irregular",
+        "pla ortogonal",
+        "nucli antic",
+        "eixample cerdà",
+        "ciutat industrial",
+        "ortofotografia"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11,
+        12
+      ],
+      "text": "**Ortofotografia de la ciutat de Barcelona (2020)**\n\n(Ortofotografia aèria en blanc i negre: a l'esquerra i a la part superior, illes quadrades amb xamfrans de l'Eixample; a la dreta i al centre, el teixit dens de carrers estrets i irregulars de Ciutat Vella.)\n\n*Font:* Institut Cartogràfic i Geològic de Catalunya (ICGC).",
+      "enunciat": "Exercici 4. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu la fotografia. Pregunta 1: compareu els dos tipus de trama urbana que es distingeixen a l'ortofotografia i contesteu les preguntes següents. [1 punt]",
+      "figures": [
+        {
+          "src": "img/geografia/2022-J/e4-q1.png",
+          "peu": "Ortofotografia aèria en blanc i negre de Barcelona (2020): a l'esquerra i a dalt, la trama ortogonal de l'Eixample amb illes quadrades i xamfrans; a la dreta i al centre, la trama irregular i densa de Ciutat Vella; a baix a la dreta, part del port. Font: ICGC."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Quines són les característiques morfològiques de cada trama urbana?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "En quins moments històrics s'originen aquestes trames urbanes i de quines dinàmiques socials i demogràfiques són conseqüència?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari d'ortofotografia en dos apartats de 0,5. Primer identifiqueu el document (ortofotografia aèria de Barcelona, 2020, ICGC) i localitzeu les dues trames: l'**Eixample** (illes quadrades amb xamfrans, a l'esquerra i a dalt) i **Ciutat Vella** (teixit dens i irregular, a la dreta). Al a) descriviu la forma (plànol, carrers, illes); al b) l'origen històric i les causes socials i demogràfiques. Compareu sempre les dues trames."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Nucli antic** (Ciutat Vella): plànol **irregular**, carrers **estrets i tortuosos**, sense planificació, illes petites i molt denses, organitzat al voltant de grans edificis (esglésies, palaus) i places.\n- **Eixample**: plànol **ortogonal** (en quadrícula), carrers **amples, rectes i perpendiculars**, illes quadrades iguals amb xamfrans, traçat geomètric i planificat."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "L'ortofotografia de Barcelona (ICGC, 2020) mostra dues trames urbanes molt diferents. A la dreta hi ha el centre històric o nucli antic (Ciutat Vella), format per una trama de carrers estrets, de traçat irregular i tortuós, sense planificació, amb illes petites, de formes diverses i molt atapeïdes, organitzades al voltant de grans edificis com esglésies i palaus i de petites places. A l'esquerra i a la part superior hi ha l'Eixample, una trama ortogonal, amb un traçat geomètric de carrers amples, rectes i perpendiculars entre ells, que formen illes quadrades regulars amb els xamfrans característics."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Nucli antic**: origen **romà** (Barcino) i **medieval**; ciutat preindustrial emmurallada, creixement espontani i alta densitat dins les muralles.\n- **Eixample**: creixement de la **ciutat industrial** des de mitjan segle XIX (enderroc de les muralles, 1854; Pla Cerdà, 1859) i fins al segle XX; respon a l'**augment de població** per l'èxode rural i la industrialització, a l'amuntegament i la insalubritat de la ciutat vella i a la demanda d'habitatge de la burgesia."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El centre històric és la ciutat preindustrial: té un origen romà (la colònia de Barcino) i sobretot medieval, i va créixer de manera espontània dins les muralles, de manera que la població es va anar amuntegant en un espai reduït. L'Eixample, en canvi, respon al creixement de la ciutat industrial que s'inicia a mitjan segle XIX i continua al segle XX: la industrialització i l'arribada de població de l'èxode rural van fer insostenible l'amuntegament i la insalubritat de la ciutat emmurallada, i després de l'enderroc de les muralles (1854) es va construir l'Eixample segons el pla d'Ildefons Cerdà (1859), pensat per a una ciutat higiènica i ben comunicada i ocupat inicialment per la burgesia."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Centre històric o nucli antic: carrers estrets, traçat irregular i sense planificació, al voltant de grans edificis (esglésies, palaus); eixample: trama ortogonal, traçat geomètric i perpendicular, carrers amples i regulars (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Centre històric: ciutat preindustrial d'origen romà o medieval; eixamples: creixement de la ciutat industrial des de mitjan segle XIX i durant el XX (0,50)."
+          }
+        ],
+        "nota": "Les dates (1854, 1859) i el nom de Cerdà no són imprescindibles però donen precisió. Error típic: dir que el nucli antic és «desordenat» sense explicar-ne l'origen, o no fer la comparació entre les dues trames."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e4-q2",
+      "exercici": 4,
+      "questio": 2,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Funcions urbanes del nucli antic i de l'Eixample",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "serveis"
+      ],
+      "conceptes": [
+        "funcions urbanes",
+        "nucli antic",
+        "eixample",
+        "gentrificació",
+        "terciarització",
+        "funció residencial"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Exercici 4. Pregunta 2. Quines són les funcions urbanes principals que es desenvolupen a cadascun dels dos tipus de trama urbana? [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "1 punt: 0,5 per a cada trama. Un paràgraf per al nucli antic i un altre per a l'Eixample. Feu servir el vocabulari de funcions urbanes (residencial, comercial, administrativa, de serveis, turística, cultural) i esmenteu els canvis socials (degradació, gentrificació, terciarització)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Nucli antic (0,50)**: funció administrativa i de serveis (ajuntament, Generalitat), comercial i turística; residencial amb barris de població de rendes baixes o marginal i zones gentrificades de residents benestants.\n2. **Eixample (0,50)**: concebut com a residencial per a les classes benestants; continua sent-ho, però part de la burgesia ha marxat a zones més exclusives i molts habitatges són ara oficines o hi viu població de menys poder adquisitiu; també funcions administratives, de serveis i comercials (centre de negocis)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Al nucli antic predominen la funció administrativa i de serveis, perquè hi ha les seus de les institucions (l'Ajuntament, la Generalitat), i també la funció comercial i turística, amb molts comerços, hotels, restaurants i monuments. Hi ha també una funció residencial contrastada: barris antics habitats per població de rendes baixes, gent gran i immigrants, de vegades en situació marginal, al costat de zones gentrificades on s'han instal·lat residents de classe benestant.\n\nL'Eixample es va concebre inicialment com un espai residencial per a les classes benestants. Avui continua tenint aquesta funció, però molts burgesos s'han traslladat a zones més exclusives de la ciutat, i molts habitatges s'han convertit en oficines o són ocupats per persones amb menys poder adquisitiu. A més, s'ha terciaritzat: hi ha funcions administratives, financeres, de serveis i comercials (eixos comercials com el passeig de Gràcia), fins al punt que és el principal centre de negocis de la ciutat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Nucli antic: funció administrativa i de serveis, comercial i turística; barris antics de població de classe baixa o marginal i zones gentrificades de residents benestants (0,50)."
+          },
+          {
+            "apartat": null,
+            "valor": "Eixample: funció residencial orientada inicialment a les classes benestants, que en part s'han traslladat; habitatges ocupats per oficines i persones de menys poder adquisitiu; funcions administratives, de serveis i comercials (0,50)."
+          }
+        ],
+        "nota": "No us limiteu a dir «residencial» per a totes dues: la pauta valora els matisos socials (gentrificació, terciarització, substitució de la burgesia)."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e4-q3",
+      "exercici": 4,
+      "questio": 3,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Conseqüències de les dues trames urbanes en la mobilitat interna de la ciutat",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "serveis"
+      ],
+      "conceptes": [
+        "mobilitat urbana",
+        "carrers de vianants",
+        "trama irregular",
+        "pla ortogonal",
+        "trànsit"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        13
+      ],
+      "text": "",
+      "enunciat": "Exercici 4. Pregunta 3. Expliqueu les conseqüències que té l'existència d'aquests dos tipus de trama urbana en la mobilitat de dins la ciutat. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "0,5 punts: 4-6 línies comparant la mobilitat a les dues trames. Relacioneu la forma dels carrers (amplada, traçat) amb el tipus de trànsit possible."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Nucli antic**: carrers estrets i irregulars → dificulten el trànsit de vehicles → molts carrers de vianants; s'hi va a peu, en bicicleta o en metro.\n2. **Eixample**: carrers amples, rectes i en quadrícula → faciliten la circulació de tot tipus de vehicles i el transport públic en superfície (bus ortogonal); però més trànsit, soroll i contaminació (d'aquí les superilles)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Al nucli antic, els carrers estrets i irregulars dificulten molt el trànsit de vehicles, i per això molts s'han convertit en carrers de vianants i el transport públic hi arriba sobretot per les vies que el voregen o amb el metro; la mobilitat és majoritàriament a peu. A l'Eixample, en canvi, la geometria i l'amplada dels carrers faciliten la circulació de tot tipus de vehicles, i permeten una xarxa d'autobusos en quadrícula, però també hi concentren un trànsit intens, amb soroll i contaminació, cosa que ha portat a iniciatives com les superilles per guanyar espai per als vianants."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Carrers estrets i irregulars dels nuclis antics: dificulten el trànsit de vehicles; molts són de vianants. Carrers amples i geomètrics dels eixamples: faciliten la circulació de tot tipus de vehicles (0,50)."
+          }
+        ],
+        "nota": "La menció de les superilles és un afegit, no la demana la pauta; l'essencial és el contrast entre les dues trames."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e5-q1",
+      "exercici": 5,
+      "questio": 1,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Fotografia de la Pica d'Estats: espais naturals protegits més visitats després de la COVID-19",
+      "tema": "paisatges",
+      "temes_secundaris": [
+        "serveis"
+      ],
+      "conceptes": [
+        "espais naturals protegits",
+        "parc natural de l'alt pirineu",
+        "collserola",
+        "montseny",
+        "massificació",
+        "covid-19",
+        "comentari de fotografia"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        14
+      ],
+      "text": "**La Pica d'Estats (2021)**\n\n(Fotografia d'un grup nombrós d'excursionistes al cim de la Pica d'Estats, al Pirineu, al costat de la creu del cim.)\n\n*Font:* Clara Blanchar. «Els parcs naturals de Catalunya mantindran les restriccions d'accés després de la pandèmia». *El País* (24 abril 2021).\n\nArran de la pandèmia de COVID-19, els espais naturals protegits de Catalunya han experimentat un increment considerable del nombre de visites turístiques. En diversos parcs naturals s'ha doblat el nombre de visitants i s'han produït problemes de massificació.",
+      "enunciat": "Exercici 5. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu la fotografia i llegiu el text. Pregunta 1: esmenteu alguns dels espais naturals protegits de Catalunya més visitats. Expliqueu en quins tipus d'espais naturals hi pot haver hagut un increment més gran de visitants. [1 punt]",
+      "figures": [
+        {
+          "src": "img/geografia/2022-J/e5-q1.png",
+          "peu": "Fotografia en blanc i negre del cim de la Pica d'Estats (2021) amb un grup nombrós d'excursionistes al voltant de la creu del cim, exemple de massificació d'un espai natural protegit (Parc Natural de l'Alt Pirineu). Font: Clara Blanchar, El País (24 abril 2021)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "1 punt en dues parts: **esmentar espais** (0,20 cadascun fins a 0,60, és a dir, n'hi ha prou amb tres de ben triats) i **explicar quins tipus d'espais** han rebut més visitants (0,20 + 0,20). Comenceu situant la fotografia: el cim de la Pica d'Estats (3.143 m, el més alt de Catalunya), dins el Parc Natural de l'Alt Pirineu, ple d'excursionistes. 8-10 línies."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Espais (0,60)**: propers a Barcelona (**Collserola**, **Montserrat**, **Montseny**); de muntanya pirinenca (**Alt Pirineu**, Aigüestortes i Estany de Sant Maurici, Cadí-Moixeró) o mitjana (**zona volcànica de la Garrotxa**); propers a zones turístiques (**Cap de Creus**, Aiguamolls de l'Empordà, Delta de l'Ebre).\n2. **Tipus d'espais (0,40)**: els **propers a les zones urbanes** (accessibles en poc temps quan la mobilitat estava restringida) i els que faciliten l'**activitat esportiva i el turisme actiu i d'aventura**, com els de muntanya (necessitat d'aire lliure després del confinament)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La fotografia mostra el cim de la Pica d'Estats, el punt més alt de Catalunya (3.143 m), dins el Parc Natural de l'Alt Pirineu, ple d'excursionistes el 2021, un exemple de la massificació que han patit els espais naturals després de la pandèmia.\n\nEntre els espais naturals protegits més visitats de Catalunya hi ha els propers a Barcelona, com el Parc Natural de Collserola, la muntanya de Montserrat i el Montseny; els espais de muntanya pirinenca, com el Parc Natural de l'Alt Pirineu o el Parc Nacional d'Aigüestortes i Estany de Sant Maurici, i de muntanya mitjana, com la zona volcànica de la Garrotxa; i els propers a zones turístiques, com el Parc Natural del Cap de Creus.\n\nL'increment més gran de visitants s'ha produït en dos tipus d'espais. D'una banda, en els propers a les zones urbanes, perquè durant la pandèmia els desplaçaments llargs i els viatges a l'estranger estaven limitats i la població de l'àrea metropolitana va buscar natura a prop de casa. De l'altra, en els espais amb característiques que faciliten l'activitat esportiva a l'aire lliure i el turisme actiu i d'aventura, com els de muntanya, ja que després del confinament va créixer molt la demanda d'excursionisme, ciclisme o alpinisme, activitats que es consideraven més segures que les d'interior."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Espais: propers a Barcelona (Collserola, Montserrat, Montseny); de muntanya mitjana o alta pirinenca (Alt Pirineu, Garrotxa); propers a zones turístiques (Cap de Creus). 0,20 per espai fins a 0,60."
+          },
+          {
+            "apartat": null,
+            "valor": "Increment més gran en espais propers a les zones urbanes (0,20) i en espais que faciliten l'activitat esportiva i el turisme actiu i d'aventura, com els de muntanya (0,20)."
+          }
+        ],
+        "nota": "Cal esmentar com a mínim tres espais per tenir el 0,60. No n'hi ha prou amb la llista: la segona part (tipus d'espais i per què) també puntua. L'alçada de la Pica d'Estats és una dada externa."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e5-q2",
+      "exercici": 5,
+      "questio": 2,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Aspectes positius i negatius del turisme als espais naturals",
+      "tema": "serveis",
+      "temes_secundaris": [
+        "paisatges",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "turisme de natura",
+        "espais naturals protegits",
+        "impacte ambiental",
+        "desenvolupament rural",
+        "massificació"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        15
+      ],
+      "text": "**La Pica d'Estats (2021)**\n\n(Fotografia d'un grup nombrós d'excursionistes al cim de la Pica d'Estats, al Pirineu, al costat de la creu del cim.)\n\n*Font:* Clara Blanchar. «Els parcs naturals de Catalunya mantindran les restriccions d'accés després de la pandèmia». *El País* (24 abril 2021).\n\nArran de la pandèmia de COVID-19, els espais naturals protegits de Catalunya han experimentat un increment considerable del nombre de visites turístiques. En diversos parcs naturals s'ha doblat el nombre de visitants i s'han produït problemes de massificació.",
+      "enunciat": "Exercici 5. Pregunta 2. Exposeu els aspectes positius i negatius del turisme vinculat als espais naturals. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "1 punt: 0,50 per als aspectes positius i 0,50 per als negatius, a 0,25 per aspecte ben explicat (n'hi ha prou amb dos de cada). Feu dos paràgrafs, un de positius i un de negatius, amb exemples concrets."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "**Positius (0,50)**:\n\n1. Més riquesa en zones rurals i de muntanya amb renda inferior a la mitjana catalana (allotjaments, restauració, guies).\n2. Ingressos per als parcs (productes locals, activitats i serveis dels equipaments).\n3. Difusió del coneixement dels valors naturals.\n\n**Negatius (0,50)**:\n\n1. Impacte ambiental: residus, molèsties a la fauna, soroll, afectació de cursos d'aigua, erosió (vehicles motoritzats, sortida de camins).\n2. Conflictes de convivència amb veïns, pagesos i ramaders (soroll, ocupació de camins, desgast d'infraestructures).\n3. Encariment del cost de la vida en zones molt turístiques."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El turisme vinculat als espais naturals té aspectes positius. En primer lloc, aporta riquesa i ocupació a zones rurals i de muntanya que sovint tenen una renda inferior a la mitjana catalana, gràcies a l'allotjament rural, la restauració, les empreses d'activitats o els guies, i ajuda a frenar el despoblament. En segon lloc, contribueix al pressupost dels parcs naturals, a través de la compra de productes locals i de les activitats i serveis que ofereixen els equipaments de gestió. A més, difon el coneixement i la valoració dels valors naturals de cada zona i del país.\n\nTambé té aspectes negatius. El principal és l'impacte ambiental: augmenten els residus, el soroll i les molèsties als animals (sobretot en època de cria), s'afecten els cursos d'aigua i els vehicles motoritzats i la gent que surt dels camins provoquen erosió. A més, es generen problemes de convivència amb els veïns, pagesos i ramaders als punts i itineraris més freqüentats, per soroll, ocupació de camins i espai públic o desgast dels vials. Finalment, en les àrees amb molta presència turística augmenta el cost de la vida i de l'habitatge per a la població local."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Positius (0,25 cadascun fins a 0,50): més riquesa en zones amb renda inferior a la mitjana; ajut al pressupost dels parcs (productes locals, activitats i serveis); difusió del coneixement dels valors naturals."
+          },
+          {
+            "apartat": null,
+            "valor": "Negatius (0,25 cadascun fins a 0,50): impacte ambiental (residus, molèsties a animals, soroll, cursos d'aigua, erosió per vehicles motoritzats); problemes de convivència amb veïns, pagesos i ramaders; increment del cost de la vida."
+          }
+        ],
+        "nota": "Equilibreu les dues parts: una resposta només amb inconvenients perd la meitat de la nota. Es valoren altres aspectes pertinents."
+      }
+    },
+    {
+      "id": "geografia-2022-J-e5-q3",
+      "exercici": 5,
+      "questio": 3,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Tres mesures per reduir la massificació dels espais naturals protegits",
+      "tema": "paisatges",
+      "temes_secundaris": [
+        "serveis",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "espais naturals protegits",
+        "massificació",
+        "restriccions d'accés",
+        "zonificació",
+        "gestió turística"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "**La Pica d'Estats (2021)**\n\n(Fotografia d'un grup nombrós d'excursionistes al cim de la Pica d'Estats, al Pirineu, al costat de la creu del cim.)\n\n*Font:* Clara Blanchar. «Els parcs naturals de Catalunya mantindran les restriccions d'accés després de la pandèmia». *El País* (24 abril 2021).\n\nArran de la pandèmia de COVID-19, els espais naturals protegits de Catalunya han experimentat un increment considerable del nombre de visites turístiques. En diversos parcs naturals s'ha doblat el nombre de visitants i s'han produït problemes de massificació.",
+      "enunciat": "Exercici 5. Pregunta 3. Indiqueu tres mesures que ja s'apliquen o que es podrien aplicar per a reduir l'afluència de gent als espais naturals protegits que estan més massificats. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "0,5 punts: la pauta dona 0,25 per mesura fins a 0,50, però l'enunciat en demana tres; doneu-ne tres, cadascuna en una o dues línies, amb un exemple si en sabeu (accés en llançadora a Aigüestortes, aparcament regulat a Montserrat o al Montseny)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Mesures acceptades:\n\n1. Restriccions d'accés de persones en determinats punts o itineraris (cupos, reserva prèvia).\n2. Restriccions d'accés motoritzat (tancament de pistes, aparcaments limitats, transport públic o llançadores).\n3. Fer pagar per l'accés a determinades zones.\n4. Crear punts d'interès en espais de menor valor natural per concentrar-hi la gent.\n5. Ordenació, zonificació i planificació de l'espai segons la freqüentació."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Una primera mesura és restringir l'accés de persones a determinats punts o itineraris, amb un nombre màxim de visitants o reserva prèvia. Una segona és restringir l'accés motoritzat, tancant pistes forestals i limitant els aparcaments, i oferir en canvi transport públic o llançadores, com es fa al Parc Nacional d'Aigüestortes i Estany de Sant Maurici. Una tercera és fer pagar per accedir a les zones més massificades o per aparcar-hi. També es pot ordenar i zonificar l'espai, creant punts d'interès en zones de menor valor natural per concentrar-hi la gent i deixar més lliures les àrees de més valor."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Mesures (0,25 cadascuna fins a 0,50): restriccions d'accés de persones o motoritzat a determinats punts o itineraris; pagament per l'accés; punts d'interès en espais de menor valor natural per concentrar-hi la gent; ordenació, zonificació i planificació segons la freqüentació."
+          }
+        ],
+        "nota": "La pauta puntua dues mesures fins al màxim, però l'enunciat en demana tres: doneu-ne tres per assegurar-vos la nota."
+      }
+    }
+  ]
+}

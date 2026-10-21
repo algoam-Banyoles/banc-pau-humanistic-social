@@ -1,0 +1,943 @@
+{
+  "examen": {
+    "id": "geografia-2022-S",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2022,
+    "convocatoria": "setembre",
+    "serie": "3",
+    "pdf_examen": "pdfs/geografia/2022-S-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2022-S-solucio.pdf",
+    "estructura": "Sèrie 3 (convocatòria extraordinària). Cal respondre QUATRE dels cinc exercicis; cada exercici val 2,5 punts (total 10). Si es responen més exercicis, només es valoren els quatre primers. Cada exercici parteix d'un document i té 2 o 3 preguntes, algunes amb apartats: exercici 1, mapa de les províncies amb més d'un 9 % de residents a l'estranger (1,5 + 0,5 + 0,5); exercici 2, mapa de la taxa d'atur a Europa (1 + 1,5); exercici 3, fotografia del Pirineu a la Vall d'Aran (1,5 + 0,5 + 0,5); exercici 4, gràfic dels usuaris d'Internet al món (1,5 + 1); exercici 5, taula de la variació prevista de la temperatura i la precipitació a Catalunya (1,5 + 1). Les pautes valoren, a més del contingut, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2022-S-e1-q1",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Mapa de les províncies amb més emigrants a l'estranger (2020): motius de l'emigració espanyola",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "emigració",
+        "moviments migratoris",
+        "despoblament rural",
+        "reconversió industrial",
+        "galícia",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**Les deu províncies amb més d'un 9 % de residents a l'estranger (2020)**\n\n(Mapa de les províncies d'Espanya. Les deu províncies amb més d'un 9 % de residents a l'estranger estan senyalades en gris fosc amb un número de l'1 al 10.)\n\n*Font:* Instituto Nacional de Estadística (INE).",
+      "enunciat": "Exercici 1. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el mapa. Pregunta 1: el mapa mostra les deu províncies que tenen un percentatge de població emigrada a l'estranger superior al 9 %. Observeu el mapa i contesteu les qüestions següents. [1,5 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2022-S/e1-q1.png",
+          "peu": "Mapa de coropletes de les províncies d'Espanya (2020). En gris fosc, les deu províncies amb més d'un 9 % de la seva població resident a l'estranger, numerades de l'1 al 10: un bloc continu al nord-oest peninsular (1-8), una província aïllada al centre-est de Castella i Lleó (9) i una a les Canàries occidentals (10). Font: INE."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Expliqueu per quins motius la població espanyola emigra a l'estranger.",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Per què les províncies indicades en el mapa són les que tenen un percentatge més alt de població emigrada a l'estranger?",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de mapa d'1,5 punts amb dos apartats desiguals: **a)** val 0,5 i és general (motius de l'emigració espanyola), **b)** val 1 punt i demana relacionar el mapa amb les característiques d'aquelles províncies. Comenceu llegint el mapa: títol (províncies amb més d'un 9 % de residents a l'estranger), any (2020), tipus (mapa de coropletes amb una sola categoria) i font (INE). Localitzeu la distribució: un **bloc al nord-oest** (Galícia, Astúries, oest de Castella i Lleó), **Sòria** i **Santa Cruz de Tenerife**. Extensió: 6-8 línies per al a) i 10-12 per al b). Temps: uns 10-12 minuts (l'examen dura 1,5 h per a quatre exercicis). Error típic: al b) repetir les causes generals del a) sense lligar-les al territori concret del mapa."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Les pautes (0,50) demanen una combinació de **causes econòmiques i demogràfiques**:\n\n1. **Econòmiques**: economies agràries que ocupen poca mà d'obra i de manera discontínua al llarg de l'any; manca de llocs de treball i salaris baixos.\n2. **Demogràfiques**: creixement de la població sense creació de llocs de treball → desocupació (excedent de població).\n3. **Context històric**: és el que va provocar les grans migracions a l'estranger dels segles XIX i XX (cap a Amèrica i, als anys 60, cap a l'Europa occidental).\n\nPodeu afegir-hi l'emigració recent (després de la crisi del 2008) de joves qualificats, i que el percentatge inclou els descendents dels antics emigrants."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Les motivacions per emigrar són diverses, però en el cas de la població espanyola han estat, històricament, una combinació de causes econòmiques i demogràfiques. Durant els segles XIX i XX bona part del país tenia una economia agrària poc mecanitzada, que ocupava poca mà d'obra i sovint només unes temporades l'any. Quan la població creixia sense que es creessin nous llocs de treball, apareixia un excedent de població desocupada o subocupada que havia de buscar feina fora: primer a Amèrica (Argentina, Cuba, Veneçuela, Mèxic) i, als anys seixanta, als països industrials d'Europa (França, Alemanya, Suïssa). Més recentment, la crisi econòmica del 2008 i l'atur juvenil han tornat a impulsar l'emigració, ara sobretot de joves amb estudis superiors que busquen millors oportunitats laborals a l'estranger."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Les pautes (1 punt) valoren:\n\n1. **Localització**: nord-oest peninsular (Galícia, Astúries, Lleó, Zamora, Salamanca), Sòria i les illes occidentals de les Canàries.\n2. **Escàs dinamisme econòmic**, sobretot a l'**espai rural**: forta dependència del **sector primari** (minifundi gallec, agricultura de subsistència, pesca).\n3. Àmbits que han patit **reconversions** dures de la **indústria o la mineria** (mineria del carbó d'Astúries i Lleó, drassanes i siderúrgia).\n4. **Tradició migratòria**: han participat en els grans moviments de població del segle XX (migracions **transoceàniques** cap a Amèrica i cap a **Europa**), i es mantenen les xarxes familiars i els descendents amb nacionalitat espanyola.\n\nLes pautes valoren també que s'esmentin diferències entre províncies (p. ex. Canàries/Galícia → Amèrica; Castella i Lleó → Europa i altres regions d'Espanya)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Les deu províncies del mapa formen un bloc continu al nord-oest peninsular (les quatre gallegues, Astúries, Lleó, Zamora i Salamanca), a les quals cal afegir Sòria, a l'interior de Castella i Lleó, i Santa Cruz de Tenerife, a les illes occidentals de les Canàries. Són espais amb un escàs dinamisme econòmic, sobretot a les àrees rurals: han depès molt del sector primari, amb explotacions petites (com el minifundi gallec) i una agricultura i ramaderia poc rendibles, i algunes han patit durs processos de reconversió de la mineria del carbó (Astúries, Lleó) o de la indústria naval i siderúrgica. La manca de feina ha empès la població a marxar durant generacions.\n\nA més, aquestes províncies tenen una llarga tradició migratòria: van participar intensament en els grans moviments del segle XX. Galícia, Astúries i les Canàries van enviar molts emigrants a Amèrica (Argentina, Cuba, Veneçuela, Uruguai), i les províncies de Castella i Lleó i Galícia van aportar emigrants cap a l'Europa occidental als anys seixanta. Avui encara hi ha moltes persones nascudes en aquestes províncies, i els seus descendents, que hi estan inscrits com a residents a l'estranger, i les xarxes familiars faciliten noves sortides, sobretot de joves. Per això el seu percentatge de població resident a l'estranger supera el 9 %."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Causes econòmiques i demogràfiques: economies agràries amb poca ocupació i discontínua; creixement de la població sense creació de llocs de treball → desocupació; causa de les migracions a l'estranger dels segles XIX i XX. (0,50)"
+          },
+          {
+            "apartat": "b",
+            "valor": "Nord-oest peninsular i illes occidentals de les Canàries; escàs dinamisme econòmic, sobretot rural; dependència del sector primari o reconversió de la indústria i la mineria; participació en els grans moviments de població del segle XX (migracions transoceàniques i cap a Europa); es valoren les diferències entre províncies. (1)"
+          }
+        ],
+        "nota": "Al b) no n'hi ha prou de dir \"són pobres\": cal localitzar les províncies (nord-oest, Sòria, Tenerife), anomenar el sector econòmic que les caracteritza i la seva tradició migratòria. El mapa no dona xifres concretes de cada província; només que superen el 9 %. Recordeu que \"residents a l'estranger\" inclou també fills i néts d'emigrants amb nacionalitat espanyola."
+      }
+    },
+    {
+      "id": "geografia-2022-S-e1-q2",
+      "exercici": 1,
+      "questio": 2,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Efecte de l'emigració en la piràmide d'edats de les províncies emissores",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "piràmide d'edats",
+        "envelliment",
+        "emigració",
+        "estructura per edats"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Les deu províncies amb més d'un 9 % de residents a l'estranger (2020)**\n\n(Mapa de les províncies d'Espanya. Les deu províncies amb més d'un 9 % de residents a l'estranger estan senyalades en gris fosc amb un número de l'1 al 10.)\n\n*Font:* Instituto Nacional de Estadística (INE).",
+      "enunciat": "Exercici 1. Pregunta 2. Aquest fenomen pot tenir algun efecte en la piràmide d'edats dels habitants d'aquestes províncies? De quin tipus? Raoneu la resposta. [0,5 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2022-S/e1-q1.png",
+          "peu": "Mapa de coropletes de les províncies d'Espanya (2020). En gris fosc, les deu províncies amb més d'un 9 % de la seva població resident a l'estranger, numerades de l'1 al 10: un bloc continu al nord-oest peninsular (1-8), una província aïllada al centre-est de Castella i Lleó (9) i una a les Canàries occidentals (10). Font: INE."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta breu de 0,5 punts: cal respondre **sí**, dir **quin efecte** (envelliment) i **raonar-lo** (qui emigra són els joves). Si podeu, descriviu com quedaria la piràmide. Extensió: 4-6 línies. Temps: 3-4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Qui emigra és sobretot població **jove i adulta jove** en edat de treballar.\n2. Efecte directe: la base i el centre de la piràmide s'estrenyen, i en proporció pesen més els adults grans i la gent gran → **envelliment**.\n3. Efecte indirecte: marxen persones en edat de tenir fills → menys naixements, base encara més estreta (piràmide **regressiva** o en forma d'urna/bulb invertit) i creixement natural negatiu.\n4. Opcional: si emigren més homes que dones, desequilibri entre sexes en les edats adultes."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Sí. L'efecte principal és l'accentuació de l'envelliment de la població. Els qui emigren són majoritàriament joves i adults joves en edat de treballar, de manera que en aquestes províncies els grups d'edat de 20 a 40 anys s'aprimen i, en proporció, augmenta el pes dels adults de més edat i de la gent gran. A més, com que marxen les persones en edat de tenir fills, disminueix la natalitat i la base de la piràmide s'estreny encara més. El resultat és una piràmide regressiva, en forma d'urna, amb una base estreta i una cúspide ampla, pròpia de poblacions envellides amb creixement natural negatiu."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Accentuació de l'envelliment: estructura d'edats on predominen els adults de més edat i la gent gran, perquè la població afectada per l'emigració és la jove. (0,50)"
+          }
+        ],
+        "nota": "No us quedeu en un \"sí\": la pregunta diu \"raoneu la resposta\". Feu servir vocabulari tècnic: envelliment, piràmide regressiva, base estreta, creixement natural negatiu."
+      }
+    },
+    {
+      "id": "geografia-2022-S-e1-q3",
+      "exercici": 1,
+      "questio": 3,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Identificació de cinc de les províncies numerades al mapa",
+      "tema": "territori",
+      "temes_secundaris": [
+        "poblacio"
+      ],
+      "conceptes": [
+        "províncies d'espanya",
+        "localització",
+        "galícia",
+        "castella i lleó",
+        "canàries"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Les deu províncies amb més d'un 9 % de residents a l'estranger (2020)**\n\n(Mapa de les províncies d'Espanya. Les deu províncies amb més d'un 9 % de residents a l'estranger estan senyalades en gris fosc amb un número de l'1 al 10.)\n\n*Font:* Instituto Nacional de Estadística (INE).",
+      "enunciat": "Exercici 1. Pregunta 3. Escriviu el nom de cinc de les províncies senyalades al mapa i anoteu el número que les identifica. [0,5 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2022-S/e1-q1.png",
+          "peu": "Mapa de coropletes de les províncies d'Espanya (2020). En gris fosc, les deu províncies amb més d'un 9 % de la seva població resident a l'estranger, numerades de l'1 al 10: un bloc continu al nord-oest peninsular (1-8), una província aïllada al centre-est de Castella i Lleó (9) i una a les Canàries occidentals (10). Font: INE."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de localització de 0,5 punts: cal escriure **cinc** províncies amb el seu número. Les pautes donen 0,05 punts per província ben identificada (amb cinc, 0,25; però val la pena posar-les totes, perquè també puntuen). Temps: 2 minuts. Error típic: confondre les províncies gallegues entre elles."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Orienteu-vos amb la costa: a Galícia, la Corunya és la del nord-oest (4), Pontevedra la del sud-oest, a la costa (3), Lugo l'interior nord (2) i Ourense l'interior sud (1). A l'est de Galícia, Astúries a la costa cantàbrica (5) i Lleó a sota (6). Baixant per la frontera amb Portugal, Zamora (7) i Salamanca (8). La 9, aïllada a l'est de Castella i Lleó, és Sòria. La 10, l'illa més gran de les Canàries occidentals, és Tenerife (província de Santa Cruz de Tenerife)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "1) Ourense; 2) Lugo; 3) Pontevedra; 4) la Corunya; 5) Astúries; 6) Lleó; 7) Zamora; 8) Salamanca; 9) Sòria; 10) Santa Cruz de Tenerife."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "1 Ourense, 2 Lugo, 3 Pontevedra, 4 la Corunya, 5 Astúries, 6 Lleó, 7 Zamora, 8 Salamanca, 9 Sòria, 10 Santa Cruz de Tenerife. 0,05 punts per província ben identificada. (0,50)"
+          }
+        ],
+        "nota": "Segons la pauta, cada província correcta val 0,05 punts; amb cinc províncies només se n'obtenen 0,25, per això la resposta model les dona totes deu. La província 10 és Santa Cruz de Tenerife (que inclou Tenerife, la Gomera, la Palma i el Hierro), no \"Tenerife\" a seques."
+      }
+    },
+    {
+      "id": "geografia-2022-S-e2-q1",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Mapa de la taxa d'atur a les regions europees (2020): distribució i causes",
+      "tema": "territori",
+      "temes_secundaris": [
+        "mon",
+        "industria"
+      ],
+      "conceptes": [
+        "taxa d'atur",
+        "unió europea",
+        "desequilibris regionals",
+        "europa mediterrània",
+        "terciarització",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "**Taxa d'atur a Europa (2020)**\n\n(Mapa de coropletes de les regions europees. Llegenda: UE = 7,1 %; <3,6 %; 3,6 %-7,0 %; 7,1 %-10,6 %; 10,7 %-14,1 %; ≥14,2 %; sense dades.)\n\n*Font:* Adaptació d'un mapa de *http://www.ec.europa.eu/eurostat*.\n\nLa taxa d'atur és un indicador que reflecteix la situació del mercat de treball. Els països que formen part de la Unió Europea (UE) tenen unes taxes d'atur força diferents.",
+      "enunciat": "Exercici 2. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el mapa i contesteu. Pregunta 1: identifiqueu les àrees geogràfiques on es concentren les regions amb una taxa d'atur més alta i també l'àrea geogràfica on la taxa d'atur és més baixa. Expliqueu les causes d'aquesta distribució. [1 punt]",
+      "figures": [
+        {
+          "src": "img/geografia/2022-S/e2-q1.png",
+          "peu": "Mapa de coropletes de la taxa d'atur per regions europees (NUTS 2) el 2020. Mitjana de la UE: 7,1 %. Llegenda en cinc intervals, del més clar al més fosc: menys del 3,6 %, 3,6-7,0 %, 7,1-10,6 %, 10,7-14,1 % i 14,2 % o més (vermell); en gris, sense dades. Els vermells es concentren a Espanya, el sud d'Itàlia i Grècia; els tons més clars, a Alemanya, la República Txeca, Polònia i els Països Baixos. Font: Eurostat."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de mapa d'1 punt dividit per les pautes en dues meitats: **identificar** les àrees (0,50) i **explicar** les causes (0,50). Primer llegiu el mapa: títol, any (2020), tipus (coropletes per regions), llegenda (mitjana UE 7,1 %, cinc intervals) i font (Eurostat). Feu servir els intervals de la llegenda com a xifres. Extensió: 10-12 línies. Temps: 8-10 minuts. Error típic: només descriure, o només donar causes sense localitzar."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Atur més alt** (vermell, ≥14,2 %, el doble de la mitjana de la UE): **sud d'Europa**: gran part d'Espanya (sobretot el sud i les Canàries), el **sud d'Itàlia** (Calàbria, Sicília, Campània) i **Grècia**. També valors alts (10,7-14,1 %) a parts de França, Suècia i Finlàndia.\n2. **Atur més baix** (<3,6 % i 3,6-7 %): **centre i nord d'Europa**: Alemanya, Països Baixos, República Txeca, Polònia, Àustria, sud d'Escandinàvia.\n3. **Causes** (estructura econòmica):\n   - Centre i nord: pes de la **indústria** moderna i dels **serveis d'alt valor afegit** (finances, tecnologia, I+D).\n   - Sud mediterrani: més pes de l'**agricultura** extensiva de secà (vinya, olivera), feble industrialització i dependència de sectors estacionals i vulnerables (turisme, construcció), molt afectats per la crisi del 2008 i per la covid-19 el 2020."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El mapa mostra la taxa d'atur de les regions europees el 2020, quan la mitjana de la UE era del 7,1 %. Les regions amb l'atur més alt, per sobre del 14,2 % (el doble de la mitjana), es concentren al sud d'Europa: la major part d'Espanya, sobretot Andalusia, Extremadura i les Canàries, el sud d'Itàlia i Grècia. Altres àrees amb valors alts, entre el 10,7 % i el 14,1 %, són regions de França, Suècia i Finlàndia. En canvi, l'àrea on l'atur és més baix, per sota del 3,6 % o entre el 3,6 % i el 7 %, és el centre i el nord d'Europa: Alemanya, els Països Baixos, la República Txeca, Polònia i Àustria.\n\nAquesta distribució s'explica per l'estructura econòmica de cada territori. Als països del centre i del nord hi predomina una indústria moderna i, sobretot, uns serveis d'alt valor afegit (finances, tecnologia, recerca), que generen ocupació estable i qualificada. A les regions meridionals dels països mediterranis, en canvi, l'agricultura basada en monocultius extensius de secà, com la vinya i l'olivera, encara té un pes considerable, el grau d'industrialització és baix i l'economia depèn de sectors estacionals i molt sensibles a les crisis, com el turisme i la construcció, que el 2020 van patir especialment els efectes de la pandèmia."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Taxes més baixes al centre i el nord d'Europa (Alemanya, Polònia, Països Baixos, República Txeca, Àustria...); taxes més altes als països del sud (Espanya, sud d'Itàlia, Grècia). (0,50)"
+          },
+          {
+            "apartat": null,
+            "valor": "Causes: estructura econòmica. Al nord i centre, predomini de la indústria i dels serveis d'alt valor afegit; a les regions meridionals, pes de l'agricultura de monocultius extensius de secà (vinya i olivera) i grau d'industrialització molt baix. (0,50)"
+          }
+        ],
+        "nota": "La pauta diu que les taxes més altes són \"per sobre del 16 %\", però la llegenda del mapa marca com a interval superior \"≥14,2 %\": a l'examen feu servir els intervals de la llegenda. El 2020 és un any excepcional (pandèmia de covid-19), que va afectar més les economies que depenen del turisme."
+      }
+    },
+    {
+      "id": "geografia-2022-S-e2-q2",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 1.5,
+      "titol": "Característiques de l'economia de la UE: sector primari, indústria, serveis i transports",
+      "tema": "mon",
+      "temes_secundaris": [
+        "primari",
+        "industria",
+        "serveis"
+      ],
+      "conceptes": [
+        "unió europea",
+        "sector primari",
+        "indústria",
+        "terciarització",
+        "xarxes de transport",
+        "política agrària comuna"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "",
+      "enunciat": "Exercici 2. Pregunta 2. Expliqueu les característiques de l'economia de la UE centrant-vos en les qüestions següents. [1,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Quines són les característiques principals del sector primari de la UE?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "I les característiques principals de la indústria de la UE?",
+          "punts": 0.5
+        },
+        {
+          "id": "c",
+          "enunciat": "Quins són els serveis i les xarxes de transport essencials a la UE?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta teòrica d'1,5 punts amb tres apartats de 0,5. Podeu començar amb una frase general (economia molt competitiva a escala mundial i amb domini del sector terciari) i després respondre cada apartat per separat. Per a cada sector: pes en l'economia i en l'ocupació, tendència i trets principals, amb exemples. Extensió: 5-7 línies per apartat. Temps: 12 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Ha **perdut importància** en el PIB i l'ocupació (poca població activa: menys del 5 %).\n2. Causa: **mecanització** i modernització → més productiu i rendible però amb poca mà d'obra.\n3. Opcional: forta dependència de les subvencions de la **PAC**, diversitat d'agricultures (cerealística al nord, mediterrània al sud), pesca regulada per quotes."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "L'economia de la UE és molt competitiva a escala mundial i està dominada pel sector terciari. El sector primari (agricultura, ramaderia i pesca) ha perdut molta importància en el conjunt de l'economia europea: aporta una part petita del PIB i ocupa un percentatge baix de la població activa. Això es deu a la mecanització i la modernització de les explotacions, que les han fet més productives i rendibles però que necessiten poca mà d'obra. És una agricultura molt intensiva en capital, amb produccions diverses (cereals i ramaderia al nord, conreus mediterranis al sud) i molt condicionada per la Política Agrària Comuna (PAC), que la subvenciona i en regula la producció."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "1. La indústria **decreix lentament** (desindustrialització, deslocalització).\n2. Causa: **globalització** i competència dels productes de països tercers (Àsia) amb costos més baixos.\n3. Però continua generant molta ocupació en branques clau: **maquinària**, **equipaments electrònics**, **alimentació**, **química** i **material de transport** (automòbil, aeronàutica).\n4. Opcional: concentració a l'eix central europeu (\"banana blava\") i aposta per la innovació i l'alta tecnologia."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "La indústria de la UE perd pes lentament, a causa de la globalització econòmica i de la competència de productes fabricats en països tercers, sobretot asiàtics, amb costos de producció més baixos, cosa que ha provocat la deslocalització de moltes fàbriques. Tot i això, continua sent una gran potència industrial i genera una ocupació important en branques com la maquinària, els equipaments electrònics, l'alimentació, la química i el material de transport (automòbil, aeronàutica). La indústria es concentra sobretot a l'eix central europeu, d'Anglaterra al nord d'Itàlia passant per l'Alemanya renana, i aposta per la innovació i els productes d'alt valor afegit."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Terciarització**: el sector terciari és el predominant; hi treballa **més de la meitat** de la població activa (prop del 70 %). Serveis destacats: comerç, finances, turisme, transports.\n2. **Transports** molt ben organitzats:\n   - **Marítim**: grans ports a l'Atlàntic/mar del Nord (Rotterdam, Anvers, Hamburg) i a la Mediterrània (Barcelona, València, Gènova).\n   - **Aeri**: aeroports que són *hubs* internacionals (Frankfurt, París, Amsterdam, Madrid).\n   - **Carretera**: xarxa d'autopistes que connecta capitals i grans ciutats.\n   - **Ferrocarril**: xarxa europea d'alta velocitat en desenvolupament (corredors transeuropeus, com el corredor mediterrani)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "El sector terciari és el predominant a la UE, a causa del procés de terciarització de les darreres dècades: actualment hi treballa més de la meitat de la població activa. Hi destaquen el comerç, els serveis financers, el turisme i els transports. Les xarxes de transport europees estan molt ben organitzades. El transport marítim compta amb grans ports tant a l'Atlàntic i el mar del Nord (Rotterdam, Anvers, Hamburg) com a la Mediterrània (Barcelona, Marsella, Gènova). Diversos aeroports, com els de Frankfurt, París o Amsterdam, són *hubs* de vols internacionals. Una bona xarxa d'autopistes connecta les capitals i les grans ciutats i permet un transport fluid de mercaderies per carretera, i la xarxa europea de ferrocarril d'alta velocitat, amb els corredors transeuropeus, està en procés de desenvolupament."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Pèrdua d'importància del sector primari; molt poca població activa en agricultura i ramaderia per la mecanització i la modernització, que el fan més productiu i rendible. (0,50)"
+          },
+          {
+            "apartat": "b",
+            "valor": "La indústria decreix lentament per la globalització i la competència de països tercers, però genera ocupació en maquinària, electrònica, alimentació, química i material de transport. (0,50)"
+          },
+          {
+            "apartat": "c",
+            "valor": "Predomini del terciari (terciarització; més de la meitat de la població activa): serveis, comerç i transports. Xarxes: grans ports atlàntics i mediterranis, aeroports hub, autopistes entre capitals, xarxa ferroviària d'alta velocitat en desenvolupament. (0,50)"
+          }
+        ],
+        "nota": "Responeu cada apartat amb la seva lletra. A cada sector, doneu una tendència i una causa, i a la indústria i els transports, exemples concrets (branques, ports, aeroports). Les dades de percentatges són orientatives."
+      }
+    },
+    {
+      "id": "geografia-2022-S-e3-q1",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Fotografia de la Vall d'Aran: estructura del Pirineu i modelat glacial",
+      "tema": "relleu",
+      "temes_secundaris": [
+        "paisatges"
+      ],
+      "conceptes": [
+        "pirineu axial",
+        "prepirineu",
+        "depressió mitjana",
+        "modelat glacial",
+        "circs glacials",
+        "vall d'aran",
+        "comentari de fotografia"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8,
+        9
+      ],
+      "text": "**El paisatge dels Pirineus (Vilac, Vall d'Aran)**\n\n(Fotografia d'un poble de muntanya en un vessant, amb prats i arbres al primer pla, vessants boscosos i, al fons, cims amb neu.)\n\n*Font:* Fotografia cedida pel Laboratori d'Anàlisi i Gestió del Paisatge (LAGP), Universitat de Girona.",
+      "enunciat": "Exercici 3. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu la fotografia. Pregunta 1: la imatge mostra un paisatge propi del Pirineu axial. Expliqueu l'estructura general de la serralada pirinenca responent a les qüestions següents. [1,5 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2022-S/e3-q1.png",
+          "peu": "Fotografia en color del paisatge de Vilac (Vall d'Aran), al Pirineu axial: un nucli de cases de pedra i llosa en un vessant, prats i arbres fruiters al primer pla, vessants coberts de bosc de coníferes i, al fons, una vall i cims amb neu. Font: LAGP, Universitat de Girona."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Compareu el relleu del Pirineu axial amb el dels Prepirineus i expliqueu les característiques de l'un i de l'altre.",
+          "punts": 1
+        },
+        {
+          "id": "b",
+          "enunciat": "Les glaceres de muntanya van originar diverses formes de relleu. Quines són i on es poden observar?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1,5 punts sobre l'estructura dels Pirineus a partir d'una fotografia. L'**a)** val 1 punt i la pauta el reparteix en tres parts: estructura general de la serralada (0,25), Pirineu axial amb exemples de cims (0,25) i Prepirineu amb les seves unitats (0,50). El **b)** val 0,5: formes glacials i exemples de llocs. Comenceu situant la fotografia (Vall d'Aran, Pirineu axial: altes cotes nevades, vall profunda, boscos). Extensió: 12-15 línies per al a) i 6-8 per al b). Temps: 12-14 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Estructura general** (0,25): serralada d'orientació **oest-est**, de més de 100 km d'amplada, formada per alineacions paral·leles que baixen en grans esglaons des de la part central; dues grans unitats: **Pirineu axial** i **Prepirineu**.\n2. **Pirineu axial** (0,25): les **altituds més grans**; roques **ígnies i metamòrfiques** (granits, pissarres) del Paleozoic; cims i massissos elevats que **perden altitud d'oest a est**. Cal citar **tres** cims o massissos: Besiberri/Comaloforno, pica d'Estats (3.143 m), puig Pedrós, Puigmal, Bastiments, serra de l'Albera.\n3. **Prepirineu** (0,50): **menys altitud** i formes més suaus; materials **calcaris** (sedimentaris); dues alineacions paral·leles: **serres interiors** (més de 2.500 m: Cadí, Pedraforca, Turbó) i **serres exteriors** (més baixes: Montsec, serres de Sant Mamet i de Comiols...), i entre elles la **Depressió Mitjana**, allargada, estreta i interrompuda per relleus menors (p. ex. la Conca de Tremp)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "La serralada pirinenca té una disposició oest-est i assoleix amplades de més de 100 km. Està formada per una sèrie d'alineacions paral·leles que, des de la part central o axial, davallen cap als costats en forma de grans esglaons. Hi distingim dues grans unitats: el Pirineu axial i el Prepirineu.\n\nEl Pirineu axial, on se situa la Vall d'Aran de la fotografia, és la part central i la més elevada. Està format per roques antigues, ígnies i metamòrfiques, com els granits i les pissarres, que el modelat ha convertit en cims i massissos alts, amb altituds que disminueixen d'oest a est. Hi destaquen el massís de Besiberri amb el Comaloforno, la pica d'Estats (3.143 m), el puig Pedrós, el Puigmal i, ja a prop de la costa, la serra de l'Albera.\n\nEl Prepirineu, en canvi, té menys altitud i formes més suaus, i està modelat en materials sedimentaris, sobretot calcaris. El formen dues alineacions muntanyoses paral·leles a la zona axial: les serres interiors, que superen els 2.500 m, com el Cadí o el Pedraforca, i les serres exteriors, de menys altitud, com el Montsec. Entre els dos grups de serres s'obre la Depressió Mitjana, una franja allargada i estreta, interrompuda per relleus menors, com la Conca de Tremp."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Context: els Pirineus tenen el **modelat glacial més important de la península**; durant les glaciacions del **Quaternari** un gran mantell de gel cobria la serralada.\n2. **Formes**: **valls glacials** en forma d'**U**, **circs** glacials, **crestes/arestes**, **estanys** (centenars), i també morenes i blocs erràtics.\n3. **On**: vall de la **Garona** (Vall d'Aran, com la de la fotografia), vall de la **Noguera Pallaresa** (vall d'Àneu, Pallars Sobirà), Parc Nacional d'Aigüestortes i Estany de Sant Maurici (estanys i circs)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Els Pirineus presenten el modelat glacial més important de la península Ibèrica. Durant els períodes glacials del Quaternari, un gran mantell de gel cobria la serralada, com si fos un casquet polar, i les glaceres van excavar el relleu. Van originar grans valls en forma d'U, com la de la Garona a la Vall d'Aran, que es veu a la fotografia, o la de la Noguera Pallaresa a la vall d'Àneu (Pallars Sobirà). A les capçaleres van formar circs glacials i crestes o arestes, que han rejovenit el relleu, i en les cubetes excavades pel gel es van formar centenars d'estanys, molt abundants al Parc Nacional d'Aigüestortes i Estany de Sant Maurici. També s'hi poden observar morenes, acumulacions dels materials que arrossegaven les glaceres."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Estructura general: disposició oest-est, més de 100 km d'amplada, alineacions paral·leles en esglaons; dues unitats, Pirineu axial i Prepirineu (0,25). Pirineu axial: altituds més notables, roques ígnies i metamòrfiques, altituds que davallen d'oest a est; tres cims o massissos (Besiberri/Comaloforno, pica d'Estats, puig Pedrós, Puigmal, Bastiments, Albera) (0,25). Prepirineu: menys altitud, formes suaus, materials calcaris; serres interiors (>2.500 m) i exteriors, i entre elles la Depressió Mitjana (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Modelat glacial més important de la Península; mantell glacial quaternari; grans valls (Garona a la Vall d'Aran, Noguera Pallaresa a la vall d'Àneu), circs glacials, crestes i arestes, centenars d'estanys. (0,50)"
+          }
+        ],
+        "nota": "Segons la pauta, n'hi ha prou de citar tres cims o massissos del Pirineu axial (poden ser diferents dels de la pauta). El Prepirineu val la meitat de l'apartat a): no l'oblideu i esmenteu la Depressió Mitjana. Al b) cal dir el nom de les formes i un lloc on observar-les; aprofiteu la fotografia (Vall d'Aran = vall de la Garona)."
+      }
+    },
+    {
+      "id": "geografia-2022-S-e3-q2",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Estatges de vegetació de l'alta muntanya pirinenca i clima",
+      "tema": "paisatges",
+      "temes_secundaris": [
+        "clima"
+      ],
+      "conceptes": [
+        "estatges de vegetació",
+        "estatge subalpí",
+        "estatge alpí",
+        "pi negre",
+        "clima d'alta muntanya",
+        "pirineu axial"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Exercici 3. Pregunta 2. A les cotes més altes del Pirineu axial hi predomina el paisatge d'alta muntanya. Relacioneu els estatges o pisos de vegetació de l'alta muntanya amb les característiques climàtiques d'aquesta zona. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta breu de 0,5 punts (0,25 per estatge). Cal anomenar els **dos estatges** de l'alta muntanya, amb l'**altitud**, la **vegetació** característica i la **relació amb el clima** (fred, hiverns llargs). Extensió: 5-6 línies. Temps: 4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Clima d'alta muntanya: temperatures baixes (descens d'uns 0,6 °C cada 100 m), hiverns llargs i freds amb neu, estiu curt, vent fort i precipitacions abundants.\n2. **Estatge subalpí** (aprox. 1.600-2.300 m): boscos de **pi negre** (conífera de fulla perenne que resisteix el fred i la neu); també avets i neret.\n3. **Estatge alpí** (per sobre de 2.300 m): el clima és tan dur que no hi pot créixer el bosc → **prats de gespa** (i rocam, líquens, molses). Per sota de 1.600 m, l'estatge montà (pi roig, faig, avet), ja fora de l'alta muntanya."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A l'alta muntanya pirinenca el clima és molt fred: la temperatura baixa amb l'altitud, els hiverns són llargs i amb neu, i l'estiu, curt i fresc, de manera que el període vegetatiu és breu. Aquestes condicions determinen dos estatges de vegetació. Per sobre dels 1.600 m d'altitud hi ha l'estatge subalpí, format per boscos de pi negre, una conífera de fulla perenne que resisteix els hiverns freds i llargs i el pes de la neu. Per sobre dels 2.300 m, la cruesa del clima ja no permet l'existència de cap bosc i la vegetació es redueix a prats de gespa, adaptats al fred i al vent: és l'estatge alpí."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Estatge subalpí, per sobre dels 1.600 m: boscos de pi negre, de fulla perenne, que resisteixen els hiverns freds i llargs (0,25). Estatge alpí, per sobre dels 2.300 m: el clima no permet cap bosc, prats de gespa (0,25)."
+          }
+        ],
+        "nota": "La clau és la paraula \"relacioneu\": cada estatge s'ha de lligar a una condició climàtica (fred, durada de l'hivern). Les altituds són orientatives (varien segons l'orientació: solana o obaga)."
+      }
+    },
+    {
+      "id": "geografia-2022-S-e3-q3",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Activitats econòmiques tradicionals en declivi i alternatives a l'alta muntanya",
+      "tema": "primari",
+      "temes_secundaris": [
+        "serveis",
+        "territori"
+      ],
+      "conceptes": [
+        "alta muntanya",
+        "ramaderia extensiva",
+        "aprofitaments forestals",
+        "turisme de neu",
+        "turisme rural",
+        "despoblament"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Exercici 3. Pregunta 3. Quines activitats econòmiques tradicionals estan en declivi a l'alta muntanya? Quines activitats econòmiques alternatives s'hi han desenvolupat en les darreres dècades? [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta breu de 0,5 punts amb dues parts de 0,25: activitats tradicionals en declivi (i per què) i activitats alternatives. Extensió: 5-6 línies. Temps: 4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Tradicionals en declivi**: conreus, **ramaderia extensiva** (transhumància), **aprofitaments forestals**. Causes: baixa rendibilitat, manca de relleu generacional i competència de productes de països amb costos més baixos.\n2. **Alternatives**: **turisme de neu** (esquí: Baqueira-Beret a la Vall d'Aran), **turisme rural** i noves modalitats com el **turisme d'aventura** (ràfting, barranquisme, senderisme). Opcional: segona residència, productes agroalimentaris de qualitat, energia hidroelèctrica."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Les activitats tradicionals de la muntanya, com els conreus, la ramaderia extensiva i els aprofitaments forestals, estan en declivi, com a la resta de països desenvolupats. Les causes són la seva baixa rendibilitat, la manca de relleu generacional per l'envelliment i l'èxode de la població jove, i la dificultat de competir amb productes procedents de països amb costos de producció més baixos. En les darreres dècades s'hi han desenvolupat activitats alternatives lligades al turisme: el turisme de neu, sobretot l'esquí (com a Baqueira-Beret, a la Vall d'Aran), el turisme rural i noves modalitats com el turisme d'aventura (ràfting, barranquisme, senderisme), que han impulsat també la construcció de segones residències."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Declivi de conreus, ramaderia extensiva i aprofitaments forestals per la baixa rendibilitat, la manca de relleu generacional i la competència de països amb costos més baixos (0,25). Alternatives: turisme de neu (esquí), turisme rural i turisme d'aventura (0,25)."
+          }
+        ],
+        "nota": "No n'hi ha prou amb una llista: per a les activitats en declivi, digueu també per què decauen. Podeu esmentar efectes del turisme (estacionalitat, urbanització de les valls), però no és imprescindible."
+      }
+    },
+    {
+      "id": "geografia-2022-S-e4-q1",
+      "exercici": 4,
+      "questio": 1,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Gràfic dels usuaris d'Internet al món (2005-2021): causes i conseqüències culturals de la globalització",
+      "tema": "mon",
+      "temes_secundaris": [
+        "serveis"
+      ],
+      "conceptes": [
+        "globalització",
+        "tecnologies de la informació i la comunicació",
+        "internet",
+        "empreses multinacionals",
+        "homogeneïtzació cultural",
+        "comentari de gràfic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11,
+        12
+      ],
+      "text": "**Nombre d'usuaris d'Internet al món (2005-2021)**\n\n(Gràfic de barres del nombre anual d'usuaris d'Internet, en milions. Eix vertical: 0; 1.250; 2.500; 3.750; 5.000 milions d'usuaris.)\n\n*Font:* *https://es.statista.com*.\n\nEl nombre d'usuaris d'Internet al món no ha parat d'augmentar any rere any. El flux d'informació que circula a través de la Xarxa constitueix un dels elements principals de la globalització.",
+      "enunciat": "Exercici 4. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el gràfic. Pregunta 1: el nombre d'usuaris d'Internet al món no ha parat d'augmentar any rere any. El flux d'informació que circula a través de la Xarxa constitueix un dels elements principals de la globalització. [1,5 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2022-S/e4-q1.png",
+          "peu": "Gràfic de barres del nombre d'usuaris d'Internet al món, en milions, de 2005 a 2021 (eix vertical de 0 a 5.000, amb línies cada 1.250). Les barres no porten xifres: creixen de manera contínua, d'uns 1.100 milions el 2005 a uns 2.000 milions el 2010, uns 3.000 el 2015 i uns 4.650 el 2021 (valors estimats). Font: Statista."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Expliqueu les causes de la globalització.",
+          "punts": 1
+        },
+        {
+          "id": "b",
+          "enunciat": "Quines conseqüències ha tingut la globalització en l'àmbit de la cultura?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1,5 punts que parteix d'un gràfic de barres. L'**a)** val 1 punt i la pauta dona 0,25 per cadascuna de **quatre causes**: TIC, transports, liberalització dels mercats i empreses multinacionals. El **b)** val 0,5 i demana conseqüències culturals (positives i negatives). Encara que les preguntes són teòriques, és bo començar amb una o dues frases sobre el gràfic (dades) i lligar-lo a la primera causa (TIC). Extensió: 12-15 línies per al a) i 5-7 per al b). Temps: 12 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Càlculs",
+            "cos": "El gràfic no dona les xifres de les barres; les estimem mesurant-ne l'altura en píxels contra les línies de l'eix (1.250 milions cada línia):\n\n| Any | Usuaris (milions, ≈) |\n|---|---|\n| 2005 | ≈ 1.100 |\n| 2010 | ≈ 2.000 |\n| 2015 | ≈ 3.050 |\n| 2021 | ≈ 4.650 |\n\nCreixement 2005-2021: 4.650 / 1.100 ≈ 4,3 (el nombre d'usuaris es multiplica per més de 4). Taxa mitjana anual: (4.650 / 1.100)^(1/16) − 1 ≈ 0,096, és a dir, prop d'un **10 % anual**. El 2021, amb uns 7.900 milions d'habitants al món, prop del 60 % de la població mundial ja era usuària d'Internet."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Quatre causes, una per paràgraf o guió (0,25 cadascuna):\n\n1. **TIC** (Internet, telefonia mòbil, satèl·lits): connecten empreses i persones a grans distàncies, en temps real; la localització geogràfica pesa menys. Aquí lliga el gràfic.\n2. **Xarxes de transport**: contenidors, grans vaixells, avió, autopistes → intercanvis ràpids de mercaderies i persones, més eficàcia i menys cost.\n3. **Liberalització** dels mercats de béns, serveis i capitals, promoguda per organismes internacionals (**OMC, FMI, G-7, G-20**): supressió de barreres aranzelàries i administratives.\n4. **Empreses multinacionals** amb estratègia global de màxim benefici: deslocalitzen la producció → **nova divisió internacional del treball**."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El gràfic mostra que el nombre d'usuaris d'Internet al món ha crescut sense parar entre el 2005 i el 2021, d'uns 1.100 milions a uns 4.650 milions: s'ha multiplicat per més de quatre. Aquest creixement il·lustra la primera causa de la globalització.\n\n- El desenvolupament de les tecnologies de la informació i la comunicació (TIC), com Internet, la telefonia mòbil o els satèl·lits, permet connectar en temps real empreses i persones separades per grans distàncies per fer transaccions econòmiques o difondre informació, de manera que la situació geogràfica dels territoris ja no és tan determinant com abans.\n- El gran desenvolupament de les xarxes de transport, com el transport marítim en contenidors, l'aviació o les autopistes, ha fet possibles intercanvis molt ràpids de mercaderies i desplaçaments de persones, amb més eficàcia i menys costos.\n- La liberalització dels mercats de productes, serveis i capitals, promoguda per organitzacions internacionals com l'OMC, el FMI o el G-20, ha afavorit la supressió de barreres polítiques, aranzelàries i administratives.\n- El creixement de les empreses multinacionals, que busquen el màxim benefici amb una estratègia global i reparteixen les seves activitats entre països segons els costos, ha generat una nova divisió espacial internacional del treball."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues cares de la mateixa moneda (pauta 0,50):\n\n1. **Positiva**: accés més fàcil a la tecnologia, la ciència i la cultura gràcies a Internet; intercanvi i difusió cultural.\n2. **Negativa**: **homogeneïtzació** de les preferències culturals, artístiques i esportives, sobretot sota la influència de la indústria de l'oci dels **Estats Units** (cinema, música, sèries, menjar ràpid, anglès com a llengua franca) → pèrdua de diversitat cultural i amenaça per a llengües i cultures minoritàries."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "En l'àmbit cultural, la globalització ha afavorit l'accés a la tecnologia, la ciència i la cultura per a una part molt àmplia de la població mundial, principalment gràcies a Internet, i ha facilitat l'intercanvi entre cultures. Però alhora ha provocat una homogeneïtzació de les preferències culturals, artístiques i esportives, sobretot sota la influència de la indústria de l'oci dels Estats Units: el cinema, les sèries, la música, les marques o el menjar ràpid són els mateixos a tot el món i l'anglès s'ha convertit en la llengua franca. Això posa en perill la diversitat cultural i les llengües i tradicions locals."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Quatre causes, 0,25 cadascuna: desenvolupament de les TIC; desenvolupament de les xarxes de transport; liberalització dels mercats de productes, serveis i capitals (OMC, FMI, G-7, G-20); desenvolupament de les empreses multinacionals i nova divisió internacional del treball. (1)"
+          },
+          {
+            "apartat": "b",
+            "valor": "Accés a la tecnologia, la ciència i la cultura per mitjà d'Internet, però homogeneïtzació de les preferències culturals, artístiques o esportives sota la influència de la indústria de l'oci dels Estats Units. (0,50)"
+          }
+        ],
+        "nota": "Les xifres del gràfic s'han estimat mesurant l'altura de les barres amb l'escala (marcades amb ≈); la pauta no les demana, però citar-les dona solidesa a la resposta. Al a) cal esmentar les quatre causes per tenir el punt sencer; al b) cal la conseqüència positiva i, sobretot, l'homogeneïtzació cultural."
+      }
+    },
+    {
+      "id": "geografia-2022-S-e4-q2",
+      "exercici": 4,
+      "questio": 2,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Desenvolupament econòmic i desenvolupament humà: diferències i indicadors de l'IDH",
+      "tema": "mon",
+      "temes_secundaris": [],
+      "conceptes": [
+        "desenvolupament humà",
+        "índex de desenvolupament humà",
+        "pib per càpita",
+        "esperança de vida",
+        "nivell d'instrucció"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        13
+      ],
+      "text": "",
+      "enunciat": "Exercici 4. Pregunta 2. Compareu el desenvolupament econòmic amb el desenvolupament humà contestant les preguntes següents. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En què es diferencien aquests dos tipus de desenvolupament?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Quins indicadors s'utilitzen per a mesurar el desenvolupament humà?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta conceptual d'1 punt (0,5 per apartat). Al a) cal **definir i contrastar** els dos conceptes; al b), anomenar l'**IDH** i les seves **tres** variables. Extensió: 5-6 línies per apartat. Temps: 6-8 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Desenvolupament econòmic**: mesura el nivell de vida només en termes econòmics (producció i renda); indicador tradicional: **PIB** (o PIB per càpita).\n2. **Desenvolupament humà**: concepte més ampli (PNUD, 1990) que integra altres dimensions de la vida, com la **salut** i l'**educació**, a més de la renda: les capacitats i oportunitats de les persones.\n3. Idea clau: un país amb PIB alt pot tenir un desenvolupament humà més baix (desigualtats, sanitat o educació deficients)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El desenvolupament econòmic mesura el nivell de vida i de benestar d'una població únicament en termes econòmics, a partir de la riquesa que produeix i de la renda dels seus habitants; tradicionalment s'ha utilitzat el producte interior brut (PIB), total o per càpita, com a indicador principal. El desenvolupament humà, en canvi, és un concepte més ampli, impulsat pel Programa de les Nacions Unides per al Desenvolupament (PNUD), que integra altres dimensions de la vida humana més enllà del nivell de renda, com la salut i l'educació. Per això, un país amb un PIB per càpita elevat pot tenir un desenvolupament humà relativament baix si la riquesa està mal repartida o els serveis sanitaris i educatius són deficients."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "L'**índex de desenvolupament humà (IDH)**, elaborat pel PNUD, va de 0 a 1 i combina tres dimensions:\n\n1. **Salut**: **esperança de vida** en néixer.\n2. **Educació** (nivell d'instrucció): anys mitjans i anys esperats d'escolarització (abans, taxa d'alfabetització).\n3. **Renda**: nivell de renda, mesurat amb la **renda nacional bruta per càpita** en paritat de poder adquisitiu."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El desenvolupament humà es mesura amb l'índex de desenvolupament humà (IDH), elaborat pel PNUD, que pren valors entre 0 i 1. Es calcula a partir de tres variables: l'esperança de vida en néixer, que reflecteix la salut de la població; el nivell d'instrucció, mesurat amb els anys mitjans i els anys esperats d'escolarització; i el nivell de renda, mesurat amb la renda per càpita en paritat de poder adquisitiu. Els països amb l'IDH més alt són els del nord d'Europa, com Noruega o Suïssa, i els més baixos, els de l'Àfrica subsahariana."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "El desenvolupament econòmic mesura el nivell de vida en termes econòmics (PIB); el desenvolupament humà integra altres dimensions, com la salut i l'educació, més enllà de la renda. (0,50)"
+          },
+          {
+            "apartat": "b",
+            "valor": "Índex de desenvolupament humà (IDH): esperança de vida, nivell d'instrucció i nivell de renda. (0,50)"
+          }
+        ],
+        "nota": "Al b) cal anomenar l'IDH i les tres variables; si només en dieu dues, la resposta queda incompleta. No confongueu l'IDH amb el PIB per càpita, que només n'és un component."
+      }
+    },
+    {
+      "id": "geografia-2022-S-e5-q1",
+      "exercici": 5,
+      "questio": 1,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Taula de la variació prevista del clima a Catalunya (2031-2050): efecte d'hivernacle i conseqüències del canvi climàtic",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "clima"
+      ],
+      "conceptes": [
+        "canvi climàtic",
+        "efecte d'hivernacle",
+        "gasos d'efecte hivernacle",
+        "combustibles fòssils",
+        "sequera",
+        "comentari de taula"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        14
+      ],
+      "text": "**Variació prevista de la temperatura i la precipitació a Catalunya per a cada període estacional o anual (període 2031-2050)**\n\n| | Hivern | Primavera | Estiu | Tardor | Anual |\n|---|---|---|---|---|---|\n| Temperatura (°C) | 1,3 | 1,2 | 1,8 | 1,7 | 1,4 |\n| Precipitació (%) | −3,8 | −10,7 | −10,2 | −9,4 | −6,8 |\n\n*Font:* Dades extretes del *Tercer informe sobre el canvi climàtic a Catalunya* [en línia] (2016).",
+      "enunciat": "Exercici 5. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu la taula. Pregunta 1: exposeu les característiques del canvi climàtic global responent a les preguntes següents. [1,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Què és l'efecte d'hivernacle? Quins gasos el produeixen?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Quines activitats humanes contribueixen més a l'increment de l'efecte d'hivernacle?",
+          "punts": 0.5
+        },
+        {
+          "id": "c",
+          "enunciat": "Segons els valors que es mostren a la taula, quines poden ser les conseqüències principals del canvi climàtic?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1,5 punts amb tres apartats de 0,5. Els dos primers són teòrics (definició i causes); el **c)** és el que comenta la taula: cal **llegir-ne les dades** (augment de temperatura i disminució de precipitació, amb xifres) i deduir-ne les conseqüències a Catalunya i a escala global (la pauta reparteix 0,25 + 0,25). Extensió: 5-7 línies per apartat. Temps: 12-14 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Fenomen natural**: alguns gasos de l'atmosfera absorbeixen part de la **radiació infraroja** que emet la Terra i la retornen → la temperatura mitjana és d'uns 15 °C (sense, uns −18 °C).\n2. **Gasos**: **vapor d'aigua**, **diòxid de carboni (CO2)**, **metà (CH4)**, òxid nitrós (N2O), ozó, CFC.\n3. **Problema**: l'**excés** de CO2 i metà per l'activitat humana intensifica l'efecte → acumulació de calor → **escalfament global** i canvi climàtic."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "L'efecte d'hivernacle és un fenomen natural de l'atmosfera: una sèrie de gasos absorbeixen una part de la radiació infraroja que emet la superfície terrestre i la retornen cap a la Terra, de manera que mantenen una temperatura mitjana d'uns 15 °C, que fa possible la vida. Els principals gasos d'efecte d'hivernacle són el vapor d'aigua i el diòxid de carboni (CO2), i també el metà, l'òxid nitrós i els clorofluorocarburs (CFC). El problema és que l'excés de concentració de CO2, produït sobretot per la combustió de combustibles fòssils, i d'altres gasos com el metà provoca una acumulació de calor a l'atmosfera que comporta un canvi climàtic global, caracteritzat per l'augment de les temperatures i l'escalfament del planeta."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **CO2**: combustió de **combustibles fòssils** (petroli, carbó, gas natural) en el **transport** (automòbils, avions, vaixells), la **indústria**, les **centrals tèrmiques** i les **calefaccions**.\n2. **Desforestació**: elimina boscos que absorbeixen CO2 (i la crema n'emet).\n3. **Metà**: **ramaderia** (digestió dels remugants, purins) i **agricultura** (arrossars), i també abocadors."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "L'activitat humana que més contribueix a l'increment de l'efecte d'hivernacle és la combustió de combustibles fòssils, com el petroli, el carbó i el gas natural, que allibera grans quantitats de diòxid de carboni. Aquesta combustió es produeix en els automòbils i altres mitjans de transport, en les indústries, en les centrals tèrmiques que generen electricitat i en les calefaccions. També hi contribueix la desforestació, perquè elimina boscos que absorbeixen CO2. A més, cal sumar-hi l'emissió d'altres gasos, com el metà, produït en les activitats ramaderes, sobretot pels remugants, en l'agricultura i en els abocadors."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Lectura de la taula** (2031-2050): la temperatura augmenta a **totes** les estacions, +1,4 °C de mitjana anual, amb el màxim a l'**estiu (+1,8 °C)** i la **tardor (+1,7 °C)**; la precipitació **disminueix** a totes les estacions, −6,8 % anual, sobretot a la **primavera (−10,7 %)** i l'**estiu (−10,2 %)**, i molt menys a l'hivern (−3,8 %).\n2. **Conseqüències a Catalunya** (0,25): més **onades de calor**, **sequeres** persistents, més fenòmens extrems (pluges torrencials), menys recursos hídrics, risc d'incendis, canvis en la distribució dels conreus i de la vegetació, menys neu al Pirineu.\n3. **Conseqüències globals** (0,25): **desglaç** de glaceres de muntanya i casquets polars → **elevació del nivell del mar** → inundació de zones costaneres densament poblades (deltes com el de l'Ebre)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "La taula mostra que, per al període 2031-2050, es preveu a Catalunya un augment de la temperatura mitjana a totes les estacions, d'1,4 °C de mitjana anual, més intens a l'estiu (1,8 °C) i a la tardor (1,7 °C), i una disminució de la precipitació a totes les estacions, d'un 6,8 % anual, que arriba al 10,7 % a la primavera i al 10,2 % a l'estiu. Un clima més càlid i més sec comportaria un augment de la freqüència dels fenòmens meteorològics extrems, com les onades de calor a l'estiu, les sequeres persistents i les precipitacions torrencials, una reducció dels recursos hídrics, més risc d'incendis forestals i canvis en la distribució geogràfica de determinats conreus i de la vegetació. A escala global, l'augment de la temperatura mitjana de l'atmosfera està provocant el desglaç de les glaceres de muntanya i dels casquets polars, cosa que fa pujar el nivell del mar, que podria inundar zones costaneres avui densament poblades, com el delta de l'Ebre."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Fenomen natural en què gasos com el vapor d'aigua i el CO2 absorbeixen part de la radiació infraroja de la Terra; l'excés de CO2 (combustibles fòssils) i d'altres gasos com el metà provoca acumulació de calor i canvi climàtic global. (0,50)"
+          },
+          {
+            "apartat": "b",
+            "valor": "Combustió de combustibles fòssils en el transport, la indústria, les centrals tèrmiques i les calefaccions; desforestació; metà de la ramaderia i l'agricultura. (0,50)"
+          },
+          {
+            "apartat": "c",
+            "valor": "La taula mostra augment de temperatura a totes les estacions (sobretot estiu i tardor) i disminució de les precipitacions: més fenòmens extrems (onades de calor, sequeres, pluges fortes) i canvis en la distribució dels conreus (0,25); a escala global, desglaç de glaceres i casquets polars i elevació del nivell del mar (0,25)."
+          }
+        ],
+        "nota": "Al c) citeu xifres de la taula (estació amb més escalfament i amb més pèrdua de pluja); la pauta valora la lectura de la taula i dues escales de conseqüències (Catalunya i el món). Al a) no confongueu l'efecte d'hivernacle (natural i necessari) amb el forat de la capa d'ozó, que és un altre problema."
+      }
+    },
+    {
+      "id": "geografia-2022-S-e5-q2",
+      "exercici": 5,
+      "questio": 2,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Propostes internacionals contra el canvi climàtic: Kyoto, París i Glasgow",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "mon"
+      ],
+      "conceptes": [
+        "canvi climàtic",
+        "protocol de kyoto",
+        "acord de parís",
+        "cop26",
+        "energies renovables",
+        "sostenibilitat"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Exercici 5. Pregunta 2. Quines són les propostes de la comunitat internacional per a aturar el canvi climàtic? Esmenteu, com a mínim, dues conferències internacionals sobre el canvi climàtic i els acords als quals es va arribar en cadascuna d'aquestes conferències. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt en dues meitats: les **propostes** generals per reduir els gasos d'efecte d'hivernacle (0,50) i **dues conferències** amb el lloc, l'any i l'acord concret (0,50). Extensió: 10-12 línies. Temps: 8 minuts. Error típic: anomenar les conferències sense dir què s'hi va acordar, o equivocar-se en l'any."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Propostes** (0,50): **reduir les emissions** de gasos d'efecte d'hivernacle procedents dels combustibles fòssils; potenciar les **energies renovables** i l'**eficiència** energètica i les tecnologies netes; **reforestació**; altres: mercat de drets d'emissió, mobilitat sostenible, ajuts als països en desenvolupament.\n2. **Conferències** (0,50), com a mínim dues:\n   - **Cimera de la Terra de Rio (1992)**: Conveni Marc de les Nacions Unides sobre el Canvi Climàtic.\n   - **Protocol de Kyoto (1997, en vigor el 2005)**: primers objectius obligatoris de reducció d'emissions per als països industrialitzats (-5,2 % respecte al 1990 entre el 2008 i el 2012).\n   - **Acord de París (COP21, 2015)**: limitar l'escalfament **ben per sota dels 2 °C** i fer esforços per no superar **1,5 °C** respecte al nivell preindustrial; tots els països presenten plans de reducció.\n   - **COP26 de Glasgow (2021)**: accelerar les accions per complir l'Acord de París (reducció gradual del carbó, metà)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Les propostes de la comunitat internacional per aturar el canvi climàtic se centren a reduir les emissions de gasos d'efecte d'hivernacle procedents dels combustibles fòssils. Per aconseguir-ho, es vol potenciar l'ús de les energies renovables i les tecnologies netes, millorar l'eficiència energètica de la indústria, el transport i els habitatges, i impulsar programes de reforestació que absorbeixin CO2.\n\nAquestes propostes s'han concretat en diverses conferències internacionals. El Protocol de Kyoto, aprovat el 1997, va ser el primer acord que va fixar objectius obligatoris de reducció de les emissions de CO2 per als països industrialitzats participants. L'Acord de París, del 2015, va comprometre tots els països a limitar l'escalfament global ben per sota dels 2 °C i a fer esforços perquè no superi 1,5 °C respecte al nivell preindustrial, amb plans nacionals de reducció d'emissions. Més recentment, a la Cimera del Clima de Glasgow (COP26), el 2021, es va acordar accelerar les accions per complir l'Acord de París, entre d'altres reduint de manera progressiva l'ús del carbó."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Propostes: reduir els gasos d'efecte d'hivernacle dels combustibles fòssils, potenciar l'ús i l'eficiència de les energies renovables i les tecnologies netes, reforestació. (0,50)"
+          },
+          {
+            "apartat": null,
+            "valor": "Dues conferències amb els acords: Kyoto (primers objectius de reducció d'emissions de CO2), Acord de París (2015, limitar l'escalfament a 1,5 °C respecte al nivell preindustrial), COP26 de Glasgow (2021, accelerar les accions per complir l'Acord de París); s'accepten altres conferències pertinents. (0,50)"
+          }
+        ],
+        "nota": "Discrepàncies amb la pauta oficial: la pauta data la Conferència de Kyoto el 1992, però el Protocol de Kyoto es va aprovar el 1997 (el 1992 és la Cimera de la Terra de Rio, on es va signar el Conveni Marc sobre el Canvi Climàtic); i diu que a París es va aprovar limitar l'escalfament a 1,5 °C, quan l'objectiu de l'acord és mantenir-lo ben per sota dels 2 °C i fer esforços per limitar-lo a 1,5 °C. La resposta model fa servir les dades correctes. Doneu sempre el lloc, l'any i l'acord concret."
+      }
+    }
+  ]
+}

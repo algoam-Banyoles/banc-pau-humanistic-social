@@ -1,0 +1,539 @@
+{
+  "examen": {
+    "id": "geografia-2013-S",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2013,
+    "convocatoria": "setembre",
+    "serie": "1",
+    "pdf_examen": "pdfs/geografia/2013-S-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2013-S-solucio.pdf",
+    "estructura": "Sèrie 1. Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun; total 10). Cada exercici parteix d'un document (mapa o gràfic) i té quatre qüestions amb la mateixa estructura: 1) descriure el document (1 punt), 2) definir dos termes (1 punt), 3) i 4) explicar o relacionar segons un esquema amb lletres (1,5 punts cadascuna). Opció A: exercici 1, mapa dels ocupats en el sector primari i en la indústria agroalimentària per comarques de Catalunya (2007) i transformacions de l'agricultura catalana; exercici 2, gràfic esquemàtic de l'illa de calor urbana i microclimes. Opció B: exercici 1, mapa de la població urbana al món (2012), urbanització i segregació espacial; exercici 2, gràfic de l'evolució de la taxa d'atur a Espanya per sexes (2001-2011), atur i població activa. Cada exercici és un element amb quatre apartats; la lletra final de l'id és l'opció (A/B). Les puntuacions parcials de la pauta són orientatives; es valoren, a més dels continguts, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2013-S-e1-A",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa dels ocupats en el sector primari i la indústria agroalimentària per comarques (2007): l'agricultura catalana",
+      "tema": "primari",
+      "temes_secundaris": [
+        "industria",
+        "territori"
+      ],
+      "conceptes": [
+        "població activa agrària",
+        "agroindústria",
+        "política agrària comunitària (pac)",
+        "agricultura ecològica",
+        "espai rural",
+        "mapa de símbols proporcionals",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        1,
+        2
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció A. Exercici 1 [5 punts]. Observeu el mapa següent i responeu a les preguntes plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2013-S/e1-A.png",
+          "peu": "Mapa de Catalunya per comarques: total de persones ocupades en el sector primari i en la indústria agroalimentària (2007). Cada comarca té dos semicercles proporcionals al nombre d'ocupats: gris, indústria agroalimentària; negre, sector primari. Cercles de referència: 600, 6.000 i 12.000 ocupats. Escala gràfica de 75 km. Font: Ignasi Aldomà, *Atles de la nova ruralitat*, Lleida, Fundació del Món Rural, 2009."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *població activa agrària* i *agroindústria*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "a) Identifiqueu les zones on les persones ocupades en el sector primari representen una majoria respecte de les ocupades en la indústria agroalimentària. Expliqueu-ne raonadament les causes.\n\nb) Expliqueu els motius de l'elevat nombre de persones ocupades en la indústria agroalimentària en algunes comarques de l'Àrea Metropolitana de Barcelona.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Expliqueu les transformacions recents de l'activitat agrícola a Catalunya, d'acord amb l'esquema següent:\n\na) L'adaptació a la PAC (política agrària comunitària) del camp català.\n\nb) L'aparició de l'agricultura i la ramaderia ecològiques.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts i segueix l'esquema habitual de Geografia d'aquests anys: **1** descriure el document (1 punt), **2** definir dos termes (1 punt), **3** i **4** explicar o relacionar segons l'esquema que dona la pregunta (1,5 punts cadascuna). Dedica-hi uns 40-45 minuts (és la meitat de l'examen).\n\n- A la **descripció** no s'expliquen causes: es diu quin document és, quina variable i unitats mostra, l'àmbit, la data i la font, i després es descriu la distribució o l'evolució **amb xifres**.\n- A les **definicions**, una o dues frases precises i un exemple.\n- A les preguntes 3 i 4, respon **cada lletra (a, b, c) en un paràgraf propi**: les pautes puntuen cada part per separat. Les pautes valoren també l'ordre, la precisió, la terminologia geogràfica i la claredat.\n\nAquí el document és un **mapa de símbols proporcionals** (semicercles): fixa't en la mida de cada semicercle i compara el gris (agroindústria) amb el negre (sector primari) de cada comarca."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos blocs, com a la pauta (0,5 + 0,5):\n\n1. **Identificació**: mapa temàtic de Catalunya per comarques; variable: nombre d'ocupats en el sector primari i en la indústria agroalimentària; representació amb **dos semicercles proporcionals** per comarca (cercles de referència de 600, 6.000 i 12.000 ocupats); any 2007; font: *Atles de la nova ruralitat* (Aldomà, 2009).\n2. **Distribució**: on predomina el gris (agroindústria) i on el negre (primari). A Barcelona i Girona predomina en general l'agroindústria; a Lleida i Tarragona, el primari (excepcions: Segarra i Baix Penedès). El **Barcelonès** és la comarca amb més ocupats a l'agroindústria i una de les primeres en ocupats al primari (la pauta diu que és la segona, darrere del **Segrià**).\n\n**Lectura aproximada** (els cercles són proporcionals a la superfície, és a dir, ocupats ≈ 12.000 × (radi / radi del cercle de 12.000)²): Barcelonès, agroindústria ≈ 12.000; Segrià, primari ≈ 7.000; Osona i Baix Llobregat, agroindústria ≈ 6.000-6.500. Són estimacions mesurades sobre el mapa (≈)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic de Catalunya per comarques** que representa el **nombre de persones ocupades en el sector primari i en la indústria agroalimentària** l'any **2007**. A cada comarca hi ha dos **semicercles proporcionals** al nombre d'ocupats: el gris correspon a la indústria agroalimentària i el negre al sector primari (agricultura, ramaderia, silvicultura i pesca); la llegenda dona com a referència cercles de 600, 6.000 i 12.000 ocupats. La font és l'*Atles de la nova ruralitat* d'Ignasi Aldomà (Fundació del Món Rural, 2009).\n\nEl mapa mostra un contrast clar entre l'est i l'oest del país. A bona part de les comarques de **Barcelona i Girona** els ocupats a la **indústria agroalimentària** superen clarament els del sector primari: és el cas d'Osona, el Vallès Occidental i Oriental, el Baix Llobregat o el Gironès. En canvi, a la major part de les comarques de **Lleida i Tarragona**, a les del Pirineu i a les de l'Ebre hi predominen els ocupats al **sector primari**; només la Segarra i el Baix Penedès en són excepcions. Els valors més alts es concentren en poques comarques: el **Barcelonès** és la comarca amb més ocupats a l'agroindústria (prop de 12.000) i també una de les primeres en ocupats al primari, només superada pel **Segrià** (uns 7.000 ocupats al primari), mentre que les comarques pirinenques tenen valors molt petits en tots dos sectors."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "0,5 punts per terme. **Població activa agrària**: no són només els ocupats; la població activa inclou també els aturats que busquen feina en el sector (agricultura, ramaderia, explotació forestal). **Agroindústria**: indústria que manipula i transforma productes agraris (i forestals o pesquers) en productes elaborats per al consumidor. Afegeix un exemple a cada terme."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Població activa agrària**: conjunt de persones en edat de treballar que treballen en l'agricultura, la ramaderia o l'explotació forestal, més les que volen treballar en aquest sector i busquen feina (aturades o que busquen la primera feina). És un indicador del pes del sector primari en l'economia; a Catalunya és avui inferior al 3 % de la població activa.\n\n**Agroindústria**: sector industrial que manipula i transforma els productes agrícoles i ramaders (i també forestals i pesquers) en productes elaborats que es posen a disposició dels consumidors. En són exemples els escorxadors i les indústries càrnies d'Osona, les cooperatives olivareres i vinícoles, les indústries làcties o les de begudes i conserves."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Repartiment de la pauta: **a)** 1 punt (0,5 identificar les zones + 0,5 explicar-ne les causes); **b)** 0,5 punts.\n\n- **a)** Zones: totes les comarques de **Ponent**, del **Pirineu** i del **sud de Tarragona** (Terres de l'Ebre), i també l'**Alt i el Baix Empordà** i el **Maresme**. Causa: són les àrees on es concentra la **producció agrària** de Catalunya (regadius del Segrià i el Pla d'Urgell, fruita dolça, ramaderia porcina i boví, arròs del delta, cítrics i horta, flor i planta ornamental al Maresme), mentre que la indústria hi és menys densa.\n- **b)** A l'àrea metropolitana es concentren moltes **indústries de transformació agroalimentària** i de **begudes** (refrescs, cerveseres) perquè hi ha el gran mercat de consum, les infraestructures (port, Mercabarna, autopistes), la mà d'obra i les seus de les empreses."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a)** Els ocupats en el sector primari són majoria a totes les **comarques de Ponent** (Segrià, Noguera, Urgell, Pla d'Urgell, Garrigues), a les **del Pirineu** (Pallars, Alt Urgell, Cerdanya, Vall d'Aran) i a les **del sud de Tarragona** (Baix Ebre, Montsià, Terra Alta, Ribera d'Ebre, Priorat), a més de l'**Alt i el Baix Empordà** i el **Maresme**. La causa principal és que en aquestes comarques es concentra la **producció agrària** de Catalunya: els regadius de la plana de Lleida (canals d'Urgell i d'Aragó i Catalunya) permeten una agricultura intensiva de fruita dolça i farratges i una important ramaderia porcina i bovina; a les Terres de l'Ebre hi ha l'arròs del delta, els cítrics i l'olivera; a l'Empordà, l'agricultura i la ramaderia de la plana, i al Maresme, l'horticultura i la flor i planta ornamental. A les comarques de muntanya, tot i que els valors absoluts són petits, l'activitat ramadera i forestal hi té encara un pes relatiu important, i en totes aquestes comarques hi ha menys indústria que a l'àrea de Barcelona.\n\n**b)** A les comarques de l'**Àrea Metropolitana de Barcelona** (Barcelonès, Baix Llobregat, Vallès Occidental i Oriental) hi ha molts ocupats a l'agroindústria perquè s'hi concentra un gran nombre d'**indústries de transformació agroalimentària** i també les **indústries de begudes** (refrescs, cerveseres, aigües), que formen part d'aquest sector. Aquestes empreses s'hi localitzen per la proximitat al **principal mercat de consum** del país, per la facilitat d'accés a les matèries primeres a través del port, l'aeroport i grans centres de distribució com **Mercabarna**, per la disponibilitat de mà d'obra i serveis a les empreses i perquè hi tenen les seus i els centres logístics."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Cada lletra val 0,75 punts i la pauta dona **0,25 punts per aspecte** pertinent (fins a 3 per lletra): cal aportar com a mínim **tres idees** a cada part.\n\n- **a) PAC**: millora de la competitivitat i adaptació de la producció a la demanda (quotes, reconversió, ajuts desacoblats); sanitat i benestar animal i seguretat alimentària; mètodes respectuosos amb el medi (condicionalitat, mesures agroambientals); desenvolupament de l'agroindústria per augmentar el valor afegit.\n- **b) Ecològica**: va començar fa uns 30 anys (competència d'altres agricultures de mercat i augment de la consciència ecològica); el rebuig als transgènics (prohibits en l'ecològica) n'ha fet créixer el consum; bona qualitat però poc present al mercat interior en comparació amb la UE; iniciatives de venda directa sense intermediaris (cooperatives de consum, mercats de pagès); la ramaderia ecològica encara és reduïda i d'àmbit local."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**a) L'adaptació a la PAC.** Des de l'entrada d'Espanya a la Comunitat Europea (1986), el camp català s'ha hagut d'adaptar a la política agrària comunitària. En primer lloc, s'ha hagut de **millorar la competitivitat** del sector: modernització i mecanització de les explotacions, concentració i especialització, i **adaptació de la producció a la demanda** del mercat (quotes làcties, reconversió de vinyes i fruiters, ajuts desacoblats de la producció), per garantir aliments a preus assequibles en un mercat mundialitzat. En segon lloc, s'han hagut d'aplicar les normes de **sanitat i benestar animal**, que milloren la **seguretat alimentària** (traçabilitat, controls veterinaris). En tercer lloc, la PAC exigeix **mètodes de producció respectuosos amb el medi ambient** (condicionalitat dels ajuts, mesures agroambientals, gestió dels purins). Finalment, s'ha impulsat la **indústria agroalimentària**, una de les capdavanteres de la indústria catalana i espanyola, per augmentar el valor afegit dels productes agraris i forestals; la PAC també finança el desenvolupament rural (diversificació, agroturisme).\n\n**b) L'aparició de l'agricultura i la ramaderia ecològiques.** L'agricultura ecològica, que no fa servir adobs ni pesticides de síntesi ni organismes genèticament modificats, va començar a Catalunya i a Espanya fa uns **trenta anys**, com a resposta a la competència de l'agricultura de mercat d'altres països i a l'**augment de la consciència ecològica** dels consumidors. L'aparició al mercat de **productes transgènics** i la prohibició expressa d'utilitzar OGM en la producció ecològica n'han fet créixer el consum. Malgrat la seva qualitat, encara és **poc present al mercat interior** català i espanyol en comparació amb altres països de la UE, i bona part de la producció s'exporta. A Catalunya proliferen les iniciatives de **producció i distribució directa** (cooperatives de consum, mercats de pagès, venda per cistelles) que eliminen intermediaris per fer-la competitiva. La **ramaderia ecològica** és encara molt reduïda, amb volums de producció baixos i importància sobretot local, tot i el futur que té en els mercats artesanals i de proximitat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa temàtic de Catalunya per comarques, ocupats al sector agrari i a la indústria alimentària (2007), dos semicercles proporcionals, font: Atles de la nova ruralitat, 2009 (0,5). A Barcelona i Girona predomina l'agroindústria; a Lleida i Tarragona, el primari (excepte Segarra i Baix Penedès); el Barcelonès és el primer en agroindústria i el segon en primari, darrere del Segrià (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Població activa agrària: ocupats en agricultura, ramaderia o explotació forestal, més els que hi busquen feina (0,5). Agroindústria: manipulació i transformació de productes agraris (i forestals o pesquers) en productes elaborats per al consumidor (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Primari majoritari a Ponent, Pirineu, sud de Tarragona, Alt i Baix Empordà i Maresme (0,5); causa: s'hi concentra la producció agrària (0,5). b) A la regió metropolitana es concentren indústries de transformació agroalimentària i de begudes (refrescs, cerveseres) (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) PAC: competitivitat i adaptació a la demanda; sanitat i benestar animal, seguretat alimentària; mètodes respectuosos amb el medi; desenvolupament de l'agroindústria (0,25 per aspecte, màx. 0,75). b) Ecològica: inici fa ~30 anys per competència i consciència ecològica; rebuig als transgènics; poc present al mercat interior; venda directa sense intermediaris; ramaderia ecològica reduïda i local (0,25 per aspecte, màx. 0,75)."
+          }
+        ],
+        "nota": "Les xifres de l'apartat 1 són estimacions (≈) mesurades sobre la mida dels semicercles (proporcionals a l'àrea, no al radi): no cal donar-les exactes, però sí comparar ordres de magnitud. Errors típics: confondre població activa amb població ocupada (la població activa inclou els aturats); explicar causes a l'apartat 1; a l'apartat 3a limitar-se a dir \"Lleida\" sense esmentar també l'Empordà, el Maresme i les Terres de l'Ebre; a l'apartat 4, donar només una idea per lletra (cada aspecte val 0,25 punts i en calen tres)."
+      }
+    },
+    {
+      "id": "geografia-2013-S-e2-A",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Representació esquemàtica de l'illa de calor urbana: microclimes i intervenció humana",
+      "tema": "clima",
+      "temes_secundaris": [
+        "ciutat",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "illa de calor",
+        "microclima",
+        "clima urbà",
+        "canvi climàtic",
+        "morfologia urbana",
+        "comentari de gràfic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció A. Exercici 2 [5 punts]. Observeu el gràfic següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2013-S/e2-A.png",
+          "peu": "Gràfic esquemàtic de l'illa de calor urbana: perfil de temperatura (°C, eix vertical a la dreta amb línies de 30, 31, 32 i 33 °C) al llarg d'un transsecte amb zones rural, comercial, centre ciutat, residencial i rural, sobre la silueta d'una ciutat. La temperatura passa de menys de 30 °C a les zones rurals a més de 33 °C al centre. Font: The Comet Program [en línia]."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el gràfic.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *illa de calor* i *microclima*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Per què les temperatures més altes es donen en el centre de la ciutat?",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "a) El fenomen de l'illa de calor urbana és una conseqüència directa del canvi climàtic global o es deu a altres causes? Argumenteu la resposta.\n\nb) Exposeu altres casos de microclimes causats per la intervenció humana.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts i segueix l'esquema habitual de Geografia d'aquests anys: **1** descriure el document (1 punt), **2** definir dos termes (1 punt), **3** i **4** explicar o relacionar segons l'esquema que dona la pregunta (1,5 punts cadascuna). Dedica-hi uns 40-45 minuts (és la meitat de l'examen).\n\n- A la **descripció** no s'expliquen causes: es diu quin document és, quina variable i unitats mostra, l'àmbit, la data i la font, i després es descriu la distribució o l'evolució **amb xifres**.\n- A les **definicions**, una o dues frases precises i un exemple.\n- A les preguntes 3 i 4, respon **cada lletra (a, b, c) en un paràgraf propi**: les pautes puntuen cada part per separat. Les pautes valoren també l'ordre, la precisió, la terminologia geogràfica i la claredat.\n\nEl gràfic és un perfil (transsecte) de temperatura a través d'una ciutat: llegeix l'eix de les abscisses (tipus d'espai) i el d'ordenades (°C) i quantifica la diferència entre el camp i el centre."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta: **a)** identificació (0,5): gràfic esquemàtic adaptat del programa COMET que representa una ciutat i el seu entorn; a l'eix de les abscisses, les localitzacions (rural, comercial, centre ciutat, residencial, rural); a l'eix d'ordenades, la temperatura en °C. **b)** Fenomen (0,5): la temperatura augmenta cap al centre i disminueix cap a la perifèria.\n\nAfegeix xifres llegides al gràfic (≈) i la diferència camp-centre."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Lectura aproximada del perfil (escala d'1 °C entre línies; valors estimats amb píxels, ≈):\n\n| Zona | Temperatura |\n|---|---|\n| Rural (esquerra) | ≈ 29,2 °C |\n| Comercial | ≈ 31,3-31,8 °C |\n| Centre ciutat (màxim) | ≈ 33,4 °C |\n| Residencial | ≈ 30,6-30,9 °C |\n| Rural (dreta) | ≈ 29,3 °C |\n\nIntensitat de l'illa de calor = T centre − T rural ≈ 33,4 − 29,2 ≈ **4 °C**. Diferència centre-residencial ≈ 33,4 − 30,6 ≈ **2,8 °C**."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **gràfic esquemàtic**, adaptat del programa educatiu **COMET** (*The Comet Program*), que representa el **perfil de temperatures** al llarg d'un tall que travessa una ciutat i el seu entorn. A l'**eix de les abscisses** hi ha els diferents tipus d'espai, d'una perifèria a l'altra: rural, comercial, centre ciutat, residencial i rural; a sota s'hi dibuixa la silueta dels edificis, més alts i densos al centre. A l'**eix d'ordenades** hi ha la temperatura en **graus Celsius**, entre 30 i 33 °C.\n\nEl fenomen principal és que la **temperatura augmenta a mesura que ens acostem al centre de la ciutat** i disminueix a mesura que ens allunyem cap a la perifèria. A les zones rurals la temperatura és inferior als 30 °C (uns 29 °C); a la zona comercial puja fins a uns 31-32 °C; al **centre ciutat** assoleix el màxim, per sobre dels **33 °C**; a la zona residencial baixa a uns 30,5-31 °C i, de nou a l'espai rural, torna a ser inferior a 30 °C. La diferència entre el camp i el centre és, doncs, d'uns **4 °C**."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "0,5 per terme. **Illa de calor**: fenomen microclimàtic, augment de temperatura del centre de la ciutat respecte de la perifèria. **Microclima**: modificació dels elements del clima regional (temperatura, precipitació, humitat, vent) per factors locals (relleu, pendent, orientació, usos del sòl). Relaciona'ls: l'illa de calor és un tipus de microclima."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Illa de calor**: fenomen microclimàtic que consisteix en un augment de la temperatura al centre de les ciutats en relació amb la seva perifèria i amb l'espai rural que les envolta. És més intens de nit, amb temps estable i sense vent, i a les grans ciutats pot superar els 4-5 °C de diferència (per exemple, entre el centre de Barcelona i el Vallès).\n\n**Microclima**: conjunt de condicions climàtiques d'un espai reduït que modifiquen els valors dels elements del clima regional (temperatura, precipitació, humitat de l'aire, vent...) a causa de factors locals, com el relleu, el pendent, l'orientació (solell i obaga), la proximitat a l'aigua o els usos del sòl. Per exemple, el clima d'una ciutat, d'una vall tancada o d'un hivernacle."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta dona **0,25 punts per factor** identificat (fins a 1 punt) i **0,5 punts més** si es **diferencia explícitament** entre factors de **morfologia urbana** i factors de **consum energètic**. Per tant, organitza la resposta en dos paràgrafs titulats així, amb almenys quatre factors en total."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "Les temperatures més altes es donen al centre de la ciutat per dos grups de factors.\n\n**1. Factors relacionats amb la morfologia urbana.** Al centre hi ha la **màxima densitat d'edificis**, sovint més alts, i la màxima densitat de població. Els **materials urbans** (asfalt, formigó, pedra, teulades fosques) absorbeixen molta radiació solar durant el dia i l'alliberen en forma de calor a la nit. Els carrers estrets entre edificis alts (\"canons urbans\") retenen la radiació reflectida i dificulten la circulació del vent i la ventilació. A més, la superfície està **impermeabilitzada** i la **xarxa de drenatge** evacua ràpidament l'aigua de pluja: hi ha poca vegetació i poca aigua per evaporar, de manera que l'energia que al camp es gastaria en l'evapotranspiració aquí escalfa l'aire.\n\n**2. Factors relacionats amb l'elevat consum d'energia.** La ciutat consumeix molta energia que acaba transformada en calor que s'allibera a l'aire: el **trànsit de vehicles**, les **calefaccions** domèstiques a l'hivern, els **aparells d'aire condicionat** a l'estiu (que treuen calor dels edificis cap al carrer) i les **activitats industrials** i de serveis. La contaminació atmosfèrica, a més, forma una cúpula que dificulta la pèrdua de calor durant la nit.\n\nCom que al centre totes dues causes són més intenses, és on s'assoleix el màxim de temperatura, mentre que a les zones residencials, amb més espais verds i menys densitat, i a l'espai rural la temperatura és més baixa."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta: **a)** 0,75: cal dir clarament que la gènesi de l'illa de calor és **independent del canvi climàtic** (es produiria igualment sense canvi climàtic); com a molt, el canvi climàtic fa que les temperatures assolides siguin més altes. **b)** 0,75: microclimes generats per l'acció humana, **voluntaris** (interior dels habitatges per al confort tèrmic, hivernacles) i **involuntaris** (canvis d'usos i cobertes del sòl: desforestació, superfícies agrícoles, urbanització)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**a)** L'illa de calor urbana **no és una conseqüència directa del canvi climàtic global**, sinó un fenomen **local** causat per la mateixa ciutat: la morfologia urbana (densitat d'edificis, materials que acumulen calor, manca de vegetació i d'aigua) i el consum d'energia (trànsit, calefaccions, aire condicionat, indústria). Per això es produiria igualment encara que no hi hagués canvi climàtic, i de fet ja es va descriure al segle XIX a Londres. El que sí que pot passar és que el canvi climàtic, en elevar la temperatura mitjana, faci que les temperatures assolides a les ciutats siguin encara més altes i que les onades de calor hi siguin més perilloses; i, a la inversa, el consum energètic de les ciutats contribueix a les emissions de gasos d'efecte hivernacle. Són, doncs, dos fenòmens relacionats però d'escala i origen diferents.\n\n**b)** L'activitat humana genera altres microclimes, de manera **voluntària** o **involuntària**. Entre els **voluntaris** hi ha el microclima de l'**interior dels habitatges** i dels edificis, que es climatitzen per assolir el confort tèrmic, i el dels **hivernacles**, que retenen la calor i la humitat per protegir els cultius i accelerar-ne el creixement (com els del Maresme o els d'Almeria). Els **involuntaris** estan relacionats amb els **canvis en els usos i les cobertes del sòl**: la **desforestació** (menys humitat i més amplitud tèrmica), la posada en conreu de noves superfícies agrícoles o de grans regadius (més humitat i temperatures més suaus), la construcció d'**embassaments** (boires i humitat) o la **urbanització** del territori modifiquen els elements climàtics i donen lloc a microclimes."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Gràfic esquemàtic (programa COMET) d'una ciutat i el seu entorn; abscisses: rural, comercial, centre ciutat, residencial; ordenades: temperatura en °C (0,5). La temperatura augmenta cap al centre i disminueix cap a la perifèria (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Illa de calor: fenomen microclimàtic, temperatura més alta al centre de la ciutat que a la perifèria (0,5). Microclima: modificació dels elements del clima regional per factors locals (relleu, pendent, orientació, usos del sòl) (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Morfologia urbana (tipus i densitat d'edificació, població, asfalt que absorbeix radiació i allibera calor, xarxa de drenatge) i consum d'energia (vehicles, calefaccions, aire condicionat, indústria): 0,25 per factor fins a 1 punt; +0,5 si es distingeixen explícitament els dos grups de factors."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) L'illa de calor és independent del canvi climàtic (es donaria igualment); el canvi climàtic només pot fer que les temperatures siguin més altes (0,75). b) Microclimes voluntaris (habitatges, hivernacles) i involuntaris (desforestació, superfícies agrícoles, urbanització) (0,75)."
+          }
+        ],
+        "nota": "Les temperatures de l'apartat 1 són estimacions (≈) fetes amb píxels sobre l'escala d'1 °C del gràfic; el document no dona xifres exactes, però citar valors aproximats (≈29 °C al camp, >33 °C al centre, ≈4 °C de diferència) millora la descripció. Error típic a l'apartat 4a: atribuir l'illa de calor al canvi climàtic o a l'efecte hivernacle global; la pauta vol que es digui clarament que són fenòmens independents. A l'apartat 3, no oblidis separar explícitament els dos grups de factors: val 0,5 punts."
+      }
+    },
+    {
+      "id": "geografia-2013-S-e1-B",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa de la població urbana al món (2012): urbanització i segregació espacial",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "mon",
+        "poblacio"
+      ],
+      "conceptes": [
+        "procés d'urbanització",
+        "segregació espacial",
+        "polarització social",
+        "gentrificació",
+        "ciutat dual",
+        "barraquisme",
+        "mapa de coropletes",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció B. Exercici 1 [5 punts]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2013-S/e1-B.png",
+          "peu": "Mapa del món de coropletes: població urbana (% del total) per països, 2012. Llegenda: sense dades (blanc), < 20 (gris clar), 20-39,9 (ratllat clar), 40-59,9 (gris mitjà), 60-80 (ratllat dens), > 80 (gris fosc). Escala gràfica de 6.000 km. Font: Banc Mundial [en línia]."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *procés d'urbanització* i *segregació espacial a les ciutats*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu les diferències principals relacionades amb la intensitat del fenomen urbanitzador entre els països desenvolupats i els països en via de desenvolupament.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Compareu els problemes de segregació i polarització social que existeixen en els dos tipus de ciutat següents:\n\na) Ciutats dels països desenvolupats.\n\nb) Ciutats dels països en via de desenvolupament.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts i segueix l'esquema habitual de Geografia d'aquests anys: **1** descriure el document (1 punt), **2** definir dos termes (1 punt), **3** i **4** explicar o relacionar segons l'esquema que dona la pregunta (1,5 punts cadascuna). Dedica-hi uns 40-45 minuts (és la meitat de l'examen).\n\n- A la **descripció** no s'expliquen causes: es diu quin document és, quina variable i unitats mostra, l'àmbit, la data i la font, i després es descriu la distribució o l'evolució **amb xifres**.\n- A les **definicions**, una o dues frases precises i un exemple.\n- A les preguntes 3 i 4, respon **cada lletra (a, b, c) en un paràgraf propi**: les pautes puntuen cada part per separat. Les pautes valoren també l'ordre, la precisió, la terminologia geogràfica i la claredat.\n\nÉs un mapa mundial de coropletes: per descriure'l, agrupa els països per grans regions i per intervals de la llegenda, de més urbanitzats a menys."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta: identificació (0,25): mapa del món de la població urbana per països el 2012, font Banc Mundial. Països més urbanitzats (0,5): Amèrica Llatina (Brasil, Veneçuela, Argentina, Xile), Amèrica del Nord, Europa occidental (França, Suècia, Bèlgica...), Austràlia i Nova Zelanda, i casos aïllats com l'Aràbia Saudita o el Gabon. Menys urbanitzats (0,25): Àfrica i sud i sud-est d'Àsia.\n\nExplica la llegenda (% de població urbana sobre el total, sis categories) i, si vols, la posició intermèdia de la Xina, Rússia i el nord d'Àfrica."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic de coropletes d'àmbit mundial** que representa, per països, el **percentatge de població urbana sobre la població total** l'any **2012**. Els països s'agrupen en cinc intervals (menys del 20 %, 20-39,9 %, 40-59,9 %, 60-80 % i més del 80 %) amb trames i tons de gris, a més d'una categoria per als països sense dades. La font és el **Banc Mundial**.\n\nEls països amb **més percentatge de població urbana** (més del 80 %) són a l'**Amèrica del Nord** (Estats Units i Canadà), a l'**Amèrica Llatina** (Brasil, Veneçuela, Argentina, Xile, Uruguai), a **Europa occidental i del nord** (França, Bèlgica, Països Baixos, Suècia...), a **Austràlia i Nova Zelanda**, al Japó i en alguns casos aïllats com l'**Aràbia Saudita** o el Gabon. Amb valors alts (60-80 %) hi ha la resta d'Europa, Rússia, Mèxic i bona part de l'Amèrica del Sud. Amb valors intermedis (40-60 %) destaquen la **Xina**, el nord d'Àfrica i alguns països del golf de Guinea. Per contra, els **percentatges més baixos** (menys del 40 % i, en alguns països, menys del 20 %) es troben a l'**Àfrica subsahariana**, sobretot a l'oriental, i al **sud i sud-est d'Àsia** (Índia, Pakistan, Bangladesh)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "0,5 per terme. **Procés d'urbanització**: creixement accelerat de les ciutats en població i superfície i extensió dels modes de vida urbans. **Segregació espacial**: distribució de la població urbana en àrees diferents segons característiques econòmiques, socials, culturals o religioses. Posa un exemple a cadascun."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Procés d'urbanització**: fenomen pel qual les ciutats creixen d'una manera accelerada, sobretot en població i en superfície, i augmenta la proporció de població que hi viu, mentre els modes de vida urbans s'estenen a grans àrees del territori. A Europa va començar amb la industrialització del segle XIX; avui és molt intens a l'Àfrica i a l'Àsia.\n\n**Segregació espacial a les ciutats**: distribució de la població urbana en àrees o barris diferents segons les seves característiques econòmiques (nivell de renda), socials, culturals, ètniques o religioses, de manera que els diferents grups viuen separats. Per exemple, les urbanitzacions de rendes altes enfront dels barris perifèrics amb molta població immigrada."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos blocs de 0,75 punts:\n\n1. **Països desenvolupats**: urbanització accelerada amb la **industrialització del segle XIX** (Europa, Amèrica del Nord, Japó, Austràlia); avui creixement urbà escàs (a Europa, entre el 1995 i el 2000, creixement de la població urbana pràcticament del 0 %, amb una població total que creixia un 0,5 % anual) i percentatges ja molt alts.\n2. **Països en desenvolupament**: urbanització tardana i molt ràpida; primer a l'**Amèrica Llatina** (segona meitat del segle XX); avui els ritmes més alts a l'**Àfrica i l'Àsia** (Àfrica 1995-2000: població urbana +4,3 % anual, població total +2,4 %), tot i que encara amb percentatges urbans més baixos.\n\nAfegeix les causes (èxode rural vs. industrialització) per donar coherència."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "Els ritmes d'urbanització són molt diferents entre els països desenvolupats i els que estan en vies de desenvolupament.\n\nAls **països desenvolupats** (Europa, Amèrica del Nord, Japó, Austràlia) el procés d'urbanització accelerat va començar amb la **industrialització del segle XIX**: l'èxode rural va portar la població cap a les ciutats industrials, on hi havia feina. Avui aquests països ja tenen la major part de la població vivint en ciutats (més del 75-80 %) i el creixement urbà és **lent**: a Europa, entre el 1995 i el 2000, la població urbana va créixer pràcticament un 0 %, tot i que la població total va créixer un 0,5 % anual. El creixement es fa ara més aviat en forma de dispersió cap a les perifèries (suburbanització, periurbanització) que no pas d'augment del percentatge urbà.\n\nAls **països en vies de desenvolupament** la urbanització és **més tardana i molt més ràpida**. El creixement més ràpid es va produir primer a l'**Amèrica Llatina**, sobretot des de la segona meitat del segle XX, i per això avui té percentatges semblants als dels països rics. A l'**Àfrica** i a l'**Àsia** el ritme de creixement de la població urbana en les darreres dècades ha estat molt elevat: a l'Àfrica, entre el 1995 i el 2000, la població urbana va augmentar un **4,3 % anual**, mentre que el conjunt de la població creixia un **2,4 %**. Aquest creixement s'explica per l'elevat creixement natural i per un **èxode rural** massiu provocat per la pobresa del camp, més que no pas per la industrialització, i dona lloc a grans metròpolis (Lagos, Dhaka, Karachi...). Des de començament del segle XXI, el creixement urbà més gran es dona a l'Àfrica i a l'Àsia, però sense arribar encara als percentatges de població urbana dels altres continents, com mostra el mapa."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta dona **0,25 punts per cada tipus de segregació** explicat, fins a 1,5 punts: cal explicar-ne uns **sis** entre les dues lletres i fer-ho en forma de comparació.\n\n- **a) Països desenvolupats**: barris de luxe i CBD (sobrecentralitat); comunitats tancades (*gated communities*); gentrificació dels centres antics; barris perifèrics o polígons d'habitatges que esdevenen guetos de població de baixa renda i immigrada.\n- **b) Països en desenvolupament**: polarització molt més marcada, la **ciutat dual** (barris rics centrals o tancats vs. barris marginals perifèrics); barris de barraques sense planificació fruit de l'èxode rural (*favelas*, *villas miseria*, *bidonvilles*)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**a) Ciutats dels països desenvolupats.** La segregació hi és important però menys extrema. Els grups de renda alta ocupen **barris de luxe o zones de prestigi**, sovint a prop del centre de negocis (CBD), un espai de sobrecentralitat amb preus del sòl molt alts. També es multipliquen les **comunitats tancades** (*gated communities*): urbanitzacions exclusives envoltades de tanques i amb vigilància privada, a l'abast només d'una minoria amb rendes molt altes. Als **centres històrics** es produeix la **gentrificació** o el·lització: els habitants amb poc poder adquisitiu són substituïts progressivament per població de renda mitjana-alta, alhora que es rehabiliten els edificis i els carrers (com al Raval o al Born de Barcelona). Finalment, en alguns **barris perifèrics**, amb polígons d'habitatges construïts als anys seixanta i setanta o amb habitatges d'autoconstrucció, es concentra població amb baix poder adquisitiu i un percentatge alt d'immigrants, i poden esdevenir **guetos** (les *banlieues* franceses).\n\n**b) Ciutats dels països en vies de desenvolupament.** Aquí la **polarització social és molt més marcada**: es parla de **ciutat dual**, amb un contrast extrem entre els barris rics del centre o les urbanitzacions tancades de luxe, amb tots els serveis, i els **barris marginals de la perifèria**. L'arribada constant de població procedent de les àrees rurals fa que es formin barris **sense cap planificació**, amb construccions precàries que sovint no són més que barraques, sense aigua corrent, clavegueram ni electricitat, i sovint en terrenys ocupats il·legalment i amb riscos naturals. Reben noms diferents segons el país: ***favelas*** al Brasil, ***villas miseria*** a l'Argentina, ***bidonvilles*** a l'Àfrica francòfona, *slums* a l'Índia.\n\nEn resum, a les ciutats riques la segregació es basa sobretot en el preu de l'habitatge i separa barris dins d'una ciutat formal, mentre que a les ciutats dels països pobres separa la ciutat formal de la informal, i una gran part de la població viu en barris de barraques."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa del món de la població urbana per països (2012), font Banc Mundial (0,25). Més urbanitzats: Amèrica Llatina (Brasil, Veneçuela, Argentina, Xile), Amèrica del Nord, Europa occidental, Austràlia i Nova Zelanda, i casos aïllats com l'Aràbia Saudita (0,5). Menys urbanitzats: Àfrica i sud-est d'Àsia (0,25)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Procés d'urbanització: creixement accelerat de les ciutats en població i superfície i extensió dels modes de vida urbans (0,5). Segregació espacial: distribució de la població urbana en àrees diferents segons característiques econòmiques, socials, culturals o religioses (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Països desenvolupats: urbanització accelerada amb la industrialització del segle XIX; creixement urbà actual escàs (Europa 1995-2000 ≈ 0 %) (0,75). Països en desenvolupament: creixement ràpid a l'Amèrica Llatina des de la segona meitat del segle XX; avui molt elevat a l'Àfrica i l'Àsia (Àfrica 1995-2000: +4,3 % anual urbà vs. +2,4 % total), però amb percentatges encara més baixos (0,75)."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) Barris de luxe i CBD, comunitats tancades, gentrificació dels centres antics, barris perifèrics convertits en guetos. b) Ciutat dual (barris rics vs. barris marginals), barris de barraques sense planificació per l'èxode rural (favelas, villas miseria, bidonvilles). 0,25 per cada tipus explicat fins a 1,5."
+          }
+        ],
+        "nota": "La pauta cita, entre els països aïllats molt urbanitzats, \"Guinea occidental\"; al mapa el país africà de color fosc a la costa atlàntica és el **Gabon** (la pauta probablement s'hi refereix). Errors típics: confondre percentatge de població urbana amb nombre d'habitants urbans (la Xina o l'Índia tenen moltíssima població urbana en xifres absolutes però un percentatge mitjà o baix); a l'apartat 3, dir que els països pobres \"no s'urbanitzen\" quan en realitat són els que creixen més ràpid; a l'apartat 4, limitar-se a dos tipus de segregació (cada tipus explicat suma 0,25)."
+      }
+    },
+    {
+      "id": "geografia-2013-S-e2-B",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Evolució de la taxa d'atur a Espanya per sexes (2001-2011): atur, població activa i crisi",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "serveis",
+        "industria"
+      ],
+      "conceptes": [
+        "taxa d'atur",
+        "economia submergida",
+        "població activa",
+        "terciarització",
+        "crisi econòmica",
+        "envelliment",
+        "gràfic lineal",
+        "comentari de gràfic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció B. Exercici 2 [5 punts]. Observeu el gràfic següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2013-S/e2-B.png",
+          "peu": "Gràfic lineal de l'evolució de la taxa d'atur a Espanya, 2001-2011 (% de la població activa), amb tres línies: total (puntejada), dones (discontínua) i homes (contínua). Eix vertical de 0 a 25 %. Valors aproximats: total ≈ 10 % (2001), mínim ≈ 8,5 % (2006-2007) i ≈ 22,5 % (2011); dones ≈ 15-16,5 % (2001-2003), ≈ 10,5 % (2005-2007) i ≈ 23 % (2011); homes ≈ 7-9 % (2001-2004), ≈ 6,3 % (2007) i ≈ 22 % (2011). Font: Instituto Nacional de Estadística (INE), 2012."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el gràfic.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *taxa d'atur* i *economia submergida*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "L'atur i la població activa:\n\na) Per què augmenta la taxa d'atur a partir del 2007?\n\nb) Quina ha estat la dinàmica de la població activa per sectors productius en els darrers anys?\n\nc) De quins factors depèn el percentatge de població activa d'un país? Quina influència té l'envelliment de la població sobre el percentatge de població activa?",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "El problema de l'atur a Espanya:\n\na) Relacioneu el problema de l'atur amb l'evolució dels sectors econòmics en els darrers anys.\n\nb) Indiqueu quins col·lectius són els més perjudicats per l'atur i quines posicions defensen els agents socials i econòmics per reduir-lo.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts i segueix l'esquema habitual de Geografia d'aquests anys: **1** descriure el document (1 punt), **2** definir dos termes (1 punt), **3** i **4** explicar o relacionar segons l'esquema que dona la pregunta (1,5 punts cadascuna). Dedica-hi uns 40-45 minuts (és la meitat de l'examen).\n\n- A la **descripció** no s'expliquen causes: es diu quin document és, quina variable i unitats mostra, l'àmbit, la data i la font, i després es descriu la distribució o l'evolució **amb xifres**.\n- A les **definicions**, una o dues frases precises i un exemple.\n- A les preguntes 3 i 4, respon **cada lletra (a, b, c) en un paràgraf propi**: les pautes puntuen cada part per separat. Les pautes valoren també l'ordre, la precisió, la terminologia geogràfica i la claredat.\n\nEl gràfic és lineal amb tres sèries (total, dones, homes): descriu-ne les **fases** (2001-2004, 2005-2007, 2008-2011) amb valors aproximats i compara les tres línies."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta: identificació (0,5): gràfic lineal de la taxa d'atur masculina, femenina i total del 2001 al 2011; eix horitzontal: anys; eix vertical: taxa d'atur en % de la població activa; font INE, 2012. Evolució (0,5): les tres taxes evolucionen de manera molt semblant; la femenina està per sobre de la masculina; lleuger augment 2001-2002, descens fins a valors entre el 5 i el 10 % amb el mínim el 2007, i pujada ininterrompuda fins a prop del 25 % el 2011.\n\nEl gràfic no dona xifres exactes: llegeix-les aproximadament (≈) i calcula'n els canvis."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Valors llegits al gràfic (≈, estimats amb píxels sobre l'escala de 5 en 5 punts):\n\n| Any | Total | Dones | Homes |\n|---|---|---|---|\n| 2001 | ≈ 10 | ≈ 15 | ≈ 7 |\n| 2002 | ≈ 11,5 | ≈ 16,5 | ≈ 8,5 |\n| 2003 | ≈ 11,5 | ≈ 16,5 | ≈ 9 |\n| 2004 | ≈ 11 | ≈ 15 | ≈ 9 |\n| 2005 | ≈ 9,5 | ≈ 10,5 | ≈ 7 |\n| 2006 | ≈ 8,5 | ≈ 10,5 | ≈ 6,3 |\n| 2007 | ≈ 8,5 | ≈ 10,3 | ≈ 6,3 |\n| 2008 | ≈ 11 | ≈ 13 | ≈ 10 |\n| 2009 | ≈ 17 | ≈ 17,5 | ≈ 17,5 |\n| 2010 | ≈ 19,5 | ≈ 20,5 | ≈ 19,5 |\n| 2011 | ≈ 22,5 | ≈ 23 | ≈ 22 |\n\n- Augment de la taxa total 2007-2011: 22,5 − 8,5 ≈ **14 punts percentuals**; la taxa es multiplica per 22,5 / 8,5 ≈ **2,6**.\n- Homes 2007-2011: 22 − 6,3 ≈ **15,7 punts** (×3,5): és el grup on més creix.\n- Dones 2007-2011: 23 − 10,3 ≈ **12,7 punts**.\n- Diferència dones − homes: ≈ 8 punts el 2002-2003 i només ≈ 1 punt el 2011: les dues taxes convergeixen."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **gràfic lineal** que representa l'**evolució de la taxa d'atur a Espanya** entre el **2001 i el 2011**, expressada en **percentatge de la població activa**. Hi ha tres línies: la taxa total (puntejada), la de les dones (discontínua) i la dels homes (contínua). A l'eix horitzontal hi ha els anys i a l'eix vertical, la taxa d'atur, de 0 a 25 %. La font és l'**Institut Nacional d'Estadística (INE)**, 2012.\n\nLes tres taxes segueixen una evolució molt semblant, però la **femenina és sempre superior a la masculina**. Es distingeixen tres fases. Entre el **2001 i el 2003-2004** hi ha un lleuger augment: la taxa total passa d'un 10 % a un 11,5 %, la de les dones arriba al 16,5 % i la dels homes al 9 %. Entre el **2004 i el 2007** l'atur baixa fins a valors entre el 5 i el 10 %, i assoleix el **mínim el 2007** (total ≈ 8,5 %, homes ≈ 6 %, dones ≈ 10 %). A partir del **2008**, l'atur puja de manera **ininterrompuda i molt ràpida** fins a valors propers al **25 %** el **2011** (total ≈ 22,5 %): en quatre anys la taxa es multiplica per més de 2,5. L'augment és més fort en els homes, de manera que la diferència entre sexes, que era d'uns 8 punts a principi del període, gairebé desapareix el 2009-2011."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "0,5 per terme. **Taxa d'atur**: aturats (persones sense feina que en busquen) / població activa × 100. **Economia submergida**: activitats que es fan clandestinament, fora del control fiscal i de la normativa laboral. Dona la fórmula i un exemple."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Taxa d'atur**: percentatge de persones desocupades que busquen feina activament i estan disponibles per treballar, en relació amb el total de la població activa (ocupats + aturats). Es calcula així: taxa d'atur = aturats / població activa × 100. Per exemple, el 2011 a Espanya era d'uns 22 %.\n\n**Economia submergida**: conjunt d'activitats econòmiques que es desenvolupen de manera clandestina, sense declarar-les a l'Administració, i que escapen al control fiscal i al compliment de les lleis i normatives laborals (sense contracte ni cotització a la Seguretat Social). En són exemples el treball domèstic o a la construcció \"en negre\" o la venda ambulant il·legal; fa que l'atur registrat pugui ser més alt que l'atur real."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres parts de 0,5 punts:\n\n- **a)** Inici de la **crisi econòmica global** (2007-2008), agreujada a Espanya per l'esfondrament del sector de la **construcció** (bombolla immobiliària).\n- **b)** Transvasament de població activa de l'agricultura a la indústria i després als serveis: **terciarització** (augment de la renda → més demanda de serveis; externalització de serveis de les empreses industrials); a Espanya, també el creixement de la construcció abans de la crisi.\n- **c)** La població activa depèn del % de població adulta, de la quantitat i diversitat d'ocupacions, de la incorporació de la dona al treball i del nivell de desenvolupament. L'**envelliment** augmenta la població major de 65 anys, redueix la població activa i augmenta la taxa de dependència (risc per a les pensions)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a)** La taxa d'atur augmenta a partir del 2007 per l'inici de la **crisi econòmica i financera global** (crisi de les hipoteques *subprime* als Estats Units, 2007-2008), que va provocar la caiguda del crèdit, del consum i de la inversió. A Espanya la crisi es va agreujar per l'**esclat de la bombolla immobiliària**: la gran disminució de l'activitat del sector de la **construcció**, que havia crescut molt i ocupava molta mà d'obra poc qualificada, va destruir centenars de milers de llocs de treball, i l'atur es va estendre després a la indústria i als serveis relacionats.\n\n**b)** A mesura que una societat es desenvolupa, es produeix un **transvasament de població activa** de l'agricultura cap a la indústria i, posteriorment, de la indústria cap al **sector terciari**: és el procés de **terciarització**. A Espanya, en els darrers anys, el sector primari ha continuat perdent actius (menys del 5 %), la indústria s'ha reduït (desindustrialització i deslocalització) i els serveis han superat el 70 % de la població activa. El creixement dels serveis s'explica perquè, quan augmenta la renda, es multiplica i es diversifica la demanda de béns i serveis, i perquè les empreses industrials han **externalitzat** activitats terciàries (administració, comercialització, manteniment). A Espanya cal tenir en compte, a més, el fort creixement de la **construcció** fins al 2007 i la seva caiguda posterior.\n\n**c)** El percentatge de població activa d'un país depèn de l'**estructura per edats** (proporció de població adulta, de 16 a 64 anys), de la **quantitat i diversitat d'ocupacions** disponibles, del grau d'**incorporació de la dona** al treball remunerat, de la durada de l'escolarització i de l'edat de jubilació, i en general del **nivell de desenvolupament**. A Espanya la població activa ha augmentat pel creixement de la població, l'arribada d'immigrants i la incorporació de la dona al mercat laboral. L'**envelliment** de la població fa augmentar el grup de més de 65 anys i, per tant, **disminueix el percentatge de població activa** o en edat de treballar; alhora augmenta la **taxa de dependència** (menys actius per cada jubilat) i pot posar en crisi el sistema de pensions."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta reparteix 1,5 punts en tres blocs de 0,5: **a)** relació atur-sectors (automatització i noves tecnologies a la indústria, deslocalització cap a països emergents, crisi immobiliària i de la construcció); **b1)** col·lectius més perjudicats (joves que busquen la primera feina, majors de 40-45 anys, persones de baixa formació, immigrants extracomunitaris i minories); **b2)** posicions dels agents: patronal (flexibilitat, abaratir l'acomiadament), sindicats (drets, subsidi, repartiment del treball, sector públic) i Estat (incentius a la contractació indefinida, formació, R+D+I)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**a)** L'atur està molt relacionat amb l'evolució dels sectors econòmics. A la **indústria**, l'automatització i la implantació de **noves tecnologies** fan que calguin menys obrers i més personal qualificat, i la **deslocalització** de fàbriques cap a països emergents amb mà d'obra més barata (Àsia, Europa de l'Est) ha destruït ocupació industrial. La **construcció**, que havia estat el motor de l'ocupació fins al 2007, és el sector on més ha crescut l'atur arran de la crisi immobiliària. El sector primari continua perdent actius per la mecanització, i els **serveis**, tot i ser el sector que més ocupa, també han perdut llocs de treball en el comerç, l'hostaleria o les finances a causa de la caiguda del consum, mentre que l'ocupació pública s'ha estancat per les retallades.\n\n**b)** Els col·lectius més perjudicats per l'atur són els **joves** que busquen la primera feina (amb taxes d'atur superiors al 40 %), les persones de **més de 40-45 anys** que perden la feina, les de **baixa formació** i els **immigrants extracomunitaris** i les minories ètniques; les dones, que tradicionalment tenien més atur, en aquesta crisi han estat relativament menys afectades perquè treballen més en els serveis, com mostra la convergència de les línies del gràfic.\n\nEls agents socials i econòmics defensen posicions diferents per reduir-lo. La **patronal** pressiona per **liberalitzar la contractació**: reforma laboral per abaratir l'acomiadament, reduir les indemnitzacions i flexibilitzar la contractació segons les necessitats de les empreses. Els **sindicats** i els moviments socials defensen els drets dels treballadors, el manteniment i la millora del **subsidi d'atur**, el **repartiment del treball** i la defensa del sector públic. L'**Estat**, segons la seva orientació política, intenta incentivar la contractació (bonificacions per als contractes indefinits), ofereix **formació** als aturats perquè es preparin per a sectors amb demanda i afavoreix la inversió en **R+D+I** per millorar la competitivitat de les empreses."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Gràfic de la taxa d'atur masculina, femenina i total, 2001-2011; eix horitzontal anys, vertical % de la població activa; font INE 2012 (0,5). Evolució gairebé idèntica de les tres taxes, la femenina per sobre; lleuger augment 2001-2002, descens fins al 5-10 % amb el mínim el 2007 i pujada ininterrompuda fins a prop del 25 % el 2011 (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Taxa d'atur: desocupats que busquen feina en relació amb la població activa, en % (0,5). Economia submergida: activitats econòmiques clandestines que escapen al control fiscal i a les normes laborals (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Crisi econòmica global agreujada a Espanya per la caiguda de la construcció (0,5). b) Transvasament de població activa de l'agricultura a la indústria i als serveis (terciarització): més renda → més demanda de serveis; externalització; creixement de la construcció abans de la crisi (0,5). c) Depèn del % de població adulta, de les ocupacions disponibles, de les dones actives i del nivell de desenvolupament; l'envelliment redueix la població activa i augmenta la taxa de dependència i el risc per a les pensions (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) Automatització i noves tecnologies a la indústria, deslocalització, crisi immobiliària i de la construcció (0,5). b) Joves que busquen la primera feina, majors de 40 anys, baixa formació, immigrants extracomunitaris i minories; dones menys afectades (0,5). Posicions: patronal (liberalitzar la contractació, abaratir l'acomiadament), sindicats (subsidi, repartiment del treball, sector públic), Estat (incentius a la contractació indefinida, formació, R+D) (0,5)."
+          }
+        ],
+        "nota": "Discrepàncies amb la pauta: (1) la pauta parla d'una \"taula\", però el document és un **gràfic lineal**; (2) la pauta diu que la taxa femenina és \"lleugerament\" superior a la masculina, però fins al 2007 la diferència és d'uns 4-8 punts i només a partir del 2009 les dues línies gairebé coincideixen; (3) la pauta de l'apartat 4 té tres parts (a, b, c) mentre que l'enunciat en té dues: la part c de la pauta (posicions dels agents) correspon a la segona meitat de l'apartat b de l'enunciat. Les xifres de la taula de càlculs són estimacions (≈) mesurades amb píxels sobre el gràfic, que no dona valors exactes. Errors típics: confondre taxa d'atur (sobre la població activa) amb percentatge d'aturats sobre la població total; explicar causes a l'apartat 1; dir que l'envelliment augmenta la població activa."
+      }
+    }
+  ]
+}

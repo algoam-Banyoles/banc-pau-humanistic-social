@@ -1,0 +1,538 @@
+{
+  "examen": {
+    "id": "geografia-2012-S",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2012,
+    "convocatoria": "setembre",
+    "serie": "4",
+    "pdf_examen": "pdfs/geografia/2012-S-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2012-S-solucio.pdf",
+    "estructura": "Sèrie 4 (curs 2011-2012, convocatòria de setembre). Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun; total 10). Cada exercici parteix d'un document (mapa, gràfic o text) i té quatre qüestions: 1) descriure el document o resumir el text (1 punt), 2) definir dos termes (1 punt), 3) i 4) explicar o relacionar segons un esquema (1,5 punts cadascuna). Opció A: exercici 1, mapa de les ciutats més poblades del món (urbanització, conurbació, ciutat compacta i difusa); exercici 2, gràfic de les temperatures globals 1900-2100 i escenaris d'emissions (canvi climàtic). Opció B: exercici 1, mapa de l'empremta ecològica per països (2007) i desenvolupament sostenible; exercici 2, text de Luis Camarero sobre la desagrarització a Espanya. Cada exercici és un element amb quatre apartats; la lletra final de l'id és l'opció (A/B). Les pautes valoren, a més dels continguts, l'ordre, la precisió, la terminologia geogràfica i la claredat; l'expressió escrita pot arrodonir la nota final fins a ±0,5 punts."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2012-S-e1-A",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa de les ciutats més poblades del món: urbanització i models de ciutat",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "mon",
+        "poblacio"
+      ],
+      "conceptes": [
+        "megaciutats",
+        "conurbació",
+        "àrea metropolitana",
+        "urbanització als països en desenvolupament",
+        "ciutat compacta",
+        "ciutat difusa",
+        "barraquisme",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        1,
+        2
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció A. Exercici 1 [5 punts en total]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2012-S/e1-A.png",
+          "peu": "Ciutats més poblades del món. Mapa mundial de símbols proporcionals (cercles) amb la població de cada aglomeració en milers d'habitants. Valors rotulats: Tòquio 36.400; Bombai 26.385; Delhi 22.500; Dacca 22.015; São Paulo 21.428; Mèxic DF 21.009; Nova York 20.628; Calcuta 20.560; Xangai 19.412; Karatxi 19.095; Lagos 15.796; Kinshasa 15.796; El Caire 15.561; Manila 14.808; Pequín 14.545; Buenos Aires 13.768; Los Angeles 13.672; Rio de Janeiro 13.413; Jakarta 12.363; Istanbul 12.102; Canton 11.835; Osaka 11.368; Moscou 10.526; Lahore 10.512; Shenzhen 10.196; Madràs 10.129; París 10.036. Font: Le Monde Diplomatique. Atlas de las migraciones, 2010."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *conurbació* i *àrea metropolitana*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "a) Indiqueu si la major part de les ciutats que apareixen en el mapa pertanyen a països desenvolupats o a països en via de desenvolupament i esmenteu tres ciutats corresponents a cada tipus de país.\n\nb) Exposeu les causes principals del creixement urbà en els països en via de desenvolupament i expliqueu quines conseqüències urbanístiques comporta.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Expliqueu les característiques principals dels dos models urbanístics que predominen actualment: la *ciutat compacta* i la *ciutat difusa*.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts i segueix l'esquema clàssic de Geografia: **1** descriure el document (1 punt), **2** definir dos termes (1 punt), **3** i **4** explicar el fenomen (1,5 punts cadascuna). Dedica-hi uns 40-45 minuts.\n\n- A la **descripció** no s'expliquen causes: identifica el document (mapa temàtic mundial de símbols proporcionals), la variable (població de les grans aglomeracions, en milers d'habitants), la font i l'any, i descriu la **distribució per continents amb xifres**.\n- A les **definicions**, una o dues frases precises i un exemple; conurbació i àrea metropolitana són conceptes propers: marca bé la diferència.\n- La pregunta 3 té dos subapartats (a i b): respon-los per separat. A la 4, contraposa els dos models.\n- Les pautes valoren l'ordre, la precisió, la terminologia geogràfica i la claredat; l'expressió escrita pot arrodonir la nota final ±0,5 punts."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos blocs, com a la pauta (0,5 + 0,5):\n\n1. **Identificació**: mapa temàtic d'escala mundial; representa les ciutats (aglomeracions) més poblades del món amb **cercles proporcionals** a la població, en milers d'habitants (no hi ha una gradació d'intervals); font: *Atlas de las migraciones* de *Le Monde Diplomatique*, 2010.\n2. **Distribució**: desigual; predomini clar d'**Àsia** (Tòquio, Bombai, Delhi, Dacca...), després **Amèrica** (São Paulo, Mèxic, Nova York), només tres ciutats a l'**Àfrica** i les europees són poques i les menys poblades. Aporta xifres."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Recompte de les 27 ciutats del mapa per continents (verificat amb Python; Istanbul es compta amb Europa):\n\n| Continent | Ciutats | Població (milers) | % del total |\n|---|---|---|---|\n| Àsia | 15 | 262.123 | 58,8 % |\n| Amèrica | 6 | 103.918 | 23,3 % |\n| Àfrica | 3 | 47.153 | 10,6 % |\n| Europa (amb Istanbul) | 3 | 32.664 | 7,3 % |\n| **Total** | **27** | **445.858** | **100 %** |\n\nCiutats de països desenvolupats (Tòquio, Osaka, Nova York, Los Angeles, París, Moscou): 6 ciutats, 102.630 milers (23,0 %); la resta, 21 ciutats i el 77,0 %. Tòquio (36.400) té 3,6 vegades la població de París (10.036), la més petita del mapa."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic d'escala mundial** que representa les **ciutats més poblades del món** (aglomeracions de més de 10 milions d'habitants) mitjançant **cercles proporcionals** a la seva població, expressada en milers d'habitants; els cercles no segueixen una gradació d'intervals, sinó que cada ciutat porta rotulat el seu valor. La font és l'*Atlas de las migraciones* de *Le Monde Diplomatique*, de l'any **2010**.\n\nLa distribució és molt **desigual**. **Àsia** concentra 15 de les 27 ciutats i gairebé el 59 % de la població representada: hi ha la ciutat més gran del món, **Tòquio (36,4 milions)**, i un gran grup al subcontinent indi (**Bombai, 26,4 milions; Delhi, 22,5; Dacca, 22,0; Calcuta, 20,6; Karatxi, 19,1**) i a la Xina (Xangai, 19,4; Pequín, 14,5). En segon lloc hi ha **Amèrica**, amb sis ciutats (23 %), entre les quals destaquen **São Paulo (21,4 milions), Mèxic DF (21,0) i Nova York (20,6)**. A l'**Àfrica** només hi ha tres ciutats (Lagos i Kinshasa, 15,8 milions, i El Caire, 15,6), i **Europa** és el continent amb menys ciutats i les menys poblades: Istanbul (12,1), Moscou (10,5) i París (10,0). Oceania no en té cap."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues definicions de 0,5 punts. La clau és la diferència: a la **conurbació** hi ha diversos nuclis d'importància semblant que, en créixer, s'han unit físicament (policentrisme); a l'**àrea metropolitana** hi ha una gran ciutat central que domina un entorn de municipis amb què manté relacions diàries (fluxos de persones, mercaderies, serveis). Afegeix un exemple de cada."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Conurbació**: gran espai urbanitzat continu format per la unió física de diverses ciutats o nuclis urbans d'importància semblant, que en créixer s'han ajuntat, encara que mantenen la seva identitat administrativa i poden tenir funcions diferenciades. Per exemple, el Ruhr a Alemanya o la Randstad holandesa.\n\n**Àrea metropolitana**: conjunt format per una gran ciutat central i els municipis del seu entorn, amb els quals manté relacions estables i intenses en forma de fluxos diaris de persones (mobilitat obligada per treball i estudis), mercaderies i serveis, de manera que funcionen com una unitat. Per exemple, l'àrea metropolitana de Barcelona."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "**a)** (0,5) La majoria de les ciutats són de **països en via de desenvolupament** (21 de 27). Exemples que surtin al mapa: desenvolupats → Tòquio, Nova York, Los Angeles (o Osaka, París, Moscou); en desenvolupament → Bombai, Lagos, São Paulo (o Dacca, Karatxi, Kinshasa...).\n\n**b)** Causes (0,5): **èxode rural** (estancament del món rural, injusta distribució de la terra, pobresa), **creixement natural elevat** (alta fecunditat) i cerca de millors condicions de vida; i remarcar que aquest creixement **no va lligat a la industrialització** (a diferència d'Europa al segle XIX). Conseqüències urbanístiques (0,5): creixement ràpid, **desordenat i sense planificació**, perifèries d'**autoconstrucció** i **barraques** (*favelas*, *slums*, *bidonvilles*) que formen «segones ciutats», manca de serveis bàsics i infraestructures, deteriorament social i ambiental."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a)** La major part de les ciutats del mapa pertanyen a **països en via de desenvolupament**: 21 de les 27 ciutats, que sumen prop del 77 % de la població representada. Tres ciutats de països desenvolupats són **Tòquio, Nova York i Los Angeles**; tres ciutats de països en via de desenvolupament són **Bombai, Lagos i São Paulo**.\n\n**b)** El creixement urbà dels països en via de desenvolupament té tres causes principals. La primera és l'**èxode rural**: l'estancament del món rural, la manca de terres per una distribució injusta de la propietat i la pobresa empenyen milions de camperols cap a la ciutat a la recerca de feina i de millors condicions de vida. La segona és el **creixement natural elevat**: la població urbana, sobretot la d'origen rural, encara té taxes de fecunditat altes i una mortalitat en descens. La tercera és que, a diferència de l'Europa del segle XIX, aquest creixement **no és fruit d'un procés d'industrialització**: la ciutat no ofereix prou llocs de treball i molts immigrants acaben a l'economia informal.\n\nLes **conseqüències urbanístiques** són greus. La rapidesa del creixement impedeix la **planificació**, i la ciutat creix de manera **desordenada i sense control**. A la perifèria apareixen grans barris d'**habitatges d'autoconstrucció** i de **barraques** (les *favelas* de Rio i São Paulo, els *slums* de Bombai o Dacca), que arriben a formar autèntiques «segones ciutats», sovint en terrenys de risc i amb manca d'aigua potable, clavegueram, electricitat, transport, escoles i sanitat. Tot plegat comporta un fort deteriorament social (pobresa, marginació, inseguretat) i ambiental (contaminació, residus, congestió) i una forta segregació entre els barris rics i els pobres."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos blocs de 0,75 punts:\n\n1. **Ciutat compacta** (model mediterrani tradicional): trama urbana densa i contínua, **mixtura d'usos** (habitatge, comerç, serveis), proximitat als serveis, desplaçaments a peu i en transport públic, **cohesió social**, espais de sociabilitat (carrers, places), vida comunitària, eficiència en consum de sòl i energia.\n2. **Ciutat difusa** (model anglosaxó, *urban sprawl*): dispersió de la població cap a la perifèria metropolitana pel **preu del sòl** i la recerca de millors condicions ambientals i d'espai; baixa densitat (urbanitzacions d'habitatges unifamiliars), segregació d'usos; avantatges (menys densitat, més espai), però inconvenients: **alt consum de territori**, alteració del paisatge, encariment dels serveis públics i **dependència del vehicle privat**.\n\nPots acabar contraposant-los en una frase."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "La **ciutat compacta** és el model tradicional de la ciutat mediterrània europea. Té una trama urbana **densa i contínua**, amb edificis plurifamiliars i una alta densitat de població, i barreja en un mateix espai els **diversos usos** (habitatge, comerç, oficines, equipaments). Aquesta compacitat fa que els ciutadans tinguin els **serveis a prop**, que molts desplaçaments es facin a peu o en transport públic i que el consum de sòl i d'energia per habitant sigui baix. És una ciutat **cohesionada socialment**, amb carrers i places que funcionen com a espais de sociabilitat, que afavoreix la trobada d'activitats i la vida en comunitat. Barcelona, amb el centre històric i l'Eixample, n'és un bon exemple.\n\nLa **ciutat difusa** (*urban sprawl*) és el model que s'ha estès a partir de la ciutat nord-americana i, des dels anys 1980-1990, també a les àrees metropolitanes europees. Les ciutats centrals, que havien crescut amb la industrialització i els serveis, s'han estabilitzat, i una part de la població s'ha **dispersat cap a la perifèria metropolitana** per l'elevat **preu del sòl urbà** i la cerca de millors condicions ambientals i de més espai (urbanitzacions d'habitatges unifamiliars, polígons i centres comercials separats). Aquest model redueix la densitat i ofereix habitatges més grans i entorns més verds, però té costos importants: **gran ocupació de territori**, alteració del paisatge i pèrdua de sòl agrícola i natural, **encariment dels serveis públics** (xarxes d'aigua, enllumenat, recollida de residus, transport) i **augment de la mobilitat en vehicle privat**, amb més congestió, consum energètic i contaminació. Per això l'urbanisme actual tendeix a defensar la ciutat compacta com a model més sostenible."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa temàtic mundial de les ciutats més poblades, població en milers d'habitants amb cercles de mida diferent (sense gradació); font: Le Monde Diplomatique, Atlas de las migraciones, 2010 (0,5). Distribució desigual: majoria a Àsia (Tòquio, Xangai, Delhi, Bombai), després Amèrica (São Paulo, Mèxic, Nova York), tres a l'Àfrica i les europees, les menys poblades (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Conurbació: gran zona urbanitzada amb diversos nuclis centrals d'importància semblant, amb funcions que poden ser diferents (0,5). Àrea metropolitana: gran ciutat central i les ciutats de l'entorn amb què manté relacions estables (fluxos de persones i mercaderies) (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Majoria de ciutats de països en via de desenvolupament, amb exemples del mapa (0,5). b) Causes: èxode rural (estancament del camp, injusta distribució de la terra), creixement natural elevat, empobriment; creixement no lligat a la industrialització (0,5). Conseqüències: creixement desorganitzat, perifèries d'autoconstrucció com a «segones ciutats», barraques sense serveis ni infraestructures, deteriorament social i ambiental (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Ciutat compacta: trama compacta, cohesió social, espais de sociabilitat, proximitat als serveis, vida en comunitat (0,75). Ciutat difusa: dispersió cap a la perifèria per l'alt preu del sòl i la cerca de millors condicions; alta ocupació del territori, menys densitat però alteració del paisatge, encariment dels serveis públics i més transport privat (0,75)."
+          }
+        ],
+        "nota": "Al mapa, Kinshasa porta la mateixa xifra que Lagos (15.796): segurament és un error de l'original (Kinshasa tenia uns 8-9 milions d'habitants el 2010); a l'examen, però, cal citar les xifres tal com surten. Els recomptes per continents (15 ciutats asiàtiques, 6 americanes, 3 africanes i 3 europees, comptant-hi Istanbul) i els percentatges s'han verificat amb Python. Errors típics: explicar causes a l'apartat 1; confondre conurbació (diversos nuclis iguals units) amb àrea metropolitana (una ciutat central dominant); a l'apartat 3a, posar exemples de ciutats que no surten al mapa; a l'apartat 3b, oblidar que la urbanització del Sud no va lligada a la industrialització; a l'apartat 4, descriure un sol model."
+      }
+    },
+    {
+      "id": "geografia-2012-S-e2-A",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Gràfic de les temperatures globals (1900-2100) i escenaris d'emissions: el canvi climàtic",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "clima",
+        "industria"
+      ],
+      "conceptes": [
+        "canvi climàtic",
+        "efecte d'hivernacle",
+        "gasos d'efecte d'hivernacle",
+        "contaminació atmosfèrica",
+        "boirum (smog)",
+        "protocol de kyoto",
+        "ipcc",
+        "comentari de gràfic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció A. Exercici 2 [5 punts en total]. Observeu el gràfic següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2012-S/e2-A.png",
+          "peu": "Temperatures globals mesurades (1900-2000) i projeccions (2000-2100). Gràfic lineal: a l'eix horitzontal, els anys (1900, 2000, 2100); a l'eix vertical, l'increment de temperatura en °C respecte a la mitjana global del període 1961-1990 (de -1,0 a 4,0). Una línia de temperatures mesurades fins al 2000 i quatre projeccions fins al 2100 amb ombres que indiquen el marge de variació: A, emissions molt altes (≈3,6 °C el 2100); B, emissions altes (≈2,8 °C); C, emissions baixes (≈1,8 °C); D, aturada de les emissions en el temps present (≈0,6 °C). Font: IPCC. The COMET Program, 2009."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació continguda en el gràfic.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *contaminació atmosfèrica* i *boirum* (angl., *smog*).",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "a) Expliqueu quin és l'augment de temperatures esperat per a finals del segle XXI. Com varia aquest valor en funció dels diversos supòsits d'emissions?\n\nb) Quins són els gasos d'efecte d'hivernacle principals? Com es generen?",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Exposeu la problemàtica del canvi climàtic, d'acord amb l'esquema següent:\n\n- a) Relació entre el model energètic de les societats industrials i l'efecte d'hivernacle.\n- b) Grau de compliment del Protocol de Kyoto.\n- c) Efectes esperats del canvi climàtic en les activitats humanes.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 5 punts amb l'esquema habitual: descripció del gràfic (1), dues definicions (1) i dues preguntes d'explicació (1,5 + 1,5). Uns 40-45 minuts.\n\n- A la **descripció**: tipus de gràfic, què hi ha a cada eix (anys a l'horitzontal; increment de temperatura en °C respecte a 1961-1990 a la vertical), els dos períodes (dades mesurades fins al 2000, projeccions a partir del 2000), els quatre escenaris, les ombres (marge d'error) i la font (IPCC, 2009). Després, l'evolució **amb xifres llegides al gràfic**.\n- El gràfic no dona xifres exactes: llegeix-les amb l'escala i escriu-les amb «aproximadament» o «≈».\n- A la pregunta 4, un paràgraf per a cada lletra (a, b, c)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació** (0,5): gràfic lineal; eix horitzontal = anys 1900-2100, dividit pel 2000 en temperatures **mesurades** (1900-2000) i **projeccions** de models climàtics (2000-2100) segons quatre **escenaris d'emissions** de gasos d'efecte d'hivernacle (A, B, C, D); eix vertical = **increment de la temperatura mitjana global en °C respecte a la mitjana 1961-1990**; les ombres són el marge de variació; font: IPCC, The COMET Program, 2009.\n2. **Evolució** (0,5): al segle XX la temperatura puja d'≈ -0,6 °C a ≈ +0,2 °C (≈0,8 °C), amb una acceleració a partir dels anys 1970-1980; per al 2100, entre ≈0,6 °C (D) i ≈3,6 °C (A) segons l'escenari."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Lectura del gràfic mesurant píxels contra l'escala vertical (4,0 °C ↔ 0,0 °C), verificada amb Python:\n\n| Moment / escenari | Anomalia (°C, resp. 1961-1990) | Augment respecte al 2000 |\n|---|---|---|\n| 1900 | ≈ -0,6 | — |\n| 2000 | ≈ +0,2 | — |\n| 2100, A (emissions molt altes) | ≈ 3,6 | ≈ 3,4 |\n| 2100, B (emissions altes) | ≈ 2,8 | ≈ 2,6 |\n| 2100, C (emissions baixes) | ≈ 1,8 | ≈ 1,6 |\n| 2100, D (aturada de les emissions) | ≈ 0,6 | ≈ 0,4 |\n\nEscalfament del segle XX: 0,2 − (−0,6) ≈ **0,8 °C**. Diferència entre l'escenari més alt i el més baix el 2100: 3,6 − 0,6 ≈ **3,0 °C**. Fins i tot en l'escenari A el marge (ombra) arriba a ≈4 °C."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **gràfic lineal** que mostra l'evolució de la **temperatura mitjana global** entre el 1900 i el 2100. A l'eix horitzontal hi ha els anys, dividits pel 2000 en dos períodes: fins al 2000, les **temperatures mesurades**, i a partir del 2000, les **projeccions** obtingudes amb models climàtics per a quatre **escenaris d'emissions** de gasos d'efecte d'hivernacle: A (emissions molt altes), B (altes), C (baixes) i D (aturada de les emissions en el temps present). A l'eix vertical hi ha l'**increment de temperatura en °C respecte a la mitjana global del període 1961-1990**. Les ombres que acompanyen cada línia indiquen el marge de variació (error) de la projecció. La font és l'**IPCC** (Grup Intergovernamental d'Experts sobre el Canvi Climàtic), a través del COMET Program, 2009.\n\nDurant el segle XX la temperatura global passa d'uns **-0,6 °C** el 1900 a uns **+0,2 °C** el 2000, és a dir, augmenta prop de **0,8 °C**, amb un ascens lent fins a mitjan segle i molt més ràpid a partir dels anys setanta. Per al 2100 totes les projeccions preveuen un nou escalfament, però de magnitud molt diferent segons l'escenari: uns **3,6 °C** amb emissions molt altes (A), **2,8 °C** amb emissions altes (B), **1,8 °C** amb emissions baixes (C) i només uns **0,6 °C** si s'aturen les emissions (D). Les quatre corbes són gairebé iguals fins al 2020-2030 i després se separen cada cop més."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues definicions de 0,5. **Contaminació atmosfèrica**: presència a l'aire de gasos i partícules (aerosols) en proporció superior a la de l'aire net, amb efectes nocius; esmenta fonts (trànsit, indústria, calefaccions). **Boirum (smog)**: boira densa carregada de contaminants de la combustió de combustibles fòssils sobre les ciutats; pots distingir el *smog* clàssic (Londres, 1952) i el fotoquímic (Los Angeles), i lligar-lo a la inversió tèrmica."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Contaminació atmosfèrica**: presència a l'atmosfera de gasos (òxids de nitrogen, diòxid de sofre, monòxid de carboni, ozó troposfèric...) i de partícules en suspensió (aerosols) en una proporció superior a la de l'aire no contaminat o net, que perjudica la salut de les persones i els ecosistemes. Les fonts principals són el trànsit, la indústria, la producció d'electricitat i les calefaccions.\n\n**Boirum (*smog*)**: boira densa, de color grisós o marronós, carregada de partícules i gasos contaminants procedents de la crema de combustibles fòssils, que es forma sobre algunes grans ciutats, sobretot en situacions anticiclòniques amb inversió tèrmica que impedeixen la dispersió dels contaminants. N'és un exemple la «boina» de contaminació de Madrid o Barcelona, o el boirum de Londres de 1952."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "**a)** (0,75) Augment esperat el 2100: entre ≈0,6 °C i ≈3,6 °C sobre la mitjana 1961-1990 segons l'escenari (A ≈3,6; B ≈2,8; C ≈1,8; D ≈0,6). Remarca la **relació directa** entre nivell d'emissions i increment de temperatura, i lliga-ho amb l'**augment de l'efecte d'hivernacle** causat pel model econòmic basat en la **crema de combustibles fòssils**.\n\n**b)** (0,75) Gasos: **vapor d'aigua** (processos naturals), **CO2** i **òxids de nitrogen** (crema de combustibles fòssils; el CO2 també per la desforestació), **metà** (descomposició de matèria orgànica sense oxigen: ramaderia, purins, arrossars, abocadors). Pots afegir-hi els CFC i l'ozó troposfèric."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a)** Segons el gràfic, a finals del segle XXI la temperatura mitjana global serà entre **0,6 °C i 3,6 °C més alta** que la mitjana del període 1961-1990, és a dir, entre 0,4 i 3,4 °C més que la de l'any 2000. El valor depèn de l'escenari d'emissions: amb **emissions molt altes (A)** l'augment arribaria a uns **3,6 °C** (i fins a 4 °C dins el marge d'error); amb **emissions altes (B)**, a uns **2,8 °C**; amb **emissions baixes (C)**, a uns **1,8 °C**; i fins i tot si s'**aturessin les emissions avui (D)** la temperatura encara pujaria fins a uns **0,6 °C**, per la inèrcia del sistema climàtic i els gasos ja acumulats. Hi ha, doncs, una **relació directa** entre el volum d'emissions i l'escalfament: com més gasos s'emeten, més s'intensifica l'**efecte d'hivernacle**, i aquestes emissions depenen del model econòmic actual, basat en la **crema de combustibles fòssils**.\n\n**b)** Els principals gasos d'efecte d'hivernacle són el **vapor d'aigua**, el **diòxid de carboni (CO2)**, el **metà (CH4)** i els **òxids de nitrogen**, als quals s'afegeixen els CFC i l'ozó troposfèric. El vapor d'aigua es genera en processos naturals (evaporació). El **CO2** i els **òxids de nitrogen** es produeixen sobretot en la **crema de combustibles fòssils** (centrals tèrmiques, indústria, transport, calefaccions); el CO2 augmenta també per la desforestació, que redueix l'absorció de carboni, i els òxids de nitrogen, per l'ús d'adobs nitrogenats. El **metà** s'origina en la **descomposició de la matèria orgànica sense oxigen**, com passa a les explotacions ramaderes que acumulen purins, als arrossars i als abocadors."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres paràgrafs de 0,5 punts:\n\n- **a)** El model energètic industrial es basa en el **consum creixent de combustibles fòssils** (carbó, petroli, gas natural); la seva combustió allibera grans quantitats de CO2 i altres gasos que reforcen l'efecte d'hivernacle.\n- **b)** **Protocol de Kyoto** (1997, en vigor el 2005): tractat de les Nacions Unides per reduir les emissions dels països industrialitzats respecte als nivells del 1990 (−5,2 % de mitjana el 2008-2012). Compliment baix: els **EUA no el van ratificar**, països emergents com la Xina i l'Índia no tenien obligacions, i molts signants, entre ells **Espanya**, el van incomplir.\n- **c)** Efectes: canvis en la precipitació i més **sequeres**, **onades de calor**, desglaç i **pujada del nivell del mar**, canvis en la distribució d'espècies i pèrdua d'hàbitats, refugiats ambientals; i com afecten l'agricultura, el turisme, l'aigua, la salut i les zones costaneres."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**a) Model energètic i efecte d'hivernacle.** Des de la Revolució Industrial, les societats industrials han basat el seu creixement en un **consum creixent de combustibles fòssils**: primer el carbó, i al segle XX el petroli i el gas natural, que encara cobreixen la major part de l'energia primària mundial. La seva combustió per produir electricitat, moure el transport i fer funcionar la indústria i les calefaccions allibera a l'atmosfera grans quantitats de **CO2** i altres gasos d'efecte d'hivernacle. Aquests gasos retenen una part més gran de la radiació que la Terra emet, intensifiquen l'efecte d'hivernacle natural i provoquen l'escalfament global que mostra el gràfic.\n\n**b) Protocol de Kyoto.** És un tractat internacional impulsat per les **Nacions Unides**, signat el 1997 i en vigor des del 2005, que obligava els països industrialitzats a reduir les emissions de gasos d'efecte d'hivernacle respecte als **nivells del 1990** (un 5,2 % de mitjana per al període 2008-2012). El seu grau de compliment ha estat **baix**: els **Estats Units**, aleshores el primer emissor, no el van ratificar; els grans països emergents, com la Xina i l'Índia, no tenien compromisos de reducció; i molts països signants, entre ells **Espanya**, que podia augmentar les emissions un 15 % i les va superar àmpliament, no van assolir els objectius. Per això el protocol expirarà sense haver aconseguit frenar les emissions mundials.\n\n**c) Efectes en les activitats humanes.** El canvi climàtic provocarà **canvis en la precipitació** i més **sequeres**, cosa que reduirà els recursos hídrics i afectarà l'**agricultura** (menys collites, canvis de conreus); més **onades de calor**, amb efectes sobre la salut; el **desglaç** de glaceres i casquets polars i la **pujada del nivell del mar**, que amenaça les ciutats costaneres, els deltes (com el de l'Ebre) i el **turisme** de sol i platja; canvis en la distribució de les espècies i pèrdua d'hàbitats; i l'augment dels **refugiats ambientals** que hauran d'abandonar zones inhabitables."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Gràfic amb els anys 1900-2100, dividit en dos períodes (fins al 2000, temperatura mitjana global mesurada; a partir del 2000, projecció de models climàtics segons escenaris d'emissions); font: IPCC, 2009 (0,5). Ombres = marge d'error; temperatures com a diferència respecte a 1961-1990 en °C; predicció per al 2000-2100 d'entre 0,5 i 3,5 °C segons l'escenari (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Contaminació atmosfèrica: presència de gasos i partícules en suspensió (aerosols) en proporció superior a la de l'aire net (0,5). Smog: boira densa carregada de partícules contaminants de la crema de combustibles fòssils que es forma en algunes ciutats (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Escenaris A, B, C i D → augments d'≈3,6, 2,8, 1,8 i 0,6 °C respecte a 1961-1990; relació directa entre emissions i temperatura; relació amb l'augment de l'efecte d'hivernacle i el model econòmic basat en la crema de combustibles fòssils (0,75). b) Vapor d'aigua (natural), CO2 i òxids de nitrogen (crema de combustibles fòssils), metà (descomposició de matèria orgànica sense oxigen, purins) (0,75)."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) Model energètic basat en el consum creixent de carbó, gas i petroli, la combustió dels quals allibera gasos d'efecte d'hivernacle (0,5). b) Tractat de les Nacions Unides per limitar les emissions als nivells del 1990; no assoleix els objectius: no el signen els EUA i molts països, com Espanya, l'incompleixen (0,5). c) Canvis en la precipitació, desglaç, pujada del nivell del mar, onades de calor, sequeres, canvis en la distribució d'espècies, pèrdua d'hàbitats, refugiats ambientals (0,5)."
+          }
+        ],
+        "nota": "Les xifres del gràfic no estan rotulades: s'han estimat mesurant píxels contra l'escala vertical (A ≈3,6; B ≈2,8; C ≈1,8; D ≈0,6; 1900 ≈ -0,6; 2000 ≈ +0,2 °C) i coincideixen amb les de la pauta. La pauta oficial confon els eixos (diu que els anys són a l'eix d'ordenades i les temperatures a les abscisses): els anys són a l'eix horitzontal (abscisses) i les temperatures al vertical (ordenades). La pauta diu que Kyoto limitava les emissions «als nivells del 1990»; més exactament, preveia una reducció mitjana del 5,2 % respecte al 1990 per al 2008-2012 (amb objectius diferents per país; Espanya podia créixer un 15 %). Errors típics: dir que el gràfic mostra temperatures absolutes (són increments respecte a 1961-1990); confondre l'efecte d'hivernacle amb el forat de la capa d'ozó; oblidar que fins i tot l'escenari D implica escalfament."
+      }
+    },
+    {
+      "id": "geografia-2012-S-e1-B",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa de l'empremta ecològica per països (2007): desigualtats i desenvolupament sostenible",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "mon"
+      ],
+      "conceptes": [
+        "empremta ecològica",
+        "hectàrees globals",
+        "reciclatge",
+        "desenvolupament sostenible",
+        "informe brundtland",
+        "desigualtats nord-sud",
+        "mapa de coropletes",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció B. Exercici 1 [5 punts en total]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2012-S/e1-B.png",
+          "peu": "Empremta ecològica mundial per països i per capita, expressada en hectàrees globals (gha), 2007. Mapa mundial de coropletes amb trames i tons de grisos en set intervals: de 0 a 1,5; de 1,5 a 3,0; de 3,0 a 4,5; de 4,5 a 6,0; de 6,0 a 7,5; de 7,5 a 9,0 i més de 9 gha per capita (en blanc, sense dades). Valors més alts: Emirats Àrabs Units (més de 9), Estats Units (7,5-9), Canadà i Austràlia (6-7,5); valors més baixos (0-1,5): Índia, sud-est asiàtic i gran part de l'Àfrica subsahariana. Font: adaptació del mapa de Global Footprint Network, «Ecological Footprint of consumption per person 2007», Ecological footprint atlas 2010."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *empremta ecològica* i *reciclatge*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "a) Quins grups de països presenten els valors més alts i més baixos d'empremta ecològica?\n\nb) Expliqueu-ne raonadament les causes.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Exposeu els trets bàsics del desenvolupament sostenible, d'acord amb l'esquema següent:\n\n- a) Definiu el terme *desenvolupament sostenible*.\n- b) Quins són els motius que justifiquen la sostenibilitat?\n- c) En quin informe o conferència internacional és promogut per primera vegada el desenvolupament sostenible?",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 5 punts: descripció del mapa (1), dues definicions (1) i dues preguntes d'explicació (1,5 + 1,5). Uns 40-45 minuts.\n\n- A la **descripció**: tipus de mapa (coropletes amb trames i tons de grisos), variable (empremta ecològica per habitant en hectàrees globals), intervals de la llegenda, any 2007 i font; després, quins països tenen els valors alts i baixos, citant els **intervals de la llegenda** (el mapa no dona xifres exactes per país).\n- A la 3 separa clarament a) **quins** països (descripció) i b) **per què** (causes).\n- A la 4, un paràgraf per lletra; a la c), anomena l'**Informe Brundtland** (1987) i, com a antecedent, la Conferència d'Estocolm (1972)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació** (0,5): mapa de **coropletes** (trames i tons de grisos), escala mundial, per països; variable: **empremta ecològica per capita en hectàrees globals (gha)**; set intervals de 0-1,5 a més de 9 gha; any 2007; font: Global Footprint Network (*Ecological footprint atlas 2010*).\n2. **Distribució** (0,5): valors màxims als **Emirats Àrabs Units** (més de 9 gha), després **EUA** (7,5-9), **Canadà i Austràlia** (6-7,5) i diversos països d'Europa occidental i del golf Pèrsic (4,5-7,5); valors intermedis a Rússia, Xina, Amèrica Llatina (1,5-4,5); valors mínims (0-1,5) a l'**Índia**, el sud-est asiàtic i l'**Àfrica subsahariana**."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic de coropletes** d'escala mundial que representa, per països i amb trames i tons de grisos, l'**empremta ecològica per capita** expressada en **hectàrees globals (gha)** l'any **2007**. La llegenda té set intervals, de 0 a 1,5 gha fins a més de 9 gha per habitant, i un color blanc per als països sense dades. La font és una adaptació del mapa de la **Global Footprint Network** publicat a l'*Ecological footprint atlas 2010*.\n\nEl mapa mostra una distribució molt **desigual**. L'empremta més gran correspon als **Emirats Àrabs Units**, l'únic país de més de 9 gha per habitant, seguits dels **Estats Units** (entre 7,5 i 9 gha) i del **Canadà** i **Austràlia** (entre 6 i 7,5 gha). Molts països d'**Europa occidental i septentrional** (Finlàndia, els Països Baixos, Bèlgica, Irlanda...) i alguns del **golf Pèrsic** se situen entre 4,5 i 7,5 gha. Rússia, el Japó, la Xina i bona part d'Amèrica Llatina tenen valors intermedis (entre 1,5 i 4,5 gha). Les empremtes més petites, de menys d'1,5 gha per habitant, són a l'**Índia**, a diversos països del **sud-est asiàtic** (Filipines, Bangladesh...) i a la major part de l'**Àfrica subsahariana**. Per tant, un habitant dels Emirats o dels EUA té una empremta més de cinc vegades superior a la d'un habitant de l'Índia o de l'Àfrica central."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues definicions de 0,5. **Empremta ecològica**: indicador de sostenibilitat; superfície biològicament productiva (terra i aigua) necessària per produir els recursos que consumeix una població i absorbir-ne els residus; s'expressa en hectàrees globals per habitant. **Reciclatge**: tractament d'un producte o material ja utilitzat per obtenir-ne una primera matèria o un producte que es pot tornar a fer servir; exemple (paper, vidre, envasos)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Empremta ecològica**: indicador de sostenibilitat que mesura la demanda humana sobre la natura, expressada com la **superfície biològicament productiva** (de terra i d'aigua) necessària per produir els recursos que consumeix una població i per **assimilar els residus** que genera (inclòs el CO2). Es mesura en hectàrees globals per habitant i es compara amb la biocapacitat disponible del planeta (unes 1,8 gha per persona el 2007).\n\n**Reciclatge**: tractament total o parcial d'un producte o d'un material ja utilitzat per obtenir-ne una **primera matèria** que es pot tornar a transformar o un producte que es pot tornar a utilitzar. Per exemple, fer paper nou amb paper usat o envasos nous amb vidre recollit selectivament; redueix el consum de recursos i la quantitat de residus."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "**a)** (0,75) Valors **alts**: països del **Nord** desenvolupat (EUA, Canadà, Austràlia, Europa occidental) i alguns països del **golf Pèrsic** (Emirats). Valors **baixos**: països del **Sud**, sobretot l'**Àfrica subsahariana**, el **sud-est asiàtic** i el **subcontinent indi**.\n\n**b)** (0,75) Causes: al Nord, **economies fortament consumistes**, alt nivell de vida, intensives en recursos no renovables i basades en la **crema de combustibles fòssils** (molta energia, transport privat, dieta rica en carn, molts residus); als països del Golf, abundància de petroli barat, climatització, dessalinització. Al Sud, **pobresa extrema**: consum molt baix d'energia, béns i aliments, economies agràries de subsistència."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a)** Els valors més alts d'empremta ecològica corresponen als **països desenvolupats del Nord**: els Estats Units i el Canadà, Austràlia i bona part de l'Europa occidental i septentrional; també hi destaquen alguns **països petroliers del golf Pèrsic**, com els Emirats Àrabs Units, que tenen l'empremta més gran del món. Els valors més baixos es troben als **països del Sud**, especialment a l'**Àfrica subsahariana**, al **sud-est asiàtic** i al **subcontinent indi** (Índia, Bangladesh, Pakistan).\n\n**b)** Aquestes diferències depenen sobretot del **nivell de desenvolupament i del model de consum**. Els països del Nord tenen **economies fortament consumistes** i un nivell de vida elevat: consumeixen moltes primeres matèries i molta energia, procedent sobretot de la **crema de combustibles fòssils** (que és el component principal de l'empremta, per la superfície necessària per absorbir el CO2), fan un ús intensiu del vehicle privat i del transport aeri, tenen una dieta rica en carn i generen molts residus. Els països del Golf hi afegeixen l'abundància de petroli barat i un consum energètic molt alt per a la climatització i la dessalinització de l'aigua. En canvi, als països del Sud la **pobresa extrema** fa que el consum per habitant d'energia, aliments i béns sigui molt baix; predominen economies agràries, sovint de subsistència, i poca industrialització. L'empremta reflecteix, doncs, la desigualtat Nord-Sud: una minoria de la població mundial consumeix la major part dels recursos del planeta."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres paràgrafs de 0,5:\n\n- **a)** Definició clàssica: satisfer les necessitats del present **sense comprometre la capacitat de les generacions futures** de satisfer les seves. Pots afegir-hi els tres pilars (econòmic, social, ambiental).\n- **b)** Motius: reduir l'**impacte de les activitats humanes** en el medi, conservar els ecosistemes, reduir els residus i el **consum energètic**; els recursos són limitats i l'empremta mundial ja supera la biocapacitat.\n- **c)** **Informe Brundtland** (*El nostre futur comú*, 1987) o, com a antecedent, la **Conferència d'Estocolm** (1972); després, la Cimera de la Terra de Rio (1992)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**a)** El **desenvolupament sostenible** és aquell que és capaç de **satisfer les necessitats de les generacions presents sense comprometre la capacitat de les generacions futures de satisfer les seves pròpies necessitats**. Implica conciliar tres dimensions: el creixement econòmic, l'equitat social i la protecció del medi ambient.\n\n**b)** La sostenibilitat es justifica perquè els **recursos del planeta són limitats** i l'activitat humana ja consumeix més del que la Terra pot regenerar (l'empremta ecològica mundial supera la biocapacitat disponible). Cal **reduir l'impacte de les activitats humanes** sobre el medi ambient, **conservar els ecosistemes** i la biodiversitat, **reduir la quantitat de residus** i el **consum d'energia**, sobretot la d'origen fòssil, per frenar problemes com el canvi climàtic, l'esgotament dels recursos o la contaminació, i garantir un repartiment més just dels recursos entre països i generacions.\n\n**c)** El concepte de desenvolupament sostenible es va formular i promoure per primera vegada a l'**Informe Brundtland** (*El nostre futur comú*), elaborat el **1987** per la Comissió Mundial del Medi Ambient i el Desenvolupament de les Nacions Unides. Com a antecedent, la **Conferència d'Estocolm** (1972) havia estat la primera gran cimera de l'ONU sobre el medi ambient, i la Cimera de la Terra de Rio de Janeiro (1992) el va convertir en un objectiu internacional (Agenda 21)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa de trames o coropletes amb tons i trames de grisos que mostra l'empremta ecològica per països i per capita; font: Global Footprint Network, dades del 2007 (0,5). Empremta més gran als Emirats Àrabs, seguits dels EUA, Austràlia, el Canadà, Finlàndia, els Països Baixos...; més baixa als països subdesenvolupats: Índia, Filipines, estats centreafricans (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Empremta ecològica: indicador de sostenibilitat que mesura la superfície biològicament productiva necessària per produir els recursos que s'utilitzen i assimilar els residus que es generen (0,5). Reciclatge: tractament d'un producte o material usat per obtenir una primera matèria o un producte que es pot tornar a utilitzar (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Valors alts: països del Nord (EUA, Austràlia, alguns del golf Pèrsic, Europa occidental); baixos: països del Sud (Àfrica subsahariana, sud-est asiàtic, subcontinent indi) (0,75). b) Economies consumistes, intensives en recursos no renovables i basades en la crema de combustibles fòssils al Nord, enfront de la pobresa extrema del Sud (0,75)."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) Satisfer les necessitats del present sense comprometre la capacitat de les generacions futures (0,5). b) Reduir l'impacte de les activitats humanes en el medi, conservar els ecosistemes, reduir residus i consum energètic (0,5). c) Informe Brundtland o Conferència d'Estocolm (0,5)."
+          }
+        ],
+        "nota": "El mapa no dona valors per país, només intervals: a la descripció cal citar l'interval de la llegenda (p. ex. «EUA, entre 7,5 i 9 gha»), no xifres inventades. La comparació «més de cinc vegades» surt dels intervals (més de 7,5 gha enfront de menys d'1,5 gha). La pauta escriu «Informe Bruntland»: la grafia correcta és Brundtland (per Gro Harlem Brundtland), de 1987. Errors típics: explicar causes a l'apartat 1; confondre reciclatge amb reutilització; a la 4c, citar només Kyoto (que és posterior i tracta del canvi climàtic)."
+      }
+    },
+    {
+      "id": "geografia-2012-S-e2-B",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Text sobre la desagrarització a Espanya: població rural, PAC i impactes ambientals de l'agricultura",
+      "tema": "primari",
+      "temes_secundaris": [
+        "poblacio",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "desagrarització",
+        "població rural",
+        "població agrària",
+        "espai rural",
+        "política agrària comuna",
+        "agricultura a temps parcial",
+        "impacte ambiental de l'agricultura",
+        "comentari de text"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "**Els efectes de la desagrarització a Espanya**\n\n[…] ja fa temps que l'agricultura no és la principal font d'activitat a bona part dels territoris rurals. La desagrarització gradual no tan sols ha representat una disminució de la població agrària, sinó també la modificació d'estructures socials que hom pressuposava úniques. D'una banda, observem que la desagrarització ha implicat l'abandó del caràcter familiar de l'activitat agrària: l'agricultura ja no és únicament, ni tampoc principalment, una activitat exclusivament familiar. Així, l'agricultura sovint esdevé una part de l'activitat econòmica d'alguns membres de la família. Per tant, no són només els pobles els que diversifiquen les activitats productives —centrades ara en la construcció, el comerç, l'hosteleria i la indústria—, sinó que també ho fan les famílies. La desagrarització, a més de provocar una davallada de la població agrària, incideix especialment en la pèrdua d'importància de l'agricultura com a eix de l'organització social de les àrees rurals. Avui, la diversificació econòmica de les àrees rurals és molt gran, i per això queda disminuïda també la tradicional segmentació social que la propietat de la terra produïa en el si de les societats rurals.\n\nLuis CAMARERO (coord.). *La població rural d'Espanya. Dels desequilibris a la sostenibilitat social*. Barcelona: Fundació La Caixa, 2009, p. 9-10.",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció B. Exercici 2 [5 punts en total]. Llegiu el text següent i responeu a les qüestions plantejades.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Resumiu les idees principals del text.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *població rural* i *població agrària*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "a) Expliqueu les característiques de l'organització social de les àrees rurals a la qual es refereix el fragment següent, extret del text: «la pèrdua d'importància de l'agricultura com a eix de l'organització social de les àrees rurals».\n\nb) Expliqueu la situació actual de la població i l'activitat agràries a Espanya i a Catalunya a conseqüència de les polítiques agràries de la Unió Europea.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Digueu quins impactes mediambientals generen les activitats agràries en el sòl, les aigües, l'atmosfera i la biodiversitat. Expliqueu-los breument.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 5 punts a partir d'un text: resum (1), dues definicions (1) i dues preguntes d'explicació (1,5 + 1,5). Uns 40-45 minuts.\n\n- El **resum** ha de recollir les idees principals amb paraules pròpies, sense opinions ni causes que no surtin al text, i citar autor, obra i any (2009).\n- A la 3 hi ha dos subapartats molt diferents: a) l'organització social **tradicional** de l'espai rural (abans de la desagrarització); b) la situació **actual** de l'agricultura a Espanya i Catalunya amb la **PAC**. La pauta dona 0,5 a la a) i 1 a la b).\n- A la 4, un paràgraf per àmbit (sòl, aigües, atmosfera, biodiversitat): la pauta dona 0,5 per àmbit i la resposta és completa amb tres dels quatre, però és millor fer-los tots."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Idees que valora la pauta (1 punt en conjunt):\n\n1. L'agricultura ha deixat de ser la **principal activitat** de l'àmbit rural.\n2. Ha disminuït la **població activa agrària**.\n3. Canvia la unitat de producció: l'explotació **deixa de ser familiar** i de **temps complet** (agricultura com a part de l'activitat d'alguns membres de la família).\n4. Els pobles i les famílies **diversifiquen** les activitats (construcció, comerç, hostaleria, indústria); l'agricultura perd pes com a eix de l'organització social i es dilueix la segmentació social basada en la propietat de la terra.\n5. Font: Luis Camarero, 2009."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El text, extret de l'obra coordinada per **Luis Camarero** *La població rural d'Espanya* (Fundació La Caixa, **2009**), analitza els efectes de la **desagrarització** a l'Espanya rural.\n\nL'autor explica que l'agricultura ja **no és la principal activitat** de bona part dels territoris rurals. Aquest procés no només ha reduït la **població agrària**, sinó que també ha transformat l'estructura social: l'explotació agrària **ha deixat de ser una activitat exclusivament familiar** i de dedicació completa, i sovint és només una part de l'activitat d'alguns membres de la família. Tant els **pobles** com les **famílies** han **diversificat les activitats** productives cap a la construcció, el comerç, l'hostaleria i la indústria. En conseqüència, l'agricultura ha perdut el seu paper d'**eix de l'organització social** de les àrees rurals, i s'ha afeblit la tradicional divisió social que generava la propietat de la terra."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "La clau és la diferència: la **població rural** es defineix pel **lloc on viu** (municipis rurals; a Espanya, fins a 2.000 habitants, semiurbans fins a 10.000 i urbans per sobre de 10.000); la **població agrària** es defineix per la seva **activitat** (agricultura, ramaderia, i també silvicultura i pesca en sentit ampli). Avui bona part de la població rural no és agrària, que és justament el que explica el text."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Població rural**: població que viu en l'àmbit rural, és a dir, en municipis petits de baixa densitat. A Espanya, estadísticament, es consideren rurals els municipis de fins a 2.000 habitants, semiurbans (o semirurals) els de 2.000 a 10.000, i urbans els de més de 10.000. Es defineix pel lloc de residència, no per la feina.\n\n**Població agrària**: població ocupada en les activitats agràries (agricultura i ramaderia, i en sentit ampli també silvicultura i pesca). Es defineix per la seva activitat productiva i pot viure tant en l'àmbit rural com en l'urbà. Com explica el text, avui gran part de la població rural no és agrària."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "**a)** (0,5) Descriu la societat rural **tradicional**: l'organització social girava al voltant de l'activitat agrària, de la qual depenia la majoria de la població; estratificació entre una minoria de **propietaris** i una majoria de **jornalers** o **parcers**; el calendari agrícola marcava les necessitats de mà d'obra; excedents de mà d'obra marxaven com a **temporers** (verema, olives); família **patriarcal** amb dues o tres generacions sota el mateix sostre.\n\n**b)** (1) Situació actual amb la **PAC**: reducció de la població agrària i manca de relleu generacional (ajuts al cessament anticipat); pes molt petit al **PIB** (≈2-3 % a Espanya, ≈1 % a Catalunya); **agricultura a temps parcial** i mà d'obra assalariada; explotacions més grans; grans **inversions** en maquinària i instal·lacions amb crèdit; **cooperatives**; **especialització** segons la demanda (fruita dolça, vinya, olivera, horta; a Catalunya, també porcí); **agroindústria** per augmentar el valor afegit. Pots esmentar les quotes, els excedents i el desacoblament dels ajuts."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a)** El fragment es refereix a l'organització social **tradicional** de les àrees rurals, que **girava al voltant de l'activitat agrària**, de la qual depenia la gran majoria de la població. La societat estava fortament **estratificada segons la propietat de la terra**: d'una banda, una minoria de grans propietaris, i de l'altra, la majoria de petits pagesos, **jornalers** i **parcers** (masovers, rabassaires...) que conreaven la terra. El ritme de la vida el marcaven les estacions i el calendari dels conreus, que determinaven els moments de l'any amb més necessitat de mà d'obra; quan n'hi havia excés, una part de la població marxava com a **temporera** a altres regions o països (verema, collita de l'oliva). La família era de tipus **patriarcal**, sovint amb dues o tres generacions convivint en un mateix habitatge, i era alhora la unitat de residència i de producció.\n\n**b)** Des de l'entrada d'Espanya a la Comunitat Europea (1986), la **Política Agrària Comuna (PAC)** ha transformat profundament el camp espanyol i català. La **població agrària s'ha reduït** fortament (avui és menys del 5 % de la població ocupada a Espanya i prop del 2 % a Catalunya), està envellida i **no té relleu generacional**; la mateixa PAC ha incentivat el **cessament de les explotacions** amb ajuts a la jubilació anticipada. L'activitat agrària té un **pes molt petit en el PIB** i decreixent. Han canviat les explotacions: augmenten els **agricultors a temps parcial**, que combinen l'agricultura amb altres feines, i l'ús de **mà d'obra assalariada** (sovint immigrant) en els moments de més feina; les explotacions s'han fet **més grans** per compensar la reducció dels beneficis i han fet grans **inversions de capital** en maquinària i instal·lacions, gràcies a línies de crèdit i ajuts. Els pagesos s'agrupen en **cooperatives** per comprar els *inputs* i vendre en millors condicions. La producció s'ha **especialitzat** segons la demanda del mercat europeu (fruita dolça a Lleida, vinya al Penedès, olivera, horta, i a Catalunya també la ramaderia porcina intensiva), i ha crescut el pes de l'**agroindústria**, que augmenta el valor afegit dels productes agraris. Les reformes de la PAC (quotes, desacoblament dels ajuts, desenvolupament rural) han afavorit també la diversificació d'activitats que descriu el text, com el turisme rural."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Un paràgraf per àmbit (0,5 cadascun; amb tres de quatre ja es pot tenir la nota màxima):\n\n- **Sòl**: sobrepasturatge → desforestació i **erosió**; pèrdua de sòl per vent i pluja; pressió del conreu sobre els boscos; salinització pel regadiu.\n- **Aigües**: el regadiu consumeix prop del **70 %** de l'aigua; **sobreexplotació d'aqüífers** (hivernacles); **contaminació per nitrats** (adobs i **purins** de la ramaderia intensiva) i pesticides.\n- **Atmosfera**: gasos d'efecte d'hivernacle: **metà** de la ramaderia, CO2 de la maquinària, òxids de nitrogen dels adobs; males olors.\n- **Biodiversitat**: pesticides, plaguicides i fertilitzants trenquen l'equilibri ecològic; **monocultius** i reducció de varietats i de paisatges agraris."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "Les activitats agràries, sobretot l'agricultura i la ramaderia **intensives**, generen impactes en tots els components del medi.\n\n**Sòl.** La **pastura excessiva** i la tala per obtenir noves terres de conreu provoquen **desforestació** i deixen el sòl desprotegit davant l'**erosió** de la pluja i el vent; la pressió del conreu en zones de pendent accelera la pèrdua de sòl fèrtil. El regadiu mal gestionat pot causar la **salinització** dels sòls, i l'ús excessiu d'agroquímics n'empobreix la fertilitat natural.\n\n**Aigües.** L'agricultura és la gran consumidora d'aigua: el **regadiu** representa prop del **70 %** de l'aigua consumida. L'agricultura intensiva d'hivernacle, com la d'Almeria, pot provocar l'**esgotament dels aqüífers** i la intrusió salina. A més, l'ús abusiu de **fertilitzants i pesticides** i l'escampada repetida de **purins** de la ramaderia intensiva (com la porcina a Osona) **contaminen de nitrats** les aigües superficials i subterrànies, fins al punt que l'aigua de molts pous no és potable.\n\n**Atmosfera.** L'activitat agrària emet **gasos d'efecte d'hivernacle**: **metà** de la digestió dels remugants i de la descomposició dels purins, **CO2** de la maquinària agrícola i de la crema de restes vegetals, i òxids de nitrogen dels adobs; hi contribueix, per tant, al canvi climàtic.\n\n**Biodiversitat.** L'ús abusiu de **pesticides, insecticides, plaguicides i fertilitzants** trenca l'equilibri ecològic i elimina espècies no desitjades (insectes pol·linitzadors, ocells). La producció amb criteris estrictament de mercat imposa els **monocultius** i redueix les **varietats de conreus i races** tradicionals, i fa disminuir la diversitat dels paisatges agraris."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "L'agricultura ha deixat de ser la principal activitat de l'àmbit rural; disminueix la població activa agrària; les unitats de producció deixen de ser familiars i a temps total; els pobles diversifiquen l'activitat, l'agricultura hi perd importància i la població agrària deixa de ser majoritària; font: L. Camarero, 2009 (1 punt)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Població rural: la que viu en l'àmbit rural (a Espanya, rurals fins a 2.000 habitants, semirurals fins a 10.000, urbanes per sobre) (0,5). Població agrària: la que es dedica a l'activitat agrícola o ramadera; la defineix la seva activitat productiva (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Organització social tradicional al voltant de l'agricultura; estratificació entre propietaris i jornalers o parcers; calendari agrícola i mà d'obra temporera; família patriarcal amb dues o tres generacions (0,5). b) Reducció de la població agrària sense relleu i incentius al cessament; poc pes al PIB; agricultors a temps parcial i assalariats; explotacions més grans; grans inversions amb crèdit; cooperatives; especialització (fruita dolça, vinya, olivera, horta); agroindústria (1)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Sòl: sobrepasturatge, desforestació, erosió. Aigües: regadiu ≈70 % del consum, esgotament d'aqüífers, contaminació per fertilitzants, pesticides i nitrats dels purins. Biodiversitat: agroquímics que trenquen l'equilibri ecològic, menys varietats de conreus i paisatges. Atmosfera: gasos d'efecte d'hivernacle, CO2 de la maquinària, metà de la ramaderia. 0,5 per àmbit; tres de quatre ja es poden donar per bons (1,5)."
+          }
+        ],
+        "nota": "Al resum no hi afegeixis opinions ni informació externa, i cita l'autor i l'any (2009). Les xifres de pes de la població agrària i del PIB agrari de la resposta 3b són aproximacions de context (inicis dels anys 2010), no surten al text ni a la pauta. Errors típics: confondre població rural (on viu) amb població agrària (de què treballa); a la 3a, descriure la situació actual en lloc de la tradicional; a la 3b, no relacionar els canvis amb la PAC; a la 4, fer una llista sense explicar els impactes o oblidar algun dels àmbits."
+      }
+    }
+  ]
+}

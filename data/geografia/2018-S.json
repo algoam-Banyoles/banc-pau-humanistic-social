@@ -1,0 +1,538 @@
+{
+  "examen": {
+    "id": "geografia-2018-S",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2018,
+    "convocatoria": "setembre",
+    "serie": "3",
+    "pdf_examen": "pdfs/geografia/2018-S-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2018-S-solucio.pdf",
+    "estructura": "Sèrie 3. La prova té una part comuna obligatòria (exercicis 1 i 2, 2 punts cadascun; 4 punts) i una part optativa de la qual cal escollir DOS dels tres exercicis (3, 4 i 5, 3 punts cadascun; 6 punts), sense barrejar preguntes de diversos exercicis; total 10 punts. Cada exercici parteix d'un document i té 2 o 3 preguntes: exercici 1, gràfic de les migracions externes a Catalunya 2005-2016 (1 + 1); exercici 2, mapa de la radiació solar a Espanya (1 + quadre d'1 punt sobre els tipus d'energia solar); exercici 3, taula de les activitats d'estiu a les estacions d'esquí catalanes (1 + 1 + 1); exercici 4, mapa de la població activa agrària per províncies (1 + 1 + 1); exercici 5, plànol de Vitòria (0,5 + 1,5 + quadre d'1 punt sobre les funcions dels barris). Cada exercici és un element amb les seves preguntes com a apartats; com que no hi ha opcions A/B, l'id no porta lletra d'opció. Les pautes valoren, a més dels continguts, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2018-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Gràfic de les migracions externes a Catalunya (2005-2016)",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "migracions externes",
+        "immigració",
+        "emigració",
+        "saldo migratori",
+        "crisi econòmica de 2008",
+        "migracions interiors",
+        "gràfic lineal",
+        "comentari de gràfic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "Gairebé el 14 % de la població actual de Catalunya ha nascut a l'estranger. Es tracta, en bona part, de població que hi va arribar entre els darrers anys del segle xx i els primers del segle xxi. El gràfic següent mostra l'evolució de les migracions externes a Catalunya en els últims anys:",
+      "enunciat": "Part comuna (exercicis 1 i 2, obligatoris). Exercici 1 [2 punts en total]. Observeu el gràfic i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2018-S/e1.png",
+          "peu": "Gràfic lineal «Migracions externes a Catalunya (2005-2016)»: nombre anual de persones (eix vertical de −50.000 a 250.000) de tres sèries: immigracions (rombes), emigracions (quadrats) i saldo migratori (triangles). Valors aproximats llegits al gràfic: immigracions ≈162.000 (2005), ≈201.000 (2007, màxim), ≈86.000 (2013, mínim) i ≈129.000 (2016); emigracions ≈27.000 (2005), ≈109.000 (2014) i ≈83.000 (2016); saldo ≈+135.000 (2005-2007), negatiu el 2012-2014 (mínim ≈−21.000 el 2013) i ≈+46.000 (2016). Font: Idescat, a partir de l'estadística de variacions residencials de l'INE."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Identifiqueu els tres períodes diferenciats que s'observen en el gràfic pel que fa a l'evolució de les migracions externes a Catalunya. Comenteu quina és l'evolució de les tres variables en cada període.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Compareu els trets principals del fenomen migratori a Catalunya durant el segle xxi amb el que va tenir lloc al llarg del segle xx.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici obligatori de 2 punts (part comuna): dedica-hi uns 20 minuts. L'apartat **1** és descriptiu (identificar períodes i explicar com evolucionen les tres línies, **amb xifres**); l'apartat **2** és una comparació entre dues èpoques (segle xx i segle xxi).\n\n- Al gràfic hi ha **tres variables**: immigracions, emigracions i saldo migratori (= immigracions − emigracions). Comenta-les totes tres a cada període; si en deixes una, perds punts.\n- Llegeix bé l'eix: les xifres són persones per any, no percentatges. Un saldo negatiu vol dir que surt més gent de la que entra.\n- A l'apartat 2 la clau és la diferència **migracions internes (segle xx) / migracions externes (segle xxi)**; organitza la resposta com una comparació (semblances i diferències), no com dues descripcions separades."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta dona 1 punt a la identificació de les tres etapes amb l'evolució de les tres variables:\n\n1. **2005-2007**: immigració molt alta (150.000-200.000/any) i creixent, emigració baixa → saldo positiu molt alt (≈135.000-140.000/any). És el final del *boom* immigratori.\n2. **2008-2014**: amb la crisi econòmica la immigració cau (per sota de 100.000 el 2012) i l'emigració creix fins a superar-la → **saldo negatiu el 2012, 2013 i 2014**.\n3. **2015-2016**: recuperació: la immigració torna a pujar i l'emigració baixa → saldo positiu de nou (≈46.000-50.000 el 2016).\n\nPosa el nom de cada període (expansió, crisi, recuperació) i una o dues xifres per variable."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "El gràfic no dona les xifres exactes: s'han llegit amb l'escala de l'eix vertical (≈, en milers de persones) i s'ha comprovat amb Python que saldo = immigracions − emigracions.\n\n| Any | Immigracions | Emigracions | Saldo |\n|---|---|---|---|\n| 2005 | ≈162 | ≈27 | ≈+135 |\n| 2007 | ≈201 | ≈67 | ≈+134 |\n| 2008 | ≈176 | ≈81 | ≈+95 |\n| 2009 | ≈125 | ≈111 | ≈+14 |\n| 2012 | ≈93 | ≈99 | ≈−6 |\n| 2013 | ≈86 | ≈107 | ≈−21 |\n| 2014 | ≈99 | ≈109 | ≈−10 |\n| 2016 | ≈129 | ≈83 | ≈+46 |\n\n- Caiguda de la immigració entre 2007 i 2013: (86 − 201) / 201 × 100 ≈ **−57 %** (es redueix a menys de la meitat).\n- Les emigracions es multipliquen per ≈4 entre 2005 i 2013 (27.000 → 107.000; +296 %).\n- Recuperació de la immigració 2013-2016: (129 − 86) / 86 × 100 ≈ **+50 %**."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El gràfic lineal mostra l'evolució de les immigracions, les emigracions i el saldo migratori exterior de Catalunya entre 2005 i 2016 (dades de l'Idescat i de l'INE). S'hi distingeixen tres períodes.\n\n**1) 2005-2007: forta immigració.** Les immigracions són molt altes, entre 150.000 i 200.000 persones l'any, i creixen fins al màxim de 2007 (≈200.000). Les emigracions són baixes, tot i que augmenten (de ≈27.000 a ≈67.000). El saldo migratori és, per tant, molt positiu i estable, prop de 135.000-140.000 persones l'any.\n\n**2) 2008-2014: crisi i inversió del saldo.** A partir de 2008 hi ha un canvi de tendència: les immigracions cauen bruscament (≈125.000 el 2009) i el 2012 baixen per sota de 100.000 (mínim de ≈86.000 el 2013), mentre que les emigracions continuen pujant i superen les 100.000 persones. El saldo migratori s'enfonsa (≈14.000 el 2009) i esdevé **negatiu els anys 2012, 2013 i 2014** (≈−21.000 el 2013): Catalunya perd població per migracions externes.\n\n**3) 2015-2016: recuperació.** Les immigracions tornen a créixer (≈129.000 el 2016) i les emigracions disminueixen (≈83.000), de manera que el saldo torna a ser positiu i arriba a unes 50.000 persones el 2016, encara lluny dels valors anteriors a la crisi."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta reparteix 0,5 + 0,5:\n\n1. **Tret diferencial (0,5)**: al segle xx predominaven les **migracions internes** (des d'altres regions d'Espanya); al segle xxi, les **migracions externes** (des de l'estranger), que ja comencen a la darrera dècada del segle xx.\n2. **Evolució dels fluxos (0,5)**: anys 1950-1970, grans fluxos des de les àrees rurals d'altres comunitats (Andalusia, Múrcia, Extremadura, Aragó...); finals del segle xx i inicis del xxi, forta immigració estrangera; davallada a partir de 2008 amb la crisi.\n\nPots enriquir-ho amb altres diferències: causes (industrialització i èxode rural / globalització, demanda de mà d'obra a la construcció i els serveis), procedències (resta d'Espanya / Amèrica Llatina, Magrib, Europa de l'Est, Àsia), diversitat cultural i lingüística i destinació (àrea metropolitana de Barcelona / tot el territori, també comarques rurals)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "El fenomen migratori ha estat clau en el creixement de la població catalana tant al segle xx com al xxi, però amb trets molt diferents.\n\nAl **segle xx** el protagonisme va correspondre a les **migracions internes**. Ja des de les primeres dècades (anys vint) i, sobretot, durant els anys **cinquanta, seixanta i setanta**, Catalunya va rebre grans fluxos de població procedents de les àrees rurals d'altres comunitats (Andalusia, Múrcia, Extremadura, Castella, Aragó, Galícia). Era un èxode rural lligat a la industrialització: els immigrants cercaven feina a la indústria i a la construcció i es van concentrar a Barcelona i la seva àrea metropolitana, en barris de nova construcció. Es tractava de població de la mateixa nacionalitat i amb una cultura propera. Aquests fluxos es van aturar amb la crisi de 1973.\n\nAl **segle xxi** (ja des de la darrera dècada del segle xx) predominen les **migracions externes**: va arribar una forta immigració procedent d'**altres països** (Amèrica Llatina, Marroc i resta d'Àfrica, Europa de l'Est —Romania—, Àsia —Xina, Pakistan—), atreta per l'expansió econòmica i la demanda de mà d'obra a la construcció, els serveis i l'agricultura. Va ser un flux molt intens i ràpid (fins a 200.000 persones l'any el 2007) que ha fet que gairebé el 14 % de la població hagi nascut a l'estranger, amb una gran diversitat d'orígens, llengües i religions, i repartida per tot el territori. A diferència del segle xx, aquest flux **va disminuir molt a partir del 2008** amb la crisi econòmica, quan fins i tot el saldo va ser negatiu, i s'ha recuperat només en part des del 2015."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Tres etapes (1 punt): 2005-2007, immigració molt alta (150.000-200.000/any), emigració molt més baixa, saldo positiu prop de 140.000/any; 2008-2014, canvi de tendència, la immigració baixa (per sota de 100.000 el 2012) i l'emigració la supera, saldo negatiu el 2012, 2013 i 2014; 2015-2016, la immigració repunta i l'emigració baixa, saldo positiu de 50.000 el 2016."
+          },
+          {
+            "apartat": "2",
+            "valor": "Al segle xx predominen les migracions internes; només a la darrera dècada del segle xx i al segle xxi predominen les externes (0,5). Anys 50-70: fluxos des de les àrees rurals d'altres comunitats; finals del segle xx i inicis del xxi: forta immigració estrangera, que disminueix molt a partir de 2008 amb la crisi (0,5)."
+          }
+        ],
+        "nota": "Les xifres del gràfic s'han llegit a ull amb l'escala de l'eix (marcades amb ≈) i són coherents entre si (saldo = immigracions − emigracions, comprovat amb Python). Errors típics: comentar només la immigració i oblidar l'emigració i el saldo; confondre saldo negatiu amb disminució de la immigració; a l'apartat 2, descriure només el segle xxi o parlar d'immigració estrangera també als anys seixanta (llavors era interna, des d'altres regions d'Espanya). No cal explicar causes a l'apartat 1, però citar la crisi de 2008 per situar el canvi de tendència és útil."
+      }
+    },
+    {
+      "id": "geografia-2018-S-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Mapa de la radiació solar a Espanya i tipus d'energia solar",
+      "tema": "industria",
+      "temes_secundaris": [
+        "clima",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "energia solar",
+        "radiació solar",
+        "energies renovables",
+        "energia fotovoltaica",
+        "energia solar tèrmica",
+        "energia termosolar",
+        "factors del clima",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "La península Ibèrica és un dels territoris d'Europa amb més radiació solar. Aquest potencial ofereix moltes possibilitats per a la generació d'energia solar, tot i que actualment la legislació no és gaire favorable a desenvolupar-ne.",
+      "enunciat": "Part comuna (exercicis 1 i 2, obligatoris). Exercici 2 [2 punts en total]. Observeu el mapa i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2018-S/e2.png",
+          "peu": "Mapa d'isolínies «Radiació solar a Espanya»: radiació mitjana anual per zones climàtiques, en MJ/m² i kWh/m² (per dia). Zona I: < 13,7 MJ/m² (< 3,8 kWh/m²), cornisa cantàbrica; zona II: 13,7-15,1 (3,8-4,2), franja nord, litoral de Barcelona-Girona i Sistema Ibèric (Terol, Conca); zona III: 15,1-16,6 (4,2-4,6), Submeseta Nord, Navarra, Aragó i Catalunya interior, Montes de Toledo; zona IV: 16,6-18,0 (4,6-5,0), Submeseta Sud, Depressió de l'Ebre (Saragossa-Lleida), Balears, Màlaga-Granada; zona V: > 18,0 (> 5,0), Extremadura i Ciudad Real, vall del Guadalquivir (Huelva, Sevilla, Còrdova), Albacete-Alacant, Canàries, Ceuta i Melilla. Escala gràfica de 100 km. Font: Agència Estatal de Meteorologia, Atlas de radiación solar en España (1983-2005)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Observeu la informació representada en el mapa i relacioneu la intensitat de la radiació solar amb factors geogràfics com la latitud, el relleu i el clima.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Completeu el quadre següent sobre els diferents tipus d'energia solar, les característiques de cadascun i les instal·lacions que permeten obtenir-la:\n\n| Tipus d'energia solar | Característiques | Instal·lació |\n|---|---|---|\n| | La radiació solar escalfa directament l'aigua que circula per uns serpentins i que es destina a l'ús domèstic i a la calefacció. | |\n| Fotovoltaica | | |\n| Termosolar | | Central termosolar |",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici obligatori de 2 punts (uns 20 minuts). L'apartat **1** no demana una simple descripció: cal **relacionar** la radiació amb tres factors (latitud, relleu i clima), cadascun amb exemples de zones del mapa. L'apartat **2** és un quadre per omplir: hi ha **cinc caselles buides** (0,20 punts cadascuna), i cal respondre amb precisió i brevetat.\n\n- Fes servir la llegenda: zones I a V, de menys de 13,7 a més de 18 MJ/m² (de menys de 3,8 a més de 5 kWh/m²).\n- Cita llocs concrets del mapa (cornisa cantàbrica, Pirineus, vall del Guadalquivir, Canàries...)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta dona 0,25 a cada idea:\n\n1. **Latitud (0,25)**: la radiació augmenta cap al sud (zona I al nord, zona V al sud i a les Canàries). Com més baixa la latitud, més alt el sol i més energia rep cada m².\n2. **Clima atlàntic (0,25)**: cornisa cantàbrica i Galícia, valors mínims (zona I) per la nuvolositat i les pluges de tot l'any.\n3. **Relleu (0,25)**: les muntanyes (Pirineus, Muntanyes de Lleó, Serralada Cantàbrica, Sistema Ibèric —illes de zona II a Terol i Conca—) tenen menys insolació pel clima d'alta muntanya, amb més núvols i precipitacions.\n4. **Clima mediterrani (0,25)**: al sud i al litoral mediterrani, domini anticiclònic a l'estiu i molts dies d'hivern → cels clars i insolació alta (zones IV i V)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El mapa representa la radiació solar mitjana anual a Espanya en cinc zones climàtiques, des de menys de 13,7 MJ/m² (zona I) fins a més de 18 MJ/m² (zona V). La seva distribució s'explica per tres factors.\n\n**Latitud.** La radiació augmenta de nord a sud: com més al sud, més alt és el sol sobre l'horitzó, més curt el recorregut dels raigs per l'atmosfera i més energia arriba a cada metre quadrat. Per això els valors més baixos (zones I i II) són al nord peninsular, i els més alts (zona V) a la vall del Guadalquivir, Extremadura, Albacete-Alacant, Ceuta, Melilla i les Canàries, el territori de latitud més baixa.\n\n**Clima.** A la **cornisa cantàbrica i Galícia** (zona I), el **clima atlàntic** comporta cels ennuvolats i precipitacions abundants durant tot l'any, que redueixen molt la insolació. En canvi, al **sud i al litoral mediterrani** (zones IV i V) domina el **clima mediterrani**: a l'estiu, i també molts dies d'hivern, predomina el temps anticiclònic, amb cels clars i una insolació molt alta. L'interior, amb clima mediterrani continentalitzat, té valors intermedis (zona III a la Submeseta Nord i zona IV a la Submeseta Sud).\n\n**Relleu.** Les àrees muntanyoses tenen menys radiació que les planes que les envolten: als **Pirineus**, les **Muntanyes de Lleó** i la **Serralada Cantàbrica** el clima d'alta muntanya presenta més nuvolositat i precipitacions; al **Sistema Ibèric** (Terol, Conca) apareixen illes de zona II enmig de zones III i IV. Al contrari, les depressions, com la de l'Ebre (Saragossa-Lleida, zona IV) o la del Guadalquivir (zona V), registren valors alts."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Cinc caselles (0,20 cadascuna). Distingeix bé els tres tipus:\n\n- **Solar tèrmica**: escalfa aigua (no produeix electricitat) → captadors o panells tèrmics a les teulades dels edificis.\n- **Fotovoltaica**: converteix directament la llum en **electricitat** amb cèl·lules fotoelèctriques (silici) → panells fotovoltaics en parcs solars o a teulades d'edificis.\n- **Termosolar**: concentra la radiació amb **miralls** per escalfar un fluid i fer **vapor** que mou una turbina i genera electricitat → central termosolar."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "| Tipus d'energia solar | Característiques | Instal·lació |\n|---|---|---|\n| **Solar tèrmica** | La radiació solar escalfa directament l'aigua que circula per uns serpentins i que es destina a l'ús domèstic i a la calefacció. | **Panells (captadors) solars tèrmics a les teulades dels edificis**, amb un dipòsit acumulador d'aigua calenta. |\n| Fotovoltaica | **La radiació solar es transforma directament en corrent elèctric per mitjà de panells fotovoltaics formats per cèl·lules fotoelèctriques (de silici).** | **Panells fotovoltaics en parcs o horts solars, o a les teulades i cobertes d'edificis industrials i habitatges.** |\n| Termosolar | **La radiació es concentra per mitjà de miralls sobre conductes per on circula aigua (o un altre fluid) que s'escalfa i es transforma en vapor; el vapor a pressió mou unes turbines que generen electricitat.** | Central termosolar |\n\n(En negreta, les caselles que calia completar.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Com més al sud, més radiació; com més al nord, menys (0,25). Nivells baixos al litoral cantàbric i Galícia pel clima atlàntic, ennuvolat i plujós tot l'any (0,25). Pirineus, Muntanyes de Lleó i Serralada Cantàbrica: alçades importants, clima d'alta muntanya amb precipitacions i núvols, insolació baixa (0,25). Sud i litoral mediterrani: clima mediterrani amb temps anticiclònic i cels clars, insolació alta (0,25)."
+          },
+          {
+            "apartat": "2",
+            "valor": "0,20 per casella: solar tèrmica; panells solars a les teulades dels edificis; fotovoltaica: corrent elèctric per mitjà de panells amb cèl·lules fotoelèctriques; panells en parcs solars o en edificis industrials o domèstics; termosolar: miralls que concentren la radiació sobre conductes d'aigua que es transforma en vapor que mou turbines i genera electricitat."
+          }
+        ],
+        "nota": "Errors típics: a l'apartat 1, limitar-se a descriure el mapa sense relacionar-lo amb els factors, o dir que la radiació depèn de la temperatura (és al revés: la temperatura depèn en part de la radiació); oblidar el factor relleu. A l'apartat 2, confondre la solar tèrmica (aigua calenta, sense electricitat) amb la termosolar (electricitat a partir de vapor) o dir que la fotovoltaica fa servir miralls. El mapa no inclou dades de Portugal (en gris clar)."
+      }
+    },
+    {
+      "id": "geografia-2018-S-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Taula de les activitats d'estiu a les estacions d'esquí de Catalunya i el turisme de neu",
+      "tema": "serveis",
+      "temes_secundaris": [
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "turisme de neu",
+        "turisme de muntanya",
+        "estacionalitat turística",
+        "agroturisme",
+        "canvi climàtic",
+        "neu artificial",
+        "desestacionalització",
+        "comentari de taula"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6,
+        7,
+        8
+      ],
+      "text": "Cada any hi ha més estacions d'esquí que obren les instal·lacions a l'estiu. Durant els mesos de calor ofereixen l'entorn a un turisme familiar interessat a fer activitats a l'aire lliure i en contacte amb la natura. Cada vegada hi ha més estacions que incorporen el qualificatiu «de muntanya» a les seves activitats. A continuació, podeu observar una taula amb les activitats que ofereixen les estacions d'esquí a l'estiu:\n\n**Activitats**\n\n| Estació | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | Total |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Baqueira Beret | | | | X | | | | X | X | X | X | X | X | | | | | | | 7 |\n| Boí Taüll | | | | X | | | X | | | | | X | | | | | | | | 3 |\n| Espot Esquí | | | | | | | | | | | | | | | | | | X | | 1 |\n| La Molina | X | X | X | X | X | X | X | | X | | | | X | X | | X | X | | | 12 |\n| Masella | | | | X | X | | | | | | | | | X | | | | | | 3 |\n| Port Ainé | | | X | | | | | | | | | | | X | | | X | X | | 4 |\n| Port del Comte | | | X | X | | X | | | X | | X | | | X | | | | | | 6 |\n| Tavascan | | | | | | | | | X | X | | X | | | | | | | | 3 |\n| Vall de Núria | X | X | X | X | | X | | | | | | X | | X | X | | | | X | 9 |\n| Vallter 2000 | X | | | X | | X | | | X | | | | X | | | | | | | 5 |\n| **Total** | 3 | 2 | 4 | 7 | 2 | 4 | 2 | 1 | 5 | 2 | 2 | 4 | 3 | 5 | 1 | 1 | 2 | 2 | 1 | 53 |\n\n1. Rutes a cavall, ponis; 2. Barques; 3. Tir amb arc; 4. Senderisme i excursionisme; 5. *Segway*; 6. *Tubby*; 7. *Spa*; 8. Esports tradicionals; 9. BTT; 10. Esports aquàtics, pesca; 11. Esports aeris i de muntanya; 12. Cultura; 13. Telecadira; 14. Circuit d'aventures, parc lúdic; 15. Orientació; 16. *Nordic walking*; 17. *Quads*; 18. *Frisbee golf*; 19. Cursa virtual.\n\nFont: Generalitat de Catalunya i Institut d'Estudis Catalans. *Tercer informe sobre el canvi climàtic a Catalunya* [en línia], 2016.",
+      "enunciat": "Part optativa: escolliu DOS dels tres exercicis (3, 4 i 5). Exercici 3 [3 punts en total]. Observeu la taula i responeu a les qüestions plantejades.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Per què és necessari que les estacions d'esquí alpí de Catalunya adoptin estratègies per a oferir activitats no hivernals?",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes següents.\n\n- Estacionalitat turística\n- Agroturisme",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu com pot afectar el canvi climàtic al turisme de neu i quines mesures es poden adoptar per a pal·liar-ne els efectes.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts (si el tries, uns 30 minuts): tres preguntes d'1 punt. La taula serveix de context i com a font d'exemples: **cita-la** (quantes activitats, quines estacions en fan més) encara que les preguntes no demanin descriure-la.\n\n- Apartat 1: **causes** (estacionalitat del turisme de neu i necessitat de mantenir l'economia i la població de muntanya tot l'any).\n- Apartat 2: dues definicions breus, amb exemple.\n- Apartat 3: dues parts, **efectes** del canvi climàtic i **mesures**; respon totes dues."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta (0,5 + 0,5):\n\n1. El turisme de neu té una **estacionalitat molt marcada**: només funciona els mesos d'hivern (de desembre a abril), i la resta de l'any les instal·lacions i l'allotjament queden infrautilitzats.\n2. Per **dinamitzar l'economia i la demografia dels pobles de muntanya** cal mantenir l'activitat tot l'any amb un turisme basat en els recursos naturals i paisatgístics.\n\nAfegeix-hi la dependència d'unes nevades cada cop més irregulars (canvi climàtic) i dona exemples de la taula."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Dades de la taula (sumes comprovades amb Python):\n\n| Indicador | Valor |\n|---|---|\n| Activitats d'estiu ofertes (10 estacions) | 53 → mitjana de 53 / 10 = **5,3 per estació** |\n| Estacions amb més oferta | La Molina **12**, Vall de Núria **9**, Baqueira Beret **7** |\n| Pes de La Molina | 12 / 53 × 100 ≈ **22,6 %** de l'oferta |\n| Activitat més estesa | Senderisme i excursionisme: **7 de 10** estacions (70 %) |\n| Altres activitats freqüents | BTT i circuit d'aventures (5), tir amb arc, *tubby* i cultura (4) |\n| Estació amb menys oferta | Espot Esquí, **1** (*frisbee golf*) |"
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El turisme de neu és un turisme de **marcada estacionalitat**: l'activitat de les estacions d'esquí alpí es limita als mesos d'hivern, aproximadament de desembre a abril, i la resta de l'any els remuntadors, els allotjaments, els restaurants i els llocs de treball que en depenen queden aturats o infrautilitzats. A més, la temporada depèn de les nevades, que són irregulars i, amb el canvi climàtic, tendeixen a ser més escasses.\n\nMoltes comarques del Pirineu i del Prepirineu depenen econòmicament d'aquestes estacions, i la feina temporal no permet fixar-hi la població jove. Per **dinamitzar l'economia i la demografia dels pobles de muntanya** i rendibilitzar les inversions, les estacions busquen mantenir l'activitat tot l'any amb una oferta de turisme d'estiu basat en els **recursos naturals i paisatgístics** de l'entorn i adreçat sobretot a un públic familiar: així esdevenen estacions «de muntanya». La taula ho mostra: les deu estacions ofereixen 53 activitats d'estiu (5,3 de mitjana), sobretot senderisme i excursionisme (7 estacions), BTT i circuits d'aventura (5 cadascuna); La Molina (12 activitats), Vall de Núria (9) i Baqueira Beret (7) són les que més han diversificat l'oferta."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "0,5 per terme. **Estacionalitat turística**: concentració de l'activitat turística en un període de l'any; exemples: sol i platja a l'estiu, neu a l'hivern. **Agroturisme**: turisme en l'àmbit rural, en explotacions que mantenen l'activitat agrària i alhora ofereixen allotjament; atreu visitants interessats en el paisatge rural i els productes locals. Distingeix-lo del turisme rural en general (a l'agroturisme la casa és una explotació agrària en funcionament)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Estacionalitat turística**: concentració de l'activitat i de la demanda turística en un sol període de l'any, mentre que la resta del temps l'activitat és molt baixa. Genera saturació en temporada alta i atur i equipaments infrautilitzats en temporada baixa. Per exemple, el turisme de sol i platja es concentra als mesos d'estiu, i el turisme de neu, als d'hivern.\n\n**Agroturisme**: modalitat de turisme rural que es desenvolupa en explotacions agràries que mantenen la seva activitat agrícola o ramadera al mateix temps que ofereixen allotjament als turistes. Els visitants hi cerquen el contacte amb el paisatge rural i la natura, la vida de pagès i el consum de productes de la zona, i per als pagesos és una font complementària de renda. Per exemple, una masia del Pirineu amb vaques de llet que lloga habitacions."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta (0,5 + 0,5):\n\n1. **Efectes**: l'augment de les temperatures mitjanes fa pujar la cota de neu i reduir la **superfície innivada** a l'alta muntanya → menys superfície esquiable i temporades **més curtes** i irregulars; les estacions més baixes són les més vulnerables.\n2. **Mesures**: **neu artificial** (canons) per compensar la disminució de les nevades —ja s'aplica a la majoria d'estacions—, i també diversificació i desestacionalització de l'oferta (activitats d'estiu de la taula), concentració a les cotes altes.\n\nPots matisar que la neu artificial té costos ambientals (aigua i energia)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "El canvi climàtic global comporta un **augment de les temperatures mitjanes** del planeta, que a l'alta muntanya fa pujar la cota de neu, redueix les nevades i accelera la fosa. En conseqüència, **disminueix la zona innivada** i la superfície hàbil per esquiar, i la **temporada d'esquí s'escurça** i es fa més irregular. Les estacions situades a menor altitud i les del Pirineu oriental, més mediterrani, són les més afectades, i algunes podrien deixar de ser viables, amb greus conseqüències per a l'economia de les comarques de muntanya.\n\nPer pal·liar-ne els efectes, la majoria d'estacions ja aplica la **producció de neu artificial** amb canons per compensar la manca de nevades, tot i que consumeix molta aigua i energia i només funciona si fa prou fred. Altres mesures són concentrar les pistes a les cotes més altes i, sobretot, **diversificar i desestacionalitzar l'oferta**: convertir les estacions d'esquí en estacions de muntanya obertes tot l'any, amb activitats com el senderisme, la BTT o els circuits d'aventura, que la taula mostra que ja s'ofereixen."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "El turisme de neu té una estacionalitat marcada, limitada als mesos d'hivern (0,5). Per dinamitzar l'economia i la demografia dels pobles de muntanya es vol mantenir l'activitat la resta de l'any amb un turisme basat en els recursos naturals i paisatgístics (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Estacionalitat turística: concentració de l'activitat turística en un període de l'any; ex. sol i platja a l'estiu, neu a l'hivern (0,5). Agroturisme: turisme en l'àmbit rural, en explotacions que mantenen l'activitat agrària i ofereixen allotjament a turistes interessats en el paisatge rural i els productes de la regió (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "L'augment de les temperatures farà disminuir la zona innivada a l'alta muntanya, i es reduirà la superfície esquiable i probablement la durada de la temporada (0,5). Mesura: generació de neu artificial per compensar la disminució de les nevades, ja aplicada a la majoria d'estacions (0,5)."
+          }
+        ],
+        "nota": "La taula és un document de context: no es demana descriure-la, però citar-ne dades (53 activitats, 5,3 per estació, senderisme a 7 de les 10 estacions, La Molina amb 12) dona solidesa a les respostes. Errors típics: a l'apartat 1, parlar només del canvi climàtic i oblidar l'estacionalitat i el despoblament de la muntanya; confondre agroturisme amb qualsevol allotjament rural (cal que l'explotació agrària sigui activa); a l'apartat 3, donar només els efectes o només les mesures."
+      }
+    },
+    {
+      "id": "geografia-2018-S-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Mapa de la població activa agrària per províncies (2015) i l'agricultura espanyola",
+      "tema": "primari",
+      "temes_secundaris": [
+        "clima",
+        "territori"
+      ],
+      "conceptes": [
+        "població activa agrària",
+        "secà",
+        "regadiu",
+        "trilogia mediterrània",
+        "agricultura intensiva",
+        "latifundi",
+        "minifundi",
+        "mapa de coropletes",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        9,
+        10,
+        11
+      ],
+      "text": "La població activa agrària a Espanya va començar a davallar a partir dels anys cinquanta del segle passat en relació amb el desenvolupament que va viure la indústria. Actualment, la població activa agrària representa menys del 6 % de la població activa total. Hi ha, però, grans diferències entre províncies, tal com podeu observar en el mapa següent:",
+      "enunciat": "Part optativa: escolliu DOS dels tres exercicis (3, 4 i 5). Exercici 4 [3 punts en total]. Observeu el mapa i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2018-S/e4.png",
+          "peu": "Mapa de coropletes per províncies «Població activa agrària sobre el total d'actius a escala estatal» (2015), en %. Llegenda en quatre graus de gris: ≤ 1,0 %; 1,1-2,5 %; 2,6-5,0 %; > 5,0 %. Més del 5 % (negre): Sevilla, Jaén, Múrcia i Almeria. Entre el 2,6 i el 5 %: Badajoz, Huelva, Còrdova, Màlaga, Granada i València. Valors mínims (≤ 1 %): bona part de la Submeseta Nord (Lleó, Burgos, Valladolid, Segòvia, Àvila...), Madrid, Guadalajara, Terol, la cornisa cantàbrica oriental, Barcelona, Girona i Balears. Escala gràfica de 100 km. Font: elaboració pròpia a partir de l'INE, Encuesta de población activa, 2015."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Exposeu els tipus de conreu que predominen a la Submeseta Norte, a l'interior d'Andalusia i a la costa mediterrània.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Expliqueu les diferències que s'observen en el percentatge de la població activa agrària a la Submeseta Norte, a l'interior d'Andalusia i a la costa mediterrània amb relació a la importància econòmica de l'agricultura en cadascun dels tres territoris.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu les característiques de l'agricultura mediterrània tenint en compte els aspectes següents:\n\n- Quins són els factors físics que la determinen?\n- Quins són els principals tipus de conreu i de producció ramadera?\n- Quina estructura tenen les explotacions agràries?",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts (uns 30 minuts). Fixa't primer en què representa el mapa: el **percentatge que cada província aporta al total d'actius agraris d'Espanya** (per això les xifres són petites, de menys de l'1 % a més del 5 %, i entre totes sumen el 100 %). No és el pes de l'agricultura dins de l'economia de cada província: aquesta distinció és la clau de l'apartat 2.\n\n- Apartat 1: tres territoris, tres conreus, amb el sistema (secà/regadiu, extensiu/intensiu).\n- Apartat 2: relaciona el valor del mapa amb el tipus d'agricultura i la mà d'obra que necessita.\n- Apartat 3: tres guions → tres paràgrafs."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1 punt, tres territoris:\n\n- **Submeseta Nord**: **cereal de secà** (blat, ordi) en grans extensions; agricultura extensiva i mecanitzada.\n- **Interior d'Andalusia** (Jaén, Còrdova, Sevilla): **olivera de secà** (oliverar), també cereal i gira-sol a la campinya.\n- **Costa mediterrània**: **policultiu de regadiu**: hortes (hortalisses), fruiters i cítrics, i hivernacles a Almeria."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "A la **Submeseta Nord** (Castella i Lleó) el conreu dominant és el **cereal de secà** (blat i ordi, sobretot) en grans extensions de camps oberts; és una agricultura extensiva, molt mecanitzada i de rendiments moderats, que alterna amb el guaret i alguns conreus industrials (remolatxa) en els regadius de les valls.\n\nA l'**interior d'Andalusia** predomina l'**oliverar de secà**, que forma un paisatge gairebé de monocultiu a Jaén i a bona part de Còrdova; a les campinyes del Guadalquivir també hi ha cereals, gira-sol i, en regadiu, cotó i fruiters.\n\nA la **costa mediterrània** predomina el **policultiu de regadiu**, intensiu: hortes amb hortalisses, fruiters i cítrics (València, Múrcia) i conreus forçats en **hivernacles** (Almeria), amb una producció molt orientada a l'exportació."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta (0,5 + 0,25 + 0,25):\n\n1. **Submeseta Nord (0,5)**: províncies poc industrialitzades → l'agricultura té un pes alt dins la població activa provincial; però el cereal extensiu i mecanitzat necessita **poca mà d'obra** → el seu pes en el total d'actius agraris d'Espanya és **baix** (≤ 1 % la majoria de províncies).\n2. **Interior d'Andalusia (0,25)**: l'olivera de secà necessita **molta mà d'obra temporal** (collita) → molts actius agraris: Jaén i Sevilla > 5 %, Còrdova i Granada 2,6-5 %. Pes del latifundi i dels jornalers.\n3. **Costa mediterrània (0,25)**: regadiu intensiu, que necessita **molta mà d'obra** tot l'any → Almeria i Múrcia > 5 %, València 2,6-5 %."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "El mapa mostra el percentatge d'actius agraris de cada província sobre el total d'Espanya, i hi ha diferències molt grans entre els tres territoris.\n\nA la **Submeseta Nord** la majoria de províncies no arriben a l'1 % dels actius agraris espanyols (només algunes, com Palència o Zamora, entre l'1,1 i el 2,5 %). Paradoxalment, l'agricultura hi té una gran importància econòmica relativa, ja que moltes províncies estan poc industrialitzades i el pes de la població agrària dins dels seus actius és alt. Però el conreu de cereal de secà és extensiu i està molt mecanitzat: amb poca mà d'obra es conreen grans superfícies, de manera que el pes sobre el total espanyol és baix. A més, són províncies poc poblades i envellides per l'èxode rural.\n\nA l'**interior d'Andalusia** hi ha valors alts: Jaén i Sevilla superen el 5 % i Còrdova i Granada són entre el 2,6 i el 5 %. L'agricultura extensiva de secà, sobretot l'oliverar, necessita molta mà d'obra en determinats moments de l'any, com la collita de l'oliva, i el predomini del latifundi va lligat a un gran nombre de jornalers. L'agricultura continua sent una activitat econòmica bàsica en aquestes províncies.\n\nA la **costa mediterrània** també hi ha valors molt alts, especialment a Almeria i Múrcia (més del 5 %) i València (2,6-5 %). L'agricultura de regadiu intensiva (hortes, hivernacles, fruiters i cítrics) necessita força mà d'obra durant tot l'any, sovint immigrant, i és una activitat molt rendible i exportadora, amb una gran importància econòmica en aquestes províncies. En canvi, al litoral català (Barcelona, Girona), molt industrialitzat i terciaritzat, el pes és mínim."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta (0,25 + 0,5 + 0,25):\n\n1. **Factors físics (0,25)**: relleu trencat de serres i altiplans; clima mediterrani sec (precipitacions escasses i irregulars, sequera estival, estius calorosos).\n2. **Conreus i ramaderia (0,5)**: al secà, **trilogia mediterrània** (cereals, vinya i olivera) i fruita seca (ametllers, avellaners); al regadiu, horta, fruiters i cítrics; ramaderia ovina i cabrum (i porcina intensiva).\n3. **Estructura de les explotacions (0,25)**: petites i mitjanes (minifundi) al litoral de regadiu intensiu; latifundi i conreus extensius a les regions meridionals."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**Factors físics.** L'agricultura mediterrània es desenvolupa en regions de relleu trencat, amb serres, altiplans i petites planes litorals, i sota el domini del **clima mediterrani**: precipitacions escasses i irregulars, amb una forta **sequera estival** coincident amb les temperatures més altes, i hiverns suaus. L'aridesa obliga a escollir conreus adaptats a la sequera o a recórrer al regadiu.\n\n**Conreus i ramaderia.** A les àrees de **secà** es conreen cereals, vinya i olivera (la **trilogia mediterrània**) i fruita seca, com ametllers i avellaners. A les planes litorals i les valls, el **regadiu** permet una agricultura intensiva d'hortalisses, fruiters i cítrics, i conreus forçats en hivernacles. La ramaderia tradicional és d'**ovelles i cabres**, adaptades a les pastures pobres; avui també hi ha ramaderia porcina i avícola intensiva.\n\n**Estructura de les explotacions.** Al litoral, on es practica el regadiu amb conreus intensius, predominen les explotacions **petites o mitjanes**; en canvi, a les regions meridionals (Andalusia, Extremadura) predomina el **latifundi**, amb grans propietats dedicades a conreus extensius de secà."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Submeseta Nord: cereal de secà en grans extensions. Interior d'Andalusia: oliverar de secà. Litoral mediterrani: policultiu, amb hortes i fruiters de regadiu (1 punt)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Submeseta: províncies poc industrialitzades, pes agrari provincial alt, però el conreu extensiu necessita poca mà d'obra i el pes sobre el total espanyol és baix (0,5). Andalusia: el secà extensiu necessita molta mà d'obra en moments com la collita; Jaén i Sevilla > 5 % (0,25). Litoral mediterrani: el regadiu necessita força mà d'obra, sobretot a Almeria i Múrcia (0,25)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Relleu trencat de serres i altiplans i clima sec mediterrani (0,25). Secà: cereals, vinya i olivera (trilogia mediterrània) i fruita seca (ametllers, avellaners); ramats d'ovelles i cabres (0,5). Explotacions petites o mitjanes al litoral de regadiu intensiu; latifundi i conreus extensius a les regions meridionals (0,25)."
+          }
+        ],
+        "nota": "La identificació de les províncies del mapa s'ha fet a ull i pot tenir alguna imprecisió a les províncies de colors intermedis; les de més del 5 % (Sevilla, Jaén, Múrcia i Almeria) coincideixen amb les que cita la pauta. Error típic: interpretar el mapa com el percentatge d'actius agraris dins de cada província (el text introductori parla del 6 % estatal, que és una altra mesura). A l'apartat 3 la pauta parla sobretot del secà; esmentar també el regadiu i els cítrics completa la resposta."
+      }
+    },
+    {
+      "id": "geografia-2018-S-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Plànol de Vitòria: el plànol radiocèntric i les funcions dels barris",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "serveis"
+      ],
+      "conceptes": [
+        "trama urbana",
+        "plànol radiocèntric",
+        "mobilitat urbana",
+        "centre històric",
+        "eixample",
+        "barri suburbial",
+        "funcions urbanes",
+        "comentari de plànol"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12,
+        13,
+        14
+      ],
+      "text": "La trama urbana és el sistema de carrers i avingudes que connecten els espais d'una ciutat. És el resultat de les diferents fases de creixement i del procés d'urbanització d'aquella ciutat, i condiciona la mobilitat en el seu interior. A continuació, podeu observar, com a exemple, la trama urbana de la ciutat de Vitòria:",
+      "enunciat": "Part optativa: escolliu DOS dels tres exercicis (3, 4 i 5). Exercici 5 [3 punts en total]. Observeu el plànol i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2018-S/e5.png",
+          "peu": "«Plànol de la ciutat de Vitòria»: plànol urbà en escala de grisos amb les vies principals en negre gruixut. Al centre, el casc antic en forma d'ametlla (Vitoria-Gasteiz) amb carrers corbs concèntrics; al seu voltant, eixamples de traçat regular i grans vies que hi convergeixen des de tots els barris (Lakua, Zaramaga, Arana, Santo Tomás, Adurtza, Mendizorrotza, Zabalgana...), enllaçades per vies de cintura. Font: es.wikipedia.org."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Quin tipus de trama observeu a la ciutat de Vitòria?",
+          "punts": 0.5
+        },
+        {
+          "id": "2",
+          "enunciat": "Descriviu les característiques generals d'aquest tipus de trama i expliqueu els aspectes positius i negatius que té respecte a la mobilitat a l'interior de la ciutat.",
+          "punts": 1.5
+        },
+        {
+          "id": "3",
+          "enunciat": "La ciutat es compon de barris que poden aplegar una o diverses funcions urbanes. Completeu el quadre següent amb les funcions urbanes que considereu més representatives de cada tipus de barri.\n\n| Tipus de barri | Funcions |\n|---|---|\n| Centre històric | |\n| Eixample | |\n| Barri suburbial | |\n| Barri suburbà | |\n| Polígon industrial | |",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts (uns 30 minuts), amb tres preguntes de valor desigual (0,5 + 1,5 + 1). L'apartat 1 és una identificació d'una línia; el gruix és l'apartat 2 (característiques del plànol + avantatges i inconvenients per a la mobilitat) i el 3 és un quadre de cinc caselles (0,20 cadascuna).\n\n- Fixa't en les **vies negres**: surten del centre en totes direccions i hi ha vies de cintura que les enllacen → plànol **radiocèntric**.\n- Fes servir vocabulari precís: trama, plànol ortogonal, irregular, radiocèntric, ronda o cinturó, funcions urbanes."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "0,5 punts: identificar el tipus de trama, **radial o radiocèntrica**. Justifica-ho amb el que es veu: un nucli central (el casc antic en forma d'ametlla) del qual surten avingudes radials en totes direccions, enllaçades per vies concèntriques."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "La trama que predomina a Vitòria és **radiocèntrica (o radial)**: des del nucli central, el casc antic en forma d'ametlla, surten grans avingudes en totes direccions cap als barris perifèrics, i aquestes vies radials estan enllaçades per vies concèntriques o de cintura que envolten el centre."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta (0,75 + 0,75):\n\n1. **Característiques (0,75)**: des d'un punt central (plaça, catedral, castell) parteixen carrers o avingudes que connecten els diversos sectors, com els radis d'una roda de bicicleta; vies concèntriques (cinturons, rondes) connecten els barris sense passar pel centre. Origen sovint medieval (ciutat emmurallada al voltant d'un turó, església o castell).\n2. **Mobilitat (0,75)**: positiu: bona comunicació, el centre és molt accessible des de qualsevol punt i hi guanya rellevància; negatiu: **saturació i congestió del centre** perquè hi convergeixen les principals artèries; cal construir rondes; carrers del nucli antic estrets."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "El **plànol radiocèntric** s'organitza a partir d'un **punt central**, que sol ser una plaça, una catedral o un castell, sovint el nucli d'origen medieval de la ciutat. D'aquest centre en parteixen **vies radials**, carrers o avingudes que connecten els diferents sectors de la ciutat amb el centre i amb les carreteres de sortida, de manera semblant als radis d'una roda de bicicleta. Aquestes vies es completen amb **vies concèntriques** (rondes o cinturons urbans), que sovint ocupen l'espai de les antigues muralles i que permeten connectar els diferents barris sense haver de passar pel centre. A Vitòria, el casc antic medieval té forma d'ametlla, amb carrers corbs paral·lels que envolten el turó, i al voltant s'han desenvolupat eixamples i barris nous.\n\nPel que fa a la **mobilitat**, l'aspecte **positiu** és la bona comunicació entre el centre i la perifèria: el centre de la ciutat, on es concentren el comerç, l'administració i els serveis, és molt accessible des de qualsevol punt, i això reforça la seva centralitat. Els recorreguts entre barris són relativament directes si hi ha bones vies de cintura. L'aspecte **negatiu** és la **saturació del centre**: com que totes les artèries principals hi convergeixen, s'hi concentra el trànsit, amb embussos, contaminació i soroll, agreujats pels carrers estrets del nucli antic. Per resoldre-ho cal construir rondes de circumval·lació, restringir el trànsit al centre (illes de vianants) i potenciar el transport públic."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Cinc caselles (0,20 cadascuna). Pensa en la funció principal de cada barri:\n\n- **Centre històric**: cultural (monuments), comercial, administrativa, serveis (i residencial).\n- **Eixample**: administrativa, serveis i residencial (sovint, centre de negocis).\n- **Barri suburbial**: residencial (barraques o autoconstrucció a la perifèria, població de rendes baixes).\n- **Barri suburbà**: residencial (urbanitzacions de baixa densitat a la perifèria).\n- **Polígon industrial**: industrial (i logística)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "| Tipus de barri | Funcions |\n|---|---|\n| Centre històric | Cultural i turística (monuments, museus), comercial, administrativa (ajuntament, institucions) i de serveis; també residencial. |\n| Eixample | Residencial, administrativa i de serveis (oficines, comerç, centre de negocis). |\n| Barri suburbial | Residencial (habitatge precari o d'autoconstrucció de població amb rendes baixes, a la perifèria). |\n| Barri suburbà | Residencial (urbanitzacions d'habitatges unifamiliars de baixa densitat a la perifèria). |\n| Polígon industrial | Industrial (fàbriques, magatzems) i logística. |"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Trama radial o radiocèntrica (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Des d'un punt central (plaça, catedral o castell) parteixen carrers que connecten els sectors de la ciutat, com els radis d'una bicicleta; vies concèntriques (cinturons) connecten els barris sense passar pel centre (0,75). Positiu: bona comunicació i centre molt accessible des de qualsevol punt. Negatiu: saturació del centre per la convergència de les principals artèries (0,75)."
+          },
+          {
+            "apartat": "3",
+            "valor": "0,20 per casella: centre històric, cultural, comercial, administrativa i serveis; eixample, administrativa i serveis, residencial; barri suburbial, residencial; barri suburbà, residencial; polígon industrial, industrial."
+          }
+        ],
+        "nota": "Matís: el plànol de Vitòria és mixt (casc antic medieval en forma d'ametlla, amb carrers concèntrics, i eixamples de traçat ortogonal), però la pauta dona com a resposta la trama radiocèntrica, que és la que domina en la xarxa viària principal; si s'esmenta el caràcter mixt, cal deixar clar el tipus predominant. Error típic: confondre barri suburbial (perifèria degradada, sovint d'origen marginal) amb barri suburbà (urbanització residencial de baixa densitat), tot i que a tots dos la funció representativa és la residencial."
+      }
+    }
+  ]
+}

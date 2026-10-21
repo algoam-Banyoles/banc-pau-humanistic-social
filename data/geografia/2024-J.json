@@ -1,0 +1,961 @@
+{
+  "examen": {
+    "id": "geografia-2024-J",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2024,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/geografia/2024-J-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2024-J-solucio.pdf",
+    "estructura": "Cal respondre QUATRE dels cinc exercicis; cada exercici val 2,5 punts (total 10). Si es responen més exercicis, només es valoren els quatre primers. Cada exercici parteix d'un document i té 2 o 3 preguntes, algunes amb apartats: exercici 1, mapa dels parcs eòlics de Catalunya (1,5 + 1); exercici 2, gràfic de l'evolució dels matrimonis a Espanya (1 + 1 + 0,5); exercici 3, fotografia del barri de Bellvitge (1,5 + 1); exercici 4, text sobre el relleu generacional al camp (1 + 0,75 + 0,75); exercici 5, taula del turisme estranger a Catalunya (1 + 1 + 0,5). Les pautes valoren, a més del contingut, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2024-J-e1-q1",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Mapa dels parcs eòlics de Catalunya (2021): distribució comarcal i desequilibris",
+      "tema": "industria",
+      "temes_secundaris": [
+        "territori",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "energia eòlica",
+        "energies renovables",
+        "aerogeneradors",
+        "desequilibris territorials",
+        "terres de l'ebre",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**Parcs eòlics a Catalunya (2021)**\n\n(Mapa de les comarques de Catalunya amb cercles proporcionals al nombre d'aerogeneradors en servei el 2021. Llegenda: més de 100; de 40 a 100; menys de 40.)\n\n*Font:* Adaptació d'un mapa publicat al diari *Ara* [en línia] (28 octubre 2021).",
+      "enunciat": "Exercici 1. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el mapa. Pregunta 1: a partir de la informació representada al mapa, contesteu les preguntes següents. [1,5 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2024-J/e1-q1.png",
+          "peu": "Parcs eòlics a Catalunya (2021): nombre d'aerogeneradors en servei per comarca. Els valors del mapa són 159, 148, 105, 87, 78, 61, 44, 44, 26, 21, 18, 10 i 10. Font: diari Ara (28 octubre 2021)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En quines comarques hi ha més aerogeneradors en servei? Quines característiques tenen en comú aquestes comarques?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Per quins motius hi ha moltes comarques de Catalunya que no tenen parcs eòlics?",
+          "punts": 0.5
+        },
+        {
+          "id": "c",
+          "enunciat": "Expliqueu els problemes que pot causar el desequilibri en la distribució territorial dels parcs eòlics.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És un comentari de mapa de 1,5 punts dividit en tres apartats de 0,5. Primer **llegiu el mapa**: títol (parcs eòlics, 2021), tipus (mapa de cercles proporcionals per comarques), llegenda (tres intervals: >100, 40-100, <40 aerogeneradors) i font. Després responeu cada apartat per separat i amb la seva lletra: **a)** localitzar i caracteritzar, **b)** explicar l'absència, **c)** valorar les conseqüències. Extensió orientativa: 5-8 línies per apartat. Temps: uns 12-15 minuts (l'examen dura 1,5 h per a quatre exercicis). Error típic: limitar-se a copiar números sense interpretar-los, o no fer servir dades del mapa. Cal citar xifres concretes i noms de comarques i usar vocabulari geogràfic (densitat, sòl rústic, centres de consum, impacte paisatgístic, desequilibri territorial)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Localització**: els cercles grans es concentren a la meitat **sud-occidental** de Catalunya. Les comarques amb més de 100 aerogeneradors són el **Baix Ebre** (159), la **Terra Alta** (148) i l'**Anoia** (105); hi segueixen les **Garrigues** (87), la **Conca de Barberà** (78) i el **Baix Camp** (61). Amb Python: el total del mapa és 811 aerogeneradors, i només les tres primeres comarques en sumen 412, és a dir, un **51 %**; les Terres de l'Ebre soles (Baix Ebre + Terra Alta) en tenen un 38 %.\n2. **Característiques comunes**: comarques de l'**interior i del sud**, **rurals**, **poc poblades** (baixa densitat), amb **sòl barat** i abundant, allunyades dels grans centres de consum (l'àrea metropolitana de Barcelona) i amb serres i altiplans on bufa **vent constant** (cerç i mestral a les Terres de l'Ebre).\n\nLa identificació de les comarques a partir del mapa (que no té noms) és aproximada; el que valoren les pautes és sobretot la localització (interior/sud) i les característiques comunes."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Els aerogeneradors es concentren a la meitat sud-occidental de Catalunya. Les comarques amb més de 100 aerogeneradors en servei són el Baix Ebre (159), la Terra Alta (148) i l'Anoia (105), seguides de les Garrigues (87), la Conca de Barberà (78) i el Baix Camp (61). Aquestes tres primeres comarques concentren més de la meitat dels 811 aerogeneradors del mapa. Totes tenen trets comuns: són comarques de l'interior i del sud del país, de caràcter rural, poc poblades i amb una baixa densitat, on el sòl és abundant i barat; estan lluny dels grans centres de consum d'energia, com l'àrea metropolitana de Barcelona, i tenen serres i altiplans exposats a vents forts i constants, com el mestral i el cerç a les Terres de l'Ebre."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Les pautes valoren diversos motius; cal combinar factors **físics** i **humans**, i lligar-los a zones concretes:\n\n1. **Físic**: falta de vents prou intensos i constants per moure les pales (és el factor limitant principal).\n2. **Pirineu i Aran**: zones de difícil accés i on l'impacte paisatgístic seria molt alt (espais protegits, turisme).\n3. **Àmbit metropolità**: escassetat de sòl lliure i preu molt alt.\n4. **Comarques gironines**: forta contestació social als parcs eòlics.\n\nPodeu afegir la complexitat de la tramitació administrativa i la manca de línies elèctriques d'evacuació."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Bona part de les comarques de Catalunya no tenen parcs eòlics per una combinació de factors físics i humans. El factor limitant principal és el vent: en moltes zones no bufa amb la intensitat i la constància necessàries perquè els aerogeneradors siguin rendibles. Al Pirineu i a l'Aran, a més, el relleu fa difícil l'accés de les grans peces i la construcció de pistes, i l'impacte sobre un paisatge d'alt valor natural i turístic, sovint protegit, és molt elevat. A l'àmbit metropolità de Barcelona hi ha escassetat de sòl disponible i el preu és molt alt, de manera que la instal·lació hi és molt cara. Finalment, a les comarques gironines hi ha hagut una forta contestació social contra els projectes de parcs eòlics, a la qual cal sumar una tramitació administrativa llarga i complexa."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Les pautes demanen dues idees:\n\n1. **Desequilibris i desigualtats entre comarques**: unes poques comarques rurals suporten la producció i els impactes, mentre que l'energia es consumeix sobretot a l'àrea metropolitana (relació centre-perifèria, sentiment de greuge); cal transportar l'electricitat amb línies d'alta tensió.\n2. **Impacte paisatgístic concentrat**: la concentració d'aerogeneradors en una mateixa zona degrada la qualitat estètica del paisatge i pot perjudicar altres activitats (turisme rural, enoturisme).\n\nPodeu esmentar també que Catalunya va endarrerida en el desplegament de les renovables i que la concentració fa el sistema més vulnerable."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "La distribució tan desigual dels parcs eòlics genera desequilibris i desigualtats entre comarques. Unes poques comarques rurals de l'interior i del sud, com la Terra Alta o el Baix Ebre, assumeixen la major part de la producció i dels impactes, mentre que l'energia es consumeix sobretot a l'àrea metropolitana de Barcelona, que gairebé no en produeix. Això reprodueix una relació centre-perifèria, crea un sentiment de greuge territorial i obliga a construir línies d'alta tensió que travessen el territori. A més, la concentració de molts aerogeneradors en una mateixa zona provoca un impacte acumulat sobre la qualitat estètica del paisatge, que pot perjudicar activitats com el turisme rural o l'enoturisme, i un impacte més gran sobre les aus."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Les comarques amb més aerogeneradors són de l'interior i el sud de Catalunya: rurals, poc poblades, lluny dels grans centres de consum i amb sòl més barat. (0,50)"
+          },
+          {
+            "apartat": "b",
+            "valor": "Absència de vents prou intensos i constants; al Pirineu i l'Aran, accés difícil i alt impacte paisatgístic; a l'àmbit metropolità, escassetat i preu elevat del sòl; a les comarques gironines, forta contestació social. (0,50)"
+          },
+          {
+            "apartat": "c",
+            "valor": "Desequilibris i desigualtats entre comarques; impactes negatius sobre la qualitat estètica del paisatge a les zones on es concentren. (0,50)"
+          }
+        ],
+        "nota": "Feu servir sempre dades del mapa (xifres i noms de comarques) i no només generalitats. Si no recordeu el nom exacte d'una comarca, situeu-la (\"sud-oest, a tocar de l'Aragó\"). Les pautes no anomenen comarques concretes: la identificació feta aquí a partir de la posició dels cercles és aproximada. Al b) no us quedeu només amb el vent: les pautes valoren també els factors humans (preu del sòl, contestació social, paisatge)."
+      }
+    },
+    {
+      "id": "geografia-2024-J-e1-q2",
+      "exercici": 1,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals: els parcs eòlics, energia renovable amb problemes ambientals",
+      "tema": "industria",
+      "temes_secundaris": [
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "energia eòlica",
+        "energies renovables",
+        "impacte paisatgístic",
+        "transició energètica",
+        "vertader o fals"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Exercici 1. Pregunta 2. Justifiqueu si l'afirmació següent és vertadera o falsa: «Els parcs eòlics són una font d'energia renovable, però no és aconsellable instal·lar-ne perquè originen molts problemes ambientals.» [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de 1 punt de tipus \"justifiqueu si és vertadera o falsa\". No n'hi ha prou amb dir V o F: el punt és per a l'**argumentació**. Les pautes diuen que el corrector valora que l'argumentació estigui ben articulada i sigui coherent, més enllà de si l'alumne es mostra més a favor o en contra. Estructura: 1) posicionament (l'afirmació és, en principi, **falsa**), 2) arguments a favor dels parcs eòlics, 3) inconvenients reals, 4) conclusió equilibrada. Extensió: 8-12 línies. Temps: 6-8 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Primera part certa**: l'eòlica és renovable i neta: no emet gasos contaminants ni d'efecte hivernacle mentre funciona i redueix la dependència dels combustibles fòssils.\n2. **Segona part exagerada**: té inconvenients, però no són \"molts problemes ambientals\":\n   - despesa energètica i de materials en la construcció i la instal·lació;\n   - **impacte visual i paisatgístic** (els més greus), perquè s'instal·len en zones elevades visibles des de lluny;\n   - impacte sobre les **aus** (col·lisions) i soroll.\n3. **Conclusió**: els avantatges superen els inconvenients, que es poden reduir amb una bona planificació (ubicació, estudis d'impacte); per tant, l'afirmació és falsa."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'afirmació és, en principi, falsa. És cert que els parcs eòlics són una font d'energia renovable: els aerogeneradors transformen la força del vent en electricitat, una energia neta que no emet gasos contaminants ni d'efecte hivernacle mentre funciona i que redueix la dependència dels combustibles fòssils, cosa clau per a la transició energètica i la lluita contra el canvi climàtic. Ara bé, els parcs eòlics també presenten alguns inconvenients. La construcció i la instal·lació dels aerogeneradors comporten una despesa d'energia i de materials, i calen pistes d'accés i línies elèctriques. Els impactes més greus són el visual i paisatgístic, perquè s'instal·len en zones elevades del territori i són visibles des de llargues distàncies, i l'impacte sobre les aus, que poden xocar amb les pales. Tanmateix, aquests problemes són limitats i es poden reduir amb una bona planificació: triar ubicacions adequades, fer estudis d'impacte ambiental i evitar els espais protegits i les rutes migratòries. Per tant, no és cert que no sigui aconsellable instal·lar-ne: els avantatges ambientals superen clarament els inconvenients."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "En principi, no s'hi ha d'estar d'acord: l'eòlica és energia renovable i neta, que no emet gasos contaminants. Inconvenients: despesa energètica i de materials en la construcció; els més greus, l'impacte visual i paisatgístic (zones elevades, visibles de lluny) i l'impacte sobre les aus. Es valora una argumentació ben articulada i coherent, sigui quina sigui la posició. (1 punt)"
+          }
+        ],
+        "nota": "Error típic: respondre només \"Fals\" o fer una llista d'avantatges sense matisar. Les pautes valoren la coherència de l'argument: una posició més crítica amb l'eòlica també pot treure la nota màxima si està ben raonada. (A les pautes oficials hi ha una errada: \"Els meus greus\" vol dir \"Els més greus\".)"
+      }
+    },
+    {
+      "id": "geografia-2024-J-e2-q1",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Gràfic de l'evolució dels matrimonis a Espanya (1975-2022): causes",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "nupcialitat",
+        "matrimonis",
+        "baby boom",
+        "crisi econòmica del 2008",
+        "covid-19",
+        "canvi de valors",
+        "comentari de gràfic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "**Evolució del nombre de matrimonis a Espanya (1975-2022)**\n\n(Gràfic lineal amb el nombre anual de matrimonis. Valors destacats a l'eix vertical: 280.000, 258.070, 208.057, 179.107, 148.588 i 90.670.)\n\n*Font:* Instituto Nacional de Estadística [en línia].",
+      "enunciat": "Exercici 2. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el gràfic. Pregunta 1: expliqueu les causes de l'evolució de la nupcialitat al llarg del període 1975-2022. [1 punt]",
+      "figures": [
+        {
+          "src": "img/geografia/2024-J/e2-q1.png",
+          "peu": "Evolució del nombre de matrimonis a Espanya (1975-2022): uns 270.000 el 1975, al voltant de 200.000-220.000 entre 1981 i 2007, descens a partir del 2008, mínim de 90.670 el 2020 i recuperació fins a 179.107 el 2022. Font: INE."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de gràfic d'1 punt. Les pautes el reparteixen així: descripció de la tendència i de la primera etapa amb la seva causa (0,25), les etapes 1981-2007 i 2008-2022 amb les seves causes (0,25) i el **canvi de valors** respecte al matrimoni (0,50, la meitat de la nota!). Estructura: tendència general → etapes amb dades del gràfic → causa de cada etapa → causa de fons (canvi de valors). Extensió: 10-15 línies. Temps: 8-10 minuts. Error típic: només descriure el gràfic. La pregunta demana **causes**."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Llegiu les dades: el 1975 hi ha uns 270.000 matrimonis; el 2020, 90.670; el 2022, 179.107 (els valors de l'eix vertical corresponen a anys concrets). Amb Python: entre el 1975 i el 2020 el nombre baixa un 66 %, i del 2020 al 2022 gairebé es duplica (+98 %).\n\n1. **Tendència general**: descens de la nupcialitat, més intens en els darrers anys.\n2. **1975-1981**: xifres molt altes (més de 250.000) perquè arriba a l'edat de casar-se la generació del **baby boom** (nascuts als anys 50 i 60); després baixen ràpidament (crisi econòmica dels 70, atur juvenil).\n3. **1981-2007**: relativa estabilitat (200.000-220.000) amb lleuger descens; petit augment a finals dels 80 i a principis dels 2000, en etapes de creixement econòmic i amb l'arribada d'immigrants joves.\n4. **2008-2019**: descens intens amb la **crisi econòmica i financera del 2008** (atur, precarietat, dificultat d'accés a l'habitatge).\n5. **2020**: caiguda brusca per la **COVID-19** (confinament, restriccions a les celebracions) i recuperació el 2021-2022 per les noces ajornades.\n6. **Causa de fons**: **canvi de valors** (secularització, llei del divorci del 1981, incorporació de la dona al treball, emancipació tardana): moltes parelles no es casen, augmenten les parelles de fet i les famílies monoparentals, i el matrimoni es retarda."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El gràfic mostra una tendència general al descens de la nupcialitat a Espanya entre el 1975 i el 2022, especialment intensa en els darrers anys: es passa d'uns 270.000 matrimonis el 1975 a només 90.670 el 2020. A l'inici del període les xifres són molt altes, per sobre dels 250.000 matrimonis anuals fins al 1979, perquè arriba a l'edat de casar-se la generació nombrosa del baby boom; a partir de llavors baixen ràpidament, en un context de crisi econòmica i atur. Entre el 1981 i el 2007 el nombre de matrimonis s'estabilitza entre els 200.000 i els 220.000, amb una tendència lleugerament descendent. A partir del 2008, coincidint amb la crisi econòmica i financera, el descens s'intensifica, perquè l'atur, la precarietat laboral i el preu de l'habitatge endarrereixen l'emancipació dels joves. L'any 2020 hi ha una caiguda molt marcada a causa de la pandèmia de la COVID-19, que va obligar a ajornar moltes noces, i el 2021-2022 es recupera fins a 179.107. A més de les circumstàncies socioeconòmiques de cada etapa, la causa de fons és el canvi de valors de la societat respecte al matrimoni: la secularització, la legalització del divorci (1981) i la incorporació de la dona al mercat laboral fan que moltes parelles decideixin no casar-se o fer-ho més tard, i que augmentin les parelles de fet i les famílies monoparentals."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Tendència al descens, sobretot en els darrers anys; xifres molt altes fins a inicis dels 80 per l'arribada a l'edat de casar-se dels baby-boomers (0,25). 1981-2007: estabilitat amb lleuger descens; des del 2007, descens intensificat per la crisi econòmica; caiguda del 2020 per la COVID-19 (0,25). Canvi de valors: moltes parelles no es casen, augment de parelles de fet i famílies monoparentals (0,50)."
+          }
+        ],
+        "nota": "Citeu xifres del gràfic (anys i valors) per justificar cada etapa. El canvi de valors val la meitat de la pregunta: no l'oblideu. No confongueu nupcialitat (matrimonis) amb natalitat."
+      }
+    },
+    {
+      "id": "geografia-2024-J-e2-q2",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Taxa global de fecunditat i indicador conjuntural de fecunditat a Espanya (2022)",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "taxa global de fecunditat",
+        "indicador conjuntural de fecunditat",
+        "nivell de reemplaçament",
+        "envelliment",
+        "fecunditat"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Exercici 2. Pregunta 2. La taxa global de fecunditat a Espanya el 2022 era de 31,4, mentre que l'indicador conjuntural de fecunditat era d'1,16. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Què mesuren aquestes dues taxes?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Expliqueu les conseqüències demogràfiques del valor 1,16 de l'indicador conjuntural de fecunditat.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de conceptes demogràfics d'1 punt. Al a) cal **definir amb precisió** els dos indicadors (0,25 cadascun): què relacionen i en quina unitat s'expressen. Al b) cal comparar 1,16 amb el **nivell de reemplaçament** i deduir-ne les conseqüències. Extensió: 4-6 línies per apartat. Temps: 6-8 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Taxa global de fecunditat (TGF)**: nombre de nascuts vius en un any per cada 1.000 dones en edat fèrtil (15-49 anys); s'expressa en **‰**.\n\nTGF = (nascuts vius en un any / dones de 15 a 49 anys) × 1.000\n\nEl 31,4 ‰ vol dir que el 2022 van néixer 31,4 infants per cada 1.000 dones de 15 a 49 anys.\n\n2. **Indicador conjuntural de fecunditat (ICF)**, o nombre mitjà de fills per dona: el nombre mitjà de fills que tindria cada dona al llarg de la seva vida fèrtil si es mantinguessin les taxes de fecunditat per edats d'aquell any. S'expressa en **fills per dona**."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "La taxa global de fecunditat relaciona el nombre total de nascuts vius en un any amb el nombre de dones en edat fèrtil (de 15 a 49 anys) i s'expressa en tant per mil: el 2022, a Espanya, van néixer 31,4 infants per cada 1.000 dones d'aquestes edats. L'indicador conjuntural de fecunditat indica el nombre mitjà de fills per dona: els fills que tindria, de mitjana, cada dona al llarg de la seva vida fèrtil si es mantingués la fecunditat d'aquell any. El 2022 era d'1,16 fills per dona."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Comparació**: el nivell de reemplaçament generacional és d'uns **2,1 fills per dona** (les pautes diuen \"2\"); 1,16 n'és poc més de la meitat (1,16/2,1 = 0,55).\n2. **Conseqüències** si es manté molt de temps: cada generació és més petita que la dels pares → **descens de la població** (creixement natural negatiu) i **envelliment** progressiu (més pes de la gent gran, menys joves; problemes per a les pensions i el mercat de treball).\n3. **Matís**: tot això sense tenir en compte les **migracions**, que a Espanya compensen en part la baixa fecunditat."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Un indicador conjuntural de fecunditat d'1,16 fills per dona és molt inferior al nivell de reemplaçament generacional, que se situa al voltant de 2 (2,1) fills per dona: és el valor necessari perquè cada generació sigui substituïda per una altra de la mateixa mida. Si aquest valor es mantingués durant molt de temps, cada generació seria més petita que l'anterior, de manera que la població disminuiria i patiria un envelliment progressiu, amb menys joves i població activa i més gent gran. Tot això sense tenir en compte els fluxos migratoris, que a Espanya compensen en part aquesta baixa fecunditat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Taxa global de fecunditat: relaciona el nombre total de nascuts amb el nombre de dones en edat fèrtil (15-49 anys), en tant per mil (0,25). Indicador conjuntural de fecunditat: nombre mitjà de fills per dona (0,25)."
+          },
+          {
+            "apartat": "b",
+            "valor": "1,16 és inferior a 2, el valor de reemplaçament; si es manté, comporta descens de la població i envelliment progressiu, sense tenir en compte les migracions (0,50)."
+          }
+        ],
+        "nota": "No confongueu la taxa global de fecunditat (‰, sobre les dones de 15-49 anys) amb la taxa de natalitat (‰, sobre tota la població). Recordeu les unitats: ‰ per a la TGF i fills per dona per a l'ICF. El reemplaçament és 2,1 (les pautes diuen 2); qualsevol dels dos valors és acceptat."
+      }
+    },
+    {
+      "id": "geografia-2024-J-e2-q3",
+      "exercici": 2,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Dues mesures contra la baixa natalitat a Espanya",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "natalitat",
+        "polítiques natalistes",
+        "conciliació laboral",
+        "permisos de maternitat i paternitat"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Exercici 2. Pregunta 3. Proposeu i justifiqueu dues mesures que es podrien aplicar per a resoldre el problema de la baixa natalitat que hi ha a Espanya. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta oberta de 0,5 punts: cal **dues** mesures i, per a cadascuna, una **justificació** (per què faria augmentar la natalitat). Les pautes accepten qualsevol mesura pertinent. Extensió: 5-6 línies. Temps: 3-4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Relacioneu cada mesura amb una causa de la baixa natalitat (cost econòmic dels fills, dificultat de conciliar feina i família, emancipació tardana):\n\n- **Ajuts econòmics** a les famílies amb fills (prestacions per fill, deduccions fiscals, escoles bressol gratuïtes).\n- **Allargar els permisos** de maternitat i paternitat.\n- **Facilitar la reducció de jornada** o la flexibilitat horària per a les persones amb fills a càrrec.\n- Polítiques d'**habitatge** assequible per als joves."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Una primera mesura seria donar ajuts econòmics a les famílies amb fills, com una prestació mensual per fill i escoles bressol gratuïtes, perquè el cost de criar els fills és una de les raons principals per les quals moltes parelles en tenen menys dels que voldrien. Una segona mesura seria facilitar la conciliació entre la feina i la família: allargar els permisos de maternitat i paternitat i facilitar la reducció de jornada o la flexibilitat horària per a les persones amb fills a càrrec, ja que la dificultat de compaginar la carrera professional amb la criança endarrereix la maternitat i redueix el nombre de fills."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Almenys dues mesures pertinents i justificades: ajuts econòmics a famílies amb fills; augment del permís de maternitat o paternitat; facilitats per reduir la jornada laboral amb fills a càrrec; etc. Resposta oberta. (0,50)"
+          }
+        ],
+        "nota": "No n'hi ha prou amb enumerar: cal justificar cada mesura. Eviteu mesures vagues (\"que la gent tingui més fills\")."
+      }
+    },
+    {
+      "id": "geografia-2024-J-e3-q1",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Fotografia del barri de Bellvitge: polígons d'habitatges i segregació urbana",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "poblacio"
+      ],
+      "conceptes": [
+        "polígons d'habitatges",
+        "ciutat dormitori",
+        "perifèria urbana",
+        "desarrollismo",
+        "immigració interior",
+        "segregació espacial",
+        "comentari de fotografia"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7,
+        8
+      ],
+      "text": "**Els teixits urbans (barri de Bellvitge, l'Hospitalet de Llobregat)**\n\n(Fotografia aèria obliqua d'un barri de grans blocs d'habitatges plurifamiliars de molts pisos, amb espais oberts, aparcaments i equipaments entre els blocs.)\n\n*Font:* Google Earth [en línia]. [Consulta: 29 desembre 2023]",
+      "enunciat": "Exercici 3. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu la imatge. Pregunta 1: responeu a les preguntes següents. [1,5 punts en total]",
+      "figures": [
+        {
+          "src": "img/geografia/2024-J/e3-q1.png",
+          "peu": "Els teixits urbans: barri de Bellvitge (l'Hospitalet de Llobregat), polígon d'habitatges de blocs alts. Font: Google Earth (consulta: 29 desembre 2023)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "D'acord amb la funció que tenen, com es classifiquen els barris com el de Bellvitge?",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "En quines zones urbanes es va construir aquest tipus de barri?",
+          "punts": 0.25
+        },
+        {
+          "id": "c",
+          "enunciat": "En quin període es va construir la majoria de barris d'aquest tipus i quins problemes urbanístics presentaven?",
+          "punts": 0.5
+        },
+        {
+          "id": "d",
+          "enunciat": "Justifiqueu si l'afirmació següent és vertadera o falsa: «A les ciutats existeix una segregació espacial de la població segons el nivell de renda.»",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de fotografia de 1,5 punts amb quatre apartats curts. Els a) i b) (0,25 cadascun) es responen en una o dues línies; el c) i el d) (0,5) demanen 4-6 línies. Mireu la imatge: **blocs d'habitatges plurifamiliars** molt alts i repetits, construïts de cop segons un pla unitari (**polígon d'habitatges**), amb espais oberts entre blocs, aparcaments i algun equipament. Temps: 10-12 minuts. Error típic: barrejar la funció (a) amb la localització (b): responeu exactament el que es pregunta a cada lletra."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Segons la **funció**, és un barri **residencial**: un barri **dormitori** (ciutat dormitori), on la població hi viu però treballa, estudia o compra en altres llocs de l'àrea metropolitana."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Segons la seva funció, Bellvitge és un barri residencial del tipus ciutat dormitori: s'hi concentren els habitatges, però bona part de la població es desplaça a treballar a altres llocs de l'àrea metropolitana de Barcelona."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "La localització: a les **perifèries urbanes**, als municipis de l'entorn de les grans ciutats (com l'Hospitalet al costat de Barcelona), sovint sobre antics terrenys agrícoles (Bellvitge, sobre l'horta del delta del Llobregat), on el sòl era barat."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Aquests barris es van construir a les perifèries urbanes, als límits de les grans ciutats i als municipis del seu entorn metropolità, sovint sobre antics terrenys agrícoles on el sòl era barat, com Bellvitge a l'Hospitalet de Llobregat, al costat de Barcelona."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Període**: anys **60 i 70** del segle XX (desarrollismo franquista), per allotjar la nombrosa **població immigrant** arribada d'altres regions d'Espanya (Andalusia, Extremadura, Múrcia...).\n2. **Problemes urbanístics**: sobretot la **manca de serveis** (escoles, ambulatoris, transport públic) i també urbanització deficient (carrers sense asfaltar, enllumenat), densitats molt altes, mala qualitat constructiva, manca de zones verdes; sovint promocions privades que incomplien els plans."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "La majoria d'aquests barris es van construir als anys 60 i 70 del segle XX, durant el desarrollismo, per acollir la nombrosa població immigrant que arribava d'altres regions d'Espanya a treballar a la indústria. El principal problema urbanístic era la manca de serveis i equipaments: escoles, centres sanitaris i transport públic. A més, sovint la urbanització era deficient (carrers sense asfaltar ni enllumenat), els habitatges eren de mala qualitat i les densitats molt altes, amb pocs espais verds. Moltes d'aquestes mancances es van anar resolent gràcies a les lluites veïnals dels anys 70."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Posicionament**: l'afirmació és **vertadera**.\n2. **Per què**: la població no es distribueix de manera homogènia; el **preu del sòl i de l'habitatge** fa que cada grup social s'agrupi en barris diferents (barris benestants vs. barris obrers).\n3. **Exemple**: Bellvitge, habitat als inicis per població immigrant de renda baixa; contrast amb barris de renda alta (Pedralbes, Sant Gervasi)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Resposta model",
+            "cos": "L'afirmació és vertadera. A les ciutats la població no es distribueix de manera homogènia, sinó que els grups socials tendeixen a separar-se en barris diferents, sobretot pel preu del sòl i de l'habitatge: les famílies amb rendes altes viuen als barris més cars i ben equipats, i les de renda baixa, als barris on l'habitatge és més barat. Barris com Bellvitge, habitats als seus inicis per població immigrant i de classe treballadora, en són una prova, i contrasten amb barris de renda alta com Pedralbes o Sant Gervasi a Barcelona. Aquesta segregació espacial es pot accentuar amb processos com la gentrificació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Barri residencial del tipus ciutat dormitori. (0,25)"
+          },
+          {
+            "apartat": "b",
+            "valor": "Perifèries urbanes. (0,25)"
+          },
+          {
+            "apartat": "c",
+            "valor": "Anys 60 i 70 del segle XX, per acollir la nombrosa població immigrant d'altres regions; principal problema: manca de serveis (educatius, sanitaris i de comunicacions). (0,50)"
+          },
+          {
+            "apartat": "d",
+            "valor": "Vertadera: distribució no homogènia dels grups socials, condicionada pels preus del sòl i de l'habitatge; Bellvitge, habitat als inicis per població immigrant i de classe baixa, n'és una prova. (0,50)"
+          }
+        ],
+        "nota": "Les pautes oficials tenen intercanviades les respostes del a) i el b): posen \"perifèries urbanes\" al a) i \"ciutat dormitori\" al b). Aquí s'han ordenat segons el que pregunta cada apartat (funció → ciutat dormitori; zona → perifèria). Vocabulari valorat: polígon d'habitatges, blocs plurifamiliars, perifèria, ciutat dormitori, segregació espacial."
+      }
+    },
+    {
+      "id": "geografia-2024-J-e3-q2",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Ciutat compacta i suburbis de cases unifamiliars: mobilitat i impacte ambiental",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "medi-ambient",
+        "serveis"
+      ],
+      "conceptes": [
+        "ciutat compacta",
+        "ciutat difusa",
+        "urbanitzacions",
+        "mobilitat sostenible",
+        "transport públic",
+        "trama urbana"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        9
+      ],
+      "text": "",
+      "enunciat": "Exercici 3. Pregunta 2. Compareu les conseqüències en la mobilitat i l'impacte en el medi ambient d'un tipus de trama urbana com el de la ciutat compacta i el d'una zona suburbana de cases unifamiliars aïllades. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de comparació d'1 punt. Cal parlar de **dos models** (ciutat compacta vs. ciutat difusa) i de **dos aspectes** de cadascun (mobilitat i medi ambient). Una bona estructura és un paràgraf per model i una frase final que compari. Extensió: 10-12 línies. Temps: 7-8 minuts. Error típic: descriure els dos tipus de trama sense parlar de mobilitat ni d'impacte ambiental."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "| | Ciutat compacta | Zona suburbana de cases aïllades |\n|---|---|---|\n| Densitat | Alta, usos barrejats | Baixa, ús només residencial |\n| Distàncies | Curtes | Llargues |\n| Mobilitat | A peu, bicicleta, transport públic rendible | Dependència del cotxe privat |\n| Medi ambient | Menys consum d'energia i de sòl, menys emissions | Molt consum de sòl i d'energia, més emissions de GEH, fragmentació del territori |\n\nConclusió: la ciutat compacta és més sostenible."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A la ciutat compacta, la concentració de la població, els serveis i les activitats en una àrea reduïda escurça les distàncies: molts desplaçaments es poden fer a peu o en bicicleta, i la densitat fa rendible la implantació del transport col·lectiu (metro, autobús, tramvia). Per això la mobilitat és més sostenible ambientalment, amb menys consum d'energia, menys emissions i un ús més eficient del sòl. En canvi, a les zones suburbanes de cases unifamiliars aïllades, de baixa densitat, el poblament ocupa una gran extensió i separa els habitatges dels llocs de treball, d'estudi i de compra. Això obliga a fer molts desplaçaments diaris i llargs, majoritàriament amb vehicle privat, perquè el transport públic no hi és rendible. El resultat és un gran consum de recursos energètics, altes emissions de gasos d'efecte hivernacle i contaminació, a més d'un gran consum de sòl i de la fragmentació dels espais naturals i agrícoles. En conclusió, la ciutat compacta és un model molt més sostenible que la ciutat difusa."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Ciutat compacta: concentració de població, serveis i activitats; distàncies curtes; transport col·lectiu; mobilitat més sostenible. Zona suburbana de baixa densitat: gran extensió, molta mobilitat diària en vehicle privat, gran consum energètic i altes emissions de gasos d'efecte hivernacle. (1 punt)"
+          }
+        ],
+        "nota": "Feu servir vocabulari geogràfic: densitat, ciutat difusa (urban sprawl), mobilitat obligada, transport públic, consum de sòl, emissions de GEH. Cal comparar, no només descriure."
+      }
+    },
+    {
+      "id": "geografia-2024-J-e4-q1",
+      "exercici": 4,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Text sobre el relleu generacional al camp espanyol: causes i importància",
+      "tema": "primari",
+      "temes_secundaris": [
+        "poblacio",
+        "territori"
+      ],
+      "conceptes": [
+        "relleu generacional",
+        "envelliment agrari",
+        "despoblament rural",
+        "seguretat alimentària",
+        "pac",
+        "comentari de text"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10,
+        11
+      ],
+      "text": "**El relleu generacional al camp espanyol**\n\nA Espanya, tres de cada cinc agricultors tenen més de cinquanta-cinc anys. D'aquí a deu anys, una bona part s'haurà jubilat. La dada revela un problema seriós de relleu generacional en un sector estratègic de la nostra economia.\n\nEls incentius econòmics de la PAC per a animar els joves a continuar amb l'activitat agrària familiar no són suficients. La caiguda dels preus, l'augment dels costos de producció i la dificultat d'accedir a la terra són causes de la desafecció dels joves a l'activitat agrícola. I sense joves no és possible afrontar el repte de la digitalització, el canvi climàtic o la transició ecològica.\n\nLa major part de les explotacions tenen una dimensió per sota del llindar de rendibilitat. El mercat de terres és difícil i molt car, i qui no hereti les explotacions ho té molt complicat per a entrar al món de l'agricultura, atès que cal disposar d'una elevada quantitat de diners.\n\nEn el context actual, el camp és clau per a garantir la seguretat alimentària, és el repositori mediambiental i concentra un patrimoni cultural incalculable. Els riscos són elevats i en els propers anys precipitaran el despoblament rural, l'infraconreu i la concentració de l'agricultura en uns pocs propietaris.\n\nLa sagnia poblacional només es podrà tallar creant condicions favorables per a la vida de les persones, que escurcin les enormes distàncies entre un món urbà que ofereix oportunitats i un món rural escàs en tot. Establir població en el medi rural d'una manera sostenible vol dir fer-ho en un camp preservat de la desforestació, la contaminació, els incendis, els abocaments i la desprotecció del patrimoni mediambiental. Un camp que generi un teixit productiu diversificat, una economia verda potent, que retingui habitants i capti un turisme que aporti noves oportunitats a la població. Les institucions han d'abordar polítiques ambicioses de desenvolupament local i donar resposta a les demandes dels territoris rurals.\n\n*Font:* Traducció i adaptació fetes a partir del text de Reyes Alonso Martín Coleto. «La actual crisis agrava el relevo generacional en el campo español». *elDiario.es* [en línia] (30 abril 2022).",
+      "enunciat": "Exercici 4. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Llegiu el text. Pregunta 1: a partir del text, responeu a les qüestions següents. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "El text exposa el problema de la manca de relleu generacional en el camp. Quines en són les causes?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Per què és important assegurar el relleu generacional i la continuïtat de l'activitat agrícola?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de text d'1 punt (0,5 + 0,5). Les respostes són **al text**: les pautes valoren que exposeu les idees del text de manera correcta i ordenada, amb les vostres paraules, i que plantegeu el problema abans dels motius. Podeu afegir algun coneixement propi. Extensió: 6-8 línies per apartat. Temps: 8-10 minuts. Error típic: copiar frases senceres del text o fer-ne un resum general sense respondre la pregunta."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **El problema**: 3 de cada 5 agricultors tenen més de 55 anys; en deu anys molts es jubilaran i els joves no s'incorporen.\n2. **Causes** (del text):\n   - ajuts de la **PAC insuficients** per als joves;\n   - **preus baixos** dels productes agrícoles;\n   - **costos de producció elevats**;\n   - **explotacions petites**, per sota del llindar de rendibilitat;\n   - **accés difícil a la terra**: mercat car, només hi entra qui hereta;\n   - **manca de serveis** i d'oportunitats al món rural respecte a la ciutat."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El text planteja la manca de relleu generacional al camp espanyol: tres de cada cinc agricultors tenen més de 55 anys i en una dècada bona part s'hauran jubilat, mentre que els joves no s'incorporen a l'activitat agrària. Les causes d'aquesta desafecció són diverses. Els incentius de la PAC per als joves no són suficients; els preus dels productes agrícoles són baixos i els costos de producció, elevats, de manera que la majoria d'explotacions són massa petites per ser rendibles. A més, el mercat de terres és car i difícil, i qui no hereta una explotació necessita molts diners per entrar al sector. Finalment, el món rural és poc atractiu per als joves per la manca de serveis i d'oportunitats en comparació amb les ciutats."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Els joves són necessaris per afrontar els **reptes** del sector: digitalització, canvi climàtic, transició ecològica.\n2. La continuïtat de l'agricultura cal per:\n   - garantir la **seguretat alimentària**;\n   - **conservar el medi ambient** (el camp com a \"repositori mediambiental\": evitar desforestació, incendis...);\n   - conservar el **patrimoni cultural**;\n   - evitar el **despoblament rural**, l'**infraconreu** (abandonament de terres) i la **concentració** de l'agricultura en pocs propietaris;\n   - **diversificar** l'economia rural (economia verda, turisme)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Assegurar el relleu generacional és important perquè sense joves el sector no podrà afrontar els reptes de la digitalització, el canvi climàtic i la transició ecològica. A més, la continuïtat de l'activitat agrícola és imprescindible per garantir la seguretat alimentària de tota la població, per conservar el medi ambient, ja que la pagesia manté el territori i n'evita la desforestació i els incendis, i per preservar un patrimoni cultural de gran valor. Si no hi ha relleu, s'accelerarà el despoblament rural, moltes terres es deixaran de conrear i l'agricultura es concentrarà en uns pocs propietaris. Mantenir l'activitat agrària, juntament amb una economia verda i el turisme, ajuda a diversificar l'economia i a fixar població al món rural."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Problema: la majoria de pagesos són a punt de jubilar-se i els joves no s'hi incorporen. Causes: ajuts de la PAC insuficients; preus baixos; costos de producció elevats; explotacions petites i accés difícil i car a la terra si no s'hereta; manca de serveis al món rural. Exposició correcta i ordenada. (0,50)"
+          },
+          {
+            "apartat": "b",
+            "valor": "Els joves són necessaris per a la digitalització, el canvi climàtic i la transició ecològica. L'agricultura garanteix la seguretat alimentària, la conservació del medi ambient (desforestació, incendis) i del patrimoni cultural; evita el despoblament, l'abandonament de terres i la concentració en pocs propietaris; contribueix a diversificar l'economia. (0,5)"
+          }
+        ],
+        "nota": "Expliqueu amb paraules pròpies; no copieu el text. L'ordre importa: primer el problema, després les causes."
+      }
+    },
+    {
+      "id": "geografia-2024-J-e4-q2",
+      "exercici": 4,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.75,
+      "titol": "La Política Agrària Comuna (PAC): definició i objectius",
+      "tema": "primari",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "pac",
+        "unió europea",
+        "política agrària comuna",
+        "ppc",
+        "desenvolupament rural"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "**El relleu generacional al camp espanyol**\n\nA Espanya, tres de cada cinc agricultors tenen més de cinquanta-cinc anys. D'aquí a deu anys, una bona part s'haurà jubilat. La dada revela un problema seriós de relleu generacional en un sector estratègic de la nostra economia.\n\nEls incentius econòmics de la PAC per a animar els joves a continuar amb l'activitat agrària familiar no són suficients. La caiguda dels preus, l'augment dels costos de producció i la dificultat d'accedir a la terra són causes de la desafecció dels joves a l'activitat agrícola. I sense joves no és possible afrontar el repte de la digitalització, el canvi climàtic o la transició ecològica.\n\nLa major part de les explotacions tenen una dimensió per sota del llindar de rendibilitat. El mercat de terres és difícil i molt car, i qui no hereti les explotacions ho té molt complicat per a entrar al món de l'agricultura, atès que cal disposar d'una elevada quantitat de diners.\n\nEn el context actual, el camp és clau per a garantir la seguretat alimentària, és el repositori mediambiental i concentra un patrimoni cultural incalculable. Els riscos són elevats i en els propers anys precipitaran el despoblament rural, l'infraconreu i la concentració de l'agricultura en uns pocs propietaris.\n\nLa sagnia poblacional només es podrà tallar creant condicions favorables per a la vida de les persones, que escurcin les enormes distàncies entre un món urbà que ofereix oportunitats i un món rural escàs en tot. Establir població en el medi rural d'una manera sostenible vol dir fer-ho en un camp preservat de la desforestació, la contaminació, els incendis, els abocaments i la desprotecció del patrimoni mediambiental. Un camp que generi un teixit productiu diversificat, una economia verda potent, que retingui habitants i capti un turisme que aporti noves oportunitats a la població. Les institucions han d'abordar polítiques ambicioses de desenvolupament local i donar resposta a les demandes dels territoris rurals.\n\n*Font:* Traducció i adaptació fetes a partir del text de Reyes Alonso Martín Coleto. «La actual crisis agrava el relevo generacional en el campo español». *elDiario.es* [en línia] (30 abril 2022).",
+      "enunciat": "Exercici 4. Pregunta 2. En el text s'esmenta la PAC. Des que Espanya va entrar a la Unió Europea, el sector primari s'ha vist molt condicionat per la PAC. Expliqueu què és la PAC i quins objectius té. [0,75 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de 0,75 punts: **definició** de la PAC (0,25) i **almenys dos objectius** (0,25 cadascun). Doneu-ne tres o quatre per assegurar la nota. Extensió: 6-8 línies. Temps: 4-5 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Definició**: la Política Agrària Comuna és la política de la Unió Europea per al sector agrari (creada el 1962; Espanya hi entra el 1986), que absorbeix una gran part del pressupost comunitari; la pesca té una política pròpia, la PPC.\n2. **Objectius** (en podeu triar uns quants): augmentar la productivitat i la competitivitat; assegurar una renda justa als agricultors; estabilitzar els mercats; garantir l'aprovisionament d'aliments a preus raonables; millorar la posició dels agricultors a la cadena alimentària; actuar contra el canvi climàtic i protegir el medi ambient, el paisatge i la biodiversitat; donar suport al relleu generacional; mantenir zones rurals dinàmiques; protegir la qualitat alimentària i sanitària; impulsar el coneixement i la innovació."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La PAC (Política Agrària Comuna) és la política comuna de la Unió Europea per al sector agrari. Creada el 1962, és una de les polítiques comunitàries més antigues i absorbeix una gran part del pressupost de la UE, a través d'ajuts directes als agricultors, regulació dels mercats i programes de desenvolupament rural; Espanya hi va entrar el 1986. Els seus objectius són augmentar la productivitat del sector perquè sigui competitiu als mercats internacionals; assegurar un nivell de vida equitatiu i una renda justa a la població agrària; estabilitzar els mercats i garantir l'aprovisionament d'aliments a preus raonables per als consumidors. Les reformes recents hi han afegit la lluita contra el canvi climàtic, la protecció del medi ambient, del paisatge i de la biodiversitat, el suport al relleu generacional i el manteniment de zones rurals dinàmiques."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Definició de la PAC com a política agrària de la UE que absorbeix gran part del pressupost comunitari (0,25) i almenys dos objectius (0,25 cadascun): productivitat i competitivitat, renda justa per als agricultors, estabilitzar mercats, garantir l'aprovisionament, preus raonables, canvi climàtic, medi ambient, paisatge i biodiversitat, relleu generacional, zones rurals dinàmiques, qualitat alimentària, innovació. (0,75 en total)"
+          }
+        ],
+        "nota": "Responeu les dues coses: què és i quins objectius té. Podeu relacionar-ho amb el text: la PAC té ajuts per a joves agricultors, però el text diu que són insuficients."
+      }
+    },
+    {
+      "id": "geografia-2024-J-e4-q3",
+      "exercici": 4,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.75,
+      "titol": "Tres efectes del canvi climàtic en el sector primari",
+      "tema": "primari",
+      "temes_secundaris": [
+        "medi-ambient",
+        "clima"
+      ],
+      "conceptes": [
+        "canvi climàtic",
+        "sequera",
+        "sector primari",
+        "desertificació",
+        "fenòmens meteorològics extrems",
+        "pesca"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Exercici 4. Pregunta 3. El sector primari té una gran dependència de les condicions climatològiques, i actualment ha d'afrontar les conseqüències del canvi climàtic. Expliqueu tres efectes del canvi climàtic en el sector primari. [0,75 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de 0,75 punts: **tres efectes** (0,25 cadascun), cadascun **explicat** (causa climàtica → conseqüència sobre l'agricultura, la ramaderia o la pesca). Extensió: 6-9 línies. Temps: 4-5 minuts. Error típic: donar-ne només dos o fer una llista sense explicar."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Trieu tres d'aquests efectes (millor si toquen subsectors diferents):\n\n- **Augment de temperatures** → menys rendiment i qualitat (sobretot al sud).\n- **Sequeres** més freqüents → afecten el secà i el regadiu (restriccions de reg).\n- Més risc d'**incendis**.\n- Més **plagues**, malalties i espècies invasores.\n- **Pluges torrencials** → erosió, desertificació, inundacions.\n- **Fenòmens extrems** (pedregades, ventades) → collites malmeses.\n- **Pujada del nivell del mar** i salinització dels aqüífers → deltes (arròs).\n- Menys pastures → ramaderia extensiva.\n- Mar més calent → menys captures pesqueres."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "En primer lloc, les sequeres, cada cop més freqüents i persistents, afecten directament els conreus de secà i també els de regadiu, perquè baixen les reserves d'aigua dels embassaments i dels aqüífers i s'imposen restriccions al reg; a més, redueixen les pastures de la ramaderia extensiva. En segon lloc, l'augment de la intensitat i la freqüència dels fenòmens meteorològics extrems, com les pedregades, les ventades o les pluges torrencials, malmeten les collites i provoquen erosió i pèrdua de sòl fèrtil, que pot arribar a la desertificació. En tercer lloc, la pujada del nivell del mar i la salinització dels aqüífers costaners amenacen els conreus dels deltes, com l'arròs del delta de l'Ebre, i l'escalfament del mar redueix les captures pesqueres."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Tres efectes (0,25 cadascun): descens de rendiments i qualitat per l'augment de temperatura; sequeres que afecten secà i regadiu; més risc d'incendis; espècies invasores, plagues i malalties; pluges torrencials, erosió i desertificació; fenòmens extrems (pedregades, vent); pujada del nivell del mar i salinització (arròs als deltes); reducció de pastures; menys captures pesqueres. (0,75 en total)"
+          }
+        ],
+        "nota": "Expliqueu cada efecte en una o dues frases i numereu-los o separeu-los clarament perquè el corrector els compti. Exemples catalans (delta de l'Ebre, sequera del 2022-2024) donen qualitat a la resposta."
+      }
+    },
+    {
+      "id": "geografia-2024-J-e5-q1",
+      "exercici": 5,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Taula del turisme estranger a Catalunya (2022): destinacions principals",
+      "tema": "serveis",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "turisme",
+        "turisme de sol i platja",
+        "turisme urbà",
+        "turisme de congressos",
+        "barcelona",
+        "comentari de taula"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        12,
+        13
+      ],
+      "text": "**Turisme estranger a Catalunya el 2022 (en milers)**\n\n| Lloc de procedència | Nombre de turistes |\n|---|---:|\n| Alemanya | 1.211,2 |\n| Bèlgica | 323,6 |\n| França | 3.418,3 |\n| Irlanda | 348,4 |\n| Itàlia | 1.036,8 |\n| Països Baixos | 665,7 |\n| Països nòrdics | 566,6 |\n| Portugal | 162 |\n| Regne Unit | 1.453,3 |\n| Rússia | 126,7 |\n| Suïssa | 306,9 |\n| *Resta d'Europa* | 2.058,6 |\n| Argentina | 125,9 |\n| Brasil | 133,6 |\n| Canadà | 149,2 |\n| Estats Units | 1.162,6 |\n| *Resta d'Amèrica* | 469,8 |\n| Japó | 58,8 |\n| Xina | 24,6 |\n| *Resta del món* | 1.049,5 |\n| **Total** | **14.852** |\n\n*Font:* Adaptació d'una taula publicada per l'Institut d'Estadística de Catalunya (Idescat) [en línia].\n\nDesprés del període 2020-2021, en què el turisme va quedar molt afectat per la pandèmia de la COVID-19, el nombre de turistes estrangers que van visitar Catalunya el 2022 ja es va acostar a les xifres d'abans de la pandèmia.",
+      "enunciat": "Exercici 5. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu la taula. Pregunta 1: expliqueu quines són les destinacions principals del turisme estranger a Catalunya. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt. Atenció: la taula dona la **procedència** dels turistes, però la pregunta demana les **destinacions** dins de Catalunya. Les pautes valoren dues destinacions (0,5 cadascuna): **Barcelona** (turisme urbà, cultural i de congressos) i la **costa** (sol i platja). Bona estructura: una frase sobre la taula (volum i procedència, amb un parell de dades) i després les dues destinacions amb el tipus de turisme que atreuen. Extensió: 8-10 línies. Temps: 6-7 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Lectura de la taula** (càlculs amb Python, sobre el total de 14.852 milers): França és el primer mercat (3.418,3 milers, el **23 %**), seguida del Regne Unit (9,8 %), Alemanya (8,2 %), els Estats Units (7,8 %) i Itàlia (7,0 %). Europa aporta 11.678 milers (**78,6 %**) i Amèrica, el 13,7 %.\n2. **Destinació 1 – Barcelona**: concentra la majoria del turisme estranger: turisme cultural (patrimoni modernista, museus), urbà, de congressos i fires, i de creuers.\n3. **Destinació 2 – La costa**: Costa Brava, Costa Daurada (amb PortAventura) i Costa del Maresme/Garraf: turisme de **sol i platja**, sobretot a l'estiu, que continua tenint molt pes (el turisme francès hi va molt en cotxe).\n4. Com a complement: el Pirineu (neu, muntanya) i el turisme rural, amb molt menys volum."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El 2022 Catalunya va rebre 14,85 milions de turistes estrangers, majoritàriament europeus (el 78,6 %): el primer mercat és França, amb 3,4 milions (el 23 % del total), seguida del Regne Unit, Alemanya, els Estats Units i Itàlia. La destinació principal d'aquest turisme és la ciutat de Barcelona, on es concentra la majoria de visitants estrangers. Barcelona atrau un turisme urbà i cultural, gràcies al seu patrimoni arquitectònic, sobretot modernista, als museus i als esdeveniments esportius i culturals, i també un important turisme de congressos i fires i de creuers. La segona gran destinació és el litoral: la Costa Brava, la Costa Daurada o el Maresme continuen rebent un gran nombre de visitants, ja que el turisme de sol i platja, molt estacional i concentrat a l'estiu, manté una gran importància. Altres destinacions, com el Pirineu (turisme de neu i de muntanya) o el turisme rural de l'interior, tenen un pes molt menor."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "La majoria del turisme estranger es dirigeix a Barcelona: turisme cultural, de ciutats i de congressos (0,50). Les destinacions de costa també reben molts visitants pel turisme de sol i platja (0,50)."
+          }
+        ],
+        "nota": "No confongueu procedència i destinació: la taula serveix per contextualitzar, però la nota és per a les destinacions i el tipus de turisme. Si citeu percentatges, calculeu-los bé sobre el total (14.852 milers)."
+      }
+    },
+    {
+      "id": "geografia-2024-J-e5-q2",
+      "exercici": 5,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "La gentrificació: definició, efectes sobre els residents i arguments a favor i en contra",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "serveis"
+      ],
+      "conceptes": [
+        "gentrificació",
+        "turisme de masses",
+        "preu de l'habitatge",
+        "rehabilitació urbana",
+        "barcelona"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        14
+      ],
+      "text": "",
+      "enunciat": "Exercici 5. Pregunta 2. S'ha observat que el turisme massiu provoca la gentrificació dels barris més turístics de les ciutats. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Expliqueu en què consisteix la gentrificació i com afecta la població resident.",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Proporcioneu un argument a favor de la gentrificació i un altre en contra.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt. Al a) cal una **definició precisa** de gentrificació i el seu **efecte sobre els residents** (desplaçament). Al b), **un argument a favor i un en contra** (0,25 cadascun). Extensió: 5-7 línies per al a) i 3-4 per al b). Temps: 6-7 minuts. Error típic: definir gentrificació només com \"turistificació\" o no esmentar l'expulsió dels veïns."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Procés**: rehabilitació urbanística d'una àrea degradada (sovint el centre històric) habitada per població de renda baixa.\n2. **Substitució social**: arriben persones de classe mitjana i alta, nous negocis i el turisme (pisos turístics).\n3. **Efecte**: pugen els lloguers i els preus de l'habitatge i del comerç; els antics residents, que no els poden pagar, han de marxar (**desplaçament**); pèrdua del comerç de proximitat i del teixit veïnal.\n4. Exemples: Ciutat Vella o la Barceloneta (Barcelona)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "La gentrificació és el procés de transformació d'un barri degradat de la ciutat, habitat per població de rendes baixes, que és rehabilitat urbanísticament i atreu progressivament persones de classe mitjana i alta, nous negocis i el turisme. Com a conseqüència, els propietaris apugen els lloguers i els preus de l'habitatge, i molts antics residents, que no els poden pagar, es veuen obligats a marxar del barri. A més, el comerç de proximitat és substituït per botigues i serveis orientats als nouvinguts i als turistes, i es perd el teixit social del barri, com ha passat a Ciutat Vella o a la Barceloneta, a Barcelona."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "- **A favor**: rehabilita zones degradades durant anys; atrau inversions i nous negocis; millora l'espai públic i la seguretat.\n- **En contra**: encariment excessiu de l'habitatge; expulsió dels veïns; transformació amb objectius \"de mercat\" i no \"de ciutat\"; entrada de fons especulatius."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Un argument a favor de la gentrificació és que permet rehabilitar zones que portaven molts anys degradades, amb millores en els edificis i l'espai públic, i atreu inversions en forma de nous negocis. Un argument en contra és que provoca un encariment excessiu de l'habitatge que expulsa els veïns que hi vivien, de manera que el barri es transforma segons interessos de mercat i especulatius i no segons les necessitats dels seus habitants."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Rehabilitació urbanística d'una àrea degradada habitada per rendes baixes, que atreu classe mitjana i alta o turisme; desplaçament dels antics residents, que no poden afrontar l'augment dels lloguers."
+          },
+          {
+            "apartat": "b",
+            "valor": "A favor: rehabilitació de zones precàries; entrada d'inversions i nous negocis (0,25). En contra: encariment de l'habitatge; expulsió dels veïns; transformació \"de mercat\" i no \"de ciutat\"; fons especulatius (0,25)."
+          }
+        ],
+        "nota": "Discrepància de puntuació a les pautes oficials: l'examen dona 1 punt a tota la pregunta, però les pautes assignen 0,75 al a) i 0,25 + 0,25 al b), que sumen 1,25. Aquí s'ha pres 0,5 per a cada apartat, coherent amb el total d'1 punt i amb els 0,25 per argument del b)."
+      }
+    },
+    {
+      "id": "geografia-2024-J-e5-q3",
+      "exercici": 5,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals: la diversificació turística com a alternativa al turisme de masses",
+      "tema": "serveis",
+      "temes_secundaris": [],
+      "conceptes": [
+        "turisme de masses",
+        "diversificació turística",
+        "turisme sostenible",
+        "turisme rural",
+        "vertader o fals"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Exercici 5. Pregunta 3. Justifiqueu si l'afirmació següent és vertadera o falsa: «La diversificació turística pot ser una alternativa al turisme de masses.» [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de 0,5 punts: posicionament (**vertadera**) i **dos arguments** ben explicats. Extensió: 5-7 línies. Temps: 3-4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Vertadera**.\n2. El turisme de masses (sol i platja, concentrat a la costa i a Barcelona, estacional) ha creat molts problemes (massificació, gentrificació, impacte ambiental): es parla de la necessitat d'un canvi de model.\n3. Diversificar redueix la dependència d'un sol producte i reparteix els visitants al llarg de l'any i pel territori.\n4. Catalunya hi té molt potencial: turisme rural, de muntanya, cultural, gastronòmic i enoturisme, esportiu, de natura (parcs naturals)...\n5. Matís: s'hi aposta fa anys, però el model de masses encara té molt de pes; és més un complement que una substitució completa."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'afirmació és vertadera. El turisme de masses, basat en el sol i platja i en la concentració de visitants a la costa i a Barcelona, ha generat molts problemes: estacionalitat, massificació, encariment de l'habitatge i impactes ambientals. Per això fa temps que es reclama un canvi de model, que passa en bona part per diversificar l'oferta. Catalunya té molt potencial per fer-ho: turisme rural i de muntanya, cultural, gastronòmic i enoturisme, esportiu o de natura als parcs naturals. Aquests productes reparteixen els visitants pel territori i al llarg de l'any, i diversifiquen l'economia de zones de l'interior. Tot i que s'hi aposta des de fa anys, el model de masses encara té molt de pes, de manera que la diversificació és una alternativa necessària però encara parcial."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Principalment VERTADERA. Dos arguments: el turisme de masses ha creat molts problemes i cal un canvi de model que passa per diversificar; la diversificació evita dependre d'un sol recurs; Catalunya hi aposta però el model de masses encara pesa molt; té molt potencial (museus, urbà, rural, esportiu, parcs naturals, cultural, gastronòmic...). (0,50)"
+          }
+        ],
+        "nota": "Cal posicionar-se i donar dos arguments. Un matís ben argumentat (la diversificació complementa però no substitueix del tot el turisme de masses) és valorat positivament."
+      }
+    }
+  ]
+}

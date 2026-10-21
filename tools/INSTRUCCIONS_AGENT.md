@@ -11,7 +11,7 @@ Processa UN examen (el que t'indiquen al missatge) i genera'n el fitxer de dades
    - sortida `data/<assig>/<ANY>-<J|S>.json`, figures a `img/<assig>/<ANY>-<J|S>/`
    - id d'examen `<assig>-<ANY>-<J|S>`; convocatoria `"juny"` (J) o `"setembre"` (S)
    - `materia`: el nom que surt a la portada de l'examen (p. ex. "Llatí" o "Llengua i Cultures Llatines";
-     "Economia de l'empresa" o "Funcionament de l'Empresa i Disseny de Models de Negoci").
+     "Economia de l'empresa" o "Funcionament de l'Empresa i Disseny de Models de Negoci"; "Geografia").
    - **Comprova a la portada que el PDF és de la matèria que toca.** Si no ho és (p. ex. és d'una altra
      assignatura), no facis res i explica-ho a la resposta.
 4. Si el PDF conté **diverses sèries**, fes-les totes en el mateix fitxer: `"serie": "3 i 4"` a examen,

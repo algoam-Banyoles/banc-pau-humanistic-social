@@ -16,6 +16,8 @@ const TEMES = {
   llati: ["traduccio", "morfologia", "sintaxi", "lexic-etimologia", "literatura", "cultura"],
   empresa: ["empresa-entorn", "organitzacio", "produccio", "financament", "comptabilitat", "marqueting", "recursos-humans",
     "models-negoci", "emprenedoria"],
+  geografia: ["relleu", "clima", "aigua", "paisatges", "medi-ambient", "poblacio", "ciutat", "primari", "industria",
+    "serveis", "territori", "mon"],
 };
 const TIPUS = ["test", "oberta", "problema", "comentari", "redaccio", "traduccio"];
 

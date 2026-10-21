@@ -359,6 +359,7 @@ const ASSIGS = [
   { id: "historia", nom: "Història" },
   { id: "llati", nom: "Llatí" },
   { id: "empresa", nom: "Empresa" },
+  { id: "geografia", nom: "Geografia" },
 ];
 const TEMES_PER_ASSIG = {
   catala: {
@@ -387,6 +388,12 @@ const TEMES_PER_ASSIG = {
     "empresa-entorn": "Empresa i entorn", organitzacio: "Organització", produccio: "Producció i costos",
     financament: "Inversió i finançament", comptabilitat: "Comptabilitat i ràtios", marqueting: "Màrqueting",
     "recursos-humans": "Recursos humans", "models-negoci": "Models de negoci", emprenedoria: "Emprenedoria",
+  },
+  geografia: {
+    relleu: "Relleu", clima: "Clima", aigua: "Aigua i hidrografia", paisatges: "Paisatges i vegetació",
+    "medi-ambient": "Medi ambient i riscos", poblacio: "Població", ciutat: "Ciutat i poblament", primari: "Sector primari",
+    industria: "Indústria i energia", serveis: "Serveis, turisme i transport", territori: "Organització territorial",
+    mon: "Món i globalització",
   },
 };
 const temaNom = (assig, t) => (TEMES_PER_ASSIG[assig] || {})[t]
@@ -605,6 +612,7 @@ const MOCK_EXEMPLES = {
   historia: "Restauració, Segona República, franquisme, Mancomunitat, Transició...",
   llati: "traducció, Cèsar, Ovidi, ablatiu absolut, Tàrraco...",
   empresa: "VAN, punt mort, balanç, ràtios, màrqueting...",
+  geografia: "climograma, piràmide d'edats, relleu peninsular, turisme, indústria...",
 };
 function mockTop() {
   const pool = PROBS.filter(inAssig);

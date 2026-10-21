@@ -1,0 +1,536 @@
+{
+  "examen": {
+    "id": "geografia-2015-S",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2015,
+    "convocatoria": "setembre",
+    "serie": "5",
+    "pdf_examen": "pdfs/geografia/2015-S-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2015-S-solucio.pdf",
+    "estructura": "Sèrie 5. Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun; total 10). Cada exercici parteix d'un document (plànol, gràfic o mapa) i té quatre qüestions amb la mateixa estructura: 1) descriure el document (1 punt), 2) definir dos termes (1 punt), 3) i 4) explicar, comentar o comparar segons un esquema (1,5 punts cadascuna). Opció A: exercici 1, plànol de la ciutat d'Àvila (trama urbana, nuclis antics i eixamples); exercici 2, climograma de Lleida (clima mediterrani continental i relació clima-vegetació). Opció B: exercici 1, mapa de la localització de la indústria a Catalunya per comarques (2002); exercici 2, piràmide de població d'Espanya a 1 de gener de 2013 (amb la població estrangera). Cada exercici és un element amb quatre apartats; la lletra final de l'id és l'opció (A/B). Les pautes valoren, a més dels continguts, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2015-S-e1-A",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "A",
+      "serie": "5",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Plànol d'Àvila: nucli antic emmurallat i eixamples, la morfologia urbana",
+      "tema": "ciutat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "plànol urbà",
+        "trama urbana",
+        "ciutat preindustrial",
+        "nucli antic",
+        "eixample",
+        "trama ortogonal",
+        "ciutat jardí",
+        "comentari de plànol"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        1,
+        2
+      ],
+      "text": "",
+      "enunciat": "Escolliu UNA de les dues opcions (A o B). Opció A. Exercici 1 [5 punts en total]. Observeu el plànol següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2015-S/e1-A.png",
+          "peu": "Plànol de la ciutat d'Àvila (plànol urbà antic en blanc i negre, amb escut, rosa dels vents, escala gràfica i llegenda d'itinerari turístic). A l'oest, el riu Adaja; el recinte emmurallat (línia negra gruixuda) tanca el nucli antic, de carrers estrets i irregulars i grans edificis (esglésies, convents, palaus) en gris fosc; al nord-est, l'est i el sud-est, eixamples de trama en quadrícula, amb carrers més amples i rectes i zones verdes. Font: Flickr [en línia]."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el plànol.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *trama urbana* i *ciutat jardí*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu les característiques de la trama urbana de les ciutats preindustrials d'acord amb l'esquema següent:\n\n- Trets morfològics propis de les ciutats preindustrials.\n- Objectius que persegueix la remodelació dels nuclis antics de les ciutats.\n- Esmenteu dues ciutats espanyoles que conservin barris històrics d'origen medieval, a part de la ciutat representada en el plànol.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Compareu la trama irregular dels nuclis antics de les ciutats amb la trama ortogonal dels eixamples, d'acord amb l'esquema següent:\n\n- Morfologia de la trama ortogonal.\n- Conseqüències de l'existència d'aquests dos tipus de trama urbana en la mobilitat.\n- Evolució de les funcions urbanes dels eixamples des del seu origen fins a l'actualitat.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts i segueix l'esquema habitual de Geografia: **1** descriure el document (1 punt), **2** definir dos termes (1 punt), **3** i **4** explicar el fenomen seguint l'esquema de la pregunta (1,5 punts cadascuna). Dedica-hi uns 40-45 minuts (és la meitat de l'examen).\n\n- A la **descripció** no s'expliquen causes: es diu quin document és, què representa, la data, la font i després es descriu la distribució o l'evolució **amb xifres**.\n- A les **definicions**, una o dues frases precises i un exemple.\n- A les preguntes 3 i 4, **segueix l'esquema punt per punt** (cada guió o lletra puntua per separat): un paràgraf per guió. Les pautes valoren l'ordre, la precisió, la terminologia geogràfica i la claredat, i tenen més en compte el que s'aporta que no pas el que es deixa de dir.\n\nAquí el document és un **plànol urbà**: el que cal llegir-hi és la **morfologia** (traçat dels carrers, mida de les illes, límits com la muralla o el riu) i distingir-hi les parts de la ciutat segons l'època en què es van construir."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta reparteix **0,75** per a la lectura del plànol i **0,25** per a la font.\n\n1. **Identificació**: plànol urbà de la ciutat d'Àvila (sense data; per l'estil és un plànol antic, de mitjan segle XX), amb escut, rosa dels vents, escala i llegenda d'un itinerari per visitar la ciutat.\n2. **Lectura de la morfologia**: dues grans parts. El **centre històric**, envoltat per la **muralla** (la línia negra gruixuda), amb carrers estrets, tortuosos i irregulars, illes petites i grans edificis singulars; i la **ciutat nova** que ha crescut fora muralla, sobretot cap a l'est, en forma d'**eixample** (quadrícula de carrers més amples i rectes, amb zones verdes).\n3. Altres elements: el riu Adaja a l'oest, que limita el creixement per aquest costat, i ravals i carrers irregulars als peus de la muralla (creixement espontani extramurs).\n4. **Font**: Flickr, portal de fotografies en línia (cal dir-ho: puntua 0,25)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El document és un **plànol urbà** de la ciutat d'**Àvila**, un plànol antic (probablement de mitjan segle XX) amb l'escut de la ciutat, una rosa dels vents, una escala gràfica i una llegenda que assenyala un itinerari per visitar-la. La font és el portal fotogràfic **Flickr**, és a dir, una informació obtinguda en línia.\n\nEl plànol permet distingir clarament dues parts. A l'oest, al costat del riu Adaja, hi ha el **centre històric**, envoltat per la **muralla** medieval, que dibuixa un recinte gairebé rectangular. A dins, la **trama és irregular**: carrers estrets i tortuosos, places petites i illes de forma i mida diverses, amb grans edificis (esglésies, convents i palaus) que ocupen illes senceres. Als peus de la muralla hi ha ravals de traçat també irregular, sorgits als camins d'accés. Fora muralla, sobretot cap al **nord-est, l'est i el sud-est**, s'estén la **ciutat nova**, que ha crescut en forma d'**eixample**: una **quadrícula** de carrers rectes i perpendiculars, més amples, que formen illes regulars, amb importants **zones verdes** i equipaments (un camp d'esports, parcs). El contrast entre les dues trames mostra les diferents etapes de creixement de la ciutat."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Trama urbana**: no confondre-la amb el plànol en general; és la *disposició* dels carrers, places i avingudes (i el dibuix que fan les illes). Es pot afegir la tipologia (irregular, ortogonal, radiocèntrica, lineal). **Ciutat jardí**: tipus de teixit residencial de **baixa densitat**, d'habitatges unifamiliars amb jardí, a la perifèria. Esmentar l'origen (Ebenezer Howard, finals del segle XIX) és un plus."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Trama urbana**: és la disposició del conjunt de carrers, places i avingudes d'una ciutat, és a dir, el dibuix que formen els espais públics i les illes de cases en el plànol. Pot ser irregular (com en els nuclis medievals), ortogonal o en quadrícula (com als eixamples), radiocèntrica o lineal.\n\n**Ciutat jardí**: teixit urbà residencial de baixa densitat format per habitatges unifamiliars, aïllats o en filera, sovint amb pati i jardí particular, que se sol localitzar a la perifèria de les ciutats. La idea prové del model que va proposar Ebenezer Howard a finals del segle XIX; en són exemples moltes urbanitzacions de les perifèries metropolitanes."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres guions, tres paràgrafs (0,5 cadascun segons la pauta):\n\n1. **Trets morfològics**: origen romà o medieval; plànol irregular, sense planificació de conjunt; carrers estrets i tortuosos, atzucacs; places petites; illes irregulars i edificació densa; creixement al voltant d'edificis principals (catedral, església, castell, palau); muralles que limitaven el creixement.\n2. **Objectius de la remodelació**: revertir la **degradació** (edificis vells, habitatges sense condicions d'habitabilitat, ocupats per població amb pocs recursos, envelliment, marginació); rehabilitar el patrimoni, esponjar (obrir places), millorar serveis i equipaments, atreure noves activitats i població. La pauta també esmenta la **gentrificació** com a procés associat (substitució de la població original per grups de rendes més altes).\n3. **Dues ciutats** amb barris medievals: per exemple Toledo, Salamanca, Girona, Còrdova, Granada, Zamora, Càceres, Santiago de Compostel·la... (qualsevol de pertinent)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**Trets morfològics.** Les ciutats preindustrials, sovint d'origen romà o medieval, tenen un **plànol irregular**, fruit d'un creixement lent i espontani, sense planificació de conjunt. Els carrers són **estrets i tortuosos**, amb atzucacs i places petites, i les illes són de forma i mida irregular, amb una edificació molt densa. La ciutat s'organitzava al voltant dels grans edificis religiosos i civils (catedral, esglésies, castell, palaus, mercat) i sovint estava envoltada per **muralles**, que en limitaven el creixement i obligaven a aprofitar l'espai intramurs; fora muralla creixien ravals al llarg dels camins.\n\n**Objectius de la remodelació dels nuclis antics.** Molts centres històrics han patit un procés de **degradació**: edificis i habitatges vells, amb males condicions d'habitabilitat, abandonats per les classes mitjanes i ocupats progressivament per població envellida, immigrant o de baix nivell econòmic, amb fenòmens de marginació social. La remodelació vol revertir aquest procés: **rehabilitar** els edificis i el patrimoni històric, **esponjar** la trama obrint places i espais lliures, millorar els serveis, els equipaments i l'accessibilitat, i atreure noves activitats (comerç, turisme, universitats) i nous residents. Un efecte que sovint l'acompanya és la **gentrificació**, és a dir, la substitució de la població original per grups de rendes més altes.\n\n**Exemples.** Conserven barris històrics d'origen medieval, per exemple, **Toledo** i **Salamanca** (i també Girona, amb el Barri Vell i el call jueu, Santiago de Compostel·la, Càceres o Còrdova)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres guions (0,5 cadascun):\n\n1. **Trama ortogonal**: pla de creixement de les ciutats industrials (des de mitjan segle XIX i al XX), planificat; carrers rectes, amples i perpendiculars que formen illes regulars, cosa que facilitava la parcel·lació i la venda de solars. Exemples: Eixample de Barcelona (Cerdà, 1859), barri de Salamanca a Madrid.\n2. **Mobilitat**: al nucli antic, carrers estrets i irregulars → dificultat per al trànsit rodat, illes de vianants, aparcament difícil; a l'eixample, carrers amples i rectes → circulació fluida de tota mena de vehicles, transport públic, però també més trànsit, soroll i contaminació.\n3. **Funcions dels eixamples**: origen residencial per a les **classes benestants**; avui, es manté la funció residencial, però les classes altes han marxat cap a zones més exclusives i molts pisos s'han convertit en **oficines**, comerços i serveis (terciarització) o són ocupats per població de poder adquisitiu més baix."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**Morfologia de la trama ortogonal.** La trama ortogonal o en quadrícula és el pla de creixement característic de les ciutats industrials, que s'inicia a mitjan segle XIX, quan s'enderroquen les muralles, i continua al segle XX. És un creixement **planificat**, amb un traçat geomètric de carrers **rectes, amples i perpendiculars** que formen illes regulars, cosa que facilitava la parcel·lació i la venda dels solars. L'exemple més conegut és l'Eixample de Barcelona, projectat per Ildefons Cerdà (1859), amb illes de xamfrans tallats; a Àvila, els eixamples de l'est del plànol en són una mostra.\n\n**Conseqüències en la mobilitat.** Els carrers estrets i irregulars dels nuclis antics **dificulten el trànsit de vehicles** i l'aparcament, i molts s'han convertit en **carrers de vianants** o d'accés restringit, amb el transport públic limitat als perímetres. En canvi, la geometria i l'amplada dels carrers dels eixamples **faciliten la circulació** de tot tipus de vehicles i el pas del transport públic, tot i que avui hi concentren molt de trànsit, amb problemes de congestió, soroll i contaminació.\n\n**Evolució de les funcions dels eixamples.** Els eixamples van ser concebuts inicialment amb una **funció residencial** orientada a les **classes benestants**, que hi van construir edificis de qualitat. Actualment conserven aquesta funció, però les classes benestants s'han traslladat a altres zones més exclusives de la ciutat o a la perifèria, i molts habitatges s'han transformat en **oficines**, despatxos, comerços i serveis (els eixamples són avui sovint el centre de negocis de la ciutat) o són ocupats per persones de poder adquisitiu més baix."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Plànol urbà: centre històric de carrers estrets i irregulars, envoltat per la muralla, i ciutat nova en forma d'eixample (quadrícula), amb carrers més amples i zones verdes (0,75). Font: portal Flickr, informació en línia (0,25)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Trama urbana: disposició del conjunt de carrers, places i avingudes d'una ciutat (0,5). Ciutat jardí: teixit de baixa densitat d'habitatges unifamiliars amb pati i jardí, a la perifèria (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Plànol irregular, carrers estrets i tortuosos, sense planificació, al voltant de grans edificis; sovint muralles (0,5). Revertir la degradació (habitatges vells, males condicions, població de baix nivell econòmic, marginació) i la gentrificació (0,5). Dues ciutats pertinents: Zamora, Toledo, Granada, Còrdova, Salamanca... (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Pla de creixement de les ciutats industrials des de mitjan segle XIX: traçat geomètric, carrers perpendiculars, amples i regulars, que facilita la parcel·lació (0,5). Nucli antic: dificulta el trànsit, carrers de vianants; eixample: facilita la circulació de vehicles (0,5). Origen residencial per a classes benestants; avui residencial, però les classes altes han marxat i molts habitatges són oficines o ocupats per gent de menys poder adquisitiu (0,5)."
+          }
+        ],
+        "nota": "Errors típics: a l'apartat 1, oblidar la font (puntua 0,25) o limitar-se a dir \"és un plànol d'Àvila\" sense distingir les dues trames. El plànol no porta data: no te l'inventis; pots dir que és un plànol antic. A l'apartat 3, el tercer guió demana ciutats **diferents** d'Àvila. A l'apartat 4 cal anar més enllà del cas d'Àvila i generalitzar (eixample de Barcelona). La pauta, al segon guió de l'apartat 3, parla de \"revertir els processos de degradació i gentrificació\": la gentrificació és més aviat una conseqüència de la rehabilitació que no pas un problema previ; explica-ho així."
+      }
+    },
+    {
+      "id": "geografia-2015-S-e2-A",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "5",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Climograma de Lleida: clima mediterrani continental i relació clima-vegetació",
+      "tema": "clima",
+      "temes_secundaris": [
+        "paisatges"
+      ],
+      "conceptes": [
+        "climograma",
+        "clima mediterrani continental",
+        "aridesa",
+        "índex de Gaussen",
+        "anticicló",
+        "marinada",
+        "regions biogeogràfiques",
+        "vegetació esclerofil·le"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "",
+      "enunciat": "Opció A. Exercici 2 [5 punts en total]. Observeu el gràfic següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2015-S/e2-A.png",
+          "peu": "Climograma de Lleida (203 m). Barres: precipitació mensual en mm (eix esquerre, 0-100); línia: temperatura mitjana mensual en °C (eix dret, 0-40; escala T = P/2). Valors aproximats llegits al gràfic: precipitació ≈19, 18, 28, 39, 47, 41, 17,5, 23, 32, 32, 30 i 28 mm (de gener a desembre; total ≈355 mm); temperatura ≈5,5, 8, 11, 14, 19, 22, 25, 24, 20, 15, 9 i 6 °C. Font: adaptació del gràfic del llibre d'O. Riba, O. de Bolòs, J. M. Panareda, J. Nuet i J. Gosàlbez, Geografia física dels Països Catalans (Ketres, 1979)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el gràfic.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *anticicló* i *marinada*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Comenteu les característiques climàtiques de Lleida a partir de les dades del climograma i d'acord amb l'esquema següent:\n\n**a)** Quins són els mesos àrids? Justifiqueu la resposta.\n\n**b)** A quin tipus climàtic correspon el climograma? Per què?\n\n**c)** Justifiqueu la influència de la situació geogràfica de Lleida sobre el seu clima.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Expliqueu les relacions que hi ha entre el clima i la vegetació d'acord amb l'esquema següent:\n\n- Elements del clima que condicionen més la vegetació i justificació de la resposta.\n- Relació de les tres regions biogeogràfiques presents a Catalunya amb els tres tipus de clima que les condicionen.\n- Condicions climàtiques sota les quals creix la vegetació de tipus perennifoli i esclerofil·le com l'alzinar.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts i segueix l'esquema habitual de Geografia: **1** descriure el document (1 punt), **2** definir dos termes (1 punt), **3** i **4** explicar el fenomen seguint l'esquema de la pregunta (1,5 punts cadascuna). Dedica-hi uns 40-45 minuts (és la meitat de l'examen).\n\n- A la **descripció** no s'expliquen causes: es diu quin document és, què representa, la data, la font i després es descriu la distribució o l'evolució **amb xifres**.\n- A les **definicions**, una o dues frases precises i un exemple.\n- A les preguntes 3 i 4, **segueix l'esquema punt per punt** (cada guió o lletra puntua per separat): un paràgraf per guió. Les pautes valoren l'ordre, la precisió, la terminologia geogràfica i la claredat, i tenen més en compte el que s'aporta que no pas el que es deixa de dir.\n\nEn un **climograma**, l'escala de la temperatura és la meitat de la de la precipitació (40 °C a l'altura de 80 mm): quan la barra de precipitació queda per sota de la línia de temperatura, el mes és **àrid** (P < 2T, criteri de Gaussen). Llegeix els valors i fes els càlculs bàsics (total anual, mitjana, amplitud tèrmica)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta: **0,5** per identificar el gràfic i **0,5** per descriure'n les dades.\n\n1. **Identificació**: climograma (gràfic que representa alhora temperatures i precipitacions d'un lloc); temperatura mitjana mensual (°C) en línia, eix dret; precipitació mensual (mm) en barres, eix esquerre; mesos a l'eix horitzontal; Lleida, 203 m d'altitud; font: Riba i altres, 1979.\n2. **Descripció**: temperatures (màxim al juliol-agost, mínim al desembre-gener, amplitud gran) i precipitacions (escasses; màxim a la primavera, sobretot al maig, i un de secundari a la tardor; mínim a l'estiu, al juliol), amb xifres."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Valors llegits mesurant el gràfic (≈, el gràfic no dona xifres):\n\n| Mes | P (mm) | T (°C) | 2T | Àrid (P < 2T) |\n|---|---|---|---|---|\n| Gener | ≈19 | ≈5,5 | 11 | no |\n| Febrer | ≈18 | ≈8 | 16 | no |\n| Març | ≈28 | ≈11 | 22 | no |\n| Abril | ≈39 | ≈14 | 28 | no |\n| Maig | ≈47 | ≈19 | 38 | no |\n| Juny | ≈41 | ≈22 | 44 | **sí** |\n| Juliol | ≈17,5 | ≈25 | 50 | **sí** |\n| Agost | ≈23 | ≈24 | 48 | **sí** |\n| Setembre | ≈32 | ≈20 | 40 | **sí** |\n| Octubre | ≈32 | ≈15 | 30 | no (just) |\n| Novembre | ≈30 | ≈9 | 18 | no |\n| Desembre | ≈28 | ≈6 | 12 | no |\n\n- Precipitació total anual ≈ 19 + 18 + 28 + 39 + 47 + 41 + 17,5 + 23 + 32 + 32 + 30 + 28 ≈ **355 mm**.\n- Temperatura mitjana anual ≈ suma de les 12 mitjanes / 12 ≈ 178,5 / 12 ≈ **15 °C**.\n- Amplitud tèrmica anual = T del mes més càlid − T del mes més fred ≈ 25 − 5,5 ≈ **19,5 °C** (≈20 °C, com diu la pauta)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El document és un **climograma** de **Lleida**, situada a 203 m d'altitud: un gràfic que representa simultàniament les temperatures i les precipitacions d'un lloc al llarg de l'any. Les **temperatures mitjanes mensuals**, en graus centígrads (eix vertical dret), es representen amb una **línia**, i les **precipitacions mensuals**, en mil·límetres (eix vertical esquerre), amb un **diagrama de barres**; els mesos de l'any són a l'eix horitzontal. L'escala de temperatures és la meitat de la de precipitacions. La font és el llibre d'O. Riba i altres, *Geografia física dels Països Catalans* (1979).\n\nLa línia de temperatures dibuixa una corba amb els valors **màxims al juliol (≈25 °C) i a l'agost (≈24 °C)** i els **mínims al gener i al desembre (≈5-6 °C)**: hi ha, per tant, una **amplitud tèrmica anual acusada**, d'uns 20 °C, i una mitjana anual d'uns 15 °C. Les precipitacions són **escasses** (≈355 mm anuals) i irregulars: el màxim és a la **primavera**, sobretot al **maig (≈47 mm)**, amb un segon màxim més suau a la **tardor** (≈32 mm al setembre i l'octubre); el **mínim és a l'estiu**, especialment al **juliol (≈17 mm)**, i l'hivern també és sec (≈18-19 mm al gener i al febrer)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Anticicló**: centre d'**altes pressions** → aire que **descendeix**, s'escalfa i s'asseca → temps estable, sense precipitacions (a l'hivern, boires i inversió tèrmica a la Depressió Central). Exemple: anticicló de les Açores. **Marinada**: vent local, brisa de **mar cap a terra** durant el **dia**, per l'escalfament més ràpid de la terra (baixes pressions) que del mar."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Anticicló**: zona d'**altes pressions** atmosfèriques en què l'aire descendeix, s'escalfa i s'asseca, i que dona lloc a un temps **estable**, assolellat i sense precipitacions (a l'hivern, sovint amb boires i gebrades a les zones baixes de l'interior, com la plana de Lleida). Un exemple és l'anticicló de les Açores, que a l'estiu domina el clima de Catalunya.\n\n**Marinada**: vent o **brisa** que bufa **de mar cap a terra durant el dia**, sobretot a l'estiu. Es produeix perquè la terra s'escalfa més de pressa que el mar i s'hi formen baixes pressions relatives que atreuen l'aire més fresc i humit del mar; a la nit s'inverteix (terral)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta: **a) 0,5**, **b) 0,75**, **c) 0,25**.\n\n**a)** Mesos àrids = aquells en què **P < 2T** (al gràfic, la barra queda per sota de la línia): **juny, juliol, agost i setembre** (vegeu la taula de càlculs; l'octubre queda just al límit).\n\n**b)** **Mediterrani continental** (o d'interior): aridesa estival i precipitacions escasses la resta de l'any (mediterrani); hiverns freds (≈5 °C), estius calorosos (≈25 °C) i amplitud tèrmica de ≈20 °C (continentalitat). També precipitacions baixes i màxims equinoccials, sobretot de primavera.\n\n**c)** Situació: a la **Depressió Central**, lluny del mar, i separada del Mediterrani per les **serralades Prelitoral i Litoral**, que fan de barrera a la influència marina (que suavitza temperatures i aporta humitat). Afegir: la plana tancada afavoreix les inversions tèrmiques i les boires d'hivern."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a) Mesos àrids.** Segons el criteri de Gaussen, un mes és àrid quan la precipitació (en mm) és inferior al doble de la temperatura mitjana (en °C); en el climograma, com que l'escala de temperatures és la meitat de la de precipitacions, ho són els mesos en què la barra de precipitació queda **per sota de la línia de temperatura**. A Lleida són àrids els mesos de **juny a setembre**: per exemple, al juliol cauen uns 17 mm, molt per sota dels 50 que correspondrien al doble dels 25 °C de mitjana, i a l'agost uns 23 mm davant de 48. És una **aridesa estival** de quatre mesos.\n\n**b) Tipus climàtic.** El climograma correspon al **clima mediterrani**, perquè presenta **aridesa a l'estiu** i precipitacions escasses i irregulars la resta de l'any (uns 355 mm anuals), amb màxims als equinoccis, sobretot a la primavera. Dins del clima mediterrani, és la varietat **continental o d'interior**: les temperatures són **fredes a l'hivern** (al voltant de 5 °C al gener i al desembre) i **caloroses a l'estiu** (al voltant de 25 °C al juliol i l'agost), amb una **amplitud tèrmica de prop de 20 °C**, molt superior a la de les zones litorals.\n\n**c) Influència de la situació geogràfica.** La continentalitat del clima de Lleida s'explica per la seva situació a la **Depressió Central**, a una certa **distància del mar**, i sobretot per la presència de les **serralades Prelitoral i Litoral**, que formen una barrera muntanyosa que impedeix l'entrada de la influència moderadora i humida del Mediterrani. A més, la plana tancada afavoreix a l'hivern les **inversions tèrmiques** i les **boires** persistents, i a l'estiu un fort escalfament."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta: primer guió **0,5**, segon **0,75**, tercer **0,25**.\n\n1. **Elements**: **precipitació** (l'aigua disponible: vegetació de clima humit o sec) i **temperatura** (cada espècie té uns límits de calor i de fred; el període vegetatiu). Es pot afegir la combinació d'ambdós (aridesa, evapotranspiració) i la llum o el vent com a secundaris.\n2. **Tres regions biogeogràfiques**: **mediterrània** ↔ clima mediterrani → vegetació perennifòlia i esclerofil·le (alzinar, garriga, màquia); **eurosiberiana o medioeuropea** ↔ clima temperat humit (oceànic o continental, de muntanya mitjana) → bosc caducifoli (roureda, fageda) i prats; **boreoalpina** ↔ clima d'alta muntanya, molt fred → coníferes (pi negre, avet) i prats alpins.\n3. **Alzinar**: clima mediterrani: hiverns suaus, estius càlids i **secs**; fulles perennes, petites, dures i coriàcies per reduir la transpiració durant la **sequera estival**."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**Elements del clima que condicionen més la vegetació.** Els elements climàtics que influeixen més en la vegetació són la **precipitació** i la **temperatura**. Les precipitacions proporcionen l'aigua necessària per a la vida de les plantes, de manera que la vegetació d'un lloc canvia segons si el clima és humit (boscos densos, caducifolis) o sec (vegetació adaptada a la sequera, matollars). La temperatura condiciona el desenvolupament vegetal i la durada del període vegetatiu: hi ha plantes adaptades als climes molt freds i d'altres als molt calorosos, i les glaçades limiten l'existència de moltes espècies. La combinació de tots dos elements (l'aridesa) és decisiva.\n\n**Regions biogeogràfiques i climes.** A Catalunya hi ha tres regions biogeogràfiques. La **regió mediterrània**, la més extensa, associada al **clima mediterrani**, té una vegetació **perennifòlia i esclerofil·le** (alzinars, pinedes, garrigues i màquies). La **regió eurosiberiana o medioeuropea**, associada al **clima temperat humit** (oceànic o continental) de la muntanya mitjana pirinenca i prepirinenca i d'algunes zones humides del nord-est, té una vegetació **caducifòlia** (rouredes, fagedes) i prats. I la **regió boreoalpina**, a l'**alta muntanya** del Pirineu, de **clima molt fred** i amb innivació llarga, té boscos de coníferes (pi negre, avet) i, per sobre del límit del bosc, **prats alpins**.\n\n**Condicions de la vegetació perennifòlia i esclerofil·le.** L'alzinar és propi del **clima mediterrani**: hiverns suaus, sense glaçades intenses, i **estius càlids i secs**. Les seves fulles perennes, petites, dures i coriàcies (esclerofil·les) estan adaptades a la **sequera estival** perquè redueixen la pèrdua d'aigua per transpiració."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Climograma: temperatures mitjanes mensuals (°C) en línia i precipitacions mensuals (mm) en barres; mesos a l'eix horitzontal; font Riba i altres, 1979 (0,5). Temperatures màximes al juliol i l'agost i mínimes al desembre i gener, amb diferència acusada; precipitacions màximes a la primavera i mínimes a l'estiu (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Anticicló: zona d'altes pressions d'aire descendent, temps estable sense precipitacions (0,5). Marinada: vent o brisa de mar cap a terra durant el dia (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Àrids de juny a setembre: P < 2T (la barra queda per sota de la línia) (0,5). b) Mediterrani per l'aridesa estival i la precipitació escassa; hiverns ≈5 °C, estius ≈25 °C, amplitud ≈20 °C → varietat continental o d'interior (0,75). c) Llunyania del mar i barrera de les serralades Prelitoral i Litoral (0,25)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Precipitacions (aigua disponible) i temperatura (adaptació al fred o la calor) (0,5). Regió mediterrània – clima mediterrani – perennifòlia i esclerofil·le; eurosiberiana o medioeuropea – clima temperat (oceànic o continental) – caducifòlia; boreoalpina – alta muntanya, clima molt fred (0,75). L'alzinar, propi del clima mediterrani, adaptat a la sequera estival (0,25)."
+          }
+        ],
+        "nota": "Els valors de precipitació i temperatura no surten rotulats al gràfic: s'han estimat mesurant les barres i la línia en píxels contra les escales (marcats amb ≈). Comprova sempre que l'escala de temperatura és la meitat de la de precipitació abans d'aplicar \"barra per sota de la línia = mes àrid\". Errors típics: a l'apartat 1, explicar ja el tipus de clima (va a l'apartat 3); a 3b, dir només \"mediterrani\" sense la varietat continental, que és el que justifica l'amplitud tèrmica; confondre la marinada (de dia, mar → terra) amb el terral (de nit, terra → mar). L'octubre queda just al límit (≈32 mm davant ≈30): la pauta no el considera àrid."
+      }
+    },
+    {
+      "id": "geografia-2015-S-e1-B",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "B",
+      "serie": "5",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa de la localització de la indústria a Catalunya per comarques: sectors, polígons i tendències",
+      "tema": "industria",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "indústria a Catalunya",
+        "establiments industrials",
+        "logística",
+        "sòl industrial",
+        "parcs científics i tecnològics",
+        "polígons industrials",
+        "deslocalització",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3,
+        4
+      ],
+      "text": "",
+      "enunciat": "Escolliu UNA de les dues opcions (A o B). Opció B. Exercici 1 [5 punts en total]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2015-S/e1-B.png",
+          "peu": "Localització de la indústria a Catalunya: mapa de coropletes per comarques del total d'establiments industrials, amb cinc intervals: menys de 300 (gris molt clar), de 300 a 1.000 (ratllat vertical), de 1.001 a 2.000 (gris fosc), de 2.001 a 8.000 (trama de punts) i més de 8.000 (negre). Escala gràfica de 0-40 km i fletxa del nord. Font: adaptació del mapa de l'Atles nacional de Catalunya, elaborat per l'Institut Cartogràfic de Catalunya a partir de dades de l'Idescat, 2002."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *logística* i *sòl industrial*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu les causes de la distribució geogràfica de la indústria a Catalunya d'acord amb l'esquema següent:\n\n**a)** Esmenteu, com a mínim, tres dels sectors industrials més importants i digueu on estan situats.\n\n**b)** Què són els parcs científics i tecnològics? On se situen habitualment?",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Comenteu les característiques de la indústria catalana d'acord amb l'esquema següent:\n\n- Característiques actuals del sector industrial català.\n- Tipologies de polígons industrials existents.\n- Canvis i tendències en el model industrial.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts i segueix l'esquema habitual de Geografia: **1** descriure el document (1 punt), **2** definir dos termes (1 punt), **3** i **4** explicar el fenomen seguint l'esquema de la pregunta (1,5 punts cadascuna). Dedica-hi uns 40-45 minuts (és la meitat de l'examen).\n\n- A la **descripció** no s'expliquen causes: es diu quin document és, què representa, la data, la font i després es descriu la distribució o l'evolució **amb xifres**.\n- A les **definicions**, una o dues frases precises i un exemple.\n- A les preguntes 3 i 4, **segueix l'esquema punt per punt** (cada guió o lletra puntua per separat): un paràgraf per guió. Les pautes valoren l'ordre, la precisió, la terminologia geogràfica i la claredat, i tenen més en compte el que s'aporta que no pas el que es deixa de dir.\n\nEl mapa és de **coropletes** per comarques i representa el **nombre absolut d'establiments**, no la densitat ni l'ocupació: una comarca gran i poc poblada pot tenir pocs establiments sense ser poc industrial en termes relatius. A l'apartat 3a la pauta dona **1 punt** (tres sectors amb la seva localització): és la part que val més de tota la pregunta."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta: **0,25** per a la identificació i **0,75** per a la distribució (la part important!).\n\n1. **Identificació**: mapa temàtic de coropletes de Catalunya per comarques; variable: total d'establiments industrials; cinc intervals (menys de 300; 300-1.000; 1.001-2.000; 2.001-8.000; més de 8.000); font: Atles nacional de Catalunya (ICC, dades Idescat), 2002.\n2. **Distribució**, de més a menys, en anells al voltant de Barcelona:\n   - més de 8.000: **Vallès Occidental** i **Barcelonès**;\n   - 2.001-8.000: la resta de la primera corona metropolitana (**Baix Llobregat, Vallès Oriental, Maresme**);\n   - 1.001-2.000: una segona corona de comarques de la Catalunya central i gironines (**Bages, Osona, Anoia, Alt Penedès, la Selva, el Gironès**) i, aïllat a ponent, el **Segrià**;\n   - 300-1.000: comarques del litoral i prelitoral (Garraf, Penedès, Camp de Tarragona, Empordà...) i de l'entorn del Segrià;\n   - menys de 300: el Pirineu, el Prepirineu i les comarques de l'interior de Lleida i de les Terres de l'Ebre."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic de coropletes** de Catalunya que representa, per **comarques**, el **nombre total d'establiments industrials**, agrupat en cinc intervals: menys de 300, de 300 a 1.000, de 1.001 a 2.000, de 2.001 a 8.000 i més de 8.000. Les dades són del **2002** i la font és l'**Atles nacional de Catalunya**, elaborat per l'Institut Cartogràfic de Catalunya a partir de dades de l'Idescat.\n\nLa distribució és molt **desequilibrada** i forma anells al voltant de Barcelona. Les comarques amb més establiments (més de 8.000) són el **Vallès Occidental** i el **Barcelonès**, al cor de la **regió metropolitana**. Les envolta la resta de la primera corona metropolitana, amb entre 2.001 i 8.000 establiments (**Baix Llobregat, Vallès Oriental i Maresme**). Hi ha després una segona corona de comarques també industrials (1.001-2.000 establiments), algunes de la **Catalunya central** (Bages, Osona, Anoia, Alt Penedès) i de les **comarques gironines** (la Selva, el Gironès), i, aïllat a l'oest, destaca el **Segrià**. Un altre grup de comarques del **litoral i el prelitoral** (Garraf, Baix Penedès, Camp de Tarragona, Empordà) i de l'entorn del Segrià té entre 300 i 1.000 establiments. Finalment, les comarques del **Pirineu i el Prepirineu**, de l'interior de Ponent i de les **Terres de l'Ebre** en tenen menys de 300."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Logística**: conjunt d'activitats de planificació i gestió de les **compres, l'emmagatzematge, el transport i la distribució** de mercaderies, per **optimitzar costos i temps**. Exemple: plataformes logístiques de la Zona Franca o del Port de Barcelona. **Sòl industrial**: qualificació urbanística del sòl que el **planejament** reserva per a activitats econòmiques (indústria i també terciari)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Logística**: conjunt d'activitats d'una empresa dedicades a la planificació i la gestió de les compres, l'**emmagatzematge**, el manteniment, el **transport** i la **distribució** dels seus productes fins al punt de venda. L'objectiu és **optimitzar els costos i el temps**. Les grans plataformes logístiques se situen a prop de nusos de comunicació, com la Zona d'Activitats Logístiques (ZAL) del Port de Barcelona.\n\n**Sòl industrial**: tipus de sòl previst en el **pla urbanístic** (planejament municipal) que permet la instal·lació d'activitats econòmiques, tant industrials com del sector terciari; sol concentrar-se en polígons industrials amb els serveis i els accessos necessaris."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta: **a) 1 punt** (cal esmentar com a mínim **tres** sectors amb la localització), **b) 0,5**.\n\na) Sectors i localització:\n- **Automoció** i components del transport → **regió metropolitana de Barcelona** (Martorell, Zona Franca), la zona més diversificada.\n- **Química i petroquímica** → **Camp de Tarragona** (Tarragonès, Baix Camp), segona àrea industrial, molt concentrada (port, refineria).\n- **Agroalimentària** i maquinària agrícola → **Segrià** (àrea urbana de Lleida), principal zona industrial de l'interior; també Osona (càrnia).\n- **Tèxtil** → eixos fluvials del **Llobregat i el Ter** (colònies industrials, avui patrimoni) i Vallès.\n\nb) Parcs científics i tecnològics: espais que allotgen **empreses i centres de recerca** que cooperen en R+D+i; a prop de les **universitats** i grans centres d'investigació (Parc Científic de Barcelona, 22@, Parc de l'Alba a Cerdanyola, Parc Tecnològic del Vallès...)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a) Principals sectors industrials i localització.**\n\nEl sector de l'**automoció** i dels components del transport, amb totes les indústries auxiliars associades, es localitza a l'**àrea metropolitana de Barcelona** (per exemple, la fàbrica de SEAT a Martorell i a la Zona Franca). És el territori que concentra més empreses i les activitats industrials més diverses, gràcies al mercat, la mà d'obra qualificada, les infraestructures (port, aeroport, autopistes) i les economies d'aglomeració.\n\nLa indústria **química i petroquímica** es localitza al **Camp de Tarragona** (Tarragonès i Baix Camp), la segona àrea industrial de Catalunya, molt concentrada al voltant del port i de la refineria.\n\nLa indústria **agroalimentària**, juntament amb la fabricació de maquinària i accessoris agrícoles, es concentra a l'**àrea urbana de Lleida i el Segrià**, la principal zona industrial de la Catalunya interior, gràcies a la producció agrària de regadiu i ramadera del seu entorn.\n\nEl sector **tèxtil** encara té una certa presència als **eixos fluvials del Llobregat i del Ter**, on es va instal·lar al segle XIX per aprofitar l'energia hidràulica; les antigues **colònies industrials** són avui un patrimoni important, però la majoria ja no tenen activitat.\n\n**b) Parcs científics i tecnològics.** Són instal·lacions que allotgen **empreses innovadores i centres de recerca** que cooperen en la investigació i el desenvolupament de nous productes i processos (R+D+i). Se situen habitualment a les **immediacions de les universitats** i dels grans centres d'investigació, com el Parc Científic de Barcelona o el Parc de Recerca de la UAB a Cerdanyola del Vallès."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres guions (0,5 cadascun):\n\n1. **Característiques actuals**: estructura **diversificada** (material de transport i química com a grans subsectors; alimentació, maquinària, metal·lúrgia i productes metàl·lics); domini de la **indústria transformadora** (poc pes de l'extractiva i l'energètica); **pimes** (més del 80 %), tot i que la producció depèn molt de les grans; **productivitat** per sobre de la mitjana espanyola però per sota de la UE, per la poca inversió en **R+D** i en formació.\n2. **Tipologies de polígons**: de transformació de matèries primeres; semiindustrials o tecnològics (indústria + R+D); logístics; mixtos (tendència actual), que es coneixen com a zones o sectors d'activitat econòmica.\n3. **Canvis i tendències**: obertura als mercats europeu i mundial; **deslocalització** selectiva cap a països perifèrics; evolució positiva dels sectors metal·lúrgic, de maquinària, agroalimentari i químic; més presència de **multinacionals**; es pot afegir la difusió de la indústria cap a les segones corones i la terciarització."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**Característiques actuals.** La indústria catalana té una **estructura productiva diversificada**, amb dos grans subsectors, el de **material de transport** i el **químic**, i altres de destacats com l'**alimentari**, el de la maquinària, la metal·lúrgia i els productes metàl·lics. Hi domina la **indústria transformadora**, seguint una tendència històrica, amb poc pes de les activitats extractives i energètiques. Predomina l'empresa **petita i mitjana**: més del 80 % de les empreses industrials són pimes, tot i que una part molt significativa de la producció prové de les empreses grans. La **productivitat** supera la mitjana espanyola, però encara és inferior a la de la Unió Europea, a causa del poc pes de la inversió en **recerca i desenvolupament** i en la formació dels treballadors.\n\n**Tipologies de polígons industrials.** Els polígons són diversos segons les activitats que hi trobem: polígons especialitzats en la **transformació de matèries primeres**; polígons **semiindustrials o tecnològics**, que a més de fabricar fan recerca i desenvolupament; i polígons **logístics**, dedicats a l'emmagatzematge i la distribució. Per aquesta diversitat, sovint es parla de **zones o sectors d'activitat econòmica**. La tendència actual és la creació de **polígons mixtos**, que agrupen empreses molt diverses i ofereixen un ampli ventall d'activitats i serveis associats.\n\n**Canvis i tendències.** En els darrers anys, la indústria catalana s'ha **obert als mercats europeu i mundial**, i ha crescut l'exportació. Algunes indústries, sobretot les intensives en mà d'obra (tèxtil, components), s'han **deslocalitzat** cap a països perifèrics amb costos més baixos. Els sectors metal·lúrgic, de maquinària, agroalimentari i químic han tingut una evolució positiva, i ha augmentat la presència d'**empreses multinacionals**. Territorialment, la indústria s'ha **difós** des de Barcelona cap a la segona corona metropolitana i les comarques veïnes, mentre que a la ciutat central les antigues zones industrials s'han reconvertit en espais terciaris i tecnològics, com el districte 22@ del Poblenou."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa temàtic de Catalunya per comarques, cinc categories segons el nombre d'establiments industrials, font Atles nacional de Catalunya, dades del 2002 (0,25). Màxim a la regió metropolitana (Vallès Occidental i Barcelonès); corona d'altres comarques industrials (Catalunya central, gironines, Segrià); grup del litoral, el prelitoral i l'entorn del Segrià (0,75)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Logística: planificació i gestió de compres, emmagatzematge, manteniment, transport i distribució per optimitzar costos i temps (0,5). Sòl industrial: sòl previst al pla urbanístic per a activitats econòmiques, industrials i terciàries (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Com a mínim tres sectors amb localització: automoció i components (àrea metropolitana de Barcelona); química i petroquímica (Baix Camp i Tarragonès); agroalimentària i maquinària agrícola (Lleida i Segrià); tèxtil (eixos del Llobregat i el Ter, colònies) (1). b) Instal·lacions amb empreses i centres de recerca que cooperen en R+D, a prop d'universitats i grans centres d'investigació (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Estructura diversificada (transport i química), domini de la indústria transformadora, pimes (>80 %), productivitat per sobre de l'estatal però sota la UE per poca R+D i formació (0,5). Polígons de transformació, semiindustrials amb R+D, logístics; tendència als mixtos (0,5). Obertura als mercats, deslocalització selectiva, evolució positiva de metal·lúrgia, maquinària, agroindústria i química, més multinacionals (0,5)."
+          }
+        ],
+        "nota": "El mapa no posa el nom de les comarques: identifica-les per la forma i la posició (Vallès Occidental i Barcelonès en negre; Segrià, la taca fosca aïllada a l'oest). Recorda que es tracta de valors **absoluts** (nombre d'establiments): si en vols parlar de pes relatiu, cal dir que caldria relacionar-los amb la població o la superfície. Errors típics: posar causes a l'apartat 1 (van a l'apartat 3); a 3a, esmentar sectors sense localització o menys de tres (la pauta exigeix tots dos per a l'1 punt); a 4, barrejar els tres guions. Curiositat: el Camp de Tarragona, segona àrea industrial pel valor de la producció química, surt al mapa només entre 300 i 1.000 establiments, perquè són poques empreses però molt grans; és un bon detall per comentar."
+      }
+    },
+    {
+      "id": "geografia-2015-S-e2-B",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "5",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Piràmide de població d'Espanya (2013): estructura per sexe, immigració i envelliment",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "piràmide d'edats",
+        "piràmide regressiva",
+        "índex de masculinitat",
+        "taxa de dependència",
+        "immigració",
+        "envelliment",
+        "fecunditat",
+        "esperança de vida"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció B. Exercici 2 [5 punts en total]. Observeu el gràfic següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2015-S/e2-B.png",
+          "peu": "Piràmide de població d'Espanya (1 de gener de 2013): percentatge de la població total per grups quinquennals d'edat (de 0-4 a 85 i més anys), homes a l'esquerra i dones a la dreta (eix horitzontal en %, de 0 a 4 %). Cada barra distingeix la població espanyola (gris clar) i l'estrangera (gris fosc, a tocar de l'eix central). Els grups més nombrosos són els de 30-49 anys (≈3,8-4 % per sexe); la base (0-4 anys) fa ≈2,3-2,6 %; els estrangers es concentren entre els 20 i els 49 anys. Font: Institut Nacional d'Estadística (INE), España en cifras 2014."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el gràfic.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *índex de masculinitat* i *taxa de dependència*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu les causes possibles de les diferències que observem a la piràmide respecte a la proporció entre la població masculina i la femenina en els grups d'edat següents:\n\n**a)** De 0 a 4 anys.\n\n**b)** La població estrangera de 20 a 45 anys.\n\n**c)** Més de 65 anys.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Exposeu les característiques actuals del model demogràfic propi d'un país desenvolupat com Espanya en relació amb els indicadors següents:\n\n- Natalitat, fecunditat i mortalitat.\n- Efectes demogràfics i socioeconòmics dels fluxos d'immigrants que han arribat en els darrers anys.\n- Conseqüències socioeconòmiques de la tendència a l'envelliment actual de la població d'Espanya.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts i segueix l'esquema habitual de Geografia: **1** descriure el document (1 punt), **2** definir dos termes (1 punt), **3** i **4** explicar el fenomen seguint l'esquema de la pregunta (1,5 punts cadascuna). Dedica-hi uns 40-45 minuts (és la meitat de l'examen).\n\n- A la **descripció** no s'expliquen causes: es diu quin document és, què representa, la data, la font i després es descriu la distribució o l'evolució **amb xifres**.\n- A les **definicions**, una o dues frases precises i un exemple.\n- A les preguntes 3 i 4, **segueix l'esquema punt per punt** (cada guió o lletra puntua per separat): un paràgraf per guió. Les pautes valoren l'ordre, la precisió, la terminologia geogràfica i la claredat, i tenen més en compte el que s'aporta que no pas el que es deixa de dir.\n\nUna **piràmide d'edats** es comenta de baix a dalt (base = natalitat recent, cim = vellesa) i separant **forma per edats** i **diferències per sexe**. Aquesta té una particularitat: distingeix **espanyols i estrangers**, i les preguntes 1 i 3 hi fan referència."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Pauta: **0,25** per a la identificació i **0,75** per a la lectura (edats + sexes + estrangers).\n\n1. **Identificació**: piràmide de població d'Espanya a 1-1-2013; estructura per edat (grups quinquennals, eix vertical) i sexe (homes a l'esquerra, dones a la dreta); eix horitzontal en % de la població total; distingeix espanyols i estrangers; font INE, *España en cifras 2014*.\n2. **Per edats**: forma **regressiva** (base més estreta que el centre) → població envellida; adults (15-64) majoritaris, amb el màxim als **35-39 anys** (generació del *baby boom*, nascuts 1974-78); lleugera recuperació a 5-14 anys i nova reducció a 0-4 (crisi del 2008); osca a **70-74 anys** (nascuts 1936-1940, Guerra Civil); cim ample (envelliment).\n3. **Estrangers**: concentrats en edats adultes joves (20-49), escassos entre la gent gran; a 0-4 anys, el seu pes augmenta.\n4. **Per sexes**: més homes a la base i fins als 55-59 anys aproximadament; a partir d'aquí, i sobretot a les edats avançades, predominen clarament les dones."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Valors estimats mesurant les barres contra l'escala (≈; el gràfic no rotula xifres):\n\n| Indicador | Càlcul | Resultat |\n|---|---|---|\n| Índex de masculinitat 0-4 anys | H / D × 100 ≈ 2,6 / 2,3 × 100 | ≈ 110 (real ≈ 106) |\n| Índex de masculinitat estrangers 20-44 anys | (0,5 + 0,7 + 0,9 + 0,9 + 0,8) / (0,4 + 0,6 + 0,7 + 0,6 + 0,5) × 100 ≈ 3,85 / 2,79 × 100 | ≈ 138 |\n| Índex de masculinitat 65 anys i més | ≈ 7,7 / 10,4 × 100 | ≈ 74 |\n| Índex de masculinitat 85 anys i més | ≈ 0,8 / 1,8 × 100 | ≈ 46 |\n| Població de 0-14 anys | suma dels 3 primers grups (H + D) | ≈ 15 % |\n| Població de 65 anys i més | suma dels 5 darrers grups (H + D) | ≈ 18 % |\n| Taxa de dependència | (0-14 + ≥ 65) / (15-64) × 100 ≈ 33 / 64 × 100 | ≈ 52 % |\n| Població estrangera | suma de les barres fosques | ≈ 12-13 % |\n\nFórmules: índex de masculinitat = homes / dones × 100; taxa de dependència = (població de 0-14 anys + població de 65 anys i més) / població de 15-64 anys × 100."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El document és una **piràmide de població d'Espanya** a **1 de gener de 2013**, que representa l'estructura de la població per **grups d'edat** quinquennals (eix vertical) i per **sexe** (homes a l'esquerra, dones a la dreta). L'eix horitzontal indica el **percentatge** de cada grup sobre la població total. Cada barra distingeix, a més, la **població espanyola** i la **població estrangera** (la part més fosca, a tocar del centre). La font és l'**Institut Nacional d'Estadística** (INE), *España en cifras 2014*.\n\nPel que fa a l'edat, la piràmide té una forma **regressiva** o de bulb: la base és més estreta que la part central, cosa que indica una **població envellida**. Els grups predominants són els **adults** (15-64 anys), sobretot els de **30 a 49 anys**, que arriben a prop del 4 % per sexe (el màxim és als 35-39 anys, la generació del *baby boom*). A la base, els grups de 5 a 14 anys mostren una lleugera recuperació de la natalitat, però el de **0 a 4 anys** torna a estretir-se pels efectes de la crisi econòmica iniciada el 2007-2008. Els menors de 15 anys són només un ≈15 % del total, mentre que els de 65 anys i més en són un ≈18 %. S'observa també una **osca** al grup de **70-74 anys**, corresponent als nascuts durant la **Guerra Civil** (1936-1940).\n\nLa **població estrangera** (≈12 % del total) es concentra en les **edats adultes i joves**, entre els 20 i els 49 anys, i és escassa entre la gent gran; al grup de 0 a 4 anys, en canvi, el seu pes augmenta respecte als grups de 5 a 19.\n\nPel que fa al sexe, a la base hi ha **més nens que nenes**, i la població masculina és superior, a grans trets, fins a la franja dels 55-59 anys; a partir d'aquí **predominen clarament les dones**, sobretot a les edats més avançades (a partir dels 85 anys hi ha més del doble de dones que d'homes)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Definició + fórmula + interpretació:\n\n- **Índex (o relació) de masculinitat** = homes / dones × 100: nombre d'homes per cada 100 dones (> 100, més homes). La pauta accepta també altres definicions que expressin la proporció d'homes i dones.\n- **Taxa de dependència** = (menors de 15 + 65 i més) / població de 15-64 × 100: relació entre la població en edat dependent (joves i vells) i la població adulta; com més alta, més càrrega per a la població en edat activa."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Índex de masculinitat**: nombre d'homes per cada 100 dones d'una població o d'un grup d'edat (homes / dones × 100). Un valor superior a 100 indica que hi ha més homes que dones; a Espanya és superior a 100 en néixer i baixa molt en les edats avançades.\n\n**Taxa de dependència**: relació entre la població en edat de dependre econòmicament dels altres, els joves (menors de 15 anys) i les persones grans (65 anys i més), i la població adulta (de 15 a 64 anys). S'expressa en percentatge: (joves + vells) / adults × 100. Una taxa elevada indica que hi ha poca població adulta en relació amb la dependent; a Espanya el 2013 era al voltant del 50 %."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres lletres, tres paràgrafs (0,5 cadascuna). Cal **explicar causes**, no repetir la descripció:\n\n- **a) 0-4 anys**: lleuger predomini de nens per una **causa biològica**: neixen uns 105-106 nens per cada 100 nenes (la pauta: 512 nens i 488 nenes de cada 1.000 naixements).\n- **b) Estrangers de 20-45 anys**: predomini masculí per la **immigració econòmica**, en què sovint emigren primer els homes (Magrib, Àfrica subsahariana, Romania, la Xina, part d'Amèrica Llatina), atrets per feines en la construcció, l'agricultura o la indústria; després hi ha el reagrupament familiar. (Hi ha excepcions: dones llatinoamericanes en serveis domèstics i de cura.)\n- **c) Més de 65 anys**: predomini femení per la **major esperança de vida de les dones** (2011: 84,8 anys les dones i 78,8 els homes), per factors biològics i socials (més mortalitat masculina per accidents, tabac, alcohol, riscos laborals); a més, la Guerra Civil va causar més morts d'homes en aquestes generacions."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a) De 0 a 4 anys.** En aquest grup hi ha un volum lleugerament superior de **nens** que de nenes, que s'explica per una **tendència natural biològica**: de cada 1.000 naixements, uns 512 són nens i 488 nenes, és a dir, neixen uns 105 nens per cada 100 nenes. Aquest lleuger excés masculí es manté durant la infància i la joventut.\n\n**b) Població estrangera de 20 a 45 anys.** Entre els estrangers d'edat adulta jove hi ha un clar **predomini dels homes** (un índex de masculinitat d'uns 138, segons el gràfic). A més del lleuger excés de naixements masculins, s'explica sobretot pel caràcter **econòmic** de la immigració arribada des de finals dels anys noranta: els immigrants procedents de països en vies de desenvolupament (el Magrib, l'Àfrica subsahariana, la Xina, alguns d'Amèrica Llatina) o dels països més pobres de la UE (com Romania) són majoritàriament **homes joves** que vénen a treballar en sectors com la construcció, l'agricultura o la indústria, i sovint les famílies arriben més tard per reagrupament.\n\n**c) Més de 65 anys.** En la gent gran hi ha un **clar predomini de les dones** (uns 74 homes per cada 100 dones a partir dels 65 anys, i menys de la meitat a partir dels 85), perquè les dones tenen una **esperança de vida superior**: el 2011 era de 84,8 anys per a les dones i de 78,8 per als homes, de les més elevades de la UE i del món. S'explica per **factors biològics** i **sociològics**: més mortalitat masculina per accidents, riscos laborals i hàbits com el tabac i l'alcohol. En aquestes generacions també hi va influir la sobremortalitat masculina de la Guerra Civil."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres guions (0,5 cadascun):\n\n1. **Natalitat, fecunditat, mortalitat**: natalitat **baixa** (endarreriment de la maternitat, menys fills); fecunditat molt baixa, **≈1,3-1,4 fills per dona** (1,36 al cens del 2011), lluny del **2,1** de reemplaçament, per causes socioeconòmiques i culturals (anticonceptius, treball i estudis de la dona, cost dels fills, habitatge, canvis familiars); mortalitat **baixa**, sobretot la infantil, per la sanitat pública → més esperança de vida; la mortalitat general es manté relativament alta per l'envelliment.\n2. **Immigració** (1996-2008): creixement de la població, **rejoveniment**, més naixements; economia: més població activa, consum, PIB i cotitzacions a la Seguretat Social; menys taxa de dependència; part dels immigrants amb estudis superiors. Negatives: baixada de salaris en alguns sectors, conflictes i actituds xenòfobes.\n3. **Envelliment**: risc per al **sistema de pensions** (més pensionistes per actiu), més **despesa sanitària** i de dependència, possible manca de mà d'obra → nova immigració."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**Natalitat, fecunditat i mortalitat.** Espanya té el model demogràfic propi d'un país desenvolupat, en l'etapa final de la transició demogràfica. La **natalitat és baixa** (al voltant del 9-10 ‰), per l'endarreriment de la maternitat i la disminució del nombre de fills per parella. La **fecunditat** és molt baixa: **1,36 fills per dona** el 2011, molt lluny dels **2,1** necessaris per al reemplaçament generacional. Les causes són socioeconòmiques i culturals: l'accés als mètodes anticonceptius, la incorporació de la dona al mercat laboral i l'augment del seu nivell d'instrucció i capacitat de decisió, el cost de la criança i l'educació dels fills, les dificultats d'accés a l'habitatge, el retard de l'edat del primer fill i els canvis en l'estructura familiar. La **mortalitat també és baixa**, especialment la mortalitat infantil, gràcies a la qualitat i la cobertura del sistema sanitari públic, cosa que es reflecteix en una de les **esperances de vida** més altes del món; tanmateix, l'envelliment fa que la taxa de mortalitat general es mantingui relativament elevada (al voltant del 8-9 ‰).\n\n**Efectes de la immigració.** L'onada migratòria arribada entre el 1996 i la crisi del 2008 va provocar un fort **creixement de la població** i la va **rejovenir**, ja que els immigrants són majoritàriament adults joves que també han fet augmentar els naixements. Econòmicament, la incorporació dels immigrants a la població activa va contribuir a l'augment del **consum i del PIB** i a les aportacions al sistema de la **Seguretat Social** dels treballadors regularitzats; a diferència d'onades anteriors, una part tenia estudis superiors. També va **reduir la taxa de dependència**, en fer créixer els grups d'edat activa. Hi ha hagut, però, conseqüències negatives, com la **baixada de salaris** en alguns sectors per l'excés d'oferta de mà d'obra, o conflictes en alguns barris i ciutats i actituds **xenòfobes** d'una part de la població local.\n\n**Conseqüències de l'envelliment.** L'augment de la proporció de gent gran fa preveure **desequilibris en el sistema de pensions**, perquè hi haurà més pensionistes en relació amb la població activa que cotitza. També augmentarà la **despesa sanitària** i en serveis de **dependència** (residències, atenció domiciliària), per l'increment de les malalties pròpies de la vellesa. I el **mercat de treball** es pot veure afectat per la **manca de mà d'obra** si la població adulta disminueix, cosa que pot provocar un efecte crida a nous corrents d'immigració."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Piràmide d'Espanya a 1-1-2013 per grups d'edat i sexe, amb la població estrangera; % a l'eix horitzontal, intervals de 5 anys; homes a l'esquerra i dones a la dreta; font INE, España en cifras 2014 (0,25). Forma regressiva (població envellida), recuperació a 5-14 anys i nova reducció a 0-4 per la crisi; predomini adult; osca dels nascuts el 1935-40 (Guerra Civil, ≈70-74 anys); estrangers en edats adultes i joves, escassos entre els vells, augment a 0-4; més nens a la base i homes fins als 55-59 anys, després predominen les dones (0,75)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Índex de masculinitat: homes per cada 100 dones (o proporció d'homes i dones) (0,5). Taxa de dependència: relació entre la població adulta i la dependent (joves i vells), en %; alta = poca població adulta respecte a la dependent (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Tendència biològica: 512 nens per 488 nenes de cada 1.000 naixements (0,5). b) Predomini masculí per l'arribada d'immigrants (Magrib, Amèrica Llatina, Xina, Romania...) entre els quals predominen els homes (0,5). c) Predomini femení per la major esperança de vida de les dones: 84,8 anys davant 78,8 el 2011, per factors biològics i sociològics (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Natalitat baixa (endarreriment de la maternitat), fecunditat 1,36 (2011) lluny del 2,1, mortalitat baixa per la sanitat pública, però taxa general relativament alta per l'envelliment (0,5). Immigració 1996-2008: creixement, rejoveniment, més consum, PIB i cotitzacions, menys dependència; negatius: baixada de salaris, conflictes, xenofòbia (0,5). Envelliment: pensions, despesa sanitària, possible manca de mà d'obra i nova immigració (0,5)."
+          }
+        ],
+        "nota": "Els percentatges no surten rotulats a la piràmide: s'han estimat mesurant les barres contra l'escala (≈); la suma de totes les barres mesurades dona ≈97 %, per tant els valors tenen un error d'unes dècimes. L'índex de masculinitat de 0-4 anys mesurat al gràfic (≈110) és més alt que el real (≈106): no el facis servir com a dada exacta. Error de la pauta: defineix la taxa de dependència com a \"relació entre la població adulta i la constituïda per les persones grans i els joves\", és a dir, a l'inrevés; la fórmula correcta posa la població dependent al numerador: (joves + vells) / adults × 100, com indica la mateixa pauta en dir que una taxa elevada vol dir poca població adulta. Errors típics: a l'apartat 1, no esmentar la població estrangera ni la font; a 3b, parlar de tots els estrangers en lloc de la diferència entre sexes; a 4, oblidar els aspectes negatius de la immigració."
+      }
+    }
+  ]
+}

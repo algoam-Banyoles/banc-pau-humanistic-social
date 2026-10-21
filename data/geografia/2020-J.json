@@ -1,0 +1,912 @@
+{
+  "examen": {
+    "id": "geografia-2020-J",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2020,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/geografia/2020-J-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2020-J-solucio.pdf",
+    "estructura": "Examen de la PAU 2020 (sèrie 1), any de la COVID-19: cal respondre QUATRE dels cinc exercicis; cada exercici val 2,5 punts (total 10). Si es responen més exercicis, només es valoren els quatre primers. Cada exercici parteix d'un document i té 2 o 3 preguntes numerades, algunes amb apartats: exercici 1, taula d'indicadors de fecunditat a Catalunya (2 + 0,5); exercici 2, mapa de la potència elèctrica instal·lada per capita (1,5 + 1); exercici 3, fotografia d'una granja del Gironès (1,5 + 0,5 + 0,5); exercici 4, mapa de la xarxa urbana de Catalunya (1 + 0,5 + 1); exercici 5, gràfic de l'increment de la temperatura a Barcelona (1 + 1 + 0,5). Les puntuacions parcials de les pautes són orientatives; es valoren, a més del contingut, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2020-J-e1-q1",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Taula d'indicadors de fecunditat a Catalunya (2014-2018): tendència, causes i conseqüències",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "fecunditat",
+        "indicador conjuntural de fecunditat",
+        "edat mitjana de la maternitat",
+        "retard de la maternitat",
+        "envelliment",
+        "reemplaçament generacional",
+        "comentari de taula"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**Indicadors sobre l'evolució de la fecunditat a Catalunya**\n\n| Indicador | 2014 | 2015 | 2016 | 2017 | 2018 |\n|---|---:|---:|---:|---:|---:|\n| Indicador conjuntural de fecunditat | 1,38 | 1,39 | 1,39 | 1,36 | 1,30 |\n| Edat mitjana de la maternitat | 31,72 | 31,89 | 31,98 | 32,15 | 32,23 |\n| Edat mitjana de la maternitat en el primer fill | 30,46 | 30,63 | 30,76 | 30,95 | 31,00 |\n\n*Font:* Dades del Padró Municipal d'Habitants del 2017 i de l'Institut d'Estadística de Catalunya (Idescat).",
+      "enunciat": "Exercici 1. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu la taula. Pregunta 1: analitzeu les dades de la taula i responeu a les qüestions següents. [2 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Quina tendència mostren les dades de la taula?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Quins factors socioeconòmics són els responsables dels valors expressats a la taula? Justifiqueu la resposta.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "Quines són les conseqüències demogràfiques que es deriven d'aquests valors?",
+          "punts": 0.75
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de taula de 2 punts (gairebé tot l'exercici) dividit en tres apartats: **a)** descripció (0,5), **b)** causes (0,75) i **c)** conseqüències demogràfiques (0,75). Abans d'escriure, llegiu la taula: títol, àmbit (Catalunya), període (2014-2018), tres indicadors i font (Padró i Idescat). Cada apartat té una funció diferent i no s'han de barrejar: a l'a) només es descriu amb xifres, al b) s'expliquen les causes i al c) només les conseqüències **demogràfiques** (les pautes ho diuen explícitament). Extensió: 5-8 línies a l'a) i 8-10 línies al b) i al c). Temps: uns 18-20 minuts per a tota la pregunta."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Les pautes demanen una idea central: **les dones tenen els fills cada vegada més tard i en tenen menys** (0,5).\n\n1. **Indicador conjuntural de fecunditat (ICF)**: es manté gairebé estable entre el 2014 i el 2016 (1,38-1,39) i baixa el 2017 i el 2018 fins a 1,30 fills per dona.\n2. **Edat mitjana de la maternitat**: puja cada any, de 31,72 a 32,23 anys.\n3. **Edat mitjana en el primer fill**: també puja, de 30,46 a 31,00 anys.\n\nConclusió: fecunditat baixa i en descens, i maternitat cada vegada més tardana. Cal citar xifres."
+          },
+          {
+            "apartat": "a",
+            "titol": "Càlculs",
+            "cos": "Variació 2014-2018 de cada indicador (diferència = valor 2018 − valor 2014; variació relativa = diferència / valor 2014 × 100):\n\n| Indicador | 2014 | 2018 | Diferència | Variació relativa |\n|---|---:|---:|---:|---:|\n| Indicador conjuntural de fecunditat | 1,38 | 1,30 | −0,08 fills/dona | −5,8 % |\n| Edat mitjana de la maternitat | 31,72 | 32,23 | +0,51 anys | +1,6 % |\n| Edat mitjana en el primer fill | 30,46 | 31,00 | +0,54 anys | +1,8 % |\n\nEl 2018 l'edat mitjana en el primer fill arriba als **31 anys** just, i la diferència entre l'edat mitjana de la maternitat i la del primer fill és d'uns 1,2 anys, un indici que moltes dones tenen només un o dos fills."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "La taula recull tres indicadors de la fecunditat a Catalunya entre el 2014 i el 2018, a partir de dades del Padró i de l'Idescat. Les dades mostren una doble tendència: les dones tenen cada vegada menys fills i els tenen cada vegada més tard. L'indicador conjuntural de fecunditat, que ja era molt baix, es manté gairebé estable entre el 2014 i el 2016 (1,38-1,39 fills per dona) i després disminueix fins a 1,30 el 2018. Al mateix temps, l'edat mitjana de la maternitat augmenta de manera contínua, de 31,72 a 32,23 anys, i l'edat mitjana en què les dones tenen el primer fill passa de 30,46 a 31,00 anys. Per tant, en només quatre anys la maternitat s'ha endarrerit mig any i la fecunditat ha baixat gairebé un 6 %."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Les pautes (0,75) diuen que cal relacionar-ho amb **canvis en les pautes de maternitat** que no són conjunturals sinó estructurals:\n\n1. **Seguretat econòmica**: salaris baixos i precarietat; tenir fills és car.\n2. **Durada dels estudis**: les dones estudien més anys (universitat, màsters) i s'incorporen més tard al mercat laboral.\n3. **Accés a una feina estable**: contractes temporals, atur juvenil, dificultat per conciliar la vida laboral i familiar.\n4. **Accés a l'habitatge**: preus i lloguers alts que retarden l'emancipació.\n\nPodeu afegir factors culturals (incorporació plena de la dona al treball, nous models de família, anticonceptius, prioritat a la realització personal), però el nucli són els factors socioeconòmics. Cal **justificar**: explicar com cada factor endarrereix el primer fill i redueix el nombre de fills."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Els valors de la taula no responen a una situació conjuntural, sinó a canvis profunds en les pautes de maternitat de la societat catalana, lligats sobretot a factors socioeconòmics. En primer lloc, les dones estudien durant més anys i s'incorporen més tard al mercat laboral, de manera que endarrereixen la decisió de tenir fills fins que han acabat la formació i s'han consolidat professionalment. En segon lloc, la manca de seguretat econòmica (salaris baixos, contractes temporals i atur juvenil) i les dificultats per accedir a una feina estable fan que moltes parelles ajornin la maternitat. En tercer lloc, el preu elevat de l'habitatge, tant de compra com de lloguer, retarda l'emancipació dels joves i la formació de noves llars. A tot això s'hi afegeixen les dificultats per conciliar la vida laboral i familiar i el cost de criar fills. Com que el primer fill arriba cap als 31 anys, queda poc temps biològic per tenir-ne més, i el nombre mitjà de fills per dona es manté molt baix."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Les pautes (0,75) volen **només conseqüències demogràfiques**:\n\n1. **Disminució del creixement natural** de la població: menys naixements.\n2. **Saldo natural** (naixements − defuncions) que pot arribar a ser **negatiu**.\n3. **Piràmide d'edats que s'estreny per la base** (forma regressiva).\n4. **Envelliment de la població**.\n5. **No s'assegura el reemplaçament generacional**: cal un ICF d'uns 2,1 fills per dona.\n\nPodeu afegir que el creixement de la població depèn de la immigració. No entreu en conseqüències econòmiques (pensions, sanitat) més enllà d'una frase: la pauta les exclou."
+          },
+          {
+            "apartat": "c",
+            "titol": "Càlculs",
+            "cos": "Distància respecte al nivell de reemplaçament generacional (≈ 2,1 fills per dona):\n\nDèficit = 2,1 − 1,30 = **0,80 fills per dona**, és a dir, l'ICF del 2018 és només un 62 % del necessari (1,30 / 2,1 × 100)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "Un indicador conjuntural de fecunditat d'1,30 fills per dona i una maternitat cada vegada més tardana tenen conseqüències demogràfiques importants. Primer, el nombre de naixements disminueix i el creixement natural de la població es redueix; si la tendència continua, el saldo entre natalitat i mortalitat pot arribar a ser negatiu, és a dir, que hi hagi més defuncions que naixements. Segon, la base de la piràmide d'edats s'estreny i la piràmide adopta una forma regressiva. Tercer, el pes de la gent gran augmenta i la població envelleix. Finalment, la fecunditat queda molt per sota del nivell de reemplaçament generacional, que se situa en uns 2,1 fills per dona: falten unes 0,8 criatures per dona perquè cada generació sigui substituïda per una altra de la mateixa mida. Per això, el manteniment o el creixement de la població de Catalunya depèn cada vegada més de l'arribada d'immigrants."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Les dones tenen els fills cada vegada més tard i en tenen menys: l'edat en el primer fill (31,00) i l'edat mitjana de la maternitat (32,23) augmenten, mentre que l'ICF baixa (1,30). (0,50)"
+          },
+          {
+            "apartat": "b",
+            "valor": "Canvis en les pautes de maternitat no conjunturals: seguretat econòmica, durada dels estudis, accés a una feina segura, accés a l'habitatge... (0,75)"
+          },
+          {
+            "apartat": "c",
+            "valor": "Només conseqüències demogràfiques: menor creixement de la població, saldo natural que pot ser negatiu, piràmide que s'estreny per la base, envelliment; amb 1,30 fills per dona no s'assoleix el reemplaçament generacional. (0,75)"
+          }
+        ],
+        "nota": "Errors típics: a l'a) explicar causes (és una pregunta de descripció) o no donar xifres; al c) parlar de pensions o de sanitat en lloc de conseqüències demogràfiques. Les pautes oficials diuen que \"falta 0,71 per assolir la taxa de reemplaçament generacional\", però amb el llindar habitual de 2,1 fills per dona la diferència és 2,1 − 1,30 = 0,80 (0,71 sortiria amb un llindar de 2,01): sembla una errada de la pauta, i el que cal dir és que l'ICF queda clarament per sota del reemplaçament."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e1-q2",
+      "exercici": 1,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Diferència entre l'indicador conjuntural de fecunditat i la taxa de fecunditat",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "indicador conjuntural de fecunditat",
+        "taxa de fecunditat",
+        "edat fèrtil",
+        "indicadors demogràfics",
+        "definició"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Indicadors sobre l'evolució de la fecunditat a Catalunya**\n\n| Indicador | 2014 | 2015 | 2016 | 2017 | 2018 |\n|---|---:|---:|---:|---:|---:|\n| Indicador conjuntural de fecunditat | 1,38 | 1,39 | 1,39 | 1,36 | 1,30 |\n| Edat mitjana de la maternitat | 31,72 | 31,89 | 31,98 | 32,15 | 32,23 |\n| Edat mitjana de la maternitat en el primer fill | 30,46 | 30,63 | 30,76 | 30,95 | 31,00 |\n\n*Font:* Dades del Padró Municipal d'Habitants del 2017 i de l'Institut d'Estadística de Catalunya (Idescat).",
+      "enunciat": "Exercici 1. Pregunta 2: l'indicador conjuntural de fecunditat és un indicador diferent de la taxa de fecunditat. Expliqueu en què es diferencien. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de concepte de 0,5 punts: cal definir **els dos indicadors** i dir clarament **en què es diferencien** (què mesuren, com es calculen i en quina unitat s'expressen). 4-6 línies, 3-4 minuts. Un exemple numèric (l'1,30 de la taula) ajuda."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Indicador conjuntural de fecunditat (ICF)**: nombre mitjà de fills per dona (si al llarg de la vida fèrtil seguissin la fecunditat de l'any). S'expressa en **fills per dona** (p. ex., 1,30 a Catalunya el 2018).\n2. **Taxa de fecunditat (taxa general de fecunditat)**: relaciona el nombre total de nascuts en un any amb el nombre de dones en edat fèrtil (15-49 anys). Fórmula: TGF = nascuts de l'any / dones de 15-49 anys × 1.000. S'expressa en **tant per mil** (‰).\n3. **Diferència**: l'ICF és una mitjana de fills per dona; la taxa és una relació per mil entre nascuts i dones fèrtils."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Tots dos indicadors mesuren la fecunditat, però de manera diferent. L'indicador conjuntural de fecunditat expressa el nombre mitjà de fills que tenen les dones d'una població; per exemple, a Catalunya el 2018 era d'1,30 fills per dona. En canvi, la taxa de fecunditat (o taxa general de fecunditat) relaciona el nombre total de nascuts en un any amb el nombre de dones en edat fèrtil, és a dir, de 15 a 49 anys, i es calcula així: nascuts / dones de 15-49 anys × 1.000. Per tant, la diferència principal és que l'indicador conjuntural s'expressa en nombre de fills per dona, mentre que la taxa de fecunditat s'expressa en tant per mil (nascuts per cada 1.000 dones en edat fèrtil)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "L'ICF és la mitjana de fills per dona; la taxa de fecunditat relaciona els nascuts amb les dones en edat fèrtil (15-49 anys) i s'expressa en tant per mil. (0,50)"
+          }
+        ],
+        "nota": "Error típic: confondre la taxa de fecunditat amb la taxa de natalitat (que divideix els nascuts per tota la població, no només per les dones en edat fèrtil). No n'hi ha prou amb definir-ne un: cal contrastar-los i esmentar les unitats."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e2-q1",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Mapa de la potència elèctrica instal·lada per capita a Catalunya (2008): comarques productores",
+      "tema": "industria",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "energia elèctrica",
+        "centrals nuclears",
+        "centrals hidroelèctriques",
+        "ribera d'ebre",
+        "pallars",
+        "desequilibris territorials",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "**Potència instal·lada a Catalunya en kW per capita (2008)**\n\n(Mapa de coropletes per comarques amb cinc intervals de potència instal·lada en kW per capita: 0; 0,1-1; 1,1-2; 2,1-5; més de 5.)\n\n*Font:* «On es produeix energia a Catalunya?», a *Blog de Miquel Ortega Cerdà: Reflexions socioambientals* [en línia], 2010.",
+      "enunciat": "Exercici 2. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el mapa i responeu a les qüestions plantejades. Pregunta 1: a partir del mapa, digueu quines són les quatre comarques amb més potència instal·lada per capita. Expliqueu el perquè d'aquesta localització en relació amb l'estructura del sector de producció d'energia a Catalunya. [1,5 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2020-J/e2-q1.png",
+          "peu": "Potència instal·lada a Catalunya en kW per capita (2008): mapa de coropletes per comarques amb cinc intervals (0; 0,1-1; 1,1-2; 2,1-5; més de 5 kW per capita). Els valors més alts (més de 5) apareixen al Pallars Sobirà i el Pallars Jussà, al nord-oest, i a la Ribera d'Ebre i el Baix Camp, al sud; la major part de les comarques del centre i del litoral barceloní i gironí tenen entre 0,1 i 1. Font: blog de Miquel Ortega Cerdà, 2010."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de mapa d'1,5 punts amb dues parts: **identificar** les quatre comarques del interval més alt (0,5) i **explicar** per què (1). Primer llegiu el mapa: variable relativa (kW **per capita**, és a dir, potència dividida per la població), any 2008, escala de grisos de cinc intervals i font. Després localitzeu les quatre comarques de color més fosc (> 5 kW per capita) i, per a cadascuna, digueu quina central hi ha. Extensió: 10-15 línies. Temps: uns 12 minuts. Error típic: confondre potència per capita amb producció total, o explicar-ho sense esmentar centrals concretes."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació (0,5)**: les comarques amb més de 5 kW per capita són la **Ribera d'Ebre**, el **Pallars Jussà**, el **Pallars Sobirà** i, a la costa sud, la comarca de la central de Vandellós (les pautes la anomenen \"Camp de Tarragona\"; en el mapa és el **Baix Camp**).\n2. **Explicació (1)**: l'estructura de la producció elèctrica catalana es basa en **poques centrals grans** i molt concentrades:\n   - **nuclear** (aproximadament la meitat de l'electricitat produïda): Ascó I i II a la Ribera d'Ebre i Vandellós II a la costa sud;\n   - **hidroelèctrica**: a la Ribera d'Ebre (Flix) i, sobretot, als Pallars, amb les centrals de les conques de la **Noguera Pallaresa i la Noguera Ribagorçana**, on hi ha desnivells i cabals de muntanya;\n   - la resta (cicles combinats, eòlica, solar) és més dispersa.\n3. **Per què per capita**: són comarques **poc poblades**, de manera que una gran potència dividida per pocs habitants dona valors molt alts; en canvi, l'àrea de Barcelona, molt poblada i gran consumidora, té valors baixos."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El mapa representa la potència elèctrica instal·lada a Catalunya el 2008, en kW per habitant, per comarques. Les quatre comarques amb més potència instal·lada per capita, amb més de 5 kW per habitant, són la Ribera d'Ebre, el Pallars Jussà, el Pallars Sobirà i, a la costa del Camp de Tarragona, el Baix Camp. Aquesta localització s'explica per l'estructura del sector de producció d'energia elèctrica a Catalunya, basada en un nombre reduït de centrals de gran potència situades lluny dels centres de consum. A la Ribera d'Ebre hi ha la central nuclear d'Ascó, amb dos reactors (Ascó I i II), i la central hidroelèctrica de Flix, al riu Ebre. Al Camp de Tarragona hi ha la central nuclear de Vandellós II, a la costa, que aprofita l'aigua del mar per refrigerar-se. Les centrals nuclears produeixen al voltant de la meitat de l'electricitat de Catalunya. Al Pallars Jussà i al Pallars Sobirà hi ha un conjunt de centrals hidroelèctriques als principals cursos fluvials de les conques de la Noguera Pallaresa i la Noguera Ribagorçana, que aprofiten els desnivells i els cabals dels rius pirinencs. A més, com que totes aquestes comarques tenen poca població, la potència instal·lada per habitant és molt elevada, mentre que les comarques més poblades, com les de l'àrea de Barcelona, tenen valors molt baixos tot i ser les que més energia consumeixen."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Comarques: Ribera d'Ebre, Pallars Jussà, Pallars Sobirà i Camp de Tarragona (0,50). Explicació: hi ha les principals centrals: nuclears d'Ascó I i II i hidroelèctrica de Flix (Ribera d'Ebre); centrals hidroelèctriques de les conques de la Noguera Pallaresa i la Noguera Ribagorçana (Pallars); nuclear de Vandellós (Camp de Tarragona). (1)"
+          }
+        ],
+        "nota": "Les pautes diuen \"Camp de Tarragona\", que no és una comarca sinó un àmbit territorial: la central de Vandellós II és al municipi de Vandellós i l'Hospitalet de l'Infant (Baix Camp), que és la comarca fosca de la costa sud del mapa. El mapa no té els noms de les comarques: la identificació es fa per la posició. Error típic: parlar de parcs eòlics als Pallars (allà és hidroelèctrica) o oblidar que la variable és per capita."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e2-q2",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals: desequilibri territorial de les centrals elèctriques i pes de les renovables a Catalunya",
+      "tema": "industria",
+      "temes_secundaris": [
+        "territori",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "energia elèctrica",
+        "energies renovables",
+        "desequilibris territorials",
+        "energia nuclear",
+        "vertader o fals"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Exercici 2. Pregunta 2: justifiqueu fins a quin punt són vertaderes o falses les afirmacions següents. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "El model de localització de les centrals productores d'energia elèctrica a Catalunya no és equitatiu entre els diferents territoris.",
+          "punts": 0.5
+        },
+        {
+          "id": "2",
+          "enunciat": "La producció d'energia elèctrica procedent de fonts renovables és molt important a Catalunya.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues afirmacions de 0,5 punts cadascuna. Per a cada una: 1) digueu si és **vertadera o falsa** (o fins a quin punt); 2) justifiqueu-ho amb arguments i dades (podeu fer servir el mapa de la pregunta 1). La nota és per a la justificació, no per al V/F. Un paràgraf de 5-7 línies per afirmació. Temps: 7-8 minuts."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertadera.** Arguments: les centrals es concentren a les comarques **meridionals** (nuclears d'Ascó i Vandellós, embassaments de l'Ebre, molts parcs eòlics de la Terra Alta i el Baix Ebre) i **pirinenques** (hidroelèctriques als embassaments dels Pallars). En canvi, la regió metropolitana de Barcelona, on es consumeix la major part de l'energia, gairebé no en produeix. Hi ha un **desequilibri territorial** entre comarques productores (que suporten els impactes i els riscos) i comarques consumidores."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "L'afirmació és vertadera. Les centrals productores d'electricitat es concentren sobretot en unes poques comarques del sud i del Pirineu: les centrals nuclears són a la Ribera d'Ebre (Ascó) i al Baix Camp (Vandellós), moltes centrals hidroelèctriques estan lligades als embassaments del Pirineu, com els dels Pallars, i a l'Ebre, i també els parcs eòlics es concentren a les comarques meridionals, com la Terra Alta. En canvi, la regió metropolitana de Barcelona, que concentra la major part de la població i de la indústria i és la gran consumidora d'energia, produeix ben poca electricitat. Hi ha, per tant, un desequilibri territorial molt marcat: unes comarques rurals i poc poblades assumeixen els impactes ambientals i els riscos de la producció, mentre que l'energia es transporta amb línies d'alta tensió cap a les àrees que més en consumeixen."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Falsa.** Arguments: el pes de les renovables en la producció elèctrica catalana és encara **baix**, al voltant del **20 %** segons les pautes (hidràulica, eòlica, solar i biomassa). La producció depèn sobretot de la **nuclear** (aproximadament la meitat) i dels **cicles combinats de gas**. Podeu matisar que hi ha potencial (sol, vent) i que la transició energètica avança lentament."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "L'afirmació és falsa. Tot i que Catalunya té una llarga tradició hidroelèctrica i té recursos solars i eòlics importants, el pes de les energies renovables en la producció d'electricitat és encara molt baix: se situa al voltant del 20 %, i la major part prové de les centrals hidroelèctriques del Pirineu i de l'Ebre i dels parcs eòlics de les comarques meridionals. La producció elèctrica catalana depèn sobretot de les centrals nuclears d'Ascó i Vandellós, que generen aproximadament la meitat de l'electricitat, i de les centrals de cicle combinat de gas natural. Per tant, malgrat el potencial que té el país, el desplegament de l'energia solar i eòlica avança lentament, i Catalunya continua depenent de fonts no renovables."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Cert: les centrals es concentren a les comarques meridionals i pirinenques (hidroelèctriques lligades als embassaments, nuclears, molts parcs eòlics); desequilibri territorial entre comarques productores i àrees consumidores. (0,50)"
+          },
+          {
+            "apartat": "2",
+            "valor": "No és cert: el pes de les renovables a Catalunya és encara molt baix, al voltant del 20 % de la producció elèctrica. (0,50)"
+          }
+        ],
+        "nota": "No n'hi ha prou amb escriure \"vertader\" o \"fals\": cada afirmació es puntua per la justificació. La xifra del 20 % és la que donen les pautes (dades de finals de la dècada del 2010); qualsevol xifra aproximada ben argumentada és acceptable. Error típic: pensar que la hidràulica fa de Catalunya un país \"renovable\"."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e3-q1",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Fotografia d'una granja del Gironès: ramaderia tradicional i ramaderia integrada",
+      "tema": "primari",
+      "temes_secundaris": [
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "ramaderia intensiva",
+        "ramaderia integrada",
+        "ramaderia tradicional",
+        "pinsos",
+        "sostenibilitat",
+        "comentari de fotografia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        7,
+        8
+      ],
+      "text": "**Paisatge agrari del Gironès**\n\n(Fotografia d'una granja: naus allargades de ramaderia intensiva amb sitges de pinso, envoltades de camps de conreu i fruiters, i bosc al fons.)\n\n*Font:* Fotografia cedida pel Laboratori d'Anàlisi i Gestió del Paisatge (LAGP), Universitat de Girona, 2015.",
+      "enunciat": "Exercici 3. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu la fotografia. Pregunta 1: contesteu les qüestions següents, comparant, en cada resposta, les característiques de la ramaderia tradicional i la ramaderia integrada. [1,5 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2020-J/e3-q1.png",
+          "peu": "Paisatge agrari del Gironès: fotografia d'una explotació ramadera intensiva, amb naus allargades i sitges de pinso, envoltada de camps de conreu i plantacions de fruiters, amb bosc al fons. Font: LAGP, Universitat de Girona, 2015."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Qui és el propietari del bestiar?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Qui subministra l'alimentació dels animals?",
+          "punts": 0.5
+        },
+        {
+          "id": "c",
+          "enunciat": "Quin dels dos sistemes és més sostenible des d'un punt de vista ambiental? Justifiqueu la resposta.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Tres apartats de 0,5 punts. La consigna obliga a **comparar** a cada resposta els dos models: ramaderia **tradicional** i ramaderia **integrada** (el sistema de les granges com la de la foto: naus tancades, sitges de pinso, bestiar estabulat). Cada resposta ha de tenir dues frases: una per a cada model. 3-5 línies per apartat. Temps: uns 10 minuts. Error típic: respondre només per a un dels dos models."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Tradicional**: el bestiar és del **pagès**, propietari de l'explotació.\n- **Integrada**: el bestiar és d'una **gran empresa integradora** (sovint multinacional o del sector agroalimentari); el pagès posa les instal·lacions i la mà d'obra i cobra per animal engreixat."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "A la ramaderia tradicional el bestiar és propietat del mateix pagès, titular de l'explotació, que decideix què cria i on ho ven. En canvi, a la ramaderia integrada, com la de la granja de la fotografia, el bestiar pertany a grans empreses, sovint multinacionals; el ramader només aporta les naus i el seu treball i rep un pagament per cada animal engreixat."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Tradicional**: l'alimentació la produeix en bona part el mateix pagès (pastures i conreus de l'explotació: farratges, cereals).\n- **Integrada**: la gran empresa subministra, a més dels animals, els **pinsos** (les sitges de la foto), els medicaments i l'assistència veterinària."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "A la ramaderia tradicional és el pagès qui alimenta els animals, en bona part amb pastures i amb els farratges i cereals que conrea a la mateixa explotació. A la ramaderia integrada, en canvi, la gran empresa, a més de subministrar els animals, proporciona també els pinsos i tota l'alimentació necessària per a l'engreix, com es veu per les sitges de pinso que hi ha al costat de les naus de la fotografia."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Resposta: la **tradicional** és més sostenible. Justificació:\n\n1. La integrada consumeix molta **energia**, **aigua** i superfície de **conreus** (sovint a l'altra punta del món, com la soja per als pinsos).\n2. La ramaderia industrial genera més **gasos d'efecte hivernacle** que tot el sector del transport, segons les pautes.\n3. La tradicional alimenta els animals amb conreus de la pròpia explotació i tanca el cicle (els fems adoben els camps)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "Des del punt de vista ambiental, la ramaderia tradicional és més sostenible. La ramaderia integrada comporta una despesa considerable d'energia, d'aigua i de conreus, ja que els pinsos es fabriquen amb cereals i soja que sovint s'importen de molt lluny; a més, la ramaderia industrial contribueix a l'emissió de gasos d'efecte hivernacle més que tot el sector del transport (cotxes, camions, trens i avions). En canvi, la ramaderia tradicional obté part de l'alimentació dels animals dels conreus de la mateixa explotació, té un nombre de caps més petit i aprofita els fems com a adob, de manera que tanca el cicle de la matèria i té un impacte molt menor."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Tradicional: el bestiar és del propietari de l'explotació; integrada: pertany a grans empreses, sovint multinacionals. (0,50)"
+          },
+          {
+            "apartat": "b",
+            "valor": "Integrada: la gran empresa subministra els animals i també els pinsos i l'alimentació per a l'engreix (a la tradicional, l'aporta el pagès). (0,50)"
+          },
+          {
+            "apartat": "c",
+            "valor": "La tradicional és més sostenible: la integrada gasta molta energia, conreus i aigua i genera més gasos d'efecte hivernacle que el transport; la tradicional alimenta els animals amb conreus de la pròpia explotació. (0,50)"
+          }
+        ],
+        "nota": "Feu servir la fotografia com a prova (naus de bestiar estabulat, sitges de pinso): els correctors valoren que es relacioni la teoria amb el document. Les comarques gironines (i Osona, el Segrià o la Noguera) són zones de gran concentració de granges de porcs integrades."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e3-q2",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Problemes ambientals de les granges de porcs: els purins",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "primari",
+        "aigua"
+      ],
+      "conceptes": [
+        "purins",
+        "nitrats",
+        "contaminació d'aqüífers",
+        "ramaderia porcina",
+        "ramaderia intensiva"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        9
+      ],
+      "text": "**Paisatge agrari del Gironès**\n\n(Fotografia d'una granja: naus allargades de ramaderia intensiva amb sitges de pinso, envoltades de camps de conreu i fruiters, i bosc al fons.)\n\n*Font:* Fotografia cedida pel Laboratori d'Anàlisi i Gestió del Paisatge (LAGP), Universitat de Girona, 2015.",
+      "enunciat": "Exercici 3. Pregunta 2: quines problemàtiques ambientals generen les granges de porcs com la que s'observa a la fotografia? [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta breu de 0,5 punts. Les pautes la centren en un problema: els **purins** i la contaminació per **nitrats**. Cal explicar el procés (d'on surten, per què no es poden aprofitar tots, què contaminen). 4-6 línies, 3-4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Els porcs produeixen grans quantitats de **purins** (excrements i orina barrejats amb aigua).\n2. Una part s'utilitza per **adobar els camps**, però n'hi ha tants que no es poden aplicar tots.\n3. L'excés aplicat al sòl provoca **contaminació dels sòls i de les aigües freàtiques per nitrats**: pous i fonts no aptes per beure.\n4. Altres impactes (complement): males olors, emissions d'amoníac i de metà, consum d'aigua."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El principal problema ambiental de les granges de porcs és l'eliminació dels purins, és a dir, les dejeccions líquides dels animals. Una part s'aprofita per adobar els camps de conreu, però la gran quantitat que en produeixen les explotacions intensives, molt concentrades en algunes comarques, fa inviable utilitzar-los tots com a adob. L'aplicació excessiva de purins als camps provoca la contaminació dels sòls i de les aigües subterrànies per nitrats, de manera que molts pous i fonts deixen de ser aptes per al consum humà. A més, les granges generen males olors i emissions de gasos com l'amoníac i el metà."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Eliminació dels purins: una part adoba els camps, però la gran quantitat fa inviable aprofitar-los tots; contaminació dels sòls i de les aigües freàtiques per nitrats. (0,50)"
+          }
+        ],
+        "nota": "Error típic: parlar en general de \"contaminació\" sense dir quin contaminant (nitrats) ni on (sòls i aqüífers). A Catalunya hi ha \"zones vulnerables\" per nitrats declarades a les comarques amb més granges (Osona, Segrià, Noguera, Pla d'Urgell...)."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e3-q3",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Ramaderia intensiva i benestar animal: el maltractament i com solucionar-lo",
+      "tema": "primari",
+      "temes_secundaris": [],
+      "conceptes": [
+        "ramaderia intensiva",
+        "benestar animal",
+        "welfare quality",
+        "unió europea",
+        "ramaderia industrial"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        9
+      ],
+      "text": "",
+      "enunciat": "Exercici 3. Pregunta 3: la ramaderia intensiva és criticada pel maltractament dels animals. En què consisteix aquest maltractament i com es podria solucionar? [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues parts de 0,25: **en què consisteix** el maltractament (cal donar uns quants exemples concrets) i **una mesura** de millora (n'hi ha prou amb una, segons les pautes). 5-6 línies, 3-4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Crítica de fons**: els animals són tractats com a **objectes** i no com a éssers vius sensibles al patiment.\n2. **Exemples**: massificació; gàbies o espais petits que restringeixen el moviment; males condicions d'higiene i cura; mutilacions; inseminació artificial contínua de les femelles i separació de les cries; sacrificis cruels.\n3. **Solució** (una): seguir les recomanacions del **Welfare Quality** (bona alimentació, bons estables, bona salut, comportament adequat); prohibir les gàbies (p. ex., conills en alguns països europeus); prohibir l'alimentació forçada d'ànecs i oques per al foie gras (prohibida a 18 països de la UE); més espai, accés a l'exterior, inspeccions i etiquetatge de benestar animal."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La crítica a la ramaderia intensiva és que tracta els animals com a objectes de producció i no com a éssers vius sensibles al patiment. El maltractament consisteix en la massificació dels animals en naus tancades, la restricció de moviments en gàbies o espais molt petits, unes condicions d'higiene i de cura deficients, les mutilacions (de cues, becs o dents), la inseminació artificial contínua de les femelles per fer-les parir sense parar i la separació de les cries, o la crueltat en els mètodes de sacrifici. Per solucionar-ho es podrien aplicar les recomanacions del programa europeu Welfare Quality, que avalua el benestar animal segons quatre criteris: bona alimentació, bones condicions dels estables, bona salut i un comportament adequat dels animals; per exemple, prohibint les gàbies, com han fet alguns països europeus a les granges de conills, i donant més espai i accés a l'exterior al bestiar."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Els animals són tractats com a objectes i no com a éssers sensibles: massificació, gàbies petites, mala higiene, mutilacions, inseminació contínua, sacrifici cruel (0,25). Una mesura de millora: Welfare Quality, prohibició de gàbies, prohibició de l'alimentació forçada per al foie gras... (0,25)"
+          }
+        ],
+        "nota": "Les pautes consideren correcta la resposta si presenta almenys una mesura de millora del benestar animal. No convé convertir la resposta en un text d'opinió: doneu exemples concrets."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e4-q1",
+      "exercici": 4,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Mapa de la xarxa urbana de Catalunya (2019): jerarquia i distribució de les ciutats",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "xarxa urbana",
+        "jerarquia urbana",
+        "regió metropolitana de barcelona",
+        "macrocefàlia",
+        "ciutats intermèdies",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10,
+        11
+      ],
+      "text": "**Xarxa urbana de Catalunya (2019)**\n\n(Mapa de Catalunya amb els límits comarcals i cercles proporcionals per a les ciutats de més de 50.000 habitants. Llegenda: 50.000-100.000 hab.; 100.000-200.000 hab.; 200.000-300.000 hab.; Barcelona, 1.636.762 hab.)\n\n*Font:* Institut d'Estadística de Catalunya (Idescat), 2019.",
+      "enunciat": "Exercici 4. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el mapa. Pregunta 1: a partir del mapa, indiqueu les característiques de la xarxa urbana de Catalunya. Expliqueu per què es tracta d'una xarxa urbana jerarquitzada i quina és la distribució territorial de les ciutats més poblades. [1 punt]",
+      "figures": [
+        {
+          "src": "img/geografia/2020-J/e4-q1.png",
+          "peu": "Xarxa urbana de Catalunya (2019): ciutats de més de 50.000 habitants representades amb cercles proporcionals en quatre categories (50.000-100.000; 100.000-200.000; 200.000-300.000 habitants; Barcelona, 1.636.762 habitants). Les ciutats es concentren a la regió metropolitana de Barcelona i al litoral; a l'interior només n'hi ha unes poques d'aïllades (Lleida, Manresa, Girona). Font: Idescat, 2019."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de mapa d'1 punt. Cal fer tres coses: 1) **característiques** de la xarxa (macrocefàlia de Barcelona, concentració al litoral), 2) **per què és jerarquitzada** (nivells de ciutats segons població i funcions) i 3) **distribució territorial** de les ciutats grans. Les pautes valoren dos nivells (0,5 + 0,5): el primer nivell (Barcelona i la seva regió metropolitana) i el segon (ciutats supracomarcals), amb **exemples de ciutats** a cada nivell. 10-12 línies, 8-10 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Lectura del mapa**: unes 23 ciutats de més de 50.000 habitants. **Barcelona** (1.636.762 hab.) és molt més gran que la resta: la segona ciutat (l'Hospitalet, 200.000-300.000 hab.) té menys d'una sisena part de la seva població (1.636.762 / 300.000 ≈ 5,5 vegades com a mínim). **Macrocefàlia**.\n2. **Primer nivell (0,5)**: Barcelona, metròpoli regional i nacional, amb un paper a l'arc mediterrani i en el sistema mundial de ciutats; s'ha estès fins a formar la **regió metropolitana**: l'**àrea metropolitana** (l'Hospitalet, Badalona, Santa Coloma de Gramenet, Cornellà...) i la **corona metropolitana** (Sabadell, Terrassa, Mataró, Vilanova i la Geltrú, Granollers...).\n3. **Segon nivell (0,5)**: ciutats d'influència **supracomarcal**: Lleida, Girona, Tarragona, Reus, Manresa.\n4. **Distribució**: concentració al **litoral i prelitoral central** (regió metropolitana) i, en menor mesura, al Camp de Tarragona; a l'interior, ciutats aïllades (Lleida, Manresa); el Pirineu i les comarques interiors no en tenen cap. Podeu esmentar els nivells inferiors (centres comarcals i subcomarcals), que no surten al mapa."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El mapa mostra les ciutats catalanes de més de 50.000 habitants el 2019. La xarxa urbana de Catalunya es caracteritza per una forta macrocefàlia i per una distribució molt desigual de les ciutats. Es tracta d'una xarxa jerarquitzada perquè s'hi distingeixen diversos nivells de ciutats segons la població i les funcions que exerceixen. En el primer nivell hi ha Barcelona, amb 1.636.762 habitants, molt per sobre de qualsevol altra ciutat: és una metròpoli regional i nacional, amb un paper important a l'arc mediterrani i en el sistema mundial de ciutats, i les seves funcions administratives, econòmiques i de serveis influeixen en tot el territori. Des de mitjan segle XX, Barcelona s'ha estès més enllà del seu municipi i ha format la regió metropolitana, que inclou l'àrea metropolitana (l'Hospitalet de Llobregat, Badalona, Santa Coloma de Gramenet, Cornellà...) i la corona metropolitana, amb ciutats com Sabadell, Terrassa, Mataró o Vilanova i la Geltrú. En el segon nivell hi ha les ciutats d'influència supracomarcal, que exerceixen la seva influència més enllà de la comarca de la qual són capital: Lleida, Girona, Tarragona, Reus i Manresa. Per sota hi hauria els centres comarcals i subcomarcals, que el mapa no representa. Pel que fa a la distribució territorial, les ciutats més poblades es concentren al litoral i al prelitoral central, al voltant de Barcelona, i en menor mesura al Camp de Tarragona, mentre que a l'interior només n'hi ha algunes d'aïllades, com Lleida o Manresa, i a les comarques pirinenques no n'hi ha cap."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Jerarquia molt marcada. Primer nivell: Barcelona, metròpoli regional i nacional, i la seva regió metropolitana (àrea metropolitana: Badalona, l'Hospitalet, Santa Coloma...; corona metropolitana: Mataró, Sabadell, Terrassa, Vilanova i la Geltrú...) (0,50). Segon nivell: ciutats d'influència supracomarcal: Lleida, Girona, Reus, Tarragona, Manresa... (0,50). Es valora esmentar alguna ciutat de cada nivell."
+          }
+        ],
+        "nota": "Com que el mapa només representa els dos primers nivells, la puntuació completa s'obté explicant-los tots dos amb exemples. La identificació de les ciutats es fa per la posició dels cercles (el mapa no té noms). Error típic: descriure només \"hi ha moltes ciutats a Barcelona\" sense parlar de nivells ni de funcions."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e4-q2",
+      "exercici": 4,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Definició de densitat de població",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "ciutat"
+      ],
+      "conceptes": [
+        "densitat de població",
+        "habitants per km²",
+        "definició"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Exercici 4. Pregunta 2: definiu el terme següent: densitat de població. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Definició de 0,5 punts: cal dir **què relaciona** (població i superfície), **com es calcula** i **en quina unitat** s'expressa. Un exemple numèric la fa més precisa. 2-4 línies, 2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Fórmula: densitat = població / superfície (en km²). Unitat: habitants per km² (hab./km²). Exemple: Catalunya, amb uns 7,6 milions d'habitants el 2019 i 32.108 km², té una densitat d'uns 7.600.000 / 32.108 ≈ 237 hab./km²."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La densitat de població és un indicador que mesura la relació entre la quantitat de població que viu en un territori i la superfície d'aquest territori. Es calcula dividint el nombre d'habitants per la superfície i s'expressa en habitants per quilòmetre quadrat (hab./km²). Per exemple, Catalunya, amb uns 7,6 milions d'habitants i 32.108 km², té una densitat d'uns 237 hab./km², molt més alta a la regió metropolitana de Barcelona que a les comarques del Pirineu."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Relació entre la població que viu en un territori i la seva superfície; s'expressa en habitants per km². (0,50)"
+          }
+        ],
+        "nota": "Cal esmentar la unitat (hab./km²). L'exemple de Catalunya és orientatiu (7,6 milions d'habitants el 2019; 7.600.000 / 32.108 ≈ 237 hab./km², verificat amb Python)."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e4-q3",
+      "exercici": 4,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Impactes ambientals de les grans aglomeracions urbanes i mesures per a la sostenibilitat",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "impactes ambientals urbans",
+        "contaminació atmosfèrica",
+        "residus",
+        "transport públic",
+        "ciutat sostenible"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Exercici 4. Pregunta 3: indiqueu dos impactes ambientals causats per les grans aglomeracions urbanes i proposeu dues mesures que es podrien adoptar per tal de reduir-los i afavorir la sostenibilitat. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "1 punt: dos **impactes** (0,5) i dues **mesures** (0,5). Feu que cada mesura respongui a un dels impactes que heu triat: la resposta queda més coherent. Un paràgraf per impacte amb la seva mesura. 8-10 línies, 6-7 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "**Impactes** possibles (cal triar-ne dos): destrucció d'espais agrícoles i naturals per l'expansió urbana; **contaminació atmosfèrica** (vehicles i indústries); contaminació acústica; **generació de residus**; consum elevat d'aigua i d'energia.\n\n**Mesures** possibles: conservar espais naturals i crear zones verdes; preservar l'espai agrari periurbà i horts urbans; limitar l'accés dels vehicles contaminants (zones de baixes emissions); **fomentar el transport públic**; energies renovables en els serveis municipals; **recollida selectiva**, reutilització i reciclatge."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Un primer impacte ambiental de les grans aglomeracions urbanes és l'augment de la contaminació atmosfèrica, a causa de l'emissió de gasos dels vehicles i de les indústries, que perjudica la salut de la població i contribueix al canvi climàtic. Per reduir-la, es pot regular l'accés a la ciutat dels vehicles més contaminants, amb zones de baixes emissions, i fomentar l'ús del transport públic, la bicicleta i els desplaçaments a peu. Un segon impacte és la generació massiva de residus de tot tipus, provocada pel consum elevat de la població urbana, que omple abocadors i consumeix recursos. Per reduir-lo, cal fomentar la recollida selectiva de residus, la reutilització i el reciclatge, i reduir els envasos d'un sol ús. Amb mesures com aquestes la ciutat esdevé més sostenible."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Dos impactes: destrucció d'àrees agrícoles i espais naturals, contaminació atmosfèrica, contaminació acústica, residus, consum d'aigua o d'energia (0,50). Dues mesures: espais verds, conservar l'espai agrari, regular les emissions dels vehicles, transport públic, renovables, recollida selectiva i reciclatge (0,50)."
+          }
+        ],
+        "nota": "Doneu exactament dos impactes i dues mesures ben explicats: posar-ne més no suma punts. Error típic: proposar mesures que no tenen relació amb els impactes esmentats."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e5-q1",
+      "exercici": 5,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Gràfic de l'escalfament a Barcelona (1944-2018): accions per reduir els gasos d'efecte hivernacle a les ciutats",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "clima",
+        "ciutat"
+      ],
+      "conceptes": [
+        "canvi climàtic",
+        "gasos d'efecte hivernacle",
+        "mobilitat sostenible",
+        "transport públic",
+        "vehicle elèctric",
+        "comentari de gràfic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        13
+      ],
+      "text": "**Increment de la temperatura mitjana a Barcelona en les darreres dècades**\n\n(Gràfic lineal de la temperatura mitjana anual a Barcelona, en °C, entre el 1944 i el 2018. Anotació: «Increment de +1,97 °C en 74 anys».)\n\n*Font:* *La Vanguardia* (3 juliol 2019).",
+      "enunciat": "Exercici 5. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el gràfic. Pregunta 1: expliqueu dues accions que s'estiguin impulsant o que els responsables públics puguin aplicar en el futur per a disminuir la generació de gasos amb efecte d'hivernacle a les ciutats. Esmenteu quins problemes poden sorgir a l'hora d'aplicar-les. [1 punt]",
+      "figures": [
+        {
+          "src": "img/geografia/2020-J/e5-q1.png",
+          "peu": "Increment de la temperatura mitjana a Barcelona en les darreres dècades: gràfic lineal de la temperatura mitjana anual (°C, eix de 12 a 19) entre el 1944 i el 2018. Fins als anys 1980 oscil·la entre ≈15 i 16 °C; des dels anys 1990 puja fins a ≈17,8 °C el 2018. Anotació: «Increment de +1,97 °C en 74 anys». Font: La Vanguardia (3 juliol 2019)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt: **dues accions** a 0,5 punts cadascuna. Per a cada acció cal: 1) explicar-la, 2) dir per què redueix els gasos d'efecte hivernacle i 3) esmentar **algun problema** per aplicar-la. Podeu començar amb una frase que lligui amb el gràfic (l'escalfament de Barcelona). Dos paràgrafs de 4-5 línies, 7-8 minuts. Error típic: oblidar els problemes, que formen part de la puntuació."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "**Lectura del gràfic** (introducció breu): la temperatura mitjana anual de Barcelona oscil·la al voltant de 15-16 °C fins als anys 1980 i puja clarament des dels anys 1990, fins a ≈17,8 °C el 2018: +1,97 °C en 74 anys.\n\n**Accions possibles** (dues) amb el seu problema:\n\n1. **Transport de baix consum** (tren, cotxe elèctric): problema de tecnologia poc desenvolupada i cost elevat (cotxes elèctrics, avions).\n2. **Restriccions a la circulació** dels vehicles més contaminants (zones de baixes emissions): problema de greuge social per a qui no pot canviar de vehicle.\n3. **Millora del transport públic**: problema de cost elevat per als pressupostos públics (combustible, manteniment, infraestructures).\n\nAltres de vàlides: rehabilitació energètica d'edificis, plaques solars a les teulades, carril bici."
+          },
+          {
+            "apartat": null,
+            "titol": "Càlculs",
+            "cos": "Ritme d'escalfament indicat al gràfic:\n\n| Dada | Valor |\n|---|---:|\n| Període | 1944-2018 = 74 anys |\n| Increment | +1,97 °C |\n| Ritme mitjà | 1,97 / 74 × 10 ≈ 0,27 °C per dècada |\n\nTemperatura llegida al gràfic: ≈15-16 °C fins als anys 1980 i ≈17,8 °C el 2018 (valors estimats a ull sobre l'eix vertical)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El gràfic mostra que la temperatura mitjana anual de Barcelona ha augmentat 1,97 °C entre el 1944 i el 2018, sobretot des dels anys noranta, una conseqüència de l'emissió de gasos amb efecte d'hivernacle, molt concentrada a les ciutats. Una primera acció per reduir aquestes emissions és la millora del transport públic (més freqüència, més línies de metro, tramvia i autobús, i vehicles elèctrics o híbrids), perquè si la gent fa servir menys el vehicle privat es redueix el consum de combustibles fòssils. El problema és que implica un cost important per als pressupostos públics, tant en la construcció d'infraestructures com en el combustible i el manteniment dels vehicles. Una segona acció és restringir la circulació dels vehicles més contaminants, per exemple amb zones de baixes emissions com la de Barcelona. Aquesta mesura disminueix l'emissió de gasos, sobretot si és permanent, però pot generar greuges socials, perquè afecta la població que no té mitjans econòmics per canviar el seu vehicle per un altre de menys contaminant."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Dues accions amb el seu problema, 0,50 cadascuna: canvi a sistemes de transport de baix consum (tren, cotxe elèctric; tecnologia poc desenvolupada i cost elevat); restriccions a la circulació de vehicles (greuges socials per a qui no pot canviar de vehicle); millora del transport públic (cost per als pressupostos públics). S'accepten altres actuacions pertinents."
+          }
+        ],
+        "nota": "Les xifres del gràfic que no surten rotulades (≈15-16 °C i ≈17,8 °C) són estimacions fetes a ull sobre l'eix vertical; l'increment de 1,97 °C en 74 anys sí que és una dada del document (1,97 / 74 × 10 ≈ 0,27 °C per dècada, calculat amb Python). No cal descriure el gràfic a fons: la pregunta demana accions i problemes."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e5-q2",
+      "exercici": 5,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Taula d'impactes del canvi climàtic sobre el medi natural de Catalunya: causes i zones afectades",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "clima",
+        "paisatges"
+      ],
+      "conceptes": [
+        "canvi climàtic",
+        "pujada del nivell del mar",
+        "incendis forestals",
+        "delta de l'ebre",
+        "biodiversitat",
+        "inundacions"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        14
+      ],
+      "text": "",
+      "enunciat": "Exercici 5. Pregunta 2: esmenteu, en la taula següent, tres possibles impactes del canvi climàtic sobre el medi natural de Catalunya. Expliqueu-ne les causes i quines serien les zones de Catalunya que quedarien més afectades en cada cas (seguiu l'exemple de la primera fila). [1 punt]\n\n| Impacte | Causa | Zones més afectades |\n|---|---|---|\n| Reducció de zones esquiables | Menor quantitat de nevades i de dies amb temperatures per sota dels 0 °C | Alt Pirineu |\n|  |  |  |\n|  |  |  |\n|  |  |  |",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cal omplir **tres files** de la taula (la primera és l'exemple i no puntua): per a cada impacte, la causa climàtica i les zones concretes de Catalunya afectades. Cada fila val ≈0,33 punts i només puntua si té les tres columnes correctes. Escriviu frases curtes però precises, amb noms de llocs. 6-7 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Impactes que accepten les pautes (cal triar-ne tres diferents de l'exemple):\n\n1. **Pèrdua d'espais litorals** (platges, zones humides) → pujada del nivell del mar → delta de l'Ebre, delta del Llobregat, platges.\n2. **Increment dels incendis forestals** → estius més calorosos i pluges més irregulars → boscos mediterranis: serralades Litoral i Prelitoral, vessant sud del Prepirineu, Catalunya central.\n3. **Canvis en la distribució d'espècies** de flora i fauna → canvis de temperatura i de pluja → zones d'alt valor natural (alta muntanya, espais protegits).\n4. **Més episodis d'inundacions severes** → més irregularitat i intensitat de la pluja → zones properes a les lleres de rius i rieres."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "| Impacte | Causa | Zones més afectades |\n|---|---|---|\n| Reducció de zones esquiables | Menor quantitat de nevades i de dies amb temperatures per sota dels 0 °C | Alt Pirineu |\n| Pèrdua d'espais litorals, com platges i zones humides | Augment del nivell del mar per la fusió del gel continental i la dilatació de l'aigua en escalfar-se | Litoral: delta de l'Ebre, delta del Llobregat i platges baixes |\n| Increment del nombre i de la gravetat dels incendis forestals | Augment de les temperatures a l'estiu, sequeres més llargues i precipitacions més irregulars | Zones boscoses de clima mediterrani: serralades Litoral i Prelitoral, vessant sud del Prepirineu, Catalunya central |\n| Canvis en la distribució de les espècies de flora i fauna | Canvis en les temperatures i les pluges que dificulten la supervivència d'algunes espècies i afavoreixen les més adaptades a la calor i a la sequera | Zones d'alt valor natural, com l'alta muntanya pirinenca i els espais protegits |"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Tres impactes amb causa i zones, a 0,33 cadascun: pèrdua d'espais litorals (augment del nivell del mar; delta de l'Ebre, altres deltes, platges); increment dels incendis forestals (més calor a l'estiu i pluges irregulars; boscos de les serralades Litoral i Prelitoral, vessant sud del Prepirineu, Catalunya central); canvis en la distribució d'espècies (canvi de temperatures i pluges; zones d'alt valor natural); més inundacions severes (pluja més irregular; lleres de rius i rieres)."
+          }
+        ],
+        "nota": "No repetiu l'exemple (reducció de zones esquiables) ni poseu impactes sobre l'economia o la salut: la pregunta parla del medi natural. Sigueu concrets a la columna de zones (noms de llocs, no \"tot Catalunya\")."
+      }
+    },
+    {
+      "id": "geografia-2020-J-e5-q3",
+      "exercici": 5,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "L'efecte d'hivernacle: gasos responsables i activitats humanes que hi contribueixen",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "clima"
+      ],
+      "conceptes": [
+        "efecte d'hivernacle",
+        "diòxid de carboni",
+        "metà",
+        "combustibles fòssils",
+        "escalfament global"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Exercici 5. Pregunta 3: expliqueu en què consisteix l'efecte d'hivernacle i quins gasos en són responsables. Quines activitats humanes contribueixen més a l'escalfament global? [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues parts de 0,25: 1) **definició** de l'efecte d'hivernacle i **gasos** responsables; 2) **activitats humanes** que més hi contribueixen. Atenció: l'efecte d'hivernacle és un fenomen **natural** i necessari; el problema és que les activitats humanes l'**intensifiquen**. 5-6 línies, 3-4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Mecanisme**: alguns gasos de l'atmosfera deixen passar la radiació solar però **retenen** part de l'energia (radiació infraroja) que emet la superfície terrestre; això manté una temperatura mitjana adequada per a la vida (≈15 °C en lloc de ≈−18 °C).\n2. **Gasos**: sobretot el **diòxid de carboni (CO2)** i el **metà (CH4)**; també el vapor d'aigua, l'ozó i l'òxid de nitrogen.\n3. **Activitats humanes**: la **producció d'energia** i el **transport** a partir de **combustibles fòssils**; també la **ramaderia** (metà) i la **desforestació**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'efecte d'hivernacle és un fenomen natural que consisteix en la retenció, per part d'alguns gasos de l'atmosfera, d'una part de l'energia que la superfície terrestre emet després d'escalfar-se amb la radiació solar. Gràcies a aquest efecte, la Terra manté una temperatura mitjana adequada per a la vida. Els principals gasos d'efecte hivernacle són el diòxid de carboni (CO2) i el metà, i també el vapor d'aigua, l'ozó i l'òxid de nitrogen. El problema és que les activitats humanes augmenten la concentració d'aquests gasos i intensifiquen l'efecte, cosa que provoca l'escalfament global. Les activitats que més hi contribueixen són la producció d'energia i el transport, en tots dos casos a partir de la combustió de combustibles fòssils (carbó, petroli i gas natural); també hi contribueixen la ramaderia intensiva, que emet metà, i la desforestació, que redueix l'absorció de CO2."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Retenció d'energia per alguns gasos de l'atmosfera que manté una temperatura adequada per a la vida; gasos principals: CO2 i metà (també vapor d'aigua, ozó, òxid de nitrogen) (0,25). Activitats: producció d'energia i transport amb combustibles fòssils; també ramaderia i desforestació (0,25)."
+          }
+        ],
+        "nota": "Error típic: confondre l'efecte d'hivernacle amb el forat de la capa d'ozó, o presentar l'efecte d'hivernacle com a negatiu en si mateix (és natural; el problema és la seva intensificació)."
+      }
+    }
+  ]
+}

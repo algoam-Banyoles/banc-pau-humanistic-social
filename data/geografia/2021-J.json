@@ -1,0 +1,952 @@
+{
+  "examen": {
+    "id": "geografia-2021-J",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2021,
+    "convocatoria": "juny",
+    "serie": "2",
+    "pdf_examen": "pdfs/geografia/2021-J-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2021-J-solucio.pdf",
+    "estructura": "Sèrie 2. Cal respondre QUATRE dels cinc exercicis; cada exercici val 2,5 punts (total 10). Si es responen més exercicis, només es valoren els quatre primers. Cada exercici parteix d'un document i té 2 o 3 preguntes numerades, algunes amb apartats: exercici 1, piràmides d'edats dels immigrants marroquins i britànics a Espanya (1 + 1 + 0,5); exercici 2, text sobre l'escassetat de l'aigua potable (1 + 0,5 + 1); exercici 3, mapa de l'activitat logística a Catalunya (1,5 + 0,5 + 0,5); exercici 4, text sobre la deslocalització industrial i la COVID-19 (1,5 + 1); exercici 5, climogrames i mapa de la península Ibèrica (1,5 + 1). Les pautes indiquen que les puntuacions parcials són orientatives i valoren, a més del contingut, l'ordre, la precisió, la terminologia geogràfica i la claredat de l'exposició."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2021-J-e1-q1",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Piràmides dels immigrants marroquins i britànics a Espanya (2017): variables que n'expliquen la forma",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "piràmide d'edats",
+        "immigració",
+        "estructura per edat i sexe",
+        "reagrupament familiar",
+        "migració de jubilats",
+        "comentari de piràmide"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Immigrants nascuts al Marroc i al Regne Unit i empadronats a Espanya (2017)**\n\n(Dues piràmides d'edats per grups quinquennals, en percentatge sobre el total de cada col·lectiu. Marroc: homes 57,4 %, dones 42,6 %. Regne Unit: homes 49,6 %, dones 50,4 %.)\n\n*Font:* Base de Dades de l'Instituto Nacional de Estadística (INEbase).\n\nDes dels darrers anys del segle xx i fins a la crisi financera i econòmica del 2008, el saldo migratori a Espanya va ser positiu. Les dues piràmides d'edats de la figura representen dos perfils diferents d'immigrants arribats majoritàriament en aquell període.",
+      "enunciat": "Exercici 1. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu les dues piràmides d'edats. Pregunta 1: expliqueu les variables demogràfiques que justifiquen la forma diferent de la piràmide d'edats en cada cas. [1 punt]",
+      "figures": [
+        {
+          "src": "img/geografia/2021-J/e1-q1.png",
+          "peu": "Piràmides d'edats dels immigrants nascuts al Marroc i al Regne Unit empadronats a Espanya (2017), per grups quinquennals (00-04 a >84) i en % del total de cada col·lectiu (eix de 0 a 12 %). Marroc: homes 57,4 %, dones 42,6 %, base estreta i eixamplament als 25-49 anys (màxim d'homes als 35-39, ≈ 11 %). Regne Unit: homes 49,6 %, dones 50,4 %, base molt estreta i màxim als 65-74 anys (≈ 7 %). Font: INEbase."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de dues piràmides d'1 punt: **0,5 per a cada piràmide**. Per a cadascuna cal dir quina forma té i **per què**: quines variables demogràfiques (edat i sexe dels qui emigren, motiu de la migració, reagrupament familiar, envelliment) expliquen aquella forma. Estructura: un paràgraf per piràmide, començant per la descripció amb xifres (grups d'edat més nombrosos, proporció d'homes i dones) i acabant amb l'explicació. Extensió: 10-12 línies. Temps: 8-10 minuts. Error típic: comentar-les com si fossin piràmides de tota la població d'un país (parlar de natalitat i mortalitat del Marroc o del Regne Unit): aquí són **col·lectius d'immigrants**, i la forma la determina qui emigra."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Marroc (0,5)**: piràmide amb la base i el cim estrets i un gran eixamplament als **adults joves (25-49 anys)**; predomini **masculí** (57,4 %). Variable clau: l'edat i el sexe de qui emigra per treballar (homes joves en edat activa). Els grups infantils i juvenils corresponen sobretot a fills nascuts al Marroc arribats per **reagrupament familiar**; els fills nascuts a Espanya no surten a la piràmide (són nascuts a Espanya). Gairebé no hi ha gent gran perquè no emigren i molts tornen.\n2. **Regne Unit (0,5)**: piràmide **regressiva** o invertida, amb la base gairebé buida i el màxim als **60-75 anys**; equilibri entre sexes (49,6 % / 50,4 %). Variable clau: és una migració de **jubilats** (migració residencial o de retir), no laboral; com que no hi ha joves, hi ha pocs naixements, i la població envelleix."
+          },
+          {
+            "apartat": null,
+            "titol": "Càlculs",
+            "cos": "Lectura aproximada de les barres (mesurades en píxels sobre l'escala del 0 al 12 %; valors marcats amb ≈):\n\n| Indicador | Marroc | Regne Unit |\n|---|---|---|\n| Homes / dones (%) | 57,4 / 42,6 | 49,6 / 50,4 |\n| Ràtio de masculinitat (homes per 100 dones) | 57,4 / 42,6 × 100 = **134,7** | 49,6 / 50,4 × 100 = **98,4** |\n| Grups de 25 a 49 anys | ≈ 63 % | ≈ 20 % |\n| 65 anys i més | ≈ 2-3 % | ≈ 35 % |\n| Menors de 15 anys | ≈ 5 % | ≈ 3-5 % |\n| Grup més nombrós | homes de 35-39 (≈ 11 %) | 65-69 i 70-74 (≈ 7 % per sexe) |\n\nRàtio de masculinitat = homes / dones × 100. Entre els marroquins hi ha uns 135 homes per cada 100 dones; entre els britànics, gairebé 1 a 1."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Les dues piràmides representen els immigrants nascuts al Marroc i al Regne Unit empadronats a Espanya el 2017 i tenen formes molt diferents perquè responen a dos tipus de migració.\n\nLa piràmide dels immigrants marroquins té la base i el cim estrets i un fort eixamplament en els grups d'adults joves, d'entre 25 i 50 anys, que concentren prop de dos terços del col·lectiu; el grup més nombrós és el dels homes de 35 a 39 anys (≈ 11 %). Hi predominen els homes (57,4 % davant del 42,6 % de dones, uns 135 homes per cada 100 dones). Aquesta forma s'explica perquè és una immigració econòmica: els qui van emigrar eren sobretot homes joves en edat de treballar. Les dones i els infants de les classes de menys edat corresponen en bona part a persones nascudes al Marroc arribades més tard per reagrupament familiar, mentre que els fills nascuts a Espanya ja no hi compten. La gent gran gairebé no hi és perquè no emigra.\n\nLa piràmide dels immigrants britànics és regressiva o invertida: la base és molt estreta (els menors de 15 anys no arriben al 5 %) i els grups més amples són els de 60 a 75 anys, sobretot els de 65 a 74 (≈ 7 % per sexe); més d'un terç del col·lectiu té 65 anys o més. La proporció d'homes i dones és equilibrada (49,6 % i 50,4 %). Reflecteix el gran pes de la població jubilada: es tracta d'una migració residencial de persones grans que s'instal·len a Espanya per passar-hi la jubilació, generalment en parella, i com que pràcticament no hi ha joves, gairebé no hi ha naixements que eixamplin la base."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Marroc: població d'adults joves (25-50 anys), majoritàriament masculina, perquè són els grups que van emigrar; els grups de menys edat són nascuts al Marroc arribats per reagrupament familiar (0,50). Regne Unit: piràmide regressiva amb gran pes de la població jubilada; classes joves gairebé buides i màxim entre 60 i 75 anys (0,50)."
+          }
+        ],
+        "nota": "No descrigueu només la forma: cal explicar-la amb les variables (edat i sexe dels emigrants, reagrupament familiar, jubilació). No hi apliqueu el model de transició demogràfica del país d'origen. Les xifres per grups d'edat són estimacions fetes mesurant les barres sobre l'escala (marcades amb ≈); les úniques xifres exactes del document són els percentatges d'homes i dones."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e1-q2",
+      "exercici": 1,
+      "questio": 2,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Dos perfils d'immigrants a Espanya: motivacions, nivell socioeconòmic i condicions de vida",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "ciutat"
+      ],
+      "conceptes": [
+        "immigració econòmica",
+        "migració de jubilats",
+        "turisme residencial",
+        "precarietat laboral",
+        "habitatge",
+        "saldo migratori"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Exercici 1. Pregunta 2. Exposeu les motivacions per a emigrar, el nivell socioeconòmic i les condicions actuals de vida a Espanya de cadascun dels dos perfils d'immigrants representats a les piràmides. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt: **0,5 per a cada perfil**. Per a cadascun cal tractar els **tres aspectes** que demana l'enunciat: 1) motivació per emigrar, 2) nivell socioeconòmic, 3) condicions de vida a Espanya (feina, habitatge, on viuen). Organitzeu-ho en dos paràgrafs i, si podeu, comenceu amb una frase de context (Espanya passa de país emigrant a receptor). Extensió: 10-14 línies. Temps: 8-10 minuts. Error típic: oblidar un dels tres aspectes o generalitzar sense distingir els perfils."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Context: a finals del segle XX el desenvolupament econòmic converteix Espanya de país d'emigració en país d'immigració.\n\n1. **Perfil marroquí = immigració econòmica de països pobres (0,5)**: és el grup més nombrós (nord d'Àfrica, Àfrica subsahariana, Amèrica Llatina, Europa de l'Est, Àsia). Motivació: buscar feina i unes condicions de vida més dignes. Nivell socioeconòmic baix, pocs recursos. Condicions: feines precàries i mal pagades (agricultura, construcció, serveis), habitatge difícil (rellogar habitacions, pisos compartits per més d'una família, amuntegament).\n2. **Perfil britànic = jubilats europeus (0,5)**: motivació: el clima suau, un entorn agradable i bons serveis (sobretot a la costa mediterrània, Canàries i Balears). Nivell de renda mitjà-alt (pensions del país d'origen). Condicions: no tenen dificultats per instal·lar-se; viuen sovint en urbanitzacions on poden ser majoria. Aquest col·lectiu va créixer molt a principis del segle XXI."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A la darreria del segle XX, el desenvolupament econòmic va transformar Espanya, tradicionalment un país d'emigrants, en un país receptor d'immigració. Les dues piràmides representen dos dels perfils d'immigrants més comuns.\n\nLa piràmide dels immigrants del Marroc és representativa de la immigració procedent de països pobres, el grup més nombrós dels arribats a Espanya, juntament amb persones del nord d'Àfrica, l'Àfrica subsahariana, l'Amèrica Llatina, l'Europa oriental i l'Àsia. Emigren a la recerca de feina i d'unes condicions de vida més dignes que les que tenen al seu país. El seu nivell socioeconòmic és baix: disposen de pocs recursos i accedeixen a llocs de treball sovint precaris i mal remunerats, a l'agricultura, la construcció, l'hostaleria o el servei domèstic. Tenen dificultats per accedir a l'habitatge: sovint viuen rellogats, per exemple en una habitació amb dret a cuina al pis d'un conegut, on poden conviure més d'una família, i es concentren en barris amb habitatge més barat.\n\nLa piràmide dels immigrants del Regne Unit correspon al perfil de persones jubilades procedents d'altres països europeus que s'instal·len definitivament a Espanya, sobretot a la costa mediterrània i a les illes, atretes per la suavitat del clima, un entorn agradable i bons serveis, amb un cost de la vida més baix que al seu país. Aquest col·lectiu, que va augmentar molt els primers anys del segle XXI, té un nivell de renda mitjà-alt gràcies a les pensions i a l'estalvi, i no troba dificultats per instal·lar-se: molts viuen en habitatges propis en urbanitzacions on aquest perfil d'immigrant jubilat pot arribar a ser majoritari."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Marroc: immigrants de països pobres que busquen treball i condicions de vida dignes; recursos escassos, feines precàries i mal pagades, habitatge subarrendat i compartit (0,50). Regne Unit: jubilats europeus atrets pel clima suau, l'entorn i els serveis, sobretot a la costa mediterrània; renda mitjana-alta, sense dificultats d'instal·lació, sovint en urbanitzacions on són majoria (0,50)."
+          }
+        ],
+        "nota": "Assegureu-vos de tractar els tres aspectes de l'enunciat per a cada perfil. Eviteu els estereotips: parleu de condicions estructurals (mercat laboral, accés a l'habitatge), no de característiques personals dels immigrants."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e1-q3",
+      "exercici": 1,
+      "questio": 3,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Racisme i xenofòbia: quin perfil d'immigrant els pateix i per què",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "racisme",
+        "xenofòbia",
+        "aporofòbia",
+        "immigració",
+        "prejudicis",
+        "integració"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Exercici 1. Pregunta 3. Els actes de racisme i xenofòbia són soferts majoritàriament per un dels dos perfils d'immigrant. Quin perfil és i quines creieu que en són les causes? [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de 0,5 punts: identificar el perfil (el de l'immigrant pobre, representat pels marroquins) i explicar **almenys dues causes**, que és el que exigeix la pauta. Extensió: 5-7 línies. Temps: 4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Perfil**: el dels immigrants de països pobres (marroquins), no el dels jubilats britànics.\n2. **Causes** (cal esmentar-ne com a mínim dues):\n   - por al que és diferent per raça, religió o cultura;\n   - prejudicis, desconeixement i manca d'empatia;\n   - circumstàncies socioeconòmiques: la pobresa provoca més rebuig (aporofòbia); un immigrant de la mateixa procedència però ric en pateix menys;\n   - ideologies que no accepten la diversitat cultural, ètnica o religiosa i la presenten com una amenaça."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Els actes de racisme i xenofòbia els pateix majoritàriament el perfil dels immigrants procedents de països pobres, com els marroquins, i no els jubilats britànics. Les causes són diverses. En primer lloc, la por al que és diferent per raó d'ètnia, religió o cultura, que s'alimenta de prejudicis, del desconeixement de l'altre i de la manca d'empatia. En segon lloc, les circumstàncies socioeconòmiques: la pobresa genera més rebuig que l'origen (aporofòbia), fins al punt que un immigrant de la mateixa procedència però amb un nivell econòmic alt rarament en pateix; a més, en èpoques de crisi alguns veuen els immigrants pobres com a competidors per la feina i els serveis públics. Finalment, hi ha ideologies que fomenten el racisme perquè no accepten la diversitat cultural, ètnica o religiosa i la presenten com una amenaça."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "El perfil d'immigrants pobres (marroquins). Causes: por al diferent (raça, religió, cultura); prejudicis, desconeixement i manca d'empatia; circumstàncies socioeconòmiques (la pobresa provoca més rebuig); ideologies que rebutgen la diversitat. Cal esmentar-ne almenys dues (0,50)."
+          }
+        ],
+        "nota": "La pauta exigeix almenys dues causes: si només n'esmenteu una, no tindreu la puntuació completa. Feu servir un registre neutre i acadèmic."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e2-q1",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "L'aigua, un bé escàs: sectors que consumeixen més aigua a Catalunya",
+      "tema": "aigua",
+      "temes_secundaris": [
+        "primari",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "consum d'aigua",
+        "regadiu",
+        "usos de l'aigua",
+        "estrès hídric",
+        "comentari de text"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "**L'aigua potable, un bé escàs**\n\nEl canvi climàtic dificulta el repte de l'ONU per al 2030 d'universalitzar l'accés a l'aigua. Tres de cada deu persones al món no tenen accés a l'aigua potable i fins a un 60 % no disposen d'instal·lacions de sanejament, com clavegueram, gestionades d'una manera segura. Ho diu l'*Informe mundial de les Nacions Unides sobre el desenvolupament dels recursos hídrics 2019*, que, amb el títol *No deixar ningú enrere*, se centra en el sisè dels Objectius de Desenvolupament Sostenible (ODS) —l'anomenada Agenda 2030 per al món—, que es proposa assolir la universalitat de l'accés a l'aigua potable i al sanejament en els pròxims onze anys.\n\nFins a trenta-un estats del món, entre els quals Espanya, pateixen un estrès hídric d'entre el 25 % i el 70 %, mentre que vint-i-dos països més tenen un estrès hídric superior al 70 %, és a dir, que estan en una situació molt greu de manca d'aigua. «Les zones seques tendiran a ser més seques i les àrees humides seran més humides, de manera que probablement el canvi climàtic accentuarà l'estrès hídric en les zones que ja es veuen afectades avui», alerta l'informe de l'ONU.\n\nAdaptació feta a partir d'un text de Sònia Sánchez. *Ara* [en línia] (21 març 2019)",
+      "enunciat": "Exercici 2. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Llegiu el text. Pregunta 1: quins són els sectors que consumeixen més aigua a Catalunya? Per què? [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt amb dues parts: **ordenar** els sectors segons el consum (0,25) i **explicar per què** consumeix aigua cadascun (agricultura 0,25, ús domèstic 0,25, indústria 0,25). No cal donar percentatges exactes, però sí l'ordre correcte. El text és de context (escassetat d'aigua i estrès hídric); la pregunta demana coneixements propis sobre Catalunya. Extensió: 8-10 línies. Temps: 6-8 minuts. Error típic: posar l'ús domèstic o la indústria en primer lloc."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Ordre**: agricultura (≈ 72 %) > ús domèstic o urbà (≈ 12 %) > indústria (≈ 7 %) (xifres de la pauta).\n2. **Agricultura**: per les necessitats dels conreus de **regadiu** (Lleida: canals d'Urgell, Segarra-Garrigues; delta de l'Ebre). Hortes, fruiters de fruita dolça, blat de moro i arròs són conreus molt exigents en aigua; a més, encara es fa servir el reg a manta, poc eficient.\n3. **Ús domèstic**: concentrat a les ciutats (àrea metropolitana de Barcelona); aigua per a les llars i per a les activitats econòmiques dels nuclis urbans (comerç, serveis, neteja, jardins).\n4. **Indústria**: consum notable però diferent segons el sector: tèxtil, paperera i química en són els que més en gasten (refrigeració, processos de rentatge, dissolvent)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A Catalunya el sector que consumeix més aigua, amb molta diferència, és l'agricultura, amb uns tres quarts del total (al voltant del 72 %), seguida del consum domèstic o urbà (un 12 %) i de la indústria (un 7 %).\n\nL'agricultura és la principal consumidora a causa de les necessitats dels conreus de regadiu, com els de la plana de Lleida (regats pels canals d'Urgell i de Segarra-Garrigues) o els del delta de l'Ebre. Les hortes, els fruiters de fruita dolça, el blat de moro i l'arròs són conreus molt exigents en aigua, i en moltes zones encara es rega per inundació, un sistema amb moltes pèrdues.\n\nEl consum per a usos domèstics es concentra a les ciutats, especialment a l'àrea metropolitana de Barcelona: és l'aigua destinada a les llars i a les activitats econòmiques que es fan dins dels nuclis urbans, com el comerç, els serveis o la neteja dels espais públics.\n\nFinalment, la indústria també fa un consum d'aigua notable, tot i que molt divers segons el sector: alguns rams de la indústria tèxtil, les papereres i la indústria química són els que més aigua necessiten per als seus processos productius i per a la refrigeració."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Ordre: agrícola (72 %), domèstic (12 %) i industrial (7 %); no calen percentatges, sí l'ordre (0,25). Agricultura: conreus de regadiu exigents (hortes, fruita dolça, blat de moro, arròs) (0,25). Domèstic: concentrat a les ciutats, llars i activitats dels nuclis urbans (0,25). Indústria: consum notable i divers; tèxtil, paperera i química, els més alts (0,25)."
+          }
+        ],
+        "nota": "La pregunta té quatre peces de 0,25: no us oblideu d'explicar la indústria. Els percentatges són els de la pauta; si no els recordeu, n'hi ha prou amb l'ordre correcte."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e2-q2",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Dues actuacions per estalviar aigua i fer-ne un ús més sostenible",
+      "tema": "aigua",
+      "temes_secundaris": [
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "estalvi d'aigua",
+        "reutilització",
+        "reg per degoteig",
+        "gestió sostenible de l'aigua",
+        "aigües pluvials"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**L'aigua potable, un bé escàs**\n\nEl canvi climàtic dificulta el repte de l'ONU per al 2030 d'universalitzar l'accés a l'aigua. Tres de cada deu persones al món no tenen accés a l'aigua potable i fins a un 60 % no disposen d'instal·lacions de sanejament, com clavegueram, gestionades d'una manera segura. Ho diu l'*Informe mundial de les Nacions Unides sobre el desenvolupament dels recursos hídrics 2019*, que, amb el títol *No deixar ningú enrere*, se centra en el sisè dels Objectius de Desenvolupament Sostenible (ODS) —l'anomenada Agenda 2030 per al món—, que es proposa assolir la universalitat de l'accés a l'aigua potable i al sanejament en els pròxims onze anys.\n\nFins a trenta-un estats del món, entre els quals Espanya, pateixen un estrès hídric d'entre el 25 % i el 70 %, mentre que vint-i-dos països més tenen un estrès hídric superior al 70 %, és a dir, que estan en una situació molt greu de manca d'aigua. «Les zones seques tendiran a ser més seques i les àrees humides seran més humides, de manera que probablement el canvi climàtic accentuarà l'estrès hídric en les zones que ja es veuen afectades avui», alerta l'informe de l'ONU.\n\nAdaptació feta a partir d'un text de Sònia Sánchez. *Ara* [en línia] (21 març 2019)",
+      "enunciat": "Exercici 2. Pregunta 2. Exposeu dues actuacions que contribueixin a estalviar aigua i a fer-ne un ús més sostenible. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de 0,5 punts: **dues** actuacions concretes i pertinents, cadascuna explicada en 2-3 línies (què és i per què estalvia aigua). Temps: 3-4 minuts. Error típic: donar mesures massa vagues (\"no malgastar aigua\") o una sola mesura."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta accepta actuacions com ara:\n\n- **reutilització** de les aigües residuals depurades (rec agrícola, parcs, usos industrials);\n- **millora dels sistemes de rec** (substituir el reg a manta pel degoteig o l'aspersió);\n- ús més eficient (reparar fuites de la xarxa, aixetes i cisternes de doble descàrrega, comptadors);\n- **substituir l'aigua potable per no potable** en alguns usos (cisternes, rec de jardins públics, neteja de carrers);\n- aprofitament de les **aigües pluvials** (dipòsits a edificis).\n\nTrieu-ne dues de sectors diferents (agricultura i ciutat) per mostrar visió de conjunt."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Una primera actuació és millorar els sistemes de rec a l'agricultura, que és el sector que consumeix més aigua: substituir el reg a manta per sistemes de reg localitzat, com el degoteig, que porta l'aigua just al peu de cada planta i redueix molt les pèrdues per evaporació i per infiltració.\n\nUna segona actuació és reutilitzar les aigües residuals regenerades a les depuradores i substituir l'aigua potable per aigua no potable en els usos que no la necessiten, com el rec de parcs i jardins públics, la neteja de carrers o les cisternes dels sanitaris. D'aquesta manera es reserva l'aigua de més qualitat per al consum humà i es redueix la pressió sobre els rius i els aqüífers."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Qualsevol actuació pertinent: reutilització de l'aigua; millora dels sistemes de rec; ús més eficient; substitució de l'aigua potable per no potable en alguns usos (sanitaris, rec de jardins públics, neteja de carrers); utilització d'aigües pluvials (0,50)."
+          }
+        ],
+        "nota": "Expliqueu per què cada actuació estalvia aigua; una simple llista de dues paraules no obté la puntuació completa."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e2-q3",
+      "exercici": 2,
+      "questio": 3,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Conceptes: estrès hídric i reg a manta",
+      "tema": "aigua",
+      "temes_secundaris": [
+        "primari"
+      ],
+      "conceptes": [
+        "estrès hídric",
+        "reg a manta",
+        "regadiu",
+        "definició de conceptes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        7
+      ],
+      "text": "**L'aigua potable, un bé escàs**\n\nEl canvi climàtic dificulta el repte de l'ONU per al 2030 d'universalitzar l'accés a l'aigua. Tres de cada deu persones al món no tenen accés a l'aigua potable i fins a un 60 % no disposen d'instal·lacions de sanejament, com clavegueram, gestionades d'una manera segura. Ho diu l'*Informe mundial de les Nacions Unides sobre el desenvolupament dels recursos hídrics 2019*, que, amb el títol *No deixar ningú enrere*, se centra en el sisè dels Objectius de Desenvolupament Sostenible (ODS) —l'anomenada Agenda 2030 per al món—, que es proposa assolir la universalitat de l'accés a l'aigua potable i al sanejament en els pròxims onze anys.\n\nFins a trenta-un estats del món, entre els quals Espanya, pateixen un estrès hídric d'entre el 25 % i el 70 %, mentre que vint-i-dos països més tenen un estrès hídric superior al 70 %, és a dir, que estan en una situació molt greu de manca d'aigua. «Les zones seques tendiran a ser més seques i les àrees humides seran més humides, de manera que probablement el canvi climàtic accentuarà l'estrès hídric en les zones que ja es veuen afectades avui», alerta l'informe de l'ONU.\n\nAdaptació feta a partir d'un text de Sònia Sánchez. *Ara* [en línia] (21 març 2019)",
+      "enunciat": "Exercici 2. Pregunta 3. Expliqueu el significat dels termes següents: [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Estrès hídric",
+          "punts": 0.5
+        },
+        {
+          "id": "2",
+          "enunciat": "Reg a manta",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues definicions de 0,5 punts cadascuna. Una bona definició té: **què és** (definició precisa), **causa o característica** principal i **un exemple**. Extensió: 3-5 línies per terme. Temps: 5-6 minuts. Podeu aprofitar el text, que parla d'estrès hídric a Espanya."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Situació en què l'aigua disponible **no és suficient per satisfer la demanda**, tant de la societat com dels ecosistemes. Afegiu-hi les causes (pluja escassa o irregular, sobreexplotació, contaminació) i un exemple del text (Espanya, amb un estrès hídric del 25-70 %)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "L'estrès hídric és la situació en què l'aigua disponible en un territori no és suficient per satisfer la demanda o les necessitats d'aigua, tant dels sistemes humans (consum domèstic, agricultura, indústria) com dels sistemes naturals (cabal ecològic dels rius, zones humides). Es produeix quan la demanda supera els recursos renovables, per la manca o la irregularitat de les precipitacions, per la sobreexplotació d'aqüífers o per la contaminació de l'aigua. Segons el text, Espanya pateix un estrès hídric d'entre el 25 % i el 70 %, i el canvi climàtic l'accentuarà a les zones seques."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Sistema de rec **per inundació** de la parcel·la: és el tradicional i el més emprat, però consumeix molta aigua (pèrdues per evaporació i infiltració). Contrasteu-lo amb el reg per degoteig."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "El reg a manta és un sistema de rec que consisteix a inundar la parcel·la deixant que l'aigua, conduïda per canals i sèquies, cobreixi tot el terreny per gravetat. És el sistema de reg tradicional i encara el més emprat, per exemple a molts regadius de la plana de Lleida o als arrossars del delta de l'Ebre, però té un consum d'aigua molt elevat, perquè una part important es perd per evaporació i per infiltració. Per això s'està substituint per sistemes més eficients, com l'aspersió o el degoteig."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Estrès hídric: situacions en què l'aigua disponible no és suficient per satisfer la demanda o les necessitats d'aigua, tant en els sistemes socials com en els naturals (0,50)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Reg a manta: sistema de reg de les parcel·les per inundació; és el tradicional i el més emprat, malgrat el consum elevat d'aigua (0,50)."
+          }
+        ],
+        "nota": "Una definició sense exemple o sense la idea clau (demanda > disponibilitat; inundació) queda incompleta. No confongueu estrès hídric amb sequera: la sequera és un fenomen climàtic temporal; l'estrès hídric depèn també de la demanda."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e3-q1",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Mapa de l'activitat logística a Catalunya (2019): què és la logística, per què creix i el paper de la intermodalitat",
+      "tema": "serveis",
+      "temes_secundaris": [
+        "mon",
+        "industria"
+      ],
+      "conceptes": [
+        "logística",
+        "transport intermodal",
+        "plataformes logístiques",
+        "globalització",
+        "comerç electrònic",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8,
+        9
+      ],
+      "text": "**Activitat logística i transport (2019)**\n\n(Mapa de Catalunya amb els principals nodes logístics. Llegenda: terminal intermodal d'ADIF, terminal ferroportuària i zona d'activitat logística. Nodes rotulats: Portbou, Granollers-Mercaderies, Barcelona - Can Tunis, Barcelona-Morrot, Barcelona, Constantí, Tarragona i Tarragona-Mercaderies. Escala gràfica de 75 km.)\n\n*Font:* Instituto Geográfico Nacional. *Atlas nacional de España* [en línia], 2019.",
+      "enunciat": "Exercici 3. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el mapa. Pregunta 1: el sector de la logística cada vegada té un paper més destacat en el transport. Expliqueu-ne les característiques responent a les preguntes següents. [1,5 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2021-J/e3-q1.png",
+          "peu": "Mapa dels principals nodes logístics de Catalunya (2019). Terminals intermodals d'ADIF (punt negre): Portbou, Granollers-Mercaderies, Barcelona - Can Tunis, Constantí i Tarragona-Mercaderies; terminals ferroportuàries (punt gris) al port de Barcelona (Morrot) i al de Tarragona; zona d'activitat logística (ZAL, punt clar) a Barcelona. Tots els nodes es concentren al litoral central i sud i a la frontera. Escala de 75 km. Font: IGN, Atlas nacional de España."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Què són les activitats logístiques?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Per què són unes activitats que estan en expansió?",
+          "punts": 0.5
+        },
+        {
+          "id": "c",
+          "enunciat": "Per què el transport intermodal és fonamental per al desenvolupament de les activitats logístiques?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Tres apartats de 0,5 punts: **a)** definició, **b)** causes de l'expansió, **c)** relació logística-intermodalitat. El mapa serveix d'exemple: feu-lo servir per il·lustrar les respostes (nodes de Barcelona, Tarragona, Granollers, Constantí, Portbou). Extensió: 5-7 línies per apartat. Temps: 12-15 minuts. Error típic: confondre logística amb simple transport (la logística inclou també l'emmagatzematge, la gestió d'estocs i la distribució)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Definició: conjunt de **moviments i emmagatzematge** que faciliten el **flux de productes** des del punt de compra de les matèries fins al punt de consum. Objectiu: lliurar el producte **en el moment i el lloc indicats** amb el menor temps i cost."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Les activitats logístiques són el conjunt d'operacions de transport, emmagatzematge, manipulació i distribució que faciliten el flux de productes des del punt de compra de les matèries primeres fins al punt de consum final. El seu objectiu és assegurar el lliurament d'un producte determinat en el moment i el lloc indicats, amb la menor despesa de temps i de cost. Es concentren en plataformes ben connectades, com les que mostra el mapa a l'entorn dels ports de Barcelona i Tarragona o a Granollers."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues línies d'explicació:\n\n1. **Globalització econòmica**: augment del comerç internacional, reducció dels estocs industrials (producció *just in time*), augment de la intermodalitat i noves tecnologies.\n2. **Noves demandes**: més quantitat i varietat de productes transportats, **comerç en línia**, enviaments més petits i nombrosos, devolucions i recanvis."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "La logística està en expansió perquè ha evolucionat en paral·lel a la globalització econòmica. L'increment del comerç internacional fa que les mercaderies recorrin distàncies cada cop més llargues; les empreses han reduït els seus estocs i treballen amb el sistema *just in time*, que exigeix un subministrament precís i continu; i la intermodalitat i les noves tecnologies (traçabilitat, gestió informatitzada de magatzems) permeten coordinar fluxos molt complexos. A més, han aparegut noves demandes: creix la quantitat i la varietat de productes transportats, s'ha disparat el comerç en línia, els enviaments són més petits i nombrosos i calen operacions de devolució i recanvi."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "El transport intermodal **combina diversos mitjans** (vaixell, tren, camió, avió) que conflueixen en **nodes** on s'ubiquen les plataformes logístiques. Requereix bona accessibilitat i espai. Permet canviar de mitjà **sense manipular la càrrega** gràcies a unitats intercanviables (contenidors), cosa que agilitza i abarateix les operacions. Exemple del mapa: terminals ferroportuàries i ZAL al port de Barcelona."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "El transport intermodal és fonamental perquè combina diversos mitjans de transport (marítim, ferroviari, per carretera i aeri) que conflueixen en punts o nodes on s'ubiquen les plataformes logístiques, al voltant de les quals s'organitza tot el procés de distribució. Aquests nodes han de tenir bona accessibilitat i espai suficient, com les terminals ferroportuàries i la zona d'activitat logística del port de Barcelona o les de Tarragona i Constantí que apareixen al mapa. La intermodalitat permet mecanitzar i agilitzar el canvi d'un mitjà de transport a un altre sense haver de manipular la càrrega, perquè el producte viatja en unitats intercanviables com els contenidors, i així es redueixen el temps i el cost."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Qualsevol moviment i emmagatzematge que faciliti el flux de productes des del punt de compra dels materials fins al de consum; objectiu: lliurar el producte en el moment i el lloc indicats amb la menor despesa de temps i cost (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Evolució paral·lela a la globalització: comerç internacional, reducció d'estocs industrials, intermodalitat i noves tecnologies; noves demandes: més quantitat i varietat de productes, comerç en línia, enviaments més petits, devolucions i recanvis (0,50)."
+          },
+          {
+            "apartat": "c",
+            "valor": "Combina diversos mitjans de transport que conflueixen en nodes on hi ha les plataformes logístiques; punts amb bona accessibilitat i espai; permet agilitzar el canvi de mitjà sense manipular la càrrega gràcies a unitats intercanviables (contenidors) (0,50)."
+          }
+        ],
+        "nota": "Feu servir exemples del mapa per demostrar que l'heu llegit (ports de Barcelona i Tarragona, Granollers, Portbou com a pas fronterer). Al b) no us quedeu només amb el comerç en línia: la pauta valora també la globalització i la reducció d'estocs."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e3-q2",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Dos exemples d'intermodalitat en el transport",
+      "tema": "serveis",
+      "temes_secundaris": [],
+      "conceptes": [
+        "transport intermodal",
+        "contenidors",
+        "port",
+        "ferrocarril",
+        "mobilitat de persones"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Exercici 3. Pregunta 2. Esmenteu dos exemples d'intermodalitat en el transport i comenteu-los breument. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de 0,5 punts: **dos exemples** (0,25 cadascun), cada un **comentat** (quins mitjans es combinen i on es fa el canvi). Podeu fer un exemple de mercaderies i un de persones. Extensió: 5-6 línies. Temps: 3-4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Mercaderies**: port de contenidors (Barcelona o Tarragona): el contenidor arriba en vaixell i continua per ferrocarril (terminal ferroportuària del Morrot) o per camió sense obrir-se.\n2. **Persones**: un treballador que va en bicicleta o cotxe fins a l'estació, agafa el tren fins a la gran ciutat i acaba el trajecte amb metro o autobús (aparcaments de dissuasió, intercanviadors).\n\nAltres exemples vàlids: autopista ferroviària (camions sobre trens), aeroport amb estació de tren."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Un primer exemple és el dels ports especialitzats en contenidors, com el de Barcelona. Els contenidors arriben per via marítima i, un cop descarregats a la terminal, continuen el trajecte per via terrestre, en ferrocarril (des de les terminals ferroportuàries com la del Morrot) o en camió, sense que calgui obrir-los ni manipular la mercaderia.\n\nUn segon exemple és el desplaçament diari d'una persona que viu a la regió metropolitana: va en bicicleta o en cotxe fins a l'estació de tren més propera, el deixa en un aparcament de dissuasió, agafa el ferrocarril fins a Barcelona i, un cop allà, fa servir el metro o l'autobús per arribar a la feina."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Exemple 1: ports de contenidors, on la mercaderia continua per ferrocarril o camió (0,25). Exemple 2: persona que va amb bicicleta o cotxe a l'estació, agafa el tren fins a la ciutat i després el metro o l'autobús (0,25). S'accepten altres exemples adequats."
+          }
+        ],
+        "nota": "No n'hi ha prou amb anomenar els mitjans: cal comentar com es combinen. Si podeu, relacioneu un exemple amb el mapa."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e3-q3",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Problemàtiques sociolaborals dels repartidors o riders",
+      "tema": "serveis",
+      "temes_secundaris": [],
+      "conceptes": [
+        "riders",
+        "economia de plataforma",
+        "precarietat laboral",
+        "falsos autònoms",
+        "logística de l'última milla"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Exercici 3. Pregunta 3. Quines problemàtiques sociolaborals afecten els treballadors del sector de la logística, els repartidors o riders, encarregats del transport final als consumidors? [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de 0,5 punts: situar els riders en la cadena logística (darrera baula, lliurament al consumidor) i explicar la seva **precarietat**. Extensió: 5-7 línies. Temps: 3-4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Són la **darrera baula** de la cadena logística (l'\"última milla\").\n2. No tenen contracte laboral: treballen com a **autònoms** (sovint falsos autònoms) per a plataformes digitals.\n3. Han d'assumir totes les **despeses** (combustible, reparacions, assegurances, manutenció del vehicle).\n4. Resultat: feina **precària i mal pagada**, sense protecció social (vacances, baixes), amb horaris irregulars i riscos (accidents de trànsit)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Els repartidors o riders són la darrera baula de la cadena logística: s'encarreguen de lliurar la mercaderia al consumidor, l'anomenada \"última milla\". Molts treballen per a plataformes digitals sense contracte laboral, com a autònoms (sovint falsos autònoms), de manera que han d'assumir totes les despeses derivades del transport de la mercaderia: combustible, reparacions, assegurances o manteniment del vehicle. Cobren per comanda lliurada, no tenen un horari ni uns ingressos estables i no gaudeixen dels drets d'un assalariat, com les vacances pagades o la cobertura de baixes, tot i estar exposats a riscos com els accidents de trànsit. El resultat és un treball precari i de baixa remuneració."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Els riders són la darrera baula de la cadena logística; no tenen contracte laboral sinó que treballen com a autònoms i han d'assumir totes les despeses (combustible, reparacions, assegurances, manutenció): treball precari i de baixa remuneració (0,50)."
+          }
+        ],
+        "nota": "La idea clau que puntua és la condició d'autònom (sense contracte) i les despeses que assumeixen: no us quedeu només amb \"cobren poc\". Podeu esmentar la \"llei rider\" (2021), que va obligar a contractar-los com a assalariats, però no és imprescindible."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e4-q1",
+      "exercici": 4,
+      "questio": 1,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "La deslocalització industrial: concepte, motius i risc de dependència (text sobre la COVID-19)",
+      "tema": "industria",
+      "temes_secundaris": [
+        "mon"
+      ],
+      "conceptes": [
+        "deslocalització industrial",
+        "globalització",
+        "països perifèrics",
+        "dependència exterior",
+        "covid-19",
+        "comentari de text"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11,
+        12
+      ],
+      "text": "**Els efectes de la globalització**\n\nLa crisi de la COVID-19 ha fet palès el risc que té la dependència dels mercats exteriors en els moments més crítics. Ho han experimentat tots els ciutadans, per als quals accedir a una mascareta ha estat impossible durant les setmanes més tenses de la pandèmia, i ho han denunciat reiteradament els principals empresaris del sector durant les seves intervencions en la sisena jornada de la cimera empresarial: «Depenem massa de la Xina i l'Índia. Cal reindustrialitzar Espanya; Espanya i Europa no poden assumir el risc de tenir deslocalitzada la producció de medicaments.»\n\nTraducció i adaptació fetes a partir del text de Pilar Blázquez. «La industria sanitaria alerta: \"Dependemos demasiado de China e India\"». *La Vanguardia* [en línia] (22 juny 2020)",
+      "enunciat": "Exercici 4. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Llegiu el text. Pregunta 1: l'article fa referència a una de les conseqüències de la globalització: la deslocalització industrial. Expliqueu-ne els trets principals responent a les preguntes següents. [1,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En què consisteix el fenomen de la deslocalització industrial?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Exposeu dos motius pels quals les empreses deslocalitzen la seva producció industrial.",
+          "punts": 0.5
+        },
+        {
+          "id": "c",
+          "enunciat": "Quin és el principal risc de la deslocalització industrial?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Tres apartats de 0,5 punts: **a)** definició amb data d'inici i sectors afectats, **b)** dos motius, **c)** el risc principal, il·lustrat amb l'exemple del text (mascaretes i medicaments durant la COVID-19). Extensió: 5-7 línies per apartat. Temps: 12-15 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Definició: **trasllat** de part o de tota la producció industrial d'empreses dels països desenvolupats a **països de la perifèria**. Inici: anys **80**. Sectors: els que necessiten molta **mà d'obra poc qualificada** (tèxtil, calçat, mobles, components electrònics)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "La deslocalització industrial és el fenomen que consisteix a traslladar una part o la totalitat de la producció industrial de les empreses dels països desenvolupats a països de la perifèria, com la Xina, l'Índia o el sud-est asiàtic. Es va iniciar als anys vuitanta del segle XX i ha afectat sobretot les activitats que requereixen molta mà d'obra poc qualificada, com el tèxtil, el calçat, els mobles o els components electrònics, mentre que la seu, el disseny i la recerca solen quedar-se al país d'origen."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Cal donar **almenys dos** motius ben explicats (la pauta en proposa tres, i se n'accepten d'altres):\n\n1. **Legislació laboral** menys estricta o inexistent als països perifèrics (jornada, treball infantil) → salaris i costos laborals baixos.\n2. **Legislació ambiental** menys estricta (emissions, residus) → menys costos.\n3. **Rapidesa i facilitat dels transports i les comunicacions** a escala global (contenidors, TIC), que permeten coordinar la producció a distància."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Un primer motiu és que als països de la perifèria la legislació laboral és menys estricta o inexistent pel que fa a la jornada laboral, els salaris o fins i tot el treball infantil, de manera que el cost de la mà d'obra és molt més baix. Un segon motiu és que la legislació ambiental també hi és menys exigent pel que fa a les emissions de gasos d'efecte hivernacle i a la generació i el tractament de residus, cosa que abarateix la producció. Tot això és possible gràcies a la rapidesa i la facilitat dels transports i les comunicacions a escala global, que permeten fabricar lluny i vendre els productes a tot el món."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Risc principal: la **dependència d'altres països** per al subministrament de productes **bàsics o estratègics**. Exemple del text: la manca de mascaretes i medicaments durant la COVID-19, fabricats sobretot a la Xina i l'Índia."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "El principal risc de la deslocalització industrial és la dependència d'altres països per al subministrament de productes bàsics o estratègics. Si la producció és lluny, qualsevol crisi pot interrompre les cadenes de subministrament. Ho va demostrar la crisi de la COVID-19: com explica el text, durant les setmanes més tenses de la pandèmia va ser impossible trobar mascaretes i hi va haver risc de manca de medicaments, perquè es fabricaven majoritàriament a la Xina i l'Índia. Per això els empresaris del sector reclamen reindustrialitzar Espanya i Europa."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Trasllat de part o de tota la producció industrial d'empreses de països desenvolupats a països de la perifèria; iniciat als anys 80; sectors amb molta mà d'obra poc qualificada (tèxtil, calçat, mobles, components electrònics) (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Almenys dos motius: legislació laboral menys estricta o inexistent; legislació mediambiental menys estricta (emissions, residus); rapidesa i facilitat dels transports i les comunicacions. S'accepten altres motius (0,50)."
+          },
+          {
+            "apartat": "c",
+            "valor": "Dependència d'altres països per al subministrament de productes bàsics o estratègics; exemple: manca de mascaretes i medicaments durant la COVID-19, fabricats sobretot a la Xina (0,50)."
+          }
+        ],
+        "nota": "Relacioneu el c) amb el text: és el que dona sentit al document. Al b) eviteu repetir dues vegades la mateixa idea (\"salaris baixos\" i \"mà d'obra barata\" compten com un sol motiu)."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e4-q2",
+      "exercici": 4,
+      "questio": 2,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals: industrialització i desenvolupament; terciarització dels països desenvolupats",
+      "tema": "mon",
+      "temes_secundaris": [
+        "industria",
+        "serveis"
+      ],
+      "conceptes": [
+        "industrialització",
+        "desenvolupament",
+        "terciarització",
+        "globalització",
+        "deslocalització industrial",
+        "vertader o fals"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        12
+      ],
+      "text": "**Els efectes de la globalització**\n\nLa crisi de la COVID-19 ha fet palès el risc que té la dependència dels mercats exteriors en els moments més crítics. Ho han experimentat tots els ciutadans, per als quals accedir a una mascareta ha estat impossible durant les setmanes més tenses de la pandèmia, i ho han denunciat reiteradament els principals empresaris del sector durant les seves intervencions en la sisena jornada de la cimera empresarial: «Depenem massa de la Xina i l'Índia. Cal reindustrialitzar Espanya; Espanya i Europa no poden assumir el risc de tenir deslocalitzada la producció de medicaments.»\n\nTraducció i adaptació fetes a partir del text de Pilar Blázquez. «La industria sanitaria alerta: \"Dependemos demasiado de China e India\"». *La Vanguardia* [en línia] (22 juny 2020)",
+      "enunciat": "Exercici 4. Pregunta 2. Justifiqueu fins a quin punt són vertaderes o falses les afirmacions següents: [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "La industrialització d'un país és sinònim de desenvolupament.",
+          "punts": 0.5
+        },
+        {
+          "id": "2",
+          "enunciat": "La globalització ha comportat que els països desenvolupats hagin sofert un procés de terciarització de les seves economies.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues afirmacions de 0,5 punts. Per a cadascuna: **posicionament** clar (vertadera/falsa) a la primera frase i després la **justificació** amb arguments i exemples. La pauta valora la capacitat d'argumentar. Extensió: 6-8 línies per afirmació. Temps: 8-10 minuts."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "**Falsa** en el món globalitzat.\n\n1. Fins a finals del segle XX la indústria es concentrava als països desenvolupats; després s'ha deslocalitzat cap a països poc desenvolupats.\n2. Països amb molta producció industrial, com l'Índia o Indonèsia, tenen greus problemes socials, econòmics, educatius i ambientals i grans desigualtats.\n3. Depenen dels països desenvolupats (seus de les multinacionals) i tenen poc control sobre els intercanvis i els preus.\n4. Desenvolupament = benestar (IDH: salut, educació, renda), no només producció."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "L'afirmació és falsa en el món globalitzat. Fins a finals del segle XX gairebé tota la indústria mundial es localitzava als països desenvolupats, i industrialització i riquesa anaven lligades. Des d'aleshores, però, aquests països han traslladat bona part de la seva producció industrial a països poc desenvolupats. Alguns dels països amb més producció industrial, com l'Índia o Indonèsia, continuen patint greus problemes socials, econòmics, demogràfics, educatius i mediambientals, i hi ha grans desigualtats. A més, depenen de les empreses i dels països desenvolupats, i tenen poca capacitat de decisió i de control sobre els intercanvis i els preus dels productes. Per tant, la industrialització no és sinònim de desenvolupament, que implica també benestar, educació, salut i distribució de la riquesa."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertadera**.\n\n1. Terciarització: la població ocupada en els **serveis** supera la dels altres sectors.\n2. El primari perd ocupats per la **mecanització**; el secundari, per la **deslocalització**.\n3. Els serveis creixen: als tradicionals (comerç, transport, turisme) s'afegeixen els avançats (informàtica, telecomunicacions, robòtica, R+D). Exemple: a Espanya i a Catalunya els serveis ocupen més del 70 % de la població activa."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "L'afirmació és vertadera. La terciarització és la transformació econòmica i social per la qual, als països més desenvolupats, la població ocupada en el sector terciari o de serveis passa a ser més nombrosa que la dels altres sectors. La globalització l'ha accelerada: el sector primari ha perdut molts treballadors gràcies a la mecanització, i el sector secundari ha deslocalitzat part de la seva producció a països perifèrics. En canvi, les activitats terciàries han augmentat considerablement: a les tradicionals, com el comerç, el transport o el turisme, s'hi han afegit serveis avançats relacionats amb la informàtica, les telecomunicacions, la robòtica o la recerca, que solen quedar-se als països rics. Així, a Espanya els serveis ja ocupen més de dues terceres parts de la població activa."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Falsa: des de finals del segle XX els països desenvolupats han traslladat la indústria a països poc desenvolupats; països molt industrials com l'Índia o Indonèsia tenen greus problemes i desigualtats i depenen dels països desenvolupats, amb poc control sobre intercanvis i preus (0,50)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Vertadera: als països desenvolupats la població ocupada al terciari és majoritària; el primari ha perdut ocupats per la mecanització i el secundari ha deslocalitzat producció; han crescut els serveis tradicionals i els nous (informàtica, telecomunicacions, robòtica, recerca) (0,50)."
+          }
+        ],
+        "nota": "No n'hi ha prou amb escriure \"vertader\" o \"fals\": la puntuació és per a l'argumentació. L'enunciat diu \"fins a quin punt\": podeu matisar (p. ex., la industrialització pot ser un pas cap al desenvolupament, com a Corea del Sud, però no n'és sinònim). La pauta formula les afirmacions amb el prefix \"En el món globalitzat...\", que l'examen no inclou a la primera."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e5-q1",
+      "exercici": 5,
+      "questio": 1,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Tres climogrames de la península Ibèrica: relació amb la localització (Cantàbric, Almeria, vall de l'Ebre)",
+      "tema": "clima",
+      "temes_secundaris": [
+        "relleu"
+      ],
+      "conceptes": [
+        "climograma",
+        "clima mediterrani continentalitzat",
+        "clima oceànic",
+        "clima mediterrani subàrid",
+        "factors del clima",
+        "mesos àrids",
+        "comentari de climograma"
+      ],
+      "dificultat": 3,
+      "pagines": [
+        13
+      ],
+      "text": "**Clima i paisatge**\n\n(Tres climogrames i un mapa del relleu de la península Ibèrica amb tres punts senyalats: A, a la costa cantàbrica; B, a la costa del sud-est, a Almeria; C, a la vall de l'Ebre.\n\n- Climograma 1: altitud 237 m; precipitació anual 351,5 mm; temperatura mitjana anual 14,6 °C.\n- Climograma 2: altitud 258 m; precipitació total anual 1.549 mm; temperatura mitjana anual 12,6 °C.\n- Climograma 3: altitud 7 m; precipitació total anual 222 mm; temperatura mitjana anual 18 °C.)\n\n*Font:* Instituto Geográfico Nacional. *Atlas nacional de España* [en línia].",
+      "enunciat": "Exercici 5. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu els climogrames i el mapa. Pregunta 1: relacioneu cada climograma amb un dels punts (A, B o C) senyalats en el mapa. Justifiqueu la vostra elecció indicant com la localització geogràfica condiciona els diferents tipus de clima. [1,5 punts]",
+      "figures": [
+        {
+          "src": "img/geografia/2021-J/e5-q1.png",
+          "peu": "Clima i paisatge: tres climogrames (barres = precipitació mensual en mm; línia = temperatura mitjana mensual en °C, amb l'escala P = 2T) i mapa hipsomètric de la península Ibèrica (altituds de 0 a més de 2.000 m) amb els punts A (costa cantàbrica), B (costa d'Almeria) i C (vall de l'Ebre). Climograma 1: 237 m, 351,5 mm, 14,6 °C; climograma 2: 258 m, 1.549 mm, 12,6 °C; climograma 3: 7 m, 222 mm, 18 °C. Font: IGN, Atlas nacional de España."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de 1,5 punts: **0,5 per climograma**. Per a cadascun: 1) assigneu el punt del mapa, 2) descriviu-lo amb dades (precipitació anual i distribució, mesos secs, temperatures d'hivern i d'estiu, amplitud), 3) poseu-li nom al clima i 4) **justifiqueu-ho amb la localització** (latitud, distància al mar, exposició a les borrasques atlàntiques, relleu). Extensió: 6-8 línies per climograma. Temps: 15 minuts. Error típic: no explicar els factors (la pregunta diu \"com la localització condiciona\")."
+          },
+          {
+            "apartat": null,
+            "titol": "Càlculs",
+            "cos": "Lectura aproximada dels climogrames (valors mensuals mesurats sobre els eixos, marcats amb ≈; els totals anuals i les mitjanes són els rotulats). Mes àrid (criteri de Gaussen): P < 2T; en aquests climogrames l'escala és P = 2T, per tant és àrid quan la barra queda per sota de la línia.\n\n| | Climograma 1 | Climograma 2 | Climograma 3 |\n|---|---|---|---|\n| Precipitació anual | 351,5 mm | 1.549 mm | 222 mm |\n| Mes més plujós | maig (≈ 42 mm) | desembre (≈ 170 mm) | desembre (≈ 37 mm) |\n| Mes més sec | juliol (≈ 16 mm) | juliol (≈ 83 mm) | juliol (≈ 1 mm) |\n| T mitjana anual | 14,6 °C | 12,6 °C | 18 °C |\n| T gener / T juliol-agost | ≈ 5 / ≈ 23 °C | ≈ 8 / ≈ 19 °C | ≈ 11 / ≈ 26 °C |\n| Amplitud tèrmica anual (Tmàx − Tmín) | ≈ 18 °C | ≈ 11 °C | ≈ 15 °C |\n| Mesos àrids (P < 2T) | ≈ 4 (juny-setembre) | cap | ≈ 10 (febrer-novembre) |\n\nAmplitud tèrmica = temperatura del mes més càlid − temperatura del mes més fred."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Climograma 1 → C (vall de l'Ebre) (0,5)**: pluja escassa (351,5 mm), 4-5 mesos secs a l'estiu, hiverns freds (≈ 5 °C) i estius calorosos (≈ 23 °C), amplitud gran → **mediterrani de tendència continental**. Factor: interior, lluny del mar, envoltat de serralades (Pirineu, Ibèric, serralades litorals) que aturen les masses d'aire humides (ombra pluviomètrica).\n2. **Climograma 2 → A (costa cantàbrica) (0,5)**: pluja abundant tot l'any (1.549 mm), sense mesos secs, temperatures suaus (hivern < 10 °C, estiu < 20 °C), amplitud petita → **oceànic o atlàntic**. Factor: latitud nord, façana oberta al pas freqüent de les borrasques atlàntiques i influència suavitzadora del mar.\n3. **Climograma 3 → B (cap de Gata, Almeria) (0,5)**: pluja molt escassa (222 mm), 10 mesos àrids, hivern suau (> 10 °C) i estiu molt càlid (≈ 25 °C) → **mediterrani subàrid** (estepari). Factor: latitud sud, a sotavent de les borrasques atlàntiques (protegit per les serralades Bètiques), obert als vents secs i càlids del nord d'Àfrica; el mar suavitza l'hivern."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El **climograma 1** correspon a la localitat **C**, situada a la vall de l'Ebre. Presenta precipitacions molt baixes (351,5 mm anuals), amb màxims a la primavera i a la tardor i una sequera estival de quatre o cinc mesos, pròpia del clima mediterrani. Les temperatures tenen grans contrastos: a l'hivern la mitjana dels mesos més freds se situa entre 0 i 5 °C, i a l'estiu supera els 20 °C (≈ 23 °C al juliol), amb una amplitud tèrmica d'uns 18 °C. És un clima mediterrani de tendència continental, propi de les localitats de l'interior de la península: la localitat C, a 237 m d'altitud, és lluny de l'efecte temperador del mar i està envoltada de serralades (Pirineu, Sistema Ibèric i serralades litorals catalanes) que impedeixen el pas de les masses d'aire marítimes i en redueixen les pluges.\n\nEl **climograma 2** correspon a la localitat **A**, a la costa cantàbrica. Les precipitacions són molt elevades (1.549 mm) i abundants tots els mesos de l'any: a l'estiu disminueixen (≈ 83 mm al juliol), però no hi ha cap mes sec. Les temperatures són suaus: a l'hivern queden poc per sota dels 10 °C i a l'estiu no superen els 20 °C, amb una amplitud tèrmica petita (≈ 11 °C). Són característiques del clima oceànic o atlàntic de la façana cantàbrica i gallega, explicades per la latitud septentrional, que la situa en el recorregut freqüent de les borrasques atlàntiques del front polar, i per la proximitat del mar, que suavitza les temperatures. La serralada Cantàbrica, a més, força l'ascens de l'aire humit i n'augmenta les pluges.\n\nEl **climograma 3** correspon a la localitat **B**, a la costa d'Almeria, a la zona del cap de Gata. És el més sec: només 222 mm anuals i deu mesos àrids, en què la precipitació és inferior al doble de la temperatura; al juliol i a l'agost gairebé no plou. Els hiverns són suaus (una mica per sobre dels 10 °C) i els estius molt càlids (≈ 25 °C), amb una temperatura mitjana anual de 18 °C. És el clima mediterrani subàrid de l'extrem sud-est peninsular. La latitud meridional i la situació a sotavent de les borrasques atlàntiques, que arriben molt afeblides després de travessar la península i les serralades Bètiques, expliquen la manca de pluja; la localitat està oberta als vents secs i càlids del nord d'Àfrica, i la proximitat del mar, a només 7 m d'altitud, suavitza els hiverns."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Climograma 1 → C: sequera estival de 4-5 mesos, 351,5 mm, hiverns entre 0 i 5 °C i estius > 20 °C: mediterrani de tendència continental, interior, 237 m, allunyat de la influència marítima (0,50). Climograma 2 → A: pluja alta tot l'any (1.549 mm), sense sequera estival, hiverns poc per sota de 10 °C i estius < 20 °C: clima temperat atlàntic de la façana cantàbrica, sotmès a les borrasques atlàntiques (0,50). Climograma 3 → B: gran sequera estival (10 mesos amb P < 2T), 221,9 mm, hiverns > 10 °C i estius ≈ 25 °C: mediterrani subàrid del sud-est (cap de Gata, Almeria), obert als vents secs i càlids del nord d'Àfrica (0,50)."
+          }
+        ],
+        "nota": "Els valors mensuals són lectures aproximades dels climogrames (≈); els totals i les mitjanes anuals són els rotulats al document (la pauta dona 221,9 mm per al climograma 3; el climograma diu 222 mm). Error típic: assignar el climograma 1 a la costa perquè té poca pluja: la clau per distingir C de B són les temperatures d'hivern (≈ 5 °C a l'interior davant de > 10 °C a la costa) i l'amplitud tèrmica. La pauta diu que el climograma 1 té hiverns d'entre 0 i 5 °C; a la gràfica el gener és a uns 5 °C."
+      }
+    },
+    {
+      "id": "geografia-2021-J-e5-q2",
+      "exercici": 5,
+      "questio": 2,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Paisatge mediterrani litoral de Catalunya: la masia i els riscos ambientals del clima mediterrani",
+      "tema": "primari",
+      "temes_secundaris": [
+        "medi-ambient",
+        "clima",
+        "paisatges"
+      ],
+      "conceptes": [
+        "masia",
+        "trilogia mediterrània",
+        "paisatge agrari tradicional",
+        "sequera",
+        "incendis forestals",
+        "inundacions",
+        "gota freda"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Exercici 5. Pregunta 2. Responeu a les qüestions següents, relacionades amb el paisatge mediterrani de les terres litorals de Catalunya. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Expliqueu les característiques de l'explotació agrària tradicional coneguda com a masia o mas.",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Descriviu breument dos riscos ambientals associats al clima mediterrani.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dos apartats de 0,5 punts: **a)** característiques de la masia (origen, gestió, conreus, altres aprofitaments) i **b)** **dos** riscos ambientals, cadascun amb la seva relació amb el clima mediterrani. Extensió: 6-8 línies per apartat. Temps: 8-10 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Origen **medieval**; explotació gestionada per una **unitat familiar**; eix del paisatge agrari tradicional.\n2. **Secà**: trilogia mediterrània (cereals, vinya, olivera) i fruita seca (ametllers, avellaners).\n3. **Hort de regadiu** per a l'autoconsum.\n4. **Bosc** explotat (llenya, suro, carbó) i **bestiar**.\n5. Idea de fons: explotació diversificada i bastant autosuficient (policultiu)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El paisatge agrari tradicional mediterrani de Catalunya s'articulava al voltant de la masia o mas, una explotació agrària d'origen medieval, habitada i gestionada per una unitat familiar, amb les terres agrupades al voltant de la casa. Era una unitat de producció diversificada, orientada a l'autoconsum: s'hi conreaven productes de secà com els cereals, la vinya i l'olivera, l'anomenada trilogia mediterrània, i en alguns indrets fruiters de fruita seca, com els ametllers i els avellaners. Moltes disposaven d'un petit hort de regadiu on es produïen hortalisses per al consum propi. L'explotació incloïa també un sector forestal, on s'aprofitava el bosc (llenya, fusta, suro), i s'hi criava bestiar."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Trieu **dos** dels tres riscos principals i lligueu-los amb un tret del clima mediterrani:\n\n- **Sequeres**: irregularitat de les precipitacions + estius secs i calorosos → estrès hídric.\n- **Incendis forestals**: període àrid estival (agreujat pel canvi climàtic) + abandonament dels conreus i acumulació de biomassa.\n- **Inundacions**: pluges torrencials de tardor (gota freda), rieres i rius curts."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Un primer risc ambiental són els incendis forestals. Poden tenir causes naturals o humanes, però les característiques del clima mediterrani n'afavoreixen l'expansió: un període estival sec i calorós, que el canvi climàtic allarga i agreuja, deixa la vegetació molt seca. L'abandonament dels conreus i la manca de gestió dels boscos, que acumulen molta biomassa, en fan créixer el perill.\n\nUn segon risc són les inundacions, que es produeixen generalment a la tardor. En situacions atmosfèriques de gota freda, l'aire fred en altura sobre un mar Mediterrani encara càlid provoca pluges torrencials que fan desbordar rius i rieres i poden causar pèrdues materials quantioses i fins i tot víctimes, sobretot on s'ha construït en zones inundables."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Explotacions d'origen medieval gestionades per una unitat familiar; secà amb la trilogia mediterrània (cereals, vinya, olivera) i fruita seca (ametllers, avellaners); hort de regadiu per a l'autoconsum; sector forestal explotat i bestiar (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Dos de: sequeres (irregularitat de les pluges, estius secs i calorosos → estrès hídric); incendis forestals (període àrid estival agreujat pel canvi climàtic, abandonament de conreus i augment de la biomassa); inundacions de tardor per pluges torrencials de gota freda (0,50)."
+          }
+        ],
+        "nota": "Al b) cal relacionar cada risc amb el clima mediterrani; no n'hi ha prou amb anomenar-lo. Si en dieu tres, només en compten dos: millor dos ben explicats."
+      }
+    }
+  ]
+}

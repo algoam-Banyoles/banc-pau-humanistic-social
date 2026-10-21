@@ -1,0 +1,563 @@
+{
+  "examen": {
+    "id": "geografia-2018-J",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2018,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/geografia/2018-J-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2018-J-solucio.pdf",
+    "estructura": "Sèrie 1. La prova té una part comuna obligatòria (exercicis 1 i 2, 2 punts cadascun) i una part optativa (exercicis 3, 4 i 5, 3 punts cadascun) de la qual cal escollir DOS exercicis, sense barrejar preguntes de diferents exercicis (total 10 punts). Cada exercici parteix d'un document i té dues o tres preguntes: exercici 1, mapa de la composició de la Unió Europea (països fundadors i darreres incorporacions, 0,3 + 0,2; Tractat de Schengen, 1; cronologia de la construcció europea, 0,5); exercici 2, taula d'indicadors de fecunditat a Catalunya 1975-2015 (1 + 1); exercici 3, mapa de la xarxa d'AVE (1 + 1 + 1); exercici 4, text sobre la gentrificació a Barcelona (1 + 1 + 1); exercici 5, mapa dels climes de Catalunya i incendis forestals (1 + 1 + 1). Cada exercici és un element amb les seves preguntes com a apartats (no hi ha opcions A/B, per això `opcio` és nul). Les pautes valoren, a més dels continguts, l'ordre, la precisió, el llenguatge, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2018-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Mapa de la composició de la Unió Europea: països fundadors, ampliacions i Schengen",
+      "tema": "territori",
+      "temes_secundaris": [
+        "mon"
+      ],
+      "conceptes": [
+        "unió europea",
+        "construcció europea",
+        "ampliacions de la ue",
+        "comunitat econòmica europea",
+        "espai schengen",
+        "tractat de maastricht",
+        "euro",
+        "comentari de mapa"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3,
+        4
+      ],
+      "text": "Els antecedents de la Unió Europea (UE) es remunten a l'any 1951, amb la formació de la Comunitat Europea del Carbó i de l'Acer (CECA) per part dels sis països fundadors. Des d'aleshores molts altres països s'han anat afegint al procés de construcció europea fins a arribar a la UE actual, que està formada per vint-i-vuit estats i és la primera potència comercial del món.",
+      "enunciat": "PART COMUNA (obligatòria). La prova consta d'una part comuna (exercicis 1 i 2), que heu de fer obligatòriament, i d'una part optativa (exercicis 3, 4 i 5), de la qual heu d'escollir dos exercicis. Exercici 1 [2 punts en total]. Llegiu el text, observeu el mapa *Composició de la Unió Europea* i responeu a les qüestions.",
+      "figures": [
+        {
+          "src": "img/geografia/2018-J/e1.png",
+          "peu": "Mapa polític d'Europa (*Composició de la Unió Europea*), situació del 2018, amb tres trames: estats de la UE (gris mitjà, els 28 estats membres, inclòs encara el Regne Unit), països candidats (gris fosc: Turquia, Sèrbia, Montenegro, Macedònia (avui Macedònia del Nord) i Albània) i països potencialment candidats (negre: Bòsnia i Hercegovina i Kosovo). Fletxa del nord i escala gràfica de 500 km. Font: elaboració pròpia a partir de dades publicades per la Unió Europea a <https://europa.eu/european-union/about-eu/>."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1a",
+          "enunciat": "Anomeneu i marqueu en el mapa els sis països fundadors de la Comunitat Econòmica Europea.",
+          "punts": 0.3
+        },
+        {
+          "id": "1b",
+          "enunciat": "Quins són els tres darrers països que s'han incorporat a la Unió Europea? Marqueu-los també en el mapa.",
+          "punts": 0.2
+        },
+        {
+          "id": "2",
+          "enunciat": "L'any 1995 Espanya s'incorpora al Tractat de Schengen. Expliqueu en què consisteix aquest tractat i quins n'han estat els avantatges per als ciutadans de la Unió Europea.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Relacioneu els esdeveniments de la columna de l'esquerra amb l'any en què van passar. Per fer-ho, escriviu el número corresponent en les caselles de la columna de la dreta.\n\n| Esdeveniment | Any |\n|---|---|\n| 1. Espanya entra a la Comunitat Econòmica Europea (CEE). | ☐ 1957 |\n| 2. Es crea la CEE. | ☐ 1986 |\n| 3. Entra en vigor el Tractat de Maastricht, que fixa les bases de la UE. | ☐ 2002 |\n| 4. Comença a circular l'euro com a moneda de la UE. | ☐ 1993 |",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici obligatori de 2 punts, molt pautat i de coneixements concrets: localitzar països al mapa (0,5), explicar un tractat (1) i ordenar quatre fites cronològiques (0,5). Dedica-hi uns 20 minuts.\n\n- A l'apartat 1 cal **anomenar i marcar**: si només escrius els noms o només marques, perds la meitat. Fes servir dos símbols diferents (per exemple, cercles per als fundadors i triangles per a les darreres incorporacions, com fa la pauta) i explica'ls en una mini-llegenda.\n- A l'apartat 2 hi ha dues parts: **en què consisteix** Schengen i **quins avantatges** té per als ciutadans.\n- A l'apartat 3 no hi ha res a redactar: n'hi ha prou amb el número a cada casella (0,125 per encert)."
+          },
+          {
+            "apartat": "1a",
+            "titol": "Com plantejar-ho",
+            "cos": "Els sis fundadors de la CECA (Tractat de París, 1951) són els mateixos que van crear la CEE i l'Euratom amb els **Tractats de Roma (1957)**: **França, la República Federal d'Alemanya, Itàlia, Bèlgica, els Països Baixos (Holanda) i Luxemburg**. Al mapa: França a l'oest; Bèlgica, Països Baixos i Luxemburg (el Benelux) al nord-est de França, Luxemburg el més petit, entre França, Bèlgica i Alemanya; Alemanya al centre; Itàlia, la península en forma de bota. La pauta dona **0,05 per país** encertat."
+          },
+          {
+            "apartat": "1a",
+            "titol": "Resposta model",
+            "cos": "Els sis països fundadors de la Comunitat Econòmica Europea (Tractat de Roma, 1957) són **França, Alemanya (llavors la República Federal d'Alemanya), Itàlia, Bèlgica, els Països Baixos i Luxemburg**. Al mapa els marco amb un **cercle**: França a l'oest del continent, els tres països del Benelux al nord-est de França, Alemanya al centre i Itàlia a la península Itàlica."
+          },
+          {
+            "apartat": "1b",
+            "titol": "Com plantejar-ho",
+            "cos": "Les darreres ampliacions són la del 2007 (**Romania i Bulgària**) i la del 2013 (**Croàcia**), que va fer arribar la UE als 28 estats que esmenta el text. Al mapa: Romania i Bulgària, a l'est dels Balcans, a la costa de la mar Negra (Bulgària al sud de Romania, amb el Danubi com a frontera); Croàcia, a la costa adriàtica, envoltant Bòsnia i Hercegovina (el país en negre). 0,05 per país i 0,2 si s'encerten els tres."
+          },
+          {
+            "apartat": "1b",
+            "titol": "Resposta model",
+            "cos": "Els tres darrers països incorporats a la Unió Europea són **Bulgària i Romania** (1 de gener de 2007) i **Croàcia** (1 de juliol de 2013). Al mapa els marco amb un **triangle**: Romania i Bulgària, a la vora de la mar Negra, i Croàcia, a la costa de l'Adriàtic, al voltant de Bòsnia i Hercegovina."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues idees (la pauta ho valora amb 1 punt global):\n\n1. **Què és**: un acord (1985, conveni d'aplicació del 1990, en vigor des del 1995) pel qual els estats signants **suprimeixen els controls a les fronteres interiors** i creen un espai de lliure circulació de persones, amb una **frontera exterior comuna** i una política comuna de visats, cooperació policial i judicial i un sistema d'informació compartit (SIS). Des del Tractat d'Amsterdam (1997) forma part del dret de la UE.\n2. **Avantatges** per als ciutadans: viatjar, residir, estudiar i treballar en un altre país sense passar controls de passaport; facilitat per al turisme i el comerç; més mobilitat laboral i estudiantil (Erasmus); sentiment de ciutadania europea; seguretat compartida.\n\nPots afegir que no coincideix exactament amb la UE (Irlanda en quedava fora i hi participen Noruega, Islàndia, Suïssa i Liechtenstein)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "El **Tractat (o Acord) de Schengen**, signat el 1985 per cinc països de la Comunitat Europea i completat pel Conveni d'aplicació del 1990, va crear l'**espai Schengen**, que va entrar en funcionament el 1995 amb Espanya entre els primers membres. Consisteix en la **supressió dels controls fronterers a les fronteres interiors** entre els estats signants, de manera que s'hi garanteix la **lliure circulació de persones**. A canvi, es reforça i s'unifica el control de la **frontera exterior comuna**, s'estableix una política comuna de visats i asil i es crea una cooperació policial i judicial amb un sistema d'informació compartit. Avui hi pertanyen la majoria d'estats de la UE i alguns que no en formen part, com Noruega, Islàndia o Suïssa.\n\nEls **avantatges per als ciutadans** són importants: poden **creuar les fronteres sense tràmits ni controls** de passaport, cosa que facilita els viatges, el turisme i les relacions entre regions frontereres (per exemple, entre Catalunya i França); afavoreix la **mobilitat laboral** i d'estudiants (programes com l'Erasmus) i, juntament amb el mercat únic, abarateix i agilitza el comerç i el transport. També reforça el **sentiment de ciutadania europea**, perquè l'espai comú es viu com un sol territori."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Ordena les fites cronològicament: Tractat de Roma i creació de la CEE (**1957**) → adhesió d'Espanya i Portugal (**1986**) → entrada en vigor del Tractat de Maastricht, que crea la UE (**1993**; signat el 1992) → circulació de les monedes i bitllets d'euro (**2002**; l'euro com a moneda escriptural existia des del 1999)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "| Esdeveniment | Any | Número a la casella |\n|---|---|---|\n| Es crea la CEE | 1957 | **2** |\n| Espanya entra a la CEE | 1986 | **1** |\n| Comença a circular l'euro | 2002 | **4** |\n| Entra en vigor el Tractat de Maastricht | 1993 | **3** |\n\nPer tant, les caselles queden, de dalt a baix: **2 – 1 – 4 – 3**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1a",
+            "valor": "Alemanya, Bèlgica, França, Holanda (Països Baixos), Itàlia i Luxemburg, anomenats i marcats (0,30; 0,05 per país encertat)."
+          },
+          {
+            "apartat": "1b",
+            "valor": "Romania, Bulgària i Croàcia, anomenats i marcats (0,20; 0,05 per país i 0,20 si s'esmenten els tres). La puntuació és proporcional als encerts, tant en noms com en ubicació."
+          },
+          {
+            "apartat": "2",
+            "valor": "Schengen garanteix la lliure circulació a l'interior de la pràctica totalitat dels països de la UE; avantatge: creuar les fronteres sense tràmits ni controls fronterers (1 punt)."
+          },
+          {
+            "apartat": "3",
+            "valor": "1957 → 2 (creació de la CEE); 1986 → 1 (Espanya entra a la CEE); 2002 → 4 (euro); 1993 → 3 (Maastricht). 0,125 per encert, màxim 0,50."
+          }
+        ],
+        "nota": "Errors típics: confondre els fundadors amb països de la primera ampliació (Regne Unit, Irlanda i Dinamarca, 1973) o posar Espanya; donar com a darreres incorporacions països de l'ampliació del 2004 (Polònia, Txèquia...) o països candidats del mapa (Sèrbia, Turquia...); confondre la signatura del Tractat de Maastricht (1992) amb la seva entrada en vigor (1993), o l'adopció de l'euro (1999) amb l'inici de la circulació de monedes (2002). El text parla de la CECA (1951) i la pregunta de la CEE (1957): els sis fundadors són els mateixos. Matís sobre la pauta: diu que Schengen garanteix la lliure circulació \"de béns i persones\"; en sentit estricte, Schengen elimina els controls sobre les **persones**, mentre que la lliure circulació de mercaderies prové del mercat únic (1993). A més, l'espai Schengen no coincideix amb la UE (el 2018 n'eren fora Irlanda, el Regne Unit, Xipre, Romania, Bulgària i Croàcia, i en formaven part Noruega, Islàndia, Suïssa i Liechtenstein). El mapa reflecteix la UE del 2018, amb 28 estats; després del Brexit (2020) en són 27."
+      }
+    },
+    {
+      "id": "geografia-2018-J-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Taula d'indicadors de fecunditat a Catalunya (1975-2015): causes i conseqüències de la baixa fecunditat",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "fecunditat",
+        "índex sintètic de fecunditat",
+        "taxa general de fecunditat",
+        "edat mitjana de la maternitat",
+        "immigració",
+        "reemplaçament generacional",
+        "envelliment demogràfic",
+        "comentari de taula estadística"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5,
+        6
+      ],
+      "text": "Segons l'Institut d'Estadística de Catalunya (Idescat), l'índex de fecunditat a Catalunya es manté estable, amb un nombre mitjà d'1,39 fills per dona. La taula següent recull les dades de les variables principals relacionades amb la fecunditat de la població catalana:\n\n| | IF | EMM | TGF |\n|---|---|---|---|\n| *1975* | 2,72 | 28,30 | 79,60 |\n| *1986* | 1,37 | 28,50 | 41,80 |\n| *1990* | 1,24 | 29,10 | 36,80 |\n| *1995* | 1,14 | 30,30 | 34,00 |\n| *2000* | 1,31 | 30,90 | 40,20 |\n| *2005* | 1,42 | 30,93 | 45,39 |\n| *2010* | 1,46 | 31,10 | 45,91 |\n| *2015* | 1,39 | 31,89 | 40,96 |\n\nIF: Índex de fecunditat (nombre mitjà de fills per dona).  \nEMM: Edat mitjana de la maternitat.  \nTGF: Taxa general de fecunditat en ‰.\n\nFont: Adaptació de dades publicades per l'Institut d'Estadística de Catalunya (Idescat), 2016.",
+      "enunciat": "PART COMUNA (obligatòria). Exercici 2 [2 punts en total]. Llegiu el text, observeu la taula i responeu a les qüestions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "La fecunditat és un dels indicadors principals de la transició demogràfica. Quin factor explica que a Catalunya hi hagués un augment de la taxa general de fecunditat (TGF) entre el 1995 i el 2010? Per què va disminuir el 2015?",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Actualment, l'indicador de fecunditat de Catalunya no arriba a 1,4. Exposeu quines causes poden explicar aquest fet i les conseqüències demogràfiques que té.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici obligatori de 2 punts, dues preguntes d'1 punt d'**explicació** (no de descripció): la taula és el punt de partida, però el que puntua són les causes. Cada pregunta té dues meitats de 0,5 (augment/disminució a la primera; causes/conseqüències a la segona): respon-les en dos paràgrafs separats. Cita algunes xifres de la taula per demostrar que l'has llegida. Uns 20 minuts.\n\nRecorda les definicions: la **TGF** és el nombre de naixements per cada 1.000 dones en edat fèrtil (15-49 anys) en un any; l'**IF** (índex sintètic de fecunditat) és el nombre mitjà de fills per dona; l'**EMM**, l'edat mitjana de les mares en tenir els fills."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Augment 1995-2010** (0,5): l'arribada massiva d'**immigració estrangera** (sobretot 2000-2008): població jove, en plena edat fèrtil, i amb pautes de fecunditat més altes i maternitat més precoç que l'autòctona. A més, les dones nascudes al *baby boom* (anys 60-70) van tenir els fills que havien endarrerit.\n2. **Disminució el 2015** (0,5): la **crisi econòmica iniciada el 2008** (atur, precarietat, dificultat d'accés a l'habitatge) frena l'arribada d'immigrants i en provoca el retorn, i les parelles autòctones **endarrereixen encara més la maternitat** (l'EMM passa de 31,10 a 31,89 anys). A més, arriben a l'edat fèrtil les generacions poc nombroses nascudes als anys 80-90."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Variació percentual = (valor final − valor inicial) / valor inicial × 100.\n\n| Període | TGF (‰) | Variació | IF | EMM (anys) |\n|---|---|---|---|---|\n| 1975 → 1995 | 79,60 → 34,00 | −57,3 % | 2,72 → 1,14 (−58,1 %) | 28,30 → 30,30 |\n| 1995 → 2010 | 34,00 → 45,91 | **+35,0 %** (+11,91 ‰) | 1,14 → 1,46 (+28,1 %) | 30,30 → 31,10 |\n| 2010 → 2015 | 45,91 → 40,96 | **−10,8 %** (−4,95 ‰) | 1,46 → 1,39 (−4,8 %) | 31,10 → 31,89 |"
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "La taula mostra que, després de la gran caiguda de la fecunditat iniciada a mitjan anys setanta (la TGF baixa del 79,60 ‰ del 1975 al **34,00 ‰** del 1995, el mínim de la sèrie), es produeix una recuperació fins al **45,91 ‰** del 2010 (un 35 % més). El factor principal que l'explica és l'**arribada massiva d'immigració estrangera** a Catalunya entre finals dels anys noranta i el 2008, atreta pel creixement econòmic. Era una població **jove**, concentrada en les edats de més fecunditat, i procedent de països (Marroc, Amèrica Llatina, Àfrica subsahariana...) amb pautes de fecunditat més elevades i una **edat de maternitat més baixa** que les parelles autòctones, de manera que va augmentar el nombre de naixements i de fills per dona. També hi va contribuir que les dones autòctones de les generacions nombroses del *baby boom* tinguessin els fills que havien ajornat.\n\nEl 2015 la TGF torna a baixar fins al **40,96 ‰** (−10,8 % respecte del 2010). La causa són els **efectes de la crisi econòmica iniciada el 2008**: l'atur i la precarietat van frenar l'arribada d'immigrants i en van provocar el retorn o la marxa cap a altres països, i, alhora, les parelles autòctones van **retardar encara més la maternitat** o van reduir el nombre de fills, com mostra l'augment de l'edat mitjana de la maternitat fins als **31,89 anys**."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Causes** (0,5): el **retard en l'accés a la maternitat** (EMM de 28,3 a 31,9 anys), amb factors **conjunturals** (crisi econòmica) i **estructurals**: allargament dels estudis, incorporació de la dona al mercat de treball i dificultats de conciliació, precarietat laboral i accés difícil a l'habitatge dels joves, emancipació tardana, canvis en els valors i en el model familiar, ús d'anticonceptius i poques polítiques de suport a la família. Quan es comença tard, es tenen menys fills.\n2. **Conseqüències demogràfiques** (0,5): una fecunditat d'1,39 queda molt per sota del **nivell de reemplaçament generacional (2,1 fills per dona)**: creixement natural molt baix o negatiu, **envelliment** de la població (piràmide de base estreta), dependència de la immigració per mantenir o fer créixer la població i, a llarg termini, menys població activa i pressió sobre les pensions i la sanitat.\n\nCàlcul útil: 1,39 / 2,1 ≈ 0,66 → cada generació de filles seria un terç menys nombrosa que la de les mares (sense immigració)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Causes.** La baixa fecunditat catalana, que no arriba a 1,4 fills per dona (1,39 el 2015), s'explica sobretot pel **retard en l'accés a la maternitat**: l'edat mitjana de les mares ha passat de 28,30 anys el 1975 a 31,89 el 2015, i com més tard es comença a tenir fills, menys fills es tenen. Aquest retard té causes **conjunturals**, com els efectes de la crisi econòmica (atur i incertesa), i causes **estructurals**: l'allargament dels estudis, la plena incorporació de la dona al mercat laboral sense prou mesures de conciliació, la **precarietat laboral** i les dificultats dels joves per accedir a l'**habitatge** i emancipar-se, que retarden la formació de parelles estables. També hi influeixen els canvis de valors (secularització, nous models familiars, prioritat del projecte personal i professional), la generalització dels mètodes anticonceptius i el cost elevat de criar fills amb poques ajudes públiques a les famílies.\n\n**Conseqüències demogràfiques.** Amb 1,39 fills per dona, Catalunya queda molt per sota de la **taxa de reemplaçament generacional**, situada en 2,1 fills per dona: sense immigració, cada generació seria aproximadament un terç menys nombrosa que l'anterior. Això fa que el **creixement natural** sigui molt baix o fins i tot negatiu i que s'accentuï l'**envelliment de la població**, amb una piràmide d'edats de base estreta i un pes creixent de la gent gran. A mitjà i llarg termini, comporta una reducció de la població jove i activa, un augment de la taxa de dependència i una dependència cada vegada més gran de la **immigració** per mantenir el volum de població i de treballadors."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Augment 1995-2010: immigració jove, en edat de tenir fills, amb pautes de fecunditat superiors i menor edat de maternitat (0,50). Disminució 2015: la crisi del 2008 redueix la població immigrada i retarda l'edat de maternitat de les parelles autòctones (0,50)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Causes: retard en l'accés a la maternitat, per factors conjunturals (crisi) i estructurals (dificultat de les parelles joves per estabilitzar la situació laboral i familiar) (0,50). Conseqüències: molt per sota del reemplaçament generacional i envelliment de la població (0,50)."
+          }
+        ],
+        "nota": "Errors típics: confondre la TGF (naixements per 1.000 dones de 15-49 anys, en ‰) amb la taxa de natalitat (naixements per 1.000 habitants) o amb l'índex de fecunditat (fills per dona); limitar-se a descriure la taula sense explicar causes; oblidar la segona part de cada pregunta (la caiguda del 2015, o les conseqüències). Observa que l'IF, tot i el repunt (1,46 el 2010), no ha superat mai el llindar de reemplaçament (2,1) des del 1986. Càlculs verificats amb Python. La pauta parla de la \"caiguda de la fecunditat\" a la pregunta 2; l'enunciat diu que l'IF \"es manté estable\" a 1,39: totes dues coses són compatibles (fecunditat baixa i estancada)."
+      }
+    },
+    {
+      "id": "geografia-2018-J-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Mapa de la xarxa ferroviària d'alta velocitat (AVE): model radial, ferrocarril convencional i funcions del transport",
+      "tema": "serveis",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "transport",
+        "alta velocitat",
+        "ave",
+        "xarxa radial",
+        "ferrocarril convencional",
+        "ample de via",
+        "corredor mediterrani",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7,
+        8,
+        9
+      ],
+      "text": "En les darreres dècades, Espanya ha construït una xarxa de tren d'alta velocitat (AVE) que és de les més extenses del món. Malgrat tot, s'ha criticat l'elevat cost de la infraestructura i el model seguit en el traçat. A continuació, podeu observar el mapa amb el traçat que ja s'ha construït i els trams que estan en construcció:",
+      "enunciat": "PART OPTATIVA: escolliu DOS dels tres exercicis següents (3, 4 i 5). Exercici 3 [3 punts en total]. Llegiu el text, observeu el mapa i responeu a les qüestions.",
+      "figures": [
+        {
+          "src": "img/geografia/2018-J/e3.png",
+          "peu": "Mapa d'Espanya (península, Balears i Canàries en requadre) amb els límits provincials i les capitals de província (punts): *Xarxa ferroviària d'alta velocitat (AVE)*. Línia negra contínua: AVE en funcionament (eixos radials des de Madrid cap a Barcelona i la frontera francesa, Valladolid-León, València-Alacant i Sevilla-Màlaga, a més de l'eix gallec); línia puntejada: trams en construcció (Galícia, Astúries, País Basc, Extremadura, Granada, Almeria-Múrcia, corredor mediterrani). Fletxa del nord i escala gràfica de 100 km. Font: elaboració pròpia a partir d'informació extreta d'ADIF [en línia]."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Observeu el mapa i digueu quin és el model de traçat de la xarxa ferroviària d'alta velocitat a Espanya. Quins avantatges i inconvenients té aquest model?",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Quins problemes presenta actualment la xarxa ferroviària convencional? La xarxa d'AVE pot solucionar aquests problemes?",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Quines són les funcions principals del transport?",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts (tria'n dos entre el 3, el 4 i el 5, sense barrejar preguntes). Tres preguntes d'1 punt, uns 25-30 minuts. La primera es respon **mirant el mapa** (identificar el model radial) i les altres són de coneixements. A cada pregunta hi ha dues parts que puntuen per separat (model + avantatges/inconvenients; problemes + si l'AVE els soluciona): no en deixis cap sense resposta."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Model** (0,5): xarxa **radial** amb centre a **Madrid**, com la xarxa de carreteres nacionals i el ferrocarril convencional del segle XIX. Al mapa, totes les línies en funcionament surten de Madrid: cap a Sevilla-Màlaga, València-Alacant, Saragossa-Barcelona-frontera i Valladolid-León.\n2. **Avantatges i inconvenients** (0,5): avantatge, comunicació ràpida de totes les capitals amb la capital de l'Estat (i reforç de la seva centralitat); inconvenients, mala connexió entre ciutats situades en radis diferents (per exemple, València-Barcelona o Bilbao-Saragossa), oblit dels grans eixos econòmics perifèrics (corredor mediterrani), cost molt elevat i línies amb poca demanda, i desequilibris territorials."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El mapa mostra que la xarxa d'alta velocitat segueix un **model de traçat radial** amb el centre a **Madrid**, el mateix que tenen la xarxa de carreteres nacionals i la del ferrocarril convencional. Des de Madrid surten les línies en funcionament cap a Sevilla i Màlaga, cap a València i Alacant, cap a Saragossa, Barcelona i la frontera francesa, i cap a Valladolid i León; els trams en construcció allarguen aquests radis cap a Galícia, Astúries, el País Basc o Extremadura.\n\nL'**avantatge** principal és la facilitat de comunicació de les capitals de província amb la **capital de l'Estat**, amb temps de viatge d'unes poques hores, cosa que reforça la cohesió política i la centralitat de Madrid. Els **inconvenients** són les dificultats per comunicar ciutats situades en **radis diferents**, que sovint han de passar per Madrid, i el retard dels eixos transversals i perifèrics amb més activitat econòmica, com el **corredor mediterrani**, que al mapa encara té molts trams en construcció. A més, s'han fet línies molt costoses que uneixen ciutats amb poca demanda de viatgers."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Problemes del ferrocarril convencional** (0,75): **ample de via ibèric** diferent de l'europeu (transbordaments i canvi d'eixos a la frontera); molts **trams de via única** i sense electrificar (menys velocitat i freqüència); infraestructures i material **obsolets** per falta d'inversió; baixa demanda (excepte les rodalies de Madrid i Barcelona) per la baixa freqüència i la competència de la carretera; poc pes del transport de mercaderies.\n2. **Pot solucionar-los l'AVE?** (0,25): difícilment, perquè no és una xarxa convencional sinó un servei de viatgers de mitjana distància entre grans ciutats (negocis i turisme); fins i tot ha absorbit la inversió que necessitaven les rodalies i les mercaderies."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "La xarxa ferroviària convencional presenta diversos problemes derivats d'unes **infraestructures obsoletes**. En primer lloc, l'**ample de via ibèric** és diferent del de la majoria de països europeus, cosa que obliga a fer costosos transbordaments o canvis d'eixos a la frontera i dificulta el transport internacional de mercaderies. En segon lloc, molts trams són de **via única** i alguns no estan electrificats, fet que redueix la velocitat i la freqüència dels trens. A més, hi ha trams i infraestructures en mal estat que no s'han modernitzat. Tot plegat explica la **poca demanda de passatgers**, tret dels serveis de rodalies de Madrid i Barcelona (que, al seu torn, pateixen saturació i incidències), i la forta competència del transport per carretera, tant de viatgers com de mercaderies.\n\nLa xarxa d'AVE **difícilment pot solucionar aquests problemes**, perquè no està concebuda com una xarxa convencional, sinó per al transport ràpid de viatgers de mitjana distància entre grans ciutats, orientat sobretot als desplaçaments de negocis i al turisme. No serveix les petites ciutats i pobles ni el transport de mercaderies, i el seu cost elevat ha restat inversió a la millora de les rodalies i de la xarxa convencional."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta en dona tres, després d'una frase introductòria sobre la importància del transport en una societat globalitzada: 1) **social**: respondre a la necessitat de desplaçament de les persones (feina, estudis, oci); 2) **econòmica**: posar en contacte la producció amb el mercat i distribuir béns i serveis (i permetre l'especialització i la localització de les activitats); 3) **integradora/cultural**: integrar grups socials i territoris i difondre idees, tècniques i cultures. Pots afegir la funció d'**articulació i vertebració territorial**."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "En una societat globalitzada, els transports són bàsics per **localitzar i connectar** les persones i les mercaderies, i en fan possible la circulació a escala local, estatal i mundial. Les seves funcions principals són tres:\n\n- **Funció social**: responen a la **necessitat de desplaçament de les persones**, que es mouen diàriament per anar a treballar o a estudiar (mobilitat obligada), i també per motius d'oci, turisme o compres.\n- **Funció econòmica**: satisfan les necessitats econòmiques, perquè **posen en contacte la producció amb el mercat** i fan possible la distribució de matèries primeres, béns i serveis; així permeten l'especialització productiva, la deslocalització i l'intercanvi comercial internacional.\n- **Funció d'integració**: contribueixen a **integrar els diferents grups socials** i territoris i a la **difusió de les idees, les tècniques i les cultures**; una bona xarxa de transport vertebra el territori i redueix els desequilibris entre espais centrals i perifèrics."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Model de xarxa radial amb centre a Madrid, com la xarxa de carreteres nacionals i el ferrocarril convencional (0,50). Avantatge: comunicació fàcil amb la capital de l'Estat; inconvenient: dificultat de comunicació entre ciutats situades en radis diferents (0,50)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Problemes (0,75): ample de via diferent de l'europeu (transbordaments a la frontera), trams de via única (menys velocitat i freqüència), mal estat d'infraestructures no modernitzades, poca demanda de passatgers tret de les rodalies de Madrid i Barcelona i competència de la carretera. L'AVE difícilment els soluciona: no és una xarxa convencional, sinó de mitjana distància entre grans ciutats per a turisme i negocis (0,25)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Funcions (1 punt): respondre a la necessitat de desplaçament de les persones; satisfer necessitats econòmiques posant en contacte producció i mercat i distribuint béns i serveis; integrar grups socials i difondre idees, tècniques i cultures."
+          }
+        ],
+        "nota": "Errors típics: descriure el recorregut de cada línia en lloc d'identificar el **model** (radial); dir només avantatges o només inconvenients; respondre la pregunta 2 només amb \"sí\" o \"no\" sense justificar-ho. Context útil: la primera línia d'AVE va ser Madrid-Sevilla (1992) i la Madrid-Barcelona va arribar el 2008; l'AVE es construeix amb ample de via internacional (UIC), a diferència de la xarxa convencional d'ample ibèric. Recorda que a la part optativa no es poden barrejar preguntes de diferents exercicis."
+      }
+    },
+    {
+      "id": "geografia-2018-J-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Text sobre la gentrificació a Barcelona: especulació, terciarització i urbanització mundial",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "mon"
+      ],
+      "conceptes": [
+        "gentrificació",
+        "especulació urbana",
+        "terciarització",
+        "urbanització",
+        "èxode rural",
+        "barris populars",
+        "comentari de text"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10,
+        11,
+        12
+      ],
+      "text": "Un pis de 15 m² per 1.000 euros al mes, sense despeses incloses. No és Manhattan, és Sant Antoni, un dels —fins fa poc— barris populars de Barcelona. L'apartament, un estudi loft sense divisions en què el llit està a menys d'un metre de la cuina, ha passat de ser l'excepció a ser la norma. En Jordi, el comercial d'una de les immobiliàries del barri que ensenya el pis, creu que està bastant bé «perquè tots els electrodomèstics són nous» i que si el preu és una mica alt es deu «al fet que el barri està una altra vegada de moda». Més enllà de les tendències i la llei de l'oferta i la demanda, els experts assenyalen un altre procés: el que passa a Sant Antoni o al Poble-sec, amb les seves particularitats, va passar al Raval, al Gòtic, a la Barceloneta, comença a passar al Poblenou i, més enllà de Barcelona, a altres barris com Malasaña o Lavapiés, a Madrid. Es diu gentrificació. El fenomen es defineix com «la substitució de la classe popular d'un barri per una de poder adquisitiu més gran», resumeix José Mansilla, antropòleg urbà i membre de l'Observatori d'Antropologia del Conflicte Urbà (OACU).\n\nTraducció feta a partir del text d'Esperanza Escribano. «La gentrificación arrasa los barrios de Barcelona, donde vivir es cada vez más caro». *Público* [en línia] (11 desembre 2016)",
+      "enunciat": "PART OPTATIVA: escolliu DOS dels tres exercicis (3, 4 i 5). Exercici 4 [3 punts en total]. Llegiu el text i responeu a les qüestions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "L'autora fa referència al terme gentrificació per a referir-se a un procés que es dona a molts barris de les grans ciutats. Expliqueu quines són les característiques més rellevants de la gentrificació.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes següents.\n\n- Especulació urbana\n- Terciarització",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "En l'actualitat, més de la meitat de la població mundial viu en zones urbanes. Expliqueu quins han estat els processos que han donat lloc a la concentració de la població a les ciutats.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts amb un text periodístic sobre Barcelona. Tres preguntes d'1 punt (uns 25-30 minuts): una explicació d'un procés urbà (gentrificació), dues definicions (0,5 cadascuna) i una explicació a escala mundial (urbanització), que la pauta divideix entre països desenvolupats i en desenvolupament (0,5 + 0,5). Fes servir exemples del text (Sant Antoni, Poble-sec, Raval, Barceloneta, Poblenou)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta demana que hi surtin: **dèficit d'oferta d'habitatge**, **manca d'habitatge de protecció oficial**, **lliure mercat** i **especulació**. Estructura't com un procés en cadena:\n\n1. Ciutat atractiva → augment de la demanda d'habitatge amb poca oferta de sòl → pugen els preus.\n2. Les immobiliàries s'interessen pels habitatges vells i barats dels barris populars cèntrics: els compren, els rehabiliten i els tornen a posar al mercat molt més cars (lloguer, venda o pisos turístics).\n3. Pressions per fer marxar els antics llogaters (no renovar contractes, assetjament).\n4. Resultat: els veïns de rendes baixes no poden pagar i marxen; els substitueixen residents amb més poder adquisitiu → canvi social del barri (i del comerç i del paisatge urbà)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "La **gentrificació** és el procés de **substitució de la població d'un barri popular per una altra de poder adquisitiu més alt**, que va acompanyat de la revalorització de l'habitatge i de la transformació del barri. Afecta sobretot barris cèntrics o propers al centre, antigament obrers i degradats, com Sant Antoni, el Poble-sec, el Raval o la Barceloneta, a Barcelona.\n\nEl procés parteix d'un **dèficit d'oferta d'habitatge**: la ciutat atrau població, activitats i turistes, però el sòl és escàs, de manera que la demanda supera l'oferta i els preus pugen. Com que hi ha molt poc **habitatge de protecció oficial** i el mercat funciona pràcticament en règim de **lliure mercat**, els agents immobiliaris s'interessen pels habitatges vells i de renda baixa d'aquests barris: els compren, els **rehabiliten** (com el pis de 15 m² \"amb tots els electrodomèstics nous\" del text) i els tornen a posar al mercat a un preu molt més alt, sovint com a pisos turístics o de lloguer de temporada. Aquesta **especulació** va acompanyada a vegades de pràctiques per fer marxar els antics llogaters, com no renovar-los el contracte o apujar-los molt el lloguer.\n\nEl resultat és que els antics residents, sovint gent gran o famílies de rendes baixes, no poden pagar els nous preus i han d'**abandonar el barri**; la població canvia progressivament per una de rendes més altes (professionals joves, estrangers), i també canvien el comerç (botigues de proximitat substituïdes per establiments \"de moda\"), els serveis i la vida social del barri."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues definicions de 0,5: què és (gènere pròxim), el mecanisme i un exemple.\n\n- **Especulació urbana**: obtenir el màxim benefici del sòl i l'habitatge aprofitant que l'oferta és limitada i la demanda elevada (comprar per revendre o llogar més car, retenir sòl...).\n- **Terciarització**: augment del pes del **sector serveis** en l'ocupació i el PIB, perquè la productivitat agrària i industrial redueix els ocupats d'aquests sectors; aplicat a la ciutat, substitució d'habitatges i indústries per oficines, comerç i hotels."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Especulació urbana**: procés pel qual els agents urbans (propietaris del sòl, promotors, immobiliàries, fons d'inversió) busquen el **màxim benefici econòmic** a partir de la manca d'habitatge urbà o de la reduïda oferta de sòl urbanitzable. Com que el sòl és limitat i la demanda és elevada, compren sòl o habitatges, els retenen o els rehabiliten i els venen o lloguen molt més cars; per exemple, l'augment dels lloguers als barris cèntrics de Barcelona.\n\n**Terciarització**: procés que viuen les societats avançades en què l'augment de la productivitat agrària i industrial fa que es redueixi l'ocupació en aquests dos sectors i, en canvi, augmenti l'activitat i l'ocupació en el **sector dels serveis** (comerç, turisme, finances, educació, sanitat...), que passa a concentrar la major part del PIB i dels ocupats. A les ciutats es tradueix en la substitució de fàbriques i habitatges per oficines, comerços i hotels, com al Poblenou (districte 22@)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Distingeix dos models (0,5 + 0,5):\n\n1. **Països desenvolupats** (Europa, Occident): urbanització lligada a la **industrialització** (segles XIX-XX): la ciutat ofereix feina a les fàbriques i serveis i la **mecanització i l'augment de productivitat agrària** allibera mà d'obra al camp → **èxode rural** (factors d'atracció). Procés relativament lent.\n2. **Països en desenvolupament**: urbanització accelerada els darrers 50 anys, deguda més a la **repulsió del medi rural** (pobresa, manca de terra, alt creixement natural, conflictes) que a l'oferta de feina urbana → creixement ràpid i desordenat, assentaments precaris (barraques, *favelas*), economia informal.\n\nPots afegir el creixement natural de la mateixa població urbana i la concentració de serveis i oportunitats a les ciutats."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "La concentració de la població mundial a les ciutats és el resultat de processos diferents segons el grau de desenvolupament dels països.\n\nEn les **societats europees i occidentals**, el creixement de les ciutats va estar directament relacionat amb la **industrialització**, a partir del segle XIX. Les fàbriques i, més endavant, els serveis van generar una gran **oferta de treball a la ciutat**, mentre que la **mecanització i l'augment de la productivitat agrària** van reduir la mà d'obra necessària al camp. Això va provocar l'**èxode rural**: milions de persones es van traslladar del camp a les ciutats atretes per la feina, els salaris i els serveis. A Catalunya, per exemple, l'àrea de Barcelona va créixer molt amb la immigració dels anys 1950-1970.\n\nEn els **països en vies de desenvolupament** el procés ha estat diferent: la urbanització no s'explica tant per la industrialització com per la **repulsió del medi rural**. Les dificultats per sobreviure al camp (pobresa, manca de terres, creixement demogràfic elevat, sequeres o conflictes) fan que molta gent emigri a les ciutats per millorar les seves expectatives de vida. Com que no hi ha prou feina ni habitatge, s'instal·len en **assentaments precaris** i suburbials, amb ocupacions informals. Aquest procés ha estat molt **ràpid i desordenat** en els darrers cinquanta anys i ha donat lloc a grans metròpolis com Lagos, Bombai o Ciutat de Mèxic. Avui, a més, la població urbana creix també pel seu propi creixement natural."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Característiques (1 punt): dèficit d'oferta d'habitatges, manca d'habitatge de protecció oficial, lliure mercat i especulació. Procés: més demanda i poca oferta → pugen els preus → les immobiliàries compren, rehabiliten i encareixen habitatges de renda baixa → pràctiques per fer marxar els llogaters → els antics residents de rendes baixes abandonen el barri i els substitueixen residents de rendes més altes."
+          },
+          {
+            "apartat": "2",
+            "valor": "Especulació urbana: recerca del màxim benefici a partir de la manca d'habitatge o de la reduïda oferta de sòl urbanitzable (0,50). Terciarització: l'augment de la productivitat agrària i industrial redueix l'ocupació en aquests sectors i augmenta l'activitat en els serveis (0,50)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Països europeus i occidentals: creixement urbà lligat a la industrialització; oferta de treball urbà i augment de la productivitat agrària → èxode rural (0,50). Països en desenvolupament: creixement per repulsió del medi rural, assentaments i ocupacions precàries, procés ràpid i desordenat en els darrers 50 anys (0,50)."
+          }
+        ],
+        "nota": "Errors típics: a la pregunta 1, limitar-se a copiar la definició del text (\"substitució de la classe popular...\") sense explicar el procés i els seus factors (dèficit d'habitatge, poc habitatge protegit, lliure mercat, especulació), que és el que la pauta valora; confondre terciarització amb turistificació (el turisme és només una part dels serveis); a la pregunta 3, explicar només el cas europeu. Matís: la gentrificació no es deu només a l'especulació immobiliària; hi influeixen també la rehabilitació pública dels barris, el turisme i els canvis en els estils de vida (preferència per viure al centre)."
+      }
+    },
+    {
+      "id": "geografia-2018-J-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Mapa dels climes de Catalunya i incendis forestals: clima mediterrani litoral i riscos naturals",
+      "tema": "clima",
+      "temes_secundaris": [
+        "medi-ambient",
+        "paisatges"
+      ],
+      "conceptes": [
+        "clima mediterrani litoral",
+        "climes de catalunya",
+        "risc natural",
+        "fenomen natural",
+        "incendis forestals",
+        "abandonament rural",
+        "gestió forestal",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        13,
+        14,
+        15
+      ],
+      "text": "Un incendi forestal va cremar una zona boscosa entre Martorell i Castellví de Rosanes, al Baix Llobregat, el mes de juliol del 2017. Una vintena de dotacions terrestres i dotze mitjans aeris dels bombers van treballar en l'extinció del foc, i al cap d'unes quantes hores van aconseguir estabilitzar-lo. Un cop acabada la feina, els bombers van voler remarcar la necessitat de ser molt curosos amb les burilles, sobretot a les comarques de clima mediterrani perquè tenen un risc d'incendis elevat.",
+      "enunciat": "PART OPTATIVA: escolliu DOS dels tres exercicis (3, 4 i 5). Exercici 5 [3 punts en total]. Llegiu el text, observeu el mapa i responeu a les qüestions.",
+      "figures": [
+        {
+          "src": "img/geografia/2018-J/e5.png",
+          "peu": "Mapa de Catalunya per comarques, *Climes de Catalunya*, amb sis tipus de clima: mediterrani litoral (gris clar: tota la franja costanera, des de l'Empordà fins a les Terres de l'Ebre, i la Depressió Prelitoral), mediterrani continental (gris mitjà: la Depressió Central occidental, Lleida i ponent), temperat submediterrani (gris fosc: Prepirineu i Pirineu oriental), temperat atlàntic (ratllat horitzontal: la Vall d'Aran), fred subalpí (ratllat vertical) i fred alpí (negre: alta muntanya pirinenca). Escala gràfica de 75 km i fletxa del nord. Font: adaptació d'un mapa publicat a Lluís Solé Sabarís, *Geografia de Catalunya*, Barcelona, AEDOS, 1958."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Exposeu breument les característiques del clima mediterrani litoral. Observeu el mapa i escriviu el nom de cinc capitals de comarca que es localitzin dins la zona d'aquest clima.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Expliqueu la diferència entre un fenomen natural i un risc natural. Esmenteu dos riscos naturals associats als elements climàtics mediterranis.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Els incendis forestals són un dels principals problemes ambientals dels territoris de clima mediterrani. Expliqueu-ne les causes en relació amb els canvis en l'espai rural i en la gestió forestal que s'han produït durant les darreres dècades.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts, tres preguntes d'1 punt (uns 25-30 minuts). Atenció al repartiment desigual: a la pregunta 1, les característiques del clima valen 0,75 i les capitals de comarca 0,25; a la 2, la diferència fenomen/risc val 0,75 i els dos riscos 0,25. La pregunta 3 té dues causes de 0,5 (abandonament de l'activitat rural i canvi en l'aprofitament del bosc). Assegura't que les capitals que esculls són **dins la taca gris clar** del mapa."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Característiques** (0,75): estiu càlid i **sec** a la vegada (aridesa estival, el tret definidor del clima mediterrani); hivern suau per la influència del mar (mitjanes de gener uns 8-10 °C, poques glaçades); temperatura mitjana anual de 15-17 °C i amplitud tèrmica moderada; pluges escasses (uns 500-700 mm) i irregulars, amb màxims a la tardor i la primavera i episodis **torrencials** (gota freda).\n2. **Cinc capitals** dins la zona de color gris clar (0,25): per exemple Barcelona, Tarragona, Girona, Mataró, Figueres, Reus, Tortosa, Amposta, Vilanova i la Geltrú, el Vendrell o Sant Feliu de Llobregat. Evita les de l'interior (Lleida, Manresa, Vic...), que el mapa situa en altres climes."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El **clima mediterrani litoral** es caracteritza per la coincidència a l'estiu d'una estació **seca i càlida** alhora, que determina unes condicions d'**aridesa estival**. Els estius són calorosos (mitjanes de 23-25 °C) i secs, mentre que els hiverns són **suaus** gràcies a la influència moderadora del mar, amb temperatures mitjanes al voltant dels 8-10 °C i poques glaçades; per això l'amplitud tèrmica anual és moderada. Les **precipitacions no són abundants** (entre 500 i 700 mm anuals) i són irregulars: es concentren a la **tardor** i la primavera i sovint tenen caràcter **torrencial**.\n\nSegons el mapa, aquest clima ocupa tota la franja litoral i prelitoral de Catalunya. Cinc capitals de comarca situades en aquesta zona són: **Barcelona** (Barcelonès), **Girona** (Gironès), **Tarragona** (Tarragonès), **Mataró** (Maresme) i **Tortosa** (Baix Ebre)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Diferència** (0,75): el **fenomen natural** és un procés propi de la dinàmica de la natura (pluja, vent, onades, terratrèmols), que passa independentment de les persones; el **risc natural** és la probabilitat (i la percepció humana) que un fenomen natural causi **danys personals o materials** a una societat exposada i vulnerable. Sense població ni béns exposats no hi ha risc. Fórmula útil: risc = perillositat × exposició × vulnerabilitat.\n2. **Dos riscos** climàtics mediterranis (0,25): inundacions (pluges torrencials), sequera, pedregades, temporals de vent i de mar, onades de calor, incendis forestals."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "Un **fenomen natural** és qualsevol manifestació de la dinàmica pròpia dels elements de la natura, com la pluja, el vent, les onades o una nevada; es produeix de manera independent de l'acció humana i, per si mateix, no és ni bo ni dolent. En canvi, un **risc natural** és una **percepció humana de perill**: la possibilitat que un fenomen natural causi **danys personals o materials** quan afecta un territori on hi ha persones, habitatges o activitats exposades. Per exemple, una pluja torrencial en un barranc deshabitat és un fenomen natural, però es converteix en un risc si s'ha construït a la llera o a la plana inundable. El risc depèn, doncs, de la perillositat del fenomen, de l'exposició i de la vulnerabilitat de la societat.\n\nDos riscos naturals associats als elements climàtics mediterranis són les **inundacions**, provocades per les pluges torrencials de tardor, i la **sequera**; també ho són les pedregades i els temporals de vent i de mar."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Les condicions naturals (estiu sec i calorós, vegetació inflamable) expliquen el risc, però la pregunta demana les **causes socioeconòmiques** recents (0,5 + 0,5):\n\n1. **Abandonament de l'activitat rural**: despoblament del camp i èxode rural → abandonament de conreus i pastures → el bosc i el matollar els recolonitzen → **grans masses forestals contínues**, sense discontinuïtats que frenin el foc (el paisatge en mosaic desapareix).\n2. **Fi de l'aprofitament del bosc**: el carbó vegetal i la llenya són substituïts pel gas butà, el gas natural i l'electricitat → el bosc deixa de ser rendible i no es neteja ni s'explota → **acumulació de biomassa** (combustible) al sotabosc.\n\nPots afegir la urbanització dispersa a la interfície urbana-forestal i la freqüentació (burilles, com diu el text)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "El clima mediterrani, amb estius secs i calorosos, i una vegetació adaptada a la sequera i molt inflamable fan que el risc d'incendi sigui estructural. Però l'augment dels grans incendis en les darreres dècades s'explica sobretot pels canvis en l'espai rural i en la gestió del bosc.\n\nEn primer lloc, l'**abandonament de les activitats rurals tradicionals** a causa del despoblament del camp i de l'emigració cap a les ciutats. Molts camps de conreu i pastures de les zones de muntanya i de les serralades litorals s'han deixat de treballar, i el bosc i el matollar els han recolonitzat. Així ha desaparegut el paisatge en mosaic (conreus, prats i boscos alternats) que actuava de tallafoc i s'han format **grans masses forestals contínues** que afavoreixen la propagació dels grans incendis.\n\nEn segon lloc, la **substitució del carbó vegetal i la llenya** com a combustibles domèstics pel gas butà, el gas natural i les calefaccions i cuines elèctriques. El bosc mediterrani ha deixat de ser **rendible** i se n'ha abandonat l'explotació: ja no es fa carbó, no es recull llenya ni es neteja el sotabosc. Per això s'ha produït un **increment de la biomassa vegetal acumulada**, que actua com a combustible i augmenta el risc d'incendi. A aquests factors s'hi afegeixen la proliferació d'urbanitzacions dins dels boscos i la imprudència humana, com les burilles que esmenta el text."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Coincidència a l'estiu d'una estació seca i càlida (aridesa estival); estius calorosos i secs, hiverns suaus; pluges no abundants i a vegades torrencials (0,75). Cinc capitals de comarca situades dins la zona de clima mediterrani litoral del mapa (0,25)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Fenomen natural: dinàmica pròpia dels elements naturals (pluja, vent, ones...); risc natural: percepció humana de perill per l'exposició a un fenomen natural que pot causar danys personals o materials (0,75). Dos riscos correctes: inundacions, pedregades, temporals de vent... (0,25)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Abandonament de les activitats rurals per despoblament i emigració a les ciutats: l'abandonament de conreus fa recuperar el bosc i forma grans masses forestals contínues (0,50). Substitució del carbó vegetal per gas butà, gas natural i electricitat: el bosc deixa de ser rendible, s'abandona l'explotació i augmenta la biomassa acumulada (0,50)."
+          }
+        ],
+        "nota": "Errors típics: dir que al clima mediterrani litoral plou molt a l'hivern (els màxims són a la tardor) o que els hiverns són freds; posar capitals de comarca de l'interior (Lleida, Manresa, Vic, Solsona, la Seu d'Urgell...) que el mapa situa en el clima mediterrani continental o submediterrani; confondre fenomen i risc; a la pregunta 3, explicar només les causes naturals (calor, vent) o les imprudències, quan la pregunta demana els canvis en l'espai rural i en la gestió forestal. Les xifres orientatives de temperatura i precipitació no surten al document: són valors habituals del clima mediterrani litoral català."
+      }
+    }
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "examen": {
+    "id": "geografia-2011-S",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2011,
+    "convocatoria": "setembre",
+    "serie": "2",
+    "pdf_examen": "pdfs/geografia/2011-S-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2011-S-solucio.pdf",
+    "estructura": "Sèrie 2. Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun; total 10). Cada exercici parteix d'un document (mapa o gràfic) i té quatre qüestions: 1) descriure el document (1 punt), 2) definir dos conceptes (1 punt), 3) i 4) explicar el fenomen, sovint amb subapartats a/b/c (1,5 punts cadascuna). Opció A: exercici 1, mapa dels turistes estrangers per destinació principal (2008) i turisme a Espanya; exercici 2, piràmide de població d'Espanya (2007) i dinàmica demogràfica. Opció B: exercici 1, mapa de les reserves provades de gas natural al món (2007) i problemàtica energètica; exercici 2, climograma de Vila-seca i clima mediterrani. Cada exercici és un element amb quatre apartats; la lletra final de l'id és l'opció (A/B). Les pautes valoren, a més dels continguts, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2011-S-e1-A",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa dels turistes estrangers per comunitat autònoma de destinació (2008): el turisme a Espanya",
+      "tema": "serveis",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "turisme",
+        "turisme interior",
+        "estacionalitat turística",
+        "turisme de sol i platja",
+        "tipus de turisme",
+        "impactes econòmics del turisme",
+        "mapa de coropletes",
+        "comentari de mapa"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        1,
+        2
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció A. Exercici 1 [5 punts en total]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2011-S/e1-A.png",
+          "peu": "Mapa de coropletes «Turistes estrangers per destinació principal (2008)»: percentatge de turistes estrangers que rep cada comunitat autònoma sobre el total espanyol. Llegenda (% del total espanyol): 0,00 a 5,00 (gris clar), 5,01 a 10,00 (ratllat vertical), 10,01 a 20,00 (ratllat obliqu), més de 20,00 (negre). Catalunya és l'única comunitat en negre (més del 20 %); Andalusia, les Illes Balears i les Illes Canàries, entre el 10 i el 20 %; la Comunitat de Madrid i la Comunitat Valenciana, entre el 5 i el 10 %; la resta, menys del 5 %. Sense xifres rotulades. Font: Instituto Nacional de Estadística (INE), 2008."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els conceptes *turisme interior* i *estacionalitat turística*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu quines són les zones turístiques més importants d'Espanya i quins atractius ofereixen. Quins són els principals països de procedència dels turistes?",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "A més del turisme de sol i platja, quins altres tipus de turisme hi ha actualment? Quins són els principals impactes econòmics del turisme a Espanya?",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts i segueix l'esquema clàssic de Geografia: **1** descriure el document (1 punt), **2** definir dos conceptes (1 punt), **3** i **4** explicar el fenomen (1,5 punts cadascuna). Dedica-hi uns 40-45 minuts (la meitat de l'examen).\n\n- A la **descripció** no s'expliquen causes: tipus de mapa (temàtic, de coropletes), àmbit (Espanya per comunitats autònomes), variable (% de turistes estrangers sobre el total estatal), any (2008) i font (INE); després, la **distribució** per intervals.\n- El mapa **no dona xifres per comunitat**, només intervals: cita els intervals de la llegenda (més del 20 %, 10-20 %...), no t'inventis percentatges exactes.\n- Les preguntes 3 i 4 tenen **dues parts cadascuna** (zones/atractius + procedència; tipus de turisme + impactes econòmics) que puntuen per separat: respon-les en paràgrafs diferents."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos blocs, com a la pauta (0,5 + 0,5):\n\n1. **Identificació**: mapa temàtic de coropletes amb quatre intervals (trames de grisos), àmbit estatal per comunitats autònomes, variable (percentatge de turistes estrangers segons la destinació principal sobre el total espanyol), any 2008, font INE.\n2. **Distribució**: gran concentració a les **illes i a la costa mediterrània**, importància de **Madrid** com a única destinació interior destacada, i escàs pes de l'interior i del nord (cornisa cantàbrica)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic de coropletes** d'àmbit estatal que representa, per comunitats autònomes, el **percentatge de turistes estrangers** que les tenen com a destinació principal sobre el total d'Espanya l'any **2008**. Les comunitats s'agrupen en quatre intervals amb trames de grisos (de 0 a 5 %, de 5,01 a 10 %, de 10,01 a 20 % i més del 20 %). La font és l'**Instituto Nacional de Estadística (INE)**.\n\nLa distribució és molt desigual i es concentra al **litoral mediterrani i als arxipèlags**. **Catalunya** és l'única comunitat que supera el **20 %** del total i és, per tant, la primera destinació. En el segon interval (**10-20 %**) hi ha **Andalusia**, les **Illes Balears** i les **Illes Canàries**. Entre el **5 i el 10 %** hi ha la **Comunitat Valenciana** i la **Comunitat de Madrid**, l'única comunitat de l'interior amb un pes destacat. La resta de comunitats de l'interior peninsular i de la cornisa cantàbrica (Galícia, Astúries, Cantàbria, País Basc, Navarra, Aragó, Castella i Lleó, Castella-la Manxa, Extremadura, La Rioja i Múrcia) reben **menys del 5 %** cadascuna: hi ha, doncs, un fort contrast entre la perifèria mediterrània i insular i l'interior i el nord."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Per a cada terme, una o dues frases precises i un exemple (0,5 + 0,5). **Turisme interior**: el que fan els residents d'un país dins del seu propi territori (també turisme nacional); exclou el turisme estranger. **Estacionalitat turística**: concentració dels viatges i les estades en uns mesos determinats (vacances d'estiu, Setmana Santa...), amb les conseqüències que comporta."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Turisme interior**: és el turisme que fan els residents d'un país dins del seu propi territori; quan es refereix a un estat també s'anomena *turisme nacional* i exclou el turisme estranger (receptor) i el que fan els residents a l'estranger (emissor). Per exemple, una família de Lleida que passa una setmana de vacances a Andalusia.\n\n**Estacionalitat turística**: és la concentració de la major part dels viatges i les estades turístiques en uns mesos determinats de l'any, els que coincideixen amb les vacances de la majoria de la població (sobretot juliol i agost, i també Setmana Santa o Nadal). És molt marcada al turisme de sol i platja i provoca la saturació dels serveis a l'estiu i el tancament d'hotels i la contractació temporal la resta de l'any."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues parts (1 + 0,5 punts):\n\n1. **Zones i atractius** (1 punt). La pauta vol almenys quatre grans conjunts: **sol i platja** a les illes i la costa mediterrània (Costa Brava, Costa Daurada, Costa Blanca, Costa del Sol, Balears, Canàries), **turisme urbà** a Barcelona i Madrid, **turisme de neu** al Pirineu (i Sierra Nevada, Sistema Central...), i **turisme cultural** en ciutats històriques (Granada, Sevilla, Toledo, Santiago de Compostel·la...). Per a cada zona, l'atractiu (clima, platges, patrimoni, oferta comercial i cultural, neu).\n2. **Procedència** (0,5). Com a mínim **Regne Unit, Alemanya i França**; després altres països de la UE (Itàlia, Països Baixos, Portugal, països nòrdics)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "Les zones turístiques més importants d'Espanya coincideixen amb les que destaquen al mapa. La primera és el **litoral mediterrani i els arxipèlags**, on predomina el **turisme de sol i platja**: la Costa Brava i la Costa Daurada a Catalunya, la Costa Blanca al País Valencià, la Costa del Sol a Andalusia i les Illes Balears i Canàries. Els seus atractius són el **clima mediterrani** (estius calorosos i secs, moltes hores de sol) o subtropical a les Canàries (temperatures suaus tot l'any, que permeten el turisme d'hivern), les platges, una oferta hotelera i d'oci molt desenvolupada des dels anys seixanta i la bona connexió aèria amb Europa i preus relativament baixos.\n\nEn segon lloc hi ha el **turisme urbà**, especialment a **Barcelona** i **Madrid**, que ofereixen museus, arquitectura, oferta comercial, esdeveniments, congressos i fires; Barcelona, a més, combina ciutat i platja i és un gran port de creuers. En tercer lloc, el **turisme de neu** al **Pirineu** (estacions de la Cerdanya, el Pallars, la Vall d'Aran o Aragó) i, en menor mesura, a Sierra Nevada i al Sistema Central. Finalment, el **turisme cultural** a ciutats històriques i monumentals com **Granada** (l'Alhambra), **Sevilla**, Còrdova, **Toledo**, Salamanca o **Santiago de Compostel·la** (Camí de Sant Jaume).\n\nPel que fa a la procedència, la majoria dels turistes estrangers vénen de països europeus, sobretot del **Regne Unit**, d'**Alemanya** i de **França**, que sumen més de la meitat del total; en menor mesura arriben d'altres països de la Unió Europea com **Itàlia**, els **Països Baixos**, **Portugal**, Bèlgica i els països nòrdics. La proximitat, els vols de baix cost i la diferència climàtica i de preus expliquen aquest predomini europeu."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues parts (0,5 + 1 punt):\n\n1. **Altres tipus de turisme** (0,5): cultural, rural, de neu o d'hivern, de salut (balnearis), religiós, ecològic o de natura, esportiu (golf, nàutic, aventura), de negocis i congressos, gastronòmic, de creuers... Enumera'n uns quants amb un exemple.\n2. **Impactes econòmics** (1): aportació al **PIB (~11 %)** i a l'**ocupació (~13 %)**; paper d'**anivellador de la balança de pagaments** (compensa el dèficit comercial); **efecte multiplicador** sobre restauració, comerç, construcció i transport; i els aspectes negatius: **dependència excessiva** d'algunes zones, **estacionalitat**, ocupació eventual i poc qualificada, baixa rendibilitat d'una part de l'oferta."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "A més del turisme de sol i platja, avui hi ha una gran diversitat de modalitats turístiques: el **turisme cultural** (visita de monuments, museus i ciutats històriques), el **turisme urbà i de negocis i congressos** (Barcelona, Madrid, València), el **turisme rural** (agroturisme i cases de pagès), el **turisme de neu o d'hivern** (Pirineu, Sierra Nevada), el **turisme de natura o ecoturisme** (parcs nacionals i naturals), el **turisme esportiu** (golf, nàutic, esports d'aventura), el **turisme de salut** (balnearis i talassoteràpia), el **turisme religiós** (Santiago de Compostel·la, Montserrat), el **gastronòmic** i el de **creuers**. Aquesta diversificació intenta reduir l'estacionalitat i la dependència del sol i platja.\n\nEl turisme té uns **impactes econòmics** molt importants a Espanya. És un dels sectors clau de l'economia: aporta al voltant de l'**11 % del PIB** i del **13 % de la població ocupada**. Els ingressos dels turistes estrangers fan que actuï com a **anivellador de la balança de pagaments**, ja que compensen bona part del dèficit de la balança comercial. A més, té un **efecte multiplicador** sobre altres sectors: hoteleria i restauració, comerç, construcció (urbanitzacions i segones residències), transport i activitats d'oci, i ha estat un motor del desenvolupament de moltes zones costaneres.\n\nAra bé, també té efectes negatius: algunes zones (Balears, Canàries, Costa del Sol) en tenen una **dependència excessiva**, de manera que una crisi als països emissors els afecta molt; la forta **estacionalitat** genera llocs de treball sovint **eventuals** i poc qualificats; i una part de l'oferta d'activitats i d'allotjament és de baixa qualitat i **escassa rendibilitat** (turisme de masses a preus baixos, paquets amb tot inclòs)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa temàtic que agrupa les comunitats autònomes en quatre intervals segons el % de turistes estrangers sobre el total espanyol; font INE, 2008 (0,5). Gran concentració a les illes i la costa mediterrània, importància de Madrid i escàs pes de l'interior i del nord (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Turisme interior: el que fan els residents d'un país dins del propi territori (turisme nacional), exclou el turisme estranger (0,5). Estacionalitat turística: concentració dels viatges i estades en uns mesos determinats, els de vacances de la majoria (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Zones: sol i platja a les illes i la costa mediterrània; turisme urbà a Barcelona i Madrid; neu al Pirineu i altres muntanyes; turisme cultural en ciutats com Granada, Sevilla, Toledo o Santiago (1). Procedència: França, Alemanya i Gran Bretanya; en menor mesura Itàlia, Holanda o Portugal (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Tipus: cultural, rural, d'hivern o de neu, de salut, religiós, ecològic o de natura, esportiu... (0,5). Impactes: aportació al PIB (11 %) i a l'ocupació (13 %); anivellador de la balança de pagaments; efecte multiplicador (restauració, comerç, construcció, transport); dependència excessiva i estacionalitat, treball eventual i escassa rendibilitat d'una part de l'oferta (1)."
+          }
+        ],
+        "nota": "Errors típics: a l'apartat 1, explicar per què Catalunya rep tants turistes (això és l'apartat 3) o oblidar el tipus de mapa, l'any i la font; inventar percentatges exactes, quan el mapa només dona intervals. Si es vol aportar una xifra de context, el 2008 Espanya va rebre uns 57 milions de turistes estrangers (Frontur), però no és necessari. No confonguis *turisme interior* (dels residents dins el país) amb *turisme d'interior* (el que es fa a les zones no litorals): és l'error més freqüent de l'apartat 2. A l'apartat 4, la part dels impactes val el doble que la dels tipus: no t'hi estenguis amb la llista de tipus i dedica més espai als impactes, positius i negatius."
+      }
+    },
+    {
+      "id": "geografia-2011-S-e2-A",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Piràmide de població d'Espanya (2007): estructura per sexe i edat i dinàmica demogràfica",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "piràmide d'edats",
+        "estructura de la població",
+        "esperança de vida",
+        "envelliment",
+        "natalitat",
+        "fecunditat",
+        "immigració",
+        "baby boom"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció A. Exercici 2 [5 punts en total]. Observeu el gràfic següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2011-S/e2-A.png",
+          "peu": "Piràmide de població d'Espanya (2007): població per grups d'edat quinquennals (de 0-4 a més de 85 anys) i sexe, en % sobre la població total; homes a l'esquerra (gris clar) i dones a la dreta (gris fosc), eix de 0 a 5 %. Base estreta (≈ 2,4-2,5 % per sexe als 0-4 anys), màxim als 30-34 anys (≈ 4,6 % homes, ≈ 4,3 % dones), osca als 65-69 anys i cim ample amb predomini de dones. Font: Instituto Nacional de Estadística (INE). Cens de població de l'1 de gener de 2007."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el gràfic.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els conceptes *estructura de la població* i *esperança de vida*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu les causes de les diferències que s'observen entre les dones i els homes en els grups d'edat següents:\n\n- *a*) De 0 a 4 anys.\n- *b*) De 20 a 40 anys.\n- *c*) Més de 65 anys.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Exposeu les característiques actuals de la natalitat, la fecunditat i la mortalitat en la població espanyola. Valoreu les conseqüències socioeconòmiques de l'evolució demogràfica actual de la població d'Espanya.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 5 punts sobre una **piràmide d'edats**. Dedica-hi uns 40-45 minuts.\n\n- **Apartat 1**: identificació (què representa cada eix, sexes, font i data) i forma general de la piràmide (regressiva, envellida) amb les irregularitats visibles. Sense causes detallades.\n- **Apartat 2**: dues definicions breus i precises.\n- **Apartat 3**: tres subapartats (0,5 cadascun); cal comparar homes i dones en cada franja i donar la causa (biològica, migratòria, d'esperança de vida).\n- **Apartat 4**: dues parts: característiques de natalitat, fecunditat i mortalitat (amb xifres: fecunditat ≈ 1,4 fills per dona) i conseqüències socioeconòmiques de l'envelliment.\n\nLlegir bé les edats en clau de **generacions** (any de naixement = 2007 − edat) ajuda molt a explicar les osques i els eixamplaments."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos blocs (0,5 + 0,5):\n\n1. **Identificació**: piràmide de població (d'edats) d'Espanya, estructura per sexe i grups d'edat quinquennals; eix horitzontal = % de població, eix vertical = grups d'edat de 5 en 5 anys; homes a l'esquerra, dones a la dreta; font INE, cens de l'1 de gener de 2007.\n2. **Forma**: **regressiva** o contractiva (base més estreta que el cos), població envellida, cim ample per l'alta esperança de vida, gran eixamplament a les edats adultes (25-49 anys), lleugera recuperació de la natalitat a la base (0-4 anys) i **osca** dels nascuts durant la Guerra Civil (65-69 anys)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Valors **estimats** mesurant la longitud de les barres sobre l'eix (1 % ≈ 82 píxels; precisió ±0,1 punts), en % sobre la població total (la suma de totes les barres dona ≈ 100 %):\n\n| Grup d'edat | Homes | Dones | Homes per 100 dones |\n|---|---|---|---|\n| 0-4 | ≈ 2,5 | ≈ 2,4 | ≈ 102 |\n| 25-29 | ≈ 4,3 | ≈ 4,0 | ≈ 105 |\n| 30-34 (grup més nombrós) | ≈ 4,6 | ≈ 4,3 | ≈ 107 |\n| 35-39 | ≈ 4,3 | ≈ 4,1 | ≈ 104 |\n| 65-69 (osca) | ≈ 1,9 | ≈ 2,2 | ≈ 87 |\n| 70-74 | ≈ 2,0 | ≈ 2,5 | ≈ 81 |\n| Més de 85 | ≈ 0,6 | ≈ 1,4 | ≈ 40 |\n\nGrans grups d'edat (sumes, homes + dones):\n\n- Joves (0-14 anys): ≈ 7,3 + 7,1 = **≈ 14,3 %**\n- Adults (15-64 anys): ≈ **69,3 %**\n- Gent gran (65 anys i més): ≈ 7,0 + 9,9 = **≈ 16,8 %**\n\nÍndex d'envelliment = població de 65 anys i més / població de 0-14 anys × 100 ≈ 16,8 / 14,3 × 100 ≈ **117** (hi ha més gent gran que joves).\n\nTaxa de dependència = (0-14 + 65 i més) / (15-64) × 100 ≈ (14,3 + 16,8) / 69,3 × 100 ≈ **45 %**.\n\nLectura generacional (població a 1-1-2007): 30-34 anys = nascuts el 1972-1976 (final del *baby boom*); 65-69 anys = nascuts el 1937-1941 (Guerra Civil i primera postguerra); 5-14 anys = nascuts el 1992-2001 (mínim de natalitat)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El document és una **piràmide de població** o d'edats d'**Espanya** que representa l'**estructura de la població per sexe i edat**. A l'eix vertical hi ha els grups d'edat quinquennals, des dels 0-4 anys fins als més de 85, i a l'eix horitzontal el **percentatge** de cada grup sobre la població total; a l'esquerra hi ha els homes i a la dreta les dones. Les dades provenen de l'**Instituto Nacional de Estadística (INE)** i corresponen a l'**1 de gener de 2007**.\n\nLa piràmide té una forma **regressiva o contractiva**, pròpia d'una **població envellida**: la base és més estreta (al voltant del 2,4-2,5 % per sexe en els grups de 0 a 19 anys) que el cos central. Els grups més nombrosos són els adults de **25 a 44 anys**, amb el màxim als **30-34 anys** (≈ 4,6 % d'homes i ≈ 4,3 % de dones), que corresponen a les generacions del *baby boom*. El grup de **0-4 anys** és lleugerament més ample que els de 5-14, cosa que indica una **lleugera recuperació de la natalitat** els darrers anys. Al cim, el pes de la gent gran és elevat (≈ 17 % de la població té 65 anys o més, més que els menors de 15 anys) i hi ha grups d'edat molt avançada, sobretot de dones, per l'alta esperança de vida. Finalment, s'observa una **osca** al grup de **65-69 anys**, que correspon a les generacions nascudes durant la Guerra Civil i la immediata postguerra (1937-1941)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Definicions breus (0,5 + 0,5). **Estructura de la població**: composició de la població segons característiques com el sexe i l'edat (també l'activitat, l'estat civil...); la piràmide n'és la representació gràfica. **Esperança de vida**: nombre mitjà d'anys que viuria una persona (en néixer o a una edat determinada) si es mantinguessin els patrons de mortalitat actuals; dona un exemple amb xifres."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Estructura de la població**: és la composició d'una població segons determinades característiques, principalment el **sexe i l'edat** (grups de joves, adults i gent gran; proporció d'homes i dones), però també l'activitat econòmica, el nivell d'instrucció o l'estat civil. L'estructura per sexe i edat es representa amb una piràmide de població, com la del document.\n\n**Esperança de vida**: és el nombre mitjà d'anys que viuria una persona des del naixement (o des d'una edat determinada) si els patrons de mortalitat del moment no canviessin al llarg de la seva vida. És un indicador del nivell de desenvolupament i de les condicions sanitàries: a l'Espanya del 2007 era d'uns 78 anys per als homes i d'uns 84 per a les dones."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Un paràgraf per a cada franja (0,5 cadascuna), dient primer **què s'observa** i després **per què**:\n\n- *a*) **0-4 anys**: hi ha una mica més de nens que de nenes → **causa biològica**: neixen uns 105 nens per cada 100 nenes (la pauta: 512 nens i 488 nenes de cada 1.000 naixements).\n- *b*) **20-40 anys**: predomini masculí (≈ 105-107 homes per 100 dones als 25-39 anys) → en part pels naixements, però sobretot per la **immigració** estrangera dels anys 2000, majoritàriament masculina i en edat de treballar.\n- *c*) **Més de 65 anys**: predomini clar de dones, que augmenta amb l'edat (més de 85 anys: ≈ 2,5 dones per cada home) → **sobremortalitat masculina** i **més esperança de vida femenina** per factors biològics i socials (hàbits, feines de risc, accidents, consum de tabac i alcohol...)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "*a*) **De 0 a 4 anys.** En aquest grup hi ha un nombre lleugerament superior de nens que de nenes (≈ 2,5 % d'homes enfront de ≈ 2,4 % de dones). Es deu a una **tendència biològica natural**: en totes les poblacions neixen més nens que nenes, aproximadament 105 nens per cada 100 nenes (de cada 1.000 naixements, uns 512 són nens i 488 nenes).\n\n*b*) **De 20 a 40 anys.** També hi predominen els homes, i amb més diferència que a la base (als 30-34 anys hi ha ≈ 4,6 % d'homes i ≈ 4,3 % de dones, uns 107 homes per cada 100 dones). En part és conseqüència del major nombre de naixements masculins, que es manté perquè en aquestes edats la mortalitat és baixa, però sobretot de l'**arribada massiva d'immigrants** estrangers des de finals dels anys noranta, que són majoritàriament joves en edat de treballar i, en conjunt, més homes que dones (feines a la construcció, l'agricultura, etc.).\n\n*c*) **Més de 65 anys.** La tendència s'inverteix i hi ha un **clar predomini de les dones**, que augmenta amb l'edat: als 70-74 anys hi ha uns 81 homes per cada 100 dones i, a partir dels 85 anys, hi ha unes 2,5 dones per cada home. La causa és la **sobremortalitat masculina** a totes les edats i la **major esperança de vida de les dones** (uns sis anys més), que s'explica per factors biològics (protecció hormonal, més resistència) i sociològics (els homes han tingut feines més perilloses i més hàbits de risc, com el tabac, l'alcohol o la conducció, i més mortalitat per accidents)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues parts (0,75 + 0,75):\n\n1. **Característiques actuals**: **baixa natalitat** (≈ 10-11 ‰), intensificada a les dues últimes dècades del segle XX, pel retard de la maternitat i la reducció de fills per parella; **baixa fecunditat** (≈ 1,39 fills per dona, lluny dels 2,1 del relleu generacional), per anticonceptius, incorporació de la dona al mercat laboral i nivell d'instrucció, cost de criar fills, retard del primer fill, canvis en la família; **baixa mortalitat** (≈ 8-9 ‰) per l'augment de l'esperança de vida, tot i que tendeix a pujar lleugerament per l'envelliment.\n2. **Conseqüències**: feble creixement vegetatiu i **envelliment** → desequilibri del **sistema de pensions** (més pensionistes per actiu), més **despesa sanitària** i en serveis per a la gent gran (dependència), possible manca de mà d'obra que pot atraure **noves immigracions**."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "La població espanyola es caracteritza actualment per una **baixa natalitat**, al voltant del 10-11 ‰. Aquesta tendència es va intensificar a les dues últimes dècades del segle XX i es deu al **retard de la maternitat** i a la **disminució del nombre de fills per parella**; només en els darrers anys hi ha hagut una lleugera recuperació, en bona part gràcies als naixements de mares immigrants (és l'eixamplament de la base de la piràmide). La **fecunditat** també és **molt baixa**: l'índex sintètic de fecunditat és d'uns **1,39 fills per dona**, molt per sota dels **2,1** necessaris per garantir el reemplaçament generacional. Les causes són socioeconòmiques i culturals: l'accés als mètodes anticonceptius, el canvi del paper de la dona amb la seva **incorporació al mercat de treball** i l'augment del seu nivell d'instrucció i de la seva capacitat de decisió, l'elevat cost de la cura i l'educació dels fills, el retard de l'edat del primer fill i els canvis en l'estructura familiar. Finalment, la **mortalitat és baixa** (uns 8-9 ‰) gràcies a l'augment de l'**esperança de vida** per les millores sanitàries, alimentàries i del nivell de vida, tot i que darrerament es manté relativament elevada o tendeix a pujar a causa de l'**envelliment** de la població.\n\nAquesta evolució té importants **conseqüències socioeconòmiques**. La baixa natalitat i fecunditat donen lloc a un **feble creixement vegetatiu** i, juntament amb l'allargament de l'esperança de vida, provoquen un **envelliment progressiu** de la població. En el futur, això comportarà **desequilibris en el sistema de pensions**, perquè hi haurà una proporció més gran de pensionistes respecte de la població activa que cotitza. També augmentarà la **despesa sanitària** i en serveis socials adreçats a la gent gran (residències, atenció a la dependència). D'altra banda, el **mercat de treball** podria necessitar més mà d'obra de la que poden oferir les generacions joves, poc nombroses, fet que pot impulsar nous corrents d'**immigració**. Per això calen polítiques de suport a les famílies i de conciliació, i reformes que garanteixin la sostenibilitat de l'estat del benestar."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Piràmide d'Espanya amb l'estructura per grups d'edat; eix horitzontal = % de població, eix vertical = grups quinquennals; dones a la dreta i homes a l'esquerra; INE, 1-1-2007 (0,5). Forma regressiva o contractiva (envellida) amb lleugers símptomes de recuperació de la natalitat; grups d'edat molt avançada per l'alta esperança de vida; eixamplament a les edats adultes i contracció dels nascuts el 1938-1940 (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Estructura de la població: composició i classificació per grups d'edat i per sexes (0,5). Esperança de vida: anys que viuria una persona si els patrons de mortalitat no canvien al llarg de la seva vida (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) 0-4 anys: lleugerament més nens que nenes, per tendència biològica (512 nens i 488 nenes de cada 1.000 naixements) (0,5). b) 20-40 anys: predomini masculí, en part pels naixements però sobretot per la immigració, majoritàriament masculina (0,5). c) Més de 65 anys: predomini de les dones per la seva major esperança de vida, per factors biològics i sociològics (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Baixa natalitat (retard de la maternitat, menys fills per parella); baixa fecunditat (1,39 fills per dona, lluny del 2,1 de reemplaçament; anticonceptius, treball i instrucció de la dona, cost dels fills, retard del primer fill, canvis familiars); baixa mortalitat per l'augment de l'esperança de vida, però relativament elevada per l'envelliment (0,75). Feble creixement vegetatiu i envelliment: desequilibri del sistema de pensions, més despesa sanitària per a la gent gran, necessitat de mà d'obra que pot impulsar nova immigració (0,75)."
+          }
+        ],
+        "nota": "Les xifres de la piràmide no estan rotulades: els valors marcats amb «≈» s'han estimat mesurant les barres en píxels contra l'eix (error ±0,1 punts percentuals) i la suma total dona ≈ 100 %, cosa que confirma que són percentatges sobre la població total (no sobre cada sexe). A l'examen n'hi ha prou amb lectures aproximades (\"al voltant del 4,5 %\"). Discrepància menor amb la pauta: la pauta situa la contracció en els nascuts el 1938-1940; a la piràmide de 2007 l'osca és el grup de 65-69 anys, és a dir, els nascuts el 1937-1941 (Guerra Civil i primera postguerra). Errors típics: dir que la piràmide és progressiva (la base és més estreta que el cos); confondre natalitat (naixements per 1.000 habitants) i fecunditat (fills per dona en edat fèrtil); atribuir el predomini masculí dels 20-40 anys només a la biologia, oblidant la immigració, que és el que valora la pauta."
+      }
+    },
+    {
+      "id": "geografia-2011-S-e1-B",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa de la distribució mundial de les reserves provades de gas natural (2007)",
+      "tema": "industria",
+      "temes_secundaris": [
+        "mon",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "gas natural",
+        "combustible fòssil",
+        "recurs no renovable",
+        "gasoducte",
+        "gas natural liquat",
+        "dependència energètica",
+        "problemàtica energètica",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3,
+        4
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció B. Exercici 1 [5 punts en total]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2011-S/e1-B.png",
+          "peu": "Mapa del món «Distribució mundial de les reserves provades de gas natural (2007)», per països, en bilions de m³. Llegenda: menys d'1 o sense dades (blanc), 1-3 (ratllat fi), 3-5 (ratllat vertical), 5-10 (ratllat obliqu gruixut), 10-40 (gris amb cercles), més de 40 (negre). Rússia, única en negre (més de 40); Iran, 10-40; Estats Units, Aràbia Saudita, Veneçuela i Nigèria, 5-10; Algèria i l'Iraq, 3-5; Canadà, Noruega, Ucraïna, Kazakhstan, Uzbekistan, Turkmenistan, Xina, Índia, Pakistan, Líbia, Egipte, Indonèsia, Malàisia i Austràlia, entre d'altres, 1-3. Escala gràfica de 0 a 6.000 km. Font: Institut Europeu de la Mediterrània [en línia], 2009."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els conceptes *combustible fòssil* i *recurs no renovable*. Escriviu tres exemples per a cada definició.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "*a*) Com es transporta el gas natural des de les regions productores fins als països consumidors? Quins problemes comporta aquest transport?\n\n*b*) Esmenteu el nom dels cinc països que tenen més reserves de gas natural.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "*a*) Exposeu els avantatges i els inconvenients del gas natural com a font energètica.\n\n*b*) En el marc de la problemàtica energètica mundial, es pot considerar el gas natural el substitutiu del petroli? Argumenteu la resposta.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 5 punts sobre un **mapa mundial de recursos energètics**. Dedica-hi uns 40-45 minuts.\n\n- **Apartat 1**: la pauta dona 0,25 a la **font i l'escala** (mapa mundial, Institut Europeu de la Mediterrània) i 0,75 a la **descripció**: on són les principals reserves, almenys els països i zones amb més reserves. No cal anar país per país.\n- **Apartat 2**: dues definicions i **tres exemples per a cadascuna** (ho demana l'enunciat: si en falten, es perd puntuació).\n- **Apartats 3 i 4**: cada pregunta té parts *a* i *b*; la *a* val més (1 punt) que la *b* (0,5). A la 4*b* cal **prendre posició i argumentar-la**.\n\nUnitats: el mapa expressa les reserves en **bilions de m³** (bilió = 10¹² m³)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació** (0,25 per la font): mapa temàtic de coropletes a escala mundial, per països; variable: reserves provades de gas natural el 2007, en bilions de m³, sis intervals; font: Institut Europeu de la Mediterrània (2009); escala gràfica de 6.000 km.\n2. **Descripció** (0,75): forta **concentració** a l'eix **Rússia-Orient Mitjà** (Rússia, única de més de 40 bilions; Iran, 10-40; golf Pèrsic); un segon nivell de 5-10 bilions (EUA, Aràbia Saudita, Veneçuela, Nigèria); el nord d'Àfrica (Algèria, 3-5); i una gran part del món amb reserves escasses o nul·les (Europa occidental, la major part d'Àfrica i de Llatinoamèrica)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic de coropletes a escala mundial** que representa, per països, les **reserves provades de gas natural** l'any **2007**, expressades en **bilions de m³** i agrupades en sis intervals (de menys d'1 o sense dades fins a més de 40). Inclou una escala gràfica (6.000 km) i la font és l'**Institut Europeu de la Mediterrània** (2009).\n\nEl mapa mostra que les reserves de gas natural estan **molt concentrades** en pocs països. Destaca **Rússia**, l'únic país amb més de **40 bilions de m³**, i l'**Iran**, en l'interval de 10 a 40 bilions; juntament amb els països del **golf Pèrsic**, formen l'eix on es concentren la major part de les reserves mundials. En un segon nivell, entre 5 i 10 bilions de m³, hi ha els **Estats Units**, l'**Aràbia Saudita**, **Veneçuela** i **Nigèria**, i entre 3 i 5, **Algèria** i l'**Iraq**. Tenen reserves més modestes (1-3 bilions) el Canadà, Noruega, les repúbliques d'Àsia central (Kazakhstan, Uzbekistan, Turkmenistan), la Xina, l'Índia, Indonèsia, Malàisia, Austràlia, Líbia i Egipte. En canvi, la major part d'**Europa occidental**, d'**Àfrica** subsahariana i d'**Amèrica Llatina** tenen reserves inferiors a 1 bilió o no en tenen dades: molts dels grans consumidors no són productors."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Cada definició (0,5) ha de dir què és + tres exemples. **Combustible fòssil**: substància formada a partir de restes orgàniques fossilitzades fa milions d'anys, que en cremar-se allibera molta energia → carbó, petroli, gas natural. **Recurs no renovable**: recurs que es regenera en un temps molt llarg, molt superior a la vida humana, i és exhaurible perquè es consumeix més ràpid del que es forma → combustibles fòssils, urani, minerals metàl·lics (ferro, coure...)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Combustible fòssil**: substància formada a partir de **restes orgàniques** (vegetals i animals) acumulades i fossilitzades en períodes geològics remots, sota pressió i temperatura elevades, que quan es crema desprèn una gran quantitat d'energia (i també CO₂). Exemples: el **carbó**, el **petroli** i el **gas natural**.\n\n**Recurs no renovable**: material o substància de la natura que té un temps de formació o regeneració molt llarg, molt superior a la vida dels éssers humans, de manera que es considera **exhaurible**, perquè el ritme de consum és molt superior al de la seva regeneració natural. Exemples: els combustibles fòssils (com el **petroli**), l'**urani** que s'utilitza a les centrals nuclears i la major part dels **minerals** utilitzats a la indústria (ferro, coure, bauxita)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "*a*) **Transport i problemes** (1 punt): el mitjà principal són els **gasoductes**, de milers de km, que travessen diversos països (Rússia → Ucraïna → Europa central; Algèria → Espanya: gasoducte Magrib-Europa per l'estret i Medgaz submarí); l'altre, els **vaixells metaners** (gas liquat a −160 °C i regasificació en plantes portuàries com la de Barcelona). Problemes: **disputes entre els països de trànsit** (preus, drets de pas) que han tallat el subministrament (crisi Rússia-Ucraïna del 2006 i del 2009), cost de les infraestructures, riscos d'accidents i impacte ambiental.\n\n*b*) **Cinc països** (0,5): segons el mapa, **Rússia, l'Iran, els Estats Units, l'Aràbia Saudita i Veneçuela** (o Nigèria, del mateix interval)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "*a*) El gas natural es transporta principalment per **gasoductes**, que el porten des de les zones de producció fins als països consumidors. Sovint tenen un traçat de diversos milers de quilòmetres i travessen diferents països: per exemple, els gasoductes que porten el gas de **Rússia** cap a Alemanya i la resta d'Europa a través d'**Ucraïna**, Eslovàquia, Hongria o la República Txeca, o els que arriben a Espanya des d'**Algèria**, com el gasoducte Magrib-Europa (pel Marroc i l'estret de Gibraltar) i el gasoducte submarí directe Algèria-Almeria. L'altre sistema és el transport marítim en grans **vaixells metaners**: el gas es liqua a molt baixa temperatura (gas natural liquat, GNL) a les terminals d'exportació i es torna a l'estat gasós a les plantes de regasificació dels ports (Barcelona, Huelva, Cartagena, Bilbao...).\n\nAquest transport comporta diversos problemes. Els **gasoductes transnacionals** estan subjectes a les **disputes entre els països** per on passen, a causa dels preus del gas i de les compensacions que demanen per permetre'n el pas; en algunes ocasions això ha provocat **talls en el subministrament**, com en els conflictes entre Rússia i Ucraïna del 2006 i del 2009, que van deixar sense gas bona part d'Europa a ple hivern. A més, són infraestructures molt cares, generen dependència dels països consumidors respecte dels productors i dels de trànsit, i comporten riscos d'escapaments, explosions i impactes ambientals en la seva construcció.\n\n*b*) Segons el mapa, els cinc països amb més reserves de gas natural són **Rússia** (més de 40 bilions de m³), l'**Iran** (entre 10 i 40) i, en l'interval de 5 a 10 bilions, els **Estats Units**, l'**Aràbia Saudita** i **Veneçuela** (amb **Nigèria** al mateix nivell)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "*a*) **Avantatges i inconvenients** (1 punt): almenys tres de cada. Avantatges: reserves superiors a les de petroli; alt rendiment i preu relativament baix; **menys emissions** de CO₂ i de partícules que el carbó i el petroli (el fòssil més net); arriba canalitzat fins a indústries i llars. Inconvenients: **no renovable**; risc d'explosió en escapaments; contribueix a l'**efecte d'hivernacle**; cost de la xarxa; impacte dels gasoductes; reserves **molt localitzades** → recurs **geoestratègic** i dependència dels consumidors (Europa respecte de Rússia).\n\n*b*) **Substitut del petroli?** (0,5): presa de posició argumentada. Pot ser-ho a curt i mitjà termini (més reserves, més net, permet mantenir el model basat en fòssils), però **no és una solució definitiva**: també és no renovable, emet CO₂ i està concentrat geogràficament. Com a molt, és una **energia de transició** cap a les renovables."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "*a*) El gas natural té diversos **avantatges** com a font energètica. Les seves **reserves mundials** són més abundants que les de petroli en relació amb el consum. Té un **elevat rendiment energètic** i un cost relativament baix, fet que redueix els costos i augmenta la productivitat. És el **combustible fòssil més net**: emet menys CO₂ que el carbó i el petroli per unitat d'energia i gairebé no emet partícules ni diòxid de sofre. A més, arriba **canalitzat** de manera soterrada directament a les indústries, a les centrals de cicle combinat i a les llars, cosa que el fa còmode i redueix la contaminació associada al transport per carretera.\n\nTambé té **inconvenients**: és un **recurs no renovable** i, per tant, exhaurible; en cas d'escapament en espais tancats pot ser **explosiu**; tot i que emet menys CO₂, continua essent un combustible fòssil que **contribueix a l'efecte d'hivernacle** (i el metà que s'escapa és un gas d'hivernacle molt potent); la **xarxa de distribució** és molt cara i els **gasoductes** tenen impactes ambientals; i les reserves estan **molt localitzades**, cosa que el converteix en un **recurs geoestratègic** de primer ordre, que dona poder als països productors i genera **dependència** dels consumidors, com passa a Europa respecte de Rússia.\n\n*b*) Davant de l'**exhauriment a mitjà termini** de les reserves de petroli i de les grans reserves de gas disponibles, hi ha qui considera el gas natural el principal **substitutiu del petroli**, perquè permetria mantenir el model energètic global basat en els combustibles fòssils amb menys contaminació. Al meu parer, pot ser-ho només **parcialment i temporalment**: pot substituir el petroli en la producció d'electricitat, la calefacció i la indústria, i en part en el transport, però no és una solució definitiva, ja que també és **no renovable**, també emet gasos d'hivernacle i les seves reserves estan concentrades en pocs països, amb els mateixos riscos de dependència geopolítica que el petroli. Per això cal considerar-lo una **energia de transició** cap a un model basat en l'estalvi, l'eficiència i les **energies renovables**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Identificació de la font cartogràfica i de l'escala mundial (0,25). Identificació clara de les zones i dels països amb més reserves de gas, sense necessitat d'anar país per país (0,75)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Combustible fòssil: substàncies formades a partir de restes orgàniques fossilitzades en períodes geològics remots que en cremar-se desprenen molta energia; carbó, gas, petroli (0,5). Recurs no renovable: temps de regeneració molt llarg, superior a la vida humana; exhaurible perquè es consumeix més ràpid del que es regenera; combustibles fòssils, minerals industrials (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Gasoductes de milers de km que travessen diversos països (Rússia-Alemanya per Ucraïna, Hongria i la República Txeca; gasoducte submarí Algèria-Espanya) i grans vaixells; disputes entre els països de pas pels preus i les compensacions, que han provocat problemes de subministrament (1). b) Rússia, Uzbekistan, Iran, Estats Units, Aràbia Saudita, Nigèria, Veneçuela, Algèria... (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) Avantatges: reserves superiors a les de petroli, alt rendiment i barat, menys contaminació directa (CO₂ i partícules) i indirecta (arriba canalitzat), el fòssil més net. Inconvenients: no renovable, explosiu en recintes tancats, contribueix a l'efecte d'hivernacle, cost de la xarxa, impactes dels gasoductes, reserves molt localitzades (recurs geoestratègic, dependència) (1). b) Davant l'exhauriment del petroli i les grans reserves de gas, s'hi pot veure el substitut del petroli sense canviar el model energètic basat en fòssils (0,5)."
+          }
+        ],
+        "nota": "Discrepància amb la pauta: a l'apartat 3b la pauta inclou l'**Uzbekistan** entre els països amb més reserves, però al mapa apareix en l'interval d'1-3 bilions de m³ (com la resta d'Àsia central), i Algèria (3-5) també és per sota dels països de 5-10. D'acord amb el mapa, els cinc primers són Rússia, l'Iran, els EUA, l'Aràbia Saudita i Veneçuela o Nigèria; la pauta accepta qualsevol d'aquests. En realitat, Qatar era el tercer país del món en reserves el 2007 (uns 25 bilions de m³), però és massa petit per distingir-se al mapa: citar-lo és correcte si s'aclareix. Errors típics: confondre bilions (10¹²) amb milers de milions; oblidar els tres exemples de cada definició a l'apartat 2; a la 4b respondre només «sí» o «no» sense argumentar."
+      }
+    },
+    {
+      "id": "geografia-2011-S-e2-B",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Climograma de Vila-seca: el clima mediterrani litoral",
+      "tema": "clima",
+      "temes_secundaris": [
+        "paisatges"
+      ],
+      "conceptes": [
+        "climograma",
+        "clima mediterrani",
+        "aridesa",
+        "amplitud tèrmica",
+        "factors del clima",
+        "vegetació mediterrània",
+        "continentalitat"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "",
+      "enunciat": "Cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun). Opció B. Exercici 2 [5 punts en total]. Observeu el gràfic següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2011-S/e2-B.png",
+          "peu": "Climograma de Vila-seca (Tarragonès): temperatures mitjanes mensuals en °C (línia, eix esquerre de 0 a 45) i precipitacions mensuals en mm (barres grises, eix dret de 0 a 90; escala P = 2T), de gener (G) a desembre (D). Rotulat: temperatura mitjana anual 17,8 °C i precipitació anual 509,0 mm. Temperatures d'≈ 10 °C al gener i desembre a ≈ 25 °C al juliol i agost; precipitacions màximes a l'octubre (≈ 80 mm) i mínimes al juliol (≈ 18 mm). Font: Servei Meteorològic de Catalunya, 2010."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació que proporciona el gràfic.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els conceptes *aridesa* i *amplitud tèrmica*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "*a*) Expliqueu l'evolució estacional de les temperatures i de les precipitacions a Vila-seca.\n\n*b*) A quin tipus climàtic correspon aquest gràfic? Per què?\n\n*c*) Quin tipus de vegetació predomina en aquest clima?",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Expliqueu els factors principals que condicionen el clima d'un territori.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 5 punts sobre un **climograma**, un dels documents més habituals a la PAU. Dedica-hi uns 40-45 minuts.\n\n- **Apartat 1**: identifica el gràfic (què representa cada eix i la línia i les barres, l'escala P = 2T, l'estació, la font) i descriu la marxa de temperatures i precipitacions **amb xifres**.\n- **Apartat 2**: definicions, idealment relacionades amb el climograma (aridesa = P < 2T; amplitud = mes més càlid − mes més fred).\n- **Apartat 3**: tres parts de 0,5: evolució estacional (hivern, estiu, màxims i mínims de pluja), tipus climàtic **justificat** i vegetació.\n- **Apartat 4**: pregunta teòrica: factors **astronòmics**, **geogràfics** i de **circulació atmosfèrica** (0,5 cadascun).\n\nLes xifres mensuals no estan rotulades: llegeix-les a l'eix i dóna-les aproximades; fes servir les dues dades rotulades (17,8 °C i 509 mm)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació** (0,5): climograma de Vila-seca, gràfic que representa simultàniament les **temperatures mitjanes mensuals** (°C, línia, eix esquerre) i les **precipitacions mensuals** (mm, barres, eix dret), amb una relació **1 a 2** entre els eixos (10 °C a l'altura de 20 mm), que permet llegir l'aridesa; dades rotulades (17,8 °C, 509 mm); font: Servei Meteorològic de Catalunya, 2010.\n2. **Descripció** (0,5): corba de temperatures regular en forma de campana (màxim al juliol-agost, mínim al desembre-gener); precipitacions irregulars, amb el màxim a l'octubre, seguit del setembre i el novembre, i el mínim al juliol."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "El gràfic només rotula la **temperatura mitjana anual (17,8 °C)** i la **precipitació total anual (509,0 mm)**. Els valors mensuals s'han **estimat** mesurant la corba i les barres en píxels contra els eixos (T a l'esquerra, P a la dreta, amb la relació P = 2T):\n\n| Mes | G | F | M | A | M | J | J | A | S | O | N | D |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| T (°C) | ≈ 10 | ≈ 11,5 | ≈ 13,5 | ≈ 15,5 | ≈ 18,5 | ≈ 22 | ≈ 25 | ≈ 25,5 | ≈ 23 | ≈ 19 | ≈ 13,5 | ≈ 10 |\n| P (mm) | ≈ 34 | ≈ 28 | ≈ 37 | ≈ 44 | ≈ 52 | ≈ 38 | ≈ 18 | ≈ 51 | ≈ 61 | ≈ 80 | ≈ 54 | ≈ 35 |\n| 2T (mm) | ≈ 19 | ≈ 23 | ≈ 27 | ≈ 31 | ≈ 37 | ≈ 43 | ≈ 50 | ≈ 51 | ≈ 46 | ≈ 37 | ≈ 27 | ≈ 20 |\n\n- **Amplitud tèrmica anual** = T mes més càlid − T mes més fred ≈ 25,5 − 10 ≈ **15,5 °C** (moderada).\n- **Mesos àrids** (criteri de Gaussen, P < 2T, la línia per sobre de les barres): **juliol** (≈ 18 < 50) i **juny** (≈ 38 < 43); l'**agost** és al límit (≈ 51 ≈ 51).\n- **Estacionalitat de la pluja** (sumes aproximades): tardor (S-O-N) ≈ 195 mm (≈ 37 % del total); primavera (M-A-M) ≈ 133 mm; hivern (D-G-F) ≈ 97 mm; estiu (J-J-A) ≈ 107 mm, amb el mínim al juliol. Màxim absolut: octubre (≈ 80 mm).\n- Control: la suma de les barres estimades dona ≈ 530 mm i la mitjana de les temperatures ≈ 17,2 °C, una mica diferents dels 509 mm i 17,8 °C rotulats (error de lectura d'un ±5 %): a l'examen cal fer servir les xifres rotulades."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El document és un **climograma** de **Vila-seca** (Tarragonès), un gràfic que representa de forma simultània les **temperatures mitjanes mensuals**, en graus centígrads, amb una **línia** (eix de l'esquerra), i les **precipitacions mensuals**, en mil·límetres, amb **barres** (eix de la dreta), de gener a desembre. Els dos eixos guarden una relació d'**1 a 2** (la marca de 10 °C és a l'altura de la de 20 mm), cosa que permet identificar els mesos secs. El gràfic indica també la **temperatura mitjana anual (17,8 °C)** i la **precipitació total anual (509,0 mm)**. Les dades provenen del **Servei Meteorològic de Catalunya** (2010).\n\nLa corba de temperatures segueix un traçat regular **en forma de campana**, amb els valors mínims al **gener i el desembre** (al voltant de 10 °C) i els màxims al **juliol i l'agost** (uns 25 °C). Les precipitacions són més irregulars: el màxim és a l'**octubre** (uns 80 mm), seguit del **setembre** i el **novembre** (uns 55-60 mm); hi ha un màxim secundari a la primavera (maig, uns 50 mm) i el mínim al **juliol** (menys de 20 mm), l'únic mes en què la línia de temperatures queda clarament per sobre de la barra de precipitació."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Definicions de 0,5 cadascuna. **Aridesa**: sequedat del clima, que depèn de la relació entre precipitació i temperatura (evaporació); al climograma, mesos en què la línia de T supera la barra de P (P < 2T). **Amplitud tèrmica**: diferència entre la temperatura mitjana del mes més càlid i la del mes més fred (anual) o entre la màxima i la mínima d'un dia (diària); relació amb la **continentalitat**. Aplica-les a Vila-seca amb xifres."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Aridesa**: és la sequedat com a característica del clima, quan les precipitacions són insuficients en relació amb l'evaporació que provoquen les temperatures. Deriva, per tant, de la relació entre precipitació i temperatura: segons l'índex de Gaussen, un mes és àrid quan la precipitació (en mm) és inferior al doble de la temperatura (P < 2T), i al climograma s'identifica en els mesos en què la línia de temperatura queda per sobre de la barra de precipitació. A Vila-seca, el mes clarament àrid és el juliol.\n\n**Amplitud tèrmica**: és la diferència entre la temperatura mitjana del mes més càlid i la del mes més fred (amplitud anual); també es pot calcular entre la màxima i la mínima d'un dia (amplitud diària). Es relaciona amb la **continentalitat**: els climes interiors tenen amplituds més grans que els influenciats pel mar, que suavitza les temperatures. A Vila-seca, localitat costanera, és d'uns 15 °C (≈ 25,5 − 10)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres parts de 0,5:\n\n- *a*) **Evolució estacional**: hivern suau (≈ 10 °C o més), estiu calorós (≈ 25 °C), mitjana anual 17,8 °C, amplitud moderada (≈ 15 °C) pròpia de la costa; pluges amb màxim de **tardor**, màxim secundari de **primavera** i mínim **estival**; total anual 509 mm.\n- *b*) **Clima mediterrani** (litoral): hiverns suaus, estius calorosos i **secs**, pluges escasses (< 600 mm), irregulars i sovint **torrencials a la tardor**. Justifica-ho amb les xifres.\n- *c*) **Vegetació**: esclerofil·la i adaptada a la sequera estival: **alzinars**, màquies, garrigues; l'acció humana ha estès les **pinedes**."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "*a*) Les temperatures dibuixen un **hivern suau**, amb mitjanes mensuals iguals o superiors als 10 °C, i un **estiu calorós**, amb mitjanes al voltant dels 25 °C al juliol i l'agost. La temperatura mitjana anual és de **17,8 °C** i l'**amplitud tèrmica és moderada** (uns 15 °C), pròpia de les localitats costaneres, on el mar suavitza les temperatures. Les precipitacions sumen **509 mm** anuals i presenten un **màxim de tardor** (octubre, uns 80 mm, amb setembre i novembre també plujosos), un **màxim secundari de primavera** (abril-maig) i un **mínim estival**, molt marcat al juliol (menys de 20 mm), que és un mes **àrid**, igual que el juny i, al límit, l'agost.\n\n*b*) Aquestes característiques corresponen al **clima mediterrani** (en la seva variant de litoral), perquè té **hiverns suaus** i **estius calorosos i secs**, amb coincidència de la calor i la sequera, i unes pluges **no gaire abundants** (menys de 600 mm), de **forta irregularitat** i sovint **torrencials**, especialment a la tardor, quan l'aire fred en altura es troba amb un mar Mediterrani encara càlid.\n\n*c*) La vegetació típica del clima mediterrani està **adaptada a resistir la sequera estival**: és una vegetació **esclerofil·la**, de fulla petita, dura i perenne, amb formacions com els **boscos d'alzina** (alzinars), i les seves formes de degradació, les **màquies** i les **garrigues** (garric, llentiscle, margalló, romaní). Sovint l'acció humana (incendis, conreus, repoblacions) ha substituït la vegetació original per altres formacions com les **pinedes** de pi blanc."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres grups de factors, un paràgraf cadascun (0,5 + 0,5 + 0,5):\n\n1. **Astronòmics**: latitud i moviments de rotació i translació → quantitat de radiació solar, durada del dia, estacions.\n2. **Geogràfics**: modifiquen els astronòmics: **continentalitat / influència marina** (amplitud tèrmica), **relleu** (altitud: −0,6 °C cada 100 m; barrera per a les masses d'aire; orientació, efecte foehn), corrents marins.\n3. **Circulació general de l'atmosfera**: escalfament desigual del planeta → **centres d'acció** (anticiclons i depressions), **masses d'aire**, **fronts** i **corrent en raig** (*jet stream*). Posa exemples de la península Ibèrica (anticicló de les Açores, borrasques atlàntiques)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "El clima d'un territori depèn de diversos factors, que es poden agrupar en tres tipus principals.\n\nEls **factors astronòmics** es relacionen amb la **latitud** del territori i amb els moviments de **rotació** i **translació** de la Terra. Determinen elements clau com la **quantitat de radiació solar** que s'hi rep, segons l'angle d'incidència dels raigs del sol, i la **durada del dia**, i expliquen la successió de les estacions i la distribució zonal dels climes (càlids, temperats i freds).\n\nEls **factors geogràfics** modifiquen els astronòmics i donen més diversitat al clima. Els principals són la **influència continental o marítima**: el mar s'escalfa i es refreda més lentament que la terra, per això els climes marítims tenen una amplitud tèrmica petita i els continentals són més contrastats (com Vila-seca enfront de Lleida). L'altre és el **relleu**: l'**altitud** fa disminuir la temperatura (uns 0,6 °C cada 100 m) i augmentar les precipitacions, i les serralades actuen com a **barrera física** que modifica la circulació de les masses d'aire (vessants de sobrevent plujosos i de sotavent secs, efecte foehn); també hi influeixen l'orientació i els corrents marins.\n\nFinalment, els factors relacionats amb la **circulació general de l'atmosfera** s'originen per l'**escalfament desigual** que reben les diferents parts del globus terraqüi i es manifesten en els **centres d'acció** anticiclònics (altes pressions, temps estable, com l'anticicló de les Açores a l'estiu) i ciclònics (baixes pressions, inestabilitat, com les borrasques atlàntiques), les **masses d'aire** (polars, tropicals, marítimes o continentals), les **discontinuïtats frontals** (fronts polars) i els **corrents en raig** (*jet streams*) d'altura, que dirigeixen el pas de les borrasques."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Climograma que representa simultàniament les temperatures (°C, línia, eix esquerre) i les precipitacions mensuals (mm, barres, eix dret) amb relació 1 a 2 entre els eixos; Servei Meteorològic de Catalunya, 2010 (0,5). Temperatures en forma de campana amb màxims al juliol-agost i mínims al desembre-gener; precipitacions amb màxim a l'octubre, seguit del setembre i el novembre (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Aridesa: sequedat del clima, derivada de la relació entre precipitació i temperatura; al climograma, mesos en què la línia de temperatura supera la barra de precipitació (0,5). Amplitud tèrmica: diferència entre la temperatura mitjana del mes més càlid i del més fred; relació amb la continentalitat (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Hivern suau (≥ 10 °C), estiu calorós (≈ 25 °C), mitjana 17,8 °C, amplitud moderada (≈ 15 °C) pròpia de la costa; pluges amb màxim de tardor, secundari de primavera i mínim estival, 509 mm (0,5). b) Clima mediterrani: hiverns suaus, estius calorosos i secs, pluges escasses, irregulars i torrencials a la tardor (0,5). c) Vegetació adaptada a la sequera estival: alzinars, màquies, garrigues; pinedes per l'acció humana (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Astronòmics: latitud, rotació i translació; radiació solar i durada del dia (0,5). Geogràfics: influència continental o marítima i relleu (redueix les temperatures, barrera que modifica la circulació) (0,5). Circulació general de l'atmosfera: escalfament desigual; centres d'acció anticiclònics i ciclònics, masses d'aire, fronts, jet streams (0,5)."
+          }
+        ],
+        "nota": "Les xifres mensuals no estan rotulades: els valors amb «≈» s'han estimat mesurant el gràfic en píxels; la suma de les barres (≈ 530 mm) i la mitjana de la corba (≈ 17,2 °C) difereixen una mica de les dades rotulades (509 mm i 17,8 °C), per l'error de lectura: utilitza sempre les rotulades i dóna les mensuals com a aproximades. La pauta, a l'apartat 1, parla de «temperatures mitjanes anuals» a l'eix esquerre: en realitat són temperatures mitjanes **mensuals**. Errors típics: dir que el màxim de pluja és a la primavera (és a la tardor); confondre aridesa (característica permanent del clima) amb sequera (episodi temporal); a l'apartat 4, barrejar factors (latitud, relleu...) amb elements del clima (temperatura, precipitació, vent, pressió)."
+      }
+    }
+  ]
+}

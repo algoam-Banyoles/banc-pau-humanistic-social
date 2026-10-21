@@ -1,0 +1,849 @@
+{
+  "examen": {
+    "id": "geografia-2023-J",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2023,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/geografia/2023-J-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2023-J-solucio.pdf",
+    "estructura": "Cal respondre QUATRE dels cinc exercicis; cada exercici val 2,5 punts (total 10). Si es responen més exercicis, només es valoren els quatre primers. Cada exercici parteix d'un document i té 2 o 3 preguntes, algunes amb apartats: exercici 1, piràmides de població d'Almeria i Zamora (1,5 + 1); exercici 2, text sobre els parcs fotovoltaics a Catalunya (1 + 1 + 0,5); exercici 3, mapa dels incendis forestals per comarca (2 + 0,5); exercici 4, mapa dels passatgers als aeroports principals (1,5 + 1); exercici 5, fotografies de l'abandonament de conreus a la muntanya mediterrània (1 + 1 + 0,5). Les pautes valoren, a més del contingut, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2023-J-e1-q1",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Piràmides de població d'Almeria i Zamora (2021): estructura per edats i causes",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "piràmide d'edats",
+        "envelliment",
+        "sobreenvelliment",
+        "immigració",
+        "despoblament rural",
+        "almeria",
+        "zamora",
+        "comentari de piràmides"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**Piràmides de la població empadronada en dues províncies d'Espanya (1 gener 2021)**\n\n(Dues piràmides d'edats per grups quinquennals, de 0-4 anys a 100 i més, homes a l'esquerra i dones a la dreta, en percentatge sobre la població total; eix de 0 a 6 %.)\n\nPiràmide 1. Població total: 731.792 habitants.\n\nPiràmide 2. Població total: 168.725 habitants.\n\n*Font:* Instituto Nacional de Estadística [en línia].\n\nLes dades de població recollides a les piràmides corresponen a les províncies de Zamora (Castella i Lleó) i Almeria (Andalusia). Una de les dues províncies té la població més envellida d'Espanya i l'altra la més jove.",
+      "enunciat": "Exercici 1. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu les dues piràmides de població. Pregunta 1: observeu les dues piràmides i responeu a les qüestions següents. [1,5 punts en total]",
+      "figures": [
+        {
+          "src": "img/geografia/2023-J/e1-q1.png",
+          "peu": "Piràmides de la població empadronada a dues províncies d'Espanya (1 gener 2021), per grups quinquennals i sexe, en % de la població total (eix de 0 a 6 %). Piràmide 1 (731.792 habitants): base relativament ampla (≈2,5 % per sexe a 0-4 anys) i barres més llargues a 40-44 anys (≈4,5 % homes). Piràmide 2 (168.725 habitants): base molt estreta (≈1,0-1,3 %) i barres més llargues a 55-64 anys (≈4,4 % homes), amb molts efectius de més de 80 anys. Font: INE."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Indiqueu a quina província correspon cada piràmide: — Piràmide 1. Província de: — Piràmide 2. Província de:",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Expliqueu quina és l'estructura per edats que s'observa a cada piràmide i quines són les causes d'aquesta configuració.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de dues piràmides d'1,5 punts: **a)** identificar (0,5) i **b)** descriure i explicar (1 punt: 0,5 per piràmide). Abans d'escriure, llegiu el document: títol, data (1 gener 2021), unitats (% sobre el total), grups quinquennals i població total de cada província. Compareu la **base** (0-14 anys), el **cos** (adults) i el **cim** (65 anys i més). Al b) cal fer les dues coses per a cada piràmide: descripció amb xifres llegides al gràfic i causes. Extensió: 2 línies per a l'a) i 8-12 línies per piràmide al b). Temps: 12-15 minuts. Error típic: descriure només la forma (\"regressiva\") sense dades ni causes, o oblidar la diferència entre homes i dones."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "La clau és la forma: la piràmide amb la base més ampla i el cos dilatat a 35-45 anys és la població **jove** (Almeria); la de base estreta i cim molt ample és la població **envellida** (Zamora). També ajuda la població total: Almeria té uns 730.000 habitants i Zamora, província petita i despoblada de l'interior, uns 170.000. (0,50)"
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "— Piràmide 1. Província de: **Almeria**.\n\n— Piràmide 2. Província de: **Zamora**.\n\nLa piràmide 1 té una base més ampla i un cos amb molta població adulta jove, típica d'una població jove; la piràmide 2 té una base molt estreta i un cim molt ample, propi de la població més envellida d'Espanya."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Per a cada piràmide: 1) **estructura** (base, cos, cim, diferències per sexe) amb xifres aproximades; 2) **causes**.\n\n**Almeria (0,50)**: molta població jove i adulta, sobretot de 35-45 anys, amb **més homes que dones** en aquestes edats; poca gent gran. Causes: dinamisme econòmic (agricultura intensiva d'**hivernacles** i turisme de sol i platja) que ha atret **immigrants** joves, sovint homes (d'aquí l'excedent masculí a 40-44 anys), que també han fet pujar la natalitat.\n\n**Zamora (0,50)**: piràmide **regressiva**, base molt estreta, grups més nombrosos a 55-64 anys, molta població de més de 65 i fins i tot de més de 85 anys (**sobreenvelliment**), i més dones que homes a les edats avançades (esperança de vida femenina més alta). Causes: alta esperança de vida, **despoblament** de l'interior des dels anys seixanta (èxode rural dels joves) i manca d'ofertes laborals que atreguin immigrants que podrien rejovenir la piràmide."
+          },
+          {
+            "apartat": "b",
+            "titol": "Càlculs",
+            "cos": "Les piràmides no donen xifres: s'han estimat mesurant la llargada de les barres amb Python contra l'escala de l'eix (2 % = 42 punts del PDF). Són valors aproximats (≈).\n\n| Indicador | Piràmide 1 (Almeria) | Piràmide 2 (Zamora) |\n|---|---|---|\n| 0-4 anys (homes / dones) | ≈2,4 % / ≈2,5 % | ≈1,3 % / ≈1,0 % |\n| Grup més nombrós | 40-44 anys (≈4,5 % homes, ≈4,2 % dones) | 55-59 anys (≈4,4 % homes, ≈3,9 % dones) |\n| Població de 0-14 anys | ≈16 % | ≈9 % |\n| Població de 65 anys i més | ≈14 % | ≈30 % |\n| Població de 80 anys i més | ≈3 % | ≈11 % |\n| Índex d'envelliment | ≈85 | ≈350 |\n\nÍndex d'envelliment = població de 65 anys i més / població de 0-14 anys × 100. A Almeria hi ha menys gent gran que infants (≈14 / ≈16 × 100 ≈ 85); a Zamora hi ha unes 3,5 persones grans per cada infant (≈30 / ≈9 × 100 ≈ 350)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "**Piràmide 1 (Almeria).** L'estructura per edats és la d'una població jove i dinàmica. La base és relativament ampla (prop del 2,5 % de la població per sexe al grup de 0-4 anys) i els grups més nombrosos són els adults joves de 35 a 45 anys, que arriben a un 4,5 % en el cas dels homes de 40-44 anys. En aquestes edats hi ha clarament més homes que dones. En canvi, la població de 65 anys i més és poc important (al voltant d'un 14 %). Aquesta configuració s'explica pel dinamisme econòmic de la província, basat en l'agricultura intensiva sota plàstic dels hivernacles i en el turisme de sol i platja. Aquestes activitats han estat un focus d'atracció de població immigrant, sobretot d'homes en edat de treballar, cosa que explica l'excedent masculí a 40-44 anys. Els immigrants, a més, han fet augmentar la natalitat, i per això la població jove també és abundant.\n\n**Piràmide 2 (Zamora).** És una piràmide clarament regressiva, pròpia d'una població molt envellida. La base és molt estreta (només un 1-1,3 % per sexe a 0-4 anys) i els grups més nombrosos són els adults grans de 55 a 64 anys. La població de 65 anys i més representa prop d'un 30 % del total i la de més de 80 anys, un 11 %, de manera que podem parlar de sobreenvelliment, amb un índex d'envelliment molt alt. Al cim hi ha més dones que homes, perquè l'esperança de vida femenina és més alta. Les causes són, d'una banda, l'elevada esperança de vida de la població i, de l'altra, el despoblament de l'interior d'Espanya des dels anys seixanta del segle XX, quan els joves van emigrar cap a les ciutats industrials, un procés que continua avui: Zamora és una de les províncies menys poblades d'Espanya. A més, la manca d'ofertes laborals fa que no atregui immigrants que podrien rejovenir la piràmide, i la poca població jove fa que la natalitat sigui molt baixa."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Piràmide 1: Almeria. Piràmide 2: Zamora. (0,50)"
+          },
+          {
+            "apartat": "b",
+            "valor": "Almeria: molta població jove i adulta (35-45 anys), més homes que dones, poca població de la tercera edat; causes: dinamisme econòmic (agricultura intensiva d'hivernacles, turisme de sol i platja) que atreu immigrants, sobretot homes, i fa augmentar la natalitat. (0,50) Zamora: piràmide regressiva, molt poca població jove, grups més nombrosos de 55-64 anys, molta població de més de 65 i de 85 anys (sobreenvelliment), més dones grans per la seva esperança de vida; causes: elevada esperança de vida, despoblament de l'interior des dels anys seixanta i manca d'immigració per falta d'ofertes laborals. (0,50)"
+          }
+        ],
+        "nota": "Les xifres de la resposta són estimacions fetes mesurant les barres (≈); a l'examen n'hi ha prou amb valors aproximats llegits a l'eix. Error típic: confondre les dues piràmides per la població total o no explicar l'excedent d'homes d'Almeria (immigració laboral). Les pautes no demanen calcular indicadors, però citar el grup d'edat més nombrós i el pes aproximat de la gent gran fa la resposta més precisa."
+      }
+    },
+    {
+      "id": "geografia-2023-J-e1-q2",
+      "exercici": 1,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "L'envelliment de la població espanyola: causes i conseqüències socials i econòmiques",
+      "tema": "poblacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "envelliment",
+        "natalitat",
+        "esperança de vida",
+        "sistema de pensions",
+        "despoblament rural"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Exercici 1. Pregunta 2. Espanya és un dels països més envellits del món. L'any 2021, la mitjana d'edat de la població espanyola era de 43,8 anys i un 6,08 % de la població tenia 80 anys o més. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Quines són les causes de l'envelliment de la població espanyola?",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Quines conseqüències socials i econòmiques té l'envelliment de la població d'un país?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt en dos apartats de 0,5. **a)** demana causes (dues, 0,25 cadascuna) i **b)** conseqüències (dues, 0,25 cadascuna; cal que n'hi hagi de socials i d'econòmiques). Responeu amb un paràgraf breu per apartat (5-7 línies) i aprofiteu les dades de l'enunciat (43,8 anys de mitjana, 6,08 % de 80 anys o més). Temps: 6-8 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues causes, 0,25 cadascuna:\n\n1. **Caiguda de la natalitat** des de les darreres dècades del segle XX (fecunditat per sota del nivell de reemplaçament): cada cop hi ha menys joves.\n2. **Augment de l'esperança de vida** per la millora de la qualitat de vida (alimentació, sanitat, higiene): es mantenen contingents elevats d'adults i gent gran.\n\nPodeu afegir l'arribada a la jubilació de les generacions nombroses del *baby boom*."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "L'envelliment és una característica de les societats desenvolupades com l'espanyola i té dues causes principals. La primera és la disminució de la natalitat des de les darreres dècades del segle XX: l'accés de la dona al treball, la difusió dels anticonceptius, l'endarreriment de l'edat del primer fill i la precarietat laboral i d'habitatge han fet baixar la fecunditat per sota del nivell de reemplaçament, cosa que redueix progressivament la població jove. La segona és l'augment de l'esperança de vida gràcies a la millora de la qualitat de vida (alimentació, sanitat, higiene, condicions de treball), que fa que es mantinguin contingents elevats de població adulta i vella; per això un 6,08 % dels espanyols ja té 80 anys o més."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Les pautes demanen **dues** conseqüències correctes (0,25 cadascuna):\n\n1. **Econòmica**: dificultat per mantenir el **sistema de pensions** (més jubilats i menys població ocupada; incorporació tardana al mercat laboral).\n2. **Social**: necessitat de més **serveis sanitaris, socials i assistencials** per a la gent gran (residències, atenció domiciliària, dependència).\n3. **Territorial**: l'envelliment és més intens al món rural i és una de les causes del seu **despoblament**.\n\nPodeu esmentar també la manca de mà d'obra i la necessitat d'immigració."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "L'envelliment planteja problemes molt importants. En l'àmbit econòmic, fa difícil mantenir el sistema de pensions, perquè cada vegada hi ha més persones jubilades que han de ser sostingudes per una població ocupada proporcionalment menor, que a més s'incorpora més tard al món laboral; també pot provocar manca de mà d'obra en alguns sectors. En l'àmbit social, obliga a crear i mantenir més serveis sanitaris, socials i assistencials per a la gent gran, com residències, centres de dia o serveis d'atenció domiciliària, i augmenta la despesa pública en salut i dependència. Finalment, l'envelliment afecta tot el territori però és més intens al món rural, on la gent gran té un pes molt elevat i on aquesta situació és una de les causes del despoblament de molts pobles."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Disminució de la natalitat des de les darreres dècades del segle XX, que redueix la població jove (0,25); augment de l'esperança de vida per la millora de la qualitat de vida (alimentació, sanitat...) (0,25)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Dues conseqüències correctes, 0,25 cadascuna: dificultat de mantenir el sistema de pensions; necessitat de serveis sanitaris, socials i assistencials per a la gent gran (residències, serveis domiciliaris); més envelliment al món rural, causa del despoblament. (0,50)"
+          }
+        ],
+        "nota": "Al b) no barregeu causes i conseqüències. Amb dues conseqüències ben explicades ja s'arriba al màxim, però és prudent posar-ne una de social i una d'econòmica, tal com demana l'enunciat."
+      }
+    },
+    {
+      "id": "geografia-2023-J-e2-q1",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Text sobre els parcs fotovoltaics a Catalunya: idees principals i efectes sobre el món rural",
+      "tema": "industria",
+      "temes_secundaris": [
+        "territori",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "energia solar fotovoltaica",
+        "energies renovables",
+        "transició energètica",
+        "sòl rústic",
+        "fons d'inversió",
+        "desequilibris territorials",
+        "comentari de text"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "**Els parcs fotovoltaics a Catalunya**\n\nHem de partir de la base que, en la Llei del canvi climàtic, Catalunya va establir que volia abastir-se d'energies renovables en un 50 % l'any 2030. Ara només en tenim un 15-20 %. Hem de créixer molt en poc temps. L'Institut Català d'Energia (ICAEN) té un estudi de dades que diu que, implantant energia sobre les teulades útils de Catalunya, podríem arribar a cobrir el 50 % de l'energia elèctrica. Només amb fotovoltaica! Amb aquestes dades, és evident que hem de començar per aquí. El problema, doncs, és que fer-ho a les teulades no és tan rendible econòmicament? No és tan rendible per a segons qui. Les mateixes promotores admeten que prefereixen fer projectes en sòl rural, i com més lluny de les ciutats millor, perquè el terreny surt més barat. En els sistemes urbans tenen menys marge de benefici. Hem de tenir en compte que la majoria de les empreses del sector fotovoltaic són propietat de fons d'inversió. Només es mouen per allò que dona més diners. Si deixem que liderin la transició energètica optaran pel més barat, i per això aniran a buscar zones perifèriques amb ajuntaments pobres. És un dels riscos del model actual. Si per qualsevol motiu deixa de ser rendible, les empreses desinvertiran i no faran ni els projectes que tenen llum verda. Això ja va passar el 2013. A Catalunya hi havia més de 1.000 MW autoritzats en projectes eòlics i no els van voler fer. Ara ploren perquè la Generalitat, suposadament, hi posa moltes traves. És mentida. Podien fer parcs eòlics i no els van fer perquè els guanys no eren tan alts.\n\nAdaptació feta a partir d'un text de Sergi Saladié. *Crític* [en línia] (29 abril 2021)",
+      "enunciat": "Exercici 2. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Llegiu el text. Pregunta 1: l'autor del text fa referència a la necessitat de buscar sòl idoni per a la implantació de nous parcs fotovoltaics. Esmenteu les idees principals que s'hi exposen i expliqueu quin és el problema que es planteja i com afecta la població rural de Catalunya. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de text d'1 punt. La pauta dona **0,20 per cada idea correctament exposada**, fins a 1 punt: cal trobar unes cinc idees i exposar-les amb paraules pròpies, no copiar frases. Al final, explicitar el **problema** (els parcs es volen fer en sòl rural barat i no a les teulades) i com **afecta la població rural**. Extensió: 10-12 línies. Temps: 7-8 minuts. Error típic: resumir el text sense explicar l'efecte sobre el món rural, o donar opinions sense lligar-les al text."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Idees principals, en l'ordre del text (0,20 cadascuna):\n\n1. L'objectiu legal del **50 % de renovables el 2030** és lluny: ara només en tenim un 15-20 %; el ritme és insuficient.\n2. La solució seria posar plaques a les **teulades**: segons l'ICAEN cobririen el 50 % de l'electricitat.\n3. Les promotores, majoritàriament **fons d'inversió** que busquen la màxima rendibilitat, prefereixen el **sòl rural**, on el terreny és més barat que a les ciutats.\n4. Busquen **zones perifèriques amb ajuntaments pobres**, que accepten els projectes com a font d'ingressos.\n5. **Risc d'abandonament**: si deixen de ser rendibles, les empreses desinverteixen (com els 1.000 MW eòlics no fets el 2013).\n\n**Problema i efecte rural**: la transició energètica liderada per interessos privats trasllada les instal·lacions i els seus impactes (pèrdua de sòl agrícola i de paisatge) al món rural, mentre que el consum i els beneficis es queden a les ciutats i als fons."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El text, de Sergi Saladié (2021), critica el model d'implantació de l'energia solar a Catalunya. La primera idea és que el país va molt endarrerit: la Llei del canvi climàtic fixa un 50 % d'energia renovable el 2030, però ara només se'n produeix un 15-20 %, de manera que el ritme actual és insuficient. En segon lloc, l'autor defensa que la solució més lògica seria instal·lar plaques a les teulades, que segons l'ICAEN podrien cobrir la meitat de l'electricitat. En tercer lloc, explica que les promotores, que majoritàriament són fons d'inversió que només busquen alts rendiments, prefereixen fer els parcs en sòl rural, lluny de les ciutats, perquè el terreny és més barat i el marge de benefici més alt. En quart lloc, aquestes empreses busquen zones perifèriques amb ajuntaments pobres, per als quals els projectes són un estímul econòmic difícil de rebutjar. Finalment, alerta que, si els projectes deixen de ser rendibles, les empreses els abandonen, com va passar el 2013 amb més de 1.000 MW eòlics autoritzats que no es van construir.\n\nEl problema és que, si la transició energètica la lideren els fons d'inversió, els parcs fotovoltaics s'instal·laran on és més barat i no on és més convenient. Això afecta la població rural, perquè ocupen sòl agrícola i transformen el paisatge dels pobles, que suporten els impactes d'una energia que es consumeix sobretot a les ciutats, mentre que els beneficis van als inversors. Es reforça així el desequilibri entre el món urbà i el rural."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "0,20 per idea correctament exposada (màxim 1 punt): el ritme per arribar al 50 % de renovables el 2030 és insuficient; una solució seria implantar plaques a les teulades; les promotores, fons d'inversió que busquen alts rendiments, prefereixen el sòl rural perquè és més barat que les teulades urbanes; busquen zones rurals poc potents econòmicament; perill que alguns projectes deixin de ser rendibles i quedin abandonats."
+          }
+        ],
+        "nota": "Exposeu cada idea en una frase pròpia: la pauta puntua idees, no extensió. No oblideu la segona part de la pregunta (problema i efecte sobre la població rural)."
+      }
+    },
+    {
+      "id": "geografia-2023-J-e2-q2",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Avantatges i inconvenients dels parcs fotovoltaics a les zones rurals",
+      "tema": "industria",
+      "temes_secundaris": [
+        "primari",
+        "territori"
+      ],
+      "conceptes": [
+        "energia solar fotovoltaica",
+        "sòl rústic",
+        "abandonament de conreus",
+        "oligopoli energètic",
+        "autoconsum"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Els parcs fotovoltaics a Catalunya**\n\nHem de partir de la base que, en la Llei del canvi climàtic, Catalunya va establir que volia abastir-se d'energies renovables en un 50 % l'any 2030. Ara només en tenim un 15-20 %. Hem de créixer molt en poc temps. L'Institut Català d'Energia (ICAEN) té un estudi de dades que diu que, implantant energia sobre les teulades útils de Catalunya, podríem arribar a cobrir el 50 % de l'energia elèctrica. Només amb fotovoltaica! Amb aquestes dades, és evident que hem de començar per aquí. El problema, doncs, és que fer-ho a les teulades no és tan rendible econòmicament? No és tan rendible per a segons qui. Les mateixes promotores admeten que prefereixen fer projectes en sòl rural, i com més lluny de les ciutats millor, perquè el terreny surt més barat. En els sistemes urbans tenen menys marge de benefici. Hem de tenir en compte que la majoria de les empreses del sector fotovoltaic són propietat de fons d'inversió. Només es mouen per allò que dona més diners. Si deixem que liderin la transició energètica optaran pel més barat, i per això aniran a buscar zones perifèriques amb ajuntaments pobres. És un dels riscos del model actual. Si per qualsevol motiu deixa de ser rendible, les empreses desinvertiran i no faran ni els projectes que tenen llum verda. Això ja va passar el 2013. A Catalunya hi havia més de 1.000 MW autoritzats en projectes eòlics i no els van voler fer. Ara ploren perquè la Generalitat, suposadament, hi posa moltes traves. És mentida. Podien fer parcs eòlics i no els van fer perquè els guanys no eren tan alts.\n\nAdaptació feta a partir d'un text de Sergi Saladié. *Crític* [en línia] (29 abril 2021)",
+      "enunciat": "Exercici 2. Pregunta 2. Esmenteu dos avantatges i dos inconvenients de la implantació de parcs fotovoltaics a les zones rurals. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt: **dos avantatges i dos inconvenients**, 0,25 cadascun. No n'hi ha prou d'esmentar-los: expliqueu cadascun en una o dues frases. Estructura: un paràgraf per als avantatges i un per als inconvenients. Temps: 5-6 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "**Avantatges** (0,25 + 0,25):\n\n1. **Superfície disponible**: per l'abandonament de terres de conreu hi ha molt sòl rústic lliure.\n2. **Preu del sòl**: el sòl rústic és molt més barat que l'urbà.\n\n(També: ingressos per als propietaris i els ajuntaments, i producció d'energia neta.)\n\n**Inconvenients** (0,25 + 0,25):\n\n1. **Pèrdua de sòl agrícola**: la superfície agrària ja disminueix cada any; es perd pagesia, paisatge rural i capacitat productiva.\n2. **Monopoli empresarial privat**: la generació continua en mans de l'oligopoli energètic i no afavoreix l'autoabastiment familiar (fins fa poc, l'anomenat \"impost al Sol\").\n\n(També: impacte paisatgístic, pèrdua d'hàbitats.)"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Com a avantatges, en primer lloc hi ha molta superfície disponible: l'abandonament de terres per part de la pagesia catalana ha deixat una gran quantitat de sòl rústic lliure, cosa que facilita els projectes. En segon lloc, el preu del sòl rústic és molt més baix que el del sòl urbà, i això abarateix la instal·lació; a més, el lloguer dels terrenys aporta ingressos als propietaris i als ajuntaments rurals.\n\nCom a inconvenients, molts projectes es fan en sòl agrícola, en un moment en què la superfície agrària de Catalunya disminueix any rere any per la competència d'altres països, el canvi climàtic o la terciarització; es perd així capacitat productiva, pagesia i paisatge rural. A més, aquest model perpetua el monopoli empresarial privat: la generació d'energia continua en mans de l'oligopoli energètic tradicional i dels fons d'inversió, en lloc d'afavorir l'autoabastiment familiar, que les lleis espanyoles van frenar durant anys amb l'anomenat \"impost al Sol\"."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Avantatges: superfície disponible de sòl rústic per l'abandonament de terres (0,25); preu del sòl rústic molt més baix que l'urbà (0,25). Inconvenients: ocupació de sòl agrícola, amb pèrdua de pagesia, paisatge rural i capacitat productiva (0,25); monopoli empresarial privat, l'oligopoli energètic continua controlant la generació i no es fomenta l'autoabastiment (0,25)."
+          }
+        ],
+        "nota": "Les pautes accepten altres avantatges i inconvenients pertinents (ingressos municipals, impacte paisatgístic...), però no en poseu més de dos de cada tipus: es puntuen els que demana l'enunciat."
+      }
+    },
+    {
+      "id": "geografia-2023-J-e2-q3",
+      "exercici": 2,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "L'efecte NIMBY: la contestació social a les grans infraestructures",
+      "tema": "territori",
+      "temes_secundaris": [
+        "industria"
+      ],
+      "conceptes": [
+        "efecte nimby",
+        "contestació social",
+        "infraestructures energètiques",
+        "plataformes d'afectats",
+        "parc eòlic marí"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "**Els parcs fotovoltaics a Catalunya**\n\nHem de partir de la base que, en la Llei del canvi climàtic, Catalunya va establir que volia abastir-se d'energies renovables en un 50 % l'any 2030. Ara només en tenim un 15-20 %. Hem de créixer molt en poc temps. L'Institut Català d'Energia (ICAEN) té un estudi de dades que diu que, implantant energia sobre les teulades útils de Catalunya, podríem arribar a cobrir el 50 % de l'energia elèctrica. Només amb fotovoltaica! Amb aquestes dades, és evident que hem de començar per aquí. El problema, doncs, és que fer-ho a les teulades no és tan rendible econòmicament? No és tan rendible per a segons qui. Les mateixes promotores admeten que prefereixen fer projectes en sòl rural, i com més lluny de les ciutats millor, perquè el terreny surt més barat. En els sistemes urbans tenen menys marge de benefici. Hem de tenir en compte que la majoria de les empreses del sector fotovoltaic són propietat de fons d'inversió. Només es mouen per allò que dona més diners. Si deixem que liderin la transició energètica optaran pel més barat, i per això aniran a buscar zones perifèriques amb ajuntaments pobres. És un dels riscos del model actual. Si per qualsevol motiu deixa de ser rendible, les empreses desinvertiran i no faran ni els projectes que tenen llum verda. Això ja va passar el 2013. A Catalunya hi havia més de 1.000 MW autoritzats en projectes eòlics i no els van voler fer. Ara ploren perquè la Generalitat, suposadament, hi posa moltes traves. És mentida. Podien fer parcs eòlics i no els van fer perquè els guanys no eren tan alts.\n\nAdaptació feta a partir d'un text de Sergi Saladié. *Crític* [en línia] (29 abril 2021)",
+      "enunciat": "Exercici 2. Pregunta 3. La implantació de parcs fotovoltaics, com passa amb altres grans infraestructures, pot generar l'oposició de determinats sectors socials. Digueu com s'anomena aquest fenomen, expliqueu com funciona i poseu un exemple de construcció d'una infraestructura que hagi provocat contestació social. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta breu de 0,5 punts amb tres demandes: **nom** del fenomen, **funcionament** (0,25) i **exemple** actual (0,25). Extensió: 5-6 línies. Temps: 3-4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Nom**: efecte o síndrome **NIMBY** (*Not In My Back Yard*, \"no al meu pati del darrere\").\n2. **Funcionament**: l'Administració o una empresa planteja una gran infraestructura; quan es presenta, sorgeixen **plataformes d'afectats** que, tot i acceptar-ne la necessitat (per exemple, apostar per les renovables), no volen que es faci al seu territori o no estan d'acord amb com es fa, i s'hi oposen (al·legacions, manifestacions, recursos).\n3. **Exemple** connectat amb l'actualitat: el **parc eòlic marí de la Costa Brava** (projecte Tramuntana), la **línia de molt alta tensió (MAT)** a les comarques gironines, o macroparcs solars i eòlics a la Terra Alta o a l'Anoia."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Aquest fenomen s'anomena efecte NIMBY (de l'anglès *Not In My Back Yard*, \"no al meu pati del darrere\"). Funciona així: normalment aquestes grans infraestructures les plantegen l'Administració o grans empreses, i quan es presenten a la societat sorgeixen plataformes d'afectats que, tot i que accepten que la infraestructura és necessària, per exemple perquè aposten clarament per les renovables, no volen que es faci al seu territori o no estan d'acord amb la manera com s'implanta, i s'hi oposen amb al·legacions, mobilitzacions i recursos. Un exemple a Catalunya és el projecte de parc eòlic marí davant la Costa Brava, que ha generat una forta oposició al litoral de l'Empordà; també ho va ser la línia de molt alta tensió (MAT) a les comarques gironines."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Les grans infraestructures es plantegen des de l'Administració i, quan es presenten, sorgeixen plataformes d'afectats que, encara que apostin per les renovables, no estan d'acord amb la manera com es fa la implantació i s'hi oposen (0,25). Exemple connectat amb l'actualitat: el parc eòlic Costa Brava o altres infraestructures energètiques (0,25)."
+          }
+        ],
+        "nota": "La pauta oficial no escriu el nom del fenomen, però és l'efecte NIMBY i convé dir-lo. Qualsevol exemple real i ben situat és vàlid, encara que no sigui d'energies renovables (autopistes, aeroports, abocadors...)."
+      }
+    },
+    {
+      "id": "geografia-2023-J-e3-q1",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Mapa dels incendis forestals per comarca (2011-2021): causes, prevenció i comarques més afectades",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "paisatges",
+        "clima"
+      ],
+      "conceptes": [
+        "incendis forestals",
+        "riscos naturals",
+        "clima mediterrani",
+        "prevenció d'incendis",
+        "canvi climàtic",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8,
+        9
+      ],
+      "text": "**Nombre d'incendis forestals per comarca (2011-2021)**\n\n(Mapa de les comarques de Catalunya en cinc intervals: més de 300; 251-300; 201-250; 101-200; 0-100; i sense dades.)\n\n*Font:* Departament d'Acció Climàtica, Alimentació i Agenda Rural [en línia].",
+      "enunciat": "Exercici 3. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el mapa. Pregunta 1: els incendis forestals són una amenaça que anirà en augment, sobretot a causa del canvi climàtic. En el període 2011-2021 a Catalunya es van produir un total de 5.848 incendis, que van comportar una pèrdua important de massa forestal. [2 punts en total]",
+      "figures": [
+        {
+          "src": "img/geografia/2023-J/e3-q1.png",
+          "peu": "Mapa de coropletes del nombre d'incendis forestals per comarca a Catalunya (2011-2021), en cinc intervals (més de 300; 251-300; 201-250; 101-200; 0-100) i sense dades. Els valors més alts (més de 300) són al Baix Llobregat i al Vallès Occidental; segueixen comarques com l'Alt Empordà, el Segrià i el Montsià. Font: Departament d'Acció Climàtica, Alimentació i Agenda Rural."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Quines són les causes principals dels incendis forestals a Catalunya i quines actuacions de prevenció es podrien dur a terme per a evitar-los?",
+          "punts": 1
+        },
+        {
+          "id": "b",
+          "enunciat": "A partir del mapa esmenteu cinc comarques que tinguin un nombre alt d'incendis, i expliqueu-ne les possibles causes.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de 2 punts en dos apartats d'1 punt. **a)** és teòrica: causes (0,50) i dues mesures de prevenció (0,25 cadascuna). **b)** és el comentari del mapa: cinc comarques (0,20) i causes relacionades amb el clima (0,40), la densitat de població (0,20) i l'activitat agrícola (0,20). Llegiu primer el mapa: tipus (coropletes per comarca), període (11 anys), intervals de la llegenda. Extensió: 10-12 línies per apartat. Temps: 15 minuts. Error típic: dir que els incendis són \"naturals\" o oblidar que la majoria tenen origen humà."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Causes (0,50)**: distingiu-ne de tres tipus.\n\n1. **Directes, humanes (≈90 %)**: activitats silvícoles i agrícoles, abocadors, línies d'alta tensió, accidents, imprudències i negligències; els llamps hi tenen un paper menor.\n2. **Indirectes**: abandonament de conreus i augment de la superfície forestal (més combustible), urbanitzacions en espais forestals.\n3. **Climàtiques**: aridesa estival mediterrània, temperatures altes, sequeres llargues i vents secs, que el canvi climàtic agreuja.\n\n**Prevenció (0,25 × 2)**: mapes diaris de risc d'incendi; guardes i vigilància a les zones de risc; mitjans aeris específics; conscienciació de la població i coordinació amb els bombers. També: neteja del sotabosc, franges de protecció a les urbanitzacions, pastures i gestió forestal."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "La major part dels incendis forestals estan relacionats amb l'acció humana i no amb fenòmens naturals. A Catalunya, l'aridesa estival del clima mediterrani afavoreix la propagació del foc, però les causes directes són humanes en prop del 90 % dels casos: activitats agrícoles i silvícoles (cremes de restes), abocadors, línies d'alta tensió, accidents i comportaments imprudents o negligents; els llamps hi tenen un paper menor. Hi ha també causes indirectes: l'abandonament de conreus i l'augment de la superfície forestal, que acumulen combustible, i les urbanitzacions situades dins de boscos. Tot això s'agreuja amb els factors climàtics: temperatures estivals altes, sequeres llargues que deixen les plantes sense aigua i vents intensos i secs, situació que el canvi climàtic farà més freqüent.\n\nPer prevenir-los cal dedicar més esforços a la prevenció i a la gestió: elaborar mapes diaris de risc d'incendi per restringir activitats perilloses, mantenir guardes forestals i vigilància a les zones de risc, disposar de mitjans aeris específics per a una intervenció ràpida i augmentar la conscienciació de la població i la seva coordinació amb el personal d'extinció. També és útil gestionar el bosc (neteja del sotabosc, franges de protecció al voltant de les urbanitzacions i recuperació de pastures i conreus)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Cinc comarques (0,20)** d'entre les 11 amb més de 200 incendis: Baix Llobregat i Vallès Occidental (més de 300), Alt Empordà, Segrià, Montsià, Vallès Oriental, Anoia, Bages, Osona, Baix Empordà i Alt Penedès.\n2. **Clima (0,40)**: totes són dins el clima mediterrani (estiu sec i calorós); a l'Alt Empordà la **tramuntana** i al Montsià el **mestral** ajuden a propagar el foc.\n3. **Densitat (0,20)**: les comarques metropolitanes (Baix Llobregat, Vallès) tenen molta població, urbanitzacions i infraestructures en contacte amb el bosc, i més imprudències.\n4. **Activitat agrícola (0,20)**: al Segrià, el Montsià o l'Alt Penedès, cremes de restes vegetals i de marges i espurnes de maquinària agrícola."
+          },
+          {
+            "apartat": "b",
+            "titol": "Càlculs",
+            "cos": "Per tenir una referència: 5.848 incendis / 11 anys ≈ 532 incendis l'any a Catalunya; repartits entre 42 comarques, la mitjana és de 5.848 / 42 ≈ 139 incendis per comarca. Les comarques amb més de 300 incendis en tenen, doncs, més del doble de la mitjana."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El mapa, de coropletes per comarques, mostra el nombre d'incendis forestals a Catalunya entre el 2011 i el 2021. Cinc comarques amb un nombre alt d'incendis són el Baix Llobregat i el Vallès Occidental, amb més de 300 cadascuna, més del doble de la mitjana comarcal (≈139), i l'Alt Empordà, el Segrià i el Montsià, amb més de 250.\n\nTotes aquestes comarques es troben dins l'àrea de clima mediterrani, amb estius secs i calorosos i sequeres que deixen la vegetació molt seca i inflamable. A l'Alt Empordà i al Montsià, a més, els vents forts de la tramuntana i el mestral, respectivament, són un factor clau perquè una ignició es converteixi en un incendi gran. Al Baix Llobregat i al Vallès Occidental, comarques metropolitanes, la gran densitat de població, les urbanitzacions i les infraestructures en contacte amb espais forestals (Collserola, Garraf, Sant Llorenç del Munt) fan augmentar les imprudències i les conductes negligents. Finalment, en comarques amb una superfície agrícola important, com el Segrià o el Montsià, molts incendis s'originen per negligències en activitats agràries: cremes de restes vegetals i de marges o espurnes de la maquinària agrícola."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Causes: la majoria d'origen humà (≈90 %: activitats agrícoles i silvícoles, abocadors, línies d'alta tensió, accidents, imprudències i negligències); causes indirectes (abandonament de conreus, augment de la superfície forestal, urbanitzacions en espais forestals) i factors climàtics mediterranis (calor estival, sequeres, vents secs). (0,50) Prevenció: mapes diaris de risc, guardes a les zones de risc, mitjans aeris, conscienciació de la població i coordinació amb els equips d'extinció; 0,25 per acció correcta fins a 0,50."
+          },
+          {
+            "apartat": "b",
+            "valor": "Cinc comarques entre les 11 amb més de 200 incendis (Baix Llobregat, Vallès Occidental, Alt Empordà, Segrià, Montsià, Vallès Oriental, Anoia, Bages, Osona, Baix Empordà, Alt Penedès) (0,20); clima mediterrani i vents (tramuntana a l'Alt Empordà, mestral al Montsià) (0,40); gran densitat de població a les comarques metropolitanes (0,20); imprudències en activitats agrícoles (cremes, maquinària) (0,20)."
+          }
+        ],
+        "nota": "El mapa no porta noms ni xifres exactes: la classificació de cada comarca en un interval és una lectura aproximada dels tons de gris. La mitjana per comarca (≈139) és un càlcul propi amb 42 comarques. A l'a) no us quedeu només amb les causes: la meitat del punt és per a les mesures de prevenció."
+      }
+    },
+    {
+      "id": "geografia-2023-J-e3-q2",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals: tots els incendis són per negligència o intencionats i comencen prop de les ciutats",
+      "tema": "medi-ambient",
+      "temes_secundaris": [
+        "paisatges"
+      ],
+      "conceptes": [
+        "incendis forestals",
+        "llamps",
+        "riscos naturals",
+        "vertader o fals"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Exercici 3. Pregunta 2. Raoneu fins a quin punt és vertadera o falsa l'afirmació següent: «Tots els incendis forestals o bé són causats per negligències o bé són intencionats, i s'inicien a prop de les àrees urbanes.» [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de 0,5 punts de vertader o fals justificat. Fixeu-vos en la paraula **\"tots\"**: n'hi ha prou amb un contraexemple per fer falsa l'afirmació. Extensió: 4-6 línies. Temps: 3 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Posició**: l'afirmació és **falsa**.\n2. **Part certa**: la gran majoria d'incendis tenen origen humà, directe o indirecte (negligències, accidents, intencionats).\n3. **Contraexemple**: hi ha incendis d'origen **natural**, sobretot per **llamps** (tempestes seques d'estiu), que sovint s'inicien en zones de muntanya allunyades de les ciutats.\n4. Tampoc tots comencen prop de les àrees urbanes: n'hi ha en zones agrícoles, al costat de vies de comunicació o de línies elèctriques."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'afirmació és falsa. És cert que la gran majoria dels incendis forestals són provocats per l'acció humana, de forma directa o indirecta, ja sigui per negligències (cremes agrícoles, cigarretes, espurnes de maquinària) o de manera intencionada. Però no ho són tots: alguns incendis es produeixen per causes naturals, com els llamps de les tempestes seques d'estiu, i aquests sovint s'inicien en zones de muntanya allunyades de les àrees urbanes. A més, molts incendis d'origen humà tampoc comencen prop de les ciutats, sinó en espais agrícoles, al costat de carreteres o sota línies elèctriques."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "L'afirmació és falsa: tot i que la gran majoria d'incendis són provocats per l'acció humana de forma directa o indirecta, n'hi ha que es produeixen per causes naturals, com els llamps. (0,50)"
+          }
+        ],
+        "nota": "Error típic: respondre \"vertader\" pensant en el 90 % d'incendis d'origen humà. Les afirmacions amb \"tots\" o \"mai\" solen ser falses: busqueu el contraexemple."
+      }
+    },
+    {
+      "id": "geografia-2023-J-e4-q1",
+      "exercici": 4,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1.5,
+      "titol": "Mapa dels passatgers als principals aeroports espanyols (2019): localització i activitats econòmiques",
+      "tema": "serveis",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "transport aeri",
+        "aeroports",
+        "turisme de sol i platja",
+        "litoralització",
+        "insularitat",
+        "hub",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11,
+        12
+      ],
+      "text": "**Nombre de passatgers als aeroports principals (2019)**\n\n(Mapa d'Espanya per províncies amb el nombre de passatgers, en milions, dels aeroports principals: 61, 52, 29, 19, 15, 13 i 11.)\n\n*Font:* Aeropuertos Españoles y Navegación Aérea (AENA). *Informe anual 2019* [en línia], 2019.",
+      "enunciat": "Exercici 4. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu el mapa. Pregunta 1: expliqueu la distribució territorial dels grans aeroports espanyols centrant-vos en les qüestions següents. [1,5 punts en total]",
+      "figures": [
+        {
+          "src": "img/geografia/2023-J/e4-q1.png",
+          "peu": "Mapa d'Espanya per províncies amb el nombre de passatgers dels aeroports principals el 2019, en milions: Madrid 61, Barcelona 52, Palma 29, Màlaga 19, Alacant 15, Gran Canària 13 i Tenerife Sud 11. Font: AENA, Informe anual 2019."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Indiqueu la localització dels aeroports principals i relacioneu-la amb les activitats econòmiques més importants de cada territori.",
+          "punts": 1
+        },
+        {
+          "id": "b",
+          "enunciat": "Esmenteu el nom de les províncies on se situen els cinc aeroports amb més volum de passatgers.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari de mapa d'1,5 punts. **a)** (1 punt) demana un **patró de localització** i relacionar-lo amb l'economia; **b)** (0,5) és només localitzar cinc províncies. Llegiu el mapa: xifres en milions de passatgers, set aeroports, any 2019 (abans de la covid). Extensió: 10-12 línies a l'a) i una línia al b). Temps: 10-12 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Quatre idees, 0,25 cadascuna:\n\n1. **Patró**: aeroports a la **costa mediterrània**, als **arxipèlags** balear i canari, i a **Madrid i Barcelona**; l'interior i la cornisa cantàbrica no en tenen cap de gran.\n2. **Turisme de sol i platja**: Palma, Màlaga, Alacant, Gran Canària i Tenerife viuen dels fluxos turístics internacionals.\n3. **Litoralització i insularitat**: la població i l'activitat econòmica es concentren a la costa; a les illes l'avió és imprescindible.\n4. **Madrid i Barcelona**: pes econòmic de les dues metròpolis, turisme urbà i cultural, i funció de **hub** (connexió de vols regionals i internacionals); pont aeri entre les dues ciutats."
+          },
+          {
+            "apartat": "a",
+            "titol": "Càlculs",
+            "cos": "Pes de cada aeroport sobre el total dels set del mapa (200 milions de passatgers):\n\n| Aeroport | Milions | % del total del mapa |\n|---|---|---|\n| Madrid | 61 | 30,5 % |\n| Barcelona | 52 | 26,0 % |\n| Palma | 29 | 14,5 % |\n| Màlaga | 19 | 9,5 % |\n| Alacant | 15 | 7,5 % |\n| Gran Canària | 13 | 6,5 % |\n| Tenerife Sud | 11 | 5,5 % |\n| **Total** | **200** | **100 %** |\n\n% = passatgers de l'aeroport / 200 × 100. Madrid i Barcelona sumen 113 milions (56,5 %); els cinc aeroports turístics (Palma, Màlaga, Alacant, Gran Canària i Tenerife Sud), 87 milions (43,5 %)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El mapa mostra el nombre de passatgers, en milions, dels set aeroports principals d'Espanya el 2019. S'hi observa un patró de localització molt clar: tret de Madrid, tots són a la costa mediterrània (Barcelona, Alacant i Màlaga) i als arxipèlags balear (Palma) i canari (Gran Canària i Tenerife Sud), mentre que a l'interior i a la façana cantàbrica i atlàntica no n'hi ha cap de gran.\n\nAquesta localització està relacionada amb els fluxos turístics cap a les destinacions litorals de sol i platja: Palma (29 milions), Màlaga (19), Alacant (15) i els dos aeroports canaris (13 i 11) depenen sobretot del turisme internacional, i junts sumen 87 milions de passatgers, un 43,5 % del total del mapa. També reflecteix la litoralització, és a dir, la concentració de la població i de l'activitat econòmica a la costa, i la insularitat: a les Balears i les Canàries l'avió és el mitjà de transport imprescindible per connectar amb la Península i amb Europa.\n\nMadrid (61 milions) i Barcelona (52) tenen un pes específic: concentren el 56,5 % dels passatgers del mapa per la rellevància econòmica de les dues ciutats i les seves àrees metropolitanes (seus d'empreses, serveis avançats, negocis), per l'atracció del turisme urbà i cultural i perquè fan de hub o node de connexió entre vols regionals i internacionals; a més, entre totes dues hi ha un trànsit aeri molt intens, el pont aeri."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Ordeneu les xifres del mapa: 61, 52, 29, 19, 15. Les províncies són **Madrid, Barcelona, Illes Balears (Palma), Màlaga i Alacant**. Compte: es demanen províncies, no ciutats."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Els cinc aeroports amb més passatgers són a les províncies de Madrid (61 milions), Barcelona (52), Illes Balears, amb l'aeroport de Palma (29), Màlaga (19) i Alacant (15)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Patró de localització a la costa mediterrània, als arxipèlags balear i canari i a Madrid i Barcelona (0,25); relació amb els fluxos turístics de sol i platja (0,25); litoralització i insularitat (0,25); pes de Madrid i Barcelona per la rellevància econòmica, el turisme urbà i cultural i la funció de hub, pont aeri (0,25)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Madrid, Barcelona, Palma (Illes Balears), Màlaga i Alacant. (0,50)"
+          }
+        ],
+        "nota": "La pauta oficial respon el b) amb ciutats (\"Madrid, Barcelona, Palma, Màlaga i Alacant\"), però l'enunciat demana províncies: per a Palma, la província és les Illes Balears. Els percentatges són sobre el total dels set aeroports del mapa, no sobre el total d'Espanya."
+      }
+    },
+    {
+      "id": "geografia-2023-J-e4-q2",
+      "exercici": 4,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Pot el ferrocarril d'alta velocitat substituir l'avió en els viatges interiors?",
+      "tema": "serveis",
+      "temes_secundaris": [
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "ferrocarril",
+        "alta velocitat",
+        "transport aeri",
+        "mobilitat sostenible",
+        "canvi climàtic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        13
+      ],
+      "text": "",
+      "enunciat": "Exercici 4. Pregunta 2. Creieu que el ferrocarril podria arribar a substituir l'avió com a mitjà de transport principal en els viatges interiors? Raoneu la resposta. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'opinió raonada d'1 punt. La pauta valora dos arguments de 0,50: la **competitivitat** del tren segons la distància i el temps (alta velocitat) i la **sostenibilitat**. Preneu posició al principi, argumenteu i matiseu al final. Extensió: 8-10 línies. Temps: 6 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Posició**: sí, en bona part dels trajectes peninsulars de distància mitjana.\n2. **Distància i temps (0,50)**: amb la xarxa d'**alta velocitat** (AVE), en trajectes de fins a 600-700 km el tren és competitiu, perquè surt i arriba al centre de les ciutats i no cal fer controls ni desplaçar-se a l'aeroport; ja ha captat bona part dels viatgers del pont aeri Madrid-Barcelona.\n3. **Sostenibilitat (0,50)**: el tren elèctric emet molts menys gasos d'efecte hivernacle per viatger; les polítiques contra el canvi climàtic el prioritzaran (alguns països europeus ja limiten vols curts amb alternativa en tren).\n4. **Matís**: no substituirà l'avió en els viatges a les illes ni en distàncies molt llargues."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Crec que el ferrocarril pot substituir l'avió en bona part dels viatges interiors, tot i que no en tots. En funció de la distància i del temps de desplaçament, el tren és cada vegada més competitiu: des que es va consolidar la xarxa d'alta velocitat, en trajectes de fins a 600-700 km el temps total de viatge és semblant o inferior al de l'avió, perquè les estacions són al centre de les ciutats i no cal desplaçar-se a l'aeroport ni fer controls de seguretat. Per això el tren ja ha captat una gran part dels viatgers que abans feien servir l'avió, com passa en el pont aeri entre Madrid i Barcelona.\n\nD'altra banda, el ferrocarril és un mitjà de transport molt més sostenible que l'avió, perquè consumeix menys energia i emet molts menys gasos d'efecte hivernacle per viatger. És d'esperar que, en el futur, les polítiques actives contra el canvi climàtic fomentin i prioritzin els desplaçaments en tren, fins i tot limitant els vols curts que tinguin alternativa ferroviària. Tanmateix, l'avió continuarà sent imprescindible per anar a les Balears i les Canàries i per als trajectes més llargs."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "En funció de la distància i el temps de desplaçament, el ferrocarril és cada cop més competitiu, sobretot amb la consolidació de la xarxa d'alta velocitat, que capta part dels viatgers de l'avió (0,50). El ferrocarril és molt més sostenible i les polítiques contra el canvi climàtic en fomentaran l'ús (0,50)."
+          }
+        ],
+        "nota": "Una resposta que digui que no el podrà substituir també és vàlida si està ben argumentada, però ha de tractar els dos aspectes que puntuen (competitivitat segons distància i temps, i sostenibilitat)."
+      }
+    },
+    {
+      "id": "geografia-2023-J-e5-q1",
+      "exercici": 5,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Fotografies de feixes abandonades a la muntanya mediterrània: causes de l'abandonament",
+      "tema": "primari",
+      "temes_secundaris": [
+        "paisatges"
+      ],
+      "conceptes": [
+        "abandonament de conreus",
+        "feixes",
+        "muntanya mediterrània",
+        "mecanització",
+        "relleu generacional",
+        "comentari de fotografia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        14
+      ],
+      "text": "**Abandonament de conreus a la muntanya mediterrània**\n\n(Dues fotografies del mateix vessant.)\n\n*Font:* Observatori del Paisatge. *Catàleg de paisatge del Camp de Tarragona* [en línia], 2009.\n\nLa fotografia de l'esquerra mostra unes feixes de conreu esglaonades situades en un vessant de muntanya baixa mediterrània, durant la dècada dels anys cinquanta del segle passat. A la imatge de la dreta, que correspon a l'actualitat, s'observa com la vegetació ha colonitzat els conreus abandonats.",
+      "enunciat": "Exercici 5. Cal respondre QUATRE dels cinc exercicis (2,5 punts cadascun). Observeu les dues fotografies. Pregunta 1: quines són les causes que han propiciat l'abandonament de moltes àrees de conreu de la muntanya baixa mediterrània? [1 punt]",
+      "figures": [
+        {
+          "src": "img/geografia/2023-J/e5-q1.png",
+          "peu": "Dues fotografies en blanc i negre d'un vessant de muntanya baixa mediterrània al Camp de Tarragona: a l'esquerra, feixes de conreu esglaonades i netes als anys cinquanta del segle XX; a la dreta, les mateixes feixes avui, abandonades i colonitzades per matolls i pins. Font: Observatori del Paisatge, Catàleg de paisatge del Camp de Tarragona (2009)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt: **0,25 per causa correcta fins a 1 punt**, per tant calen quatre causes ben explicades. Comenceu amb una frase que identifiqui el document (dues fotografies comparades, anys cinquanta i actualitat) i el que mostren (feixes esglaonades conreades → feixes colonitzades per la vegetació). Extensió: 8-10 línies. Temps: 6 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Quatre causes (0,25 cadascuna):\n\n1. **Baix rendiment dels sòls**: prims, pedregosos i de secà en vessants.\n2. **Dificultat de mecanització**: les feixes són estretes i de difícil accés per a la maquinària.\n3. **Baixa rendibilitat**: molt treball manual i costos alts davant la competència de l'agricultura de plana, de regadiu i dels mercats globals.\n4. **Manca de relleu generacional**: èxode rural des dels anys seixanta cap a la indústria i els serveis; els pagesos envelleixen i no tenen successors."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Les dues fotografies comparen un mateix vessant de muntanya baixa mediterrània als anys cinquanta, amb les feixes esglaonades plenament conreades, i en l'actualitat, quan la vegetació (matolls i pins) ha colonitzat els conreus abandonats. Les causes d'aquest abandonament són diverses. En primer lloc, el baix rendiment dels sòls: són prims, pedregosos i de secà, i donen collites escasses. En segon lloc, les feixes són estretes i de difícil accés, i això fa molt difícil introduir-hi la maquinària per a les feines del camp. En tercer lloc, la baixa rendibilitat dels conreus, que exigeixen moltes hores de treball manual o poc mecanitzat i no poden competir en preu amb l'agricultura de plana i de regadiu ni amb els productes importats. Finalment, la manca de relleu generacional: des dels anys seixanta molts joves van emigrar cap a les ciutats per treballar a la indústria i als serveis, i la població que queda és envellida i no té qui continuï l'explotació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "0,25 per causa correcta fins a 1 punt: baix rendiment dels sòls; dificultat per introduir maquinària; baixa rendibilitat dels conreus per l'elevat cost en hores de treball manual o poc mecanitzat; manca de relleu generacional. Es valoren altres respostes pertinents."
+          }
+        ],
+        "nota": "Lligueu les causes al que es veu a la foto (vessants, feixes estretes, marges de pedra seca). Error típic: donar només una causa general (\"la gent marxa a la ciutat\") sense explicar per què aquests conreus no són rendibles."
+      }
+    },
+    {
+      "id": "geografia-2023-J-e5-q2",
+      "exercici": 5,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Conseqüències socioeconòmiques i ambientals de l'abandonament de conreus",
+      "tema": "primari",
+      "temes_secundaris": [
+        "poblacio",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "abandonament de conreus",
+        "despoblament rural",
+        "envelliment",
+        "incendis forestals",
+        "biodiversitat",
+        "erosió"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "**Abandonament de conreus a la muntanya mediterrània**\n\n(Dues fotografies del mateix vessant.)\n\n*Font:* Observatori del Paisatge. *Catàleg de paisatge del Camp de Tarragona* [en línia], 2009.\n\nLa fotografia de l'esquerra mostra unes feixes de conreu esglaonades situades en un vessant de muntanya baixa mediterrània, durant la dècada dels anys cinquanta del segle passat. A la imatge de la dreta, que correspon a l'actualitat, s'observa com la vegetació ha colonitzat els conreus abandonats.",
+      "enunciat": "Exercici 5. Pregunta 2. Quines conseqüències socioeconòmiques i ambientals ha comportat l'abandonament de conreus a l'espai rural? [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt: **0,20 per conseqüència correcta fins a 1 punt**, per tant calen cinc conseqüències, i cal que n'hi hagi de socioeconòmiques i d'ambientals. Feu dos paràgrafs (un per tipus). Extensió: 8-10 línies. Temps: 6 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "**Socioeconòmiques**: despoblament de les àrees rurals; envelliment per l'emigració dels joves; baixa natalitat; disminució dels serveis (banca, centre de salut, escola, comerç).\n\n**Ambientals**: augment de la superfície forestal per recolonització espontània; augment del risc d'incendi; canvis en la biodiversitat local (pèrdua d'espais oberts i d'espècies lligades als conreus); millor protecció del sòl contra l'erosió (aspecte positiu), tot i que els marges de pedra seca sense manteniment s'esfondren.\n\nAmb cinc conseqüències ben explicades s'obté el màxim."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Des del punt de vista socioeconòmic, l'abandonament de conreus ha accelerat el despoblament de les àrees rurals, ja que l'agricultura era la base de la seva economia. Com que han emigrat sobretot els joves, la població que queda està molt envellida i la natalitat és molt baixa. A més, amb menys habitants disminueixen els serveis disponibles: tanquen oficines bancàries, escoles, botigues i centres de salut, cosa que encara fa marxar més gent.\n\nDes del punt de vista ambiental, la vegetació recolonitza espontàniament els antics conreus i augmenta la superfície forestal, com es veu a la fotografia. Aquest bosc jove i continu, sense discontinuïtats agrícoles, fa augmentar el risc d'incendi forestal. També canvia la composició de la biodiversitat local, perquè es perden els espais oberts i les espècies lligades al mosaic agroforestal. En canvi, la coberta vegetal protegeix millor el sòl de l'erosió."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "0,20 per conseqüència correcta fins a 1 punt. Socioeconòmiques: despoblament; envelliment per emigració dels joves; baixa natalitat; disminució dels serveis (banca, salut, escola, comerç). Ambientals: augment de la superfície forestal per recolonització; augment del risc d'incendi; canvis en la biodiversitat local; millor protecció del sòl contra l'erosió."
+          }
+        ],
+        "nota": "No oblideu que alguna conseqüència ambiental és positiva (protecció del sòl): les pautes la valoren. Relacioneu aquesta pregunta amb l'exercici d'incendis si el feu."
+      }
+    },
+    {
+      "id": "geografia-2023-J-e5-q3",
+      "exercici": 5,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Mesures per capgirar el despoblament de les àrees rurals",
+      "tema": "primari",
+      "temes_secundaris": [
+        "poblacio",
+        "territori"
+      ],
+      "conceptes": [
+        "despoblament rural",
+        "turisme rural",
+        "desenvolupament rural",
+        "teletreball",
+        "productes ecològics"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Exercici 5. Pregunta 3. Quines mesures es podrien prendre per a capgirar el despoblament de les àrees rurals? [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta breu de 0,5 punts. Doneu tres o quatre mesures concretes, agrupades en dos tipus: crear **activitat econòmica** i **atreure nous habitants**. Extensió: 5-6 línies. Temps: 3-4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Noves activitats econòmiques** que fixin població: turisme rural, gastronòmic i ecoturisme; artesania i producció d'aliments ecològics i de qualitat (mel, formatge); llocs de treball agroforestals i ramaders.\n2. **Facilitats per a nous habitants**: lloguers baixos o habitatge públic, bona connexió a internet (teletreball), manteniment de serveis bàsics (escola, centre de salut, transport públic)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Les mesures per capgirar el despoblament són de dos tipus. D'una banda, cal implantar noves activitats econòmiques que fixin les persones al territori: el turisme rural, gastronòmic o l'ecoturisme, l'artesania i la producció d'aliments ecològics i de qualitat, com la mel o el formatge, i l'oferta de llocs de treball en el sector agroforestal i ramader. De l'altra, cal donar facilitats als nous habitants: lloguers molt baixos o habitatge públic, un bon servei d'internet que permeti el teletreball i el manteniment de serveis bàsics com l'escola, el consultori mèdic i el transport públic."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Mesures de dos tipus: implantar noves activitats econòmiques que fixin la població (turisme rural, gastronòmic, ecoturisme; artesania i aliments ecològics; llocs de treball agroforestals i ramaders) i facilitats per a nous habitants (lloguers baixos, servei d'internet). (0,50)"
+          }
+        ],
+        "nota": "Les pautes accepten altres mesures pertinents. Eviteu respostes genèriques com \"donar ajudes\" sense dir per a què."
+      }
+    }
+  ]
+}

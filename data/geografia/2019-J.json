@@ -1,0 +1,591 @@
+{
+  "examen": {
+    "id": "geografia-2019-J",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2019,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/geografia/2019-J-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2019-J-solucio.pdf",
+    "estructura": "Sèrie 1. La prova consta d'una part comuna obligatòria (exercicis 1 i 2, 2 punts cadascun; 4 punts) i d'una part optativa de la qual cal escollir DOS dels tres exercicis 3, 4 i 5 (3 punts cadascun; 6 punts). Total: 10 punts. Cada exercici parteix d'un document i té dues o tres preguntes: exercici 1, piràmides de població de la Terra Alta i el Maresme (0,5 + 0,75 + 0,75); exercici 2, gràfics del consum d'energia primària i final a Catalunya (0,5 + 1 + 0,5); exercici 3, gràfic de l'evolució de la taxa d'atur a Catalunya 1994-2018 (1 + 1 + 1); exercici 4, mapa dels parcs nacionals d'Espanya i biodiversitat (1 + 1 + 1); exercici 5, fotografies del paisatge litoral de Palamós 1952 i 2008 (1 + 1 + 1). No hi ha opcions A/B: cada exercici és un element amb les seves preguntes com a apartats (opcio null). Les pautes valoren, a més dels continguts, l'ordre, la precisió, la terminologia geogràfica i la claredat, i a diverses preguntes puntuen 0,25 per cada aspecte pertinent."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2019-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Piràmides de població de la Terra Alta i el Maresme (2017): migracions i estructura per edats",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "territori",
+        "primari"
+      ],
+      "conceptes": [
+        "piràmide d'edats",
+        "piràmide regressiva",
+        "envelliment",
+        "èxode rural",
+        "immigració",
+        "baby boom",
+        "natalitat",
+        "terra alta",
+        "maresme"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3,
+        4
+      ],
+      "text": "",
+      "enunciat": "La prova consta d'una part comuna (exercicis 1 i 2), que heu de fer obligatòriament, i d'una part optativa (exercicis 3, 4 i 5), de la qual heu d'escollir dos exercicis. PART COMUNA. Exercici 1 [2 punts en total]. La Terra Alta és una comarca poc poblada (11.634 habitants), on la principal activitat econòmica és l'agricultura de secà (olivera, vinya). L'economia del Maresme, en canvi, és més diversificada (serveis, indústria, agricultura intensiva) i la seva població (447.824 habitants) es localitza en ciutats mitjanes i grans. A continuació, es reprodueixen les piràmides de població de les dues comarques amb l'objectiu d'observar i comentar els canvis que s'han produït en l'estructura de les poblacions respectives al llarg del temps.",
+      "figures": [
+        {
+          "src": "img/geografia/2019-J/e1.png",
+          "peu": "Dues piràmides de població (piràmide A i piràmide B) per grups d'edat quinquennals (de 0 a 4 anys fins a 100 anys i més), homes (gris clar, a l'esquerra) i dones (gris fosc, a la dreta), en % sobre la població total; eix horitzontal amb marques a l'1, el 3 i el 5 %. La piràmide A té la base estreta (≈ 2 % per sexe a 0-4 anys) i el màxim entre els 35 i els 69 anys (≈ 3,3-3,8 %), amb molts efectius a 80-84 anys; la piràmide B té el màxim als 40-44 anys (≈ 4,5 %), un cos més estret als 20-29 anys i un lleuger eixamplament als 5-14 anys. Font: elaboració pròpia a partir de dades de l'Idescat, Padró municipal d'habitants, 2017."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "A quina comarca (Maresme o Terra Alta) correspon cada piràmide? Justifiqueu la resposta.",
+          "punts": 0.5
+        },
+        {
+          "id": "2a",
+          "enunciat": "a) Digueu quin és el factor relacionat amb els processos migratoris que més ha influït en l'evolució demogràfica de les poblacions de Catalunya durant la segona meitat del segle xx i expliqueu quin efecte ha tingut sobre la forma general de les dues piràmides.",
+          "punts": 0.75
+        },
+        {
+          "id": "2b",
+          "enunciat": "b) Digueu quines diferències hi ha en l'estructura per edats de la població jove de les piràmides de les dues comarques, tenint en compte els processos migratoris que han tingut lloc en les darreres dècades. Justifiqueu la resposta.",
+          "punts": 0.75
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici obligatori de 2 punts (uns 18-20 minuts de l'hora i mitja de la prova). No es demana una descripció formal de les piràmides, sinó **interpretar-les**: identificar-les (0,5), explicar l'efecte de les migracions del segle XX sobre la forma general (0,75) i comparar la base i la població jove a la llum de les migracions recents (0,75).\n\nClaus per llegir-les: l'eix horitzontal és el **percentatge** sobre la població total de cada comarca (no nombre d'habitants), de manera que es poden comparar dues poblacions de mida molt diferent (11.634 i 447.824 habitants). Fixa't en tres zones: la **base** (0-14 anys), el **cos** (adults) i el **cim** (65 anys i més). Cita sempre algun grup d'edat concret i justifica cada afirmació amb el que es veu a la piràmide."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Respon primer (A = Terra Alta, B = Maresme) i després justifica-ho amb la **forma** de cada piràmide i amb el **context econòmic** que dona l'enunciat (0,5 en total):\n\n- **A**: base estreta, cos ample fins a edats avançades i cim molt gruixut (fins i tot el grup de 80-84 anys és dels més nombrosos) → piràmide **regressiva** o en forma de bulb, població **envellida**, pròpia d'una comarca rural d'agricultura de secà que ha perdut població per emigració.\n- **B**: màxim molt marcat als adults de 35-54 anys, cim estret i base relativament més ampla → població més jove i dinàmica, pròpia d'una comarca urbana i industrial que ha rebut immigració."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Estimació de la piràmide a partir de la longitud de les barres (mesurades en píxels contra les marques de l'1, el 3 i el 5 %; valors aproximats, homes + dones), verificada amb Python:\n\n| Indicador | Piràmide A (Terra Alta) | Piràmide B (Maresme) |\n|---|---|---|\n| 0-4 anys (H + D) | ≈ 1,9 + 1,8 = **≈ 3,7 %** | ≈ 2,5 + 2,4 = **≈ 4,9 %** |\n| Menors de 15 anys | **≈ 12-13 %** | **≈ 16-17 %** |\n| 65 anys i més | **≈ 28-30 %** | **≈ 18 %** |\n| Grup més nombrós | 55-59 anys (homes ≈ 3,8 %) | 40-44 anys (homes ≈ 4,6 %) |\n\nÍndex d'envelliment aproximat (≥ 65 / < 15 × 100): A ≈ 29 / 12,5 × 100 ≈ **230**; B ≈ 18 / 16,5 × 100 ≈ **110**. La Terra Alta té més del doble de gent gran que d'infants; el Maresme, aproximadament tants com infants."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "La **piràmide A** correspon a la **Terra Alta** i la **piràmide B**, al **Maresme**.\n\nLa piràmide A té una forma de **bulb o de piràmide regressiva**: la base és estreta (els infants de 0 a 4 anys no arriben al 2 % per sexe), el cos és ample des dels 35 fins als 69 anys i el cim és molt gruixut, amb grups de 80-84 anys tan nombrosos com els dels adults joves. És una població molt **envellida** (prop d'un 30 % de gent de 65 anys i més), amb baixa natalitat i amb el buit que va deixar l'**emigració** dels joves. Correspon a una comarca rural i petita, com la Terra Alta, on l'agricultura de secà (olivera, vinya) ha generat poca ocupació i ha estat poc dinàmica demogràficament.\n\nLa piràmide B té el màxim als **adults de 35 a 54 anys** (el grup de 40-44 anys supera el 4,5 % per sexe), un cim estret i una base relativament més ampla. És una població més jove, amb la forma triangular a la meitat superior pròpia d'una població que va ser expansiva als anys 60 i 70 i que ha rebut **immigració**. Correspon al Maresme, una comarca amb una economia diversificada (indústria, serveis, agricultura intensiva) i ciutats mitjanes i grans integrades a l'àrea metropolitana de Barcelona, que ha atret població."
+          },
+          {
+            "apartat": "2a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Anomena el factor**: l'**èxode rural** (migracions del camp a la ciutat), molt intens a partir dels anys 50-60 del segle XX, juntament amb la immigració de la resta d'Espanya cap a les àrees industrials catalanes.\n2. **Explica el mecanisme**: marxen sobretot **adults joves** → les zones rurals perden població en edat de tenir fills i baixa la natalitat; les zones industrials i urbanes guanyen adults joves i, per tant, naixements (baby boom).\n3. **Aplica-ho a les dues piràmides**: A més regressiva i envellida (buidament); B amb el cos ample i forma expansiva (acumulació d'adults i dels seus fills).\n\nPauta: 0,75 per identificar l'èxode rural i explicar-ne l'efecte sobre la forma general."
+          },
+          {
+            "apartat": "2a",
+            "titol": "Resposta model",
+            "cos": "El factor migratori que més ha influït en l'evolució demogràfica de Catalunya durant la segona meitat del segle XX és l'**èxode rural**, és a dir, l'emigració massiva de la població del camp cap a les ciutats i les àrees industrials, que es va intensificar a partir dels anys 50 i 60. Hi van participar tant la població de les comarques rurals catalanes com els immigrants arribats de la resta d'Espanya (Andalusia, Múrcia, Extremadura...), atrets per la feina a la indústria i els serveis.\n\nCom que els qui emigraven eren sobretot **adults joves**, l'èxode va tenir efectes oposats a les dues comarques. A les zones rurals com la **Terra Alta** es van perdre els grups en edat de treballar i de tenir fills: la natalitat va caure, la població que es va quedar va envellir i la piràmide ha adquirit una forma **regressiva** o de bulb, amb una base estreta i un cim ample. En canvi, a les àrees industrials i urbanes com el **Maresme** es van concentrar els adults joves, que hi van tenir els fills: això va generar una forma **expansiva** en aquells anys, que avui es reflecteix en els grups molt nombrosos d'adults de 35 a 54 anys (en bona part, els fills del baby boom dels anys 60 i 70) i en un cim relativament estret."
+          },
+          {
+            "apartat": "2b",
+            "titol": "Com plantejar-ho",
+            "cos": "Compara la **base** (0-14 anys) i els **joves** (15-29 anys) de les dues piràmides i relaciona-ho amb les migracions **recents** (finals del segle XX i inicis del XXI):\n\n1. **Maresme**: base més ampla i un cert eixamplament als 5-14 anys → efecte de la **immigració estrangera** del període 2000-2008 (adults joves que van tenir fills a la comarca) i de l'arribada de famílies joves des de Barcelona.\n2. **Terra Alta**: base estreta i joves poc nombrosos → la immigració hi ha estat molt més **moderada** (poca capacitat d'atracció) i persisteix la sortida de joves.\n3. **Tret comú**: el grup de **0-4 anys** és més petit que el de 5-9 a totes dues piràmides (més clar al Maresme) → caiguda de la natalitat per la **crisi econòmica** de 2008 i el **retorn** de molts immigrants als seus països.\n\nPauta: 0,75."
+          },
+          {
+            "apartat": "2b",
+            "titol": "Resposta model",
+            "cos": "L'estructura de la població jove és força diferent a les dues comarques. Al **Maresme** (piràmide B), la base és relativament ampla: els grups de 5 a 14 anys arriben gairebé al 3 % per sexe, més que els de 20 a 29 anys. Aquest eixamplament s'explica per la **immigració** de les darreres dècades, sobretot la immigració estrangera dels anys 2000 a 2008 i l'arribada de parelles joves des de l'àrea de Barcelona: com que els immigrants són majoritàriament adults joves, han fet augmentar els naixements i hi ha hagut un cert rejoveniment de la base. Els grups de 20 a 29 anys, en canvi, són més estrets perquè corresponen a les generacions buides nascudes durant la davallada de la natalitat dels anys 80 i 90.\n\nA la **Terra Alta** (piràmide A), la base és estreta i els joves són poc nombrosos (al voltant del 2 % per sexe en cada grup): la comarca té **menys capacitat d'atracció** d'immigrants perquè ofereix poques oportunitats laborals fora de l'agricultura de secà, i molts dels seus joves continuen marxant a estudiar i treballar a les ciutats. Per això l'efecte rejovenidor de la immigració hi ha estat molt més moderat.\n\nA totes dues comarques, finalment, el grup de **0 a 4 anys** és més petit que el de 5 a 9 anys, de manera molt clara al Maresme. És el reflex de la **disminució de la natalitat** dels darrers anys com a conseqüència de la **crisi econòmica** iniciada el 2008, que va frenar l'arribada d'immigrants i va provocar el **retorn** de molts d'ells als seus països d'origen."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "A = Terra Alta: forma de bulb o regressiva, baixa natalitat i emigració, comarca d'agricultura de secà poc dinàmica. B = Maresme: forma triangular a la meitat superior, població expansiva als anys 60 i 70 (0,5)."
+          },
+          {
+            "apartat": "2a",
+            "valor": "Èxode rural, molt marcat a partir dels anys 60: buidament dels territoris rurals, especialment d'adults joves, i augment de les mateixes edats a les àrees industrials i urbanes; piràmides rurals més regressives que les dels territoris industrialitzats (0,75)."
+          },
+          {
+            "apartat": "2b",
+            "valor": "Al Maresme l'efecte de la immigració és molt marcat; a la Terra Alta, amb menor capacitat d'atracció, molt més moderat. Davallada recent de la natalitat a totes dues per la crisi i el retorn d'immigrants: generació de 0-4 anys especialment buida (0,75)."
+          }
+        ],
+        "nota": "Les xifres de la taula són estimacions (≈) fetes mesurant la longitud de les barres sobre l'eix (1, 3 i 5 %), amb un error d'unes dècimes; a l'examen n'hi ha prou amb lectures aproximades. Errors típics: confondre les piràmides perquè el Maresme té molta més població (els eixos són percentatges, no valors absoluts); a l'apartat 2a, parlar de la immigració estrangera recent en lloc de l'**èxode rural** del segle XX (la immigració recent és la clau de l'apartat 2b); oblidar justificar cada afirmació amb un grup d'edat concret. A la pregunta 2b, recorda esmentar el tret comú que destaca la pauta: el grup de 0-4 anys més petit a les dues comarques per la crisi de 2008."
+      }
+    },
+    {
+      "id": "geografia-2019-J-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Consum d'energia primària per fonts i d'energia final per sectors a Catalunya (2014): dependència del petroli",
+      "tema": "industria",
+      "temes_secundaris": [
+        "medi-ambient",
+        "serveis"
+      ],
+      "conceptes": [
+        "energia primària",
+        "energia final",
+        "dependència energètica",
+        "petroli",
+        "estalvi energètic",
+        "efecte d'hivernacle",
+        "transport",
+        "gràfic de sectors"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5,
+        6
+      ],
+      "text": "",
+      "enunciat": "La prova consta d'una part comuna (exercicis 1 i 2), que heu de fer obligatòriament, i d'una part optativa (exercicis 3, 4 i 5), de la qual heu d'escollir dos exercicis. PART COMUNA. Exercici 2 [2 punts en total]. Una energia primària és una forma d'energia disponible a la natura abans de ser convertida o transformada. L'energia primària, generalment, es converteix en alguna forma d'energia secundària, com ara l'electricitat, per a poder-la utilitzar. A continuació, podeu observar dos gràfics sobre el consum d'energia primària i final a Catalunya:",
+      "figures": [
+        {
+          "src": "img/geografia/2019-J/e2.png",
+          "peu": "Dos gràfics de sectors (Catalunya, ICAEN 2014), en Ktep i %. Consum d'energia primària per formes d'energia: petroli 10.301 Ktep (44,4 %), nuclear 6.004 Ktep (25,9 %), gas natural 4.997 Ktep (21,5 %), renovables 1.305 Ktep (5,6 %), altres 558 Ktep (2,4 %), carbó 31,7 Ktep (0,1 %). Consum d'energia final per sectors econòmics: transport 5.493 Ktep (42,3 %), industrial 3.540 Ktep (27,3 %), domèstic 1.965 Ktep (15,1 %), serveis 1.585 Ktep (12,2 %), primari 408 Ktep (3,1 %). Font: Institut Català d'Energia (ICAEN), 2014."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Observeu els gràfics i argumenteu si Catalunya és o no és energèticament dependent. Quines conseqüències té aquest fet en la seva economia?",
+          "punts": 0.5
+        },
+        {
+          "id": "2",
+          "enunciat": "Feu dues propostes que podrien contribuir a l'estalvi energètic de petroli en els sectors que més en depenen. Justifiqueu la resposta.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu dos impactes ambientals que siguin conseqüència de la utilització del petroli com a font d'energia.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici obligatori de 2 punts (uns 18-20 minuts). Tres preguntes curtes: argumentar la dependència energètica amb dades (0,5), dues propostes d'estalvi de petroli justificades (1 punt, la que més puntua) i dos impactes ambientals del petroli (0,5).\n\nLlegeix bé els dos gràfics: el de l'esquerra és l'**energia primària** (la que entra al sistema, per fonts) i el de la dreta l'**energia final** (la que arriba als consumidors, per sectors). El total final (12.991 Ktep) és molt menor que el primari (≈ 23.197 Ktep) per les pèrdues de transformació, sobretot a les centrals elèctriques. Fes servir les xifres dels gràfics a cada resposta: és la manera de demostrar que els has llegit."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Argument** (0,25): Catalunya no té jaciments de petroli ni de gas (ni d'urani) → les fonts que cal importar són la gran majoria: petroli + gas ≈ **66 %**; si s'hi afegeix la nuclear (combustible importat), ≈ **92 %**. Les renovables, l'única font pròpia significativa, només són el 5,6 %.\n2. **Conseqüències** (0,25): no es controla el preu de l'energia → vulnerabilitat davant les pujades del petroli i els conflictes als països productors, inflació, pèrdua de competitivitat i dèficit comercial (factura energètica)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Verificat amb Python a partir dels Ktep del gràfic:\n\n| Agrupació | Ktep | % del consum primari |\n|---|---|---|\n| Total energia primària | 23.196,7 | 100 |\n| Petroli + gas natural | 10.301 + 4.997 = 15.298 | **65,9 %** |\n| Combustibles fòssils (+ carbó) | 15.329,7 | **66,1 %** |\n| No renovables (fòssils + nuclear) | 21.333,7 | **92,0 %** |\n| Renovables | 1.305 | **5,6 %** |\n\nEnergia final / primària = 12.991 / 23.196,7 × 100 ≈ **56 %**: gairebé la meitat de l'energia primària es perd en la transformació i el transport."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "Catalunya és clarament **dependent energèticament** de l'exterior. El seu consum d'energia primària es basa en fonts que no té al seu territori: el **petroli** (44,4 %) i el **gas natural** (21,5 %) sumen gairebé el **66 %** del consum i s'han d'importar íntegrament d'altres països, ja que Catalunya no en té jaciments. A més, la **nuclear** (25,9 %) també depèn de l'urani importat, de manera que més del 90 % de l'energia primària prové de recursos de fora. Les **renovables**, l'única font autòctona destacable, només aporten el 5,6 %.\n\nAquesta dependència té conseqüències negatives per a l'economia: Catalunya **no controla el preu de l'energia**, que depèn dels mercats internacionals i de la situació política dels països productors. Les pujades del preu del petroli encareixen el transport i la producció, fan augmentar la **inflació** i redueixen la competitivitat de les empreses, i la compra d'energia a l'exterior engreixa el **dèficit comercial**."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Primer, identifica **quins sectors depenen més del petroli**: el **transport** (42,3 % de l'energia final, gairebé tot amb derivats del petroli: gasoil, benzina, querosè) i, en segon lloc, la **indústria** (27,3 %). Després fes **dues propostes** concretes, cadascuna amb la seva **justificació** (per què estalvia petroli). La pauta accepta qualsevol proposta pertinent; posa'n una de mobilitat de persones i una de mercaderies, per exemple:\n\n- **Mobilitat privada**: més i millor transport públic, vehicles híbrids i elèctrics, vehicle compartit, bicicleta.\n- **Mercaderies**: ferrocarril per a les llargues distàncies (corredor mediterrani), vehicles elèctrics per a la distribució urbana."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "Els gràfics mostren que el **transport** és el sector que consumeix més energia final (42,3 %, 5.493 Ktep) i que depèn gairebé exclusivament dels derivats del petroli; per tant, és on l'estalvi pot ser més gran.\n\n**Proposta 1: reduir l'ús del vehicle privat i electrificar-lo.** Caldria millorar i fomentar el **transport públic** (més freqüències de Rodalies i d'autobusos interurbans, aparcaments de dissuasió a les estacions, tarifes integrades) i promoure la **substitució dels vehicles de benzina i gasoil per vehicles híbrids i elèctrics**, el cotxe compartit i la bicicleta a les ciutats. Un tren o un autobús ple transporta moltes més persones per unitat d'energia que un cotxe amb un o dos ocupants, i el vehicle elèctric fa servir electricitat que es pot generar amb fonts renovables en lloc de petroli.\n\n**Proposta 2: traspassar el transport de mercaderies de la carretera al ferrocarril.** Una gran part de les mercaderies circula en camió per carretera, un mitjà amb un consum de gasoil molt elevat. Potenciar el **ferrocarril de mercaderies** per a les llargues distàncies (per exemple, amb el corredor mediterrani i la connexió dels ports de Barcelona i Tarragona amb l'ample de via europeu) i utilitzar **vehicles elèctrics** per a la distribució dins de les ciutats reduiria molt el consum de petroli, perquè el tren consumeix diverses vegades menys energia per tona transportada i pot funcionar amb electricitat."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos impactes, cadascun amb **causa → conseqüència** (0,25 + 0,25). L'imprescindible segons la pauta: les **emissions de CO2** en la combustió i l'augment de l'**efecte d'hivernacle** (canvi climàtic). El segon pot ser la **contaminació de l'aire** a les ciutats (partícules, NOx), els **vessaments de petroli** al mar (marees negres) o la pluja àcida."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**Augment de l'efecte d'hivernacle i canvi climàtic.** La combustió del petroli i dels seus derivats (benzina, gasoil, querosè, fuel) allibera grans quantitats de **diòxid de carboni (CO2)**, el principal gas d'efecte d'hivernacle. La seva acumulació a l'atmosfera intensifica l'efecte d'hivernacle natural i provoca l'**escalfament global**, amb conseqüències com la pujada de les temperatures, les sequeres, els episodis de pluges torrencials o l'augment del nivell del mar.\n\n**Contaminació de l'aire a les ciutats.** Els motors dels vehicles emeten **partícules en suspensió** i gasos com els òxids de nitrogen i el monòxid de carboni, que deterioren la qualitat de l'aire de les àrees urbanes (per exemple, a l'àrea metropolitana de Barcelona se superen sovint els límits de NO2) i provoquen malalties respiratòries i cardiovasculars. Altres impactes possibles són els **vessaments de petroli al mar** (marees negres com la del *Prestige*, el 2002), que destrueixen els ecosistemes marins i costaners."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Dependència energètica: petroli i gas natural ≈ 66 % del consum primari i s'han d'importar (0,25). La dependència dificulta el control del preu de l'energia i afecta la inflació i l'economia en general (0,25)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Resposta oberta, es valora la pertinença (1). Mobilitat privada: transport públic, vehicles híbrids i elèctrics, vehicle compartit. Mercaderies: vehicles elèctrics a les ciutats, ferrocarril per a les llargues distàncies."
+          },
+          {
+            "apartat": "3",
+            "valor": "Emissió de CO2 en la combustió del petroli i derivats i increment de l'efecte d'hivernacle i del canvi climàtic; altres: contaminació de l'aire de les ciutats (partícules i gasos dels motors), vessaments de petroli al mar (0,5)."
+          }
+        ],
+        "nota": "La pauta parla de «gairebé el 66 %» (petroli + gas): els càlculs ho confirmen (65,9 %). És un bon argument afegit recordar que la nuclear també depèn d'urani importat (dependència real ≈ 92 %), tot i que les estadístiques oficials compten l'energia nuclear com a producció interior. Errors típics: a la pregunta 2, fer propostes genèriques d'estalvi d'electricitat a casa (apagar llums) quan es demana estalviar **petroli** en els sectors que més en depenen (transport); fer propostes sense justificar-les (la justificació puntua); a la pregunta 3, explicar només un impacte o citar-ne dos sense explicar-los."
+      }
+    },
+    {
+      "id": "geografia-2019-J-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Evolució de la taxa d'atur a Catalunya (1994-2018): cicles econòmics i mercat de treball",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "serveis",
+        "industria"
+      ],
+      "conceptes": [
+        "taxa d'atur",
+        "població activa",
+        "crisi econòmica de 2008",
+        "bombolla immobiliària",
+        "atur juvenil",
+        "precarietat laboral",
+        "bretxa salarial",
+        "gràfic de barres"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7,
+        8,
+        9
+      ],
+      "text": "",
+      "enunciat": "PART OPTATIVA. Escolliu DOS dels tres exercicis següents (3, 4 i 5). Exercici 3 [3 punts en total]. Des de fa uns quants anys, l'atur és una de les preocupacions principals de la societat, segons les enquestes dutes a terme pels centres d'investigacions sociològiques. De fet, l'atur a Espanya és un dels més elevats de tota la Unió Europea. A continuació, podeu observar el gràfic de l'evolució de la taxa d'atur a Catalunya:",
+      "figures": [
+        {
+          "src": "img/geografia/2019-J/e3.png",
+          "peu": "Evolució de la taxa d'atur a Catalunya (1994-2018), gràfic de barres anual, en %. Valors aproximats llegits sobre l'eix (0-30): 1994 ≈ 24; descens fins a ≈ 10,7 el 2001; ≈ 11 el 2002-2004; mínim ≈ 8,1 el 2007; 2008 ≈ 11,3; 2009 ≈ 17,9; 2010 ≈ 19,9; 2011 ≈ 21,4; 2012 ≈ 24,9; màxim ≈ 26,1 el 2013; després baixa: 2014 ≈ 24,4, 2015 ≈ 22,1, 2016 ≈ 19,7, 2017 ≈ 17,3, 2018 ≈ 11,3. Font: elaboració pròpia a partir de dades de l'Idescat i de l'Encuesta de la población activa (INE)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Observeu la variació de la taxa d'atur i relacioneu-la amb l'evolució global de l'activitat econòmica desenvolupada al llarg del període 1994-2018.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Indiqueu quins són els sectors econòmics i de població que han estat més afectats per l'augment de l'atur en els darrers anys i exposeu-ne les causes.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Raoneu fins a quin punt esteu d'acord o en desacord amb les afirmacions següents:\n\n- La disminució de la taxa d'atur d'aquests darrers anys indica una recuperació econòmica.\n- Les dones participen en el mercat laboral amb les mateixes condicions que els homes.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts (n'has de fer dos dels tres; uns 25 minuts cadascun). Tres preguntes d'1 punt: relacionar la corba de l'atur amb els cicles econòmics, identificar sectors i grups més afectats amb les causes, i valorar dues afirmacions.\n\nLa **taxa d'atur** és el percentatge de població activa (ocupats + aturats que busquen feina) que està a l'atur. El gràfic no porta les xifres escrites: llegeix-les sobre l'eix vertical i fes servir valors arrodonits (≈ 24 %, ≈ 8 %, ≈ 26 %). A la pregunta 3 no n'hi ha prou amb dir «d'acord» o «en desacord»: cal **matisar** i aportar almenys dos arguments per afirmació."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Divideix el període en fases i, per a cada una, dona **xifres** i la **causa econòmica** (0,5 + 0,5):\n\n1. **1994-2007**: l'atur baixa de ≈ 24 % a ≈ 8 % (mínim de tot el període) → gran **creixement econòmic** (entrada a l'euro, crèdit barat, boom de la construcció i dels serveis, arribada d'immigrants). Petita aturada el 2001-2004 (≈ 11 %).\n2. **2008-2013**: l'atur es multiplica per més de 3 fins a ≈ 26 % → **crisi financera global** i esclat de la **bombolla immobiliària**.\n3. **2014-2018**: descens fins a ≈ 11 % → **recuperació** progressiva de l'activitat."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Valors llegits mesurant les barres (≈) i variacions, verificades amb Python:\n\n| Fase | Inici | Final | Variació (punts percentuals) |\n|---|---|---|---|\n| Expansió 1994-2007 | ≈ 24,1 % | ≈ 8,1 % | **≈ −16** |\n| Crisi 2007-2013 | ≈ 8,1 % | ≈ 26,1 % | **≈ +18** (×3,2) |\n| Recuperació 2013-2018 | ≈ 26,1 % | ≈ 11,3 % | **≈ −15** |\n\nEl 2013 hi havia, proporcionalment, més de tres vegades més aturats que el 2007 (26,1 / 8,1 ≈ 3,2)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "La taxa d'atur de Catalunya entre el 1994 i el 2018 segueix el ritme dels **cicles econòmics**, amb una forma de «U» doble que es pot dividir en tres fases.\n\nEntre el **1994 i el 2007** l'atur baixa de manera espectacular, des de gairebé un **24 %** el 1994 fins a un **8 %** aproximadament el 2007, el valor més baix dels darrers 25 anys (amb una petita aturada al voltant de l'11 % entre el 2001 i el 2004). És una etapa de **gran creixement econòmic**, impulsada per l'entrada a la Unió Econòmica i Monetària (l'euro), el crèdit barat, el boom de la **construcció** i el creixement del turisme i els serveis, que van generar molta ocupació i van atreure centenars de milers d'immigrants.\n\nA partir del **2008** la taxa d'atur augmenta de manera molt ràpida i se supera el **25 %** el **2013** (≈ 26 %), tres vegades més que el 2007. És la conseqüència de la **crisi econòmica i financera global** que, a Catalunya i a Espanya, va tenir un impacte especialment greu per l'**esclat de la bombolla immobiliària**: el sector de la construcció es va enfonsar, els bancs van tallar el crèdit i moltes empreses van tancar.\n\nDes del **2014** l'atur disminueix de manera progressiva fins a situar-se a l'entorn de l'**11 %** el 2018, en relació amb la **recuperació de l'activitat econòmica**, impulsada per les exportacions, el turisme i el consum, tot i que encara no s'havien recuperat els nivells previs a la crisi."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues parts de 0,5 punts:\n\n1. **Sectors**: la **construcció** (bombolla immobiliària) i les activitats que en depenen (materials de construcció, ciment, ceràmica, mobles, serveis immobiliaris); i, per la **restricció del crèdit**, el conjunt de les activitats productives (indústria, comerç).\n2. **Grups de població**: els **joves** (atur juvenil de més del 40-50 % en el pitjor moment, dels més alts d'Europa) i els **majors de 50 anys** (atur de llarga durada); també els immigrants i els treballadors poc qualificats, molt presents a la construcció. Per a cada grup, explica la causa."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "El **sector econòmic** més afectat per l'augment de l'atur va ser la **construcció**. Durant els anys de creixement s'havia construït un volum d'habitatges molt superior a la demanda real, finançat amb crèdit fàcil; quan va esclatar la **bombolla immobiliària** el 2008, l'activitat es va aturar de cop i es van perdre centenars de milers de llocs de feina, també en totes les activitats que en depenen (fabricació de materials de construcció, ceràmica, fusta i mobles, agències immobiliàries...). A més, la **crisi financera** va fer que els bancs restringissin el crèdit a les empreses i a les famílies, cosa que va reduir el consum i la inversió i va estendre l'atur al conjunt de les activitats productives: indústria, comerç i serveis.\n\nPel que fa a la **població**, el grup més afectat han estat els **joves**: amb poca experiència i contractes temporals, van ser els primers a perdre la feina i han tingut moltes dificultats per entrar al mercat de treball, de manera que l'**atur juvenil** a Catalunya i Espanya ha estat dels més alts d'Europa (va superar el 50 % entre els menors de 25 anys el 2013), i molts joves qualificats van emigrar. Un altre grup molt afectat són els **aturats majors de 50 anys**, que, un cop perduda la feina, tenen moltes dificultats per tornar a ser contractats i esdevenen aturats de llarga durada. També van patir especialment l'atur els **immigrants** i els treballadors amb **baixa qualificació**, molt presents a la construcció."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Un paràgraf per afirmació (0,5 + 0,5), amb una posició matisada i **almenys dos arguments** cadascuna:\n\n1. **Recuperació econòmica**: parcialment d'acord. Baixa l'atur perquè creix l'activitat (sí que hi ha recuperació), però la feblesa és la **qualitat de l'ocupació**: contractes **temporals** i a **temps parcial**, salaris baixos, precarietat; a més, part del descens es deu a la reducció de la població activa (emigració de joves, retorn d'immigrants, desànim).\n2. **Dones**: en desacord. **Bretxa salarial** per feines idèntiques; la **maternitat** perjudica la promoció; més **contractes temporals i parcials** (molt presents als serveis); sostre de vidre; menor taxa d'activitat i més càrrega de feines de cura."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**La disminució de la taxa d'atur d'aquests darrers anys indica una recuperació econòmica.** Hi estic d'acord només en part. És cert que la reducció de l'atur des del 2014 (de ≈ 26 % a ≈ 11 % el 2018) és un indicador de l'**increment de l'activitat econòmica**: les empreses tornen a contractar perquè han crescut la producció, les exportacions, el turisme i el consum. Ara bé, la recuperació té febleses importants. Bona part dels nous contractes són **temporals** o a **temps parcial** i amb **salaris baixos**, de manera que molts treballadors tenen feina però continuen en una situació precària (treballadors pobres). A més, una part del descens de la taxa no s'explica per la creació d'ocupació, sinó per la reducció de la població activa: l'emigració de joves, el retorn de molts immigrants als seus països i les persones que, desanimades, deixen de buscar feina.\n\n**Les dones participen en el mercat laboral amb les mateixes condicions que els homes.** No hi estic d'acord. Tot i que la incorporació de la dona al mercat de treball ha estat molt gran en les darreres dècades, hi continua havent **discriminació de gènere**. En primer lloc, hi ha una **bretxa salarial**: en moltes empreses i sectors les dones cobren sensiblement menys que els homes per feines idèntiques o de valor equivalent. En segon lloc, la **maternitat** és un aspecte que moltes empreses no valoren i que perjudica la promoció professional de les dones, que sovint topen amb un **sostre de vidre** que les allunya dels càrrecs directius. Finalment, les dones es veuen més afectades pels **contractes temporals i a temps parcial**, perquè moltes treballen en el sector dels serveis (comerç, neteja, hostaleria, cures), i continuen assumint la major part de les tasques domèstiques i de cura, cosa que limita la seva disponibilitat laboral."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "1994-2007: l'atur baixa de gairebé un 25 % fins al 8,2 % el 2007, el valor més baix, per un període de gran creixement econòmic (0,5). Des del 2008 augmenta fins a superar el 25 % el 2013 per la crisi econòmica i financera global, que afecta sobretot la construcció per l'esclat de la bombolla immobiliària; des del 2014, descens lligat a la recuperació progressiva de l'activitat (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Sector més afectat: la construcció (bombolla immobiliària) i les activitats que en depenen; la restricció del crèdit va afectar el conjunt de les activitats productives (0,5). Població: el jovent (atur juvenil dels més alts d'Europa) i els aturats majors de 50 anys, amb grans dificultats per trobar feina (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Recuperació: matisar; la disminució de l'atur indica més activitat, però la temporalitat i el temps parcial dels nous contractes són una feblesa (0,5). Dones: discriminació salarial per feines idèntiques, la maternitat perjudica la promoció, més contractes temporals (sector serveis); calen almenys dos aspectes que neguin l'afirmació (0,5)."
+          }
+        ],
+        "nota": "El gràfic no porta les xifres rotulades: els valors de la taula s'han estimat (≈) mesurant les barres sobre l'eix, amb un marge d'unes dècimes. La pauta dona un 8,2 % per al 2007; la barra mesura ≈ 8,1 %, diferència irrellevant. Errors típics: a la pregunta 1, descriure l'evolució sense relacionar-la amb l'activitat econòmica (és el que es demana); a la pregunta 2, citar sectors o grups sense exposar-ne les causes; a la pregunta 3, respondre «sí» o «no» sense matisos: la pauta demana almenys dos arguments per a l'afirmació sobre les dones i valora que es matisi la de la recuperació."
+      }
+    },
+    {
+      "id": "geografia-2019-J-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Mapa dels parcs nacionals d'Espanya: biodiversitat i espais naturals protegits",
+      "tema": "paisatges",
+      "temes_secundaris": [
+        "medi-ambient",
+        "territori"
+      ],
+      "conceptes": [
+        "biodiversitat",
+        "parc nacional",
+        "parc natural",
+        "espais naturals protegits",
+        "serveis ecosistèmics",
+        "pein",
+        "xarxa natura 2000",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10,
+        11,
+        12
+      ],
+      "text": "",
+      "enunciat": "PART OPTATIVA. Escolliu DOS dels tres exercicis següents (3, 4 i 5). Exercici 4 [3 punts en total]. A finals del 2018, el Govern de l'Estat va aprovar la proposta inicial de declaració del nou Parc Nacional de la Sierra de las Nieves (Màlaga). Amb una superfície de 23.000 ha, es convertirà en el setzè parc de la xarxa de parcs nacionals, com es pot observar en el mapa següent:",
+      "figures": [
+        {
+          "src": "img/geografia/2019-J/e4.png",
+          "peu": "Mapa de localització dels parcs nacionals a Espanya (punts negres) i del parc en tràmit d'aprovació (punt gris), sobre un mapa d'Espanya amb els límits provincials i un requadre de les illes Canàries. Parcs nacionals: Illes Atlàntiques, Pics d'Europa, Ordesa i Mont Perdut, Aigüestortes i Estany de Sant Maurici, Serra de Guadarrama, Monfragüe, Cabañeros, Tablas de Daimiel, Arxipèlag de Cabrera, Doñana, Sierra Nevada, Caldera de Taburiente, Teide, Garajonay i Timanfaya (15). En tràmit d'aprovació: Sierra de las Nieves. Font: elaboració pròpia a partir de dades de l'Institut Geogràfic Nacional (IGN), parquesnacionales.ign.es."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Expliqueu quins són els valors de la biodiversitat que fan que calgui protegir-la.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Els sistemes d'espais naturals protegits, com els parcs nacionals, són suficients per a garantir la protecció de la biodiversitat d'un país? Justifiqueu la resposta.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Raoneu fins a quin punt esteu d'acord o en desacord amb les afirmacions següents:\n\n- Els parcs nacionals són sempre de propietat pública.\n- La figura de protecció «parc natural» de la llei catalana d'espais naturals no és compatible amb cap tipus d'activitat humana.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts (uns 25 minuts). El mapa és només el punt de partida: les tres preguntes són de **raonament** sobre la protecció de la natura. Les dues primeres són obertes (la pauta valora una justificació clara, coherent i fonamentada en conceptes ben articulats) i la tercera demana valorar dues afirmacions (les dues són **falses**).\n\nAprofita el mapa per donar exemples: hi ha **15 parcs nacionals**, amb representació dels grans ecosistemes (alta muntanya: Ordesa, Aigüestortes, Sierra Nevada; zones humides: Doñana, Tablas de Daimiel; bosc mediterrani: Monfragüe, Cabañeros; ecosistemes marins i insulars: Cabrera, Illes Atlàntiques; volcànics: Teide, Timanfaya), però només un és a Catalunya (Aigüestortes) i ocupen una part molt petita del territori."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta proposa dos punts de vista (resposta oberta, 1 punt):\n\n1. **Serveis ecosistèmics** (valor per als humans): la biodiversitat manté els cicles naturals indispensables per a la vida (aigua, carboni, nutrients) i proporciona béns i serveis: d'**abastament** (aliments, fusta, medicaments, recursos genètics), de **regulació** (clima, qualitat de l'aire i de l'aigua, pol·linització, control de l'erosió i de les plagues), de **suport** (formació del sòl) i **culturals** (paisatge, lleure, educació, ciència, identitat).\n2. **Valor intrínsec** (ètic): els éssers vius tenen dret a existir per si mateixos i l'espècie humana té el deure de garantir-ho; l'extinció és irreversible.\n\nUn paràgraf per argument i exemples concrets."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "La **biodiversitat** és la varietat de formes de vida que hi ha a la Terra, des dels gens fins a les espècies i els ecosistemes. Cal protegir-la per dos grans tipus de raons.\n\nD'una banda, pels **serveis ecosistèmics** que proporciona. La biodiversitat manté el funcionament de la biosfera tal com la coneixem, inclosa l'espècie humana: garanteix els **cicles naturals** de l'aigua, del carboni i dels nutrients, la formació dels sòls i la regulació del clima. Ens proporciona **béns** directes, com els aliments, la fusta, les fibres o molts **medicaments** que s'obtenen de plantes i microorganismes, i un patrimoni genètic que permet millorar conreus i races. Ofereix també serveis de **regulació**: els boscos depuren l'aire i absorbeixen CO2, les zones humides filtren l'aigua i amorteixen les inundacions, els insectes pol·linitzen els conreus i la vegetació frena l'erosió. Finalment, té un gran valor **cultural, científic i econòmic**: paisatges, lleure, educació ambiental i turisme de natura, com el que generen els parcs nacionals del mapa. La pèrdua d'espècies desequilibra els ecosistemes i redueix tots aquests serveis.\n\nDe l'altra, hi ha un argument **ètic**: tots els éssers vius tenen un **valor en si mateixos** i dret a existir, independentment de la utilitat que tinguin per als humans, i l'espècie humana, que és la principal causa de l'actual extinció d'espècies, té el **deure** de garantir aquesta existència i de transmetre a les generacions futures un planeta tan divers com l'ha rebut. L'extinció d'una espècie és irreversible."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Resposta raonada: **no són suficients per si sols** (0,5 + 0,5):\n\n1. **Què aporten les xarxes**: els parcs nacionals, el **PEIN** (Pla d'espais d'interès natural de Catalunya) i la **Xarxa Natura 2000** europea estan dissenyats a escala regional i protegeixen grans àrees amb una bona representació dels hàbitats d'interès comunitari i de les espècies amenaçades i en perill d'extinció. Són imprescindibles.\n2. **Què no cobreixen**: a la resta del territori hi ha espais naturals, agroforestals i agrícoles, a escala local o comarcal, amb valors naturals, paisatgístics o socials que també necessiten protecció; la biodiversitat també depèn de la **connectivitat** (corredors ecològics) i de les amenaces que no respecten límits (canvi climàtic, contaminació, espècies invasores, urbanització)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "Els sistemes d'espais naturals protegits són una eina **imprescindible però no suficient** per garantir la protecció de la biodiversitat.\n\nSón imprescindibles perquè les xarxes d'espais protegits, com els **parcs nacionals** del mapa, el **PEIN** a Catalunya o la **Xarxa Natura 2000** a la Unió Europea, estan dissenyades a una escala regional i inclouen grans àrees que acullen una bona representació dels **hàbitats d'interès comunitari** i de les **espècies amenaçades** i en perill d'extinció. A Espanya, els 15 parcs nacionals representen els principals ecosistemes (alta muntanya, bosc mediterrani, zones humides, ecosistemes insulars i marins), i la Xarxa Natura 2000 protegeix prop d'una quarta part del territori.\n\nTanmateix, no n'hi ha prou. L'existència de la xarxa no implica que a la resta del territori no hi hagi **espais naturals, agroforestals i agrícoles**, a escala local o comarcal, que necessiten protecció perquè tenen importants valors naturals, paisatgístics o socials: boscos de ribera, zones humides petites, mosaics agrícoles o espais periurbans com el Parc Agrari del Baix Llobregat. A més, si els espais protegits queden aïllats com a illes enmig d'un territori urbanitzat, les poblacions d'animals i plantes no es poden desplaçar ni intercanviar-se, per la qual cosa cal mantenir **corredors ecològics** que els connectin. Finalment, moltes amenaces no respecten els límits dels parcs: el **canvi climàtic**, la contaminació de l'aire i de l'aigua, els incendis o les **espècies invasores**. Per això, la protecció de la biodiversitat també exigeix una **ordenació de tot el territori** que limiti la urbanització, unes pràctiques agràries i forestals sostenibles i polítiques ambientals generals."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Les dues afirmacions són **falses** (0,5 + 0,5). Per a cadascuna, digues que no hi estàs d'acord i explica per què:\n\n1. **Propietat**: la propietat del sòl dels espais protegits pot ser **privada, pública o mixta**; el que fa la figura de protecció és **regular les activitats i els aprofitaments** que s'hi poden fer, sigui qui sigui el propietari.\n2. **Parc natural**: precisament, aquesta figura de la llei catalana d'espais naturals (Llei 12/1985) busca fer **compatible la protecció dels hàbitats amb les activitats agroforestals tradicionals** (i amb l'ús públic i el turisme); exemples: delta de l'Ebre, Montseny, Cadí-Moixeró, Alt Pirineu."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**Els parcs nacionals són sempre de propietat pública.** No hi estic d'acord. La propietat del sòl en els espais naturals protegits, inclosos els parcs nacionals, pot respondre a situacions molt diverses: hi ha terrenys de **propietat pública** (de l'Estat, de les comunitats autònomes o dels ajuntaments, com molts boscos comunals), de **propietat privada** i situacions mixtes, públiques i privades. Per exemple, en parcs com el de Monfragüe hi ha moltes finques privades. La declaració d'un parc no implica l'expropiació dels terrenys: independentment del tipus de propietat, el que fan les figures de protecció és **regular els tipus d'activitats i d'aprofitaments** que s'hi poden desenvolupar (caça, construcció, explotació forestal, accés de visitants...).\n\n**La figura de protecció «parc natural» de la llei catalana d'espais naturals no és compatible amb cap tipus d'activitat humana.** Tampoc no hi estic d'acord. Precisament, el **parc natural** és la figura de la llei catalana d'espais naturals que permet la **compatibilitat entre la protecció dels hàbitats naturals i el manteniment de les activitats humanes**, sobretot les **agroforestals tradicionals** (agricultura, ramaderia, aprofitament del bosc), i també l'ús públic, el lleure i el turisme ordenats. Per exemple, al Parc Natural del Delta de l'Ebre es continua conreant arròs i al del Montseny o del Cadí-Moixeró hi ha explotacions ramaderes i forestals. Les figures més restrictives, en què les activitats humanes estan molt limitades, són les **reserves naturals** i els parcs nacionals."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Resposta oberta; es valora una justificació clara i coherent. Serveis ecosistèmics: la biodiversitat proporciona béns i serveis que permeten l'existència de la biosfera, inclosa l'espècie humana (cicles naturals, regulació, suport, serveis culturals). Dret per se dels éssers vius a existir i deure humà de garantir-ho (1)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Les xarxes (PEIN, Xarxa Natura 2000) estan dissenyades a escala regional i inclouen grans àrees amb bona representació dels hàbitats d'interès comunitari i de les espècies amenaçades (0,5). Però a la resta del territori hi ha espais naturals, agroforestals i agrícoles, a escala local o comarcal, que necessiten protecció pels seus valors naturals, paisatgístics o socials (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Falsa: la propietat pot ser privada, pública-privada o pública; les figures de protecció regulen les activitats i els aprofitaments (0,5). Falsa: el parc natural permet compatibilitzar la protecció dels hàbitats amb les activitats agroforestals tradicionals (0,5)."
+          }
+        ],
+        "nota": "Actualització: la Sierra de las Nieves, en tràmit el 2019, va ser declarada parc nacional el 2021 i va ser el setzè de la xarxa. Errors típics: a la pregunta 1, limitar-se a definir biodiversitat sense explicar per què té valor; a la pregunta 2, respondre només «no» sense dir què aporten les xarxes i què els falta; a la pregunta 3, confondre el parc natural amb la reserva natural (la figura més restrictiva) o dir que un parc nacional implica sempre expropiar els terrenys."
+      }
+    },
+    {
+      "id": "geografia-2019-J-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Fotografies del paisatge litoral de Palamós (1952 i 2008): urbanització de la Costa Brava",
+      "tema": "ciutat",
+      "temes_secundaris": [
+        "paisatges",
+        "serveis",
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "urbanització extensiva",
+        "paisatge litoral",
+        "turisme de sol i platja",
+        "segona residència",
+        "costa brava",
+        "impacte ambiental",
+        "comentari de fotografia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        13,
+        14,
+        15
+      ],
+      "text": "",
+      "enunciat": "PART OPTATIVA. Escolliu DOS dels tres exercicis següents (3, 4 i 5). Exercici 5 [3 punts en total]. En les darreres dècades, la transformació del paisatge litoral de Catalunya ha estat molt intensa. Només a la Costa Brava, es va passar d'un 2 % d'espai construït el 1956 a gairebé el 15 % el 2007. A continuació podeu observar, comparades l'una amb l'altra, dues fotografies que mostren els canvis que s'han produït al litoral català amb el pas del temps:",
+      "figures": [
+        {
+          "src": "img/geografia/2019-J/e5.png",
+          "peu": "Paisatge litoral de Palamós, Costa Brava (1952 i 2008). Dues fotografies en blanc i negre preses des del mateix punt: el 1952, pins en primer pla, camps de conreu i arbres a la plana litoral, una platja llarga i la badia amb el nucli de Palamós petit al fons; el 2008, la mateixa badia envoltada per un continu de blocs de pisos, apartaments i alguns edificis alts al llarg de tota la platja. Font: Arxiu fotogràfic del Laboratori d'Anàlisi i Gestió del Paisatge (LAGP), Universitat de Girona."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Exposeu les causes principals de la transformació del paisatge litoral que es pot observar en les imatges.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Considereu que aquest tipus de transformació territorial pot tenir algun tipus de repercussió sobre el turisme? Justifiqueu la resposta.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu com a mínim tres impactes ambientals provocats pels processos d'urbanització extensiva del territori.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici optatiu de 3 punts (uns 25 minuts) a partir de la comparació de dues fotografies. Les tres preguntes es puntuen **per aspectes**: 0,25 per cada causa (pregunta 1, fins a 1 punt), 0,25 per cada repercussió justificada fins a 0,5 + 0,5 per una idea clau (pregunta 2) i 0,25 per cada impacte justificat (pregunta 3, fins a 1 punt). Per tant, val la pena donar **quatre aspectes diferents** a cada pregunta, cadascun ben explicat.\n\nComença comparant el que es veu: el **1952**, un paisatge rural amb pinedes, camps i una platja sense construir, i el nucli de Palamós petit al fons; el **2008**, un front litoral totalment edificat amb blocs de pisos i apartaments. La dada de l'enunciat (de ≈ 2 % a ≈ 15 % d'espai construït a la Costa Brava entre el 1956 i el 2007, unes 7 vegades més) resumeix el procés."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Una causa per paràgraf o guió (0,25 cadascuna, fins a 1 punt):\n\n1. **Turisme de sol i platja** des dels anys 60 i la demanda d'allotjaments, serveis i espais d'oci.\n2. **Segones residències** (població de Barcelona, Girona i estrangers).\n3. **Creixement de la població** i atracció del litoral (immigració, migració de jubilats europeus).\n4. **Transformació de sòls agrícoles i forestals en residencials** pel preu elevat del sòl a primera línia (especulació) i una planificació urbanística feble als anys 60-70.\n\nUn bon complement: millora de l'accessibilitat (carreteres, autopista AP-7, aeroport de Girona)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "Les dues fotografies mostren com un paisatge litoral rural, amb pinedes, camps de conreu i una platja sense construir el 1952, s'ha convertit el 2008 en un **front urbà continu** de blocs de pisos i apartaments al voltant de tota la badia de Palamós. Les causes són les mateixes que han transformat la resta del litoral català:\n\n- **El desenvolupament del turisme de sol i platja.** A partir dels anys 60 la Costa Brava es va convertir en una de les grans destinacions del turisme de masses europeu, que demanava **allotjaments** (hotels, càmpings, apartaments), **serveis** (restaurants, comerços) i **espais d'oci** a prop de la platja.\n- **El creixement de les segones residències.** Moltes famílies de l'àrea de Barcelona, de les comarques de Girona i de l'estranger han comprat apartaments i cases d'estiueig a la costa, que estan buits bona part de l'any i ocupen molt de sòl.\n- **El creixement de la població.** El litoral és un espai atractor de població a escala global: entre la dècada dels 50 i l'actualitat, els municipis costaners han guanyat habitants, atrets per la feina en el turisme i la construcció, i també per jubilats europeus que s'hi instal·len.\n- **La transformació dels sòls agrícoles i forestals en residencials.** L'elevat preu de venda del sòl a primera línia de costa va fer que fos molt més rendible urbanitzar-lo que conrear-lo, amb una forta **especulació immobiliària** i un planejament urbanístic poc exigent, sobretot als anys 60 i 70. La millora de les comunicacions (carreteres, autopista, aeroport de Girona) va accelerar el procés."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Sí que hi té repercussions (pauta: 0,25 per repercussió justificada, màx. 0,5 + 0,5 per la idea clau):\n\n1. **Repercussions**: massificació de les localitats litorals a la temporada turística; pèrdua o degradació dels valors paisatgístics originaris; sobrefreqüentació de platges i paisatges litorals; problemes de serveis (aigua, residus, trànsit).\n2. **Idea clau (0,5)**: es produeix una **substitució gradual del turista** interessat en els valors paisatgístics per un turisme motivat pel **preu competitiu** de l'oferta (menys despesa, menys qualitat). Explica la paradoxa: el turisme destrueix el recurs que l'atrau."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "Sí: la transformació intensa del paisatge litoral té repercussions importants sobre el mateix turisme, perquè el **paisatge és un dels principals recursos turístics** de la Costa Brava, i l'urbanització extensiva l'acaba degradant.\n\nEn primer lloc, provoca la **massificació** de les localitats litorals durant la temporada turística: la població es multiplica a l'estiu, les platges queden **sobrefreqüentades**, hi ha embussos de trànsit i problemes d'aparcament, i els serveis (subministrament d'aigua, recollida de residus) queden saturats. En segon lloc, comporta la **pèrdua o degradació dels valors paisatgístics originaris**: les cales, les pinedes i els camps que van fer famosa la Costa Brava, com els que es veuen a la fotografia del 1952, són substituïts per blocs d'apartaments i edificis pantalla que trenquen la imatge del lloc.\n\nCom a resultat d'aquestes transformacions, es produeix una **substitució gradual del turista** interessat en els valors paisatgístics i culturals, que busca tranquil·litat i qualitat i està disposat a gastar més, per un **turisme més motivat pel preu competitiu de l'oferta**, de menys despesa i molt estacional. És una paradoxa: el turisme de masses destrueix el recurs que el va atreure, la destinació perd qualitat i ha de competir amb preus baixos, cosa que encara fa més difícil la seva sostenibilitat."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Almenys **tres** impactes (millor quatre), 0,25 cadascun ben justificat, fins a 1 punt. Per a cada un: **causa** (què fa la urbanització extensiva) → **efecte**. La pauta accepta impactes ambientals i sobre la qualitat de vida:\n\n- **Consum i pèrdua de sòl** agrícola i natural (irreversible), fragmentació d'hàbitats.\n- **Mobilitat** en vehicle privat → congestió, contaminació de l'aire, soroll i emissions de CO2.\n- **Consum de recursos**: aigua (jardins, piscines) i energia.\n- **Generació de residus** i aigües residuals.\n- **Degradació urbanística i paisatgística**, manca d'espais verds; impermeabilització del sòl (risc d'inundacions)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "La **urbanització extensiva** o dispersa, que ocupa grans superfícies amb baixa densitat (urbanitzacions de cases unifamiliars, segones residències, polígons) provoca diversos impactes ambientals:\n\n1. **Pèrdua de sòls agrícoles i naturals.** Cada nova urbanització consumeix sòl fèrtil i espais forestals de manera pràcticament irreversible, i fragmenta els hàbitats naturals, cosa que redueix la biodiversitat i fa desaparèixer el mosaic agroforestal tradicional.\n2. **Problemes de mobilitat i contaminació de l'aire.** Com que la població viu dispersa i lluny dels serveis i de la feina, el transport públic no és rendible i depèn del **vehicle privat**: augmenten els desplaçaments, els embussos, el **soroll**, la contaminació atmosfèrica i les emissions de CO2.\n3. **Consum elevat de recursos.** Les cases amb jardí i piscina consumeixen molta més **aigua** i **energia** per habitant que els habitatges en blocs, i les xarxes d'infraestructures (carreteres, clavegueram, enllumenat) són molt més llargues i cares de mantenir.\n4. **Generació de residus i degradació del paisatge.** Augmenta el volum de residus i d'aigües residuals, sovint en zones sense serveis adequats, i el paisatge es degrada amb construccions sense ordre i amb **manca d'espais verds** públics. A més, la impermeabilització del sòl augmenta l'escolament i el risc d'inundacions, i les urbanitzacions dins del bosc incrementen el risc d'incendis.\n\nTots aquests impactes acaben **degradant la qualitat de vida dels residents**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "0,25 per causa pertinent fins a 1 punt: creixement urbanístic per l'augment de població des dels anys 50 (el litoral atrau població); turisme de sol i platja i la seva demanda d'allotjaments, serveis i espais d'oci; creixement de les segones residències; transformació de sòls agrícoles en residencials per l'elevat preu del sòl a primera línia."
+          },
+          {
+            "apartat": "2",
+            "valor": "0,25 per repercussió justificada (màx. 0,5): massificació de les localitats litorals en temporada turística, pèrdua o degradació dels valors paisatgístics originaris, sobrefreqüentació de platges i paisatges litorals. Substitució gradual del turista interessat en el paisatge per un turisme motivat pel preu competitiu de l'oferta (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "0,25 per impacte justificat fins a 1 punt: aglomeració, problemes de mobilitat, sorolls; degradació urbanística; pèrdua de sòls agrícoles; manca d'espais verds; contaminació de l'aire; generació de residus; degradació de la qualitat de vida dels residents."
+          }
+        ],
+        "nota": "Errors típics: a la pregunta 1, descriure les fotografies sense explicar les causes (la descripció només serveix d'introducció); a la pregunta 2, oblidar la idea clau que puntua 0,5 (el canvi de tipus de turista cap a un turisme de preu baix); a la pregunta 3, donar només tres impactes sense justificar-los o repetir el mateix impacte amb paraules diferents: escriu-ne quatre de diferents per assegurar el punt. La dada de l'enunciat (de ≈ 2 % a ≈ 15 % d'espai construït a la Costa Brava, 1956-2007) és un bon argument per començar."
+      }
+    }
+  ]
+}

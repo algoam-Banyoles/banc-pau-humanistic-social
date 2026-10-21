@@ -1,0 +1,1029 @@
+{
+  "examen": {
+    "id": "geografia-2014-J",
+    "assignatura": "geografia",
+    "materia": "Geografia",
+    "any": 2014,
+    "convocatoria": "juny",
+    "serie": "3 i 4",
+    "pdf_examen": "pdfs/geografia/2014-J-examen.pdf",
+    "pdf_solucio": "pdfs/geografia/2014-J-solucio.pdf",
+    "estructura": "El PDF conté dues sèries (3 i 4), que són exàmens alternatius. A cada sèrie cal escollir UNA de les dues opcions (A o B) i fer-ne els dos exercicis (5 punts cadascun; total 10). Cada exercici parteix d'un document (mapa, taula, fotografia o text) i té quatre qüestions: 1) descriure el document o resumir el text (1 punt), 2) definir dos termes (1 punt), 3) i 4) explicar o relacionar, sovint amb subapartats a, b, c (1,5 punts cadascuna). Sèrie 3: opció A, mapa de la població ocupada en la indústria per comarques (2007) i taula de l'economia europea al món (2012); opció B, mapa de la proporció de població estrangera per comarques (2007) i fotografia aèria del Quadrat d'Or de Barcelona. Sèrie 4: opció A, mapa de les zones turístiques d'Espanya i taula del saldo migratori exterior per comunitats autònomes (2010-2012); opció B, mapa de les divisions administratives de Catalunya i text de Joan Tugores «Europa a mig fer» (2011). Cada exercici és un element amb quatre apartats; l'id porta la sèrie (s3/s4), l'exercici i l'opció (A/B). Les pautes valoren, a més dels continguts, l'ordre, la precisió, la terminologia geogràfica i la claredat."
+  },
+  "problemes": [
+    {
+      "id": "geografia-2014-J-s3-e1-A",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa de la població ocupada en la indústria per comarques (2007): la indústria a Catalunya",
+      "tema": "industria",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "indústria catalana",
+        "deslocalització industrial",
+        "districte industrial",
+        "industrialització",
+        "regió metropolitana de barcelona",
+        "globalització",
+        "mapa de coropletes",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        1,
+        2
+      ],
+      "text": "",
+      "enunciat": "Escolliu UNA de les dues opcions (A o B) i feu-ne els dos exercicis (5 punts cadascun). Sèrie 3. Opció A. Exercici 1 [5 punts en total]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2014-J/s3-e1-A.png",
+          "peu": "Mapa de coropletes de Catalunya per comarques: població ocupada en la indústria (2007), en nombre d'ocupats. Llegenda amb cinc trames: menys de 5.000 (gris molt clar), de 5.000 a 10.000 (gris fosc), de 10.001 a 20.000 (gris ratllat), de 20.001 a 100.000 (trama quadriculada) i més de 100.000 (negre). En negre, el Barcelonès i el Vallès Occidental; en trama quadriculada, el Baix Llobregat, el Vallès Oriental, el Maresme, el Bages i Osona. Escala gràfica de 0 a 40 km. Font: Institut Cartogràfic de Catalunya. Atles nacional de Catalunya [en línia]."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *deslocalització industrial* i *districte industrial*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Relacioneu la informació representada en el mapa amb l'evolució històrica de la indústria a Catalunya, d'acord amb l'esquema següent:\n\na) L'inici de la industrialització.\n\nb) La gran expansió industrial de la segona meitat del segle xx.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Exposeu les característiques actuals de la indústria a Catalunya d'acord amb l'esquema següent:\n\na) Principals sectors i subsectors industrials i localització geogràfica corresponent.\n\nb) Reptes principals de la indústria en un món globalitzat.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L'exercici val 5 punts (uns 40-45 minuts, la meitat de l'examen) i té l'estructura clàssica de Geografia: **1** descriure el mapa (1 punt), **2** definir dos termes (1 punt), **3** i **4** explicar segons l'esquema (1,5 punts cadascuna, repartits entre els guions a, b).\n\n- A la **descripció** no hi posis causes: tipus de mapa, variable (nombre absolut d'ocupats industrials), unitat territorial (comarca), any (2007), font i, sobretot, **quines comarques hi ha a cada interval** (és el que val 0,75).\n- Les **definicions**, una o dues frases precises amb un exemple.\n- A les preguntes 3 i 4, un paràgraf per guió; a la 4a, la pauta dona 0,15 punts per **sector + localització**: com més sectors ben localitzats, millor.\n\nCompte: el mapa mostra **valors absoluts**, no el pes de la indústria sobre l'ocupació total; per això les comarques més poblades són les que en tenen més."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos blocs, com a la pauta:\n\n1. **Identificació** (0,25): mapa temàtic de coropletes, Catalunya per comarques, nombre d'ocupats en la indústria el 2007, cinc intervals de trames de grisos, font: *Atles nacional de Catalunya* (ICC).\n2. **Distribució** (0,75): llegeix el mapa de més a menys, interval per interval, i conclou quin és l'eix industrial del país. Llegint el mapa: més de 100.000 → Barcelonès i Vallès Occidental; 20.001-100.000 → Baix Llobregat, Vallès Oriental, Maresme, Bages i Osona; 10.001-20.000 → Gironès, la Selva, Alt Penedès, Anoia, Tarragonès i Baix Camp; 5.000-10.000 → Alt i Baix Empordà, Garrotxa, Garraf, Baix Penedès, Alt Camp, Montsià i Segrià; la resta, menys de 5.000."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic de coropletes** de Catalunya que representa, per **comarques**, el **nombre de persones ocupades en la indústria** l'any **2007**, agrupat en cinc intervals amb trames de grisos (de menys de 5.000 a més de 100.000 ocupats). La font és l'*Atles nacional de Catalunya* de l'Institut Cartogràfic de Catalunya.\n\nL'ocupació industrial està molt **concentrada a la regió metropolitana de Barcelona**. Només dues comarques superen els 100.000 ocupats: el **Barcelonès** i el **Vallès Occidental**. Al seu voltant, formant una segona corona, el **Baix Llobregat, el Vallès Oriental, el Maresme, el Bages i Osona** tenen entre 20.001 i 100.000 ocupats. En un tercer nivell (10.001-20.000) hi ha comarques amb ciutats mitjanes industrials o pols químics: el **Gironès, la Selva, l'Alt Penedès, l'Anoia, el Tarragonès i el Baix Camp**. Entre 5.000 i 10.000 ocupats hi ha l'Alt i el Baix Empordà, la Garrotxa, el Garraf, el Baix Penedès, l'Alt Camp, el Montsià i el Segrià. La resta del país —el Pirineu, la Catalunya central interior, les Terres de l'Ebre interiors i la major part de Ponent— té menys de 5.000 ocupats per comarca.\n\nEn conjunt, el mapa dibuixa un **eix industrial central** que va de Barcelona cap als Vallès, el Bages i Osona, amb prolongacions cap a Girona i cap al Camp de Tarragona, i un interior i un Pirineu poc industrialitzats."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "Per a cada terme: què és, tret clau i exemple. **Deslocalització**: trasllat de la producció a un altre país amb costos més baixos (salaris, normativa). **Districte industrial**: concentració territorial d'empreses, sovint petites i mitjanes, d'una mateixa activitat, que genera economies d'aglomeració. 0,5 punts cada definició."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Deslocalització industrial**: trasllat total o parcial de les fàbriques o de fases de la producció d'una empresa a un altre país on els **costos de producció són inferiors** (salaris més baixos, menys exigències fiscals o ambientals, proximitat a nous mercats). Per exemple, el tancament de plantes tèxtils o de components d'automòbil a Catalunya per traslladar-les al Marroc, l'Europa de l'Est o l'Àsia.\n\n**Districte industrial**: **concentració d'empreses** —generalment petites i mitjanes— dedicades a una mateixa activitat o a activitats relacionades en un **mateix territori**; la proximitat genera economies d'aglomeració (proveïdors, mà d'obra especialitzada, coneixement compartit) que els donen avantatges competitius. Per exemple, el districte de la pell a Igualada o el del suro al Baix Empordà."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos guions de 0,75 punts:\n\na) **Inici (s. XIX)**: tèxtil cotoner a Barcelona i llaner a Sabadell i Terrassa; màquina de vapor i, després, energia hidràulica i electricitat → colònies industrials al llarg del **Llobregat i el Ter** (per això el Bages i Osona surten industrials al mapa); sectors subsidiaris: maquinària, tints i acabats.\n\nb) **Expansió dels anys 1960**: multinacionals de l'automòbil, material ferroviari i química a la regió metropolitana; pimes proveïdores; agroalimentària (Lleida, Girona, Camp de Tarragona) i petroquímica de Tarragona; també la construcció (el mapa és del 2007, abans de la crisi).\n\nRelaciona sempre amb el mapa: cada etapa explica una taca del mapa."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a) L'inici de la industrialització.** Catalunya va ser la primera regió industrial de l'Estat. La industrialització va començar a la primera meitat del **segle XIX** amb la **indústria tèxtil del cotó a Barcelona** (la fàbrica Bonaplata, 1832, va ser la primera moguda amb màquina de vapor) i de la **llana a Sabadell i Terrassa**. Per la manca de carbó, a partir del darrer quart del segle les fàbriques es van desplaçar al llarg dels **rius Llobregat i Ter** per aprofitar-ne la força hidràulica i, després, l'electricitat: van néixer les **colònies industrials**. Al voltant del tèxtil van aparèixer sectors subsidiaris, com la maquinària i els tints i acabats. Aquest origen explica que avui les comarques de Barcelona, els dos Vallès, el Bages i Osona siguin les més industrials del mapa.\n\n**b) La gran expansió de la segona meitat del segle XX.** A partir dels **anys seixanta**, amb el Pla d'Estabilització, la indústria es va diversificar i va créixer molt: es van instal·lar a la **regió metropolitana de Barcelona** grans empreses —sovint multinacionals— de l'**automòbil** (SEAT a la Zona Franca), el material ferroviari, la **química** i l'electrodomèstic, envoltades de petites i mitjanes empreses proveïdores. Aquest creixement va atreure una gran immigració i va consolidar la corona del Baix Llobregat i els Vallès. Al mateix temps es va desenvolupar la **indústria agroalimentària** a Lleida, Girona, el Camp de Tarragona i Osona, i el gran **complex petroquímic de Tarragona** (Tarragonès i Baix Camp al mapa). La construcció, molt dinàmica fins al 2007, aporta ocupats a gairebé totes les comarques, sobretot de la costa (el mapa és just abans de la crisi)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "a) **Sectors i localització** (0,15 per sector ben localitzat, màx. 0,75): alimentació i begudes (Camp de Tarragona, Penedès —vi i cava—, Osona —càrnic—); tèxtil i confecció (Vallès, Osona, Bages, Baix Llobregat); pell (Igualada); paper i arts gràfiques (Anoia, Alt Penedès, Alt Camp); química (Tarragona) i farmacèutica (àrea metropolitana); automoció (Martorell, Zona Franca); metal·lúrgia (àmbit metropolità, Bages); suro i fusta (Baix Empordà, la Selva, Osona); TIC.\n\nb) **Reptes** (0,25 per repte raonat, màx. 0,75): competència dels països emergents i deslocalització; productivitat, R+D+i i formació; petita dimensió de les empreses; sectors d'alt valor afegit; clústers; exportació; cost de l'energia."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**a) Principals sectors i localització.** La indústria catalana és molt **diversificada** i continua concentrada a la regió metropolitana, amb especialitzacions comarcals:\n\n- **Química i farmacèutica**: química de base i petroquímica al **Camp de Tarragona**; farmacèutica i biotecnologia a l'**àrea metropolitana de Barcelona** (Barcelonès, Vallès).\n- **Automoció i material de transport**: SEAT a **Martorell** i la **Zona Franca**, Nissan a la Zona Franca, carrosseries a la Selva i una xarxa de proveïdors als Vallès i al Baix Llobregat.\n- **Alimentació i begudes**: càrnic a **Osona** i a Ponent, vi i cava a l'**Alt Penedès**, agroalimentària al **Segrià** i al Camp de Tarragona.\n- **Tèxtil i confecció**: en retrocés, als **Vallès**, el Bages, Osona, el Maresme (gènere de punt) i el Baix Llobregat.\n- **Pell**: Igualada (**Anoia**). **Paper i arts gràfiques**: Anoia, Alt Penedès, Alt Camp.\n- **Metal·lúrgia i maquinària**: àmbit metropolità, Bages i Osona. **Suro**: Baix Empordà i la Selva.\n- Sectors emergents de **TIC** i electrònica, concentrats a Barcelona (22@) i als parcs tecnològics del Vallès.\n\n**b) Reptes en un món globalitzat.** La indústria catalana té els reptes propis dels països desenvolupats: **costos de producció elevats** (sobretot salarials) davant la **competència dels països emergents**, que provoca la **deslocalització** de sectors tradicionals com el tèxtil o parts de l'automoció cap a l'Àsia o l'Europa de l'Est. La resposta ha de ser **millorar la productivitat**: invertir més en **R+D+i** per oferir productes nous i de més valor afegit, reforçar la **formació professional** dels treballadors i apostar per sectors estratègics (biotecnologia, farmacèutica, TIC). Un altre repte és la **petita dimensió** de moltes empreses, que les fa flexibles però els dificulta invertir en recerca; la cooperació en **clústers** pot compensar-ho. Finalment, cal **exportar** a nous mercats quan el mercat interior està estancat i reduir la **dependència energètica** amb estalvi i renovables."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa temàtic de coropletes, Catalunya per comarques, nombre d'ocupats a la indústria, cinc trames, 2007, font ICC (0,25). Concentració al Barcelonès i Vallès Occidental (>100.000); Baix Llobregat, Bages, Maresme, Vallès Oriental, Osona (20.001-100.000); Gironès, Selva, Alt Penedès, Anoia, Tarragonès, Baix Camp (10.001-20.000); Empordans, Garrotxa, Garraf, Baix Penedès, Alt Camp, Montsià, Segrià (5.000-10.000); la resta <5.000 (0,75)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Deslocalització: trasllat de les fàbriques d'una empresa a un altre país amb costos de producció inferiors (0,5). Districte industrial: concentració d'empreses en un mateix entorn geogràfic i d'una mateixa activitat, amb economies de concentració i avantatges competitius (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Inici al s. XIX amb el tèxtil (cotó a Barcelona, llana a Sabadell i Terrassa), vapor i després electricitat i força hidràulica → implantació al llarg del Llobregat i el Ter; sectors subsidiaris (maquinària, tints) (0,75). b) Gran expansió dels anys 60: multinacionals de l'automòbil, material ferroviari i química a la regió metropolitana, pimes proveïdores; agroalimentària (Lleida, Girona, Camp de Tarragona, RMB) i petroquímica de Tarragona; construcció (0,75)."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) Sectors amb localització (0,15 cadascun, màx. 0,75): alimentació (Camp de Tarragona, Penedès, Garraf, Osona), tèxtil (Osona, Vallès, Baix Llobregat, Barcelonès, Bages, Anoia), cuir (Igualada), paper (Alt Penedès, Alt Camp, Anoia, Vallès Oriental), química (Tarragona; farmacèutica a l'àrea metropolitana), plàstics, fusta i suro (Baix Empordà, Selva, Osona), metal·lúrgia, automoció (Zona Franca, Martorell), TIC. b) Reptes (0,25 cadascun, màx. 0,75): costos alts i competència d'economies emergents, productivitat, I+D, formació, deslocalització, petita dimensió de l'empresa, sectors d'alt valor afegit, clústers, exportació, cost dels recursos energètics."
+          }
+        ],
+        "nota": "Errors típics: a l'apartat 1, explicar per què Barcelona és industrial (això va a la 3) o no esmentar les comarques de cada interval, que és el que val 0,75. Recorda que el mapa dona **nombre absolut d'ocupats**, no percentatge: no diguis que el Barcelonès és la comarca «més especialitzada» en indústria. A la 4a, citar sectors sense localitzar-los no puntua: la pauta dona 0,15 per parella sector-lloc, i valora que s'esmentin empreses concretes com a forma de precisar."
+      }
+    },
+    {
+      "id": "geografia-2014-J-s3-e2-A",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Taula de l'economia europea al món (2012): la Unió Europea i la globalització",
+      "tema": "mon",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "unió europea",
+        "pib",
+        "mercat únic europeu",
+        "euro",
+        "globalització",
+        "política agrària comuna",
+        "comentari de taula"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**L'economia europea al món (2012)**\n\n| | Unió Europea | EUA | Japó | Xina | Resta del món |\n|---|---|---|---|---|---|\n| Població¹ | 506 | 314 | 128 | 1.351 | 4.747 |\n| PIB² | 17.124 | 16.430 | 6.107 | 7.731 | 24.045 |\n| % PIB mundial | 24,0 | 23,0 | 8,5 | 10,8 | 33,7 |\n\n1. Milions d'habitants (1 de gener de 2013). 2. En milers de milions de dòlars EUA a preus actuals (mètode Atles del Banc Mundial).\n\nFont: Dades extretes del Banc Mundial [en línia] i d'Eurostat [en línia].",
+      "enunciat": "Escolliu UNA de les dues opcions (A o B) i feu-ne els dos exercicis (5 punts cadascun). Sèrie 3. Opció A. Exercici 2 [5 punts en total]. Observeu la taula següent i responeu a les qüestions plantejades.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en la taula.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *producte interior brut (PIB)* i *mercat únic europeu*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Valoreu la posició de l'economia europea al món d'acord amb l'esquema següent:\n\na) Motivacions econòmiques de la creació de la Unió Europea.\n\nb) Avantatges i inconvenients de la moneda única.\n\nc) Polítiques de la Unió Europea per a consolidar el desenvolupament econòmic.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Comenteu els elements que caracteritzen el procés de globalització que s'ha desenvolupat en els darrers anys, d'acord amb l'esquema següent:\n\na) Paper de les noves tecnologies de la comunicació.\n\nb) Elements propis de la globalització econòmica.\n\nc) Característiques de la globalització cultural.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 5 punts sobre una **taula estadística**. 1: descriure (1 punt: 0,25 la descripció formal i 0,75 tres idees amb xifres). 2: dues definicions (0,5 + 0,5). 3 i 4: tres guions cadascuna (0,5 per guió).\n\n- A la descripció, fes **comparacions** (quantes vegades, quin percentatge), no llegeixis la taula cel·la per cel·la. Calcula algun indicador senzill, com el **PIB per habitant**, que la taula no dona però que es dedueix de les dues primeres files.\n- Fixa't en les **unitats**: població en milions d'habitants; PIB en milers de milions de dòlars.\n- Les preguntes 3 i 4 són de teoria (Unió Europea i globalització): un paràgraf per guió."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Descripció formal** (0,25): taula estadística, any 2012 (població a 1-1-2013), tres variables (població, PIB i % del PIB mundial), cinc grans àrees (UE, EUA, Japó, Xina, resta del món), fonts Banc Mundial i Eurostat.\n2. **Tres idees** (0,75): la UE és la **primera economia** del món (24,0 % del PIB) però els EUA, amb molta menys població, hi són molt a prop (23,0 %); les altres potències (Xina, Japó) queden lluny; la **resta del món** té 9,4 vegades la població de la UE però només un 40 % més de PIB."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Càlculs a partir de la taula (PIB per habitant = PIB / població; com que el PIB és en milers de milions i la població en milions, PIB/hab = PIB / població × 1.000 dòlars):\n\n| Àrea | % població mundial | % PIB mundial | PIB per habitant (USD) |\n|---|---|---|---|\n| Unió Europea | 7,2 | 24,0 | ≈ 33.800 |\n| EUA | 4,5 | 23,0 | ≈ 52.300 |\n| Japó | 1,8 | 8,5 | ≈ 47.700 |\n| Xina | 19,2 | 10,8 | ≈ 5.700 |\n| Resta del món | 67,4 | 33,7 | ≈ 5.100 |\n\n- Total mundial: 7.046 milions d'habitants i 71.437 milers de milions de dòlars de PIB.\n- Població de la resta del món / UE = 4.747 / 506 = **9,4 vegades**.\n- PIB de la resta del món / UE = 24.045 / 17.124 = **1,40** (un 40 % més).\n- PIB dels EUA / UE = 16.430 / 17.124 = 0,96 (els EUA tenen un 96 % del PIB europeu amb un 62 % de la seva població)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És una **taula estadística** que compara tres variables —la **població** (en milions d'habitants), el **producte interior brut** (en milers de milions de dòlars, mètode Atles) i el **percentatge del PIB mundial**— de cinc grans àrees econòmiques: la Unió Europea, els Estats Units, el Japó, la Xina i la resta del món, l'any **2012**. Les dades procedeixen del **Banc Mundial** i d'**Eurostat**.\n\nLa taula mostra que la **Unió Europea és la primera potència econòmica del món**: amb 17.124 milers de milions de dòlars genera el **24,0 % del PIB mundial**. Tanmateix, els **EUA** gairebé l'igualen (16.430, el 23,0 %) amb només 314 milions d'habitants davant dels 506 de la UE, de manera que el seu PIB per habitant (≈ 52.300 dòlars) és molt superior a l'europeu (≈ 33.800). Les altres grans economies queden a molta distància: la **Xina** (10,8 %), malgrat tenir 1.351 milions d'habitants, i el **Japó** (8,5 %). Finalment, la **resta del món** concentra 4.747 milions de persones, **9,4 vegades** la població de la UE, però el seu PIB (33,7 % del total) és només un 40 % superior a l'europeu, cosa que posa de manifest la gran desigualtat econòmica mundial."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**PIB**: valor monetari de tots els béns i serveis finals produïts dins d'un territori en un any (no confondre amb el PNB, que compta la producció dels residents). **Mercat únic europeu**: espai sense fronteres interiors amb les quatre llibertats (béns, serveis, capitals i persones), vigent des del 1993 (Acta Única, 1986). 0,5 cada una."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Producte interior brut (PIB)**: valor monetari del conjunt de **béns i serveis finals produïts dins d'un territori** (un estat o una regió) durant un període, normalment **un any**, independentment de la nacionalitat de les empreses que els produeixen. És l'indicador més usat per mesurar la mida d'una economia; dividit per la població dona el PIB per habitant.\n\n**Mercat únic europeu**: espai econòmic format pels estats de la **Unió Europea** en què s'han suprimit les fronteres interiors i hi ha **lliure circulació de béns, serveis, capitals i persones** (les «quatre llibertats»). Previst a l'Acta Única Europea (1986), va entrar en vigor l'1 de gener de 1993."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres guions de 0,5:\n\na) **Motivacions**: CECA (1951), Tractat de Roma i CEE (1957), fins a Maastricht (1992); crear una gran àrea econòmica amb lliure circulació per competir amb els EUA i, després, amb l'Àsia oriental.\n\nb) **Euro**: dos enfocaments vàlids (internacional o intern). Avantatges: fi dels costos de canvi, transparència de preus, estabilitat, moneda de reserva que rivalitza amb el dòlar. Inconvenient: els estats perden la política monetària (no poden devaluar en una crisi; la fixa el BCE).\n\nc) **Polítiques**: PAC, polítiques regionals i de cohesió (FEDER, Fons de Cohesió), xarxes transeuropees de transport i telecomunicacions, R+D."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a) Motivacions econòmiques.** La construcció europea va començar amb la **CECA (1951)**, que posava en comú el carbó i l'acer, i amb el **Tractat de Roma (1957)**, que va crear la **Comunitat Econòmica Europea**, inicialment una unió duanera. L'objectiu era constituir un **gran mercat** amb lliure circulació de mercaderies, capitals i persones que permetés economies d'escala i que pogués **competir amb l'hegemonia dels EUA** i, més endavant, amb el creixement de l'Àsia oriental (Japó, Xina, Corea). Amb el **Tractat de Maastricht (1992)** la CEE es va convertir en la Unió Europea, que aspira a ser no només una unió comercial sinó també econòmica i política. La taula mostra que l'objectiu s'ha assolit en part: la UE és avui la primera economia del món.\n\n**b) Avantatges i inconvenients de l'euro.** Dins de la zona euro, la moneda única ha **eliminat els costos de canvi** i el risc de fluctuació entre monedes, ha fet els preus més transparents i ha facilitat el comerç i les inversions. A escala internacional, l'**euro és la segona moneda de reserva** i rivalitza amb el dòlar en els pagaments internacionals. El principal inconvenient és que els estats han **perdut la política monetària**, que ara fixa el **Banc Central Europeu**: en una crisi no poden devaluar la moneda per afavorir les exportacions i han d'ajustar-se amb retallades de salaris i despesa, com s'ha vist des del 2008. A més, una política monetària única no sempre convé igual a economies tan diferents.\n\n**c) Polítiques per consolidar el desenvolupament.** La UE aplica polítiques comunes com la **Política Agrària Comuna (PAC)**, que sosté les rendes agràries i la producció; la **política regional i de cohesió**, amb els fons estructurals (**FEDER**, Fons Social Europeu) i el Fons de Cohesió per reduir els desequilibris entre regions; les **xarxes transeuropees** de transport, energia i telecomunicacions, que afavoreixen la circulació de mercaderies i d'informació; i els programes de **recerca i innovació**."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres guions de 0,5 (la pauta dona 0,10 per element pertinent a b i c, màx. 0,5):\n\na) **TIC**: informàtica i telemàtica permeten gestionar en temps real empreses amb centres a molts països i difondre la informació (borsa, política) instantàniament.\n\nb) **Globalització econòmica**: grans empreses multinacionals, deslocalització, lliure circulació de capitals, liberalització financera, creixement del comerç (OMC), àrees de lliure comerç (UE, Mercosur, NAFTA), interdependència i pèrdua de sobirania dels estats.\n\nc) **Globalització cultural**: uniformització de gustos (cinema, música), grans grups multimèdia i Internet, esdeveniments esportius globals, marques i fast-food, l'anglès com a llengua franca, internacionalització de la ciència."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**a) Paper de les noves tecnologies de la comunicació.** La informàtica, la telemàtica i Internet són la base de la globalització: permeten la **comunicació instantània** entre la seu d'una empresa i centres productius situats en països molt allunyats, de manera que es pot fragmentar la producció a escala mundial. També fan possible que la informació econòmica, borsària o política i qualsevol esdeveniment es difonguin **arreu del planeta en temps real** i que els mercats financers funcionin les 24 hores.\n\n**b) Elements de la globalització econòmica.** Els trets principals són la formació de **grans empreses multinacionals** que concentren el capital i s'expandeixen arreu del món, sovint amb **deslocalització** de fàbriques cap a països de costos baixos; la **lliure circulació de capitals** i la **liberalització dels mercats financers**; el gran creixement del **comerç internacional**, afavorit per la reducció d'aranzels que impulsa l'**Organització Mundial del Comerç**; la formació d'**àrees d'integració** regional (Unió Europea, Mercosur, tractat de lliure comerç d'Amèrica del Nord); i una **interdependència** tan gran que els estats perden capacitat de decisió sobre la seva economia, com va mostrar la crisi financera del 2008.\n\n**c) Característiques de la globalització cultural.** Es produeix una **uniformització dels gustos**: les mateixes pel·lícules, llibres i grups de música se segueixen a tot el món a través dels grans grups multimèdia i d'Internet; els grans **esdeveniments esportius** tenen audiència mundial; les grans **marques** de moda i d'alimentació (cadenes de menjar ràpid, begudes) s'han estès per tot el planeta; l'**anglès** s'ha convertit en la llengua franca internacional; i la **ciència s'internacionalitza** amb la cooperació entre centres de recerca. Aquest procés comporta el risc de pèrdua de diversitat cultural, però també ha provocat reaccions de defensa de les identitats locals."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Descripció formal: font (Banc Mundial i Eurostat), any 2012, tres variables (població, PIB, % PIB mundial) de cinc zones (0,25). Tres idees (0,75): la UE, primera potència pel PIB (total i %), però els EUA, amb molta menys població, tenen un PIB quasi igual; les altres potències queden a gran distància; la resta del món multiplica per 9 la població europea amb un PIB poc superior."
+          },
+          {
+            "apartat": "2",
+            "valor": "PIB: valor monetari del total de béns i serveis produïts a l'interior d'un estat al llarg d'un any (0,5). Mercat únic europeu: mercat comú a l'interior de la UE que permet la lliure circulació de béns, serveis, capitals i persones (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Des de la CECA (1951) i el Tractat de Roma (1957) fins a Maastricht: crear una gran àrea econòmica amb lliure circulació de capitals, béns i persones per disputar l'hegemonia als EUA i fer front a l'Àsia oriental (0,5). b) Euro: en l'escena internacional, rivalitat amb el dòlar; a la UE, eliminació d'obstacles a les transaccions; inconvenient: el BCE dicta la política monetària i els estats no poden devaluar (0,5). c) PAC, ajuts al desenvolupament regional (FEDER), xarxes de transport i telecomunicacions (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) Les TIC (informàtica, telemàtica) fan possible la globalització: comunicació instantània entre seus i centres productius distants i difusió global i immediata de la informació (0,5). b) 0,10 per element (màx. 0,5): grans empreses que concentren capital, expansió i deslocalització, lliure circulació de capitals, liberalització financera, creixement del comerç (OMC), àrees de lliure comerç (UE, Mercosur, NAFTA), interdependència i pèrdua de capacitat de decisió dels estats. c) 0,10 per element (màx. 0,5): uniformització de gustos culturals (grups multimèdia, Internet), esdeveniments esportius, grans marques de moda i alimentació, l'anglès com a llengua franca, internacionalització de la ciència i de l'R+D."
+          }
+        ],
+        "nota": "Discrepància amb la pauta: la pauta diu que la resta del món multiplica per 9 la població europea (correcte: 4.747/506 = 9,4) mentre que el PIB «és només una cinquena part superior»; amb les dades de la taula, el PIB de la resta del món és un **40 %** superior al de la UE (24.045/17.124 = 1,40). La idea de fons (molta població i poc PIB) és la mateixa. Errors típics: confondre les unitats (el PIB és en **milers de milions** de dòlars); a la pregunta 3b, oblidar l'inconvenient (pèrdua de la política monetària); als apartats 4b i 4c, cada element pertinent suma 0,10 punts, així que val més una llista ben argumentada que un sol aspecte desenvolupat."
+      }
+    },
+    {
+      "id": "geografia-2014-J-s3-e1-B",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa de la proporció de població estrangera per comarques (2007): la immigració a Catalunya",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "immigració estrangera",
+        "saldo migratori",
+        "xenofòbia",
+        "onades migratòries",
+        "creixement vegetatiu",
+        "mapa de coropletes",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Escolliu UNA de les dues opcions (A o B) i feu-ne els dos exercicis (5 punts cadascun). Sèrie 3. Opció B. Exercici 1 [5 punts en total]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2014-J/s3-e1-B.png",
+          "peu": "Mapa de coropletes de Catalunya per comarques: proporció de població estrangera sobre la població total (2007), en %. Llegenda amb quatre intervals: menys del 10 % (gris clar), del 10 al 14,9 % (gris mitjà), del 15 al 24,9 % (gris fosc) i del 25 al 29,9 % (negre). En negre (25-29,9 %) destaquen la Val d'Aran, l'Alt Empordà i les comarques gironines del litoral i prelitoral, el Montsià i una comarca de la Depressió Central; en gris clar (< 10 %), dues taques a la Catalunya central interior. Escala gràfica de 0 a 75 km. Font: Institut d'Estadística de Catalunya [en línia]."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *saldo migratori* i *xenofòbia*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Responeu a les qüestions següents relacionades amb la població estrangera a Catalunya:\n\na) Relacioneu la distribució de la població estrangera que s'observa en el mapa amb les activitats econòmiques en les quals la immigració troba més ocupació.\n\nb) Exposeu les diferències en la distribució territorial entre l'onada immigratòria més recent i la immigració interior espanyola de les dècades dels anys 1950-1970.\n\nc) Quins són els principals països d'origen de la immigració més recent a Catalunya? Relacioneu la resposta amb les condicions socioeconòmiques que tenen aquestes persones en els països d'origen.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Responeu a les qüestions següents relacionades amb les característiques i els efectes de la immigració en la dinàmica demogràfica de la població catalana:\n\na) Expliqueu les característiques principals (procedència, dimensió, contextualització econòmica) de les dues grans onades d'immigrants que van arribar a Catalunya al llarg del segle xx.\n\nb) Valoreu la incidència de la immigració en la dinàmica demogràfica de la població de Catalunya.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 5 punts (uns 40-45 minuts). 1: descriure el mapa (0,5 identificació + 0,5 distribució). 2: dues definicions (0,5 + 0,5). 3: tres subpreguntes de 0,5. 4: dues subpreguntes de 0,75.\n\n- El mapa és **relatiu** (% d'estrangers sobre la població de cada comarca), no absolut: per això hi destaquen comarques poc poblades com la Val d'Aran o la Segarra, i el Barcelonès no és la més alta.\n- A la descripció, agrupa les comarques en **conjunts territorials** (litoral gironí, Pirineu, Ponent, Terres de l'Ebre) en lloc d'enumerar-les totes.\n- A les preguntes 3 i 4, la clau és **comparar** l'onada recent amb les anteriors (procedència, destinació, activitats)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació** (0,5): mapa temàtic de coropletes, Catalunya per comarques, % de població estrangera, 2007, quatre intervals (de menys del 10 % a 25-29,9 %), font Idescat.\n2. **Distribució** (0,5): valors més alts (25-29,9 %) a la **Val d'Aran**, a l'**Alt Empordà** i les comarques del **litoral i prelitoral gironí**, al **Montsià** i a una comarca de la Depressió Central (la Segarra, segons la pauta); valors alts (15-24,9 %) a la costa de Tarragona, a Ponent, a comarques pirinenques com l'Alta Ribagorça; valors baixos (< 10 %) en dues àrees de la **Catalunya central interior**. Segons la pauta, la idea clau és: costa (Girona, Tarragona, Barcelonès), Pirineu (Val d'Aran, Alta Ribagorça, Cerdanya) i Ponent (Segrià, Pla d'Urgell, Urgell, Segarra) alts; interior, baix."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic de coropletes** de Catalunya que representa, per **comarques**, la **proporció de població estrangera** respecte de la població total l'any **2007**. La llegenda té quatre intervals amb tonalitats de gris: menys del 10 %, del 10 al 14,9 %, del 15 al 24,9 % i del 25 al 29,9 %. La font és l'**Institut d'Estadística de Catalunya** (en línia).\n\nLa població estrangera hi és present a tot el territori: cap comarca no té valors gaire baixos, i la majoria supera el 10 %. Els percentatges més elevats (**25-29,9 %**) es troben a les comarques del **litoral i prelitoral gironí**, amb l'Alt Empordà al capdavant, a la **Val d'Aran**, al **Montsià** i a la **Segarra**. També tenen valors alts (15-24,9 %) bona part de la **costa**, sobretot la de Tarragona, comarques del **Pirineu** com l'Alta Ribagorça, i les comarques agrícoles de **Ponent** (Segrià, Pla d'Urgell, Urgell). Les proporcions més baixes (menys del 10 %) corresponen a comarques interiors de la **Catalunya central**, allunyades tant de la costa com de les grans àrees agrícoles i turístiques."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Saldo migratori**: diferència entre immigrants i emigrants d'un territori en un període; positiu o negatiu. **Xenofòbia**: rebuig o odi cap als estrangers o cap a cultures diferents. 0,5 cada una, amb un exemple."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Saldo migratori**: diferència entre el nombre d'**immigrants** que arriben a un territori i el d'**emigrants** que en surten durant un període determinat (saldo migratori = immigrants − emigrants). Pot ser **positiu**, quan arriben més persones de les que se'n van (com a Catalunya entre el 2000 i el 2008), o **negatiu**, en cas contrari. Sumat al creixement natural, dona el creixement real de la població.\n\n**Xenofòbia**: actitud d'**odi, por o rebuig cap a les persones estrangeres** o cap a cultures diferents de la pròpia, que pot manifestar-se en discriminació, discursos d'odi o violència. Sol créixer en moments de crisi econòmica, quan s'associa falsament la immigració a l'atur o a la inseguretat."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres subpreguntes de 0,5:\n\na) **Activitats**: mà d'obra jove en feines poc qualificades que la població local rebutja: **agricultura** (Segrià, Ponent), **construcció** (boom immobiliari fins al 2007, segones residències a la costa i al Pirineu) i **hostaleria** (turisme de costa i de muntanya), a més de les zones dinàmiques (Barcelonès).\n\nb) **Comparació**: la immigració espanyola dels anys 50-70 es va concentrar a les **àrees industrials** (metropolitana de Barcelona, Tarragona); l'actual és **més dispersa** pel territori (costa sud, Pirineu, Ponent) perquè treballa en sectors diversos.\n\nc) **Orígens**: **Marroc**, **Amèrica Llatina** (Equador, Colòmbia, Bolívia...), **Europa de l'Est** (Romania), i també Àsia (Xina, Pakistan); països amb poques oportunitats de feina, salaris baixos i serveis socials deficients."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a) Distribució i activitats econòmiques.** La immigració estrangera recent està formada sobretot per **població jove en edat de treballar**, disposada a fer feines que la població local rebutja per les seves condicions: l'**agricultura**, la **construcció** i l'**hostaleria**. Això explica que les proporcions més altes es donin a les comarques **agrícoles de Ponent** (Segrià, Pla d'Urgell, Urgell, Segarra), on treballen en la fruita i en la indústria càrnia; a les comarques **turístiques** del litoral (Empordà, la Selva, la costa de Tarragona) i de **muntanya** (Val d'Aran, Cerdanya), on fins al 2007 hi va haver un gran creixement de la construcció de segones residències; i al **Barcelonès**, pel dinamisme dels serveis (comerç, servei domèstic, cura de persones).\n\n**b) Diferències amb la immigració dels anys 1950-1970.** La immigració interior d'aquelles dècades, que venia de la resta d'Espanya, es va **concentrar a les àrees industrials**, sobretot a la regió metropolitana de Barcelona (Barcelonès, Baix Llobregat, Vallès) i en menor mesura a Tarragona, atreta per la demanda de mà d'obra a la **indústria**. La immigració estrangera recent, en canvi, s'ha **distribuït per tot el territori**, i té més pes relatiu en comarques que tradicionalment n'havien rebut poca (litoral sud, Pirineu, Ponent), perquè treballa en activitats molt diverses i no tant en la indústria.\n\n**c) Països d'origen.** Els principals orígens són el **Marroc** (el col·lectiu més nombrós), l'**Amèrica Llatina** (Equador, Colòmbia, Bolívia, Perú...) i l'**Europa de l'Est**, sobretot **Romania**; també hi ha comunitats importants de la Xina, el Pakistan i l'Àfrica subsahariana. Són majoritàriament **països en vies de desenvolupament** o amb economies en transició, on hi ha poques oportunitats de feina, salaris molt baixos, desigualtats elevades i **carències en els serveis socials** (sanitat, educació); en alguns casos, també inestabilitat política. La diferència de nivell de vida amb Catalunya és el principal factor d'expulsió."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues subpreguntes de 0,75:\n\na) **Dues onades del s. XX**: anys **1920** (≈ mig milió de persones d'Aragó, València i Múrcia; obres del metro i de l'Exposició Universal de 1929, indústria) i anys **1950-1970** (≈ 1,5 milions d'Andalusia, Extremadura, Castella; desarrollisme industrial).\n\nb) **Incidència demogràfica**: natalitat baixa des de principis del s. XX i envelliment → creixement natural feble; el creixement de la població s'explica sobretot per la immigració, que rejoveneix l'estructura d'edats i aporta naixements (fecunditat més alta)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**a) Les dues grans onades del segle XX.** La **primera onada** es va produir als **anys vint**: van arribar aproximadament **mig milió de persones**, procedents sobretot d'**Aragó, el País Valencià i Múrcia**, atretes per la demanda de mà d'obra de la indústria i de les grans obres públiques de Barcelona —el metro i les instal·lacions de l'**Exposició Universal de 1929**—. La **segona onada**, molt més gran, va tenir lloc als **anys cinquanta i seixanta** (fins a la crisi del 1973): van arribar **prop d'un milió i mig de persones**, principalment d'**Andalusia, Extremadura** i Castella, que fugien de la pobresa del camp i eren atretes per l'expansió industrial del desarrollisme. Es van instal·lar als barris perifèrics i a les ciutats dormitori de l'àrea metropolitana, sovint en condicions d'habitatge molt precàries (barraques, polígons).\n\n**b) Incidència en la dinàmica demogràfica.** Catalunya ha tingut des de principis del segle XX una **natalitat baixa**, una de les més baixes d'Europa, que, juntament amb l'**envelliment** de la població, ha donat un **creixement vegetatiu feble**. Per tant, l'augment de la població catalana al llarg dels segles XX i XXI —de 2 a més de 7 milions d'habitants— s'ha produït fonamentalment gràcies al **creixement migratori**. Les migracions han aportat **població jove**, que ha **rejovenit l'estructura per edats**, i han fet augmentar la natalitat, tant per l'arribada de persones en edat de tenir fills com pel seu comportament més natalista. Sense la immigració, Catalunya tindria avui menys població i més envellida."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa temàtic de la proporció de població estrangera per comarques, 2007; llegenda de quatre grisos de <10 % a >25 %; font Idescat (0,5). Proporcions més altes a la costa (Girona i Tarragona) i al Barcelonès, al Pirineu (Val d'Aran, Alta Ribagorça, Cerdanya) i a Ponent (Segrià, Pla d'Urgell, Urgell, Segarra); més baixes a les comarques interiors (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Saldo migratori: diferència entre l'emigració i la immigració en un lloc determinat; pot ser positiu o negatiu (0,5). Xenofòbia: odi o rebuig a persones estrangeres o a cultures diferents (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Mà d'obra jove en feines rebutjades per la població local (agricultura, construcció, hostaleria) → concentració en comarques agrícoles (Segrià i voltants), turístiques de costa i de muntanya (segones residències) i dinàmiques (0,5). b) La immigració espanyola dels 50-70 es va concentrar a les àrees metropolitanes de Barcelona i Tarragona per la indústria; la recent es distribueix més pel territori (costa sud, Pirineus, Ponent) perquè fa feines diverses (0,5). c) Amèrica Llatina, el Marroc i l'Europa de l'Est: països amb poques oportunitats de treball i carències en els serveis socials (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) Primera onada als anys 20: ≈ mig milió de persones d'Aragó, València i Múrcia, per la demanda de mà d'obra (Exposició Universal de 1929). Segona onada als anys 50 i 60: ≈ un milió i mig d'Andalusia i Extremadura atretes per la indústria (0,75). b) Feble creixement vegetatiu per la baixa natalitat des de principis del s. XX i l'envelliment; el creixement de la població dels s. XX i XXI es deu a la immigració, que aporta població jove i més fecunditat (0,75)."
+          }
+        ],
+        "nota": "Errors típics: a la descripció, llegir el mapa com si fossin valors absoluts (el Barcelonès té molts estrangers en nombre, però la seva proporció és inferior a la de l'Empordà o la Val d'Aran). No confondre l'onada recent (estrangera, anys 2000) amb les del segle XX (interior, d'altres regions d'Espanya). Les xifres de les onades són aproximades, però convé donar-les. A la 4b, cal **valorar** (dir que la immigració ha estat decisiva), no només descriure. El mapa no porta el nom de les comarques i el traçat és poc detallat: la identificació de cada comarca és aproximada; la pauta s'acontenta amb els grans conjunts (costa, Pirineu, Ponent, interior)."
+      }
+    },
+    {
+      "id": "geografia-2014-J-s3-e2-B",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Fotografia aèria del Quadrat d'Or de Barcelona: plànol ortogonal i funció residencial",
+      "tema": "ciutat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "eixample",
+        "plànol ortogonal",
+        "morfologia urbana",
+        "sòl urbanitzable",
+        "cbd",
+        "segregació social de l'espai",
+        "gentrificació",
+        "comentari de fotografia"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Escolliu UNA de les dues opcions (A o B) i feu-ne els dos exercicis (5 punts cadascun). Sèrie 3. Opció B. Exercici 2 [5 punts en total]. Observeu la imatge següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2014-J/s3-e2-B.png",
+          "peu": "Fotografia aèria obliqua titulada «Barcelona: el Quadrat d'Or». Mostra illes de cases de planta quadrada amb els angles tallats en xamfrà, separades per carrers rectilinis paral·lels i perpendiculars amb arbrat; edificis de 5 a 8 plantes alineats al carrer i patis interiors d'illa en gran part edificats. Font: Google maps. Imatge obliqua d'un sector del nucli urbà de Barcelona, 2014."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu els elements principals que apareixen en la imatge.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *sòl urbanitzable* i *centre de negocis* o *central business district (CBD)*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Responeu a les qüestions següents relacionades amb la morfologia urbana de les ciutats:\n\na) Com s'anomena el tipus de plànol urbà visible en la fotografia?\n\nb) Expliqueu en quin moment històric es va desenvolupar aquest tipus de trama urbana, amb quin nom es coneixen aquests barris i amb quina finalitat es van crear.\n\nc) Valoreu els avantatges i els inconvenients d'aquest tipus de teixit urbà.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Expliqueu la funció residencial de les ciutats d'acord amb l'esquema següent:\n\na) Zones de la ciutat que fan aquesta funció i evolució que han tingut.\n\nb) Problema de la segregació social de l'espai a les ciutats.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari d'una **fotografia aèria** (5 punts). 1: descripció (0,5 identificació + 0,5 elements). 2: dues definicions. 3: tres subpreguntes de 0,5 sobre el plànol. 4: funció residencial (0,25 + 0,25 + 0,5 per les zones i 0,5 per la segregació).\n\n- A la descripció, identifica el document (imatge obliqua, Google Maps, 2014, el Quadrat d'Or de l'Eixample) i descriu **el que es veu**: trama en quadrícula, illes amb xamfrans, carrers amples, edificis alineats, patis interiors. Deixa la història del Pla Cerdà per a la pregunta 3b.\n- A la 4, segueix el model de ciutat: centre històric → eixamples → perifèries (suburbis i àrees residencials de baixa densitat)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació** (0,5): fotografia aèria obliqua d'un sector de l'**Eixample de Barcelona** (el Quadrat d'Or, entre la plaça de Catalunya, el passeig de Gràcia i la Diagonal), Google Maps, 2014; mostra la morfologia urbana.\n2. **Elements** (0,5): trama en **quadrícula**: carrers rectes paral·lels i perpendiculars, **illes quadrades amb xamfrans**, edificis plurifamiliars alineats al carrer d'altura semblant, interiors d'illa en gran part edificats, arbrat als carrers."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És una **fotografia aèria obliqua** extreta de **Google Maps** (2014) que mostra un sector del centre de Barcelona, el **Quadrat d'Or**, part de l'**Eixample** situada entre la plaça de Catalunya, el passeig de Gràcia i la Diagonal, on es concentren molts edificis modernistes. La imatge permet observar la **morfologia urbana** d'aquest sector de la ciutat.\n\nEl teixit urbà presenta una disposició en **quadrícula**: els **carrers són rectilinis**, amples i arbrats, i es tallen en angle recte, formant una xarxa ordenada d'**illes de cases quadrades amb els angles tallats en xamfrà**, que eixamplen les cruïlles. Les illes estan ocupades per **edificis plurifamiliars** entre mitgeres, alineats al carrer i d'altura bastant homogènia (de cinc a vuit plantes), amb patis interiors d'illa que en bona part han estat edificats. També s'hi distingeixen alguns edificis singulars de cúpules i torres, típics de l'arquitectura modernista."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Sòl urbanitzable**: categoria de la classificació urbanística del sòl: terrenys que el planejament preveu urbanitzar (diferent del sòl urbà i del no urbanitzable). **CBD**: àrea central de negocis, amb oficines, seus d'empreses, bancs, comerç especialitzat; molt accessible i amb el preu del sòl més alt. 0,5 cada una."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Sòl urbanitzable**: terreny que el **planejament urbanístic** (el pla d'ordenació municipal) classifica com a apte per ser **urbanitzat en un futur pròxim** i, per tant, per convertir-se en sòl urbà un cop s'hi facin els carrers, les xarxes de serveis i les edificacions. Es diferencia del sòl urbà (ja urbanitzat) i del sòl no urbanitzable (protegit o agrícola).\n\n**Centre de negocis o CBD (*central business district*)**: àrea de la ciutat on es concentren les **activitats de direcció, administració, finances i serveis**: seus d'empreses, bancs, oficines, comerç especialitzat i hotels. Té la **màxima accessibilitat** i els preus del sòl més alts, poca població resident i edificis en altura. Pot estar al centre tradicional o en zones de nova creació; a Barcelona, el passeig de Gràcia i la Diagonal o el districte 22@."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres subpreguntes de 0,5:\n\na) Plànol **ortogonal** (reticular, en quadrícula o hipodàmic).\n\nb) Finals del s. XIX i principis del s. XX, després de l'enderroc de les **muralles**; barris anomenats **eixamples** (a Barcelona, Pla Cerdà, 1859); finalitat: ampliar la ciutat i allotjar la **burgesia i les classes mitjanes** en condicions higièniques.\n\nc) **Avantatges**: racional, ordenat, carrers amples i airejats, fàcil orientació i circulació. **Inconvenients**: monotonia, trajectes en diagonal llargs (cal obrir vies diagonals), densificació que ha trencat el projecte inicial."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a)** És un **plànol ortogonal**, també anomenat **reticular**, **en quadrícula** o hipodàmic, perquè els carrers es tallen en angle recte i formen illes regulars.\n\n**b)** Aquesta trama es va desenvolupar a **finals del segle XIX i principis del segle XX**, quan moltes ciutats van **enderrocar les muralles** (a Barcelona, el 1854) i van planificar el seu creixement al voltant del nucli antic. Aquests barris s'anomenen **eixamples**; el de Barcelona respon al **Pla Cerdà** (1859). Es van crear per **ampliar la ciutat** de manera ordenada i higiènica davant l'amuntegament del nucli antic i, sobretot, per acollir la residència de la **burgesia i les classes mitjanes**; amb el temps s'hi han instal·lat també molts serveis i oficines.\n\n**c)** Entre els **avantatges** hi ha que el traçat és **racional, ordenat i fàcil d'entendre**, amb carrers amples, rectes i ben ventilats, que faciliten l'orientació, la circulació i la dotació de serveis; els xamfrans milloren la visibilitat a les cruïlles. Entre els **inconvenients**, la trama pot ser **monòtona**, la circulació és lenta en els trajectes transversals, perquè cal fer molts girs —per això s'obren **vies diagonals** com la Diagonal o la Meridiana—, i la forta **densificació** (illes tancades, patis edificats, més altura) ha reduït els espais verds previstos inicialment."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "a) **Zones** (0,25 + 0,25 + 0,5): **centre històric** (població amb pocs recursos i immigrants; degradació i gentrificació); **eixamples** (classes mitjanes; terciarització: oficines i serveis); **perifèries**: suburbis o ciutats dormitori (classes baixes, mal planificats, prop de la indústria) i àrees suburbanes de baixa densitat (ciutat jardí, urbanitzacions de classes mitjanes i altes).\n\nb) **Segregació** (0,5): la funció residencial ocupa la major part del sòl urbà i es reparteix segons la **renda** (i la nacionalitat); explicar la **gentrificació** com a exemple."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**a) Zones residencials i evolució.** La funció residencial és la que ocupa més superfície de la ciutat i es distribueix en tres grans zones:\n\n- **El centre o nucli històric**: era l'espai residencial de tota la població fins al segle XIX; amb la sortida de les classes benestants cap als eixamples es va degradar i avui hi viuen sovint persones amb **pocs recursos, gent gran i immigrants**. Molts centres han estat objecte de rehabilitació, que ha provocat processos de **gentrificació**.\n- **Els eixamples**: construïts al voltant del centre als segles XIX i XX com a barris de la **burgesia i les classes mitjanes**; tendeixen a la **terciarització**, perquè molts habitatges es transformen en oficines, comerços i hotels.\n- **Les perifèries**, amb dos tipus de zones: els **suburbis o ciutats dormitori**, construïts als anys 1960-1970 per allotjar la immigració obrera, mal planificats, densos i amb manca de serveis, prop de les zones industrials; i les **àrees suburbanes** de **baixa densitat** (ciutats jardí, urbanitzacions d'habitatges unifamiliars) de classes mitjanes i altes, amb bons serveis i comunicacions, que han crescut molt des dels anys vuitanta amb la dispersió urbana.\n\n**b) La segregació social de l'espai.** La residència és la funció urbana que expressa millor les **desigualtats socials**: el preu del sòl i de l'habitatge fa que cada grup social s'agrupi en barris diferents segons el seu **nivell de renda**, i també segons altres variables com l'origen o la nacionalitat. Així, hi ha barris benestants amb bons serveis i barris degradats on es concentra la pobresa i que poden convertir-se en guetos. Un exemple actual és la **gentrificació**: quan un barri antic degradat es rehabilita amb inversió pública, atreu població benestant, els preus de l'habitatge pugen i els residents tradicionals, amb menys recursos, n'acaben sent **expulsats**. Les polítiques d'habitatge social i de barris intenten reduir aquesta segregació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Imatge aèria d'un sector del plànol de l'Eixample de Barcelona, el Quadrat d'Or; permet veure la morfologia urbana; font Google Maps (0,5). Entramat en quadrícula: carrers en línies paral·leles i perpendiculars, xarxa ordenada d'illes quadrades amb xamfrans (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Sòl urbanitzable: terrenys que poden ser urbanitzats en un futur pròxim i convertir-se en sòl urbà (0,5). CBD: zona administrativa, de negocis i serveis de la ciutat, a la part més cèntrica, en zones modernes de recent creació o als barris antics, ben comunicada (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Plànol ortogonal, reticular o en quadrícula (0,5). b) Finals del s. XIX i principis del XX, en els projectes d'ampliació de les ciutats un cop enderrocades les muralles, al voltant dels nuclis històrics; s'anomenen eixamples; funció: espais residencials per a les classes mitjanes (0,5). c) Avantatges: traçat racional, entenedor i ordenat, carrers amples i airejats, circulació fàcil. Inconvenients: circulació lenta en trajectes transversals, que obliga a obrir vies diagonals (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) Barris antics: població amb pocs recursos i immigrants, degradació i gentrificació (0,25). Eixamples dels s. XIX-XX: classes mitjanes, tendència a convertir-se en zones de serveis i oficines (0,25). Perifèries: suburbis o ciutats dormitori de classes baixes, mal planificats, prop de la indústria, i àrees suburbanes de ciutat jardí de baixa densitat, de classe mitjana i alta (0,5). b) La funció residencial ocupa la major part del sòl urbà i comporta una segregació social segons la renda i altres variables (nacionalitat); gentrificació: rehabilitació de barris degradats que atreu població benestant, apuja els preus i expulsa els residents (0,5)."
+          }
+        ],
+        "nota": "Errors típics: a l'apartat 1, fer la història del Pla Cerdà (això és la 3b) i no descriure els elements visibles (quadrícula, xamfrans, carrers, edificis). A la 3c cal donar **avantatges i inconvenients**; si en falta un, no hi ha la puntuació completa. A la 4a, les tres zones (centre, eixample, perifèria) valen per separat: no te'n deixis cap i distingeix els dos tipus de perifèria."
+      }
+    },
+    {
+      "id": "geografia-2014-J-s4-e1-A",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa de les zones turístiques d'Espanya: localització i problemes del turisme",
+      "tema": "serveis",
+      "temes_secundaris": [
+        "medi-ambient"
+      ],
+      "conceptes": [
+        "turisme",
+        "zones turístiques",
+        "bandera blava",
+        "estacionalitat",
+        "turisme de sol i platja",
+        "diversificació turística",
+        "impacte ambiental del turisme",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5,
+        6
+      ],
+      "text": "",
+      "enunciat": "Escolliu UNA de les dues opcions (A o B) i feu-ne els dos exercicis (5 punts cadascun). Sèrie 4. Opció A. Exercici 1 [5 punts en total]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2014-J/s4-e1-A.png",
+          "peu": "Mapa temàtic d'Espanya (península, Balears i, en requadre, Canàries) de les zones turístiques segons l'índex turístic. Llegenda: afluència alta (negre), afluència mitjana (gris fosc), afluència baixa (gris mitjà), àrees poc turístiques (gris clar); punts blancs: centres turístics de costa; punts negres: ciutats turístiques. Afluència alta a la Costa Brava (Platja d'Aro, Lloret de Mar), la Costa Daurada (Salou), Benidorm, la Costa del Sol (Marbella, Torremolinos, Màlaga), Mallorca (Palma), Tenerife (Puerto de la Cruz) i Gran Canària (Las Palmas); afluència mitjana a Madrid, les Ries Altes i Baixes i punts de la costa cantàbrica (Gijón, Santander, Sant Sebastià). Escala gràfica i fletxa del nord. Font: Adaptació feta a partir del mapa de l'índex turístic de l'Instituto Geográfico Nacional (2000-2005)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *bandera blava* i *estacionalitat*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Expliqueu les causes de la localització de les zones turístiques que apareixen en el mapa.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Expliqueu els aspectes negatius que encara caracteritzen el turisme a Espanya, i plantegeu possibles solucions.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 5 punts sobre un **mapa qualitatiu** (no hi ha xifres, només categories d'afluència). 1: descripció (0,5 + 0,5). 2: dues definicions. 3: causes de la localització per zones (0,5 Mediterrània i Balears, 0,5 costa atlàntica i cantàbrica, 0,25 Canàries, 0,25 interior). 4: problemes i solucions (cada problema 0,25 i la seva solució 0,5).\n\n- A la descripció, ordena per **conjunts territorials** i cita els topònims del mapa (Lloret, Salou, Benidorm, Marbella...).\n- A la 3, organitza la resposta **per zones** i dona les causes de cada una (clima, platges, patrimoni, infraestructures).\n- A la 4, la pregunta té dues parts: **problemes i solucions**; cada problema ha d'anar acompanyat de la seva solució."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació** (0,5): mapa temàtic d'Espanya (península, Balears, Canàries), zones turístiques segons l'índex turístic, quatre categories d'afluència + dos símbols (centres turístics de costa i ciutats turístiques), font IGN (2000-2005).\n2. **Distribució** (0,5): afluència alta al **litoral mediterrani** (Costa Brava, Costa Daurada, Benidorm, Costa del Sol), **Balears** i **Canàries**; mitjana a les **Ries gallegues**, punts de la **costa cantàbrica** i **Madrid**; l'interior, poc turístic excepte ciutats (Madrid, Salamanca, Toledo, Còrdova, Saragossa...)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa temàtic** que representa la **localització de les zones turístiques** a Espanya —l'Espanya peninsular, les Illes Balears i, en un requadre, les Illes Canàries— a partir de l'**índex turístic**. La llegenda distingeix quatre categories segons l'afluència (alta, mitjana, baixa i àrees poc turístiques) i dos símbols puntuals: els **centres turístics de costa** i les **ciutats turístiques**. La font és una adaptació del mapa de l'índex turístic de l'**Instituto Geográfico Nacional** (2000-2005).\n\nEl mapa mostra que el turisme es concentra sobretot al **litoral**. Les zones d'**afluència alta** es troben a la **costa mediterrània** —la Costa Brava (Platja d'Aro, Lloret de Mar), la Costa Daurada (Salou), la Costa Blanca (Benidorm) i la Costa del Sol (Màlaga, Torremolinos, Marbella)—, a **Mallorca** i a les **Illes Canàries** (Puerto de la Cruz, Las Palmas). Tota la franja mediterrània i les Balears tenen, com a mínim, afluència mitjana o baixa. A la **costa atlàntica i cantàbrica** hi ha zones d'afluència mitjana a les **Ries Altes i Baixes** gallegues i al voltant de Gijón, Santander i Sant Sebastià. L'**interior** és, en general, **poc turístic**, amb l'excepció de la **Comunitat de Madrid** (afluència mitjana), d'Andalusia (afluència baixa) i d'una sèrie de **ciutats turístiques** aïllades (Salamanca, Toledo, Còrdova, Saragossa, Burgos...)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Bandera blava**: distintiu (Fundació per a l'Educació Ambiental, FEE) que s'atorga cada any a platges i ports que compleixen criteris de qualitat de l'aigua, gestió ambiental, seguretat i serveis. **Estacionalitat**: concentració de l'activitat turística en una època de l'any (estiu al sol i platja, hivern a les estacions d'esquí). 0,5 cada una."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Bandera blava**: distintiu que atorga anualment la Fundació per a l'Educació Ambiental (FEE) a les **platges i ports esportius** que compleixen una sèrie de **criteris de qualitat ambiental** (qualitat de l'aigua de bany, gestió dels residus, informació i educació ambiental) i de **seguretat i serveis** (socorrisme, accessibilitat, neteja). Espanya és un dels països amb més banderes blaves del món.\n\n**Estacionalitat**: **fluctuació de l'activitat turística al llarg de l'any**, que es concentra en unes èpoques determinades segons les característiques de cada destinació: a l'**estiu** en el turisme de sol i platja i a l'**hivern** a les estacions d'esquí. Comporta ocupació temporal, infraestructures infrautilitzades fora de temporada i massificació en temporada alta."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Per zones, com a la pauta:\n\n1. **Costa mediterrània i Balears** (0,5): clima mediterrani (estius secs i assolellats, hiverns suaus), platges, bellesa del paisatge, esports nàutics, ciutats amb patrimoni (Barcelona, Tarragona, Palma; Granada i Sevilla a prop), proximitat als mercats europeus, aeroports.\n2. **Costa atlàntica i cantàbrica** (0,5): paisatge (ries), clima suau a l'estiu, tradició balneària (Sant Sebastià, Santander), muntanya propera (serralada Cantàbrica, Picos de Europa).\n3. **Canàries** (0,25): clima benigne tot l'any (turisme d'hivern), platges, parcs naturals (el Teide).\n4. **Interior** (0,25): turisme cultural i religiós a ciutats (Madrid, Salamanca, Segòvia, Àvila, Toledo, Santiago).\n\nPlus: gran oferta d'infraestructures i allotjament."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "La localització de les zones turístiques respon a la combinació de **recursos naturals i culturals**, d'**infraestructures** i de **proximitat als mercats** emissors.\n\n**Costa mediterrània i Illes Balears.** És la gran zona turística de l'Estat gràcies al **clima mediterrani** —estius càlids, secs i assolellats i hiverns suaus—, a les **platges** i a la bellesa del paisatge, que han afavorit el **turisme de sol i platja** i la pràctica d'esports aquàtics. A més, s'hi localitzen ciutats amb un **patrimoni cultural** molt important, com Barcelona, Tarragona o Palma, i properes a la costa, Granada i Sevilla. La proximitat als països emissors europeus, els **aeroports** i una oferta hotelera desenvolupada des dels anys seixanta n'han consolidat l'èxit.\n\n**Costa atlàntica i cantàbrica.** Hi atreuen la **bellesa del paisatge** (ries gallegues, penya-segats), un estiu de temperatures suaus, la **tradició balneària** (Sant Sebastià, Santander) i la proximitat de la **serralada Cantàbrica**, que ofereix moltes activitats de muntanya. El clima més plujós explica que l'afluència sigui menor que a la Mediterrània.\n\n**Illes Canàries.** Tenen un **clima subtropical benigne tot l'any**, que permet un turisme també a l'**hivern**, platges de gran bellesa i nombrosos **parcs naturals** (el Teide, Timanfaya).\n\n**Interior.** Les zones turístiques són **ciutats** que ofereixen un **turisme cultural** i, en alguns casos, **religiós**: Madrid —capital, amb grans museus i turisme de negocis—, Salamanca, Segòvia, Àvila, Toledo, Saragossa o Còrdova.\n\nEn totes aquestes zones hi ha, a més, un nombre molt elevat d'**infraestructures turístiques** i un ventall molt ampli de tipus d'allotjament, que reforça la seva capacitat d'atracció."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos problemes amb la seva solució (l'ordre és lliure):\n\n1. **Estacionalitat** (0,25): concentració a l'estiu → ocupació temporal i ingressos irregulars. **Solució** (0,5): **diversificar l'oferta**: turisme rural, cultural, ecoturisme, de muntanya, de salut, de congressos.\n2. **Impactes ambientals** (0,25): contaminació acústica i de l'aigua, residus, urbanització sense control de la costa, consum d'aigua. **Solució** (0,5): normatives municipals i de planejament (exemples: Lloret de Mar, Salou), qualitat (bandera blava), turisme sostenible, protecció del litoral.\n\nTambé es poden afegir: dependència del sol i platja barat, massificació, precarietat laboral."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "Malgrat la seva importància econòmica, el turisme espanyol encara presenta diversos **problemes**:\n\n**1. L'estacionalitat.** L'activitat turística es concentra sobretot als **mesos d'estiu**, cosa que provoca una gran fluctuació de l'**ocupació** —molts contractes temporals i precaris— en l'hoteleria i la restauració, així com dels ingressos, i deixa infraestructures infrautilitzades bona part de l'any. **Solució:** ja s'estan desenvolupant estratègies de **diversificació de l'oferta**, que potencien formes de turisme alternatives al sol i platja: el **turisme rural**, el **cultural**, l'**ecoturisme**, el turisme d'esports de muntanya, el de salut i el de congressos i negocis, que permeten **allargar la temporada** més enllà de l'estiu.\n\n**2. Els impactes sobre el medi i la població local.** La massificació genera **contaminació acústica i de l'aigua**, una gran **acumulació de residus**, un consum d'aigua molt elevat en zones amb escassetat i, sobretot, un fort **impacte paisatgístic** per la **urbanització sense control** del litoral (edificis pantalla, urbanitzacions, ports esportius). A més, els nivells de freqüentació tan alts alteren la vida quotidiana dels residents. **Solució:** cal aplicar **normatives** i plans urbanístics que limitin el creixement, protegeixin la costa i redueixin els impactes —com han començat a fer municipis com **Lloret de Mar** o **Salou**, amb ordenances de convivència i plans de requalificació—, apostar per la **qualitat** en lloc de la quantitat (banderes blaves, rehabilitació d'hotels) i promoure un **turisme sostenible**.\n\nFinalment, la dependència d'un turisme de baix cost i de pocs mercats emissors fa el sector vulnerable a les crisis; la diversificació de mercats i productes també hi és una resposta."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa temàtic de la localització de les zones turístiques a Espanya (península, Balears i Canàries); llegenda amb quatre intervals de densitat turística i un símbol per a les localitats costaneres; font: adaptació del mapa de l'índex turístic de l'IGN (2000-2005) (0,5). Principals zones a la costa mediterrània, sectors de la costa atlàntica, ries gallegues, Balears i Canàries; la resta poc turística excepte capitals interiors (Madrid, Salamanca, Còrdova, Saragossa...) (0,5)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Bandera blava: distintiu atorgat a les platges i ports que compleixen condicions de qualitat ambiental i de les seves instal·lacions (0,5). Estacionalitat: fluctuació de l'activitat turística al llarg de l'any, en funció de les característiques de cada destinació (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "Costa mediterrània i Balears: clima, bellesa del paisatge, esports aquàtics, ciutats amb patrimoni (Barcelona, Tarragona, Palma; Granada i Sevilla) (0,5). Costa atlàntica: paisatge, tradició balneària, proximitat de la serralada Cantàbrica (activitats de muntanya) (0,5). Canàries: clima benigne tot l'any, platges, parcs naturals (0,25). Interior: ciutats (Madrid, Salamanca, Segòvia, Àvila, Saragossa) amb turisme cultural i religiós (0,25). Es valora esmentar l'elevat nombre d'infraestructures turístiques i la varietat d'allotjament."
+          },
+          {
+            "apartat": "4",
+            "valor": "Estacionalitat: concentració a l'estiu, fluctuació de l'ocupació i dels ingressos (0,25); solució: diversificar l'oferta (turisme rural, cultural, ecoturisme, de muntanya i de salut) per allargar la temporada (0,5). Impactes sobre el medi: contaminació acústica i de l'aigua, residus, urbanització sense control de la costa (0,25); solució: normatives municipals per reduir impactes i protegir la població local (exemples: Lloret de Mar, Salou) (0,5)."
+          }
+        ],
+        "nota": "Errors típics: a l'apartat 1, explicar causes (van a la 3) o no esmentar la font i els símbols puntuals; recorda que el mapa és **qualitatiu** (categories d'afluència), no dona nombre de turistes. A la 3, organitza per zones: la pauta puntua cada zona per separat. A la 4, la pregunta demana **problemes i solucions**: la major part dels punts (0,5 + 0,5) són per a les solucions, així que no t'oblidis de proposar-ne."
+      }
+    },
+    {
+      "id": "geografia-2014-J-s4-e2-A",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Taula del saldo migratori exterior per comunitats autònomes (2010-2012): l'efecte de la crisi",
+      "tema": "poblacio",
+      "temes_secundaris": [
+        "territori"
+      ],
+      "conceptes": [
+        "saldo migratori exterior",
+        "reagrupament familiar",
+        "crisi econòmica de 2008",
+        "emigració",
+        "migracions de retorn",
+        "envelliment",
+        "comentari de taula"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "**Saldo migratori exterior a Espanya per comunitats i ciutats autònomes (2010-2012)**\n\n| | 2010 | 2011 | 2012 |\n|---|---|---|---|\n| Andalusia | 19.301 | 5.699 | –7.601 |\n| Aragó | 4.508 | 1.827 | –564 |\n| Astúries, Principat d' | 2.334 | 1.374 | –124 |\n| Balears, Illes | 5.565 | 403 | –2.298 |\n| Canàries | 11.215 | 10.490 | 3.351 |\n| Cantàbria | 277 | –12 | –1.340 |\n| Castella i Lleó | 2.474 | 2.214 | –2.693 |\n| Castella - la Manxa | 2.297 | 63 | –4.953 |\n| Catalunya | 9.791 | –36.313 | –65.485 |\n| Comunitat Valenciana | 1.252 | 511 | –22.934 |\n| Extremadura | 886 | 1.129 | –237 |\n| Galícia | 4.321 | 522 | –2.703 |\n| Madrid, Comunitat de | 965 | –21.952 | –46.024 |\n| Múrcia, Regió de | –656 | 1.095 | –4.440 |\n| Navarra, Comunitat Foral de | –227 | –80 | –2.546 |\n| País Basc | –1.352 | –17.261 | –18.127 |\n| Rioja, La | –1.077 | –720 | –2.578 |\n| Ceuta | 472 | 435 | 169 |\n| Melilla | –189 | 486 | –350 |\n| **Total** | **62.157** | **–50.090** | **–181.477** |\n\nFont: Instituto Nacional de Estadística. Nota de premsa (19 novembre 2012).",
+      "enunciat": "Escolliu UNA de les dues opcions (A o B) i feu-ne els dos exercicis (5 punts cadascun). Sèrie 4. Opció A. Exercici 2 [5 punts en total]. Observeu la taula següent i responeu a les qüestions plantejades.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en la taula.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *saldo migratori exterior* i *reagrupament familiar*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Quines són les causes dels canvis en els valors del saldo migratori exterior que apareixen en la taula entre el 2010 i el 2012? Argumenteu la resposta.",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Quins efectes demogràfics, socials i econòmics tindrà el canvi de tendència del saldo migratori a curt i a mitjà termini?",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 5 punts sobre una **taula** de dades absolutes (persones). 1: descripció (0,25 identificació + 0,75 evolució i canvis per comunitats). 2: dues definicions. 3: causes (crisi econòmica 0,75 + retorn d'immigrants i emigració d'espanyols 0,75). 4: efectes demogràfics, socials i econòmics.\n\n- La pauta avisa: **no llegeixis la taula comunitat per comunitat**. Explica l'evolució del total (de positiu a molt negatiu) i assenyala les comunitats que marquen el canvi.\n- Comprova les xifres: el saldo és immigració − emigració; un valor negatiu vol dir que **surten més persones de les que entren**.\n- A la 4, distingeix els tres àmbits que demana l'enunciat (demogràfic, social, econòmic) i el termini (curt i mitjà)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació** (0,25): taula estadística del saldo migratori exterior (immigració − emigració amb l'estranger), Espanya per comunitats i ciutats autònomes, 2010-2012, en persones, font INE (nota de premsa, 2012).\n2. **Evolució** (0,75): total de +62.157 (2010) a −50.090 (2011) i −181.477 (2012); el 2010 només 5 territoris negatius; el 2011 el canvi l'anuncien Catalunya, Madrid i el País Basc; el 2012 el saldo és negatiu a 17 dels 19 territoris (només Canàries i Ceuta positius). Destaquen Catalunya (−65.485) i Madrid (−46.024)."
+          },
+          {
+            "apartat": "1",
+            "titol": "Càlculs",
+            "cos": "Càlculs fets amb les dades de la taula:\n\n| Indicador | 2010 | 2011 | 2012 |\n|---|---|---|---|\n| Saldo total | +62.157 | −50.090 | −181.477 |\n| Territoris amb saldo negatiu (de 19) | 5 | 6 | 17 |\n\n- Variació del saldo total 2010-2012: −181.477 − 62.157 = **−243.634** persones.\n- La suma de les comunitats coincideix amb el total de cada any (comprovat).\n- 2011: Catalunya + Madrid + País Basc = −36.313 − 21.952 − 17.261 = −75.526 (més que tot el saldo negatiu estatal, perquè la resta encara suma positiu).\n- Pes el 2012: Catalunya 65.485 / 181.477 = **36,1 %** del saldo negatiu; Madrid 25,4 %; Catalunya + Madrid + Comunitat Valenciana = **74,1 %**."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És una **taula estadística** que recull el **saldo migratori exterior** —la diferència entre les persones que arriben de l'estranger i les que hi marxen— de les **comunitats i ciutats autònomes** d'Espanya els anys **2010, 2011 i 2012**, en nombre de persones. Les dades procedeixen d'una nota de premsa de l'**Instituto Nacional de Estadística** (novembre del 2012).\n\nLa taula mostra un **canvi de signe** molt ràpid. El **2010** el saldo de l'Estat encara era **positiu (+62.157 persones)** i només cinc territoris tenien saldo negatiu, i de poca magnitud: el País Basc, Navarra, Múrcia, la Rioja i Melilla. El **2011** el total ja és **negatiu (−50.090)**, sobretot perquè tres comunitats —**Catalunya (−36.313), Madrid (−21.952) i el País Basc (−17.261)**— perden població amb l'exterior, mentre que la majoria encara mantenen saldos positius però molt més baixos que l'any anterior. El **2012** la tendència es consolida i s'accentua: el saldo total arriba a **−181.477 persones** i és negatiu a **17 dels 19 territoris**; només les **Canàries (+3.351)** i **Ceuta (+169)** continuen sent positius. Les pèrdues més grans es donen a **Catalunya (−65.485)**, **Madrid (−46.024)**, la **Comunitat Valenciana (−22.934)** i el **País Basc (−18.127)**; Catalunya sola representa el 36 % del saldo negatiu estatal."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Saldo migratori exterior**: immigrants procedents de l'estranger − emigrants cap a l'estranger (no compta els moviments entre comunitats). **Reagrupament familiar**: dret d'un estranger extracomunitari resident legal a demanar la residència per a familiars directes (cònjuge, fills, ascendents). 0,5 cada una."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Saldo migratori exterior**: diferència entre el nombre d'**immigrants que arriben de l'estranger** i el d'**emigrants que se'n van a l'estranger** en un territori i en un període determinat. No inclou les migracions interiors entre comunitats autònomes. És positiu quan arriben més persones de fora de les que hi marxen, i negatiu en cas contrari, com a Espanya des del 2011.\n\n**Reagrupament familiar**: **autorització de residència** que es concedeix als **familiars directes** —cònjuge, fills menors i, en alguns casos, ascendents— d'un ciutadà d'un **país extracomunitari** que ja resideix legalment a Espanya, perquè puguin reunir-se amb ell. Exigeix demostrar uns mitjans econòmics i un habitatge adequat, i s'aplica de manera força restrictiva."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues idees de 0,75:\n\n1. La **crisi econòmica** (des del 2008, amb l'esclat de la bombolla immobiliària) fa caure la immigració: menys oferta de treball, sobretot a la **construcció** i els serveis on treballaven els immigrants.\n2. Augment de l'**emigració**: **retorn** d'immigrants als països d'origen (sense feina; esgotament de les prestacions d'atur des del 2010; millora econòmica a l'Amèrica Llatina) i sortida d'**espanyols**, sobretot joves qualificats, cap a altres països europeus.\n\nArgumenta amb la taula: les comunitats amb més immigrants (Catalunya, Madrid, València) són les que perden més."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "El canvi de signe del saldo migratori exterior entre el 2010 i el 2012 s'explica per la **crisi econòmica** iniciada el 2008, que a Espanya va ser especialment intensa per l'esclat de la **bombolla immobiliària**.\n\nEn primer lloc, la crisi va provocar una forta **disminució de la immigració**. La immigració dels anys 2000 havia arribat atreta per l'abundant oferta de treball en la **construcció**, els serveis i l'agricultura; amb la crisi, aquests sectors van destruir centenars de milers de llocs de feina i l'**atur** va superar el 25 % el 2012, de manera que Espanya va deixar de ser un destí atractiu.\n\nEn segon lloc, va **augmentar l'emigració**. La manca de feina va empènyer molts **immigrants a retornar als seus països d'origen** o a marxar a un tercer país, un flux que s'agreuja a partir del 2010 quan s'esgoten les **prestacions d'atur** dels qui havien perdut la feina al principi de la crisi. Alhora, la **millora de la situació econòmica** en alguns països d'origen, sobretot de l'**Amèrica Llatina** (Equador, Colòmbia, Perú), afavoria el retorn. També van començar a **emigrar espanyols**, sobretot joves amb estudis, cap a països europeus com Alemanya o el Regne Unit, per la falta d'expectatives laborals.\n\nAixò explica que les comunitats que més immigrants havien rebut —**Catalunya, Madrid i la Comunitat Valenciana**— siguin les que presenten els saldos més negatius el 2012, mentre que les Canàries encara mantenen un saldo positiu."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "La pauta d'aquesta pregunta repeteix les causes de la 3 (vegeu la nota) i valora globalment la pertinença (1,5). Organitza la resposta per àmbits i terminis:\n\n- **Demogràfics**: estancament o disminució de la població; menys naixements (la immigració era jove i natalista) → **envelliment**; pèrdua de joves qualificats.\n- **Socials**: menys pressió sobre alguns serveis, però també pèrdua de diversitat; famílies separades; risc de xenofòbia en temps de crisi; fuga de talent.\n- **Econòmics**: menys població activa i consumidors; menys cotitzacions → pressió sobre les **pensions**; a curt termini alleuja l'atur, a mitjà termini pot faltar mà d'obra; entrada de remeses dels emigrants espanyols."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "El canvi de tendència del saldo migratori, de positiu a negatiu, tindrà efectes en diversos àmbits:\n\n**Efectes demogràfics.** A **curt termini**, la població d'Espanya deixarà de créixer i fins i tot **disminuirà** (com va passar a partir del 2012), perquè el creixement natural és molt feble i ja no el compensa la immigració. Com que els qui marxen són majoritàriament **joves en edat de treballar i de tenir fills**, a **mitjà termini** baixaran els naixements i s'accelerarà l'**envelliment** de la població, que ja era un dels més alts d'Europa.\n\n**Efectes socials.** A curt termini disminueix la pressió sobre alguns serveis públics (escoles, sanitat) i sobre el mercat de l'habitatge, però molts processos de **reagrupament familiar** queden aturats i hi ha famílies separades. L'emigració de **joves espanyols qualificats** suposa una **fuga de talent** després d'haver invertit en la seva formació. A més, en un context de crisi creix el risc de **discursos xenòfobs** que culpen la immigració de l'atur.\n\n**Efectes econòmics.** A curt termini, la sortida de població pot **alleujar l'atur**, i les remeses dels emigrants són una entrada de diners. Però a mitjà termini hi haurà **menys població activa i menys consumidors**, menys cotitzacions a la Seguretat Social i, per tant, més dificultats per mantenir les **pensions** d'una població cada cop més envellida. Quan l'economia es recuperi, alguns sectors (construcció, agricultura, cura de persones) podrien tenir **manca de mà d'obra** i caldrà tornar a atreure immigració."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Taula del saldo migratori exterior a Espanya per comunitats autònomes (2010, 2011, 2012), dades de l'INE (0,25). Evolució: pas del saldo positiu el 2010 al saldo global negatiu el 2011 i 2012; el País Basc, Navarra, Múrcia, la Rioja i Melilla ja són negatius el 2010; el 2011 Catalunya, Madrid i el País Basc marquen la tendència, que es consolida el 2012 amb saldo negatiu a pràcticament totes les comunitats (0,75)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Saldo migratori exterior: diferència entre la immigració i l'emigració de ciutadans fora de les fronteres de l'estat (0,5). Reagrupament familiar: autorització de residència a un ciutadà d'un país extracomunitari per reunir-se amb membres del nucli familiar bàsic (cònjuge, descendents, ascendents) que ja hi resideixen; s'aplica de forma restrictiva (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "La crisi econòmica és la causa de la disminució de la immigració exterior (0,75). La manca d'oferta de treball empeny els immigrants a retornar als seus països d'origen i fa emigrar els espanyols sense expectatives de trobar ocupació (0,75)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Resposta oberta; el corrector valora la pertinença (1,5). La pauta oficial recull: la crisi econòmica com a causa de la disminució de la immigració i de l'augment del retorn d'immigrants; la manca de treball fa emigrar també espanyols; el retorn s'agreuja des del 2010 en esgotar-se les prestacions d'atur; la millora econòmica de països d'origen (Amèrica Llatina) afavoreix el retorn. Cal afegir-hi els efectes que demana l'enunciat: demogràfics (pèrdua de població jove, menys naixements, envelliment), socials (fuga de talent, famílies separades) i econòmics (menys població activa i cotitzants, pressió sobre les pensions, possible manca de mà d'obra a mitjà termini)."
+          }
+        ],
+        "nota": "Discrepància amb la pauta: el text oficial de la pregunta 4 repeteix gairebé literalment les **causes** de la pregunta 3 (crisi, retorn, emigració d'espanyols, fi de les prestacions d'atur) i no desenvolupa els **efectes** que demana l'enunciat; la resposta model els ha redactat (demogràfics, socials i econòmics, a curt i mitjà termini). Errors típics a la descripció: llegir la taula comunitat per comunitat (la pauta ho penalitza: cal explicar l'evolució del total i assenyalar els casos significatius) i confondre el saldo negatiu amb pèrdua de població total (només es refereix als moviments amb l'estranger)."
+      }
+    },
+    {
+      "id": "geografia-2014-J-s4-e1-B",
+      "exercici": 1,
+      "questio": null,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Mapa de les divisions administratives de Catalunya: províncies, comarques i autogovern",
+      "tema": "territori",
+      "temes_secundaris": [],
+      "conceptes": [
+        "organització territorial",
+        "província",
+        "comarca",
+        "vegueria",
+        "diputació provincial",
+        "consell comarcal",
+        "estatut d'autonomia",
+        "comentari de mapa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Escolliu UNA de les dues opcions (A o B) i feu-ne els dos exercicis (5 punts cadascun). Sèrie 4. Opció B. Exercici 1 [5 punts en total]. Observeu el mapa següent i responeu a les qüestions plantejades.",
+      "figures": [
+        {
+          "src": "img/geografia/2014-J/s4-e1-B.png",
+          "peu": "Mapa de Catalunya amb les divisions administratives: límits comarcals (línies primes grises) i límits provincials (línia negra gruixuda) que separen les quatre províncies (Lleida, Girona, Barcelona i Tarragona). Sense rètols ni llegenda; escala gràfica de 0 a 40 km i fletxa del nord. Font: Institut Cartogràfic de Catalunya. Atles nacional de Catalunya [en línia]."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Descriviu la informació representada en el mapa i esmenteu el nom d'una comarca els límits de la qual s'estenguin per més d'una província.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *vegueria* i *tribut*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Responeu a les qüestions següents relacionades amb les divisions territorials de Catalunya (províncies i comarques):\n\na) Expliqueu l'origen històric de les províncies i de les comarques.\n\nb) Quins són els òrgans de govern de cadascun d'aquests dos nivells administratius i quins serveis ofereixen?",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Responeu a les qüestions següents relacionades amb l'organització política i administrativa de Catalunya:\n\na) Exposeu breument què és un estatut d'autonomia.\n\nb) Quines són les institucions pròpies de Catalunya segons l'Estatut d'autonomia vigent i quines funcions tenen?\n\nc) Expliqueu una competència exclusiva de la Generalitat de Catalunya.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 5 punts sobre un **mapa d'organització territorial** sense rètols. 1: descripció (0,25 identificació + 0,75 nombre de províncies i comarques i una comarca repartida entre dues províncies). 2: dues definicions. 3: dues subpreguntes de 0,75 (la pauta les reparteix en 0,5 per l'origen i 0,5 + 0,5 pels òrgans). 4: tres subpreguntes de 0,5.\n\n- Has de saber **reconèixer el mapa comarcal** sense noms: la línia gruixuda són els límits provincials.\n- La pregunta 1 demana expressament **una comarca partida** entre províncies: la Cerdanya (Girona i Barcelona) és la resposta més clara.\n- Les preguntes 3 i 4 són teòriques: dates clau (1833, 1932-1936, 1979, 1987-1988, 2006) i institucions."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació** (0,25): mapa polític-administratiu de Catalunya, límits comarcals i provincials, font: *Atles nacional de Catalunya* (ICC).\n2. **Contingut** (0,75): **4 províncies** (Barcelona, Girona, Lleida i Tarragona) i **41 comarques** (el 2014; el Moianès es va crear el 2015). Els límits comarcals i provincials no coincideixen: la **Cerdanya** està repartida gairebé meitat i meitat entre Girona i Barcelona; la Selva, Osona i el Berguedà tenen algun municipi en una província diferent. N'hi ha prou amb una."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "És un **mapa polític-administratiu** de Catalunya que representa dues divisions territorials superposades: els **límits comarcals**, amb línia fina, i els **límits provincials**, amb línia gruixuda. No té rètols ni llegenda i inclou una escala gràfica (0-40 km). La font és l'*Atles nacional de Catalunya* de l'**Institut Cartogràfic de Catalunya**, consultable en línia.\n\nEl mapa mostra que Catalunya està dividida en **quatre províncies** —Barcelona, Girona, Lleida i Tarragona— i en **41 comarques**. Les dues divisions **no coincideixen**: la divisió provincial, de traçat més artificial, travessa algunes comarques. El cas més clar és la **Cerdanya**, repartida gairebé meitat i meitat entre les províncies de **Girona i Barcelona**. També la **Selva**, **Osona** i el **Berguedà** tenen algun municipi adscrit a una província diferent de la resta de la comarca. Lleida és la província més extensa i Barcelona la més petita de les quatre en superfície, tot i ser la més poblada."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vegueria**: divisió supracomarcal d'origen medieval, recuperada a l'Estatut del 2006 i a la Llei de vegueries del 2010 (7 àmbits, després 8 amb el Penedès), pensada per substituir les diputacions; aplicació en suspens. **Tribut**: prestació econòmica obligatòria que una administració exigeix per finançar la despesa pública: impostos, taxes i contribucions especials. 0,5 cada una."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Vegueria**: divisió territorial **supracomarcal** d'origen històric (les vegueries existien a la Catalunya medieval i moderna fins al Decret de Nova Planta), que agrupa diverses comarques. L'**Estatut d'autonomia del 2006** la va recuperar com a àmbit de govern local i de prestació de serveis de la Generalitat, i la **Llei de vegueries del 2010** en va definir **set**; la seva aplicació, però, ha quedat en suspens perquè la Constitució manté les províncies.\n\n**Tribut**: **prestació econòmica obligatòria** que una administració pública (Estat, comunitat autònoma, municipi) exigeix als ciutadans i a les empreses del seu àmbit territorial per finançar la despesa pública. Inclou els **impostos** (IRPF, IVA, IBI), les **taxes** per la prestació d'un servei (recollida d'escombraries) i les contribucions especials."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "a) **Origen** (0,5): **províncies**: divisió de **1833** (Javier de Burgos), 49 (després 50) províncies, model centralista i racionalista liberal inspirat en els departaments francesos; 4 a Catalunya. **Comarques**: unitats d'origen històric i funcional; divisió comarcal de la Generalitat republicana (**1936**, aprovada en l'època de l'Estatut del 1932, 38 comarques); recuperada el 1987 (Llei 1987) amb 41 comarques (3 noves el 1988: Pla de l'Estany, Pla d'Urgell, Alta Ribagorça).\n\nb) **Òrgans** (0,5 + 0,5): **Diputació provincial** (president i diputats elegits indirectament entre els regidors): assistència als municipis petits, recaptació, carreteres locals, cultura. **Consell comarcal** (ple i president, elegit indirectament): serveis delegats per la Generalitat o pels ajuntaments (transport escolar, serveis socials, residus, esports)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a) Origen històric.** Les **províncies** són el resultat de la **divisió provincial de 1833**, impulsada per Javier de Burgos, que va dividir l'Estat en 49 províncies (50 a partir de 1927) per aconseguir una **administració centralitzada i uniforme** del territori, d'acord amb els principis racionalistes del liberalisme de l'època i a imitació dels departaments francesos. A Catalunya se'n van delimitar **quatre**, amb capital a Barcelona, Girona, Lleida i Tarragona. Les **comarques**, en canvi, són unitats territorials d'**origen històric** i funcional, basades en les relacions entre els pobles i la seva ciutat mercat. La primera divisió comarcal oficial la va fer la **Generalitat republicana** (aprovada el 1936, durant la vigència de l'Estatut del 1932), amb **38 comarques**. Suprimida pel franquisme, va ser recuperada per la Generalitat restaurada amb la llei d'organització comarcal del **1987**, i el **1988** s'hi van afegir tres comarques noves (Alta Ribagorça, Pla de l'Estany i Pla d'Urgell), fins a **41**.\n\n**b) Òrgans de govern i serveis.** Les províncies estan governades per les **diputacions provincials**, formades per un president i uns diputats provincials elegits d'entre els regidors municipals de la província (elecció indirecta). Són un òrgan de l'administració local que dona **suport tècnic i econòmic als municipis**, sobretot als més petits, i presta serveis que aquests no poden afrontar sols: recaptació d'impostos, carreteres locals, equipaments culturals i esportius, assistència social. Les comarques estan governades pels **consells comarcals**, amb un ple i un president elegits indirectament a partir dels resultats de les eleccions municipals. Les seves competències les estableix la **Llei d'organització comarcal de Catalunya** i inclouen les que els delega la Generalitat i les que els cedeixen els ajuntaments per conveni: **transport escolar**, serveis socials, recollida de residus, programes educatius, esportius i de sanitat."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres subpreguntes de 0,5:\n\na) **Estatut**: norma institucional bàsica d'una comunitat autònoma (art. 147 de la Constitució), llei orgànica; regula les institucions d'autogovern i les competències. Catalunya: 1932, 1979, 2006.\n\nb) **Institucions**: la **Generalitat** = **Parlament** (legislatiu, elegeix el president, controla el govern, aprova pressupostos), **President** (dirigeix i representa), **Govern o Consell Executiu** (executiu). Altres: Síndic de Greuges, Consell de Garanties Estatutàries, Sindicatura de Comptes.\n\nc) **Una competència exclusiva** explicada: cultura, dret civil, urbanisme, turisme, serveis socials, joventut, comerç interior..."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "**a) Què és un estatut d'autonomia.** És la **norma institucional bàsica** d'una comunitat autònoma, reconeguda per la **Constitució espanyola de 1978**, que l'aprova el Parlament autonòmic i les Corts Generals com a **llei orgànica** (i, en el cas de Catalunya, també en referèndum). Regula la denominació i el territori, les **institucions d'autogovern** i les **competències** que pot exercir la comunitat. Catalunya ha tingut estatuts el 1932, el 1979 i el **2006**, que és el vigent.\n\n**b) Institucions pròpies i funcions.** Segons l'Estatut, el sistema institucional d'autogovern és la **Generalitat de Catalunya**, que integra:\n\n- El **Parlament**, que exerceix la **funció legislativa** (aprova les lleis), aprova els pressupostos, elegeix el president i controla l'acció del govern.\n- El **President de la Generalitat**, que dirigeix el govern i té la **màxima representació** de la Generalitat i la representació ordinària de l'Estat a Catalunya.\n- El **Govern o Consell Executiu**, que dirigeix l'acció política i l'**administració** (funció executiva i potestat reglamentària).\n\nL'Estatut també preveu altres institucions, com el **Síndic de Greuges** (defensa dels drets dels ciutadans davant l'administració), el **Consell de Garanties Estatutàries** (vetlla per l'adequació de les lleis a l'Estatut) i la **Sindicatura de Comptes** (control de la despesa pública).\n\n**c) Una competència exclusiva: la cultura.** Les competències exclusives són les que la Generalitat exerceix de manera íntegra, amb potestat legislativa, reglamentària i executiva. En **cultura**, la Generalitat regula i gestiona les activitats artístiques i culturals, el **patrimoni cultural** (museus, arxius i biblioteques que no són de titularitat estatal), el foment de la llengua i la cultura catalanes, les indústries culturals (cinema, edició) i les festes i tradicions. Altres competències exclusives són el **dret civil català**, l'**urbanisme**, el **turisme**, els serveis socials o la joventut."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Mapa de les divisions administratives comarcals i provincials de Catalunya, font: Atles nacional de Catalunya (ICC) (0,25). 4 províncies i 41 comarques; comarques repartides entre dues províncies: la Cerdanya (Girona i Barcelona) i, amb un municipi cadascuna, la Selva, Osona i el Berguedà; n'hi ha prou amb un cas (0,75)."
+          },
+          {
+            "apartat": "2",
+            "valor": "Vegueria: divisió territorial supracomarcal d'origen històric (7 àmbits), recollida a l'Estatut del 2006 i a la Llei de vegueries del 2010, amb l'aplicació en suspens (0,5). Tribut: taxa o impost que una administració recapta a ciutadans i empreses del seu àmbit per causes diverses: prestació de serveis, multes, gravàmens (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Províncies: divisió estatal de 1833 per a una millor administració del territori segons els principis racionalistes dels liberals; 4 a Catalunya de les 50 de l'Estat. Comarques: unitat d'origen històric, definida en la forma actual en l'època del primer Estatut (1932) amb 38 comarques; recuperades després del 1979 i ampliades amb 3 més el 1988 (0,5). b) Diputacions provincials (president i diputats elegits entre els càrrecs municipals): recaptació d'impostos i serveis que els municipis petits no poden afrontar sols (0,5). Consells comarcals (president del ple comarcal), competències segons la Llei d'organització comarcal: les que estableix la Generalitat i les que els ajuntaments els deleguen (programes educatius, esportius, de sanitat) (0,5)."
+          },
+          {
+            "apartat": "4",
+            "valor": "a) L'Estatut d'autonomia és la llei marc que regula les institucions d'autogovern i les competències que es poden exercir (0,5). b) La Generalitat, que integra el Parlament (funció legislativa), el President de la Generalitat i el Consell Executiu (funcions de govern); es valoren altres institucions (Síndic de Greuges, Consell Consultiu) (0,5). c) Una competència exclusiva ben explicada: cultura, dret civil, urbanisme, turisme, benestar social, joventut (0,5)."
+          }
+        ],
+        "nota": "El mapa no porta noms: cal conèixer el mapa comarcal per identificar la Cerdanya. Nota d'actualització: l'examen és del 2014, quan hi havia 41 comarques; el 2015 es va crear el Moianès (42) i el 2023 el Lluçanès (43). La pauta parla del «Consell Consultiu», que l'Estatut del 2006 va substituir pel Consell de Garanties Estatutàries; la resposta model fa servir el nom vigent. A la 3a, sobre l'origen de les comarques, la pauta diu «l'any 1932» (Estatut) però la divisió comarcal es va aprovar formalment el 1936; qualsevol de les dues referències a la Generalitat republicana és acceptable."
+      }
+    },
+    {
+      "id": "geografia-2014-J-s4-e2-B",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "comentari",
+      "punts": 5,
+      "titol": "Text de Joan Tugores «Europa a mig fer» (2011): la construcció de la Unió Europea",
+      "tema": "territori",
+      "temes_secundaris": [
+        "mon"
+      ],
+      "conceptes": [
+        "unió europea",
+        "construcció europea",
+        "espai schengen",
+        "zona euro",
+        "tractat de maastricht",
+        "criteris de copenhaguen",
+        "institucions europees",
+        "comentari de text"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8
+      ],
+      "text": "**Europa a mig fer**\n\nEl 1963 i el 1967, el president francès De Gaulle va vetar la incorporació del Regne Unit a l'aleshores anomenada Comunitat Econòmica Europea. Tot i que el general francès compartia amb els britànics el recel envers el fet d'avançar en la federalització d'Europa, no va tenir la *grandeur* de què feia gala el seu país i, amb les negatives, va accentuar els sentiments antieuropeistes de tots. Ara, el primer ministre britànic, David Cameron, ha estat al mateix nivell ínfim: fa poc que es va felicitar de no formar part de l'euro i va vetar la via natural d'aprofundir en la construcció europea […].\n\nAixí, doncs, l'acord de començar un camí entre els disset socis de l'euro, més els que es vulguin incorporar d'entre la resta de socis de la Unió Europea al contracte d'adhesió que han plantejat Alemanya i França, es presenta com una opció imperfecta, però forçada i, sincerament, més desitjable. […]\n\nPrecisament, un dels preus elevats que Europa paga per anar embastant la construcció sense cap integració política és una successió d'escenaris d'Europa a mig fer —compartint moneda però no eines fiscals, compartint mercat únic però amb regulacions sociolaborals heterogènies— que grinyolen en moments de tensions, que obliguen a solucions imperfectes fins i tot quan semblava que començàvem a tenir clara la necessitat de recórrer a posicions més sòlides en la línia de federalitzar aspectes fiscals i dimensions socials com jubilacions, pensions […].\n\nAdaptació feta a partir del text de Joan Tugores. «Europa a mig fer». *La Vanguardia* (10 desembre 2011)",
+      "enunciat": "Escolliu UNA de les dues opcions (A o B) i feu-ne els dos exercicis (5 punts cadascun). Sèrie 4. Opció B. Exercici 2 [5 punts en total]. Llegiu el text següent i responeu a les qüestions plantejades.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Resumiu les idees principals del text.",
+          "punts": 1
+        },
+        {
+          "id": "2",
+          "enunciat": "Definiu els termes *espai de Schengen* i *zona euro*.",
+          "punts": 1
+        },
+        {
+          "id": "3",
+          "enunciat": "Responeu a les qüestions següents relacionades amb la construcció de la Unió Europea:\n\na) En quin moment i de quina manera la Comunitat Econòmica Europea es va convertir en la Unió Europea (UE)?\n\nb) Quins requisits polítics i econòmics són necessaris per a formar part de la UE?",
+          "punts": 1.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Relacioneu els objectius de la integració econòmica i política dels estats membres de la UE amb les principals institucions i tractats comunitaris.",
+          "punts": 1.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari d'un **text periodístic** (5 punts). 1: resum (0,25 per idea, inclosa la font, fins a 1 punt). 2: dues definicions. 3: dues subpreguntes de 0,75. 4: integració política (0,5), integració econòmica (0,5), tractats i institucions (0,5).\n\n- El **resum** ha de recollir les idees amb paraules pròpies, sense opinar ni copiar frases; cita l'autor, el diari i la data (2011, plena crisi del deute).\n- A la 3a, dates i tractats: Acta Única (1986), Maastricht (1992). A la 3b, separa requisits **polítics** i **econòmics**.\n- A la 4, cal citar com a mínim **un tractat** i **dues institucions** i relacionar-los amb els objectius."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "Quatre elements de 0,25:\n\n1. El **Regne Unit** no va entrar a la CEE fins que França (De Gaulle) va aixecar el veto (1963, 1967); ara és el Regne Unit (Cameron) qui fa de fre i veta aprofundir en la integració.\n2. Els **17 estats de l'euro**, amb Alemanya i França, volen avançar per la seva banda en la integració, obert a altres socis: solució imperfecta però desitjable.\n3. **Europa a mig fer**: unió econòmica (moneda, mercat únic) sense unió política, fiscal ni social, que trontolla en temps de crisi.\n4. **Font**: article de Joan Tugores a *La Vanguardia*, 10-12-2011."
+          },
+          {
+            "apartat": "1",
+            "titol": "Resposta model",
+            "cos": "El text és un **article d'opinió** de l'economista **Joan Tugores** publicat a *La Vanguardia* el **10 de desembre de 2011**, en plena crisi del deute de la zona euro, que reflexiona sobre les limitacions de la construcció europea.\n\nEn primer lloc, l'autor recorda que el **Regne Unit** no va poder entrar a la Comunitat Econòmica Europea fins que **França va aixecar el veto** que De Gaulle li havia imposat el 1963 i el 1967, i critica que ara sigui el Regne Unit, amb David Cameron, qui **bloqueja l'aprofundiment** de la integració europea i celebra no formar part de l'euro.\n\nEn segon lloc, considera que l'acord dels **disset estats de l'euro**, impulsat per Alemanya i França i obert a altres socis, per avançar per la seva banda en la integració és una solució **imperfecta però desitjable**.\n\nFinalment, sosté que la construcció europea ha avançat **sense integració política**, i això ha creat una **«Europa a mig fer»**: una moneda comuna sense política fiscal comuna i un mercat únic amb regulacions laborals i socials diferents, situació que trontolla en moments de crisi i que exigiria federalitzar la fiscalitat i aspectes socials com les pensions."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "**Espai Schengen**: territori format pels estats signants de l'acord de Schengen (1985, aplicat el 1995) sense controls a les fronteres interiors, amb control comú de les exteriors i cooperació policial; no coincideix amb la UE (Regne Unit i Irlanda fora; Noruega, Suïssa, Islàndia dins). **Zona euro**: estats de la UE que han adoptat l'euro com a moneda (17 el 2011, 18 el 2014); política monetària del BCE. 0,5 cada una."
+          },
+          {
+            "apartat": "2",
+            "titol": "Resposta model",
+            "cos": "**Espai de Schengen**: territori format pels estats que han signat l'**acord de Schengen** (1985, aplicat des del 1995), dins del qual s'han **suprimit els controls de persones a les fronteres interiors**, de manera que s'hi pot circular lliurement, alhora que es reforcen i es coordinen els controls a les fronteres exteriors i la cooperació policial i judicial. No coincideix exactament amb la UE: el Regne Unit i Irlanda en quedaven fora, mentre que països no membres com Noruega, Islàndia o Suïssa en formen part.\n\n**Zona euro**: espai econòmic format pels **estats de la Unió Europea que han adoptat l'euro** com a moneda oficial (17 el 2011, quan es va escriure el text; 18 el 2014). Hi comparteixen una **política monetària única**, dirigida pel **Banc Central Europeu**, i han de complir les regles de disciplina pressupostària del Pacte d'Estabilitat."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "a) (0,75) Entre **1985 i 1992**, amb el lideratge de Kohl, Mitterrand, Delors (i Felipe González): **acord de Schengen** (1985), **Acta Única Europea** (1986, mercat únic) i **Tractat de Maastricht** (1992, en vigor el 1993): neix la **Unió Europea**, amb unió econòmica i monetària (euro) i cooperació en política exterior i justícia.\n\nb) (0,75) **Polítics**: democràcia, estat de dret, drets humans i protecció de les minories (criteris de Copenhaguen, 1993). **Econòmics**: economia de mercat capaç de resistir la competència; assumir l'acervo comunitari. Per entrar a l'**euro**: criteris de convergència (inflació, dèficit < 3 % del PIB, deute < 60 %, tipus d'interès, estabilitat del canvi)."
+          },
+          {
+            "apartat": "3",
+            "titol": "Resposta model",
+            "cos": "**a) De la CEE a la UE.** El pas de la Comunitat Econòmica Europea a la Unió Europea es va fer entre **1985 i 1992**, amb el lideratge del canceller alemany **Helmut Kohl**, el president francès **François Mitterrand** i el president de la Comissió **Jacques Delors**, entre d'altres (com Felipe González). Les fites principals van ser l'**acord de Schengen (1985)**, que preveia la supressió dels controls fronterers; l'**Acta Única Europea (1986)**, que establia el **mercat únic** amb lliure circulació de béns, capitals, serveis i persones a partir del 1993; i, sobretot, el **Tractat de la Unió Europea o de Maastricht (1992)**, que va crear la **Unió Europea**. Maastricht va afegir a la comunitat econòmica una dimensió política (ciutadania europea, política exterior i de seguretat comuna, cooperació en justícia i interior) i va fixar les condicions i el calendari de la **unió econòmica i monetària** que va donar lloc a l'**euro**.\n\n**b) Requisits per entrar a la UE.** Els anomenats **criteris de Copenhaguen** (1993) exigeixen, en l'àmbit **polític**, que el país candidat sigui europeu i tingui **institucions estables que garanteixin la democràcia**, l'estat de dret, el respecte als **drets humans** i la protecció de les minories. En l'àmbit **econòmic**, ha de tenir una **economia de mercat** que funcioni i que pugui fer front a la competència del mercat únic, i ha d'assumir el conjunt de la legislació comunitària. Per entrar a la **zona euro** cal, a més, complir els **criteris de convergència** de Maastricht: inflació i tipus d'interès baixos, un dèficit públic inferior al 3 % del PIB, un deute públic inferior al 60 % del PIB i estabilitat del tipus de canvi de la moneda pròpia."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres blocs de 0,5:\n\n1. **Integració política**: els estats cedeixen sobirania; les institucions europees aproven reglaments i directives que prevalen sobre les lleis estatals.\n2. **Integració econòmica**: mercat únic (quatre llibertats), supressió de fronteres, euro i **BCE** independent; **fons estructurals i de cohesió** per reduir desequilibris.\n3. **Tractats** (almenys un): Roma (1957), Acta Única (1986), Maastricht (1992), Constitució Europea (2004), Lisboa (2007). **Institucions** (almenys dues): Consell Europeu, Consell de la UE (de Ministres), Comissió, Parlament Europeu, Tribunal de Justícia, BCE."
+          },
+          {
+            "apartat": "4",
+            "titol": "Resposta model",
+            "cos": "La integració europea té dos grans objectius, l'econòmic i el polític, que s'han anat construint a través dels **tractats** i que gestionen les **institucions comunitàries**.\n\n**Integració econòmica.** L'objectiu inicial del **Tractat de Roma (1957)**, que va crear la CEE, era una unió duanera i un mercat comú. L'**Acta Única Europea (1986)** va establir el **mercat interior únic**, amb lliure circulació de béns, serveis, persones i capitals, i l'eliminació dels controls fronterers. El **Tractat de Maastricht (1992)** va crear la **unió econòmica i monetària**: la moneda única, l'**euro**, i el **Banc Central Europeu**, independent dels governs, que dirigeix la política monetària de la zona euro. Per reduir els desequilibris entre estats i regions, la UE distribueix els **fons estructurals** (FEDER, FSE) i el **Fons de Cohesió**.\n\n**Integració política.** Els estats membres **cedeixen part de la seva sobirania** a les institucions europees, que aproven **reglaments i directives** que prevalen sobre les lleis estatals. La **Comissió Europea** proposa les normes i vetlla pel compliment dels tractats; el **Parlament Europeu**, elegit per sufragi universal, i el **Consell de la UE** (Consell de Ministres) les aproven; el **Consell Europeu**, format pels caps d'estat i de govern, fixa les grans orientacions polítiques; i el **Tribunal de Justícia** garanteix l'aplicació uniforme del dret comunitari. Maastricht va crear la ciutadania europea i la política exterior comuna, i el **Tractat de Lisboa (2007)** —que va substituir el fallit Tractat constitucional del 2004— va reforçar el Parlament i va crear el càrrec de president estable del Consell Europeu.\n\nTanmateix, com diu el text, la integració política i fiscal ha avançat molt menys que l'econòmica, i aquest desequilibri explica les dificultats de la UE davant la crisi."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "0,25 per idea fins a 1 punt: el Regne Unit no va entrar a la CEE fins que França va aixecar el veto; ara és el Regne Unit qui no cedeix sobirania per aprofundir en la UE; l'Europa de l'euro (17 estats) vol ampliar la unitat dels estats participants; Europa a mig fer: unitat econòmica sense unitat política; font: article de La Vanguardia (2011)."
+          },
+          {
+            "apartat": "2",
+            "valor": "La pauta oficial defineix *mercat únic* (unitat econòmica de mercat, supressió de fronteres duaneres i aranzels, lliure circulació de persones i mercaderies) en lloc d'*espai de Schengen* (0,5); vegeu la nota. Zona euro: espai econòmic format pel grup d'estats de la UE que han adoptat l'euro com a moneda (0,5)."
+          },
+          {
+            "apartat": "3",
+            "valor": "a) Entre 1985 i 1992, amb el lideratge de Kohl, Mitterrand i altres (Felipe González): acord de Schengen (1985, supressió de controls fronterers), Acta Única (1986, lliure circulació de béns, capitals i serveis) i Tractat de Maastricht (1992), que regula les condicions d'accés a l'euro (0,75). b) Requisits polítics: sistemes democràtics, principis de llibertat, democràcia, drets humans i estat de dret. Econòmics: economia de lliure mercat capaç de fer front a la competència; per a la zona euro, convergència en dèficit, deute públic, inflació, tipus d'interès i estabilitat del canvi (0,75)."
+          },
+          {
+            "apartat": "4",
+            "valor": "Integració política: cessió de sobirania dels estats a les institucions europees, que aproven directives, normes i lleis que prevalen sobre les estatals (0,5). Integració econòmica: mercat interior únic amb lliure circulació de béns, serveis, persones i capitals; eliminació de controls fronterers, euro i Banc Central Europeu independent; fons estructurals i de cohesió contra els desequilibris (0,5). Almenys un tractat (Roma 1957, Acta Única 1986, Maastricht 1992, Constitució Europea 2004) i dues institucions (Consell Europeu, Consell de Ministres, Comissió, Parlament Europeu, Tribunal de Justícia) (0,5)."
+          }
+        ],
+        "nota": "Discrepància amb la pauta: l'enunciat demana definir *espai de Schengen* i *zona euro*, però la pauta oficial dona la definició de *mercat únic* en lloc de la d'espai de Schengen (probablement copiada d'una altra versió de la prova); la resposta model defineix el terme que demana l'examen. Al resum, citar la font també puntua (0,25). Errors típics: fer un comentari en lloc d'un resum, o copiar frases del text; a la 3a, confondre el Tractat de Roma (CEE, 1957) amb el de Maastricht (UE, 1992); a la 4, enumerar institucions sense dir què fan ni relacionar-les amb els objectius."
+      }
+    }
+  ]
+}
