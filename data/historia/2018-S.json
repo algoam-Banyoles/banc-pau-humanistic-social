@@ -1,0 +1,902 @@
+{
+  "examen": {
+    "id": "historia-2018-S",
+    "assignatura": "historia",
+    "materia": "Història",
+    "any": 2018,
+    "convocatoria": "setembre",
+    "serie": "3",
+    "pdf_examen": "pdfs/historia/2018-S-examen.pdf",
+    "pdf_solucio": "pdfs/historia/2018-S-solucio.pdf",
+    "estructura": "Convocatòria de setembre del 2018, sèrie 3. Cal escollir UNA de les dues opcions (A o B) i fer els dos exercicis de l'opció triada (5 punts cadascun; total 10). Cada exercici té una font i dues preguntes: la Pregunta 1, comentari de la font en tres apartats (a: tipus de font i tema, 0,75; b: context històric, 0,75; c: comentari del contingut, 1 punt), i la Pregunta 2, on cal contestar UNA de dues qüestions de desenvolupament (a o b, 2,5 punts). Opció A: exercici 1, la Revolució d'Astúries (fotografia d'Oviedo, 1934) i la Segona República; exercici 2, el franquisme a Catalunya (ordre de retirar els rètols en català, 1939), repressió, oposició i polítiques econòmiques. Opció B: exercici 1, les Bases de Manresa (1892) i el catalanisme fins al 1901; exercici 2, cartell electoral de la UCD (1977), Adolfo Suárez i el 23-F. Als identificadors, la lletra final és l'opció (a/b) i «q2a»/«q2b» indica la qüestió triada de la Pregunta 2."
+  },
+  "problemes": [
+    {
+      "id": "historia-2018-S-e1-q1-a",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 2.5,
+      "titol": "Fotografia del centre d'Oviedo després de la Revolució d'Astúries (15 d'octubre de 1934)",
+      "tema": "segona-republica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "revolució d'astúries",
+        "octubre del 1934",
+        "bienni conservador",
+        "ceda",
+        "fotografia històrica",
+        "comentari de font"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        1
+      ],
+      "text": "**La revolució d'Astúries**\n\n*(Fotografia: vegeu la figura.)*\n\nCentre de la ciutat d'Oviedo, 15 d'octubre de 1934.\n\n*Font:* Autor desconegut.",
+      "enunciat": "Opció A, exercici 1 (cal escollir UNA de les dues opcions, A o B, i fer-ne els dos exercicis). Pregunta 1: observeu la font i responeu a les qüestions a), b) i c).",
+      "figures": [
+        {
+          "src": "img/historia/2018-S/e1-a.png",
+          "peu": "Centre de la ciutat d'Oviedo, 15 d'octubre de 1934. Font: autor desconegut."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Identifiqueu el tipus de font i digueu de què tracta.",
+          "punts": 0.75
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu quin és el context històric de la font.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "Descriviu i comenteu el contingut de la font.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "La Pregunta 1 és un comentari de font en tres passos (2,5 punts en total). **a)** (0,75): classificar la font (primària/secundària i tipus: fotografia, text juridicopolític, premsa, cartell...) i dir de què tracta; les pautes donen 0,25 per la classificació i 0,50 pel contingut. **b)** (0,75): situar-la en el seu context (període, etapa, data concreta). **c)** (1): comentar el contingut relacionant-lo amb el context. Responeu cada apartat per separat i amb la seva lletra. Extensió orientativa: 4-6 línies per a a) i b) i 10-15 per a c). Temps: uns 20-25 minuts (l'examen dura 1,5 h per als dos exercicis de l'opció). Error típic: descriure la font sense datar-la ni situar-la, o fer al b) un context tan general que no expliqui la font."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Tipus de font**: font primària (contemporània dels fets), iconogràfica: una **fotografia** (en blanc i negre, presa des d'un punt elevat). **Tema**: l'estat del centre de la ciutat d'Oviedo el 15 d'octubre de 1934, amb edificis destruïts o cremats després dels combats de la Revolució d'Astúries."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Es tracta d'una font primària, contemporània dels fets, de tipus iconogràfic: una fotografia en blanc i negre d'autor desconegut, presa el 15 d'octubre de 1934 des d'un punt elevat. Mostra una vista del centre de la ciutat d'Oviedo amb diversos edificis destruïts, sense teulada i calcinats, com a conseqüència dels combats de la Revolució d'Astúries de l'octubre del 1934."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Segona República (1931-1936)**, **bienni radical-cedista o conservador** (1933-1936). Data concreta: **octubre del 1934**, la revolució que va esclatar el 5 d'octubre arran de l'entrada de tres ministres de la **CEDA** al govern de Lerroux, i que a Astúries va durar unes dues setmanes."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "La font se situa durant la Segona República (1931-1936), en el bienni radical-cedista o conservador (1933-1936). Després de la victòria de la dreta a les eleccions de novembre del 1933, els governs del Partit Radical de Lerroux, amb el suport parlamentari de la CEDA, van frenar les reformes del primer bienni. Quan l'octubre del 1934 tres ministres de la CEDA van entrar al govern, l'esquerra obrera ho va interpretar com el pas previ a l'arribada del feixisme, i el 5 d'octubre es va convocar una vaga general revolucionària. A Catalunya, el president Companys va proclamar l'Estat català dins de la República Federal Espanyola (6 d'octubre), i a Astúries els miners, units en l'Aliança Obrera (UGT, CNT i comunistes), van protagonitzar una autèntica revolució social que va ser sufocada a mitjan octubre. La fotografia és del 15 d'octubre, en el moment final de la repressió."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Descriviu el que es veu i relacioneu-ho amb els fets:\n\n1. **Descripció**: vista elevada del centre d'Oviedo; edificis sense teulada, façanes ennegrides i ruïnes (al centre, un gran edifici calcinat); carrers gairebé buits, amb alguns vianants.\n2. **Què va passar**: vaga general revolucionària del 5 d'octubre; a Astúries, els **miners** de l'**Aliança Obrera** (UGT, CNT, PCE) es van apoderar de les conques mineres i van ocupar **Oviedo**; comitès revolucionaris; combats molt durs.\n3. **Repressió**: el govern hi va enviar l'**exèrcit d'Àfrica** (Legió i regulars) dirigit pels generals **Goded i Franco**; uns 1.000-1.400 morts, prop de 30.000 detinguts, tortures.\n4. **Significat**: la imatge mostra la violència d'un enfrontament que fou un \"assaig\" de guerra civil i que va polaritzar la República."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "La fotografia mostra una vista elevada del centre de la ciutat d'Oviedo poc després dels combats. S'hi observen diversos edificis destruïts: en primer terme, un gran edifici sense teulada, amb l'interior calcinat i només les façanes dretes, i altres construccions malmeses al voltant. Els carrers apareixen gairebé buits, amb algunes persones que hi passegen, com si la vida tot just tornés a la ciutat. Són les destrosses que va causar la Revolució d'Astúries.\n\nEl 5 d'octubre de 1934, com a resposta a l'entrada de la CEDA al govern, les organitzacions obreres van convocar una vaga general revolucionària. A Astúries, on l'Aliança Obrera unia socialistes de la UGT, anarquistes de la CNT i comunistes, els miners armats amb dinamita es van apoderar de les conques mineres, van atacar les casernes de la Guàrdia Civil i van ocupar bona part d'Oviedo, on van formar comitès revolucionaris que van proclamar una revolució social. Els combats als carrers de la ciutat van ser molt violents: es van produir incendis i explosions que van destruir edificis emblemàtics, com la Universitat o la Cambra Santa de la catedral.\n\nEl govern de Lerroux va declarar l'estat de guerra i va enviar-hi l'exèrcit d'Àfrica (la Legió i els regulars), sota la direcció dels generals Goded i Franco. A mitjan octubre, quan es va fer aquesta fotografia, la revolució ja havia estat sufocada. El balanç va ser d'uns mil morts i milers de detinguts, amb una dura repressió posterior. La imatge reflecteix, doncs, la radicalització política del bienni conservador i la violència d'uns fets que molts historiadors consideren un precedent de la Guerra Civil."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Fotografia o imatge, font primària (0,25), on es veu el centre de la ciutat d'Oviedo amb edificis destruïts (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Segona República (1931-1936), en concret l'octubre del 1934, la Revolució d'Astúries."
+          },
+          {
+            "apartat": "c",
+            "valor": "La imatge mostra un conjunt d'edificis del centre d'Oviedo que han patit destrosses arran de la Revolució d'Astúries."
+          }
+        ],
+        "nota": "No confongueu els fets d'Astúries (revolució obrera) amb els fets de Catalunya del 6 d'octubre (proclamació de l'Estat català per Companys), tot i que són simultanis. La fotografia és del 15 d'octubre, al final dels fets: no la presenteu com si fos de la Guerra Civil (1936-1939), un anacronisme freqüent."
+      }
+    },
+    {
+      "id": "historia-2018-S-e1-q2a-a",
+      "exercici": 1,
+      "questio": "2a",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "L'adveniment de la Segona República, la Constitució del 1931 i el bienni reformista (1931-1933)",
+      "tema": "segona-republica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "eleccions municipals del 12 d'abril de 1931",
+        "govern provisional",
+        "constitució del 1931",
+        "bienni reformista",
+        "azaña",
+        "reforma agrària",
+        "casas viejas"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "",
+      "enunciat": "Opció A, exercici 1. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió a):\n\n**a)** Expliqueu l'adveniment de la Segona República, la Constitució del 1931 i el bienni 1931-1933. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió amb les conseqüències. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Hi ha tres elements: **adveniment**, **Constitució** (els dos primers fan el primer bloc de 1,25) i **bienni 1931-1933** (segon bloc, 1,25), fins al seu final el 1933."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Adveniment**: crisi de la monarquia després de la dictadura de Primo de Rivera (1923-1930); Pacte de Sant Sebastià (1930); **eleccions municipals del 12 d'abril de 1931**, victòria republicana a les ciutats; proclamació el **14 d'abril** (Macià a Barcelona); **Alfons XIII** abandona el país; **govern provisional** (Alcalá-Zamora).\n2. **Constitució (9 de desembre de 1931)**: Corts constituents (juny 1931); **sufragi universal** que inclou les **dones** (Clara Campoamor); Corts **unicamerals**; **Estat integral** que permet regions autònomes; **separació Església-Estat** i laïcitat; àmplia declaració de **drets**; Alcalá-Zamora president, Azaña cap de govern.\n3. **Bienni reformista (1931-1933)**: coalició **republicano-socialista** d'Azaña; reforma **militar** (llei Azaña); reformes **laborals** (Largo Caballero: jurats mixtos); **reforma agrària** (1932, IRA); qüestió **religiosa** (expulsió dels jesuïtes, Llei de congregacions, ensenyament laic, construcció d'escoles); **Estatut de Catalunya** (1932).\n4. **Problemes i final**: **Sanjurjada** (agost 1932); insurreccions anarquistes, **Casas Viejas** (gener 1933); desgast del govern; dimissió d'Azaña i eleccions de **novembre del 1933**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La dictadura de Primo de Rivera (1923-1930) havia desacreditat la monarquia d'Alfons XIII, que l'havia avalada. Després de la caiguda del dictador, les forces republicanes, socialistes i catalanistes es van comprometre en el **Pacte de Sant Sebastià** (agost del 1930) a portar la República. Les **eleccions municipals del 12 d'abril de 1931** es van convertir en un plebiscit sobre la monarquia: les candidatures republicanes van guanyar a la majoria de capitals de província. El **14 d'abril** es va proclamar la República (a Barcelona, Francesc Macià ho va fer unes hores abans, i proclamà la República catalana), el rei va abandonar el país i es va formar un **govern provisional** presidit per Niceto Alcalá-Zamora.\n\nLes Corts constituents, elegides el juny del 1931 amb majoria republicano-socialista, van aprovar la **Constitució del 9 de desembre de 1931**. Era una constitució democràtica i progressista: definia Espanya com una «república de treballadors de tota classe», establia la sobirania popular, el **sufragi universal masculí i femení** (les dones van votar per primera vegada el 1933, gràcies a la defensa de Clara Campoamor), unes **Corts unicamerals**, un **Estat integral** que permetia l'autonomia de les regions, la **separació entre l'Església i l'Estat**, el matrimoni civil i el divorci, i una àmplia declaració de **drets** individuals i socials. Alcalá-Zamora va ser elegit president de la República i Manuel Azaña cap del govern.\n\nEl **bienni reformista (1931-1933)** va ser governat per una coalició de republicans d'esquerra i socialistes presidida per **Azaña**. Va impulsar una **reforma militar** per reduir l'excés d'oficials i assegurar la fidelitat de l'exèrcit; **reformes laborals** de Largo Caballero (jurats mixtos, jornada de vuit hores al camp, llei de termes municipals); la **reforma agrària** del 1932, que volia repartir els latifundis del sud però va avançar molt lentament; i una política **laica**: expulsió dels jesuïtes, Llei de congregacions religioses, prohibició de l'ensenyament a les ordres i un gran esforç per construir escoles i formar mestres. També es va aprovar l'**Estatut d'autonomia de Catalunya** (setembre del 1932).\n\nEl govern va haver d'afrontar una forta oposició. La dreta i l'Església rebutjaven les reformes, i el general **Sanjurjo** va intentar un cop d'estat l'agost del 1932. A l'altre extrem, la CNT-FAI va protagonitzar insurreccions revolucionàries que van ser reprimides durament; la de **Casas Viejas** (gener del 1933), on les forces d'ordre van matar diversos camperols, va desgastar molt el govern. La lentitud de les reformes va desencantar els treballadors i la dreta es va reorganitzar a la CEDA. El 1933 la coalició es va trencar, Alcalá-Zamora va dissoldre les Corts i les **eleccions de novembre del 1933** van donar la victòria a la dreta, cosa que va posar fi al bienni reformista."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Adveniment de la República després de les eleccions municipals del 12 d'abril de 1931, marxa del rei, govern provisional i elaboració i aprovació de la Constitució: vot de les dones, Corts unicamerals, possibilitat de regions autònomes (Estat integral), separació Església-Estat, ampli reconeixement de drets (1,25). Primer bienni: coalició republicano-socialista, reformes militar, laboral, agrària, qüestió religiosa i ensenyament, problemes d'ordre públic i revolucionaris, i final el 1933 (1,25)."
+          }
+        ],
+        "nota": "No us oblideu d'explicar el final del bienni (eleccions de novembre del 1933), que les pautes demanen explícitament. Error típic: dir que les dones van votar a les eleccions del 1931 (les constituents): ho van fer per primer cop el novembre del 1933. No confongueu la Sanjurjada (1932) amb el cop del 1936."
+      }
+    },
+    {
+      "id": "historia-2018-S-e1-q2b-a",
+      "exercici": 1,
+      "questio": "2b",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Del bienni conservador al Front Popular: de les eleccions del 1933 a la vigília de la Guerra Civil",
+      "tema": "segona-republica",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "bienni conservador",
+        "ceda",
+        "lerroux",
+        "revolució d'octubre del 1934",
+        "fets del 6 d'octubre",
+        "front popular",
+        "eleccions de febrer del 1936"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "",
+      "enunciat": "Opció A, exercici 1. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió b):\n\n**b)** Expliqueu el període que va des de les eleccions del 1933 fins a l'esclat de la Guerra Civil, sense explicar aquest darrer fet. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió amb les conseqüències. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Atenció a la limitació de l'enunciat: arribeu fins a la conspiració colpista i l'assassinat de Calvo Sotelo (juliol del 1936), però **no** expliqueu el cop d'estat del 17-18 de juliol ni la guerra."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Eleccions de novembre del 1933**: victòria de la dreta (CEDA, primera força; Partit Radical); abstenció anarquista i desunió de l'esquerra; primer vot femení.\n2. **Governs radicals en minoria** (Lerroux, Samper) amb el **suport parlamentari de la CEDA** (Gil-Robles); **aturada de les reformes**: reforma agrària paralitzada, amnistia per als implicats en la Sanjurjada, contrareforma religiosa.\n3. **Octubre del 1934**: entrada de **tres ministres de la CEDA**; vaga general revolucionària; **Astúries** (Aliança Obrera, revolució social, repressió de l'exèrcit d'Àfrica amb Franco i Goded) i **Catalunya** (6 d'octubre: Companys proclama l'Estat català dins la República Federal; Batet; Govern de la Generalitat empresonat; **suspensió de l'Estatut**). Repressions posteriors. Conflicte de la **Llei de contractes de conreu** (1934).\n4. **Crisi del 1935**: escàndols de l'**estraperlo** i Nombela; caiguda del Partit Radical.\n5. **Eleccions del 16 de febrer de 1936**: victòria del **Front Popular** (Front d'Esquerres a Catalunya); amnistia, retorn del Govern de Companys; Azaña president de la República, Casares Quiroga cap de govern.\n6. **Primavera del 1936**: conflictivitat (ocupacions de terres, vagues, violència entre Falange i esquerra); **conspiració militar** (general **Mola**, «el director»); assassinats del tinent Castillo i de **Calvo Sotelo** (13 juliol)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Les **eleccions de novembre del 1933**, les primeres en què van votar les dones, van donar la victòria a la dreta. La **CEDA** de José María Gil-Robles va ser el partit més votat i el **Partit Radical** d'Alejandro Lerroux el segon, mentre que l'esquerra, desunida i amb l'abstenció anarquista, va retrocedir. Com que el president Alcalá-Zamora desconfiava de la CEDA, que no s'havia declarat republicana, va encarregar el govern a Lerroux, que va presidir **governs radicals en minoria amb el suport parlamentari de la CEDA**. Aquests governs van **aturar o revertir les reformes** del bienni anterior: van paralitzar la reforma agrària i van retornar terres als grans propietaris, van frenar la política laica i van amnistiar els implicats en la Sanjurjada.\n\nL'octubre del 1934, la CEDA va exigir entrar al govern i **tres ministres cedistes** en van passar a formar part. L'esquerra ho va interpretar com l'avançada del feixisme i el 5 d'octubre es va convocar una **vaga general revolucionària**. A **Astúries**, els miners de l'Aliança Obrera (UGT, CNT i comunistes) van iniciar una revolució social, van ocupar les conques mineres i Oviedo i hi van crear comitès revolucionaris; el govern hi va enviar l'exèrcit d'Àfrica, dirigit per Franco i Goded, que la va reprimir durament (més d'un miler de morts i milers de detinguts). A **Catalunya**, on ja hi havia tensió amb el govern central per la **Llei de contractes de conreu** (anul·lada pel Tribunal de Garanties Constitucionals), el president **Lluís Companys** va proclamar el 6 d'octubre «l'Estat català dins la República Federal Espanyola». El general Batet va sufocar el moviment en poques hores; el Govern de la Generalitat va ser empresonat i condemnat i l'**Estatut va quedar suspès**. La repressió posterior, a Astúries i a Catalunya, va omplir les presons de milers de detinguts.\n\nEl 1935 el Partit Radical es va enfonsar per escàndols de corrupció com el de l'**estraperlo**. Alcalá-Zamora va dissoldre les Corts i va convocar eleccions per al **16 de febrer de 1936**. Les esquerres es van presentar unides en el **Front Popular** (a Catalunya, el Front d'Esquerres), amb un programa d'amnistia i represa de les reformes, i van guanyar. Azaña va formar govern i, poc després, va ser elegit president de la República (Casares Quiroga, cap de govern). Es va concedir l'amnistia, Companys i el seu govern van tornar a la Generalitat i es van reprendre la reforma agrària i les altres reformes.\n\nLa **primavera del 1936** va ser de gran conflictivitat: ocupacions de terres a l'Extremadura i Andalusia, vagues, enfrontaments de carrer entre pistolers falangistes i militants d'esquerra, i atemptats. Mentrestant, un sector de l'exèrcit, coordinat pel general **Mola**, preparava una **conspiració colpista** amb el suport de la dreta monàrquica, carlista i falangista. L'assassinat del tinent Castillo, de la Guàrdia d'Assalt, i, com a represàlia, del líder monàrquic **José Calvo Sotelo** (13 de juliol de 1936) va precipitar els esdeveniments."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Eleccions de novembre del 1933 i resultats, governs del Partit Radical en minoria amb suports parlamentaris, aturada de reformes del període anterior, entrada de ministres de la CEDA l'octubre del 1934 (1,25). Fets d'Astúries i de Catalunya, explicats, amb les repressions posteriors; eleccions de febrer del 1936, conflictivitat de la primavera del 1936 i conspiració colpista, sense explicar l'esclat de la guerra (1,25)."
+          }
+        ],
+        "nota": "No expliqueu el cop d'estat ni la guerra: l'enunciat ho exclou. Error típic: confondre les dates (eleccions de novembre del 1933 i de febrer del 1936). Recordeu que el 1934 a Catalunya Companys proclamà l'Estat català «dins la República Federal Espanyola», no la independència."
+      }
+    },
+    {
+      "id": "historia-2018-S-e2-q1-a",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 2.5,
+      "titol": "Ordre de retirar els rètols en català a Mataró (El Correo Catalán, 23 de juny de 1939)",
+      "tema": "franquisme",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "repressió lingüística",
+        "primer franquisme",
+        "castellanització",
+        "premsa",
+        "comentari de text"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2
+      ],
+      "text": "**El franquisme a Catalunya**\n\nMataró. Rotulaciones en catalán:\n\nPor orden del señor Comandante Militar, esta Alcaldía pone en conocimiento del vecindario de esta ciudad que se concede un plazo de ocho días […] para que hagan desaparecer los rótulos en catalán colocados en establecimientos y vía pública, los cuales deberán aparecer redactados en castellano, lengua oficial española.\n\n*Font:* *El Correo Catalán* [Barcelona] (23 juny 1939), p. 4.",
+      "enunciat": "Opció A, exercici 2 (cal escollir UNA de les dues opcions, A o B, i fer-ne els dos exercicis). Pregunta 1: observeu la font i responeu a les qüestions a), b) i c).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Identifiqueu el tipus de font i digueu de què tracta.",
+          "punts": 0.75
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu quin és el context històric de la font.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "Comenteu el contingut de la font.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "La Pregunta 1 és un comentari de font en tres passos (2,5 punts en total). **a)** (0,75): classificar la font (primària/secundària i tipus: fotografia, text juridicopolític, premsa, cartell...) i dir de què tracta; les pautes donen 0,25 per la classificació i 0,50 pel contingut. **b)** (0,75): situar-la en el seu context (període, etapa, data concreta). **c)** (1): comentar el contingut relacionant-lo amb el context. Responeu cada apartat per separat i amb la seva lletra. Extensió orientativa: 4-6 línies per a a) i b) i 10-15 per a c). Temps: uns 20-25 minuts (l'examen dura 1,5 h per als dos exercicis de l'opció). Error típic: descriure la font sense datar-la ni situar-la, o fer al b) un context tan general que no expliqui la font."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Tipus de font**: primària (contemporània dels fets), text públic de caràcter **periodístic i polític**: una **nota de l'alcaldia de Mataró** publicada a *El Correo Catalán* (Barcelona) el **23 de juny de 1939**. **Tema**: l'ordre de retirar els rètols en català."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Es tracta d'una font primària, contemporània dels fets, d'un document públic de caràcter periodístic i polític: una nota de l'alcaldia de Mataró, publicada al diari *El Correo Catalán* de Barcelona el 23 de juny de 1939. La nota, dictada per ordre del comandant militar, comunica als veïns que tenen un termini de vuit dies per fer desaparèixer els rètols en català dels establiments i de la via pública i substituir-los per rètols en castellà."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Franquisme (1939-1975)**, a Catalunya, en el **primer any del règim** (juny del 1939): menys de tres mesos després del final de la Guerra Civil (1 d'abril de 1939) i cinc mesos després de l'ocupació de Barcelona (26 de gener de 1939). Autoritats militars, abolició de l'Estatut, repressió."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "La font se situa al principi del període franquista (1939-1975), en el primer any del règim, el juny del 1939. Les tropes franquistes havien ocupat Barcelona el 26 de gener i la resta de Catalunya el febrer, i la guerra s'havia acabat oficialment l'1 d'abril. Catalunya estava sota control de les autoritats militars d'ocupació, que governaven a través dels comandaments militars locals i dels nous ajuntaments franquistes. El règim, que ja el 1938 havia abolit l'Estatut d'autonomia, va iniciar una política de repressió sistemàtica contra els vençuts i contra tot allò que identificava amb el catalanisme, inclosa la llengua catalana."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Qui ordena**: l'alcaldia de Mataró, però **per ordre del comandant militar**: el poder real és l'exèrcit d'ocupació; l'ajuntament n'és executor.\n2. **Què ordena**: en un termini de **vuit dies**, retirar els **rètols en català** d'establiments i via pública i substituir-los per rètols en **castellà**, «lengua oficial española».\n3. **Interpretació**: part d'una política de **genocidi cultural** o castellanització: prohibició del català en l'ús públic, l'administració, l'escola, la premsa; canvi del nom de carrers i pobles; \"Hable usted la lengua del Imperio\"; nacionalisme espanyol uniformista (\"una, grande y libre\").\n4. **Significat**: la llengua és vista com a símbol del catalanisme i de la República, vençuts."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "La nota mostra com, pocs mesos després de l'ocupació de Catalunya, les noves autoritats franquistes van emprendre la persecució de la llengua catalana en l'espai públic. Formalment és l'alcaldia de Mataró qui s'adreça als veïns, però ho fa «por orden del señor Comandante Militar»: això indica que el poder real estava en mans de l'exèrcit, i que els ajuntaments, ocupats per autoritats addictes al règim, n'eren simples executors.\n\nL'ordre és clara i immediata: en un termini de vuit dies els comerços i els particulars havien de fer desaparèixer tots els rètols en català dels establiments i de la via pública i substituir-los per rètols «redactados en castellano, lengua oficial española». La insistència a qualificar el castellà de llengua oficial suggereix que el català quedava exclòs de qualsevol ús públic.\n\nAquesta mesura forma part d'una política més àmplia de repressió lingüística i cultural: el català va ser prohibit a l'administració, a l'escola, a la premsa i la ràdio i en els actes públics; es van castellanitzar els noms dels carrers, dels pobles i fins i tot de les persones; es van fer campanyes amb consignes com «Si eres español, habla español» o «Habla la lengua del Imperio», i es van tancar institucions culturals catalanes. El règim considerava la llengua catalana un símbol del separatisme i de la República vençuda i volia imposar un nacionalisme espanyol uniformista. La paradoxa que la nota aparegui a *El Correo Catalán*, un diari catòlic i tradicionalista que havia de publicar-se en castellà, també il·lustra la nova situació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Font primària (0,25): document públic de caràcter periodístic i polític, una nota de l'alcaldia de Mataró publicada a *El Correo Catalán* de Barcelona el 23 de juny de 1939 (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Període franquista (1939-1975), a Catalunya, en el primer any del règim."
+          },
+          {
+            "apartat": "c",
+            "valor": "La nota de l'alcaldia resulta d'una ordre del comandament militar i dona un termini de vuit dies perquè els rètols en català desapareguin i siguin substituïts per altres en castellà, la llengua oficial del règim."
+          }
+        ],
+        "nota": "No us limiteu a traduir la nota: cal remarcar que l'ordre ve del comandament militar i relacionar-la amb la repressió de la llengua i la cultura catalanes. Les pautes situen el context «a Barcelona»; en realitat la nota és de l'alcaldia de Mataró (Maresme, província de Barcelona) publicada en un diari de Barcelona."
+      }
+    },
+    {
+      "id": "historia-2018-S-e2-q2a-a",
+      "exercici": 2,
+      "questio": "2a",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "La repressió franquista a Catalunya i l'oposició política i cultural fins al 1975",
+      "tema": "franquisme",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "repressió franquista",
+        "llei de responsabilitats polítiques",
+        "consells de guerra",
+        "maquis",
+        "comissions obreres",
+        "assemblea de catalunya",
+        "repressió lingüística"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "",
+      "enunciat": "Opció A, exercici 2. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió a):\n\n**a)** Expliqueu la repressió franquista a Catalunya. Expliqueu també l'oposició política i cultural al règim de Franco a Catalunya fins al 1975. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió amb les conseqüències. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Dos blocs equivalents: **repressió** (sobre els vençuts i sobre la llengua i la cultura) i **oposició** (de la postguerra fins al 1975). Ordeneu l'oposició cronològicament."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Repressió política** sobre els vençuts: **consells de guerra** sumaríssims (Companys afusellat el 15 d'octubre de 1940 a Montjuïc; uns 3.400 afusellats a Catalunya); **Llei de responsabilitats polítiques** (1939); **Llei de repressió de la maçoneria i el comunisme** (1940); camps de concentració, presons, batallons de treballadors; **depuracions** de funcionaris i mestres; exili.\n2. **Repressió cultural i lingüística**: abolició de l'Estatut i de la Generalitat; prohibició del català en l'ús públic i a l'**ensenyament**; castellanització de noms; persecució de símbols (sardana, senyera, institucions com l'IEC).\n3. **Oposició dels primers temps**: Generalitat a l'exili (Irla, Tarradellas); partits clandestins (PSUC, CNT, ERC, FNC); **maquis** o guerrilla (vall d'Aran 1944; Sabaté, Facerías); **vaga de tramvies (1951)**; resistència cultural (Montserrat 1947, revistes clandestines).\n4. **Anys seixanta i setanta**: **Fets del Palau (1960)** i Pujol; **Òmnium Cultural** (1961), **Nova Cançó**, Església de base (abat **Escarré**); **Comissions Obreres** (1964); moviment estudiantil (**Caputxinada**, 1966); moviment veïnal; camperols (Unió de Pagesos, 1974); **Assemblea de Catalunya (1971)**: «Llibertat, amnistia, Estatut d'autonomia»; Puig Antich (1974)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Després de l'ocupació de Catalunya el gener i febrer del 1939, el franquisme va aplicar una **repressió** sistemàtica contra els vençuts. Milers de persones van ser jutjades en **consells de guerra** sumaríssims, sense garanties: a Catalunya en van ser afusellades unes 3.400, la majoria al Camp de la Bota i a Montjuïc, on el 15 d'octubre de 1940 va ser executat el president de la Generalitat **Lluís Companys**, lliurat per la Gestapo. La **Llei de responsabilitats polítiques** (febrer del 1939) castigava amb multes, confiscacions i inhabilitacions els qui havien donat suport a la República, i la **Llei de repressió de la maçoneria i el comunisme** (1940) perseguia qualsevol opositor. Les presons i els camps de concentració es van omplir, molts presos van ser obligats a treballar en batallons de treballadors, i els funcionaris i mestres van ser sotmesos a **depuracions**. Desenes de milers de catalans van marxar a l'exili.\n\nLa repressió també es va adreçar contra la **identitat catalana**. Es van abolir l'Estatut i la Generalitat, i el català va ser **prohibit** en l'ús públic, a l'administració i a l'**ensenyament**; es van castellanitzar els noms de carrers i pobles, es van tancar institucions culturals i es van perseguir símbols com la senyera. A partir dels anys quaranta es va tolerar un ús limitat del català en l'àmbit privat i literari.\n\nL'**oposició dels primers temps** va ser minoritària i perillosa. La Generalitat es va mantenir a l'exili (Josep Irla i, des del 1954, Josep Tarradellas). Els partits i sindicats clandestins (PSUC, CNT, ERC, el Front Nacional de Catalunya) van patir caigudes constants. Entre el 1944 i els anys cinquanta, la guerrilla o **maquis** va intentar la lluita armada, amb la invasió de la vall d'Aran (1944) i grups llibertaris urbans com els de Quico Sabaté i Facerías. El **boicot als tramvies de Barcelona (1951)** va ser la primera gran protesta massiva. La resistència cultural es va manifestar en actes com l'entronització de la Mare de Déu de Montserrat (1947).\n\nDes de finals dels anys cinquanta l'oposició va créixer i es va fer més massiva. En l'àmbit cultural i catalanista hi van tenir un paper clau els **Fets del Palau (1960)**, que van portar Jordi Pujol a la presó, la creació d'**Òmnium Cultural** (1961), la **Nova Cançó** i sectors de l'Església, com l'abat **Escarré** de Montserrat. La nova classe obrera es va organitzar en **Comissions Obreres** (1964), que s'infiltraven al sindicat vertical i convocaven vagues. Els estudiants van crear el Sindicat Democràtic d'Estudiants de la Universitat de Barcelona a la **Caputxinada** (1966); als barris van sorgir les associacions de veïns, i al camp, la Unió de Pagesos (1974). El 1971 es va fundar l'**Assemblea de Catalunya**, una plataforma unitària de partits, sindicats i entitats amb el lema «Llibertat, amnistia i Estatut d'autonomia». El règim va respondre amb repressió fins al final, com mostra l'execució de Salvador Puig Antich (1974), però a la mort de Franco (1975) l'oposició catalana tenia un ampli suport social."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Repressió sobre els vençuts: consells de guerra, Llei de responsabilitats polítiques, Llei de repressió de la maçoneria i el comunisme i depuracions; repressió de la llengua i cultura catalanes, prohibició del seu ús públic i ensenyament i d'altres trets culturals (1,25). Oposició antifranquista dels primers temps, maquis, represa de la lluita per l'autonomia i creixement de l'oposició política a finals dels seixanta i primera meitat dels setanta, d'arrel obrera, veïnal, estudiantil i camperola (1,25)."
+          }
+        ],
+        "nota": "Cal tractar tant l'oposició política com la cultural. Error típic: presentar l'oposició com si fos homogènia al llarg de tot el període: la dels anys quaranta (exili, maquis) és molt diferent de la dels seixanta i setanta (de masses). L'Assemblea de Catalunya és del 1971, no de la Transició."
+      }
+    },
+    {
+      "id": "historia-2018-S-e2-q2b-a",
+      "exercici": 2,
+      "questio": "2b",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Les dues polítiques econòmiques del franquisme (autarquia i desarrollisme) i els seus efectes a Catalunya",
+      "tema": "franquisme",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "autarquia",
+        "racionament",
+        "estraperlo",
+        "pla d'estabilització",
+        "desarrollisme",
+        "immigració",
+        "tecnòcrates"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "",
+      "enunciat": "Opció A, exercici 2. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió b):\n\n**b)** Expliqueu les dues polítiques econòmiques que aplicà el règim franquista durant el temps que va ser vigent i els efectes que va tenir a Catalunya. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió amb les conseqüències. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Les **dues polítiques** són l'**autarquia** (1939-1959) i el **desarrollisme** (1959-1975). Per a cadascuna, expliqueu-ne les mesures i, sobretot, els **efectes a Catalunya**."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Autarquia (1939-1959)**: autosuficiència econòmica i **intervencionisme** extrem (influència feixista i aïllament internacional); INI (1941); control de preus, de comerç exterior i d'importacions; **racionament** (cartilles fins al 1952) i **estraperlo** (mercat negre).\n2. **Efectes a Catalunya**: indústria tèxtil i metal·lúrgica dependent de **matèries primeres i energia importades** → restriccions elèctriques, manca de cotó, estancament; «anys de la fam», salaris baixos, misèria; enriquiment d'estraperlistes; primera immigració.\n3. **Desarrollisme (1959-1975)**: crisi de l'autarquia, governs dels **tecnòcrates** de l'Opus Dei (1957); **Pla d'Estabilització (1959)**: devaluació, liberalització, inversió estrangera; **Plans de Desenvolupament** (1964); context internacional favorable.\n4. **Efectes a Catalunya**: forta **industrialització** (SEAT, química, electrodomèstics), turisme, **immigració** interior massiva (Andalusia, Múrcia...) i **emigració** exterior; urbanització desordenada, barraquisme, **manca d'equipaments**; societat de consum."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Durant els seus gairebé quaranta anys d'existència, el règim franquista va aplicar dues polítiques econòmiques molt diferents.\n\nLa primera va ser l'**autarquia** (1939-1959). Inspirada en el feixisme italià i afavorida per l'aïllament internacional després de la Segona Guerra Mundial, pretenia que Espanya fos autosuficient i produís tot el que necessitava. Es basava en un **intervencionisme** extrem de l'Estat: control dels preus i dels salaris, restricció de les importacions, licències administratives per a qualsevol activitat i creació de l'Institut Nacional d'Indústria (INI, 1941) per impulsar la indústria pesant. El resultat va ser desastrós: la producció va trigar anys a recuperar els nivells del 1935, hi va haver escassetat de tot i es va instaurar el **racionament** amb cartilles (fins al 1952). En paral·lel es va estendre l'**estraperlo**, el mercat negre on es venien els productes a preus molt superiors, que va enriquir uns pocs especuladors vinculats al règim.\n\nA **Catalunya** l'autarquia va tenir efectes especialment greus. La seva indústria, sobretot tèxtil i metal·lúrgica, depenia de la importació de **matèries primeres** (cotó) i d'energia, que ara arribaven amb comptagotes, de manera que les fàbriques patien aturades i restriccions elèctriques. Els salaris reals eren molt baixos i bona part de la població va viure els «anys de la fam», amb malalties com la tuberculosi i barraquisme. Malgrat tot, Catalunya va continuar rebent immigrants, sobretot del sud.\n\nA finals dels anys cinquanta l'autarquia havia portat el país a la fallida. El 1957 Franco va incorporar al govern els **tecnòcrates** de l'Opus Dei, que van aprovar el **Pla d'Estabilització del 1959**: devaluació de la pesseta, liberalització del comerç exterior, obertura a la inversió estrangera i control de la inflació. Seguiren els **Plans de Desenvolupament** (des del 1964). S'iniciava el **desarrollisme**, una etapa de creixement econòmic molt ràpid fins a la crisi del 1973, impulsat pel context internacional, el turisme, les remeses dels emigrants i la inversió estrangera.\n\nCatalunya en va ser un dels motors: la **industrialització** es va accelerar i diversificar (automòbil amb la SEAT, química, electrodomèstics) i el turisme va transformar la costa. Aquest creixement va provocar una gran **immigració interior**: més d'un milió de persones d'Andalusia, Múrcia, Extremadura i Galícia es van instal·lar a l'àrea de Barcelona, mentre milers d'altres espanyols **emigraven** a Europa. La urbanització va ser ràpida i especulativa, amb polígons d'habitatges de mala qualitat i una gran **manca d'equipaments** (escoles, hospitals, transport). La societat catalana es va modernitzar i es va estendre el consum, però també van créixer les desigualtats i els conflictes socials."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Política autàrquica i extremament intervencionista dels inicis del règim, racionament i estraperlo, amb efectes desastrosos per a l'economia i la majoria de la població catalana, territori molt dependent de les importacions de matèries primeres (1,25). Política desarrollista de finals dels cinquanta, Pla d'Estabilització, increment del creixement i de la industrialització, amb emigració interior i exterior i manca d'equipaments, amb especial incidència a Catalunya (1,25)."
+          }
+        ],
+        "nota": "Cal anomenar explícitament les dues polítiques (autarquia i desarrollisme) i no oblidar els efectes a Catalunya, que són la meitat de la pregunta. No confongueu el Pla d'Estabilització (1959) amb els Plans de Desenvolupament (1964)."
+      }
+    },
+    {
+      "id": "historia-2018-S-e1-q1-b",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 2.5,
+      "titol": "Les Bases de Manresa (1892): la proposta d'autogovern de la Unió Catalanista",
+      "tema": "segle-xix",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "bases de manresa",
+        "unió catalanista",
+        "catalanisme polític",
+        "restauració",
+        "prat de la riba",
+        "sufragi corporatiu",
+        "comentari de text"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "**Bases de Manresa**\n\nPODER CENTRAL\n\n**Base primera.** […] Vindran a càrrec del Poder central:\n\n*a*) Les relacions internacionals.  \n*b*) L'exèrcit de mar i terra […].  \n*c*) Les relacions econòmiques d'Espanya amb los demés països […].  \n[…]  \n*e*) La resolució de totes les qüestions i tots els conflictes interregionals.  \n[…]\n\nEl Poder central s'organitzarà d'acord amb el concepte de separació de les funcions legislativa, executiva i judicial.\n\n[…]\n\nPODER REGIONAL\n\n**Base segona.** En la part dogmàtica de la Constitució Regional Catalana es mantindrà lo temperament expansiu de la nostra legislació antiga, reformant, per a posar-les d'acord amb les noves necessitats, les sàvies disposicions que conté respecte dels drets i llibertats dels catalans.\n\n**Base tercera.** La llengua catalana serà l'única que, amb caràcter oficial, podrà usar-se a Catalunya i en les relacions d'aquesta regió amb lo Poder central.\n\n[…]\n\n**Base setena.** Lo Poder legislatiu regional radicarà en les Corts catalanes […].\n\nLes Corts es formaran per sufragi de tots los caps de casa agrupats en classes fundades en lo treball manual, en la capacitat o en les carreres professionals i en la propietat, indústria i comerç […].\n\n*Font:* Unió Catalanista. *Bases per a la Constitució Regional Catalana*. Manresa, 1892.",
+      "enunciat": "Opció B, exercici 1 (cal escollir UNA de les dues opcions, A o B, i fer-ne els dos exercicis). Pregunta 1: observeu la font i responeu a les qüestions a), b) i c).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Identifiqueu el tipus de font i digueu de què tracta.",
+          "punts": 0.75
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu quin és el context històric de la font.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "Expliqueu la proposta d'organització política per a Catalunya que conté la font.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "La Pregunta 1 és un comentari de font en tres passos (2,5 punts en total). **a)** (0,75): classificar la font (primària/secundària i tipus: fotografia, text juridicopolític, premsa, cartell...) i dir de què tracta; les pautes donen 0,25 per la classificació i 0,50 pel contingut. **b)** (0,75): situar-la en el seu context (període, etapa, data concreta). **c)** (1): comentar el contingut relacionant-lo amb el context. Responeu cada apartat per separat i amb la seva lletra. Extensió orientativa: 4-6 línies per a a) i b) i 10-15 per a c). Temps: uns 20-25 minuts (l'examen dura 1,5 h per als dos exercicis de l'opció). Error típic: descriure la font sense datar-la ni situar-la, o fer al b) un context tan general que no expliqui la font."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Tipus de font**: primària (contemporània dels fets), text **polític i públic**: fragment de les **Bases per a la Constitució Regional Catalana**, aprovades per la **Unió Catalanista** a **Manresa el 1892**. **Tema**: un model d'organització política de Catalunya dins l'Estat espanyol (repartiment de competències entre poder central i poder regional)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Es tracta d'una font primària, contemporània dels fets, de caràcter polític i públic: un fragment de les *Bases per a la Constitució Regional Catalana*, conegudes com a Bases de Manresa, aprovades per l'assemblea de la Unió Catalanista a Manresa el març del 1892. El text planteja un model d'organització política per a Catalunya dins l'Estat espanyol: distribueix les competències entre el poder central i el poder regional català i defineix les institucions catalanes."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Restauració**, primera etapa (**1875-1898**), sota la regència de Maria Cristina; sistema canovista i torn de partits. **Catalanisme polític** en formació: Renaixença, Centre Català (1882), Memorial de Greuges (1885), Lliga de Catalunya (1887), **Unió Catalanista (1891)**; debat del Codi Civil (1889)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Les Bases de Manresa se situen a la primera etapa de la Restauració borbònica (1875-1898), durant la regència de Maria Cristina. El sistema polític dissenyat per Cánovas del Castillo es basava en la Constitució del 1876, el centralisme i el torn pacífic entre conservadors i liberals, garantit pel caciquisme i el frau electoral. A Catalunya, al mateix temps, s'estava formant el catalanisme polític: a partir del moviment cultural de la Renaixença, Valentí Almirall havia fundat el Centre Català (1882) i impulsat el Memorial de Greuges (1885); el 1887 sectors conservadors van crear la Lliga de Catalunya i el 1891 diverses entitats catalanistes es van unir en la Unió Catalanista, que a la seva primera assemblea, a Manresa el 1892, va aprovar aquestes Bases, en l'elaboració de les quals va tenir un paper destacat el jove Enric Prat de la Riba, secretari de l'assemblea presidida per Lluís Domènech i Montaner."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Expliqueu la proposta tot seguint les bases del text:\n\n1. **Marc**: Catalunya dins d'Espanya, amb una **Constitució Regional Catalana** pròpia (model descentralitzat, de tipus confederal/regionalista).\n2. **Poder central** (base 1a): només relacions internacionals, exèrcit, relacions econòmiques exteriors i conflictes interregionals; organitzat segons la separació de poders.\n3. **Poder regional**: part dogmàtica amb drets i llibertats basats en la **legislació antiga** catalana (base 2a); **català, única llengua oficial** (base 3a); **poder legislatiu a les Corts catalanes** (base 7a), antecedent de les Corts medievals.\n4. **Sufragi corporatiu** (base 7a): no censatari ni universal, sinó dels **caps de casa** agrupats per classes (treball manual, capacitat o professions, propietat, indústria i comerç): model conservador i tradicionalista.\n5. **Valoració**: primer projecte d'autogovern del catalanisme; caràcter conservador i tradicionalista; antecedent de la Lliga Regionalista."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "Les Bases de Manresa proposen una organització política per a Catalunya basada en una **Constitució Regional Catalana** pròpia, dins de l'Estat espanyol però amb una àmplia autonomia. El text divideix les competències entre dos nivells.\n\nAl **poder central** li corresponen només unes poques funcions, enumerades a la base primera: les relacions internacionals, l'exèrcit de mar i terra, les relacions econòmiques d'Espanya amb altres països i la resolució dels conflictes entre regions. Aquest poder s'havia d'organitzar segons el principi liberal de la separació dels poders legislatiu, executiu i judicial. Tot el que no s'hi esmenta quedaria, per tant, en mans del poder regional.\n\nEl **poder regional** català tindria una Constitució amb una part dogmàtica que recuperaria els drets i les llibertats de l'antiga legislació catalana, actualitzats a les noves necessitats (base segona): això reflecteix la defensa del dret propi, que s'havia mobilitzat el 1889 contra el Codi Civil. La base tercera estableix que el **català seria l'única llengua oficial** a Catalunya i en les relacions amb el poder central. El poder legislatiu residiria en unes **Corts catalanes** (base setena), que es presenten com a hereves de les Corts medievals de la Corona d'Aragó.\n\nLes Corts no s'elegirien per sufragi universal, que existia a Espanya des del 1890, ni censatari, sinó per un **sufragi corporatiu**: votarien els **caps de casa** agrupats en classes segons el treball manual, la capacitat o les professions i la propietat, la indústria i el comerç. Aquesta proposta mostra el caràcter **conservador i tradicionalista** del catalanisme de la Unió Catalanista, que desconfiava del parlamentarisme liberal i del sistema caciquista de la Restauració. Les Bases van ser el primer programa d'autogovern del catalanisme polític i un referent per a la Lliga Regionalista."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Font primària (contemporània dels fets), fragment d'un document públic de caire polític (0,25), que planteja un model d'organització política de Catalunya dins l'Estat espanyol, les Bases de Manresa (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Bases de Manresa (1892), dins la primera etapa de la Restauració (1875-1898) i el catalanisme polític."
+          },
+          {
+            "apartat": "c",
+            "valor": "Organització política de Catalunya basada en una Constitució regional pròpia, amb poder legislatiu per a un parlament propi, les Corts catalanes (antecedent: les Corts medievals), formades per sufragi corporatiu (no censatari ni universal), i amb el català com a única llengua oficial."
+          }
+        ],
+        "nota": "Error típic: dir que les Bases són independentistes: proposen autonomia dins d'Espanya. No confongueu les Bases de Manresa (1892, Unió Catalanista) amb el Memorial de Greuges (1885, Centre Català). Remarqueu el sufragi corporatiu (no universal), que és el tret conservador més clar."
+      }
+    },
+    {
+      "id": "historia-2018-S-e1-q2a-b",
+      "exercici": 1,
+      "questio": "2a",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Els corrents ideològics i polítics del catalanisme durant la Restauració fins al 1901",
+      "tema": "segle-xix",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "renaixença",
+        "valentí almirall",
+        "torras i bages",
+        "lliga de catalunya",
+        "unió catalanista",
+        "lliga regionalista",
+        "catalanisme federal",
+        "catalanisme conservador"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Opció B, exercici 1. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió a):\n\n**a)** Expliqueu els orígens i les característiques principals dels diferents corrents ideològics i polítics del catalanisme durant la Restauració fins al 1901. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió amb les conseqüències. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. La pregunta és de **corrents ideològics** (no un simple relat de fets): per a cada corrent digueu-ne l'origen, els líders, les obres i les idees. Acabeu el 1901 amb la Lliga Regionalista."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Orígens culturals: la Renaixença** (des de l'*Oda a la Pàtria* d'Aribau, 1833): vessant **elitista** (Jocs Florals, 1859) i **popular** (teatre, premsa satírica, Clavé i els cors).\n2. **Catalanisme federalista i progressista**: arrel en el **federalisme** de Pi i Margall; **Valentí Almirall**: *Diari Català* (1879), Centre Català (1882), ***Lo Catalanisme* (1886)**: particularisme, interclassisme.\n3. **Catalanisme catòlic i tradicionalista**: **escola de Vic** (Jaume Collell, *La Veu del Montserrat*); **Josep Torras i Bages** (futur bisbe de Vic), ***La tradició catalana* (1892)**: Catalunya com a ens natural, catolicisme, família, foralisme.\n4. **Catalanisme conservador**: **Lliga de Catalunya (1887)**, escissió del Centre Català (Àngel Guimerà, Narcís Verdaguer, joves del Centre Escolar Catalanista com Prat de la Riba i Cambó); Missatge a la Regent (1888).\n5. **Unió Catalanista (1891)**: Bases de Manresa (1892); **polèmica interna** entre partidaris i contraris de l'acció política electoral (apoliticisme).\n6. **Regionalisme polític**: després del 1898, **burgesia industrial**: **Unió Regionalista (1899)** (Polavieja, Tancament de Caixes); **Centre Nacional Català (1899)** (Prat de la Riba, Cambó, escissió de la Unió Catalanista); fusió en la **Lliga Regionalista (1901)**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El catalanisme polític que es va desenvolupar durant la Restauració tenia uns **orígens culturals** en la **Renaixença**, el moviment de recuperació de la llengua i la cultura catalanes iniciat convencionalment amb l'*Oda a la Pàtria* de Bonaventura Carles Aribau (1833). La Renaixença va tenir un vessant **elitista**, culte i sovint conservador, simbolitzat pels **Jocs Florals** restaurats el 1859, i un vessant més **popular**, amb el teatre de Frederic Soler (Pitarra), la premsa satírica i els cors de Clavé. Durant el Sexenni i la primera Restauració aquest moviment cultural va anar adquirint un contingut polític i es va diversificar en diferents corrents.\n\nEl primer corrent va ser el **catalanisme d'arrel federalista**, progressista i republicà. El seu principal protagonista va ser **Valentí Almirall**, procedent del federalisme de Pi i Margall, que va fundar el *Diari Català* (1879), el primer diari en català, i el **Centre Català** (1882). A la seva obra ***Lo Catalanisme* (1886)** defensava un catalanisme particularista i interclassista, que reivindicava l'autonomia de Catalunya dins d'un Estat espanyol descentralitzat i modern.\n\nUn segon corrent era el **catalanisme catòlic i tradicionalista**, articulat al voltant de l'**escola de Vic** i del canonge Jaume Collell (*La Veu del Montserrat*). La seva figura central va ser **Josep Torras i Bages**, futur bisbe de Vic, que a ***La tradició catalana* (1892)** presentava Catalunya com una realitat natural i cristiana, basada en la família, la religió i les tradicions forals, i rebutjava el liberalisme i el centralisme.\n\nEl 1887, els sectors més conservadors del Centre Català, en desacord amb Almirall, en van sortir i van fundar la **Lliga de Catalunya**, amb Àngel Guimerà i els joves del Centre Escolar Catalanista (Enric Prat de la Riba, Francesc Cambó). Aquest corrent conservador va adreçar el **Missatge a la Reina Regent** (1888) i el 1891 va impulsar la **Unió Catalanista**, una federació d'entitats que el 1892 va aprovar les **Bases de Manresa**. Dins de la Unió hi havia una **polèmica** entre els qui volien mantenir-se al marge de la política electoral, considerada corrupta pel caciquisme, i els qui volien participar-hi.\n\nFinalment, després del **Desastre del 1898**, sectors importants de la **burgesia industrial i econòmica** van passar a donar suport al catalanisme. Es van agrupar a la **Unió Regionalista** (1899), que havia donat suport al general Polavieja i va protagonitzar el Tancament de Caixes. Paral·lelament, els joves partidaris de l'acció política que havien sortit de la Unió Catalanista van crear el **Centre Nacional Català** (1899), dirigit per Prat de la Riba i Cambó. El 1901 tots dos grups es van fusionar en la **Lliga Regionalista**, un partit catalanista conservador i interclassista que aquell mateix any va guanyar les eleccions a Barcelona i que dominaria la política catalana durant dues dècades."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Orígens culturals del catalanisme a la Renaixença, vessant elitista i popular; catalanisme d'arrel federalista amb Valentí Almirall (*Lo Catalanisme*, 1886) i catalanisme d'arrels catòliques de la tradició vigatana amb Torras i Bages (*La tradició catalana*, 1892) (1,25). Lliga de Catalunya (1887), Unió Catalanista (1891) i polèmica entre partidaris i no partidaris de l'acció política; incorporació de sectors econòmics i industrials a través de la Unió Regionalista; Centre Nacional Català; confluència en la Lliga Regionalista el 1901 (1,25)."
+          }
+        ],
+        "nota": "Diferencieu bé els corrents: no barregeu Almirall (federal, progressista) amb Torras i Bages (catòlic, tradicionalista). Les dates de les obres (1886 i 1892) són les que demanen les pautes. No us allargueu explicant els fets (Memorial de Greuges, candidatura dels quatre presidents): això és la qüestió b."
+      }
+    },
+    {
+      "id": "historia-2018-S-e1-q2b-b",
+      "exercici": 1,
+      "questio": "2b",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Els fets principals del catalanisme des de l'inici de la Restauració fins al 1901",
+      "tema": "segle-xix",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "centre català",
+        "memorial de greuges",
+        "missatge a la reina regent",
+        "codi civil",
+        "bases de manresa",
+        "desastre del 1898",
+        "candidatura dels quatre presidents",
+        "lliga regionalista"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Opció B, exercici 1. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió b):\n\n**b)** Expliqueu els fets principals del catalanisme des de l'inici de la Restauració fins al 1901. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió amb les conseqüències. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Aquí es demanen **fets** en ordre **cronològic**: cada fet amb la seva data i una frase sobre què va ser i què va representar. Les pautes posen el tall al **Desastre del 1898**."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "**Bloc 1 (1875-1898)**:\n- **Primer Congrés Catalanista** (1880) i fundació del **Centre Català (1882)** per Valentí Almirall.\n- **Memorial de Greuges (1885)**: lliurat a Alfons XII; defensa del dret civil i de la indústria (proteccionisme).\n- **Lliga de Catalunya (1887)**; **Missatge a la Reina Regent (1888)**, aprofitant l'Exposició Universal.\n- **Campanya en defensa del dret civil català (1889)** davant el Codi Civil.\n- **Unió Catalanista (1891)** i **Bases de Manresa (1892)**.\n\n**Bloc 2 (1898-1901)**:\n- **Desastre del 1898** (pèrdua de Cuba, Puerto Rico i Filipines): descrèdit del sistema; la burgesia catalana mira el catalanisme.\n- Suport al general **Polavieja**; **Tancament de Caixes** (1899); **Unió Regionalista (1899)**.\n- **Centre Nacional Català (1899)**.\n- **Lliga Regionalista (1901)** i victòria de la **candidatura dels quatre presidents** a Barcelona (maig de 1901)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Després de la proclamació de la Restauració (1875), el catalanisme va passar del terreny cultural al polític. L'impulsor principal d'aquest pas va ser **Valentí Almirall**, que va organitzar el **Primer Congrés Catalanista** (1880) i el 1882 va fundar el **Centre Català**, la primera entitat catalanista amb objectius polítics. El 1885 el Centre Català va promoure el **Memorial de Greuges**, un document lliurat al rei Alfons XII que denunciava el centralisme, defensava el dret civil català i reclamava proteccionisme per a la indústria catalana davant els tractats comercials lliurecanvistes.\n\nEl 1887 els sectors conservadors del Centre Català se'n van separar i van crear la **Lliga de Catalunya**, que el 1888, aprofitant la visita de la regent Maria Cristina a l'Exposició Universal de Barcelona, li va adreçar el **Missatge a la Reina Regent**, on es demanava l'autogovern de Catalunya. El 1889 es va produir una gran mobilització, la **Campanya en defensa del dret civil català**, contra el projecte de Codi Civil espanyol que amenaçava el dret propi, i que va aconseguir que el dret català es mantingués. El 1891 diverses entitats es van agrupar en la **Unió Catalanista**, que el 1892 va aprovar a Manresa les **Bases per a la Constitució Regional Catalana**, el primer programa d'autogovern del catalanisme: una àmplia autonomia amb unes Corts catalanes elegides per sufragi corporatiu i el català com a única llengua oficial.\n\nEl **Desastre del 1898**, la pèrdua de Cuba, Puerto Rico i les Filipines després de la guerra amb els Estats Units, va ser un esperó decisiu per al catalanisme. Va desacreditar el sistema de la Restauració i va fer que la burgesia industrial catalana, que perdia els mercats colonials, busqués una alternativa política. Aquests sectors van donar suport al general **Polavieja**, que prometia una descentralització, i, davant la decepció i l'augment d'impostos del ministre Villaverde, van protagonitzar el **Tancament de Caixes** (1899). El 1899 es van agrupar a la **Unió Regionalista**. Paral·lelament, els joves catalanistes partidaris de l'acció política, com Prat de la Riba i Cambó, van crear el **Centre Nacional Català** (1899).\n\nEl 1901 tots dos grups van presentar a Barcelona la **candidatura dels quatre presidents** (Bartomeu Robert, Sebastià Torres, Lluís Domènech i Montaner i Albert Rusiñol, que havien presidit entitats destacades), que va guanyar les eleccions generals de maig i va trencar el domini dels partits dinàstics i del caciquisme a la ciutat. Aquell mateix any, l'abril del 1901, els dos grups es van fusionar en la **Lliga Regionalista**, el primer gran partit catalanista, que va obrir una nova etapa en la història del catalanisme."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Fundació del Centre Català (1882) i congressos catalanistes impulsats per Almirall; Memorial de Greuges (1885); Missatge a la Reina Regent (1888); Campanya per la Defensa del Dret Civil Català (1889); Unió Catalanista (1891), Centre Nacional Català i Bases de Manresa (1892) (1,25). Impacte del Desastre del 1898 com a esperó del catalanisme; Unió Regionalista (1899); Centre Nacional Català; candidatura dels quatre presidents i la seva victòria; Lliga Regionalista (1901) (1,25)."
+          }
+        ],
+        "nota": "Les pautes esmenten el Centre Nacional Català en tots dos blocs: en realitat es va fundar el 1899 (després del Desastre), no el 1892. Ordeneu els fets cronològicament amb la data de cadascun. No us allargueu en els corrents ideològics (qüestió a)."
+      }
+    },
+    {
+      "id": "historia-2018-S-e2-q1-b",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "comentari",
+      "punts": 2.5,
+      "titol": "Cartell electoral de la UCD amb Adolfo Suárez (eleccions del 15 de juny de 1977)",
+      "tema": "transicio-democracia",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "adolfo suárez",
+        "ucd",
+        "eleccions del 15 de juny de 1977",
+        "transició",
+        "cartell electoral",
+        "comentari de font"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "*(Cartell: vegeu la figura.)*\n\nEN BARCELONA  \nVOTE  \nUNION DE CENTRO DEMOCRATICO\n\nUNION DE CENTRO DEMOCRATICO  \nLOS HOMBRES QUE HACEN POSIBLE LA DEMOCRACIA\n\n*Font:* Unión de Centro Democrático, juny del 1977.",
+      "enunciat": "Opció B, exercici 2 (cal escollir UNA de les dues opcions, A o B, i fer-ne els dos exercicis). Pregunta 1: observeu la font i responeu a les qüestions a), b) i c).",
+      "figures": [
+        {
+          "src": "img/historia/2018-S/e2-b.png",
+          "peu": "Cartell electoral de la Unión de Centro Democrático amb la fotografia d'Adolfo Suárez. Font: Unión de Centro Democrático, juny del 1977."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Identifiqueu el tipus de font i digueu de què tracta.",
+          "punts": 0.75
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu quin és el context històric de la font.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "Descriviu i comenteu el contingut de la font.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "La Pregunta 1 és un comentari de font en tres passos (2,5 punts en total). **a)** (0,75): classificar la font (primària/secundària i tipus: fotografia, text juridicopolític, premsa, cartell...) i dir de què tracta; les pautes donen 0,25 per la classificació i 0,50 pel contingut. **b)** (0,75): situar-la en el seu context (període, etapa, data concreta). **c)** (1): comentar el contingut relacionant-lo amb el context. Responeu cada apartat per separat i amb la seva lletra. Extensió orientativa: 4-6 línies per a a) i b) i 10-15 per a c). Temps: uns 20-25 minuts (l'examen dura 1,5 h per als dos exercicis de l'opció). Error típic: descriure la font sense datar-la ni situar-la, o fer al b) un context tan general que no expliqui la font."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Tipus de font**: primària, iconogràfica i política: un **cartell de propaganda electoral** de la **Unión de Centro Democrático (UCD)**. **Tema**: demana el vot per a la UCD a Barcelona a les eleccions del **juny del 1977**, amb la imatge d'Adolfo Suárez."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Es tracta d'una font primària, contemporània dels fets, de tipus iconogràfic i polític: un cartell de propaganda electoral de la Unión de Centro Democrático (UCD), editat a Barcelona el juny del 1977. El cartell demana el vot per a la UCD a la circumscripció de Barcelona per a les eleccions generals del 15 de juny de 1977 i presenta la imatge del seu líder, el president del govern Adolfo Suárez."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Transició a la democràcia (1975-1986, segons les pautes)**: després de la mort de Franco (20 de novembre de 1975), Suárez president (juliol 1976), **Llei per a la reforma política** (referèndum del 15 de desembre de 1976), legalització dels partits (PCE, abril 1977). Data concreta: campanya de les **primeres eleccions democràtiques des del 1936, el 15 de juny de 1977**, a Barcelona."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "La font se situa en el període de la transició a la democràcia (1975-1986), en concret durant la campanya de les eleccions generals del 15 de juny de 1977, les primeres eleccions lliures des del febrer del 1936. Després de la mort de Franco (novembre del 1975) i del fracàs del govern continuista d'Arias Navarro, el rei Joan Carles I va nomenar Adolfo Suárez president del govern (juliol del 1976). Suárez va impulsar la Llei per a la reforma política, aprovada per les Corts franquistes i en referèndum (15 de desembre de 1976), va concedir amnisties i va legalitzar els partits polítics, inclòs el PCE (abril del 1977). Per concórrer a les eleccions, Suárez va encapçalar la UCD, una coalició de partits de centre i de reformistes procedents del franquisme. A Catalunya, on la campanya es feia en un context de forta reivindicació autonòmica, la UCD es presentava com Centristes de Catalunya-UCD."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Descriviu primer i després interpreteu:\n\n1. **Descripció**: franja verda superior amb «EN BARCELONA VOTE UNION DE CENTRO DEMOCRATICO»; fons fosc amb un **primer pla d'Adolfo Suárez** (rostre seriós, americana i corbata); **logotip** de la UCD (cercle verd i taronja); eslògan «**Los hombres que hacen posible la democracia**».\n2. **Missatge**: personalització de la campanya en Suárez, ja president del govern; imatge de moderació, joventut i serietat; el text atribueix a Suárez i a la UCD el mèrit d'**estar portant la democràcia**.\n3. **Context i resultat**: UCD formada el 1977 per Suárez (democristians, liberals, socialdemòcrates i reformistes del règim); guanya les eleccions (165 escons, sense majoria absoluta); a Catalunya, però, guanyen els socialistes (PSC-PSOE) i la UCD queda per darrere. Les Corts elegides esdevenen constituents (Constitució 1978)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "El cartell està dividit en dues parts. A la part superior, sobre un fons verd, s'hi llegeix en grans lletres «En Barcelona vote Unión de Centro Democrático», una crida directa al vot a la circumscripció de Barcelona. La part inferior, sobre fons fosc, està ocupada per un primer pla del rostre d'**Adolfo Suárez**, seriós i mirant a l'espectador, vestit amb americana i corbata. A la dreta hi apareix el **logotip de la UCD**, un cercle partit en verd i taronja, el nom del partit i l'eslògan «**Los hombres que hacen posible la democracia**».\n\nEl cartell personalitza la campanya en la figura de Suárez, que no era candidat per Barcelona sinó el president del govern i el líder de la coalició: el seu prestigi com a impulsor de la reforma política era el principal actiu electoral de la UCD. La imatge transmet moderació, serietat i joventut, i la tria del verd i del taronja evita els colors associats a la dreta i a l'esquerra tradicionals, d'acord amb la voluntat de presentar-se com una opció de **centre**.\n\nL'eslògan és el missatge clau: presenta Suárez i la UCD com els protagonistes que estan fent possible el pas de la dictadura a la democràcia. Era cert que el govern de Suárez havia aprovat la Llei per a la reforma política, l'amnistia i la legalització dels partits, però la UCD també era una coalició formada en bona part per polítics procedents del franquisme, i el cartell intenta associar-la a la idea de canvi democràtic i fer oblidar aquest origen. La UCD va guanyar les eleccions del 15 de juny de 1977 a Espanya, tot i que sense majoria absoluta, mentre que a Catalunya la força més votada van ser els socialistes del PSC-PSOE. Les Corts sorgides d'aquestes eleccions van elaborar la Constitució del 1978."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Cartell de propaganda electoral (0,25) de la Unión de Centro Democrático a Barcelona, el juny del 1977 (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Transició a la democràcia (1975-1986), en concret la campanya de les eleccions del 15 de juny de 1977 a Barcelona."
+          },
+          {
+            "apartat": "c",
+            "valor": "El cartell demana el vot per a la UCD; hi apareix la imatge d'Adolfo Suárez i el símbol del partit; el vot es demana a Barcelona; el text «los hombres que hacen posible la democracia» presenta Suárez i la UCD com els qui estan introduint la democràcia al país."
+          }
+        ],
+        "nota": "No us oblideu de comentar l'eslògan: les pautes hi donen importància. Error d'anacronisme típic: dir que Suárez va ser «elegit» president el 1976 (va ser nomenat pel rei; les primeres eleccions són les del 1977) o que la Constitució ja estava aprovada en el moment del cartell (és del desembre del 1978)."
+      }
+    },
+    {
+      "id": "historia-2018-S-e2-q2a-b",
+      "exercici": 2,
+      "questio": "2a",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Adolfo Suárez: el seu paper en la Transició i en la democràcia fins a la dimissió (1976-1981)",
+      "tema": "transicio-democracia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "adolfo suárez",
+        "llei per a la reforma política",
+        "llei d'amnistia",
+        "ucd",
+        "pactes de la moncloa",
+        "constitució del 1978",
+        "dimissió de suárez"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció B, exercici 2. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió a):\n\n**a)** Expliqueu la figura d'Adolfo Suárez i el paper que va tenir durant la transició espanyola cap a la democràcia i durant l'etapa democràtica fins a la seva dimissió, que també heu d'explicar. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió amb les conseqüències. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. No és una biografia: centreu-vos en la seva **acció política** del 1976 al 1981 i expliqueu les **causes de la dimissió**, que l'enunciat demana explícitament."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Qui era**: polític procedent del **Movimiento** (governador civil, director de RTVE, ministre secretari general del Movimiento, 1975).\n2. **Accés a la presidència (juliol 1976)**: el rei el nomena després de la dimissió d'**Arias Navarro**; sorpresa general.\n3. **Reforma «de la llei a la llei»**: **Llei per a la reforma política** aprovada per les Corts franquistes (novembre) i en **referèndum el 15 de desembre de 1976**; **amnisties** (1976 i **Llei d'amnistia d'octubre del 1977**); **legalització dels partits** (PSOE, PCE el 9 d'abril de 1977); dissolució del Movimiento; creació de la **UCD**.\n4. **Eleccions del 15 de juny de 1977**: victòria de la UCD; acció de govern: **Pactes de la Moncloa** (octubre 1977), restabliment provisional de la Generalitat (**Tarradellas**), **Constitució del 1978** (consens).\n5. **Eleccions del 1979**: segona victòria; estatuts d'autonomia (Catalunya i País Basc, 1979).\n6. **Dimissió (29 de gener de 1981)**: crisi econòmica, terrorisme (ETA), pressions **militars** (cop en preparació), oposició del PSOE (moció de censura del 1980), **divisions internes de la UCD**, distanciament del rei."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Adolfo Suárez** (1932-2014) era un polític format dins de l'aparell del franquisme: havia estat governador civil de Segòvia, director general de RTVE i, el 1975, ministre secretari general del Movimiento. Després de la mort de Franco, el primer govern de la monarquia, presidit per **Carlos Arias Navarro**, va mostrar-se incapaç de dur a terme reformes, i el juliol del 1976 el rei Joan Carles I va forçar-ne la dimissió i va nomenar Suárez president del govern, un nomenament que va sorprendre i decebre l'oposició.\n\nTanmateix, Suárez va impulsar ràpidament el desmantellament del règim «de la llei a la llei». Va fer aprovar per les mateixes Corts franquistes la **Llei per a la reforma política** (novembre del 1976), que establia unes Corts bicamerals elegides per sufragi universal, i la va sotmetre a **referèndum el 15 de desembre de 1976**, amb un ampli suport. Va negociar amb l'oposició democràtica, va decretar amnisties per als presos polítics (culminades amb la **Llei d'amnistia** de l'octubre del 1977), va dissoldre el Movimiento i el sindicat vertical i va **legalitzar els partits polítics**, inclòs el PCE, el 9 d'abril de 1977, malgrat l'oposició de l'exèrcit. Per concórrer a les eleccions va crear, amb altres polítics, la **Unión de Centro Democrático (UCD)**, una coalició de democristians, liberals, socialdemòcrates i reformistes del règim.\n\nLa UCD va guanyar les **eleccions del 15 de juny de 1977**, les primeres democràtiques des del 1936, tot i que sense majoria absoluta. El govern de Suárez va practicar la política del **consens**: va signar amb els principals partits i sindicats els **Pactes de la Moncloa** (octubre del 1977) per afrontar la crisi econòmica, va restablir provisionalment la **Generalitat** amb el retorn de Josep Tarradellas i va impulsar l'elaboració de la **Constitució**, aprovada en referèndum el 6 de desembre de 1978. A les **eleccions de març del 1979** Suárez va tornar a guanyar i va començar el procés autonòmic amb els estatuts de Catalunya i del País Basc.\n\nEl segon govern de Suárez va patir un fort desgast: la crisi econòmica i l'atur, el terrorisme d'ETA, les **pressions dels militars** i de la dreta, que no acceptaven el model autonòmic, la dura oposició del PSOE (que el 1980 li va presentar una moció de censura) i, sobretot, les **divisions internes de la UCD**, on les diferents famílies es disputaven el poder. Sentint-se també sense el suport del rei, Suárez va **dimitir el 29 de gener de 1981**. Durant la votació d'investidura del seu successor, Leopoldo Calvo-Sotelo, es va produir l'intent de cop d'estat del 23-F."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Qui era Adolfo Suárez i accés a la presidència després d'Arias Navarro; Llei per a la reforma política aprovada per les Corts franquistes i en referèndum el 15 de desembre de 1976; Llei d'amnistia; legalització de la majoria dels partits opositors; creació de la UCD (1,25). Victòria de Suárez i la UCD a les eleccions del 15 de juny de 1977, acció de govern (Pactes de la Moncloa i altres), segona victòria el 1979; dimissió el gener del 1981 per pressions militars i d'altres, incloses les de la mateixa UCD (1,25)."
+          }
+        ],
+        "nota": "Error típic: dir que Suárez va ser elegit president el 1976 (el va nomenar el rei). No oblideu la dimissió (gener del 1981) i les seves causes. No expliqueu a fons el 23-F (és la qüestió b), però podeu esmentar que va passar durant la investidura del successor."
+      }
+    },
+    {
+      "id": "historia-2018-S-e2-q2b-b",
+      "exercici": 2,
+      "questio": "2b",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "El cop d'estat del 23-F (1981) i l'evolució política d'Espanya entre el 1981 i el 1986",
+      "tema": "transicio-democracia",
+      "temes_secundaris": [
+        "mon-contemporani"
+      ],
+      "conceptes": [
+        "23-f",
+        "tejero",
+        "milans del bosch",
+        "calvo-sotelo",
+        "felipe gonzález",
+        "psoe",
+        "comunitat econòmica europea",
+        "otan"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció B, exercici 2. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió b):\n\n**b)** Expliqueu què va ocórrer el 23 de febrer de 1981 i què van significar aquells fets. Expliqueu també l'evolució política espanyola entre el 1981 i el 1986. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió amb les conseqüències. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Atenció al repartiment oficial, diferent de l'habitual: **1 punt** per al 23-F (causes, desenvolupament i significat) i **1,5 punts** per a l'evolució política 1981-1986 (Calvo-Sotelo, victòria del PSOE, gestió de Felipe González fins a l'entrada a la CEE)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Causes del 23-F**: crisi econòmica, terrorisme d'ETA, malestar de l'exèrcit (autonomies, legalització del PCE), dimissió de Suárez, crisi de la UCD; precedents (Operació Galàxia, 1978).\n2. **Desenvolupament**: **23 de febrer de 1981**, votació d'investidura de **Calvo-Sotelo**; el tinent coronel **Tejero** ocupa el Congrés amb guàrdies civils; **Milans del Bosch** treu els tancs a València; **Armada** a la Zarzuela; nit d'incertesa; missatge televisat del **rei** a la 1.20 h defensant la Constitució; fracàs el 24.\n3. **Significat**: consolidació de la democràcia i del prestigi del rei; manifestacions massives (27 de febrer); però també frenada autonòmica (**LOAPA**, 1982).\n4. **Govern de Calvo-Sotelo (1981-1982)**: entrada a l'**OTAN** (1982), LOAPA, desintegració de la UCD.\n5. **Eleccions d'octubre del 1982**: majoria absoluta del **PSOE** (202 escons) amb **Felipe González**; fi de la Transició (alternança).\n6. **Gestió fins al 1986**: reconversió industrial, mesures econòmiques d'ajust; **estat del benestar**: **Llei general de sanitat (1986)**, LODE (1985), ampliació de pensions; reforma militar; **entrada a la CEE (tractat del 1985, efectiva l'1 de gener de 1986)**; **referèndum de l'OTAN** (març 1986); nova majoria absoluta al juny del 1986."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El **23 de febrer de 1981** es va produir un intent de cop d'estat. Les seves causes eren el malestar d'una part de l'exèrcit i de l'extrema dreta davant la democràcia, la legalització del PCE i, sobretot, el procés autonòmic i els atemptats d'ETA, que afectaven especialment militars. El context de crisi econòmica i la crisi de la UCD, que havia portat a la **dimissió de Suárez** el gener del 1981, van ser aprofitats pels colpistes. Ja hi havia hagut un precedent, l'Operació Galàxia (1978).\n\nAquella tarda, mentre el Congrés votava la investidura de **Leopoldo Calvo-Sotelo**, el tinent coronel de la Guàrdia Civil **Antonio Tejero** va irrompre a la cambra amb uns dos-cents guàrdies civils i va segrestar els diputats i el govern. A València, el capità general **Jaime Milans del Bosch** va declarar l'estat d'excepció i va treure els tancs al carrer, i el general **Alfonso Armada** pretenia encapçalar un govern d'«unitat nacional». El cop va fracassar perquè la majoria de capitanies no s'hi van sumar i, sobretot, perquè el **rei Joan Carles I**, com a cap de les Forces Armades, va ordenar mantenir l'ordre constitucional i, a la 1.20 h de la matinada, va aparèixer a la televisió per defensar la Constitució. L'endemà Tejero es va rendir. El 23-F va tenir un doble **significat**: d'una banda, va reforçar la democràcia i el prestigi del rei, i el 27 de febrer milions de persones es van manifestar a favor de la llibertat; de l'altra, va provocar una certa moderació política, com es va veure en la frenada del procés autonòmic.\n\nEl govern de **Calvo-Sotelo** (1981-1982) va aprovar la **LOAPA** (1982), pactada amb el PSOE per harmonitzar i limitar les autonomies, i va fer entrar Espanya a l'**OTAN** (1982). Mentrestant, la UCD es descomponia per les divisions internes. A les **eleccions d'octubre del 1982**, el **PSOE** de **Felipe González** va obtenir una àmplia majoria absoluta (202 escons) amb el lema «Por el cambio». Molts historiadors consideren que aquesta alternança pacífica va tancar la Transició.\n\nEl govern socialista (1982-1986) va aplicar una política econòmica d'ajust per lluitar contra la inflació i una dura **reconversió industrial** (siderúrgia, drassanes), que va provocar conflictes i atur. Alhora va impulsar la construcció de l'**estat del benestar**: universalització de l'educació (**LODE**, 1985), extensió de les pensions i la **Llei general de sanitat** (1986), que va crear el Sistema Nacional de Salut. També va reformar l'exèrcit i el va sotmetre al poder civil. En política exterior, després d'anys de negociacions, Espanya va signar el tractat d'adhesió el 1985 i va **entrar a la Comunitat Econòmica Europea l'1 de gener de 1986**; el març del 1986 un **referèndum** va aprovar la permanència a l'OTAN, i el juny el PSOE va revalidar la majoria absoluta."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Què va ser l'intent de cop d'estat del 23 de febrer de 1981, les seves causes i el seu desenvolupament (1). Govern de Calvo-Sotelo, eleccions del 1982 i victòria del PSOE amb Felipe González; gestió fins al 1986, amb l'entrada a la Comunitat Econòmica Europea, les mesures econòmiques adoptades i els avenços de l'estat del benestar, com la Llei de sanitat i altres (1,5)."
+          }
+        ],
+        "nota": "Les pautes situen la Llei de sanitat el 1985; la Llei general de sanitat es va aprovar l'abril del 1986 (la LODE és del 1985). L'entrada efectiva a la CEE és l'1 de gener de 1986 (el tractat es va signar el juny del 1985). No confongueu l'entrada a l'OTAN (1982, Calvo-Sotelo) amb el referèndum de permanència (1986, González)."
+      }
+    }
+  ]
+}

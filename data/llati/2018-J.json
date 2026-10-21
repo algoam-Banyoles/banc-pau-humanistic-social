@@ -1,0 +1,867 @@
+{
+  "examen": {
+    "id": "llati-2018-J",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2018,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/llati/2018-J-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2018-J-solucio.pdf",
+    "estructura": "Sèrie 1, convocatòria ordinària (juny). Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un fragment de Cèsar, *Guerra de les Gàl·lies* (5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions (A i B) i cal triar-ne UNA i fer-ne els tres exercicis. Opció A: 2. morfosintaxi sobre el text (1 punt, dos apartats); 3. completar quatre frases amb llatinismes d'una llista de dotze (2 punts; 0,5 per encert, els errors no resten); 4. exposició sobre l'episodi de Deucalió i Pirra de les *Metamorfosis* d'Ovidi i sobre la relació de l'autor amb els cercles literaris i el seu exili (2 punts, mínim 15 línies, unes 150 paraules). Opció B: 2. morfosintaxi sobre el text (1 punt, dos apartats); 3. quatre preguntes d'opció múltiple de literatura llatina (2 punts; 0,5 per encert, −0,16 per error, les no contestades no resten); 4. exposició sobre la Lleida romana (Ilerda) i la guerra civil entre Cèsar i Pompeu (2 punts, mínim 15 línies, unes 150 paraules)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2018-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Cèsar: abans de passar a Britània, Cèsar hi envia Gai Volusè a explorar",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "cèsar",
+        "de bello gallico",
+        "britània",
+        "oració concessiva",
+        "priusquam",
+        "ut completiu",
+        "ablatiu absolut",
+        "verb deponent"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Cèsar, abans de marxar a Britània, hi envia Gai Volusè a explorar el país**\n\nCaesar, etsi in his locis maturae sunt hiemes, tamen in Britanniam proficisci contendit. Priusquam periculum faceret, C. Volusenum cum naui longa praemittit; huic mandat ut, exploratis omnibus rebus, ad se quam primum reuertatur. Ipse cum omnibus copiis in Morinos proficiscitur.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, IV, 20, 1; 21, 1-2\n\n**Lèxic** (informació del diccionari):\n\n- *Britannia, -ae* (f.): Britània (nom de país).\n- *C. Volusenus, -i* (m.): Gai Volusè (tribú dels soldats).\n- *contendo, -ndi, -ntum* (3a, tr.): proposar-se.\n- *copiae, -arum* (f. pl.): tropes.\n- *etsi…, tamen*: encara que…, així i tot.\n- *maturus, -a, -um*: primerenc.\n- *Morini, -orum* (m. pl.): els mòrins (poble belga). | (meton.) el país dels mòrins.\n- *nauis, -is* (f.): vaixell. | *nauis longa*: vaixell lleuger (de guerra).\n- *periculum facere*: arriscar-se.\n- *priusquam*: abans de.\n- *proficisci* (infinitiu de present del verb *proficiscor*): marxar.\n- *quamprimum* (*quam primum*): al més aviat possible.\n- *reuertor, reuersus sum* (3a, intr. dep.): tornar.",
+      "enunciat": "Exercici 1 (comú a les dues opcions). Exercici de traducció [5 punts]. Feu la versió del text següent.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Tres frases de Cèsar (*Guerra de les Gàl·lies*, llibre IV, preparatius de la primera expedició a Britània). Val **5 punts**, la meitat de l'examen: dedica-hi uns 40-45 minuts.\n\nMètode: (1) llegeix el títol, que t'explica la situació (Cèsar vol anar a Britània i hi envia abans Volusè a explorar); (2) marca els **verbs conjugats** i els nexes: *sunt* (*etsi*), *contendit* (principal), *faceret* (*priusquam*), *praemittit* (principal), *mandat* (principal), *reuertatur* (*ut*), *proficiscitur* (principal); (3) localitza els infinitius i participis: *proficisci* (CD de *contendit*) i l'**ablatiu absolut** *exploratis omnibus rebus*; (4) fes una traducció literal i després poleix-la.\n\nParanys: tres verbs **deponents** (*proficisci*, *reuertatur*, *proficiscitur*): forma passiva, significat actiu; *etsi … tamen* és una correlació concessiva («encara que …, així i tot»); *periculum facere* és una locució («arriscar-se»), no «fer un perill»; *ut* + subjuntiu després de *mandat* és **completiu** («que torni»), no final; *se* és reflexiu indirecte i es refereix a Cèsar, no a Volusè; *in Morinos* és metonímia: «cap al país dels mòrins»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració (principal amb subordinada concessiva)",
+            "cos": "*Caesar, etsi in his locis maturae sunt hiemes, tamen in Britanniam proficisci contendit.*\n\n- Verb principal: *contendit*, 3a sg. de *contendo* («proposar-se»); la forma és ambigua (present o perfet d'indicatiu); la versió oficial la tradueix com a perfet («es va proposar»).\n- **Subjecte**: *Caesar* (nominatiu sg.).\n- *proficisci*: infinitiu present del deponent *proficiscor* («marxar»): **CD** de *contendit* (infinitiu concertat, amb el mateix subjecte).\n- *in Britanniam*: *in* + acusatiu: **CC de direcció** («cap a Britània»).\n- *etsi … sunt hiemes*: **subordinada adverbial concessiva** introduïda per *etsi* (amb indicatiu), correlativa amb *tamen* a la principal. Subjecte: *hiemes* (nominatiu pl. de *hiems*, «hiverns»); *sunt*: 3a pl. present d'indicatiu de *sum*; *maturae*: nominatiu f. pl. concordat amb *hiemes*, **atribut**; *in his locis*: *in* + ablatiu, **CC de lloc on** (*his*, ablatiu pl. de *hic, haec, hoc*).\n\nLiteral: «Cèsar, encara que en aquests llocs els hiverns són primerencs, així i tot es va proposar marxar cap a Britània»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració (principal amb temporal priusquam)",
+            "cos": "*Priusquam periculum faceret, C. Volusenum cum naui longa praemittit;*\n\n- Verb principal: *praemittit*, 3a sg. present d'indicatiu de *praemitto* («enviar davant, enviar per endavant»): **present històric**. Subjecte el·líptic: Cèsar.\n- *C. Volusenum*: acusatiu sg.: **CD** («Gai Volusè»).\n- *cum naui longa*: *cum* + ablatiu (*naui*, ablatiu sg. de *nauis*, 3a decl. tema en -i; *longa*, adjectiu concordat): **CC d'instrument o mitjà** («amb un vaixell lleuger»).\n- *Priusquam periculum faceret*: **subordinada adverbial temporal** (anterioritat) amb *priusquam* + **imperfet de subjuntiu** (*faceret*, 3a sg. de *facio*), que hi afegeix un matís d'intenció o previsió. *periculum facere* és la locució «arriscar-se» (*periculum*, acusatiu n. sg.).\n\nLiteral: «Abans d'arriscar-se, envia per endavant Gai Volusè amb un vaixell lleuger»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració (principal amb completiva ut i ablatiu absolut)",
+            "cos": "*huic mandat ut, exploratis omnibus rebus, ad se quam primum reuertatur.*\n\n- Verb principal: *mandat*, 3a sg. present d'indicatiu de *mando* («manar, encarregar»). Subjecte el·líptic: Cèsar.\n- *huic*: datiu sg. del demostratiu *hic* (= Volusè): **complement indirecte** («a aquest, li»).\n- *ut … reuertatur*: **subordinada substantiva (completiva)** amb *ut* + subjuntiu, que fa de **CD** de *mandat* (verb de voluntat). *reuertatur*: 3a sg. present de subjuntiu del deponent *reuertor* («tornar»); el present s'explica per la concordança de temps amb el present *mandat*. Subjecte el·líptic: Volusè.\n- *ad se*: *ad* + acusatiu del reflexiu *se*: **CC de direcció**; és un **reflexiu indirecte**: es refereix al subjecte de la principal, Cèsar («al seu costat, cap a ell»).\n- *quam primum*: locució adverbial («al més aviat possible»): CC de temps.\n- *exploratis omnibus rebus*: **ablatiu absolut**: participi perfet passiu *exploratis* (de *exploro*) en ablatiu f. pl. concordat amb *rebus* (ablatiu pl. de *res*, 5a decl.), que en fa de subjecte, amb l'adjectiu *omnibus*. Valor temporal d'anterioritat («un cop explorades totes les coses»).\n\nLiteral: «a aquest li mana que, explorades totes les coses, torni cap a ell al més aviat possible»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: quarta oració (simple)",
+            "cos": "*Ipse cum omnibus copiis in Morinos proficiscitur.*\n\n- Verb: *proficiscitur*, 3a sg. present d'indicatiu del deponent *proficiscor* («marxar»): present històric.\n- **Subjecte**: *Ipse* (nominatiu m. sg. del pronom d'identitat *ipse*): «ell mateix», és a dir, Cèsar, en contrast amb Volusè («ell, per la seva banda»).\n- *cum omnibus copiis*: *cum* + ablatiu pl.: **CC de companyia** («amb totes les tropes»).\n- *in Morinos*: *in* + acusatiu pl.: **CC de direcció**; per metonímia, «cap al país dels mòrins».\n\nLiteral: «Ell mateix, amb totes les tropes, marxa cap al país dels mòrins»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Cèsar, encara que en aquests llocs els hiverns són primerencs, així i tot es va proposar marxar cap a Britània. Abans d'arriscar-se, envia per endavant Gai Volusè amb un vaixell lleuger; a aquest li mana que, explorades totes les coses, torni cap a ell al més aviat possible. Ell mateix marxa amb totes les tropes cap al país dels mòrins."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Cèsar, tot i que en aquests indrets els hiverns arriben aviat, així i tot es va proposar marxar a Britània. Abans d'arriscar-s'hi, hi envia per endavant Gai Volusè amb un vaixell lleuger i li mana que, un cop ho hagi explorat tot, torni al seu costat com més aviat millor. Ell, per la seva banda, marxa amb totes les tropes cap al país dels mòrins."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial orientativa: «Cèsar, encara que en aquests llocs els hiverns són primerencs, així i tot es va proposar marxar a Britània. Abans d'arriscar-s'hi, hi envia Gai Volusè davant amb un vaixell lleuger; li mana que, un cop explorades totes les coses, torni al seu costat al més aviat possible. Ell, per la seva banda, marxa amb totes les tropes cap al país dels mòrins.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Punts clau: correlació concessiva *etsi … tamen*; *proficisci* (deponent) CD de *contendit*; *priusquam* + subjuntiu (temporal d'anterioritat) i la locució *periculum facere*; *cum naui longa* (instrument); *huic* CI; *ut* completiu (CD de *mandat*) amb *reuertatur* deponent; ablatiu absolut *exploratis omnibus rebus*; *se* reflexiu indirecte (= Cèsar); *in Morinos* metonímia."
+          }
+        ],
+        "nota": "La pauta admet formes diverses de traducció. Es poden mantenir els presents històrics (*praemittit*, *mandat*, *proficiscitur*) com fa la versió oficial o passar-los a passat («va enviar», «li va manar», «va marxar»), però cal ser coherent. Errors típics: traduir els deponents en passiva («és marxat»); traduir *periculum faceret* com «fes un perill»; prendre *ut* com a final («perquè torni») en lloc de completiu («que torni»); fer referir *ad se* a Volusè; traduir *nauis longa* com «nau llarga» quan el lèxic diu «vaixell lleuger (de guerra)»; oblidar *tamen* o *quam primum*."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: in Britanniam (CC de direcció) i completiva ut … reuertatur (CD de mandat)",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "complement circumstancial de direcció",
+        "acusatiu",
+        "ut completiu",
+        "oració substantiva",
+        "complement directe",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cèsar, abans de marxar a Britània, hi envia Gai Volusè a explorar el país**\n\nCaesar, etsi in his locis maturae sunt hiemes, tamen in Britanniam proficisci contendit. Priusquam periculum faceret, C. Volusenum cum naui longa praemittit; huic mandat ut, exploratis omnibus rebus, ad se quam primum reuertatur. Ipse cum omnibus copiis in Morinos proficiscitur.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, IV, 20, 1; 21, 1-2",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de morfosintaxi [1 punt], sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Analitzeu morfològicament el sintagma *in Britanniam* i digueu quina funció sintàctica fa respecte a l'infinitiu *proficisci*.",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "En la construcció ***ut*** […] *ad se quam primum reuertatur* (amb *ut* subratllat), digueu quin tipus d'oració introdueix *ut*, de quin verb depèn i quina funció sintàctica fa.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 de l'opció A (1 punt, uns 10 minuts). Els criteris no detallen el repartiment; se suposa 0,5 punts per apartat. Respon amb frases completes, esmenta els mots llatins exactes i contesta **totes** les preguntes de cada apartat (a l'apartat b n'hi ha tres: tipus d'oració, verb del qual depèn i funció)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Analitzar morfològicament un sintagma vol dir dir què és cada mot: *in* és una preposició (que regeix acusatiu o ablatiu) i *Britanniam* és un substantiu de la 1a declinació (*Britannia, -ae*, f.), en acusatiu singular (desinència *-am*). *In* + acusatiu amb un verb de moviment (*proficisci*, «marxar») indica el lloc **cap on** es va: CC de direcció."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El sintagma *in Britanniam* està format per la **preposició *in*** i el **substantiu *Britanniam***, de la 1a declinació, femení, en **acusatiu singular**. Respecte a l'infinitiu *proficisci* («marxar») fa la funció de **complement circumstancial de direcció** («cap a Britània»)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*ut* pot introduir oracions finals, consecutives, completives o temporals. El verb de la subordinada (*reuertatur*) és en subjuntiu i el verb principal, *mandat* («mana, encarrega»), és un verb de voluntat que necessita un complement: què mana Cèsar? → que Volusè torni. Per tant, és una **completiva** que fa de **CD**. Prova: la podem substituir per «ho» («li ho mana»)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El nexe *ut* introdueix una **oració subordinada substantiva o completiva** (amb el verb *reuertatur* en subjuntiu). Depèn del verb ***mandat*** i en fa la funció de **complement directe**: Cèsar mana a Volusè (*huic*, CI) que torni al seu costat al més aviat possible."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Preposició *in* + substantiu femení *Britanniam* en acusatiu singular; complement circumstancial de direcció de l'infinitiu *proficisci*."
+          },
+          {
+            "apartat": "b",
+            "valor": "*ut* introdueix una oració subordinada substantiva o completiva; depèn del verb *mandat* i li fa de complement directe."
+          }
+        ],
+        "nota": "Errors típics: dir que *in Britanniam* és CC de lloc on (seria *in* + ablatiu, *in Britannia*); classificar l'oració de *ut* com a final («perquè torni») pel simple fet de portar subjuntiu; dir que depèn de *praemittit* o de *contendit*; oblidar la funció (CD)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: cum naui longa (CC d'instrument) i l'ablatiu absolut exploratis omnibus rebus",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu",
+        "complement circumstancial d'instrument",
+        "ablatiu absolut",
+        "participi perfet",
+        "concordança",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Cèsar, abans de marxar a Britània, hi envia Gai Volusè a explorar el país**\n\nCaesar, etsi in his locis maturae sunt hiemes, tamen in Britanniam proficisci contendit. Priusquam periculum faceret, C. Volusenum cum naui longa praemittit; huic mandat ut, exploratis omnibus rebus, ad se quam primum reuertatur. Ipse cum omnibus copiis in Morinos proficiscitur.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, IV, 20, 1; 21, 1-2",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de morfosintaxi [1 punt], sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Analitzeu morfològicament el sintagma *cum naui longa* i digueu quina funció sintàctica fa respecte al verb *praemittit*.",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu com s'anomena la construcció formada per *exploratis omnibus rebus* i expliqueu en què consisteix.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 de l'opció B (1 punt, uns 10 minuts). Els criteris no detallen el repartiment; se suposa 0,5 punts per apartat. Respon amb frases completes i esmenta els mots llatins exactes."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*cum* aquí és preposició (regeix ablatiu), no conjunció. *naui* és l'ablatiu singular de *nauis, -is* (3a declinació, tema en -i, que té l'ablatiu en *-i* al costat de *-e*); *longa* és un adjectiu de la 1a classe que hi concorda en gènere (femení), nombre (singular) i cas (ablatiu). El vaixell és el **mitjà** amb què Cèsar envia Volusè."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El sintagma *cum naui longa* està format per la **preposició *cum*** (que regeix ablatiu), el **substantiu *naui***, femení de la 3a declinació en **ablatiu singular**, i l'**adjectiu *longa***, que hi concorda en gènere, nombre i cas (femení, singular, ablatiu). Respecte al verb *praemittit* fa la funció de **complement circumstancial d'instrument o mitjà** («amb un vaixell lleuger»)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Un participi en ablatiu concordat amb un nom en ablatiu, sense dependre sintàcticament de cap element de l'oració principal, és un **ablatiu absolut**. Cal dir-ne el nom i explicar-ne els elements: el participi (*exploratis*, perfet passiu de *exploro*), el nom que li fa de subjecte (*rebus*) i el complement (*omnibus*). Pots afegir-hi el valor: temporal d'anterioritat."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "La construcció *exploratis omnibus rebus* és un **ablatiu absolut**. Consisteix en un **participi en ablatiu** (*exploratis*, participi perfet passiu de *exploro*, ablatiu femení plural) **concordat amb un substantiu també en ablatiu** (*rebus*, ablatiu plural de *res*), que li fa de **subjecte**; aquí el substantiu porta com a complement l'adjectiu *omnibus*. Té valor temporal d'anterioritat: «un cop explorades totes les coses»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Preposició *cum* + substantiu femení *naui* en ablatiu singular, amb l'adjectiu *longa* concordat; complement circumstancial d'instrument o mitjà de *praemittit*."
+          },
+          {
+            "apartat": "b",
+            "valor": "Ablatiu absolut: participi en ablatiu (*exploratis*) concordat amb un substantiu en ablatiu (*rebus*) que li fa de subjecte (opcional: *omnibus*, adjectiu complement del substantiu)."
+          }
+        ],
+        "nota": "Errors típics: confondre la preposició *cum* amb la conjunció *cum*; dir que *cum naui longa* és CC de companyia (la pauta demana instrument o mitjà); prendre *naui* per datiu; a l'apartat b, dir només el nom de la construcció sense explicar-ne els elements."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «súmmum»: el màxim de la dolenteria",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "súmmum",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades]. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\na) Que et donin cops de peu i, a sobre, et facin mala cara i no et parlin és el __________ de la dolenteria.\n\nLlatinismes: *a posteriori*, *ex aequo*, *in crescendo*, *ipso facto*, *peccata minuta*, *per capita*, *placebo*, *sine die*, *súmmum*, *superàvit*, *ultimàtum*, *vox populi*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adjectiu, adverbi); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Súmmum* (de *summum*, «el més alt») vol dir «el grau màxim, el colmo». La frase descriu una acumulació de mals tractes que arriba al punt més alt: «el súmmum de la dolenteria». L'article masculí *el* i el complement *de la dolenteria* demanen un nom; cap altre de la llista hi encaixa (*peccata minuta* diria just el contrari: faltes lleus)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Que et donin cops de peu i, a sobre, et facin mala cara i no et parlin és el **súmmum** de la dolenteria."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*súmmum*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *ex aequo* (amb el mateix mèrit, empatats), *in crescendo* (augmentant progressivament), *ipso facto* (immediatament, pel fet mateix), *peccata minuta* (faltes lleus), *placebo* (substància sense efecte terapèutic), *sine die* (sense data fixada), *superàvit* (excés d'ingressos sobre les despeses), *ultimàtum* (darrera advertència)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «vox populi»: una cosa que tothom sap",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "vox populi",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades]. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nb) Jo em pensava que ningú no ho sabia i ara resulta que era __________.\n\nLlatinismes: *a posteriori*, *ex aequo*, *in crescendo*, *ipso facto*, *peccata minuta*, *per capita*, *placebo*, *sine die*, *súmmum*, *superàvit*, *ultimàtum*, *vox populi*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adjectiu, adverbi); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Vox populi* («veu del poble») s'usa per dir que una cosa és de domini públic, que tothom ho sap i ho comenta. Encaixa amb el contrast de la frase: «em pensava que ningú no ho sabia» → «era vox populi»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "b) Jo em pensava que ningú no ho sabia i ara resulta que era **vox populi**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*vox populi*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *ex aequo* (amb el mateix mèrit, empatats), *in crescendo* (augmentant progressivament), *ipso facto* (immediatament, pel fet mateix), *peccata minuta* (faltes lleus), *placebo* (substància sense efecte terapèutic), *sine die* (sense data fixada), *superàvit* (excés d'ingressos sobre les despeses), *ultimàtum* (darrera advertència)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «per capita»: el PIB per habitant",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "per capita",
+        "lèxic econòmic",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades]. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nc) El 2015 Luxemburg va tenir el PIB __________ més alt de la Unió Europea.\n\nLlatinismes: *a posteriori*, *ex aequo*, *in crescendo*, *ipso facto*, *peccata minuta*, *per capita*, *placebo*, *sine die*, *súmmum*, *superàvit*, *ultimàtum*, *vox populi*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adjectiu, adverbi); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Per capita* («per caps») vol dir «per persona, per habitant». El **PIB per capita** és el producte interior brut dividit pel nombre d'habitants; Luxemburg és el país de la UE que el té més alt. Altres candidats aparents (*superàvit*) no funcionen com a complement de *PIB*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "c) El 2015 Luxemburg va tenir el PIB **per capita** més alt de la Unió Europea."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*per capita*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *ex aequo* (amb el mateix mèrit, empatats), *in crescendo* (augmentant progressivament), *ipso facto* (immediatament, pel fet mateix), *peccata minuta* (faltes lleus), *placebo* (substància sense efecte terapèutic), *sine die* (sense data fixada), *superàvit* (excés d'ingressos sobre les despeses), *ultimàtum* (darrera advertència)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «a posteriori»: decidir després d'examinar-ho tot",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "a posteriori",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades]. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nd) És poc amic de fer conjectures i pronòstics; prefereix no córrer cap risc, examinar totes les possibilitats i decidir __________.\n\nLlatinismes: *a posteriori*, *ex aequo*, *in crescendo*, *ipso facto*, *peccata minuta*, *per capita*, *placebo*, *sine die*, *súmmum*, *superàvit*, *ultimàtum*, *vox populi*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adjectiu, adverbi); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*A posteriori* («a partir del que ve després») vol dir «després d'haver-ho examinat, basant-se en l'experiència», en oposició a *a priori* (abans, sense comprovar-ho). Qui no vol fer pronòstics (que serien *a priori*) decideix *a posteriori*. *Ipso facto* (immediatament) o *sine die* (sense data) contradirien la idea de la frase."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "d) És poc amic de fer conjectures i pronòstics; prefereix no córrer cap risc, examinar totes les possibilitats i decidir **a posteriori**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*a posteriori*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *ex aequo* (amb el mateix mèrit, empatats), *in crescendo* (augmentant progressivament), *ipso facto* (immediatament, pel fet mateix), *peccata minuta* (faltes lleus), *placebo* (substància sense efecte terapèutic), *sine die* (sense data fixada), *superàvit* (excés d'ingressos sobre les despeses), *ultimàtum* (darrera advertència)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "La prosa historiogràfica: Ab urbe condita de Tit Livi",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "tit livi",
+        "ab urbe condita",
+        "historiografia",
+        "gèneres literaris"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B. Encercleu la lletra que correspon a l'opció correcta.\n\n3.1. Quina d'aquestes obres pertany a la prosa historiogràfica llatina?",
+      "figures": [],
+      "opcions": {
+        "a": "*Fasti*.",
+        "b": "*In Catilinam*.",
+        "c": "*Ab urbe condita*.",
+        "d": "*Aeneis*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps segur que són falses; respon només si tens algun indici, perquè endevinar a l'atzar entre quatre opcions gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Ab urbe condita*** («Des de la fundació de la ciutat») és la gran obra històrica de **Tit Livi**: la història de Roma des dels orígens fins a l'època d'August, en prosa. Les altres: *Fasti* són un poema elegíac d'Ovidi sobre el calendari romà; *In Catilinam* (les *Catilinàries*) són discursos de Ciceró (oratòria); l'*Aeneis* (*Eneida*) és el poema èpic de Virgili."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) *Ab urbe condita*."
+          }
+        ],
+        "nota": "Repassa els autors de les lectures i de la història de la literatura llatina amb els gèneres i les obres: Plaute i Terenci (comèdia), Cèsar, Sal·lusti i Tit Livi (historiografia), Ciceró (oratòria i filosofia), Catul·le, Virgili, Horaci, Tibul, Properci i Ovidi (poesia)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Plaute, autor de Miles gloriosus",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "plaute",
+        "miles gloriosus",
+        "comèdia",
+        "teatre llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B. Encercleu la lletra que correspon a l'opció correcta.\n\n3.2. L'autor de la comèdia *Miles gloriosus* és",
+      "figures": [],
+      "opcions": {
+        "a": "Terenci.",
+        "b": "Horaci.",
+        "c": "Tit Livi.",
+        "d": "Plaute."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps segur que són falses; respon només si tens algun indici, perquè endevinar a l'atzar entre quatre opcions gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Miles gloriosus* («El soldat fanfarró») és una comèdia de **Plaute** (s. III-II aC), protagonitzada per Pirgopolinices, un militar fatxenda i covard, que és enganyat pel seu esclau Palestrió. Terenci també va escriure comèdies, però no aquesta (*Eunuchus*, *Adelphoe*...); Horaci és poeta líric i Tit Livi, historiador."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Plaute."
+          }
+        ],
+        "nota": "Repassa els autors de les lectures i de la història de la literatura llatina amb els gèneres i les obres: Plaute i Terenci (comèdia), Cèsar, Sal·lusti i Tit Livi (historiografia), Ciceró (oratòria i filosofia), Catul·le, Virgili, Horaci, Tibul, Properci i Ovidi (poesia)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ovidi, desterrat a Tomis",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "exili a tomis",
+        "august",
+        "tristes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B. Encercleu la lletra que correspon a l'opció correcta.\n\n3.3. Quin autor va morir desterrat a Tomis?",
+      "figures": [],
+      "opcions": {
+        "a": "Ovidi.",
+        "b": "Ciceró.",
+        "c": "Horaci.",
+        "d": "Virgili."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps segur que són falses; respon només si tens algun indici, perquè endevinar a l'atzar entre quatre opcions gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Ovidi** va ser desterrat per August el 8 dC a **Tomis**, a la vora del mar Negre (actual Constança, Romania), on va morir cap al 17 dC; allà va escriure les *Tristes* i les *Pòntiques*. Ciceró va ser assassinat per ordre d'Antoni (43 aC); Horaci i Virgili van morir a Itàlia gaudint del favor d'August."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) Ovidi."
+          }
+        ],
+        "nota": "Repassa els autors de les lectures i de la història de la literatura llatina amb els gèneres i les obres: Plaute i Terenci (comèdia), Cèsar, Sal·lusti i Tit Livi (historiografia), Ciceró (oratòria i filosofia), Catul·le, Virgili, Horaci, Tibul, Properci i Ovidi (poesia)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "El tòpic del carpe diem en la lírica d'Horaci",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "horaci",
+        "carpe diem",
+        "odes",
+        "tòpics literaris"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B. Encercleu la lletra que correspon a l'opció correcta.\n\n3.4. El tòpic del *carpe diem* es troba en la poesia lírica",
+      "figures": [],
+      "opcions": {
+        "a": "de Ciceró.",
+        "b": "de Tit Livi.",
+        "c": "de Virgili.",
+        "d": "d'Horaci."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps segur que són falses; respon només si tens algun indici, perquè endevinar a l'atzar entre quatre opcions gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "L'expressió ***carpe diem*** («aprofita el dia») és d'una oda d'**Horaci** (*Odes* I, 11, a Leucònoe), i s'ha convertit en un tòpic literari: la vida és breu i cal gaudir del present. Ciceró i Tit Livi són prosistes i Virgili és poeta èpic i bucòlic, no líric."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) d'Horaci."
+          }
+        ],
+        "nota": "Repassa els autors de les lectures i de la història de la literatura llatina amb els gèneres i les obres: Plaute i Terenci (comèdia), Cèsar, Sal·lusti i Tit Livi (historiografia), Ciceró (oratòria i filosofia), Catul·le, Virgili, Horaci, Tibul, Properci i Ovidi (poesia)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Ovidi, Metamorfosis: Deucalió i Pirra, el diluvi i el nou llinatge humà; l'exili a Tomis",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "deucalió i pirra",
+        "diluvi",
+        "cercle de messal·la",
+        "august",
+        "ars amatoria",
+        "exili a tomis"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "El món havia estat restaurat de nou. En veure'l buit i en veure les terres desolades i sumides en un profund silenci, Deucalió, amb llàgrimes als ulls, va parlar així a Pirra: «Oh germana, oh esposa meva, oh única dona supervivent, […]. De totes les terres que el sol contempla, des del llevant fins al ponent, nosaltres dos en som tota la població. Tota la resta és en poder del mar. […] ara per ara, de nosaltres dos depèn tot el llinatge dels mortals; així ho han volgut els déus, som els únics exemplars que queden de la raça humana.»\n\n(Traducció de Ferran Aguilera)",
+      "enunciat": "Opció A. Exercici d'exposició d'un tema de literatura o de civilització romanes [2 punts]. Llegiu el text següent, que pertany a una de les lectures obligatòries. En quinze línies com a mínim (unes cent cinquanta paraules), expliqueu tot el que sabeu sobre aquest episodi (a quina obra pertany i qui n'és l'autor, qui són els personatges esmentats, per què pateixen aquesta situació, com aconsegueixen restablir el llinatge dels mortals, etc.). Expliqueu també la relació de l'autor del text amb els cercles literaris del final de l'època d'August i el càstig que li imposà l'emperador per causa d'un dels seus poemes.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **2 punts** (uns 20-25 minuts). Text expositiu de mínim 15 línies (~150 paraules); amb tot el que demana, és millor arribar a 250-300. L'enunciat ja et dona l'esquema: segueix-lo en ordre i no et deixis cap punt. Pistes per identificar el text: Deucalió i Pirra, el món buit, «tota la resta és en poder del mar» → el **diluvi** de les *Metamorfosis* d'Ovidi."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació**: Ovidi, *Metamorfosis*, llibre I, episodi de Deucalió i Pirra.\n2. **Personatges**: Deucalió (fill de Prometeu) i Pirra (filla d'Epimeteu i Pandora), cosins i esposos.\n3. **Per què**: Júpiter castiga amb el diluvi la raça de ferro pels seus crims; només ells se salven, al mont Parnàs, per la seva pietat.\n4. **Com restableixen el llinatge**: oracle de Temis («llanceu els ossos de la gran mare»); interpretació: la terra i les pedres; de les pedres de Deucalió neixen homes i de les de Pirra, dones.\n5. **Ovidi i els cercles literaris**: generació més jove que Virgili i Horaci; cercle de Messal·la (no el de Mecenas); suport i admiració per Tibul; poesia no al servei d'August.\n6. **El càstig**: exili a Tomis el 8 o 9 dC; *carmen et error* (*Tristes*, II): l'*Ars amatoria* i un error desconegut."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El text pertany a les ***Metamorfosis*** d'**Ovidi** (llibre I) i correspon a l'episodi de **Deucalió i Pirra**, els únics supervivents del diluvi universal.\n\nDeucalió, fill de Prometeu, estava casat amb la seva cosina Pirra, filla d'Epimeteu i de Pandora, la primera dona. Júpiter, fastiguejat pels crims dels homes de la raça de ferro (simbolitzats per l'impietat de Licàon), va decidir exterminar-los amb un **diluvi**. Només aquesta parella, justa i piadosa, es va salvar: en una barqueta van navegar fins al cim del **mont Parnàs**, l'únic indret que les aigües no havien cobert.\n\nEn retirar-se les aigües, conscients de ser els darrers éssers humans, van consultar l'**oracle de Temis**, que els va respondre: «Cobriu-vos el cap i llanceu darrere l'esquena els ossos de la vostra gran mare». Deucalió va entendre que la gran mare era la **terra** i els ossos, les **pedres**. De les pedres que llançava ell en van sorgir homes i de les de Pirra, dones: una raça nova i dura, capaç de suportar els treballs.\n\nOvidi pertanyia a una generació més jove que la de Virgili i Horaci. Va formar part del **cercle de Valeri Messal·la Corví**, on va rebre el suport de Tibul, a qui admirava. A diferència dels poetes del cercle de Mecenas, la seva poesia no estava al servei del programa de regeneració moral d'August. L'any 8 dC l'emperador el va desterrar a **Tomis**, entre els escites, on va morir. A les *Tristes* el poeta al·ludeix a un **poema** i a un **error**: el poema seria l'***Ars amatoria*** i l'error, haver vist una cosa que no havia de veure."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Ovidi, *Metamorfosis*: episodi de Deucalió i Pirra (diluvi universal)."
+          },
+          {
+            "apartat": null,
+            "valor": "Deucalió, fill de Prometeu, casat amb la seva cosina Pirra, filla d'Epimeteu i Pandora."
+          },
+          {
+            "apartat": null,
+            "valor": "Júpiter, fastiguejat pels crims de la raça de ferro, l'extermina amb un diluvi; Deucalió i Pirra se salven en una barqueta i arriben al cim del Parnàs."
+          },
+          {
+            "apartat": null,
+            "valor": "Oracle de Temis: «llanceu darrere l'esquena els ossos de la vostra gran mare» = les pedres de la terra; de les pedres de Deucalió neixen homes i de les de Pirra, dones: una raça nova i dura."
+          },
+          {
+            "apartat": null,
+            "valor": "Ovidi, més jove que Virgili i Horaci, al cercle de Valeri Messal·la Corví; suport i admiració per Tibul; la seva poesia no serveix el projecte d'August."
+          },
+          {
+            "apartat": null,
+            "valor": "Desterrat a Tomis, entre els escites, el 8 o 9 dC (en acabar les *Metamorfosis*); a les *Tristes* al·ludeix a un «poema» (l'*Ars amatoria*) i a un «error» (haver vist el que no havia de veure)."
+          }
+        ],
+        "nota": "La resposta model té unes 264 paraules (el mínim és ~150). Errors típics: atribuir el text a Virgili; confondre el cercle de Messal·la amb el de Mecenas; dir que Ovidi va ser desterrat per les *Metamorfosis*; oblidar la segona part (cercles literaris i exili), que també puntua; copiar el text en lloc d'explicar l'episodi. La pauta oficial és un model orientatiu que no s'ha de reproduir literalment."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2018-J-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "La Lleida romana (Ilerda): origen, emplaçament i la batalla d'Ilerda entre Cèsar i Pompeu",
+      "tema": "cultura",
+      "temes_secundaris": [
+        "literatura"
+      ],
+      "conceptes": [
+        "ilerda",
+        "romanització",
+        "ilergets",
+        "guerra civil",
+        "cèsar",
+        "pompeu",
+        "de bello ciuili",
+        "hispània romana"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B. Exercici d'exposició d'un tema de literatura o de civilització romanes [2 punts]. La Lleida romana va ser protagonista d'esdeveniments històrics importants; un d'ells fou la guerra civil entre Cèsar i Pompeu (49 aC). En quinze línies com a mínim (unes cent cinquanta paraules), especifiqueu el nom llatí de la ciutat, l'origen, el motiu pel qual va ser fundada i el seu emplaçament. Comenteu també el paper que va tenir en l'enfrontament bèl·lic entre Cèsar i Pompeu, i indiqueu quina és la font històrica principal d'aquest episodi.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **2 punts** (uns 20-25 minuts). Text expositiu de mínim 15 línies (~150 paraules); millor 250-300. L'enunciat enumera sis punts: **nom llatí**, **origen**, **motiu de la fundació**, **emplaçament**, **paper a la guerra civil** i **font històrica**. Fes un paràgraf per a cada bloc i no te'n deixis cap."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Nom i origen**: *Ilerda*, capital ibèrica dels ilergets; primera menció dels *Ilerdenses* al bronze d'Ascoli (89 aC); ciutat romana fundada probablement a l'inici del s. I aC; *municipium* amb August.\n2. **Motiu i emplaçament**: lloc estratègic, dalt d'un turó a la vora del *Sicoris* (Segre); nus de comunicacions entre la costa i l'interior; *conuentus* de *Caesaraugusta*.\n3. **Guerra civil (49 aC)**: Afrani i Petreu, lloctinents de Pompeu, en fan la base d'operacions; Cèsar l'assetja; després de combats durs, els pompeians es rendeixen.\n4. **Font**: Cèsar, *De bello ciuili* (llibre I)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El nom llatí de Lleida és **Ilerda**. Els seus orígens són ibèrics: era la capital dels **ilergets**. La inscripció del **bronze d'Ascoli** (89 aC) conté la primera menció dels *Ilerdenses*. Les restes romanes més antigues són de finals del segle II aC, i la ciutat romana es va fundar probablement a l'inici del segle I aC. August li va concedir el títol de ***municipium*** i la ciutat es va monumentalitzar.\n\nIlerda tenia un **emplaçament estratègic**: dalt d'un turó, a la vora del riu ***Sicoris*** (el Segre), en un punt de pas i de connexió entre la costa i l'interior de la península. Pertanyia al *conuentus* (districte judicial) de *Caesaraugusta* (Saragossa), dins de la província Tarraconense.\n\nL'any **49 aC**, durant la **guerra civil entre Cèsar i Pompeu**, els lloctinents de Pompeu a Hispània, **Afrani i Petreu**, van triar Ilerda com a base d'operacions per defensar la península. Cèsar hi va arribar amb el seu exèrcit i la va assetjar. Després d'uns combats durs, en què una crescuda del Segre va posar en perill les tropes cesarianes, Cèsar va aconseguir tallar els subministraments als pompeians quan es retiraven cap a l'Ebre, i aquests es van haver de rendir. La victòria d'Ilerda li va donar el control d'Hispània.\n\nLa **font històrica principal** d'aquest episodi és el mateix Cèsar, que el narra al llibre I de la seva obra ***De bello ciuili*** (*La guerra civil*)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Nom llatí: *Ilerda*. Origen ibèric: capital dels ilergets; bronze d'Ascoli (89 aC), primera menció dels *Ilerdenses*."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes romanes de finals del s. II aC; fundació probable a l'inici del s. I aC; August li atorgà el títol de *municipium* i fou monumentalitzada."
+          },
+          {
+            "apartat": null,
+            "valor": "Emplaçament estratègic: turó a la vora del *Sicoris* (Segre); lloc de pas i de connexió entre la costa i l'interior; *conuentus* de *Caesaraugusta*."
+          },
+          {
+            "apartat": null,
+            "valor": "49 aC: Afrani i Petreu, lloctinents de Pompeu, la trien com a base per defensar Hispània; Cèsar l'assetja i, després de combats duríssims, els pompeians es rendeixen."
+          },
+          {
+            "apartat": null,
+            "valor": "Font principal: Cèsar, *De bello ciuili*."
+          }
+        ],
+        "nota": "La resposta model té unes 231 paraules (el mínim és ~150). Errors típics: confondre *Ilerda* amb *Tarraco* o *Barcino*; dir que Pompeu era present a Ilerda (hi eren els seus lloctinents, Afrani i Petreu); citar el *De bello Gallico* com a font (la guerra civil es narra al *De bello ciuili*); oblidar l'emplaçament o el riu *Sicoris*. Els detalls de la crescuda del Segre i de la retirada cap a l'Ebre no surten a la pauta oficial, però són coneguts per la narració de Cèsar i enriqueixen la resposta."
+      },
+      "serie": "1"
+    }
+  ]
+}

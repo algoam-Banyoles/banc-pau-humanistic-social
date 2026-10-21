@@ -1,0 +1,842 @@
+{
+  "examen": {
+    "id": "llati-2017-S",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2017,
+    "convocatoria": "setembre",
+    "serie": "2",
+    "pdf_examen": "pdfs/llati/2017-S-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2017-S-solucio.pdf",
+    "estructura": "Sèrie 2, convocatòria de setembre. Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un text de Cèsar (*Guerra de les Gàl·lies*, V, 18, 1-2; 5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B). Opció A: 2. morfosintaxi, cal respondre UNA de dues qüestions (el relatiu *quod* o l'oració d'infinitiu; 1 punt); 3. quatre preguntes d'opció múltiple sobre llatinismes (2 punts, 0,5 per encert, −0,16 per error, les no contestades no descompten); 4. exposició sobre un fragment del *Miles gloriosus* de Plaute i la comèdia *palliata* (2 punts, mínim 15 línies, ~150 paraules). Opció B: 2. morfosintaxi, UNA de dues qüestions (ablatiu absolut o *cum* històric; 1 punt); 3. quatre afirmacions de vertader/fals sobre literatura llatina (2 punts, mateix barem); 4. comentari d'una imatge d'Empúries (2 punts, mínim 15 línies, ~150 paraules)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2017-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Cèsar: l'exèrcit arriba al Tàmesi i veu els britans formats a l'altra riba",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "cèsar",
+        "de bello gallico",
+        "ablatiu absolut",
+        "oració de relatiu",
+        "cum històric",
+        "oració d'infinitiu",
+        "britània"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2
+      ],
+      "text": "**Cèsar, des de la riba del Tàmesi, observa una gran concentració de tropes de l'enemic**\n\nCaesar, cognito consilio Britannorum, exercitum ad flumen Tamesim duxit, quod uno omnino uado transiri poterat. Eo cum uenisset, animaduertit ad alteram fluminis ripam magnas hostium copias instructas esse.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, V, 18, 1-2\n\n**Lèxic** (informació del diccionari):\n\n- *Britanni, -orum* (m. pl.): britans (habitants de Britània).\n- *cognosco, -noui, -nitum* (3a, tr.): conèixer.\n- *consilium, -i* (n.): decisió.\n- *copiae, -arum* (f. pl.): tropes.\n- *eo* (adv.): allí.\n- *instruo, -uxi, -uctum* (3a, tr.): formar en ordre de batalla.\n- *omnino* (adv.): només.\n- *Tamesis, -is* (m.): el Tàmesi (nom de riu).\n- *transiri* (infinitiu de present passiu del verb *transeo*): travessar.\n- *uadum, -i* (n.): gual.",
+      "enunciat": "Feu la versió del text següent (5 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text curt de Cèsar (*De bello Gallico*, V, 18: segona expedició a Britània, any 54 aC) amb **dues oracions** separades per punt. Val **5 punts**, la meitat de l'examen: dedica-hi uns 40 minuts.\n\nMètode: (1) llegeix el títol, que ja dona el sentit (Cèsar arriba al Tàmesi i veu moltes tropes enemigues a l'altra riba); (2) localitza els **verbs conjugats**: *duxit*, *poterat*, *uenisset*, *animaduertit*; (3) identifica les estructures: l'**ablatiu absolut** *cognito consilio Britannorum*, el relatiu *quod*, el *cum* amb subjuntiu i l'**oració d'infinitiu** que depèn d'*animaduertit*; (4) fes una traducció literal i després poleix-la.\n\nParanys: *Tamesim* és acusatiu en *-im* de la 3a declinació (aposició de *flumen*); l'antecedent de *quod* és *flumen* (neutre), no *exercitum*; *transiri* és infinitiu **passiu** («ser travessat»); *eo* és l'adverbi «allí», no una forma del verb *eo* («anar»); *copias* vol dir «tropes» (plural), no «abundància»; *instructas esse* és infinitiu de perfet passiu."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Caesar, cognito consilio Britannorum, exercitum ad flumen Tamesim duxit, quod uno omnino uado transiri poterat.*\n\n- Oració principal: verb ***duxit*** (3a sg. perfet d'indicatiu actiu de *duco*, «conduí, va portar»); subjecte ***Caesar*** (nominatiu sg.); CD ***exercitum*** (acusatiu sg. d'*exercitus, -us*, 4a decl.); ***ad flumen Tamesim*** (*ad* + acusatiu), CC de direcció: «fins al riu Tàmesi» (*Tamesim*, acusatiu sg. en *-im*, en aposició a *flumen*).\n- ***cognito consilio Britannorum***: **ablatiu absolut**. *cognito* és participi de perfet passiu de *cognosco* (ablatiu sg. neutre) concordat amb *consilio* (ablatiu sg. de *consilium*), que en fa de subjecte; *Britannorum* (genitiu pl.) és CN de *consilio*. Valor temporal: «un cop coneguda la decisió dels britans».\n- ***quod ... transiri poterat***: subordinada **adjectiva de relatiu**. *quod* (nominatiu sg. neutre) té per antecedent *flumen* i fa de subjecte de *poterat* (3a sg. imperfet d'indicatiu de *possum*), que regeix l'infinitiu passiu *transiri* («podia ser travessat»). ***uno omnino uado*** (ablatiu sg.): CC de mitjà o de lloc per on, «només per un sol gual»; *omnino* (adv.) «només»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Eo cum uenisset, animaduertit ad alteram fluminis ripam magnas hostium copias instructas esse.*\n\n- ***Eo cum uenisset***: subordinada adverbial **temporal-causal** (*cum* històric) amb el verb ***uenisset*** (3a sg. plusquamperfet de subjuntiu de *uenio*), que indica anterioritat respecte al verb principal. ***Eo*** (adverbi) és CC de lloc: «allí». El subjecte és Cèsar, sobreentès. «Quan va haver arribat allí» = «en arribar allí».\n- Oració principal: verb ***animaduertit*** (3a sg. perfet d'indicatiu d'*animaduerto*, «s'adonà, observà»); subjecte el·líptic: Cèsar.\n- ***magnas hostium copias instructas esse***: **oració subordinada substantiva d'infinitiu**, CD d'*animaduertit*. Subjecte en acusatiu: ***magnas copias*** (acusatiu pl. f.) amb el CN ***hostium*** (genitiu pl. d'*hostis*); verb: ***instructas esse***, infinitiu de perfet passiu d'*instruo* (el participi *instructas* concorda amb *copias*): «que havien estat formades en ordre de batalla». ***ad alteram fluminis ripam*** (*ad* + acusatiu): CC de lloc, «a l'altra riba del riu», amb *fluminis* (genitiu sg. de *flumen*) com a CN de *ripam*."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Cèsar, coneguda la decisió dels britans, l'exèrcit fins al riu Tàmesi conduí, el qual per un sol gual només podia ser travessat. Allí quan hagué arribat, s'adonà que a l'altra del riu riba grans dels enemics tropes havien estat formades en ordre de batalla."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Cèsar, un cop coneguda la decisió dels britans, va conduir l'exèrcit fins al riu Tàmesi, que només es podia travessar per un sol gual. Quan va arribar allí, s'adonà que a l'altra riba del riu hi havia grans tropes dels enemics formades en ordre de batalla.\n\nTraducció orientativa oficial: «Cèsar, un cop coneguda la decisió dels britans, va conduir l'exèrcit fins al riu Tàmesi, el qual només podia ser travessat per un sol gual. En arribar allí, s'adonà que, a l'altra riba del riu, hi havia formades en ordre de batalla nombroses tropes dels enemics.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Cèsar, un cop coneguda la decisió dels britans, va conduir l'exèrcit fins al riu Tàmesi, el qual només podia ser travessat per un sol gual. En arribar allí, s'adonà que, a l'altra riba del riu, hi havia formades en ordre de batalla nombroses tropes dels enemics.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: ablatiu absolut *cognito consilio Britannorum*; *Caesar* subjecte de *duxit* i *exercitum* CD; *ad flumen Tamesim* CC de direcció; relativa *quod* (antecedent *flumen*) amb *poterat* + infinitiu passiu *transiri*; *cum* històric amb plusquamperfet de subjuntiu (*uenisset*); oració d'infinitiu *magnas hostium copias instructas esse*, CD d'*animaduertit*."
+          }
+        ],
+        "nota": "Errors típics: no reconèixer l'ablatiu absolut i traduir *consilio* com a CI («a la decisió»); fer *exercitum* antecedent de *quod* (el relatiu és neutre i concorda amb *flumen*); traduir *transiri* en actiu sense adaptar la frase; confondre *eo* adverbi amb el verb «anar»; traduir *copias* per «abundància» o «còpies»; fer *copias* CD d'*animaduertit* i deixar *instructas esse* penjat (és una oració d'infinitiu). Context: segona expedició de Cèsar a Britània (54 aC); els britans, sota el comandament de Cassivel·laune, l'esperen a l'altra banda del Tàmesi, amb la riba plantada d'estaques esmolades."
+      }
+    },
+    {
+      "id": "llati-2017-S-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: el relatiu quod (antecedent flumen) o l'oració d'infinitiu CD d'animaduertit",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "pronom relatiu",
+        "antecedent",
+        "oració de relatiu",
+        "oració d'infinitiu",
+        "complement directe",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cèsar, des de la riba del Tàmesi, observa una gran concentració de tropes de l'enemic**\n\nCaesar, cognito consilio Britannorum, exercitum ad flumen Tamesim duxit, quod uno omnino uado transiri poterat. Eo cum uenisset, animaduertit ad alteram fluminis ripam magnas hostium copias instructas esse.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, V, 18, 1-2\n\n**Lèxic** (informació del diccionari):\n\n- *Britanni, -orum* (m. pl.): britans (habitants de Britània).\n- *cognosco, -noui, -nitum* (3a, tr.): conèixer.\n- *consilium, -i* (n.): decisió.\n- *copiae, -arum* (f. pl.): tropes.\n- *eo* (adv.): allí.\n- *instruo, -uxi, -uctum* (3a, tr.): formar en ordre de batalla.\n- *omnino* (adv.): només.\n- *Tamesis, -is* (m.): el Tàmesi (nom de riu).\n- *transiri* (infinitiu de present passiu del verb *transeo*): travessar.\n- *uadum, -i* (n.): gual.",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). Responeu a UNA de les dues qüestions següents (cada qüestió val 1 punt).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En la construcció ***quod*** *uno omnino uado transiri poterat*, digueu quin tipus d'oració introdueix *quod* i justifiqueu quin antecedent té (*quod* apareix subratllat a l'examen).",
+          "punts": 1
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu com s'anomena l'estructura *ad alteram fluminis ripam magnas hostium copias instructas esse* i quina funció sintàctica fa respecte a *animaduertit*.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cal respondre **només una** de les dues qüestions (1 punt, uns 10 minuts). Tria la que tinguis més clara. Totes dues demanen dues coses: a l'a), el tipus d'oració **i** l'antecedent justificat (concordança); a la b), el nom de l'estructura **i** la seva funció sintàctica."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*quod* és el pronom relatiu en nominatiu (o acusatiu) singular **neutre**. Un relatiu introdueix sempre una oració subordinada adjectiva. L'antecedent és el nom anterior amb què concorda en **gènere i nombre**: *exercitum* és masculí i *Tamesim* també (el lèxic diu *Tamesis, -is* (m.)), de manera que l'únic neutre singular és *flumen*. A més, el sentit ho confirma: el que es travessa per un gual és el riu."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "*quod* introdueix una **oració subordinada adjectiva (de relatiu)**. El seu antecedent és ***flumen***, amb el qual concorda en **gènere (neutre) i nombre (singular)**; el cas, en canvi, depèn de la funció dins la relativa: *quod* és nominatiu perquè fa de subjecte de *poterat* («el qual només podia ser travessat per un sol gual»). No pot ser *exercitum* ni *Tamesim*, que són masculins."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Busca el verb de l'estructura: *instructas esse* és un **infinitiu** (de perfet passiu) amb un subjecte en **acusatiu** (*magnas hostium copias*). Això és una oració d'infinitiu. Depèn d'*animaduertit*, un verb de percepció/coneixement, i respon a la pregunta «de què s'adonà?»: per tant, fa de CD."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "És una **oració subordinada substantiva d'infinitiu**: el verb és l'infinitiu de perfet passiu *instructas esse* i el subjecte, en acusatiu, és *magnas hostium copias*. Respecte a *animaduertit* fa la funció de **complement directe** («s'adonà que a l'altra riba del riu hi havia grans tropes enemigues formades en ordre de batalla»)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Oració subordinada adjectiva (de relatiu); antecedent *flumen*, amb el qual concorda en gènere i nombre."
+          },
+          {
+            "apartat": "b",
+            "valor": "Oració subordinada substantiva d'infinitiu; fa de complement directe d'*animaduertit*."
+          }
+        ],
+        "nota": "Errors típics: a l'a), donar *exercitum* o *Tamesim* com a antecedent (són masculins) o dir que el relatiu concorda també en cas; confondre *quod* relatiu amb la conjunció causal *quod*. A la b), dir només «infinitiu» sense «oració subordinada substantiva», o fer *copias* CD d'*animaduertit*."
+      }
+    },
+    {
+      "id": "llati-2017-S-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: l'ablatiu absolut cognito consilio Britannorum o el cum històric",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi de perfet",
+        "cum històric",
+        "plusquamperfet de subjuntiu",
+        "subordinada adverbial",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Cèsar, des de la riba del Tàmesi, observa una gran concentració de tropes de l'enemic**\n\nCaesar, cognito consilio Britannorum, exercitum ad flumen Tamesim duxit, quod uno omnino uado transiri poterat. Eo cum uenisset, animaduertit ad alteram fluminis ripam magnas hostium copias instructas esse.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, V, 18, 1-2\n\n**Lèxic** (informació del diccionari):\n\n- *Britanni, -orum* (m. pl.): britans (habitants de Britània).\n- *cognosco, -noui, -nitum* (3a, tr.): conèixer.\n- *consilium, -i* (n.): decisió.\n- *copiae, -arum* (f. pl.): tropes.\n- *eo* (adv.): allí.\n- *instruo, -uxi, -uctum* (3a, tr.): formar en ordre de batalla.\n- *omnino* (adv.): només.\n- *Tamesis, -is* (m.): el Tàmesi (nom de riu).\n- *transiri* (infinitiu de present passiu del verb *transeo*): travessar.\n- *uadum, -i* (n.): gual.",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). Responeu a UNA de les dues qüestions següents (cada qüestió val 1 punt).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Digueu com s'anomena la construcció formada per *cognito consilio Britannorum* i expliqueu en què consisteix.",
+          "punts": 1
+        },
+        {
+          "id": "b",
+          "enunciat": "En la construcció *eo* ***cum*** *uenisset*, digueu quin tipus d'oració introdueix *cum* i justifiqueu-ho (*cum* apareix subratllat a l'examen).",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cal respondre **només una** de les dues qüestions (1 punt, uns 10 minuts). A l'a) no n'hi ha prou amb el nom de la construcció: cal **explicar-ne els elements** (participi + substantiu en ablatiu concordats). A la b) cal **justificar** el tipus d'oració amb el temps i el mode del verb."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*cognito* acaba en *-o*: és un participi de perfet passiu de *cognosco* en ablatiu singular neutre. *consilio* és també ablatiu singular neutre: concorden. Un participi i un nom en ablatiu, sense dependre de cap paraula de l'oració principal, formen un **ablatiu absolut**. *Britannorum* és un genitiu que complementa *consilio*."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "És un **ablatiu absolut**. Consisteix en un **participi en ablatiu** (*cognito*, participi de perfet passiu de *cognosco*) **concordat** en gènere, nombre i cas amb un **substantiu en ablatiu** (*consilio*), que en fa de subjecte; *Britannorum* (genitiu plural) és complement del nom de *consilio*. La construcció no depèn sintàcticament de cap element de l'oració principal i hi fa la funció de complement circumstancial, aquí de valor temporal: com que el participi és de perfet, expressa una acció anterior a *duxit* («un cop coneguda la decisió dels britans»)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*cum* aquí no és preposició (no va amb ablatiu) sinó conjunció. Mira el verb: *uenisset* és **plusquamperfet de subjuntiu**. *Cum* + subjuntiu (imperfet o plusquamperfet) en una narració en passat és el ***cum* històric**, de valor temporal-causal; el plusquamperfet indica anterioritat."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "*cum* introdueix una **oració subordinada adverbial temporal-causal** (***cum* històric**: «quan / com que va haver arribat allí»). Es justifica perquè el verb, *uenisset*, està en **plusquamperfet de subjuntiu**: *cum* amb subjuntiu en temps passat dins d'una narració té aquest valor; el plusquamperfet expressa que l'acció és anterior a la de la principal (*animaduertit*)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Ablatiu absolut: participi en ablatiu (*cognito*) concordat amb un substantiu també en ablatiu (*consilio*)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Oració subordinada adverbial temporal-causal (*cum* històric); es justifica perquè el verb (*uenisset*) està en plusquamperfet de subjuntiu."
+          }
+        ],
+        "nota": "Errors típics: a l'a), dir només «ablatiu» o «participi» sense explicar la concordança; prendre *Britannorum* per part de l'ablatiu absolut (és un genitiu, CN). A la b), dir «temporal» sense justificar-ho amb el mode, o confondre *cum* amb la preposició. Les pautes oficials escriuen *cognito consilio Britonum* en lloc de *Britannorum*, que és la forma del text: és un lapsus sense conseqüències."
+      }
+    },
+    {
+      "id": "llati-2017-S-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme «ad hoc»: fet expressament per a una finalitat",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "llatinismes",
+        "expressions llatines",
+        "ad hoc",
+        "quid",
+        "in extremis",
+        "conditio sine qua non"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina equivalent als mots o les expressions destacats en negreta.\n\n1. He trobat una capsa que sembla feta **expressament per a això**.",
+      "figures": [],
+      "opcions": {
+        "a": "*Quid.*",
+        "b": "*In extremis.*",
+        "c": "*Conditio sine qua non.*",
+        "d": "*Ad hoc.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada llatinisme i mira quin encaixa amb el sentit de les paraules en negreta."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Ad hoc*** vol dir literalment «per a això» (*ad* + acusatiu neutre de *hic, haec, hoc*): fet expressament per a una finalitat concreta. Les altres: *quid* («què»: el punt essencial d'una qüestió, «aquí hi ha el *quid*»); *in extremis* («en els darrers moments», a l'últim instant); *conditio sine qua non* («condició sense la qual no»: requisit imprescindible)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Ad hoc."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la seva traducció literal: *a priori / a posteriori*, *ad hoc*, *in vitro / in vivo*, *de facto / de iure*, *ipso facto*, *per se*, *sine qua non*, *grosso modo*, *in extremis*, *motu proprio*, *statu quo*... Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2017-S-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme «in mente»: tenir present",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "llatinismes",
+        "expressions llatines",
+        "in mente",
+        "ipso facto",
+        "per se",
+        "de iure"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina equivalent als mots o les expressions destacats en negreta.\n\n2. Sempre et tinc **present**, no t'oblido mai.",
+      "figures": [],
+      "opcions": {
+        "a": "*Ipso facto.*",
+        "b": "*Per se.*",
+        "c": "*In mente.*",
+        "d": "*De iure.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada llatinisme i mira quin encaixa amb el sentit de les paraules en negreta."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***In mente*** és «en la ment» (*in* + ablatiu de *mens, mentis*): tenir algú o alguna cosa present al pensament. Les altres: *ipso facto* («pel mateix fet»: immediatament, automàticament); *per se* («per si mateix»); *de iure* («de dret», legalment, oposat a *de facto*)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) In mente."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la seva traducció literal: *a priori / a posteriori*, *ad hoc*, *in vitro / in vivo*, *de facto / de iure*, *ipso facto*, *per se*, *sine qua non*, *grosso modo*, *in extremis*, *motu proprio*, *statu quo*... Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2017-S-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme «a posteriori»: després dels fets",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "llatinismes",
+        "expressions llatines",
+        "a posteriori",
+        "a priori",
+        "postdata",
+        "in vivo"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina equivalent als mots o les expressions destacats en negreta.\n\n3. És molt fàcil dir, **un cop ha succeït**, que ja se sabia el que passaria.",
+      "figures": [],
+      "opcions": {
+        "a": "*A priori.*",
+        "b": "*Postdata.*",
+        "c": "*In vivo.*",
+        "d": "*A posteriori.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada llatinisme i mira quin encaixa amb el sentit de les paraules en negreta."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***A posteriori*** («a partir del que ve després») vol dir després d'haver passat els fets, coneixent-ne el resultat. El seu contrari és *a priori* («a partir del que és anterior»: abans de l'experiència). *Postdata* (de *post datam*, «després de la data») és el que s'afegeix a una carta ja signada (P. S.); *in vivo* és «en un organisme viu»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) A posteriori."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la seva traducció literal: *a priori / a posteriori*, *ad hoc*, *in vitro / in vivo*, *de facto / de iure*, *ipso facto*, *per se*, *sine qua non*, *grosso modo*, *in extremis*, *motu proprio*, *statu quo*... Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2017-S-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme «in vitro»: en el laboratori",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "llatinismes",
+        "expressions llatines",
+        "in vitro",
+        "in vivo",
+        "lato sensu",
+        "de facto",
+        "modus vivendi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina equivalent als mots o les expressions destacats en negreta.\n\n4. Aquesta reacció química només s'ha experimentat **en el laboratori**, encara no s'ha provat en éssers vius.",
+      "figures": [],
+      "opcions": {
+        "a": "*Lato sensu.*",
+        "b": "*In vitro.*",
+        "c": "*De facto.*",
+        "d": "*Modus vivendi.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada llatinisme i mira quin encaixa amb el sentit de les paraules en negreta."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***In vitro*** («en el vidre», és a dir, en provetes i tubs d'assaig) designa els experiments fets al laboratori, fora d'un organisme viu; el contrari és *in vivo*, que la mateixa frase evoca («éssers vius»). Les altres: *lato sensu* («en sentit ampli»); *de facto* («de fet», tot i que no de dret); *modus vivendi* («manera de viure» o acord pràctic per conviure)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) In vitro."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la seva traducció literal: *a priori / a posteriori*, *ad hoc*, *in vitro / in vivo*, *de facto / de iure*, *ipso facto*, *per se*, *sine qua non*, *grosso modo*, *in extremis*, *motu proprio*, *statu quo*... Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2017-S-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Les Metamorfosis d'Ovidi: entre l'èpica i la didàctica",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "poesia èpica",
+        "poesia didàctica",
+        "hexàmetre"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Marqueu a la casella corresponent si les afirmacions següents són vertaderes o falses (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\na) Les *Metamorfosis* d'Ovidi tenen característiques literàries de la poesia èpica i de la poesia didàctica.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "V",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Per marcar «vertader», **tots** els elements de l'afirmació han de ser certs: revisa'n l'autor, l'obra, el gènere i els detalls un per un."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Vertader.** Les *Metamorfosis* són un llarg poema en **hexàmetres** (el vers de l'èpica) i quinze llibres que narra, en ordre cronològic des del caos inicial fins a l'època d'August, uns 250 mites de transformacions: forma i ambició èpiques. Alhora tenen trets de la **poesia didàctica** i etiològica (expliquen l'origen de coses, plantes, animals o costums, i al llibre XV hi ha l'exposició de la doctrina de Pitàgores)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Vertader."
+          }
+        ],
+        "nota": "Les afirmacions falses sovint canvien un sol detall (l'autor per un personatge, una obra per una altra). Repassa autors i obres: Ovidi (*Metamorfosis*), Ciceró (*Catilinàries*), Cèsar (*Commentarii*), Titus Livi (*Ab urbe condita*), Plaute i Terenci (comèdia *palliata*)."
+      }
+    },
+    {
+      "id": "llati-2017-S-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Les Catilinàries: discursos de Ciceró contra Catilina",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ciceró",
+        "catilinàries",
+        "catilina",
+        "oratòria",
+        "conjuració"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Marqueu a la casella corresponent si les afirmacions següents són vertaderes o falses (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\nb) Les *Catilinàries* són un conjunt de discursos escrits per Catilina contra Ciceró.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "F",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Per marcar «vertader», **tots** els elements de l'afirmació han de ser certs: revisa'n l'autor, l'obra, el gènere i els detalls un per un."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Fals.** És al revés: les *Catilinàries* són **quatre discursos de Ciceró contra Catilina**, pronunciats l'any 63 aC, quan Ciceró era cònsol, per denunciar la conjuració de Catilina (comença amb el famós *Quo usque tandem abutere, Catilina, patientia nostra?*)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Fals."
+          }
+        ],
+        "nota": "Les afirmacions falses sovint canvien un sol detall (l'autor per un personatge, una obra per una altra). Repassa autors i obres: Ovidi (*Metamorfosis*), Ciceró (*Catilinàries*), Cèsar (*Commentarii*), Titus Livi (*Ab urbe condita*), Plaute i Terenci (comèdia *palliata*)."
+      }
+    },
+    {
+      "id": "llati-2017-S-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Juli Cèsar i la historiografia: els Commentarii",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "cèsar",
+        "commentarii",
+        "de bello gallico",
+        "titus livi",
+        "historiografia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Marqueu a la casella corresponent si les afirmacions següents són vertaderes o falses (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\nc) Juli Cèsar va escriure una llarga obra historiogràfica sobre l'origen de Roma.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "F",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Per marcar «vertader», **tots** els elements de l'afirmació han de ser certs: revisa'n l'autor, l'obra, el gènere i els detalls un per un."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Fals.** Cèsar va escriure ***commentarii*** sobre les guerres que ell mateix va dirigir: la *Guerra de les Gàl·lies* (*De bello Gallico*, 7 llibres) i la *Guerra civil* (*De bello ciuili*, 3 llibres). La gran obra historiogràfica sobre l'origen de Roma és ***Ab urbe condita*** de **Titus Livi** (142 llibres)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Fals."
+          }
+        ],
+        "nota": "Les afirmacions falses sovint canvien un sol detall (l'autor per un personatge, una obra per una altra). Repassa autors i obres: Ovidi (*Metamorfosis*), Ciceró (*Catilinàries*), Cèsar (*Commentarii*), Titus Livi (*Ab urbe condita*), Plaute i Terenci (comèdia *palliata*)."
+      }
+    },
+    {
+      "id": "llati-2017-S-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Terenci i els títols grecs de les seves comèdies",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "terenci",
+        "comèdia palliata",
+        "menandre",
+        "els germans",
+        "plaute"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Marqueu a la casella corresponent si les afirmacions següents són vertaderes o falses (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\nd) Terenci va posar sempre un títol en grec a les seves obres.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "V",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Per marcar «vertader», **tots** els elements de l'afirmació han de ser certs: revisa'n l'autor, l'obra, el gènere i els detalls un per un."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Vertader.** Les sis comèdies conservades de Terenci, totes *palliatae* adaptades de la Comèdia Nova grega (sobretot de Menandre), conserven el títol grec del model: *Andria* (*La noia d'Andros*), *Hecyra* (*La sogra*), *Heautontimorumenos* (*El botxí de si mateix*), *Eunuchus* (*L'eunuc*), *Phormio* (*Formió*) i *Adelphoe* (*Els germans*). Plaute, en canvi, sovint posava títols llatins (*Aulularia*, *Mostellaria*, *Miles gloriosus*)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Vertader."
+          }
+        ],
+        "nota": "Les afirmacions falses sovint canvien un sol detall (l'autor per un personatge, una obra per una altra). Repassa autors i obres: Ovidi (*Metamorfosis*), Ciceró (*Catilinàries*), Cèsar (*Commentarii*), Titus Livi (*Ab urbe condita*), Plaute i Terenci (comèdia *palliata*)."
+      }
+    },
+    {
+      "id": "llati-2017-S-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "El soldat fanfarró de Plaute: el paràsit Artotrogus adula Pirgopolinices",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "plaute",
+        "miles gloriosus",
+        "comèdia palliata",
+        "comèdia nova",
+        "contaminatio",
+        "paràsit",
+        "lectures obligatòries"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "**Pirgopolinices**: Què et van dir?  \n**Artotrogus**: Tot era fer preguntes. «No és Aquil·les, aquest?», deia l'una. «No», li faig jo, «és el seu germà.» I l'altra que diu: «Doncs, per Càstor, que fa patxoca! I quin aspecte té més distingit! Mira que bé li van els tirabuixons! Quina sort, les dones que s'alliten amb ell!»  \n**Pirgopolinices**: De veres? Això deien?  \n**Artotrogus**: Que si ho deien? Totes dues, vinga pregar-me que avui et fes passar pel carrer on s'estan; semblava que parlessin d'una processó.  \n**Pirgopolinices**: Que un home faci massa goig, és una bona pega!\n\n(Traducció de Marçal Olivar)",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Llegiu el text següent, que pertany a una de les lectures obligatòries. En quinze línies com a mínim (unes cent cinquanta paraules), expliqueu el sentit d'aquest fragment situant-lo en la trama de l'obra. Comenteu també les característiques principals del gènere literari al qual pertany (les fonts en què es va inspirar l'autor, la temàtica, l'estructura, els personatges, etc.), i esmenteu dues obres més del mateix autor.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. L'enunciat no diu el títol de l'obra: has de reconèixer-la pels noms dels personatges (Pirgopolinices, Artotrogus): és el *Miles gloriosus* de Plaute. Cal respondre tres blocs: (1) sentit del fragment i lloc dins la trama; (2) característiques del gènere (*palliata*): fonts, temàtica, estructura, personatges; (3) dues obres més de Plaute. Un bloc oblidat costa punts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació i sentit**: escena inicial; el paràsit adula el soldat fanfarró, que es creu irresistible. Comicitat: l'exageració (el confonen amb el germà d'Aquil·les) i la ironia (el paràsit se'n riu mentre l'afalaga per menjar).\n2. **Trama**: Pirgopolinices té Filocomàsia a Efes; el seu amant Plèusicles i l'esclau Palestrió, amb l'ajuda del vell Periplectomen, fan servir la vanitat del soldat (una cortesana es fa passar per la dona del veí enamorada d'ell) per alliberar la noia; el soldat acaba apallissat com a adúlter.\n3. **Gènere**: *palliata* (del *pallium* grec); models de la Comèdia Nova (*imitatio* i *contaminatio*); ambientació i noms grecs; pròleg, cinc actes, parts parlades i cantades, *plaudite*; personatges tipus i esclau protagonista; embolics amorosos; finalitat d'entretenir.\n4. **Dues obres més**: *Amfitrió*, *Els bessons*, *La comèdia de l'olla*, *La comèdia del fantasma*..."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Aquest fragment pertany a l'escena inicial del *Miles gloriosus* (*El soldat fanfarró*) de **Plaute**. El paràsit Artotrogus, que adula el militar per poder menjar a casa seva, li explica que dues noies l'han pres per Aquil·les i que totes les dones se'n moren d'enamorades. Pirgopolinices, vanitós i curt de gambals, s'ho creu tot. Aquesta vanitat de seductor és la clau de la trama: el soldat té segrestada a Efes la jove Filocomàsia, l'enamorada del jove atenès Plèusicles, i l'esclau Palestrió aprofitarà la seva fatuïtat per fer-li creure que la dona del veí Periplectomen està boja per ell. Així el militar deixa marxar Filocomàsia i, al final, és enxampat com a adúlter i apallissat.\n\nL'obra és una **comèdia *palliata***, anomenada així pel *pallium*, el mantell grec: adapta models de la **Comèdia Nova** grega (Menandre, Dífil, Filèmon), manté l'ambientació i els noms grecs i combina escenes de diverses obres (*contaminatio*). Té pròleg, cinc actes amb parts parlades, recitades i cantades, i un final amb el *plaudite*. Els personatges són tipus fixos (*adulescens*, *senex*, *parasitus*, *miles*, *meretrix*), i l'esclau astut que mou la intriga és el protagonista. Els arguments giren entorn d'embolics amorosos, i la finalitat és divertir amb enganys, jocs de paraules i exageracions.\n\nAltres obres de Plaute són *Amfitrió* i *Els bessons* (*Menaechmi*); també *La comèdia de l'olla* (*Aulularia*)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Sentit: al principi del *Miles gloriosus*, el paràsit Artotrogus infla la vanitat del militar Pirgopolinices fent-li creure que és un gran conquistador i que totes les dones n'estan enamorades."
+          },
+          {
+            "apartat": null,
+            "valor": "Trama: més endavant aquesta pretesa fama de conquistador és aprofitada per l'esclau Palestrió en benefici dels joves amants Filocomàsia i Plèusicles."
+          },
+          {
+            "apartat": null,
+            "valor": "Gènere: comèdia *palliata* (del *pallium* grec), que adapta obres de la Comèdia Nova àtica (*imitatio* i *contaminatio*), amb ambientació grega (Efes) i noms grecs; pròleg, cinc actes amb escenes parlades, recitades i cantades, epíleg i *plaudite*."
+          },
+          {
+            "apartat": null,
+            "valor": "Personatges estereotipats (*adulescens*, *leno*, *parasitus*, *senex*, *uirgo*...) i esclau protagonista astut; arguments d'embolics amorosos; objectiu: entretenir i divertir."
+          },
+          {
+            "apartat": null,
+            "valor": "Dues obres més de Plaute (n'hi ha més de vint): *Amfitrió*, *Càsina*, *Els captius*, *Els dos menecmes*, *La comèdia de l'olla*, *La comèdia del fantasma*, etc."
+          }
+        ],
+        "nota": "La resposta model té unes 230 paraules (el mínim és ~150). Errors típics: atribuir l'obra a Terenci (també fa *palliatae*, però Pirgopolinices és de Plaute); resumir l'obra sencera sense explicar el fragment; oblidar les fonts gregues o les dues obres; citar com a obres de Plaute les de Terenci (*Els germans*, *L'eunuc*...). La pauta oficial adverteix que el seu redactat és només orientatiu."
+      }
+    },
+    {
+      "id": "llati-2017-S-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Empúries: grecs, indígenes i romans en una ciutat del litoral empordanès",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "empúries",
+        "emporion",
+        "emporiae",
+        "colonització grega",
+        "focea",
+        "segona guerra púnica",
+        "urbanisme romà",
+        "escipió"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). La imatge següent correspon a la planta d'una antiga població d'Hispània. En quinze línies com a mínim (unes cent cinquanta paraules), especifiqueu el nom antic d'aquesta població, la influència dels accidents geogràfics en la configuració que va tenir al llarg de la història, les diverses ètnies que la van habitar, l'època en què hi van arribar i el motiu pel qual s'hi instal·laren. Esmenteu també l'estructura urbanística general de la part romana i les construccions públiques principals que s'hi han conservat.",
+      "figures": [
+        {
+          "src": "img/llati/2017-S/e4-b.png",
+          "peu": "Reconstrucció en perspectiva d'Empúries: a l'esquerra, la gran ciutat romana emmurallada de traçat ortogonal amb el fòrum; a la dreta, vora el port, la Neàpolis grega i, a l'extrem, la Palaiàpolis."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Comentari d'una imatge (2 punts, uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. L'enunciat demana **sis coses**: (1) nom antic; (2) influència de la geografia; (3) ètnies que l'habitaren; (4) quan hi arribaren; (5) per què s'hi instal·laren; (6) urbanisme de la part romana i edificis públics conservats. Fes un paràgraf per a cada bloc perquè el corrector ho vegi tot. Pistes de la imatge: gran recinte rectangular en quadrícula al costat d'un nucli més petit vora una badia: la ciutat romana i la grega d'Empúries."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Nom**: *Emporion* (grec, «mercat») / *Emporiae* (llatí).\n2. **Geografia**: promontoris entre aiguamolls i dos rius, port natural; per això el primer assentament és en un illot i després es passa a terra ferma.\n3-5. **Pobles**: indígenes (indigets, Indika); grecs foceus des de Massalia, s. VI aC (Palaiàpolis i després Neàpolis), per comerç (ruta Massalia–Tartessos); romans el 218 aC (Segona Guerra Púnica, Gneu Corneli Escipió), per raons estratègiques (port segur prop dels Pirineus, tallar Anníbal); ciutat romana al s. I aC amb veterans de Cèsar.\n6. **Urbanisme**: planta rectangular, traçat hipodàmic, muralla, *cardo* i *decumanus*, fòrum amb temples (Tríada Capitolina), basílica, termes; unió dels nuclis amb August; fora muralles, amfiteatre i palestra."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La imatge correspon a **Empúries** (en grec *Emporion*, «mercat»; en llatí *Emporiae*), a l'Alt Empordà. El lloc tenia uns **promontoris** enmig d'aiguamolls, entre dos rius (el Fluvià i el Ter), que formaven un **port natural** ben protegit: per això hi van conviure diversos pobles.\n\nPrimer hi havia els **indígenes indigets**, amb la ciutat ibèrica d'Indika. Al **segle VI aC** uns comerciants **grecs de Focea**, arribats des de Massalia (Marsella), s'instal·laren en un illot davant la costa (la **Palaiàpolis**, actual Sant Martí d'Empúries); poc després, amb noves onades de colons, fundaren a terra ferma la **Neàpolis**. El motiu era **comercial**: era una escala de la ruta entre Massalia i Tartessos i un punt d'intercanvi amb els ibers.\n\nEls **romans** hi desembarcaren el **218 aC**, a l'inici de la **Segona Guerra Púnica**, amb Gneu Corneli Escipió, cridats pels grecs aliats, per tallar el pas a la rereguarda d'Anníbal. Hi aixecaren un campament que, al segle I aC, esdevingué una ciutat on s'establiren veterans de Cèsar.\n\nLa ciutat romana, de **planta rectangular** i **traçat ortogonal (hipodàmic)**, era emmurallada i s'organitzava a partir del ***cardo*** i el ***decumanus***; a la cruïlla hi havia el **fòrum** porticat, amb temples (un de dedicat a la **Tríada Capitolina**), una **basílica** i unes **termes**. Amb August s'enderrocà part de la muralla per unir el nucli grec i el romà. Fora muralles es conserven un **amfiteatre** i una **palestra**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Nom: Empúries (*Emporion*, *Emporiae*), a l'Alt Empordà."
+          },
+          {
+            "apartat": null,
+            "valor": "Geografia: promontoris enmig de maresmes entre dos cursos fluvials, que formaven un port natural."
+          },
+          {
+            "apartat": null,
+            "valor": "Pobles: indígenes (Indika, indigets); grecs de Focea via Massalia al s. VI aC (Palaiàpolis), després Neàpolis per una gran immigració focea; motiu comercial (ruta Massalia–Tartessos)."
+          },
+          {
+            "apartat": null,
+            "valor": "Romans: desembarcament de Gneu Corneli Escipió el 218 aC (Segona Guerra Púnica), per la petició dels grecs, la situació estratègica i el port; campament convertit en ciutat al s. I aC amb veterans de Cèsar."
+          },
+          {
+            "apartat": null,
+            "valor": "Urbanisme: planta rectangular, traçat hipodàmic, muralles, *cardo* i *decumanus*, fòrum porticat amb temples (Tríada Capitolina), basílica i termes; muralla parcialment enderrocada amb August per unir els dos nuclis; fora muralles, amfiteatre i palestra."
+          }
+        ],
+        "nota": "La resposta model té unes 240 paraules (el mínim és ~150). Errors típics: confondre Empúries amb Tàrraco o Barcino; dir que la ciutat la van fundar els romans (el primer nucli és grec); oblidar els indígenes; no explicar el paper del port i dels aiguamolls; datar malament l'arribada dels romans (218 aC, inici de la Segona Guerra Púnica). La pauta oficial adverteix que el seu redactat és només orientatiu."
+      }
+    }
+  ]
+}

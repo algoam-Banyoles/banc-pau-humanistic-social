@@ -1,0 +1,839 @@
+{
+  "examen": {
+    "id": "llati-2018-S",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2018,
+    "convocatoria": "setembre",
+    "serie": "3",
+    "pdf_examen": "pdfs/llati/2018-S-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2018-S-solucio.pdf",
+    "estructura": "Sèrie 3, convocatòria de setembre. Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un text de Cèsar (*Guerra de les Gàl·lies*, IV, 37, 2-4; 5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B). Opció A: 2. morfosintaxi (*cum* temporal i funció d'*equitatus noster*, 1 punt); 3. completar quatre frases amb el nom de ciutats antigues de la península Ibèrica (2 punts, 0,5 per encert, sense penalització); 4. exposició sobre un fragment de les *Metamorfosis* d'Ovidi (Apol·lo i Dafne) i el context literari i el desterrament de l'autor (2 punts, mínim 15 línies, ~150 paraules). Opció B: 2. morfosintaxi (relatiu *qui* i ablatiu absolut, 1 punt); 3. quatre preguntes d'opció múltiple sobre qui parla en passatges de les *Metamorfosis* (2 punts, 0,5 per encert, −0,16 per error, les no contestades no descompten); 4. exposició sobre la ciutat romana de Mèrida a partir d'una imatge (2 punts, mínim 15 línies, ~150 paraules)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2018-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Cèsar: la cavalleria acudeix a ajudar la infanteria atacada pels mòrins",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "cèsar",
+        "de bello gallico",
+        "cum temporal",
+        "oració de relatiu",
+        "ablatiu absolut",
+        "antequam temporal"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2
+      ],
+      "text": "**Cèsar envia ajuda a la infanteria romana, que es defensa d'un atac sobtat**\n\nCum haec repentina incursio nuntiata est, Caesar ex castris omnem equitatum ad pedites, qui hostium impetum fortissime sustinebant atque acriter pugnabant, misit. Paucis uulneribus acceptis, pedites, antequam equitatus noster in conspectum uenit, complures hostes occiderunt.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, IV, 37, 2-4\n\n**Lèxic** (informació del diccionari):\n\n- *accipio, -cepi, -ceptum* (3a, tr.): rebre.\n- *castra, -orum* (n. pl.): campament.\n- *complures, -um (-ium)*: un bon nombre de.\n- *conspectus, -us* (m.): vista; *in conspectum uenire*: aparèixer.\n- *fortissime*: amb molta valentia.\n- *hostis, -is* (m.): enemic.\n- *mitto, misi, missum* (3a, tr.): enviar.\n- *occido, -cidi, -cisum* (3a, tr.): matar.\n- *paucus, -a, -um*: un nombre petit de.\n- *pedes, -itis* (m.): soldat d'infanteria.\n- *uulnus, -eris* (n.): ferida.",
+      "enunciat": "Feu la versió del text següent (5 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text breu de Cèsar (*De bello Gallico*, IV, 37) amb **dues oracions** separades per punt. Val **5 punts**, la meitat de l'examen: dedica-hi uns 40 minuts, però és un text curt i sense gaires paranys.\n\nMètode: (1) llegeix el títol, que ja dona el sentit (Cèsar envia ajuda a la infanteria, que s'està defensant d'un atac sobtat); (2) localitza els **verbs conjugats**: *nuntiata est*, *sustinebant*, *pugnabant*, *misit*, *uenit*, *occiderunt*; (3) identifica els nexes: *cum*, *qui*, *atque*, *antequam*, i el participi *acceptis*; (4) fes una traducció literal i després poleix-la.\n\nParanys: *nuntiata est* és un **perfet passiu** («va ser anunciada», no «és anunciada»); *castra* és plural però vol dir «campament»; *qui* té per antecedent *pedites* (no *Caesar*); *hostium* és genitiu plural de *hostis* («dels enemics»); l'**ablatiu absolut** *Paucis uulneribus acceptis*; *equitatus noster* és nominatiu de la 4a declinació (subjecte de *uenit*), i *in conspectum uenire* és una expressió feta («aparèixer») que dona el lèxic."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Cum haec repentina incursio nuntiata est, Caesar ex castris omnem equitatum ad pedites, qui hostium impetum fortissime sustinebant atque acriter pugnabant, misit.*\n\n- Oració principal: verb ***misit*** (3a sg. perfet d'indicatiu actiu de *mitto*, «envià»); subjecte ***Caesar*** (nominatiu sg.); CD ***omnem equitatum*** (acusatiu sg.: *equitatus, -us*, 4a decl., amb l'adjectiu *omnem*): «tota la cavalleria»; ***ex castris*** (*ex* + ablatiu pl.), CC de lloc d'on: «des del campament»; ***ad pedites*** (*ad* + acusatiu pl. de *pedes, -itis*), CC de direcció: «als soldats d'infanteria».\n- ***Cum ... nuntiata est***: subordinada adverbial **temporal**; *cum* amb **indicatiu** (*nuntiata est*, 3a sg. perfet d'indicatiu passiu de *nuntio*) és temporal pur: «quan va ser anunciada». Subjecte ***haec repentina incursio*** (nominatiu sg. f.: demostratiu *haec*, adjectiu *repentina* i nom *incursio, -onis*): «aquesta incursió sobtada».\n- ***qui ... sustinebant atque ... pugnabant***: subordinada **adjectiva de relatiu**; *qui* (nominatiu pl. m.) en fa de subjecte i té per antecedent *pedites*. Dos verbs coordinats per *atque*: *sustinebant* (3a pl. imperfet d'indicatiu de *sustineo*, «resistien») i *pugnabant* (3a pl. imperfet d'indicatiu de *pugno*, «lluitaven»). CD de *sustinebant*: ***impetum*** (acusatiu sg. de *impetus, -us*) amb el CN ***hostium*** (genitiu pl. de *hostis*): «l'atac dels enemics». CC de manera: ***fortissime*** (adverbi en grau superlatiu, «amb molta valentia») i ***acriter*** (adverbi d'*acer*, «aferrissadament, amb ardor»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Paucis uulneribus acceptis, pedites, antequam equitatus noster in conspectum uenit, complures hostes occiderunt.*\n\n- Oració principal: verb ***occiderunt*** (3a pl. perfet d'indicatiu actiu d'*occido*, «van matar»); subjecte ***pedites*** (nominatiu pl.); CD ***complures hostes*** (acusatiu pl.): «un bon nombre d'enemics».\n- ***Paucis uulneribus acceptis***: **ablatiu absolut**. *acceptis* és participi de perfet passiu d'*accipio* en ablatiu pl. neutre, concordat amb *uulneribus* (ablatiu pl. de *uulnus, -eris*), que en fa de subjecte, complementat per l'adjectiu *paucis*. Valor temporal-concessiu: «havent rebut poques ferides / tot i rebre poques ferides».\n- ***antequam ... uenit***: subordinada adverbial **temporal** («abans que»), amb indicatiu perfet (*uenit*, 3a sg. de *uenio*). Subjecte ***equitatus noster*** (nominatiu sg. de la 4a decl. + possessiu *noster*): «la nostra cavalleria». ***in conspectum uenit***: expressió del lèxic, «aparèixer» (literalment «venir a la vista»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Quan aquesta sobtada incursió va ser anunciada, Cèsar des del campament tota la cavalleria als soldats d'infanteria, que dels enemics l'atac amb molta valentia resistien i aferrissadament lluitaven, envià. Poques ferides havent estat rebudes, els soldats d'infanteria, abans que la nostra cavalleria a la vista vingué (= aparegué), un bon nombre d'enemics van matar."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Quan es va anunciar aquesta incursió sobtada, Cèsar envià des del campament tota la cavalleria en ajuda dels soldats d'infanteria, que resistien amb molta valentia l'atac dels enemics i lluitaven aferrissadament. Després de rebre unes poques ferides, els soldats d'infanteria van matar un bon nombre d'enemics abans que aparegués la nostra cavalleria.\n\nTraducció orientativa oficial: «Quan va ser anunciada aquesta incursió sobtada, Cèsar envià des del campament tota la cavalleria als soldats d'infanteria, que resistien amb molta valentia l'atac dels enemics i lluitaven aferrissadament. Havent rebut un nombre petit de ferides, els soldats d'infanteria van matar un bon nombre d'enemics, abans d'aparèixer la nostra cavalleria.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Quan va ser anunciada aquesta incursió sobtada, Cèsar envià des del campament tota la cavalleria als soldats d'infanteria, que resistien amb molta valentia l'atac dels enemics i lluitaven aferrissadament. Havent rebut un nombre petit de ferides, els soldats d'infanteria van matar un bon nombre d'enemics, abans d'aparèixer la nostra cavalleria.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: *cum* temporal amb indicatiu (*nuntiata est*, perfet passiu); *Caesar* subjecte de *misit*, *omnem equitatum* CD, *ex castris* i *ad pedites* CC; relativa *qui* (antecedent *pedites*) amb dos verbs coordinats; *hostium impetum*; ablatiu absolut *Paucis uulneribus acceptis*; *antequam* temporal amb subjecte *equitatus noster*; *complures hostes* CD d'*occiderunt*."
+          }
+        ],
+        "nota": "Errors típics: traduir *nuntiata est* com a present («és anunciada»); fer *Caesar* antecedent de *qui* (el verb és plural: l'antecedent és *pedites*); confondre *hostium* (genitiu pl.) amb un acusatiu; traduir *castra* en plural; no reconèixer l'ablatiu absolut i fer *uulneribus* CI; prendre *equitatus* com a acusatiu o genitiu (és nominatiu sg. de la 4a); traduir *in conspectum uenit* literalment sense adaptar-ho. Context: any 55 aC; després de la primera expedició a Britània, els mòrins ataquen per sorpresa uns 300 soldats que tornaven al campament, i Cèsar hi envia la cavalleria."
+      }
+    },
+    {
+      "id": "llati-2018-S-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: cum temporal amb indicatiu i el subjecte equitatus noster",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "cum temporal",
+        "subordinada adverbial",
+        "subjecte",
+        "quarta declinació",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cèsar envia ajuda a la infanteria romana, que es defensa d'un atac sobtat**\n\nCum haec repentina incursio nuntiata est, Caesar ex castris omnem equitatum ad pedites, qui hostium impetum fortissime sustinebant atque acriter pugnabant, misit. Paucis uulneribus acceptis, pedites, antequam equitatus noster in conspectum uenit, complures hostes occiderunt.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, IV, 37, 2-4\n\n**Lèxic** (informació del diccionari):\n\n- *accipio, -cepi, -ceptum* (3a, tr.): rebre.\n- *castra, -orum* (n. pl.): campament.\n- *complures, -um (-ium)*: un bon nombre de.\n- *conspectus, -us* (m.): vista; *in conspectum uenire*: aparèixer.\n- *fortissime*: amb molta valentia.\n- *hostis, -is* (m.): enemic.\n- *mitto, misi, missum* (3a, tr.): enviar.\n- *occido, -cidi, -cisum* (3a, tr.): matar.\n- *paucus, -a, -um*: un nombre petit de.\n- *pedes, -itis* (m.): soldat d'infanteria.\n- *uulnus, -eris* (n.): ferida.",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En la construcció ***Cum*** *haec repentina incursio nuntiata est*, digueu quin tipus d'oració introdueix *cum* i justifiqueu-ho (*cum* apareix subratllat a l'examen).",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu quina funció sintàctica fa el sintagma *equitatus noster* respecte a *in conspectum uenit*.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues preguntes curtes (1 punt en total, uns 10 minuts). A l'apartat a) no n'hi ha prou amb dir el tipus d'oració: cal **justificar-ho** amb el mode verbal. A l'apartat b) cal donar la funció i, si pots, justificar-la amb el cas i la concordança."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*Cum* pot ser preposició (+ ablatiu) o conjunció. Aquí no va seguit d'un ablatiu sinó d'una oració amb verb conjugat: és conjunció subordinant. Mira el mode del verb: *nuntiata est* és **perfet d'indicatiu** passiu. *Cum* + indicatiu = **temporal** («quan»); *cum* + subjuntiu seria normalment històric o causal/concessiu."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "*Cum* introdueix una **oració subordinada adverbial temporal** («quan va ser anunciada aquesta incursió sobtada»). Ho sabem perquè el seu verb, *nuntiata est*, està en **mode indicatiu** (perfet passiu): *cum* amb indicatiu té valor temporal."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*equitatus* és nominatiu singular de la 4a declinació (*equitatus, -us*), concordat amb el possessiu *noster* (nominatiu sg. m.). El verb *uenit* és 3a persona del singular: concorda amb ell. Nominatiu + concordança amb el verb = subjecte."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El sintagma *equitatus noster* fa de **subjecte** del predicat *in conspectum uenit* («abans que la nostra cavalleria aparegués»): està en nominatiu singular i concorda en nombre i persona amb el verb *uenit* (3a sg.)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Oració subordinada adverbial temporal; es justifica perquè el verb (*nuntiata est*) està en indicatiu."
+          },
+          {
+            "apartat": "b",
+            "valor": "Subjecte de *in conspectum uenit*."
+          }
+        ],
+        "nota": "Error típic a l'a): dir «temporal» sense justificar-ho, o confondre *cum* amb la preposició. A la b): prendre *equitatus* com a genitiu (la 4a declinació fa *-us* tant al nominatiu sg. com al genitiu sg.); la concordança amb *noster* (nominatiu) i amb *uenit* ho resol."
+      }
+    },
+    {
+      "id": "llati-2018-S-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: la relativa qui amb antecedent pedites i l'ablatiu absolut",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "oració de relatiu",
+        "antecedent",
+        "ablatiu absolut",
+        "participi de perfet",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Cèsar envia ajuda a la infanteria romana, que es defensa d'un atac sobtat**\n\nCum haec repentina incursio nuntiata est, Caesar ex castris omnem equitatum ad pedites, qui hostium impetum fortissime sustinebant atque acriter pugnabant, misit. Paucis uulneribus acceptis, pedites, antequam equitatus noster in conspectum uenit, complures hostes occiderunt.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, IV, 37, 2-4\n\n**Lèxic** (informació del diccionari):\n\n- *accipio, -cepi, -ceptum* (3a, tr.): rebre.\n- *castra, -orum* (n. pl.): campament.\n- *complures, -um (-ium)*: un bon nombre de.\n- *conspectus, -us* (m.): vista; *in conspectum uenire*: aparèixer.\n- *fortissime*: amb molta valentia.\n- *hostis, -is* (m.): enemic.\n- *mitto, misi, missum* (3a, tr.): enviar.\n- *occido, -cidi, -cisum* (3a, tr.): matar.\n- *paucus, -a, -um*: un nombre petit de.\n- *pedes, -itis* (m.): soldat d'infanteria.\n- *uulnus, -eris* (n.): ferida.",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En la construcció ***qui*** *hostium impetum fortissime sustinebant*, digueu quin tipus d'oració introdueix *qui* i quin és el seu antecedent (*qui* apareix subratllat a l'examen).",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu com s'anomena la construcció formada per *Paucis uulneribus acceptis* i expliqueu en què consisteix.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues preguntes curtes (1 punt en total, uns 10 minuts). A l'a) cal dir el tipus d'oració **i** l'antecedent; a la b), el **nom** de la construcció i una explicació de com està formada."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*qui* és el pronom relatiu (nominatiu pl. m.): introdueix una oració de relatiu. Per trobar l'antecedent, busca un nom masculí plural just abans: *pedites* («soldats d'infanteria»); el verb *sustinebant* també és plural, cosa que descarta *Caesar*."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El pronom *qui* introdueix una **oració subordinada adjectiva o de relatiu** («que resistien amb molta valentia l'atac dels enemics»). El seu antecedent és ***pedites*** (masculí plural, com *qui*)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres paraules en ablatiu plural: *paucis* (adjectiu), *uulneribus* (nom) i *acceptis* (participi de perfet passiu d'*accipio*). Un participi concordat amb un nom, tots dos en ablatiu i sense funció dins l'oració principal: és un **ablatiu absolut**."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "És un **ablatiu absolut**. Consisteix en un **participi en ablatiu** (*acceptis*, participi de perfet passiu d'*accipio*) concordat amb un **substantiu també en ablatiu** (*uulneribus*), que li fa de subjecte; aquí el substantiu va complementat per l'adjectiu *paucis*. La construcció és independent sintàcticament de l'oració principal i equival a una subordinada adverbial (temporal): «havent rebut unes poques ferides»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Oració subordinada adjectiva (de relatiu); antecedent *pedites*."
+          },
+          {
+            "apartat": "b",
+            "valor": "Ablatiu absolut: participi en ablatiu concordat amb un substantiu en ablatiu que li fa de subjecte (opcional: el substantiu va complementat per *paucis*)."
+          }
+        ],
+        "nota": "Error típic: donar *Caesar* o *equitatum* com a antecedent de *qui*; o dir «ablatiu instrumental» en lloc d'ablatiu absolut. El participi de perfet indica anterioritat respecte al verb principal (*occiderunt*)."
+      }
+    },
+    {
+      "id": "llati-2018-S-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Tarraco: «obra dels Escipions» (Plini)",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "tarraco",
+        "escipions",
+        "segona guerra púnica",
+        "plini el vell"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades). Escriviu en els espais en blanc el nom de la ciutat antiga de la península Ibèrica que correspon a cada descripció.\n\na) Hom diu que _______________________ és *Scipionum opus*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre buits de 0,5 punts; les respostes errònies **no penalitzen**, així que cal respondre-les totes. Escriu el nom antic de la ciutat (p. ex. *Tarraco*, no només «Tarragona»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Scipionum opus* = «obra dels Escipions». Els germans Gneu i Publi Corneli Escipió van desembarcar a Empúries el 218 aC (segona guerra púnica) i van convertir l'antic nucli ibèric en base militar i fortificada: **Tarraco**. Plini el Vell la defineix així (*Tarraco Scipionum opus, sicut Carthago Poenorum*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Tarraco** (Tarragona)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Tarraco (Tàrraco)."
+          }
+        ],
+        "nota": "Convé saber els noms llatins i els trets principals de les ciutats romanes d'Hispània: Tarraco, Barcino, Emporiae, Ilerda, Gerunda, Baetulo, Iluro, Ausa, Caesaraugusta, Emerita Augusta, Corduba, Carthago Noua, Italica..."
+      }
+    },
+    {
+      "id": "llati-2018-S-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Ilerda: el setge de Cèsar als pompeians (49 aC)",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "ilerda",
+        "guerra civil",
+        "cèsar",
+        "pompeians",
+        "afrani i petrei"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades). Escriviu en els espais en blanc el nom de la ciutat antiga de la península Ibèrica que correspon a cada descripció.\n\nb) Juli Cèsar, en la *Guerra civil*, va narrar el setge a què va sotmetre aquesta ciutat: _______________________.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre buits de 0,5 punts; les respostes errònies **no penalitzen**, així que cal respondre-les totes. Escriu el nom antic de la ciutat (p. ex. *Tarraco*, no només «Tarragona»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Durant la guerra civil entre Cèsar i Pompeu, l'any 49 aC, Cèsar va assetjar a **Ilerda** (Lleida) els llegats pompeians Afrani i Petrei, i ho explica al llibre I del *De bello ciuili*. Les crescudes del Sicoris (Segre) hi van tenir un paper important."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Ilerda** (Lleida)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Ilerda (Lleida)."
+          }
+        ],
+        "nota": "Convé saber els noms llatins i els trets principals de les ciutats romanes d'Hispània: Tarraco, Barcino, Emporiae, Ilerda, Gerunda, Baetulo, Iluro, Ausa, Caesaraugusta, Emerita Augusta, Corduba, Carthago Noua, Italica..."
+      }
+    },
+    {
+      "id": "llati-2018-S-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Barcino: el temple d'August",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "barcino",
+        "temple d'august",
+        "culte imperial",
+        "mont tàber"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades). Escriviu en els espais en blanc el nom de la ciutat antiga de la península Ibèrica que correspon a cada descripció.\n\nc) Al territori de l'antiga Hispània Citerior hi ha dues ciutats que conserven restes d'un temple dedicat a August: Tàrraco i _______________________.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre buits de 0,5 punts; les respostes errònies **no penalitzen**, així que cal respondre-les totes. Escriu el nom antic de la ciutat (p. ex. *Tarraco*, no només «Tarragona»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Hispània Citerior (més tard Tarraconense): la part oriental. Les restes del temple d'August (columnes corínties del carrer del Paradís, al mont Tàber) són a **Barcino**, la colònia fundada en època d'August (*Colonia Iulia Augusta Faventia Paterna Barcino*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Barcino** (Barcelona)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Barcino (Bàrcino)."
+          }
+        ],
+        "nota": "Convé saber els noms llatins i els trets principals de les ciutats romanes d'Hispània: Tarraco, Barcino, Emporiae, Ilerda, Gerunda, Baetulo, Iluro, Ausa, Caesaraugusta, Emerita Augusta, Corduba, Carthago Noua, Italica..."
+      }
+    },
+    {
+      "id": "llati-2018-S-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Emerita Augusta: colònia de veterans de les guerres càntabres",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "emerita augusta",
+        "publi carisi",
+        "guerres càntabres",
+        "veterans",
+        "august"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades). Escriviu en els espais en blanc el nom de la ciutat antiga de la península Ibèrica que correspon a cada descripció.\n\nd) Publi Carisi, llegat d'August, fundà _______________________ perquè s'hi assentessin els soldats que foren llicenciats en acabar les guerres càntabres.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre buits de 0,5 punts; les respostes errònies **no penalitzen**, així que cal respondre-les totes. Escriu el nom antic de la ciutat (p. ex. *Tarraco*, no només «Tarragona»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Els soldats llicenciats amb honor eren els *emeriti*: d'aquí el nom de la colònia que fundà Publi Carisi el 25 aC: **Emerita Augusta** (Mèrida), futura capital de la Lusitània."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Emerita Augusta** (Mèrida)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Emerita Augusta (Mèrida)."
+          }
+        ],
+        "nota": "Convé saber els noms llatins i els trets principals de les ciutats romanes d'Hispània: Tarraco, Barcino, Emporiae, Ilerda, Gerunda, Baetulo, Iluro, Ausa, Caesaraugusta, Emerita Augusta, Corduba, Carthago Noua, Italica..."
+      }
+    },
+    {
+      "id": "llati-2018-S-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Píram i Tisbe parlen a la paret que els separa",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "píram i tisbe",
+        "babilònia",
+        "amor impossible"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que identifica el personatge o personatges que parlen en els passatges següents de les *Metamorfosis* (traducció de Ferran Aguilera).\n\n1. «Paret envejosa, per què t'interposes entre els amants? Què et costaria deixar que s'unissin els nostres cossos, o, si això és demanar massa, que t'obrissis una mica perquè poguéssim besar-nos? Tanmateix, no som desagraïts; hem de confessar que et devem que hagis donat a les nostres paraules un camí de pas fins a les orelles estimades.»",
+      "figures": [],
+      "opcions": {
+        "a": "Deucalió i Pirra.",
+        "b": "Píram i Tisbe.",
+        "c": "Filèmon i Baucis.",
+        "d": "Orfeu i Eurídice."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Busca a cada passatge les pistes que identifiquen l'episodi de les *Metamorfosis* d'Ovidi i descarta els personatges d'altres episodis."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Pistes: la **paret** que separa dos **amants** i l'escletxa per on es parlen. És l'episodi de **Píram i Tisbe** (llibre IV): dos joves de Babilònia, veïns, als quals els pares prohibeixen casar-se; es parlen a través d'una esquerda de la paret mitgera. Deucalió i Pirra (diluvi), Filèmon i Baucis (hospitalitat) i Orfeu i Eurídice (baixada als inferns) no tenen cap paret pel mig."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Píram i Tisbe."
+          }
+        ],
+        "nota": "Cal conèixer bé els episodis de les *Metamorfosis* d'Ovidi que són lectura obligatòria (Deucalió i Pirra, Apol·lo i Dafne, Píram i Tisbe, Hermafrodit, Tirèsias, Narcís, Filèmon i Baucis, Midas, Orfeu i Eurídice...). Si no estàs segur entre dues opcions, la penalització (−0,16) fa que valgui la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2018-S-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Apol·lo persegueix la nimfa Dafne, filla de Peneu",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "apol·lo",
+        "dafne",
+        "peneu"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que identifica el personatge o personatges que parlen en els passatges següents de les *Metamorfosis* (traducció de Ferran Aguilera).\n\n2. «Nimfa, t'ho suplico, filla de Peneu, atura't; no et persegueixo amb males intencions; nimfa, atura't. Així fuig l'ovella del llop, la cérvola del lleó, així fugen amb ales tremoloses les colomes de l'àliga, cadascuna dels seus enemics; jo et segueixo perquè t'estimo. Pobre de mi!»",
+      "figures": [],
+      "opcions": {
+        "a": "Júpiter.",
+        "b": "Narcís.",
+        "c": "Apol·lo.",
+        "d": "Bacus."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Busca a cada passatge les pistes que identifiquen l'episodi de les *Metamorfosis* d'Ovidi i descarta els personatges d'altres episodis."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Pistes: «**filla de Peneu**» (el déu riu Peneu és el pare de **Dafne**) i la persecució amorosa. Qui la persegueix és **Apol·lo**, ferit per la fletxa d'or de Cupido (llibre I). Júpiter persegueix altres nimfes (Io), Narcís no estima ningú més que a si mateix, i Bacus apareix a l'episodi de Midas."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) Apol·lo."
+          }
+        ],
+        "nota": "Cal conèixer bé els episodis de les *Metamorfosis* d'Ovidi que són lectura obligatòria (Deucalió i Pirra, Apol·lo i Dafne, Píram i Tisbe, Hermafrodit, Tirèsias, Narcís, Filèmon i Baucis, Midas, Orfeu i Eurídice...). Si no estàs segur entre dues opcions, la penalització (−0,16) fa que valgui la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2018-S-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Filèmon demana als déus ser sacerdot i morir alhora que Baucis",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "filèmon i baucis",
+        "hospitalitat",
+        "júpiter i mercuri"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que identifica el personatge o personatges que parlen en els passatges següents de les *Metamorfosis* (traducció de Ferran Aguilera).\n\n3. «Et demanem convertir-nos en sacerdots i tenir cura del vostre temple, i, ja que hem passat els anys de la nostra vida en una total harmonia, voldríem que la mateixa hora se'ns endugués a tots dos. Tant de bo no hagi de veure mai la pira funerària de la meva esposa, ni ella hagi de portar-me a la tomba.»",
+      "figures": [],
+      "opcions": {
+        "a": "Filèmon.",
+        "b": "Orfeu.",
+        "c": "Tirèsias.",
+        "d": "Deucalió."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Busca a cada passatge les pistes que identifiquen l'episodi de les *Metamorfosis* d'Ovidi i descarta els personatges d'altres episodis."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Pistes: un home vell que parla de la seva esposa, demana ser **sacerdot del temple** i morir a la mateixa hora que ella. És **Filèmon** (llibre VIII): ell i Baucis van acollir Júpiter i Mercuri disfressats; els déus els concedeixen el desig i a la mort es transformen en una alzina i un til·ler. Orfeu sí que veu morir la seva esposa; Deucalió també parla a la seva esposa, però després del diluvi."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) Filèmon."
+          }
+        ],
+        "nota": "Cal conèixer bé els episodis de les *Metamorfosis* d'Ovidi que són lectura obligatòria (Deucalió i Pirra, Apol·lo i Dafne, Píram i Tisbe, Hermafrodit, Tirèsias, Narcís, Filèmon i Baucis, Midas, Orfeu i Eurídice...). Si no estàs segur entre dues opcions, la penalització (−0,16) fa que valgui la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2018-S-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Bacus indica a Midas com desfer-se del do de l'or",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "midas",
+        "bacus",
+        "pactol"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que identifica el personatge o personatges que parlen en els passatges següents de les *Metamorfosis* (traducció de Ferran Aguilera).\n\n4. «Perquè no continuïs cobert d'aquest or que vas tenir el mal pensament de desitjar», li va dir «ves al riu que hi ha a la vora de la gran ciutat de Sardes i fes camí en sentit contrari al del corrent de l'aigua pels turons que hi ha a la riba fins que arribis a la deu del riu; posa el cap sota l'aigua escumejant de la font, allà on surt amb més força, i renta a la vegada el teu cos i la teva culpa.»",
+      "figures": [],
+      "opcions": {
+        "a": "Mercuri.",
+        "b": "Midas.",
+        "c": "Apol·lo.",
+        "d": "Bacus."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Busca a cada passatge les pistes que identifiquen l'episodi de les *Metamorfosis* d'Ovidi i descarta els personatges d'altres episodis."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Pistes: algú que ha «desitjat» l'**or** i ha de rentar-se a la font del riu de Sardes (el Pactol). L'interpel·lat és **Midas**, i qui parla és el déu que li havia concedit el do (convertir en or tot el que toqués): **Bacus** (llibre XI), agraït perquè Midas li havia retornat Silè. Paranys: Midas és el destinatari, no qui parla; Apol·lo surt a l'episodi següent (les orelles d'ase)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Bacus."
+          }
+        ],
+        "nota": "Cal conèixer bé els episodis de les *Metamorfosis* d'Ovidi que són lectura obligatòria (Deucalió i Pirra, Apol·lo i Dafne, Píram i Tisbe, Hermafrodit, Tirèsias, Narcís, Filèmon i Baucis, Midas, Orfeu i Eurídice...). Si no estàs segur entre dues opcions, la penalització (−0,16) fa que valgui la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2018-S-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Apol·lo i Dafne (Ovidi, Metamorfosis I) i el desterrament d'Ovidi",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "apol·lo",
+        "dafne",
+        "cupido",
+        "messal·la corví",
+        "desterrament a tomis",
+        "ars amatoria"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "«Ajuda'm, pare, si és veritat que els rius teniu poder diví; destrueix, transformant-la, aquesta figura meva que m'ha fet ser massa desitjada». Tot just acabada la pregària, un pesat entorpiment li envaeix els membres, els seus pits delicats comencen a ser envoltats per una fina escorça, els seus cabells creixen transformant-se en fulles, els seus braços en branques; els peus, suara tan àgils, queden fixats a terra, convertits en arrels immòbils, el seu cap esdevé una copa d'arbre. Només queda d'ella la seva bellesa resplendent. Febos, tanmateix, continua estimant-la […]. El déu li digué: «Ja que no pots ésser la meva esposa, seràs, no ho dubtis, el meu arbre.»\n\n(Traducció de Ferran Aguilera)",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Llegiu el text següent, que pertany a una de les lectures obligatòries. En quinze línies com a mínim (unes cent cinquanta paraules), expliqueu tot el que sabeu sobre aquest episodi (a quina obra pertany i qui n'és l'autor, quins són els personatges que hi intervenen, com arriben a aquesta situació, com es desenvolupa l'acció, etc.). Expliqueu també la relació de l'autor del text amb els cercles literaris del final de l'època d'August i el càstig que li imposà l'emperador per causa d'un dels seus poemes.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts, uns 20-25 minuts. Mínim **15 línies (~150 paraules)**. La consigna té dues parts i cal respondre-les totes dues: (1) l'**episodi** (obra, autor, personatges, antecedents i desenvolupament de l'acció) i (2) l'**autor en el seu context**: relació amb els cercles literaris de l'època d'August i el **càstig** imposat per l'emperador. Organitza-ho en tres paràgrafs."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació**: «pare... els rius», la transformació en arbre i «Febos» → Dafne, filla del riu Peneu, perseguida per Apol·lo; *Metamorfosis* d'Ovidi, llibre I.\n2. **Antecedents**: Apol·lo, després de matar la serp Pitó, es burla de Cupido; venjança de les dues fletxes (d'or a Apol·lo, de plom a Dafne).\n3. **Acció**: persecució, súplica a Peneu, transformació en llorer, Apol·lo continua estimant-la i en fa el seu símbol (corona dels vencedors).\n4. **Context**: Ovidi, generació posterior a Virgili i Horaci; cercle de Messal·la Corví (Tibul); poesia no compromesa amb el programa d'August.\n5. **Càstig**: desterrament a Tomis (8 dC); «un poema i un error» (*Tristes* II): l'*Ars amatoria*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Aquest passatge pertany a les *Metamorfosis* d'**Ovidi** (llibre I) i correspon a l'episodi d'**Apol·lo i Dafne**. Hi intervenen la nimfa Dafne, el seu pare, el déu riu **Peneu**, i Febos Apol·lo.\n\nTot comença quan Apol·lo, orgullós d'haver mort la serp Pitó amb les seves fletxes, es burla de **Cupido** en veure'l tesant l'arc. Per venjar-se'n, el fill de Venus li clava una fletxa amb la punta d'or, que encén l'amor, i a Dafne una de punta de plom, que el fa rebutjar. Apol·lo s'enamora perdudament de la nimfa, que, consagrada a la caça i a la virginitat com Diana, fuig d'ell. Després d'una llarga persecució, a punt de ser atrapada, Dafne suplica al seu pare que destrueixi la bellesa que l'ha fet tan desitjada. Llavors és transformada en **llorer**: l'escorça li cobreix el cos, els cabells es tornen fulles, els braços branques i els peus arrels. Apol·lo, que la continua estimant, la fa el seu arbre: el llorer coronarà els generals triomfadors i els poetes.\n\nOvidi (43 aC - 17 dC) pertany a una generació més jove que la de Virgili i Horaci. Formà part del **cercle de Messal·la Corví**, on admirà Tibul. Lluny dels ideals de regeneració moral d'August, la seva poesia no estava al servei del príncep. L'any 8 dC August el **desterrà a Tomis**, a la vora del mar Negre; a les *Tristes* Ovidi parla d'«un poema i un error»: el poema seria l'*Ars amatoria*, i l'error, haver vist alguna cosa que no havia de veure."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Obra i autor: *Metamorfosis* d'Ovidi; episodi de la metamorfosi de Dafne en llorer."
+          },
+          {
+            "apartat": null,
+            "valor": "Personatges: Dafne, el seu pare el déu riu Peneu i Apol·lo (Febos); antecedent: Cupido."
+          },
+          {
+            "apartat": null,
+            "valor": "Antecedents: Apol·lo, vencedor de Pitó, es burla de Cupido; fletxa d'or (amor) per a Apol·lo i de plom (rebuig) per a Dafne."
+          },
+          {
+            "apartat": null,
+            "valor": "Acció: persecució, súplica a Peneu, transformació en llorer; Apol·lo la continua estimant i el llorer esdevé el seu símbol i el dels vencedors."
+          },
+          {
+            "apartat": null,
+            "valor": "Context: Ovidi, d'una generació posterior a Virgili i Horaci; cercle de Messal·la Corví i admiració per Tibul; la seva poesia no serveix el projecte d'August."
+          },
+          {
+            "apartat": null,
+            "valor": "Càstig: desterrament a Tomis (8-9 dC); a les *Tristes* parla d'«un poema» (l'*Ars amatoria*) i d'«un error»."
+          }
+        ],
+        "nota": "La resposta model té unes 250 paraules (mínim ~150). Errors típics: atribuir l'episodi a Virgili o confondre Dafne amb una altra nimfa; oblidar la segona part de la pregunta (cercles literaris i desterrament); situar Ovidi al cercle de Mecenàs (aquest era el de Virgili i Horaci). El model oficial és orientatiu."
+      }
+    },
+    {
+      "id": "llati-2018-S-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Emerita Augusta (Mèrida): fundació, importància i monuments",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "emerita augusta",
+        "mèrida",
+        "publi carisi",
+        "lusitània",
+        "urbanisme romà",
+        "teatre i amfiteatre",
+        "guerres càntabres"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). La imatge mostra la planta de la ciutat romana de Mèrida. En quinze línies com a mínim (unes cent cinquanta paraules), especifiqueu el seu nom llatí, l'origen i el motiu pel qual va ser fundada i el nom del fundador. Expliqueu la importància històrica que tingué aquesta ciutat a la Hispània romana. Esmenteu també la seva estructura urbanística i les construccions públiques principals que s'hi han conservat.",
+      "figures": [
+        {
+          "src": "img/llati/2018-S/e4-b.png",
+          "peu": "Maqueta de la ciutat romana de Mèrida (Augusta Emerita): recinte emmurallat amb traçat en quadrícula; a la dreta, el teatre i l'amfiteatre."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts, uns 20-25 minuts, mínim **15 línies (~150 paraules)**. Fes una llista mental dels punts demanats i no te'n deixis cap: (1) nom llatí; (2) origen, motiu de la fundació i fundador; (3) importància històrica; (4) estructura urbanística; (5) construccions públiques conservades. Aprofita la imatge: mostra el traçat en quadrícula, la muralla i, a la dreta, el teatre i l'amfiteatre."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Nom i fundació**: *Augusta Emerita*, colònia fundada per Publi Carisi (vers 25-23 aC) per als veterans (*emeriti*) de les guerres càntabres.\n2. **Per què allà**: gual del Guadiana, cruïlla de vies (Via de la Plata), romanització del sud-oest.\n3. **Importància**: capital de la Lusitània (15 aC); esplendor amb Trajà i Hadrià; amb Dioclecià, capital de la diòcesi d'Hispània.\n4. **Urbanisme**: muralla, traçat ortogonal (cardo i decumanus), fòrums.\n5. **Monuments**: teatre, amfiteatre, circ, pont, aqüeducte de Los Milagros, embassament de Prosèrpina, temple de Diana, arc de Trajà, muralla."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El nom llatí de Mèrida és **Augusta Emerita** (o *Emerita Augusta*). Fou fundada vers el 25-23 aC per **Publi Carisi**, llegat d'August, com a colònia per assentar-hi els veterans (*emeriti*) llicenciats en acabar les **guerres càntabres**. L'emplaçament tenia motius estratègics, econòmics i administratius: era en un gual del riu Anas (Guadiana), a prop de la confluència amb altres rius, i en un nus de comunicacions on es creuaven la Via de la Plata (nord-sud) i una via d'est a oest; havia de servir per romanitzar el sud-oest peninsular.\n\nL'any 15 aC esdevingué **capital de la província de Lusitània**, i això l'enriquí econòmicament i monumentalment, sobretot amb els emperadors hispans Trajà i Hadrià. Amb les reformes de Dioclecià esdevingué la capital de la diòcesi d'Hispània i una de les grans ciutats de l'Imperi.\n\nCom mostra la maqueta, tenia un **traçat ortogonal** de carrers en quadrícula a partir del *cardo* i el *decumanus*, dins d'un recinte emmurallat. Se'n conserven el **teatre** i l'**amfiteatre** (al costat, dins la muralla), el **circ** fora muralles, el **pont** sobre el Guadiana, l'**aqüeducte de Los Milagros**, l'embassament de Prosèrpina, el fòrum municipal amb l'anomenat temple de Diana (de culte imperial), el fòrum provincial amb l'Arc de Trajà i restes de la muralla."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Nom llatí: Augusta Emerita; fundada vers el 23 aC per Publi Carisi, llegat d'August, com a colònia per als soldats llicenciats de les guerres càntabres."
+          },
+          {
+            "apartat": null,
+            "valor": "Motius: estratègics, econòmics i administratius (gual del Guadiana, cruïlla de la Via de la Plata i d'una via est-oest, romanització del sud-oest)."
+          },
+          {
+            "apartat": null,
+            "valor": "Importància: capital de la Lusitània (15 aC); enriquiment amb Trajà i Hadrià; amb Dioclecià (305 dC), metròpoli i de facto capital d'Hispània."
+          },
+          {
+            "apartat": null,
+            "valor": "Construccions: fòrum provincial (temple i Arc de Trajà), fòrum municipal (temple de Diana), teatre i amfiteatre dins la muralla, circ, pont sobre el Guadiana, aqüeductes (Los Milagros), embassament de Prosèrpina, muralla."
+          }
+        ],
+        "nota": "La resposta model té unes 205 paraules (mínim ~150). Errors típics: confondre el fundador (no és August en persona sinó el seu llegat Publi Carisi) o la província (Lusitània, no Bètica ni Tarraconense); oblidar l'estructura urbanística, que la imatge ja suggereix. El model oficial és orientatiu."
+      }
+    }
+  ]
+}

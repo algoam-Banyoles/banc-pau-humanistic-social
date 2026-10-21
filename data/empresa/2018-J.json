@@ -1,0 +1,1089 @@
+{
+  "examen": {
+    "id": "empresa-2018-J",
+    "assignatura": "empresa",
+    "materia": "Economia de l’empresa",
+    "any": 2018,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/empresa/2018-J-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2018-J-solucio.pdf",
+    "estructura": "Sèrie 1. Cal respondre CINC dels sis exercicis (2 punts cadascun); si se’n responen tots, només es valoren els cinc primers. Exercici 1: compte de pèrdues i guanys, rendibilitat de les vendes i comparació del fons de maniobra de dues empreses (una donada en forma de gràfic). Exercici 2: balanç de situació amb el resultat com a incògnita, ràtio de liquiditat, finançament intern i extern i error conceptual sobre l’ampliació de capital. Exercici 3: VAN, termini de recuperació i TIR de dos projectes de càtering, i comparació amb un fons d’inversió. Exercici 4: vertader/fals sobre pimes i estratègia competitiva, i cas Cafè Exprés (internacionalització, creixement, estratègia multidomèstica). Exercici 5: costos fixos i variables, preu d’equilibri i quantitat per obtenir un benefici objectiu en un dinar popular, i viabilitat comercial i financera. Exercici 6: 8 preguntes de test (0,25 punts per encert, −0,1 per error, les no contestades no resten). Les pautes valoren el vocabulari econòmic i els errors de càlcul només es descompten una vegada."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2018-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Adda, SA: compte de pèrdues i guanys, rendibilitat de les vendes i fons de maniobra comparat amb Borja, SA",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "compte de pèrdues i guanys",
+        "variació d’existències",
+        "baii",
+        "rendibilitat de les vendes",
+        "fons de maniobra",
+        "equilibri financer"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "L’empresa Adda, SA presenta les dades comptables següents:\n\n| Concepte | Import (milers de €) |\n|---|---:|\n| Actiu corrent | 1.000 |\n| Actiu no corrent | 2.000 |\n| Altres despeses d’explotació | 30 |\n| Altres ingressos d’explotació | 200 |\n| Amortització de l’immobilitzat | 50 |\n| Compra de mercaderies | 300 |\n| Despeses de personal | 200 |\n| Despeses financeres | 32 |\n| Existències finals de mercaderies | 40 |\n| Existències inicials de mercaderies | 50 |\n| Import net de la xifra de negocis | 1.100 |\n| Ingressos financers | 2 |\n| Passiu corrent | 700 |\n| Passiu no corrent | 1.000 |",
+      "enunciat": "Llegiu les dades i responeu els apartats 1.1, 1.2 i 1.3.",
+      "figures": [
+        {
+          "src": "img/empresa/2018-J/e1.png",
+          "peu": "Representació gràfica del balanç de Borja, SA (apartat 1.3): l’actiu corrent és més petit que el passiu corrent."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1.1",
+          "punts": 1,
+          "enunciat": "A partir d’aquestes dades, i tenint en compte que l’impost sobre beneficis és del 30 %, elaboreu el compte de pèrdues i guanys d’Adda, SA."
+        },
+        {
+          "id": "1.2",
+          "punts": 0.25,
+          "enunciat": "Calculeu i interpreteu la rendibilitat de les vendes de l’empresa."
+        },
+        {
+          "id": "1.3",
+          "punts": 0.75,
+          "enunciat": "Observeu la figura següent, en què es representa gràficament el balanç de la companyia Borja, SA. Compareu la situació financera a curt termini d’Adda, SA i Borja, SA, i proposeu, si és possible, solucions de millora per a les dues empreses."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de **comptabilitat** (uns 20 minuts). La taula barreja partides de **balanç** (actiu corrent i no corrent, passiu corrent i no corrent) amb partides del **compte de resultats**: el primer pas és separar-les. Al compte de pèrdues i guanys només hi van ingressos i despeses; les partides de balanç les faràs servir a l’1.3. Les dades són en **milers d’euros**: indica-ho a la capçalera.\n\nLa trampa de l’1.1 són les **existències**: les compres no són directament una despesa, cal ajustar-les amb la variació d’existències (aprovisionaments = compres + existències inicials − existències finals). A l’1.3 la Borja no té xifres: s’ha de raonar a partir de la mida dels rectangles del gràfic."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Ingressos d’explotació** = import net de la xifra de negocis + altres ingressos d’explotació $= 1100 + 200 = 1300$.\n2. **Aprovisionaments** = compres + existències inicials − existències finals $= 300 + 50 - 40 = 310$. Les existències han disminuït 10: s’ha consumit més del que s’ha comprat.\n3. **Despeses d’explotació** = aprovisionaments + personal + amortització + altres $= 310 + 200 + 50 + 30 = 590$.\n4. **BAII** (resultat d’explotació) $= 1300 - 590 = 710$.\n5. **Resultat financer** = ingressos financers − despeses financeres $= 2 - 32 = -30$ (negatiu).\n6. **BAI** $= 710 - 30 = 680$; **impost** $= 0{,}30 \\cdot 680 = 204$; **resultat net** $= 680 - 204 = 476$.\n\nL’impost es calcula sobre el **BAI**, no sobre el BAII."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Resposta model",
+            "cos": "**Compte de pèrdues i guanys d’Adda, SA (milers de €)**\n\n| Concepte | Import (milers de €) |\n|---|---:|\n| Import net de la xifra de negocis | 1.100 |\n| Altres ingressos d’explotació | 200 |\n| **Total ingressos d’explotació** | **1.300** |\n| − Aprovisionaments (300 + 50 − 40) | −310 |\n| − Despeses de personal | −200 |\n| − Amortització de l’immobilitzat | −50 |\n| − Altres despeses d’explotació | −30 |\n| **Total despeses d’explotació** | **−590** |\n| **= Resultat d’explotació (BAII)** | **710** |\n| + Ingressos financers | 2 |\n| − Despeses financeres | −32 |\n| **= Resultat financer** | **−30** |\n| **= Resultat abans d’impostos (BAI)** | **680** |\n| − Impost sobre beneficis (30 %) | −204 |\n| **= Resultat net de l’exercici** | **476** |"
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Com plantejar-ho",
+            "cos": "La **rendibilitat de les vendes** (o marge sobre vendes) indica quin benefici queda per cada euro venut. Les pautes la calculen amb el BAII:\n\n$$\\text{Rendibilitat de les vendes} = \\frac{\\text{BAII}}{\\text{Vendes}} = \\frac{710}{1100} = 0{,}6455 \\to 64{,}55\\ \\%$$\n\nAlguns llibres la calculen amb el benefici net ($476/1100 = 43{,}27\\ \\%$); si ho fas així, digues quina definició fas servir. El càlcul sol no puntua del tot: cal **interpretar-lo**."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Resposta model",
+            "cos": "$$\\text{Rendibilitat de les vendes} = \\frac{\\text{BAII}}{\\text{Import net de la xifra de negocis}} = \\frac{710}{1100} = 0{,}6455$$\n\nLa rendibilitat (marge) de les vendes és del 64,55 %: de cada 100 € que Adda, SA ven, n’obté 64,55 € de benefici abans d’interessos i impostos. És un marge molt elevat, que indica que les vendes cobreixen àmpliament les despeses d’explotació."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Com plantejar-ho",
+            "cos": "La situació financera **a curt termini** s’analitza amb el **fons de maniobra** (FM = actiu corrent − passiu corrent), o amb la ràtio de liquiditat (AC/PC).\n\n- **Adda**: $\\text{FM} = 1000 - 700 = 300$ milers de € > 0 (liquiditat $= 1000/700 = 1{,}43$). Patrimoni net $= 3000 - 1700 = 1300$.\n- **Borja**: al gràfic, el rectangle de l’actiu corrent és **més petit** que el del passiu corrent → FM negatiu: part de l’actiu no corrent està finançada amb deutes a curt termini.\n\nDesprés, **propostes**: per a Borja, mesures per augmentar l’AC o reduir el PC (passar deute a llarg termini, ampliar capital, vendre actius no corrents improductius...). Per a Adda, no cal cap mesura urgent (com a molt, vigilar que no hi hagi recursos ociosos). Matisa que en empreses comercials que cobren al comptat i paguen a termini un FM negatiu no és necessàriament dolent."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Resposta model",
+            "cos": "**Adda, SA.** L’actiu total és de 3.000 milers de € (2.000 no corrent + 1.000 corrent) i el passiu, de 1.700 (1.000 no corrent + 700 corrent), de manera que el patrimoni net és $3000 - 1700 = 1300$ milers de €. El fons de maniobra és:\n\n$$\\text{FM} = \\text{AC} - \\text{PC} = 1000 - 700 = 300 \\text{ milers de €}$$\n\nEl fons de maniobra és la part de l’actiu corrent finançada amb recursos permanents (patrimoni net + passiu no corrent) i actua com a marge de seguretat. Com que és positiu, Adda és **estable a curt termini**: pot fer front als deutes a curt termini amb el seu actiu corrent (1.000 per cada 700 de deute). No necessita mesures correctores; en tot cas, hauria de vigilar que l’excés d’actiu corrent no siguin recursos ociosos.\n\n**Borja, SA.** Tot i que no tenim xifres, el gràfic mostra que l’actiu corrent és **inferior** al passiu corrent, és a dir, el **fons de maniobra és negatiu**: una part de l’actiu no corrent està finançada amb deutes a curt termini. L’empresa pot tenir dificultats per pagar els deutes a mesura que vencin i, si la situació s’agreuja, podria arribar a una situació d’insolvència (concurs de creditors).\n\n**Solucions per a Borja**: renegociar el deute amb els creditors per convertir deute a curt termini en deute a llarg termini; demanar un préstec a llarg termini per liquidar deutes a curt; fer una ampliació de capital; vendre actius no corrents improductius per obtenir liquiditat; planificar millor la tresoreria. Ara bé, si Borja fos una empresa comercial (per exemple, un supermercat), que cobra les vendes al comptat i paga els proveïdors a termini, un fons de maniobra negatiu no seria necessàriament preocupant."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1.1",
+            "valor": "Ingressos d’explotació 1.300; aprovisionaments 310 (300 + 50 − 40); despeses d’explotació 590; BAII 710; resultat financer −30; BAI 680; impost 204; resultat net 476 (milers de €)."
+          },
+          {
+            "apartat": "1.2",
+            "valor": "BAII / vendes = 710 / 1.100 = 0,6455: de cada 100 € venuts, 64,55 € són benefici abans d’interessos i impostos."
+          },
+          {
+            "apartat": "1.3",
+            "valor": "Adda: FM = 1.000 − 700 = 300 > 0, estable a curt termini. Borja: AC < PC, FM negatiu, dificultats per pagar (risc d’insolvència). Solucions: renegociar i passar deute a llarg termini, préstec a llarg, vendre actius improductius, planificar la tresoreria; en una empresa comercial un FM negatiu no seria preocupant."
+          }
+        ],
+        "nota": "Errors típics: posar les compres (300) com a despesa sense ajustar la variació d’existències; sumar el resultat financer com a positiu (és −30); calcular l’impost sobre el BAII; incloure al compte de resultats partides de balanç (actiu i passiu). A les pautes el resultat financer apareix com «30 €», però el BAI de 680 confirma que és −30. A l’1.3 cal comparar les dues empreses i proposar solucions: només descriure-les no dona la puntuació màxima."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "BeteSA: balanç amb el resultat desconegut, ràtio de liquiditat i fonts de finançament intern i extern",
+      "tema": "comptabilitat",
+      "temes_secundaris": [
+        "financament"
+      ],
+      "conceptes": [
+        "balanç de situació",
+        "masses patrimonials",
+        "resultat de l’exercici",
+        "ràtio de liquiditat",
+        "autofinançament",
+        "finançament extern",
+        "ampliació de capital"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "L’empresa BeteSA presenta la informació comptable següent al final de l’exercici:\n\n| Concepte | Import (€) |\n|---|---:|\n| Bancs | 4.000 |\n| Caixa | 2.000 |\n| Capital social | 72.000 |\n| Clients | 2.000 |\n| Comercials | 8.000 |\n| Creditors per prestació de serveis | 20.000 |\n| Deutes a llarg termini amb entitats de crèdit | 32.000 |\n| Deutors | 7.000 |\n| Equips per a processos d’informació | 40.000 |\n| Inversions financeres a llarg termini | 50.000 |\n| Investigació i desenvolupament | 5.000 |\n| Maquinària | 10.000 |\n| Proveïdors | 4.000 |\n| Proveïdors d’immobilitzat a llarg termini | 2.000 |\n| Reserva voluntària | 5.000 |\n| Resultat de l’exercici | ? |\n\nObservació: Tot i que els comptes de l’immobilitzat es presenten pel seu valor comptable net, cal considerar que l’import de l’amortització acumulada de l’immobilitzat material és de 4.000 €.",
+      "enunciat": "Llegiu les dades i responeu els apartats 2.1, 2.2, 2.3 i 2.4.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "punts": 1,
+          "enunciat": "Presenteu el balanç de situació ordenat per masses patrimonials i calculeu el resultat de l’exercici."
+        },
+        {
+          "id": "2.2",
+          "punts": 0.25,
+          "enunciat": "Calculeu la ràtio de liquiditat i interpreteu-ne el resultat."
+        },
+        {
+          "id": "2.3",
+          "punts": 0.5,
+          "enunciat": "A partir de la informació que facilita l’enunciat, esmenteu i definiu el finançament intern i extern a llarg termini d’aquesta empresa."
+        },
+        {
+          "id": "2.4",
+          "punts": 0.25,
+          "enunciat": "Segons l’informe d’un tècnic del departament d’inversió i finances, «l’empresa es planteja dur a terme un projecte d’inversió expansiva. Pel que fa al finançament del projecte, es valora la possibilitat de fer una ampliació de capital, de manera que es recorreria al finançament aliè». Considereu que hi ha algun error conceptual en l’informe del tècnic? Argumenteu la resposta."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de **balanç** (uns 20 minuts). La incògnita és el **resultat de l’exercici**, que és una partida del patrimoni net: el calcularàs per diferència, aplicant l’equació fonamental del patrimoni (**actiu = patrimoni net + passiu**). Classifica cada compte en la seva massa (actiu no corrent, existències, realitzable, disponible; patrimoni net, passiu no corrent, passiu corrent) i suma per subgrups.\n\nL’observació de l’amortització acumulada (4.000 €) **no s’ha de restar**: l’enunciat diu que l’immobilitzat ja es dona pel valor net. Només és útil a l’apartat 2.3, com a font d’autofinançament."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Actiu no corrent**: immobilitzat intangible (I+D 5.000) + immobilitzat material (maquinària 10.000 + equips per a processos d’informació 40.000 = 50.000) + inversions financeres a llarg termini 50.000 → $5000 + 50000 + 50000 = 105000$ €.\n2. **Actiu corrent**: existències (comercials 8.000) + realitzable (clients 2.000 + deutors 7.000 = 9.000) + disponible (bancs 4.000 + caixa 2.000 = 6.000) → $23000$ €.\n3. **Total actiu** $= 105000 + 23000 = 128000$ €.\n4. **Passiu no corrent** $= 32000 + 2000 = 34000$ €; **passiu corrent** = proveïdors 4.000 + creditors per prestació de serveis 20.000 = 24.000 €.\n5. **Patrimoni net** = actiu − passiu $= 128000 - 58000 = 70000$ €.\n6. **Resultat** $= 70000 - 72000 - 5000 = -7000$ € (**pèrdues**)."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "**Balanç de situació de BeteSA (€)**\n\n| Actiu | € | Patrimoni net i passiu | € |\n|---|---:|---|---:|\n| **Actiu no corrent** | **105.000** | **Patrimoni net** | **70.000** |\n| Immobilitzat intangible: Investigació i desenvolupament | 5.000 | Capital social | 72.000 |\n| Immobilitzat material: Maquinària | 10.000 | Reserva voluntària | 5.000 |\n| Immobilitzat material: Equips per a processos d’informació | 40.000 | Resultat de l’exercici | −7.000 |\n| Inversions financeres a llarg termini | 50.000 | **Passiu no corrent** | **34.000** |\n| **Actiu corrent** | **23.000** | Deutes a llarg termini amb entitats de crèdit | 32.000 |\n| Existències: Comercials | 8.000 | Proveïdors d’immobilitzat a llarg termini | 2.000 |\n| Realitzable: Clients | 2.000 | **Passiu corrent** | **24.000** |\n| Realitzable: Deutors | 7.000 | Proveïdors | 4.000 |\n| Disponible: Bancs | 4.000 | Creditors per prestació de serveis | 20.000 |\n| Disponible: Caixa | 2.000 | | |\n| **Total actiu** | **128.000** | **Total patrimoni net i passiu** | **128.000** |\n\nCàlcul del resultat: com que actiu = patrimoni net + passiu,\n\n$$\\text{PN} = 128000 - (34000 + 24000) = 70000 \\text{ €}$$\n\n$$\\text{Resultat} = 70000 - 72000 - 5000 = -7000 \\text{ €}$$\n\nL’empresa ha tingut unes **pèrdues de 7.000 €** en l’exercici."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "$$\\text{Ràtio de liquiditat} = \\frac{\\text{Actiu corrent}}{\\text{Passiu corrent}}$$\n\nEl valor de referència és al voltant de 1,5-2; si és inferior a 1, el fons de maniobra és negatiu i hi ha risc de no poder pagar els deutes a curt termini."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "$$\\text{Ràtio de liquiditat} = \\frac{\\text{AC}}{\\text{PC}} = \\frac{23000}{24000} = 0{,}9583$$\n\nCom que és inferior a 1, l’actiu corrent no és suficient per cobrir el passiu corrent (el fons de maniobra és negatiu, −1.000 €): l’empresa no pot fer front a tots els deutes a curt termini amb el seu actiu corrent i podria tenir problemes de liquiditat (risc de suspensió de pagaments)."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Primer **defineix** cada tipus i després **identifica** les partides de BeteSA:\n\n- **Finançament intern (autofinançament)**: recursos generats per la mateixa empresa, retenint beneficis (reserves → autofinançament d’enriquiment) o amb les amortitzacions (autofinançament de manteniment). A BeteSA: la **reserva voluntària** (5.000 €) i l’**amortització acumulada** (4.000 €). El resultat d’aquest exercici és negatiu, així que no genera autofinançament.\n- **Finançament extern**: recursos que provenen de fora de l’empresa. A llarg termini: el **capital social** (aportat pels socis, extern però propi) i el **passiu no corrent** (deutes a llarg amb entitats de crèdit i proveïdors d’immobilitzat a llarg termini)."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Resposta model",
+            "cos": "El **finançament intern** o **autofinançament** està format pels recursos que genera la mateixa empresa amb la seva activitat i que reinverteix per mantenir o augmentar la capacitat productiva: els beneficis no distribuïts (reserves) i les amortitzacions. A BeteSA, el finançament intern a llarg termini és la **reserva voluntària** (5.000 €), que és autofinançament d’enriquiment, i l’**amortització acumulada de l’immobilitzat material** (4.000 €), que és autofinançament de manteniment.\n\nEl **finançament extern** està format pels recursos que provenen de fora de l’empresa (socis, entitats de crèdit, proveïdors...). És a llarg termini quan s’ha de retornar en un termini superior a un any o no s’ha de retornar. A BeteSA, el finançament extern a llarg termini és el **capital social** (72.000 €, aportat pels socis: extern però propi) i el **passiu no corrent**: deutes a llarg termini amb entitats de crèdit (32.000 €) i proveïdors d’immobilitzat a llarg termini (2.000 €), que són finançament aliè."
+          },
+          {
+            "apartat": "2.4",
+            "titol": "Com plantejar-ho",
+            "cos": "Recorda les dues classificacions del finançament: segons la **propietat** (propi / aliè) i segons la **procedència** (intern / extern). Una ampliació de capital és finançament **propi** (els socis en són propietaris, no s’ha de retornar) i **extern** (els diners vénen de fora de l’empresa). L’error del tècnic és confondre extern amb aliè."
+          },
+          {
+            "apartat": "2.4",
+            "titol": "Resposta model",
+            "cos": "Sí, l’informe té un error conceptual. Una ampliació de capital consisteix que els socis actuals o nous aporten recursos a canvi d’accions: és una font de finançament **propi** (forma part del patrimoni net i no s’ha de retornar), no de finançament **aliè**, que és el que prové de tercers i s’ha de retornar (préstecs, crèdits, proveïdors...). El tècnic hauria d’haver dit que és finançament propi i extern (els diners vénen de fora de l’empresa, però de mans dels socis)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "ANC 105.000 (intangible 5.000, material 50.000, inversions financeres a llarg 50.000); AC 23.000 (existències 8.000, realitzable 9.000, disponible 6.000); total actiu 128.000. PN 70.000; PNC 34.000; PC 24.000. Resultat de l’exercici = −7.000 € (pèrdues)."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "AC / PC = 23.000 / 24.000 = 0,9583 < 1: no pot fer front als deutes a curt termini amb l’actiu corrent; possibles problemes de liquiditat."
+          },
+          {
+            "apartat": "2.3",
+            "valor": "Intern (autofinançament: beneficis retinguts i amortitzacions): reserva voluntària i amortització. Extern (recursos generats fora de l’empresa): capital social i passiu no corrent."
+          },
+          {
+            "apartat": "2.4",
+            "valor": "Sí: l’ampliació de capital és finançament propi, no aliè."
+          }
+        ],
+        "nota": "Errors típics: restar l’amortització acumulada (4.000 €) de l’immobilitzat, quan ja està en valor net; posar el resultat com a positiu (és −7.000 €: pèrdues); classificar «Comercials» com a disponible (són existències de mercaderies); posar els proveïdors d’immobilitzat a llarg termini al passiu corrent. Els resultats coincideixen amb els de les pautes (total actiu 128.000 €, resultat −7.000 €)."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Càtering per a escoles o per a empreses: VAN, termini de recuperació, TIR i comparació amb un fons d’inversió",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "van",
+        "tir",
+        "termini de recuperació",
+        "payback",
+        "cost de capital",
+        "valor residual",
+        "selecció d’inversions"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "La Martina Solc ha heretat del seu avi una nau industrial ubicada al Vallès. Malgrat que ha rebut diverses ofertes de compra per aquest espai, s’està plantejant obrir-hi un negoci.\n\nCom que és amant de la cuina casolana, dubta entre oferir serveis de *catering* per a escoles o per a empreses. Ha calculat que el cost de la inversió inicial seria de 110.000 € en tots dos projectes. La taula següent mostra la previsió de fluxos de caixa nets (FCN) de les dues opcions per als propers dos anys, així com els valors residuals al final de la vida dels dos projectes. Els imports estan expressats en euros.\n\n| Projecte | FCN (any 1) | FCN (any 2) | Valor residual |\n|---|---:|---:|---:|\n| *Catering* per a escoles | 56.000 | 60.000 | 72.000 |\n| *Catering* per a empreses | 59.000 | 50.000 | 74.000 |\n\nEl cost de capital és del 7 %.",
+      "enunciat": "Llegiu les dades i responeu els apartats 3.1, 3.2, 3.3, 3.4 i 3.5.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "3.1",
+          "punts": 0.5,
+          "enunciat": "Quin dels dos projectes empresarials aconsellaríeu a la Martina seguint el criteri del valor actual net (VAN)? Argumenteu la resposta."
+        },
+        {
+          "id": "3.2",
+          "punts": 0.25,
+          "enunciat": "Aplicant el criteri estàtic del termini de recuperació (o *payback*), quina alternativa s’hauria d’escollir?"
+        },
+        {
+          "id": "3.3",
+          "punts": 0.5,
+          "enunciat": "Per a cadascun dels dos projectes, podem dir que la taxa interna de rendibilitat (TIR) supera el cost de capital? Per què? Expliqueu què és la TIR."
+        },
+        {
+          "id": "3.4",
+          "punts": 0.25,
+          "enunciat": "La Martina ha desestimat un projecte d’inversió que consistia en un servei de *catering* per a cases de colònies amb una TIR del 6 % i un VAN negatiu. Raoneu si ha pres una bona decisió."
+        },
+        {
+          "id": "3.5",
+          "punts": 0.5,
+          "enunciat": "En Pau, un amic de la Martina de tota la vida, disposa de 110.000 €, la mateixa quantitat que ella necessita per a la inversió inicial. Ha pensat d’invertir-los durant dos anys en un fons d’inversió amb una rendibilitat anual mitjana del 7 %. La proposta d’inversió d’en Pau és millor que els projectes que valora la Martina? Justifiqueu la resposta."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de **selecció d’inversions** (uns 20 minuts). Només hi ha dos càlculs (els dos VAN); la resta són raonaments sobre el termini de recuperació i la TIR que es poden respondre **sense calcular la TIR**, a partir del signe del VAN. El **valor residual** és un cobrament que es produeix al final de la vida del projecte (any 2): suma’l al flux de l’any 2 abans d’actualitzar. Escriu sempre la fórmula, la substitució i el resultat amb unitats, i acaba cada apartat amb una frase de decisió."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Com plantejar-ho",
+            "cos": "$$\\text{VAN} = -A + \\frac{Q_1}{1+k} + \\frac{Q_2 + VR}{(1+k)^2}$$\n\namb $A = 110000$ €, $k = 0{,}07$. Fluxos de l’any 2 amb el valor residual: escoles $60000 + 72000 = 132000$ €; empreses $50000 + 74000 = 124000$ €. Es tria el projecte amb **VAN positiu i més gran**."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Resposta model",
+            "cos": "$$\\text{VAN}_{\\text{escoles}} = -110000 + \\frac{56000}{1{,}07} + \\frac{60000 + 72000}{1{,}07^2} = -110000 + 52336{,}45 + 115293{,}91 = 57630{,}36 \\text{ €}$$\n\n$$\\text{VAN}_{\\text{empreses}} = -110000 + \\frac{59000}{1{,}07} + \\frac{50000 + 74000}{1{,}07^2} = -110000 + 55140{,}19 + 108306{,}40 = 53446{,}59 \\text{ €}$$\n\nEls dos projectes són viables (VAN > 0): actualitzats al 7 %, els cobraments superen el desemborsament inicial. Aconsellaríem el **càtering per a escoles**, perquè té el VAN més alt: si es compleixen les previsions, el valor actual dels fluxos supera la inversió inicial en 57.630,36 €, és a dir, genera 4.183,77 € més de riquesa que el càtering per a empreses."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Com plantejar-ho",
+            "cos": "El **termini de recuperació** és el temps que es tarda a recuperar el desemborsament inicial amb la suma (sense actualitzar) dels fluxos de caixa. Acumula els fluxos any a any:\n\n- Escoles: any 1 → 56.000; any 2 → $56000 + 60000 = 116000 \\geq 110000$. Recupera dins del segon any: $1 + \\frac{110000 - 56000}{60000} = 1{,}9$ anys (suposant fluxos uniformes dins de l’any).\n- Empreses: any 1 → 59.000; any 2 → $59000 + 50000 = 109000 < 110000$. Amb els fluxos ordinaris no arriba a recuperar la inversió; només la recupera al final de l’any 2 gràcies al valor residual."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Resposta model",
+            "cos": "**Càtering per a escoles**: els fluxos acumulats són 56.000 € l’any 1 i 116.000 € l’any 2, de manera que la inversió de 110.000 € es recupera abans d’acabar el segon any: falten $110000 - 56000 = 54000$ € després del primer any, que es recuperen en $54000 / 60000 = 0{,}9$ anys. Termini de recuperació ≈ **1,9 anys** (1 any i uns 11 mesos).\n\n**Càtering per a empreses**: els fluxos acumulats són 59.000 € i 109.000 €, que no arriben als 110.000 €; la inversió només es recupera al final del segon any, quan es cobra el valor residual.\n\nSegons el termini de recuperació, s’hauria d’escollir el **càtering per a escoles**, perquè recupera abans la inversió inicial."
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Com plantejar-ho",
+            "cos": "La **TIR** és la taxa de descompte que fa que el VAN sigui 0. Com que el VAN disminueix quan augmenta la taxa, si a $k = 7\\ \\%$ el VAN és positiu, cal una taxa més alta per fer-lo zero: **TIR > 7 %**. No cal calcular-la (si ho fas, surt un 37,9 % per a escoles i un 36,3 % per a empreses)."
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Resposta model",
+            "cos": "Sí, en tots dos projectes la TIR supera el cost de capital del 7 %. El VAN d’un projecte disminueix a mesura que augmenta la taxa de descompte, i la TIR és la taxa amb què el VAN és zero. Com que tots dos projectes tenen un VAN positiu calculat al 7 % (57.630,36 € i 53.446,59 €), la taxa que anul·la el VAN ha de ser superior al 7 %: els dos projectes obtenen una rendibilitat superior al cost de capital (a la rendibilitat del mercat) i generen guanys per a l’empresa. (Calculant-la, la TIR és d’un 37,9 % per al càtering per a escoles i d’un 36,3 % per al càtering per a empreses.)\n\nLa **taxa interna de rendibilitat (TIR)** és la taxa d’actualització o de descompte que fa que el VAN d’una inversió sigui igual a zero. Indica la rendibilitat que genera la inversió: un projecte és acceptable quan la seva TIR és superior al cost de capital."
+          },
+          {
+            "apartat": "3.4",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues dades coherents entre si: una TIR (6 %) inferior al cost de capital (7 %) implica un VAN negatiu a la taxa del 7 %. Tots dos criteris diuen el mateix: **rebutjar**."
+          },
+          {
+            "apartat": "3.4",
+            "titol": "Resposta model",
+            "cos": "Sí, ha pres una bona decisió. Un VAN negatiu vol dir que, actualitzats al cost de capital del 7 %, els fluxos de caixa del projecte no són suficients per recuperar el desemborsament inicial: el projecte destruiria valor. A més, la TIR del projecte (6 %), que és la seva rendibilitat, és inferior al cost de capital (7 %): la inversió rendiria menys del que costa finançar-la. Per tots dos criteris, el projecte de càtering per a cases de colònies s’ha de rebutjar."
+          },
+          {
+            "apartat": "3.5",
+            "titol": "Com plantejar-ho",
+            "cos": "El fons d’inversió rendeix exactament el 7 %, que és el cost de capital: la seva **TIR és el 7 %** i, per tant, el seu **VAN al 7 % és 0**. Comprovació: en dos anys els 110.000 € es convertirien en $110000 \\cdot 1{,}07^2 = 125939$ €, i $\\text{VAN} = -110000 + \\frac{125939}{1{,}07^2} = 0$. Compara-ho amb els VAN positius (i les TIR superiors al 7 %) dels projectes de la Martina."
+          },
+          {
+            "apartat": "3.5",
+            "titol": "Resposta model",
+            "cos": "No, la proposta d’en Pau és pitjor. El fons d’inversió té una rendibilitat del 7 %, igual al cost de capital: la seva TIR és del 7 % i, per tant, el seu VAN actualitzat al 7 % és zero. Al cap de dos anys, en Pau tindria $110000 \\cdot 1{,}07^2 = 125939$ €, que, actualitzats al 7 %, valen exactament els 110.000 € invertits: no crea valor addicional.\n\nEn canvi, els dos projectes de la Martina, amb la mateixa inversió inicial i el mateix tipus d’interès, tenen un VAN positiu (57.630,36 € i 53.446,59 €) i una TIR superior al 7 %. Per tant, qualsevol dels dos projectes de la Martina és millor que la inversió en el fons d’en Pau (sempre que es compleixin les previsions de fluxos, que comporten més risc que un fons d’inversió)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "3.1",
+            "valor": "VAN escoles = 57.630,35 €; VAN empreses = 53.446,59 €. Els dos són positius; s’aconsella el càtering per a escoles (VAN més alt)."
+          },
+          {
+            "apartat": "3.2",
+            "valor": "Escoles: 56.000 + 60.000 = 116.000 > 110.000, recupera abans dels dos anys. Empreses: no recupera fins que compta part del valor residual. Es tria el càtering per a escoles."
+          },
+          {
+            "apartat": "3.3",
+            "valor": "Sí, en tots dos casos la TIR supera el cost de capital perquè el VAN al 7 % és positiu. La TIR és la taxa de descompte que fa el VAN = 0; indica la rendibilitat de la inversió."
+          },
+          {
+            "apartat": "3.4",
+            "valor": "Sí, bona decisió: VAN negatiu (els fluxos actualitzats no recuperen la inversió) i TIR (6 %) inferior a la taxa d’actualització."
+          },
+          {
+            "apartat": "3.5",
+            "valor": "El fons rendeix el 7 % (TIR = 7 %, VAN = 0); qualsevol projecte de la Martina té VAN positiu per al mateix tipus d’interès i és millor."
+          }
+        ],
+        "nota": "Les pautes anomenen el segon projecte «restaurants», però l’enunciat diu «catering per a empreses»: és el mateix projecte. El VAN d’escoles surt 57.630,36 € arrodonint bé (les pautes diuen 57.630,35 €; la diferència és d’arrodoniment). Errors típics: oblidar el valor residual o actualitzar-lo com si fos l’any 3; actualitzar els fluxos al termini de recuperació (és un mètode estàtic); confondre TIR amb VAN a l’apartat 3.3."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Pimes, estratègies competitives i el cas Cafè Exprés: internacionalització, creixement i estratègia multidomèstica",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pimes",
+        "avantatge competitiu",
+        "estratègia de diferenciació",
+        "economies d’escala",
+        "creixement intern i extern",
+        "internacionalització",
+        "estratègia multidomèstica"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7,
+        8
+      ],
+      "text": "Text de l’apartat 4.2:\n\nCafè Exprés és una gran empresa que produeix i distribueix càpsules de cafè en monodosis elaborades amb alumini. Té acords de col·laboració amb altres empreses per a fabricar les cafeteres i disposa d’un 6 % del capital social d’una d’aquestes empreses. Tot i això, de la producció de càpsules se n’ocupa exclusivament Cafè Exprés. La matèria primera bàsica que utilitza prové de diversos països de l’Amèrica Central. L’empresa ha incrementat la capacitat productiva i, en l’actualitat, té tres fàbriques situades a Europa i a Amèrica. D’altra banda, ha aconseguit crear una xarxa de més de quaranta botigues pròpies distribuïdes per Europa i Amèrica, vuit de les quals són a Catalunya. Cafè Exprés adapta els gustos del cafè a la tipologia de clients de cada país. Amb això pretén crear una imatge de marca i exclusivitat i acostar-se al públic objectiu. En aquest sentit, les filials exteriors disposen d’un nivell d’autonomia elevat per a adaptar-se al mercat local, més enllà del qual no transcendeix la seva activitat.",
+      "enunciat": "Responeu els apartats 4.1 i 4.2. A l’apartat 4.1 (1 punt), indiqueu si les afirmacions són vertaderes o falses i, si són falses, expliqueu per què. L’apartat 4.2 es basa en el cas de l’empresa Cafè Exprés.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "4.1.a",
+          "punts": 0.2,
+          "enunciat": "Indiqueu si les afirmacions següents són vertaderes o falses. Si són falses, expliqueu per què.\n\na) Les pimes aconsegueixen reduir costos de fabricació i tenen més facilitats per a exportar els productes que elaboren."
+        },
+        {
+          "id": "4.1.b",
+          "punts": 0.2,
+          "enunciat": "b) Les empreses que volen donar als seus productes unes característiques específiques que els facin únics perquè això els suposi un avantatge competitiu usen una estratègia de lideratge de costos."
+        },
+        {
+          "id": "4.1.c",
+          "punts": 0.2,
+          "enunciat": "c) Com més informació es tingui sobre l’estructura de costos de l’empresa client o proveïdora, més poder de negociació es tindrà, ja que se sabrà més bé com es pot forçar una baixada de preus."
+        },
+        {
+          "id": "4.1.d",
+          "punts": 0.2,
+          "enunciat": "d) L’avantatge competitiu és el conjunt de característiques externes a l’empresa que fa que aquesta tingui una posició d’avantatge davant dels seus competidors."
+        },
+        {
+          "id": "4.1.e",
+          "punts": 0.2,
+          "enunciat": "e) Les economies d’escala representen un al·licient important per a les empreses noves que volen accedir per primera vegada a un mercat madur."
+        },
+        {
+          "id": "4.2.a",
+          "punts": 0.25,
+          "enunciat": "a) Es tracta d’una empresa internacionalitzada? Per què?"
+        },
+        {
+          "id": "4.2.b",
+          "punts": 0.5,
+          "enunciat": "b) Expliqueu els diferents tipus de creixement empresarial que hi ha. Digueu a quin o quins d’aquests tipus s’ajusta l’empresa Cafè Exprés."
+        },
+        {
+          "id": "4.2.c",
+          "punts": 0.25,
+          "enunciat": "c) L’estratègia que aplica Cafè Exprés és una estratègia global, multidomèstica o transnacional? Justifiqueu la resposta."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici **teòric** (uns 15-20 minuts), sense càlculs. A l’**4.1** cada afirmació val 0,2 punts: digues «Vertadera» o «Falsa» i, si és falsa, **explica per què** (sense explicació, una falsa no puntua del tot). La manera més segura és reescriure l’afirmació corregida. A l’**4.2** cal aplicar la teoria al cas: rellegeix el text i **cita’n les frases** que justifiquen cada resposta (fàbriques pròpies, 6 % del capital, filials autònomes...)."
+          },
+          {
+            "apartat": "4.1.a",
+            "titol": "Resposta model",
+            "cos": "**Falsa.** Són les **grans empreses** les que aconsegueixen reduir els costos de fabricació (gràcies a les economies d’escala) i tenen més facilitats per exportar els seus productes (més recursos financers, xarxes comercials i coneixement dels mercats exteriors). Les pimes, en canvi, tenen més dificultats per accedir als mercats internacionals."
+          },
+          {
+            "apartat": "4.1.b",
+            "titol": "Resposta model",
+            "cos": "**Falsa.** Les empreses que volen donar als seus productes unes característiques que els facin únics als ulls del client utilitzen una **estratègia de diferenciació**, no de lideratge en costos. L’estratègia de lideratge en costos consisteix a produir amb costos més baixos que la competència per poder oferir preus més baixos."
+          },
+          {
+            "apartat": "4.1.c",
+            "titol": "Resposta model",
+            "cos": "**Vertadera.** Com més es coneix l’estructura de costos del client o del proveïdor, més poder de negociació es té, perquè se sap fins on pot baixar el preu sense entrar en pèrdues i es pot pressionar per obtenir millors condicions."
+          },
+          {
+            "apartat": "4.1.d",
+            "titol": "Resposta model",
+            "cos": "**Falsa.** L’avantatge competitiu és el conjunt de característiques **internes** (no externes) que l’empresa desenvolupa (costos més baixos, qualitat, tecnologia, imatge de marca...) per obtenir i reforçar una posició d’avantatge davant dels seus competidors."
+          },
+          {
+            "apartat": "4.1.e",
+            "titol": "Resposta model",
+            "cos": "**Falsa.** Les economies d’escala són una **barrera d’entrada**: les empreses ja instal·lades produeixen grans volums amb un cost unitari baix, i una empresa nova, que comença amb volums petits, té costos unitaris més alts i no pot competir en preu. Per tant, frenen l’entrada de nous competidors i protegeixen el nivell de beneficis de les empreses existents."
+          },
+          {
+            "apartat": "4.2.a",
+            "titol": "Resposta model",
+            "cos": "Sí, Cafè Exprés és una empresa internacionalitzada, perquè té una elevada activitat internacional en totes les fases del negoci: compra la matèria primera a diversos països de l’Amèrica Central, té tres fàbriques situades a Europa i Amèrica, ven els productes en diferents països i ha creat una xarxa de més de quaranta botigues pròpies distribuïdes per Europa i Amèrica (vuit a Catalunya), amb filials a l’exterior."
+          },
+          {
+            "apartat": "4.2.b",
+            "titol": "Com plantejar-ho",
+            "cos": "Defineix els dos tipus (**intern** i **extern**) i, per a cadascun, troba al text l’evidència:\n\n- Intern: «ha incrementat la capacitat productiva», «tres fàbriques», «botigues pròpies».\n- Extern: «acords de col·laboració amb altres empreses per a fabricar les cafeteres» (cooperació) i «un 6 % del capital social d’una d’aquestes empreses» (participació)."
+          },
+          {
+            "apartat": "4.2.b",
+            "titol": "Resposta model",
+            "cos": "Una empresa pot créixer de dues maneres:\n\n- **Creixement intern**: l’empresa augmenta la seva dimensió fent inversions en la seva pròpia estructura (noves fàbriques, més maquinària, noves botigues o llançament de nous productes), amb els seus propis recursos.\n- **Creixement extern**: l’empresa amplia la capacitat i el volum d’operacions mitjançant l’adquisició, la participació o el control d’altres empreses ja existents, o mitjançant acords de cooperació amb altres empreses (fusions, absorcions, participacions en el capital, aliances, franquícies...).\n\nCafè Exprés s’ajusta **als dos tipus**. Té creixement intern, perquè ha incrementat la capacitat productiva i ha construït fàbriques i botigues pròpies a Europa i Amèrica. I té creixement extern, perquè té acords de col·laboració amb altres empreses per a fabricar les cafeteres i, a més, és propietària d’un 6 % del capital social d’una d’aquestes empreses."
+          },
+          {
+            "apartat": "4.2.c",
+            "titol": "Resposta model",
+            "cos": "Cafè Exprés aplica una **estratègia multidomèstica**. Aquesta estratègia consisteix a donar una resposta diferenciada a cada país segons les necessitats locals: l’organització es descentralitza i les filials, sovint dirigides per directius locals, tenen molta autonomia respecte de la seu central. És el cas de Cafè Exprés: adapta els gustos del cafè a la tipologia de clients de cada país per acostar-se al públic objectiu, i les filials exteriors disposen d’un nivell d’autonomia elevat per adaptar-se al mercat local, més enllà del qual no transcendeix la seva activitat. No és una estratègia global (producte estàndard per a tot el món i decisions centralitzades) ni transnacional (combina la visió global amb l’adaptació local i les filials interactuen entre si)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "4.1.a",
+            "valor": "Falsa: són les grans empreses les que redueixen costos de fabricació i exporten amb més facilitat."
+          },
+          {
+            "apartat": "4.1.b",
+            "valor": "Falsa: usen una estratègia de diferenciació, no de lideratge en costos."
+          },
+          {
+            "apartat": "4.1.c",
+            "valor": "Vertadera."
+          },
+          {
+            "apartat": "4.1.d",
+            "valor": "Falsa: l’avantatge competitiu és el conjunt de característiques internes (no externes) que l’empresa desenvolupa."
+          },
+          {
+            "apartat": "4.1.e",
+            "valor": "Falsa: les economies d’escala són una barrera d’entrada que frena els nous entrants i protegeix les empreses existents."
+          },
+          {
+            "apartat": "4.2.a",
+            "valor": "Sí: matèries primeres de l’Amèrica Central, tres fàbriques a Europa i Amèrica, més de 40 botigues pròpies a Europa i Amèrica."
+          },
+          {
+            "apartat": "4.2.b",
+            "valor": "Creixement intern (inversions en la pròpia estructura) i extern (adquisició, participació o control d’altres empreses). Cafè Exprés: intern (més capacitat, fàbriques i botigues pròpies) i extern (acords de col·laboració i 6 % del capital d’un fabricant)."
+          },
+          {
+            "apartat": "4.2.c",
+            "valor": "Multidomèstica: resposta diferenciada per a cada filial segons les necessitats locals, organització descentralitzada; adapta els gustos a cada país i les filials tenen molta autonomia."
+          }
+        ],
+        "nota": "Errors típics: contestar només «Falsa» sense explicar-ho (es perd la puntuació); a l’4.2.b, explicar els tipus de creixement però no aplicar-los al cas o oblidar el creixement extern (la participació del 6 % i els acords de col·laboració); a l’4.2.c, triar «global» per la imatge de marca, quan l’adaptació local i l’autonomia de les filials són la clau de l’estratègia multidomèstica. Les pautes no detallen el repartiment de punts de l’4.1; s’ha suposat 0,2 punts per afirmació."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Dinar popular d’una associació de comerciants: costos fixos i variables, preu mínim, tiquets per a un benefici objectiu i viabilitat",
+      "tema": "produccio",
+      "temes_secundaris": [
+        "emprenedoria"
+      ],
+      "conceptes": [
+        "costos fixos",
+        "costos variables",
+        "llindar de rendibilitat",
+        "benefici objectiu",
+        "viabilitat comercial",
+        "viabilitat financera"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        9,
+        10
+      ],
+      "text": "Una associació de comerciants celebrarà enguany el 50è aniversari de la seva fundació. Per a fer-ho, l’entitat vol organitzar un viatge per a visitar una fira bianual que té lloc a Milà, la més important del sector. El president ha analitzat la situació econòmica de l’associació i ha vist que amb els estalvis de què disposen no poden pagar la totalitat de les despeses del viatge de tots els associats.\n\nPer aconseguir finançament, han decidit fer un dinar popular, al final del qual lliuraran un clauer commemoratiu a tots els assistents. Els costos que han previst són:\n\n- Lloguer d’una sala (amb una capacitat màxima per a 300 persones): 200 €.\n- Dinar: 12 € per comensal.\n- Clauer commemoratiu: 2 € per unitat.\n- Contractació de dos cambrers: 100 € cadascun.\n- Lloguer d’un equip de música: 100 €.\n- Servei de seguretat: 60 €.",
+      "enunciat": "Llegiu les dades i responeu els apartats 5.1, 5.2, 5.3 i 5.4.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "5.1",
+          "punts": 0.5,
+          "enunciat": "Determineu els costos fixos i els costos variables unitaris que suposa l’organització d’aquest acte. Què diferencia els costos fixos dels costos variables?"
+        },
+        {
+          "id": "5.2",
+          "punts": 0.5,
+          "enunciat": "Calculeu el preu que ha de tenir el tiquet del dinar perquè l’organització no tingui pèrdues en el cas que es venguin 80 tiquets."
+        },
+        {
+          "id": "5.3",
+          "punts": 0.5,
+          "enunciat": "Dels 62 comerciants associats, finalment només 40 visitaran la fira. El viatge costa 350 € per persona. Si els tiquets del dinar es venen a 26 € cada un, calculeu quants se n’haurien de vendre perquè els beneficis obtinguts permetessin finançar el 20 % del cost del viatge. Podran aconseguir aquest objectiu tenint en compte la capacitat de la sala?"
+        },
+        {
+          "id": "5.4",
+          "punts": 0.5,
+          "enunciat": "L’associació es planteja diferents reptes per als propers anys. Abans, però, cal fer una anàlisi de la viabilitat comercial i financera de l’associació. Expliqueu breument en què consisteixen aquestes dues viabilitats."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Problema de **costos i llindar de rendibilitat** (uns 15-20 minuts), dels més assequibles de l’examen. La clau és classificar bé cada cost: és **fix** si no depèn del nombre de comensals (sala, cambrers, música, seguretat) i **variable** si es paga per cada comensal (dinar i clauer). Atenció: hi ha **dos** cambrers a 100 € cadascun. Totes les preguntes es resolen amb la mateixa equació:\n\n$$B = p \\cdot q - (CF + CV_u \\cdot q)$$"
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Resposta model",
+            "cos": "$$CF = 200 \\text{ (sala)} + 2 \\cdot 100 \\text{ (cambrers)} + 100 \\text{ (música)} + 60 \\text{ (seguretat)} = 560 \\text{ €}$$\n\n$$CV_u = 12 \\text{ (dinar)} + 2 \\text{ (clauer)} = 14 \\text{ € per comensal}$$\n\nEls **costos fixos** són independents del volum d’activitat: es paguen igualment tant si van al dinar 10 persones com 300 (per exemple, el lloguer de la sala o els sous del personal fix). Els **costos variables** depenen del nombre d’unitats produïdes i venudes (aquí, del nombre de comensals): si no hi ha cap comensal, són zero, i augmenten de manera proporcional al nombre de tiquets (per exemple, el menjar o les matèries primeres)."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Com plantejar-ho",
+            "cos": "«No tenir pèrdues» vol dir **benefici = 0**: ingressos = costos totals. Coneixem la quantitat ($q = 80$) i busquem el preu: $p \\cdot 80 = 560 + 14 \\cdot 80$."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Resposta model",
+            "cos": "$$B = 0 \\Rightarrow p \\cdot q = CF + CV_u \\cdot q$$\n\n$$80p = 560 + 14 \\cdot 80 = 560 + 1120 = 1680 \\Rightarrow p = \\frac{1680}{80} = 21 \\text{ €}$$\n\nSi es venen 80 tiquets, cada tiquet ha de costar com a mínim **21 €** perquè l’organització no tingui pèrdues (amb aquest preu, el benefici és zero). De cada tiquet, 14 € cobreixen el cost variable i els 7 € restants, multiplicats per 80, cobreixen els 560 € de costos fixos."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Cost del viatge: $40 \\cdot 350 = 14000$ €. Benefici objectiu: $0{,}20 \\cdot 14000 = 2800$ €.\n2. Equació del benefici amb $p = 26$: $2800 = 26q - (560 + 14q)$ → $q = \\frac{2800 + 560}{26 - 14}$.\n3. Compara el resultat amb la capacitat de la sala (300 persones).\n\nEls 62 associats són una dada de distracció: només compten els 40 que viatgen."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Resposta model",
+            "cos": "Cost total del viatge: $40 \\cdot 350 = 14000$ €. Volen finançar-ne el 20 %, de manera que el benefici del dinar ha de ser:\n\n$$B = 0{,}20 \\cdot 14000 = 2800 \\text{ €}$$\n\n$$B = p \\cdot q - CF - CV_u \\cdot q \\Rightarrow 2800 = 26q - 560 - 14q \\Rightarrow 12q = 3360 \\Rightarrow q = 280 \\text{ tiquets}$$\n\nHan de vendre **280 tiquets** (cada tiquet deixa un marge de $26 - 14 = 12$ € per cobrir els 560 € fixos i els 2.800 € de benefici). Com que la sala té una capacitat màxima de 300 persones, **sí que poden aconseguir l’objectiu**: hi caben els 280 comensals necessaris (i encara queden 20 places lliures)."
+          },
+          {
+            "apartat": "5.4",
+            "titol": "Resposta model",
+            "cos": "La **viabilitat comercial** consisteix a comprovar si el producte o servei té possibilitats de venda al mercat, és a dir, si hi haurà prou demanda (clients disposats a pagar-lo). Per analitzar-la, l’associació podria fer un estudi de mercat, analitzar la competència o fer una anàlisi DAFO.\n\nLa **viabilitat financera** consisteix a comprovar que les inversions necessàries i les fonts per finançar-les són les adequades, és a dir, que l’associació podrà obtenir els recursos necessaris i fer front als pagaments. Per analitzar-la, convé preparar un pla d’inversions i un pla de finançament relacionats entre si, que mostrin l’equilibri entre les inversions i les fonts de finançament."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "5.1",
+            "valor": "CF = 200 + 200 + 100 + 60 = 560 €; CVu = 12 + 2 = 14 €. Els costos fixos no depenen del volum d’activitat; els variables depenen de les unitats fabricades i venudes."
+          },
+          {
+            "apartat": "5.2",
+            "valor": "80p = 560 + 14 · 80 = 1.680 → p = 21 € (benefici nul)."
+          },
+          {
+            "apartat": "5.3",
+            "valor": "Cost del viatge 40 · 350 = 14.000 €; benefici objectiu 2.800 €; 2.800 = 26q − (560 + 14q) → q = 280 tiquets; sí, la sala té capacitat per a 300 persones."
+          },
+          {
+            "apartat": "5.4",
+            "valor": "Viabilitat comercial: si el producte o servei té possibilitats de venda al mercat (estudi de mercat, DAFO). Viabilitat financera: inversions i finançament adequats (pla d’inversions i pla de finançament)."
+          }
+        ],
+        "nota": "Errors típics: comptar un sol cambrer (CF = 460 €) o posar el clauer com a cost fix; fer servir els 62 associats en lloc dels 40 viatgers; oblidar els costos fixos a l’equació del benefici objectiu. Els resultats coincideixen amb els de les pautes oficials."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e6-q1",
+      "exercici": 6,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Empreses amb personalitat física (empresari individual)",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "empresari individual",
+        "personalitat física",
+        "forma jurídica",
+        "responsabilitat il·limitada"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Les empreses amb personalitat física",
+      "figures": [],
+      "opcions": {
+        "a": "són les que han de fer menys tràmits a l’hora de constituir-se.",
+        "b": "tenen responsabilitat limitada.",
+        "c": "es constitueixen amb un capital mínim d’entre 30.000 i 60.000 €.",
+        "d": "han de pagar l’impost de societats a la hisenda pública."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. L’empresa amb personalitat física és l’**empresari individual** (autònom): no cal crear cap societat, ni escriptura de constitució ni capital mínim, i per això és la forma jurídica amb menys tràmits. Les altres són falses: l’empresari individual té responsabilitat **il·limitada** (respon amb tot el seu patrimoni personal), no necessita capital mínim i tributa per l’**IRPF**, no per l’impost de societats."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": "Associa «personalitat física» amb una persona (autònom): responsabilitat il·limitada i IRPF. Les opcions b), c) i d) són característiques de les societats mercantils."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e6-q2",
+      "exercici": 6,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Costos fixos i costos variables",
+      "tema": "produccio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "costos fixos",
+        "costos variables",
+        "estructura de costos"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Quina de les afirmacions següents és correcta?",
+      "figures": [],
+      "opcions": {
+        "a": "Els costos fixos varien de manera inversa a com ho fa la producció.",
+        "b": "Els costos variables són nuls si produïm 0 unitats.",
+        "c": "Els costos fixos són nuls si produïm 0 unitats.",
+        "d": "Els costos variables varien de manera proporcional als costos unitaris."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. Els costos variables depenen del volum de producció ($CV = CV_u \\cdot q$): si $q = 0$, el cost variable és 0. Els costos fixos no varien amb la producció (ni de manera inversa ni a zero): es paguen igualment encara que no es produeixi res (a i c falses). I els costos variables varien en proporció a la **quantitat produïda**, no als costos unitaris (d falsa)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "No confonguis el cost fix total (constant) amb el cost fix unitari, que sí que disminueix quan augmenta la producció: és el parany de l’opció a)."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e6-q3",
+      "exercici": 6,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Autofinançament de manteniment: les amortitzacions",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "autofinançament",
+        "amortitzacions",
+        "reserves",
+        "finançament intern"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Per quins elements està constituït l’autofinançament de manteniment?",
+      "figures": [],
+      "opcions": {
+        "a": "Per les reserves.",
+        "b": "Per les amortitzacions.",
+        "c": "Pel capital social.",
+        "d": "Totes les respostes anteriors són correctes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. L’autofinançament de **manteniment** està format per les **amortitzacions** (i les provisions): recursos que l’empresa reté per reposar els actius que es van desgastant i mantenir la capacitat productiva. Les **reserves** (beneficis no repartits) són l’autofinançament d’**enriquiment** o d’ampliació, que fa créixer l’empresa. El capital social no és autofinançament: és finançament propi però extern (aportat pels socis)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Manteniment = amortitzacions (mantenir); enriquiment = reserves (créixer)."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e6-q4",
+      "exercici": 6,
+      "questio": 4,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Mètodes estàtics i dinàmics de selecció d’inversions",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mètodes estàtics",
+        "mètodes dinàmics",
+        "selecció d’inversions",
+        "valor temporal dels diners"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Quina de les afirmacions següents sobre els mètodes de selecció d’inversions és correcta?",
+      "figures": [],
+      "opcions": {
+        "a": "Els mètodes dinàmics només s’utilitzen per a projectes d’inversió en actius no corrents.",
+        "b": "Els mètodes estàtics no tenen en compte el temps a l’hora de descomptar els fluxos futurs derivats dels projectes d’inversió.",
+        "c": "Els mètodes dinàmics no tenen en compte el temps a l’hora de descomptar els fluxos futurs derivats dels projectes d’inversió.",
+        "d": "Els mètodes estàtics només s’utilitzen per a projectes d’inversió en actius no corrents."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. Els mètodes **estàtics** (per exemple, el termini de recuperació o *payback*) sumen els fluxos de caixa sense actualitzar-los: no tenen en compte que un euro d’avui val més que un euro del futur. Els mètodes **dinàmics** (VAN, TIR) sí que actualitzen els fluxos (c és falsa). Cap dels dos tipus està limitat a inversions en actius no corrents (a i d falses)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Estàtic = sense descomptar el temps; dinàmic = actualitza els fluxos amb una taxa de descompte."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e6-q5",
+      "exercici": 6,
+      "questio": 5,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "El descompte d’efectes",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "descompte d’efectes",
+        "finançament a curt termini",
+        "finançament aliè",
+        "lletres de canvi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Què és el descompte d’efectes?",
+      "figures": [],
+      "opcions": {
+        "a": "Una font de finançament aliena a llarg termini.",
+        "b": "Un endarreriment en un pagament a un proveïdor.",
+        "c": "La cancel·lació d’un pagament a un proveïdor.",
+        "d": "Totes les respostes anteriors són incorrectes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. El descompte d’efectes és una font de finançament **aliena a curt termini**: l’empresa porta al banc els efectes comercials (lletres de canvi, pagarés) que li han de pagar els **clients** en el futur, i el banc li n’avança l’import abans del venciment, descomptant-ne els interessos i les comissions. No és a llarg termini (a falsa) ni té res a veure amb els pagaments als proveïdors (b i c falses)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": "El descompte d’efectes és sobre cobraments pendents de clients, no sobre pagaments a proveïdors, i sempre és a curt termini."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e6-q6",
+      "exercici": 6,
+      "questio": 6,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "La rendibilitat financera",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "rendibilitat financera",
+        "recursos propis",
+        "rendibilitat econòmica",
+        "ràtios"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "La rendibilitat financera és",
+      "figures": [],
+      "opcions": {
+        "a": "la rendibilitat dels recursos propis.",
+        "b": "la rendibilitat del finançament aliè.",
+        "c": "la rendibilitat de les vendes.",
+        "d": "la rendibilitat dels actius."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. La rendibilitat financera relaciona el benefici net amb els **recursos propis** (patrimoni net): $RF = \\frac{\\text{BN}}{\\text{PN}}$. Mesura el rendiment que obtenen els socis pel capital que han aportat. La rendibilitat dels actius (d) és la rendibilitat **econòmica** ($\\text{BAII}/\\text{Actiu}$), i la de les vendes (c) és el marge sobre vendes."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": "Financera = propietaris (patrimoni net); econòmica = actiu total."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e6-q7",
+      "exercici": 6,
+      "questio": 7,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Avantatges de les pimes davant de les multinacionals",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pimes",
+        "multinacionals",
+        "flexibilitat",
+        "dimensió empresarial"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "En comparació amb les multinacionals, les pimes",
+      "figures": [],
+      "opcions": {
+        "a": "poden ser millors des d’un punt de vista tecnològic.",
+        "b": "poden fer millors acords amb els proveïdors i els clients.",
+        "c": "poden aconseguir unes millors condicions de finançament de les entitats de crèdit.",
+        "d": "poden ser més adaptables i flexibles."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. El principal avantatge de les pimes és la **flexibilitat**: tenen estructures senzilles i poques jerarquies, i per això s’adapten més ràpidament als canvis del mercat i a les necessitats dels clients. Les altres opcions són avantatges típics de les **grans empreses**: més inversió en tecnologia (a), més poder de negociació amb proveïdors i clients (b) i més facilitat per obtenir finançament en bones condicions (c)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": "Lliga-ho amb l’exercici 4.1 a): les grans empreses tenen economies d’escala i poder de negociació; les pimes, flexibilitat i proximitat al client."
+      }
+    },
+    {
+      "id": "empresa-2018-J-e6-q8",
+      "exercici": 6,
+      "questio": 8,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "La fusió empresarial",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "fusió",
+        "creixement extern",
+        "concentració empresarial",
+        "absorció"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Quan hi ha una fusió empresarial?",
+      "figures": [],
+      "opcions": {
+        "a": "Quan dues empreses o més cooperen entre si.",
+        "b": "Quan dues empreses o més acorden posar en comú els seus patrimonis i crear una sola empresa.",
+        "c": "Quan dues empreses o més concentren la seva producció en un lloc estratègic per a afavorir el contacte amb els clients.",
+        "d": "Totes les respostes anteriors són correctes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. En una **fusió** dues o més empreses uneixen els seus patrimonis i desapareixen per formar una única empresa nova (fusió pura); és una forma de creixement extern. La simple cooperació entre empreses (a) és una aliança o acord de cooperació, en què cada empresa manté la seva personalitat jurídica, i concentrar la producció en un lloc (c) és una decisió de localització, no una fusió."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "No confonguis fusió (es crea una empresa nova i desapareixen les anteriors), absorció (una empresa n’absorbeix una altra, que desapareix) i cooperació (les empreses continuen sent independents)."
+      }
+    }
+  ]
+}

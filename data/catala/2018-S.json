@@ -1,0 +1,2527 @@
+{
+  "examen": {
+    "id": "catala-2018-S",
+    "assignatura": "catala",
+    "materia": "Llengua catalana i literatura",
+    "any": 2018,
+    "convocatoria": "setembre",
+    "serie": "3",
+    "pdf_examen": "pdfs/catala/2018-S-examen.pdf",
+    "pdf_solucio": "pdfs/catala/2018-S-solucio.pdf",
+    "estructura": "Sèrie 3 (convocatòria de setembre de 2018). Tres parts (10 punts). Cal triar UNA de les dues opcions (A: fragment de *Terra baixa*, d’Àngel Guimerà; B: text periodístic sobre el turisme espacial) i fer-ne les parts 1 i 2; la part 3 és comuna. 1. Comprensió lectora (4 punts): vertader/fals (0,5; cada error resta 0,1), sinònims (0,5), referents de pronoms (0,5), pregunta de comprensió en tres línies (0,5) i tres qüestions obligatòries sobre les lectures (*La plaça del Diamant* i *Terra baixa*): una resposta de 50 mots (1 punt) i dos vertader/fals (0,5 cadascun; cada error resta 0,1). 2. Expressió escrita (3 punts): reescriptura d’un fragment canviant els temps verbals (1 punt) i text formal de 125-150 paraules (2 punts). 3. Reflexió lingüística, part comuna (3 punts): deu preguntes de test d’anàlisi sintàctica (1 punt, 0,1 cadascuna; cada error resta 0,1) i quatre exercicis de 0,5 punts (parònims, formes verbals, assimilació de nasals i derivació). Cada falta d’ortografia, lèxic o gramàtica resta 0,1 punts, sense límit, del total de l’examen."
+  },
+  "problemes": [
+    {
+      "id": "catala-2018-S-e1-q1-1-a",
+      "exercici": 1,
+      "questio": "1.1",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals sobre la infantesa de la Marta (*Terra baixa*)",
+      "tema": "comprensio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "comprensió lectora",
+        "vertader o fals",
+        "àngel guimerà",
+        "terra baixa"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2
+      ],
+      "text": "Marta *(amb indignació, eixugant-se repetidament els ulls)*: Tampoc **ho** creureu això de que jo era molt pobreta? Veureu: jo tenia una mare que era cega. Ho sentiu? I no he tingut ningú més. […] Però una mare sí que la tenia! I ella i jo captàvem per ciutat, allà baix a Barcelona. […] ens posàvem a les escales d’una iglésia que tenia una porta que no s’acabava mai d’alta, i allí ens estàvem. Qui havia sigut el meu pare de bo de bo? Jo no ho he sapigut mai. D’ençà de quan, captàvem? Oh! Potser abans de néixer jo, que captàvem. Jo a la mare l’havia vist sempre amb la mà estesa al portal de la iglésia […]. Un dia […] ja no érem ella i jo soletes que captàvem: al costat s’hi va asseure a captar un home, que… jo em vaig creure que tampoc hi veia, perquè pensava aleshores que era cego tothom que captava. I no sé com va ser que aquell home mig tolit, tot roig de cara, i de barba blanca, va acabar vivint amb la mare; i ells dos se pegaven, i reien. Mes a mi aquell home ni mai m’havia pegat ni fet una festa; ni me’n recordo que mai m’hagués dit ni una sola paraula. Passaren anys […] i un matí la mare no es va llevar, i als peus del seu llit me vaig trobar amb aquell home que plorava. La mare no havia plorat mai, […] i m’havia arribat a creure també que els cegos, que no tenien ulls per a veure-hi, tampoc els tenien per a vessar llàgrimes: i per això vaig conèixer que aquell home no era cego de bo de bo, perquè plorava. La mare s’havia mort, i jo em vaig trobar sola. I quina cosa més estranya! Aquell home tan callat i tan fred amb mi es va trobar que m’estimava com un pare, i no es sabia aconsolar de la mort de la pobreta mare meva, […] amb los ulls més entelats que mai, i amb la mà dreta estesa, que semblava que encara anés a captar alguna cosa a l’altra vida.\n\nTomàs *(plorant)*: Digues, digues.\n\nMarta: I a l’endemà se **l’**endugueren al cementiri, a la mare, i jo hi vaig anar al darrera amb aquell home; i quan ja li havien tirada tota la terra a sobre, jo me’n vaig adonar que li havia dit a aquell home: «I ara què farem, pare?» […].\n\nTomàs *(plorant)*: Conta, conta; i acaba aviat!\n\nMarta: […] Doncs vàrem tornar a la porta de la iglésia, i com jo anava espigant-me i veia passar tantes noietes de ma edat amb la robeta bonica de les festes, jo que li vaig dir al pare un dia que no havíem arreplegat gaires dinerons: «Pare; i si treballéssim?». I ell al cap d’una estona em va dir que ja el buscaria el treball per tots dos. I mai aquell treball va arribar. Fins que vam saber que als pobres els recollien per a tancar-los, i ens en vam anar de Barcelona tot captant, sinó que ell ja mai més va fer el cego.\n\nAdaptació feta a partir del text d’Àngel Guimerà. *Terra baixa*. Barcelona: Edicions 62, 1979, p. 194-195. [1a ed., 1897]",
+      "enunciat": "Opció A. Després de llegir atentament el text anterior, indiqueu si les afirmacions següents són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "La Marta i la seva mare captaven a Barcelona.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "Un home de barba fosca va acabar vivint amb la mare de la Marta.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "L’home que vivia amb la Marta i la seva mare es feia passar per cec.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "El pare adoptiu de la Marta va trobar feina de seguida a Barcelona.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "La Marta i el seu pare adoptiu van haver de marxar de Barcelona perquè no volien treballar.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cinc afirmacions de vertader o fals (0,1 punts cadascuna). Cada error **resta 0,1** i deixar-la en blanc no resta res: respon només el que puguis justificar amb una frase concreta del text. Desconfia de les afirmacions amb un detall canviat (un color, un nombre, *de seguida*, *exclusiva*, *ningú*). Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "La Marta ho diu literalment: «I ella i jo captàvem per ciutat, allà baix a Barcelona». **Vertader.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "L’home que s’hi va anar a viure era «mig tolit, tot roig de cara, i **de barba blanca**», no fosca. El detall del color és la trampa. **Fals.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "La Marta descobreix que «aquell home no era cego de bo de bo, perquè plorava», i al final diu que «ell ja mai més va fer el cego»: fingia la ceguesa per captar. **Vertader.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Quan la Marta li proposa treballar, ell diu que ja buscarà el treball, però «mai aquell treball va arribar». **Fals.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Se’n van perquè «vam saber que als pobres els recollien per a tancar-los»: fugen de la reclusió dels pobres, no perquè no volguessin treballar (de fet, la Marta volia treballar). **Fals.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "- a) Vertader\n- b) Fals\n- c) Vertader\n- d) Fals\n- e) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "L’error més freqüent és la b): si llegeixes de pressa, *barba* et sembla que hi és i ja està. Llegeix cada adjectiu. A la e) la causa és una altra: compte amb els *perquè* de les afirmacions."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-2-a",
+      "exercici": 1,
+      "questio": "1.2",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Sinònims de mots del fragment de *Terra baixa*",
+      "tema": "lexic",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "sinonímia",
+        "lèxic",
+        "terra baixa"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        3
+      ],
+      "text": "Marta *(amb indignació, eixugant-se repetidament els ulls)*: Tampoc **ho** creureu això de que jo era molt pobreta? Veureu: jo tenia una mare que era cega. Ho sentiu? I no he tingut ningú més. […] Però una mare sí que la tenia! I ella i jo captàvem per ciutat, allà baix a Barcelona. […] ens posàvem a les escales d’una iglésia que tenia una porta que no s’acabava mai d’alta, i allí ens estàvem. Qui havia sigut el meu pare de bo de bo? Jo no ho he sapigut mai. D’ençà de quan, captàvem? Oh! Potser abans de néixer jo, que captàvem. Jo a la mare l’havia vist sempre amb la mà estesa al portal de la iglésia […]. Un dia […] ja no érem ella i jo soletes que captàvem: al costat s’hi va asseure a captar un home, que… jo em vaig creure que tampoc hi veia, perquè pensava aleshores que era cego tothom que captava. I no sé com va ser que aquell home mig tolit, tot roig de cara, i de barba blanca, va acabar vivint amb la mare; i ells dos se pegaven, i reien. Mes a mi aquell home ni mai m’havia pegat ni fet una festa; ni me’n recordo que mai m’hagués dit ni una sola paraula. Passaren anys […] i un matí la mare no es va llevar, i als peus del seu llit me vaig trobar amb aquell home que plorava. La mare no havia plorat mai, […] i m’havia arribat a creure també que els cegos, que no tenien ulls per a veure-hi, tampoc els tenien per a vessar llàgrimes: i per això vaig conèixer que aquell home no era cego de bo de bo, perquè plorava. La mare s’havia mort, i jo em vaig trobar sola. I quina cosa més estranya! Aquell home tan callat i tan fred amb mi es va trobar que m’estimava com un pare, i no es sabia aconsolar de la mort de la pobreta mare meva, […] amb los ulls més entelats que mai, i amb la mà dreta estesa, que semblava que encara anés a captar alguna cosa a l’altra vida.\n\nTomàs *(plorant)*: Digues, digues.\n\nMarta: I a l’endemà se **l’**endugueren al cementiri, a la mare, i jo hi vaig anar al darrera amb aquell home; i quan ja li havien tirada tota la terra a sobre, jo me’n vaig adonar que li havia dit a aquell home: «I ara què farem, pare?» […].\n\nTomàs *(plorant)*: Conta, conta; i acaba aviat!\n\nMarta: […] Doncs vàrem tornar a la porta de la iglésia, i com jo anava espigant-me i veia passar tantes noietes de ma edat amb la robeta bonica de les festes, jo que li vaig dir al pare un dia que no havíem arreplegat gaires dinerons: «Pare; i si treballéssim?». I ell al cap d’una estona em va dir que ja el buscaria el treball per tots dos. I mai aquell treball va arribar. Fins que vam saber que als pobres els recollien per a tancar-los, i ens en vam anar de Barcelona tot captant, sinó que ell ja mai més va fer el cego.\n\nAdaptació feta a partir del text d’Àngel Guimerà. *Terra baixa*. Barcelona: Edicions 62, 1979, p. 194-195. [1a ed., 1897]",
+      "enunciat": "Opció A. Trobeu en el text els cinc mots o expressions que poden funcionar com a sinònims dels mots o les expressions següents. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Plorar:",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "Enuig:",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Paralitzat:",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "Es va aixecar:",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Pidolàvem, demanàvem caritat:",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cal trobar el mot o l’expressió **del text** que es pugui intercanviar amb el donat, amb la mateixa categoria gramatical i, si cal, la mateixa forma verbal (si et donen *es va aixecar*, busca un passat perifràstic). 0,1 per ítem. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Plorar és fer sortir llàgrimes: al text, «tampoc els tenien per a **vessar llàgrimes**». És una expressió de dues paraules, i cal copiar-la sencera."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Enuig* és un nom: el sinònim també ha de ser un nom. A l’acotació inicial, la Marta parla «amb **indignació**»."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "L’home era «mig **tolit**»: *tolit* vol dir que no pot moure algun membre, paralitzat."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "«un matí la mare no **es va llevar**»: *llevar-se* = aixecar-se del llit. Mateixa forma (passat perifràstic, 3a persona)."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Primera persona del plural de l’imperfet: «**captàvem**». *Captar* = demanar almoina."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) vessar llàgrimes; b) indignació; c) tolit; d) es va llevar; e) captàvem."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "vessar llàgrimes"
+          },
+          {
+            "apartat": "b",
+            "valor": "indignació"
+          },
+          {
+            "apartat": "c",
+            "valor": "tolit"
+          },
+          {
+            "apartat": "d",
+            "valor": "es va llevar"
+          },
+          {
+            "apartat": "e",
+            "valor": "captàvem"
+          }
+        ],
+        "nota": "A la a) no n’hi ha prou amb *plorava* (és el mateix verb, no un sinònim). Copia el mot exactament com surt al text (persona, temps): «captàvem», no «captar»."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-3-a",
+      "exercici": 1,
+      "questio": "1.3",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Referent dels pronoms «ho» i «l’»",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "pronoms febles",
+        "referent",
+        "pronom neutre ho",
+        "duplicació pronominal"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "Marta *(amb indignació, eixugant-se repetidament els ulls)*: Tampoc **ho** creureu això de que jo era molt pobreta? Veureu: jo tenia una mare que era cega. Ho sentiu? I no he tingut ningú més. […] Però una mare sí que la tenia! I ella i jo captàvem per ciutat, allà baix a Barcelona. […] ens posàvem a les escales d’una iglésia que tenia una porta que no s’acabava mai d’alta, i allí ens estàvem. Qui havia sigut el meu pare de bo de bo? Jo no ho he sapigut mai. D’ençà de quan, captàvem? Oh! Potser abans de néixer jo, que captàvem. Jo a la mare l’havia vist sempre amb la mà estesa al portal de la iglésia […]. Un dia […] ja no érem ella i jo soletes que captàvem: al costat s’hi va asseure a captar un home, que… jo em vaig creure que tampoc hi veia, perquè pensava aleshores que era cego tothom que captava. I no sé com va ser que aquell home mig tolit, tot roig de cara, i de barba blanca, va acabar vivint amb la mare; i ells dos se pegaven, i reien. Mes a mi aquell home ni mai m’havia pegat ni fet una festa; ni me’n recordo que mai m’hagués dit ni una sola paraula. Passaren anys […] i un matí la mare no es va llevar, i als peus del seu llit me vaig trobar amb aquell home que plorava. La mare no havia plorat mai, […] i m’havia arribat a creure també que els cegos, que no tenien ulls per a veure-hi, tampoc els tenien per a vessar llàgrimes: i per això vaig conèixer que aquell home no era cego de bo de bo, perquè plorava. La mare s’havia mort, i jo em vaig trobar sola. I quina cosa més estranya! Aquell home tan callat i tan fred amb mi es va trobar que m’estimava com un pare, i no es sabia aconsolar de la mort de la pobreta mare meva, […] amb los ulls més entelats que mai, i amb la mà dreta estesa, que semblava que encara anés a captar alguna cosa a l’altra vida.\n\nTomàs *(plorant)*: Digues, digues.\n\nMarta: I a l’endemà se **l’**endugueren al cementiri, a la mare, i jo hi vaig anar al darrera amb aquell home; i quan ja li havien tirada tota la terra a sobre, jo me’n vaig adonar que li havia dit a aquell home: «I ara què farem, pare?» […].\n\nTomàs *(plorant)*: Conta, conta; i acaba aviat!\n\nMarta: […] Doncs vàrem tornar a la porta de la iglésia, i com jo anava espigant-me i veia passar tantes noietes de ma edat amb la robeta bonica de les festes, jo que li vaig dir al pare un dia que no havíem arreplegat gaires dinerons: «Pare; i si treballéssim?». I ell al cap d’una estona em va dir que ja el buscaria el treball per tots dos. I mai aquell treball va arribar. Fins que vam saber que als pobres els recollien per a tancar-los, i ens en vam anar de Barcelona tot captant, sinó que ell ja mai més va fer el cego.\n\nAdaptació feta a partir del text d’Àngel Guimerà. *Terra baixa*. Barcelona: Edicions 62, 1979, p. 194-195. [1a ed., 1897]",
+      "enunciat": "Opció A. Escriviu el referent dels pronoms següents, marcats en negreta en el text. [0,5 punts]\n\na) «Tampoc **ho** creureu això de que jo era molt pobreta?»:\n\nb) «I a l’endemà se **l’**endugueren al cementiri, a la mare, i jo hi vaig anar al darrera amb aquell home»:",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "«Tampoc **ho** creureu això de que jo era molt pobreta?»",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "«I a l’endemà se **l’**endugueren al cementiri, a la mare […]»",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Substitueix el pronom pel que representa i comprova que la frase té sentit. En aquest fragment, en tots dos casos el referent apareix **a la mateixa oració, després del verb**: és una dislocació a la dreta (el pronom anticipa un element que es diu després), típica de la llengua oral que Guimerà reprodueix. 0,25 per ítem. Temps: 2 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*Ho* és el pronom neutre de complement directe: substitueix una oració o una idea. Què no creureu? «això de **que jo era molt pobreta**». Prova: «Tampoc creureu que jo era molt pobreta?»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*L’* és CD femení singular (*la* apostrofat davant de vocal): què se’n van endur al cementiri? El mateix verb ho aclareix: «a la mare». Referent: **la mare** (de la Marta)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) *Ho* = (que) jo era molt pobreta.\n\nb) *L’* = la mare (de la Marta)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "que (jo) era molt pobreta"
+          },
+          {
+            "apartat": "b",
+            "valor": "la mare"
+          }
+        ],
+        "nota": "A la a) no responguis «això»: *això* també és un element dislocat; el contingut real és «que jo era molt pobreta». A la b) no confonguis *l’* amb el *se* (que forma part del verb pronominal *endur-se*)."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-4-a",
+      "exercici": 1,
+      "questio": "1.4",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Per què plora en Tomàs (màxim tres línies)",
+      "tema": "comprensio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "comprensió lectora",
+        "terra baixa",
+        "tomàs",
+        "marta"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        3
+      ],
+      "text": "Marta *(amb indignació, eixugant-se repetidament els ulls)*: Tampoc **ho** creureu això de que jo era molt pobreta? Veureu: jo tenia una mare que era cega. Ho sentiu? I no he tingut ningú més. […] Però una mare sí que la tenia! I ella i jo captàvem per ciutat, allà baix a Barcelona. […] ens posàvem a les escales d’una iglésia que tenia una porta que no s’acabava mai d’alta, i allí ens estàvem. Qui havia sigut el meu pare de bo de bo? Jo no ho he sapigut mai. D’ençà de quan, captàvem? Oh! Potser abans de néixer jo, que captàvem. Jo a la mare l’havia vist sempre amb la mà estesa al portal de la iglésia […]. Un dia […] ja no érem ella i jo soletes que captàvem: al costat s’hi va asseure a captar un home, que… jo em vaig creure que tampoc hi veia, perquè pensava aleshores que era cego tothom que captava. I no sé com va ser que aquell home mig tolit, tot roig de cara, i de barba blanca, va acabar vivint amb la mare; i ells dos se pegaven, i reien. Mes a mi aquell home ni mai m’havia pegat ni fet una festa; ni me’n recordo que mai m’hagués dit ni una sola paraula. Passaren anys […] i un matí la mare no es va llevar, i als peus del seu llit me vaig trobar amb aquell home que plorava. La mare no havia plorat mai, […] i m’havia arribat a creure també que els cegos, que no tenien ulls per a veure-hi, tampoc els tenien per a vessar llàgrimes: i per això vaig conèixer que aquell home no era cego de bo de bo, perquè plorava. La mare s’havia mort, i jo em vaig trobar sola. I quina cosa més estranya! Aquell home tan callat i tan fred amb mi es va trobar que m’estimava com un pare, i no es sabia aconsolar de la mort de la pobreta mare meva, […] amb los ulls més entelats que mai, i amb la mà dreta estesa, que semblava que encara anés a captar alguna cosa a l’altra vida.\n\nTomàs *(plorant)*: Digues, digues.\n\nMarta: I a l’endemà se **l’**endugueren al cementiri, a la mare, i jo hi vaig anar al darrera amb aquell home; i quan ja li havien tirada tota la terra a sobre, jo me’n vaig adonar que li havia dit a aquell home: «I ara què farem, pare?» […].\n\nTomàs *(plorant)*: Conta, conta; i acaba aviat!\n\nMarta: […] Doncs vàrem tornar a la porta de la iglésia, i com jo anava espigant-me i veia passar tantes noietes de ma edat amb la robeta bonica de les festes, jo que li vaig dir al pare un dia que no havíem arreplegat gaires dinerons: «Pare; i si treballéssim?». I ell al cap d’una estona em va dir que ja el buscaria el treball per tots dos. I mai aquell treball va arribar. Fins que vam saber que als pobres els recollien per a tancar-los, i ens en vam anar de Barcelona tot captant, sinó que ell ja mai més va fer el cego.\n\nAdaptació feta a partir del text d’Àngel Guimerà. *Terra baixa*. Barcelona: Edicions 62, 1979, p. 194-195. [1a ed., 1897]",
+      "enunciat": "Opció A. Expliqueu, en tres línies com a màxim, per què en Tomàs plora. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de comprensió global: cal explicar la causa del plor, amb paraules pròpies, en tres línies com a màxim (unes 35-45 paraules). Es valora que es vegi que ho has entès (0,5) o que només ho sembla (0,25); les faltes es descompten al total. Temps: 3 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Les acotacions diuen que en Tomàs plora mentre la Marta explica la seva vida: s’emociona per la **història trista** que escolta. Resumeix els fets que el commouen: infantesa pobra, sense pare, captant amb una mare cega; mort de la mare i soledat de la nena."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "En Tomàs plora perquè es commou en sentir la trista infantesa de la Marta: sense conèixer el pare, captava amb la seva mare cega a Barcelona i, quan aquesta es va morir, es va quedar sola en mans d’un captaire que la va acollir."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Es commou amb la història de la Marta: infantesa trista i pobra, sense pare, captant amb la mare cega; la mare mor i ella es queda sola."
+          }
+        ],
+        "nota": "No copiïs frases del text: reformula. Respecta el límit de tres línies (la resposta model té unes 45 paraules)."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-5-1-a",
+      "exercici": 1,
+      "questio": "1.5.1",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Com són l’Antoni i la Rita a *La plaça del Diamant* (màxim 50 mots)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mercè rodoreda",
+        "la plaça del diamant",
+        "antoni",
+        "rita",
+        "personatges"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Opció A. Resoleu les qüestions següents, relatives a les lectures obligatòries d’aquest curs.\n\n1.5.1. En un màxim de cinquanta mots, expliqueu com eren els dos fills de la Natàlia i en Quimet, l’Antoni i la Rita, a l’obra *La plaça del Diamant*, de Mercè Rodoreda. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de lectura obligatòria: cal caracteritzar els **dos** fills (físic, caràcter, algun fet que els marca) en 50 mots com a màxim. Correcta i pertinent: 1 punt; parcial (p. ex. només un fill): 0,5. Temps: 5 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "**Antoni**: el gran, obedient i tímid; quan va néixer la Rita va tenir gelosia; durant la guerra el porten a una colònia de nens refugiats i en torna canviat, trist i esquerp. De gran treballa a l’adrogueria. **Rita**: s’assembla a en Quimet, de físic i de caràcter; és tossuda, independent i de mentalitat moderna (vol fer de cambrera d’avió, es casa amb en Vicenç)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L’Antoni, el fill gran, és obedient i tímid; la colònia de nens refugiats on el porten durant la guerra el deixa marcat i en torna esquerp. La Rita s’assembla a en Quimet, físicament i psicològicament: és tossuda, decidida i té idees avançades per a la seva època."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Antoni: fill gran, obedient i tímid, marcat per l’estada a la colònia de nens refugiats durant la guerra. Rita: s’assembla a en Quimet (físic i caràcter), tossuda, amb idees avançades per a l’època."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 47 paraules (límit 50). Error típic: parlar només d’un dels dos fills o explicar l’argument en lloc de caracteritzar-los."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-5-2-a",
+      "exercici": 1,
+      "questio": "1.5.2",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals sobre *La plaça del Diamant*",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mercè rodoreda",
+        "la plaça del diamant",
+        "vertader o fals",
+        "personatges"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. 1.5.2. Indiqueu si les afirmacions següents, relatives a l’obra *La plaça del Diamant*, de Mercè Rodoreda, són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "La Natàlia és feliç casada amb en Quimet.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "L’Antoni continua anomenant Colometa a la Natàlia.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "L’Antoni, l’adroguer, venia veces per als coloms.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "La senyora Enriqueta de vegades té cura dels fills de la Natàlia mentre ella treballa.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "El fill de la Natàlia no vol treballar d’adroguer.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cinc afirmacions de vertader o fals (0,1 punts cadascuna). Cada error **resta 0,1** i deixar-la en blanc no resta res: respon només el que puguis justificar amb una frase concreta de l’obra. Desconfia de les afirmacions amb un detall canviat (un color, un nombre, *de seguida*, *exclusiva*, *ningú*). Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "En Quimet és egoista, gelós i autoritari: li canvia el nom (Colometa), li imposa els coloms i no l’escolta. La Natàlia viu el matrimoni amb submissió i angoixa, no amb felicitat. **Fals.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Colometa* és el nom que li posa en Quimet; l’Antoni, l’adroguer, li diu Natàlia. Recuperar el seu nom forma part de la recuperació de la identitat de la protagonista. **Fals.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "La Natàlia anava a comprar les veces per als coloms a l’adrogueria de l’Antoni; així es coneixen. **Vertader.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "La senyora Enriqueta, veïna i confident, li vigila els nens quan la Natàlia va a fer feines. **Vertader.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "L’Antoni (fill) treballa a l’adrogueria del seu padrastre i en vol continuar el negoci. **Fals.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "- a) Fals\n- b) Fals\n- c) Vertader\n- d) Vertader\n- e) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "d",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "Cal haver llegit l’obra: les afirmacions juguen amb els noms (hi ha dos Antonis: el fill i l’adroguer). Llegeix atentament quin Antoni és cada vegada."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-5-3-a",
+      "exercici": 1,
+      "questio": "1.5.3",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals sobre *Terra baixa*",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "àngel guimerà",
+        "terra baixa",
+        "vertader o fals",
+        "drama romàntic",
+        "personatges"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. 1.5.3. Indiqueu si les afirmacions següents, relatives a l’obra *Terra baixa*, d’Àngel Guimerà, són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En Sebastià organitza el casament de la Marta i en Manelic.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "En Manelic es casa per conveniència.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Tot el poble sabia la finalitat del casament de la Marta i en Manelic menys en Tomàs, l’ermità.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "La Marta explica el seu passat, però ningú no la creu.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "En Manelic mata en Sebastià d’un cop al cap.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cinc afirmacions de vertader o fals (0,1 punts cadascuna). Cada error **resta 0,1** i deixar-la en blanc no resta res: respon només el que puguis justificar amb una frase concreta de l’obra. Desconfia de les afirmacions amb un detall canviat (un color, un nombre, *de seguida*, *exclusiva*, *ningú*). Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "En Sebastià, l’amo, casa la Marta (la seva amistançada) amb un pastor ingenu de la Terra Alta per tapar la relació i poder fer un casament de conveniència amb una pubilla rica, sense deixar la Marta. **Vertader.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "En Manelic es casa enamorat i de bona fe: és el personatge pur i ingenu de la Terra Alta. La conveniència és d’en Sebastià. **Fals.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Segons les pautes, és vertader: el poble (els masovers, la Pepa, la Nuri...) sap l’engany i se’n riu; en Tomàs, que ha fet de mitjancer, ho fa de bona fe i no sap el veritable motiu. (Evidentment, el principal enganyat és el mateix Manelic.) **Vertader.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "La Marta explica el seu passat a en Tomàs (el fragment del text n’és un exemple) i l’ermità la creu i se’n commou fins a plorar. **Fals.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "En Manelic **l’escanya** (l’ofega amb les mans) com havia fet amb el llop, a l’escena final. **Fals.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "- a) Vertader\n- b) Fals\n- c) Vertader\n- d) Fals\n- e) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "La c) és la més dubtosa: la clau és que en Tomàs actua de bona fe. La e) és un detall concret del desenllaç: en Manelic escanya en Sebastià i crida que ha mort el llop."
+      }
+    },
+    {
+      "id": "catala-2018-S-e2-q2-1-a",
+      "exercici": 2,
+      "questio": "2.1",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Reescriure un fragment de *Terra baixa* passant el passat perifràstic a passat simple",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "normativa"
+      ],
+      "conceptes": [
+        "passat perifràstic",
+        "passat simple",
+        "morfologia verbal",
+        "terra baixa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "Marta *(amb indignació, eixugant-se repetidament els ulls)*: Tampoc **ho** creureu això de que jo era molt pobreta? Veureu: jo tenia una mare que era cega. Ho sentiu? I no he tingut ningú més. […] Però una mare sí que la tenia! I ella i jo captàvem per ciutat, allà baix a Barcelona. […] ens posàvem a les escales d’una iglésia que tenia una porta que no s’acabava mai d’alta, i allí ens estàvem. Qui havia sigut el meu pare de bo de bo? Jo no ho he sapigut mai. D’ençà de quan, captàvem? Oh! Potser abans de néixer jo, que captàvem. Jo a la mare l’havia vist sempre amb la mà estesa al portal de la iglésia […]. Un dia […] ja no érem ella i jo soletes que captàvem: al costat s’hi va asseure a captar un home, que… jo em vaig creure que tampoc hi veia, perquè pensava aleshores que era cego tothom que captava. I no sé com va ser que aquell home mig tolit, tot roig de cara, i de barba blanca, va acabar vivint amb la mare; i ells dos se pegaven, i reien. Mes a mi aquell home ni mai m’havia pegat ni fet una festa; ni me’n recordo que mai m’hagués dit ni una sola paraula. Passaren anys […] i un matí la mare no es va llevar, i als peus del seu llit me vaig trobar amb aquell home que plorava. La mare no havia plorat mai, […] i m’havia arribat a creure també que els cegos, que no tenien ulls per a veure-hi, tampoc els tenien per a vessar llàgrimes: i per això vaig conèixer que aquell home no era cego de bo de bo, perquè plorava. La mare s’havia mort, i jo em vaig trobar sola. I quina cosa més estranya! Aquell home tan callat i tan fred amb mi es va trobar que m’estimava com un pare, i no es sabia aconsolar de la mort de la pobreta mare meva, […] amb los ulls més entelats que mai, i amb la mà dreta estesa, que semblava que encara anés a captar alguna cosa a l’altra vida.\n\nTomàs *(plorant)*: Digues, digues.\n\nMarta: I a l’endemà se **l’**endugueren al cementiri, a la mare, i jo hi vaig anar al darrera amb aquell home; i quan ja li havien tirada tota la terra a sobre, jo me’n vaig adonar que li havia dit a aquell home: «I ara què farem, pare?» […].\n\nTomàs *(plorant)*: Conta, conta; i acaba aviat!\n\nMarta: […] Doncs vàrem tornar a la porta de la iglésia, i com jo anava espigant-me i veia passar tantes noietes de ma edat amb la robeta bonica de les festes, jo que li vaig dir al pare un dia que no havíem arreplegat gaires dinerons: «Pare; i si treballéssim?». I ell al cap d’una estona em va dir que ja el buscaria el treball per tots dos. I mai aquell treball va arribar. Fins que vam saber que als pobres els recollien per a tancar-los, i ens en vam anar de Barcelona tot captant, sinó que ell ja mai més va fer el cego.\n\nAdaptació feta a partir del text d’Àngel Guimerà. *Terra baixa*. Barcelona: Edicions 62, 1979, p. 194-195. [1a ed., 1897]",
+      "enunciat": "Opció A. Reescriviu el fragment següent del text canviant els temps verbals de passat perifràstic a passat simple. La redacció resultant ha de contenir tota la informació inclosa en el fragment. [1 punt]\n\n«Doncs vàrem tornar a la porta de la iglésia […]. I ell al cap d’una estona em va dir que ja el buscaria el treball per tots dos. I mai aquell treball va arribar. Fins que vam saber que als pobres els recollien per a tancar-los, i ens en vam anar de Barcelona tot captant, sinó que ell ja mai més va fer el cego.»",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Només s’han de canviar les formes de **passat perifràstic** (*anar* + infinitiu: *vàrem tornar*, *va dir*...) pel **passat simple** equivalent (*tornàrem*, *digué*...). La resta (imperfet *recollien*, condicional *buscaria*) no es toca. Es descompten 0,1 punts per cada forma mal canviada. Temps: 5 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Localitza les sis formes perifràstiques i passa-les al passat simple amb la mateixa persona:\n\n- *vàrem tornar* (1a pl.) → **tornàrem**\n- *va dir* (3a sg.) → **digué** (verb irregular: *dir* → *digué*)\n- *va arribar* → **arribà**\n- *vam saber* → **sabérem**\n- *ens en vam anar* → **ens n’anàrem** (compte: davant de vocal, *en* s’apostrofa: *n’anàrem*)\n- *va fer* → **féu** (irregular, amb accent)\n\n*Buscaria* és condicional i *recollien* és imperfet: no són perifràstics, es mantenen."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "«Doncs tornàrem a la porta de la iglésia […]. I ell al cap d’una estona em digué que ja el buscaria el treball per tots dos. I mai aquell treball arribà. Fins que sabérem que als pobres els recollien per a tancar-los, i ens n’anàrem de Barcelona tot captant, sinó que ell ja mai més féu el cego.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "tornàrem, digué, arribà, sabérem, ens n’anàrem, féu (0,1 de descompte per cada forma no modificada adequadament)."
+          }
+        ],
+        "nota": "Errors típics: *dià* o *dirà* per *digué*; *fé* o *feu* sense accent per *féu*; oblidar d’apostrofar *ens n’anàrem*; canviar també *buscaria* o *recollien*, que no són perifràstics. Les pautes oficials escriuen «per a tots dos»; el text de l’examen diu «per tots dos», i no cal canviar-ho."
+      }
+    },
+    {
+      "id": "catala-2018-S-e2-q2-2-a",
+      "exercici": 2,
+      "questio": "2.2",
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "redaccio",
+      "punts": 2,
+      "titol": "Text formal sobre l’aporofòbia: causes i solucions (125-150 paraules)",
+      "tema": "expressio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "text argumentatiu",
+        "redacció",
+        "aporofòbia",
+        "pobresa",
+        "registre formal"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "Marta *(amb indignació, eixugant-se repetidament els ulls)*: Tampoc **ho** creureu això de que jo era molt pobreta? Veureu: jo tenia una mare que era cega. Ho sentiu? I no he tingut ningú més. […] Però una mare sí que la tenia! I ella i jo captàvem per ciutat, allà baix a Barcelona. […] ens posàvem a les escales d’una iglésia que tenia una porta que no s’acabava mai d’alta, i allí ens estàvem. Qui havia sigut el meu pare de bo de bo? Jo no ho he sapigut mai. D’ençà de quan, captàvem? Oh! Potser abans de néixer jo, que captàvem. Jo a la mare l’havia vist sempre amb la mà estesa al portal de la iglésia […]. Un dia […] ja no érem ella i jo soletes que captàvem: al costat s’hi va asseure a captar un home, que… jo em vaig creure que tampoc hi veia, perquè pensava aleshores que era cego tothom que captava. I no sé com va ser que aquell home mig tolit, tot roig de cara, i de barba blanca, va acabar vivint amb la mare; i ells dos se pegaven, i reien. Mes a mi aquell home ni mai m’havia pegat ni fet una festa; ni me’n recordo que mai m’hagués dit ni una sola paraula. Passaren anys […] i un matí la mare no es va llevar, i als peus del seu llit me vaig trobar amb aquell home que plorava. La mare no havia plorat mai, […] i m’havia arribat a creure també que els cegos, que no tenien ulls per a veure-hi, tampoc els tenien per a vessar llàgrimes: i per això vaig conèixer que aquell home no era cego de bo de bo, perquè plorava. La mare s’havia mort, i jo em vaig trobar sola. I quina cosa més estranya! Aquell home tan callat i tan fred amb mi es va trobar que m’estimava com un pare, i no es sabia aconsolar de la mort de la pobreta mare meva, […] amb los ulls més entelats que mai, i amb la mà dreta estesa, que semblava que encara anés a captar alguna cosa a l’altra vida.\n\nTomàs *(plorant)*: Digues, digues.\n\nMarta: I a l’endemà se **l’**endugueren al cementiri, a la mare, i jo hi vaig anar al darrera amb aquell home; i quan ja li havien tirada tota la terra a sobre, jo me’n vaig adonar que li havia dit a aquell home: «I ara què farem, pare?» […].\n\nTomàs *(plorant)*: Conta, conta; i acaba aviat!\n\nMarta: […] Doncs vàrem tornar a la porta de la iglésia, i com jo anava espigant-me i veia passar tantes noietes de ma edat amb la robeta bonica de les festes, jo que li vaig dir al pare un dia que no havíem arreplegat gaires dinerons: «Pare; i si treballéssim?». I ell al cap d’una estona em va dir que ja el buscaria el treball per tots dos. I mai aquell treball va arribar. Fins que vam saber que als pobres els recollien per a tancar-los, i ens en vam anar de Barcelona tot captant, sinó que ell ja mai més va fer el cego.\n\nAdaptació feta a partir del text d’Àngel Guimerà. *Terra baixa*. Barcelona: Edicions 62, 1979, p. 194-195. [1a ed., 1897]",
+      "enunciat": "Opció A. En el text es relata la infantesa de la Marta: una infantesa pobra i desgraciada. Escriviu un text formal i ben estructurat, de cent vint-i-cinc a cent cinquanta paraules, sobre la por a la pobresa o a les persones pobres (fenomen que rep el nom de *aporofòbia*), en què reflexioneu sobre les causes d’aquesta por i suggeriu possibles solucions. [2 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text formal i ben estructurat de **125-150 paraules** amb dues parts obligatòries: **causes** de l’aporofòbia i **solucions**. Es valora l’adequació (registre formal i contingut demanat), la coherència (estructura i idees) i la cohesió (oracions ben construïdes, connectors); la nota es gradua de 0,25 en 0,25. Cada falta resta 0,1 del total, sense límit. Temps: 20-25 minuts (fes-ne un esborrany breu)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Estructura en tres o quatre paràgrafs:\n\n1. **Introducció**: defineix l’aporofòbia (terme encunyat per la filòsofa Adela Cortina) i connecta-la amb el text (la Marta i el seu pare, perseguits per ser pobres).\n2. **Causes**: la por de caure en la pobresa (els pobres ens recorden que a nosaltres també ens pot passar), els prejudicis que associen pobresa i delinqüència, la invisibilitat de les persones sense llar i la manca de contacte amb elles.\n3. **Solucions**: educació en valors i empatia, informació rigorosa als mitjans, polítiques públiques d’habitatge i inserció laboral, i que la llei reconegui els delictes d’odi contra persones pobres.\n4. **Conclusió**: idea final que tanqui el text.\n\nConnectors útils: *en primer lloc, a més, d’altra banda, per això, per tant, en definitiva*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L’aporofòbia és el rebuig a les persones pobres, un fenomen tan antic com la mateixa pobresa: ja al segle XIX la Marta i el seu pare havien de fugir de Barcelona perquè tancaven els captaires.\n\nQuines en són les causes? En primer lloc, la por: les persones pobres ens recorden que tothom pot perdre la feina o la casa. A més, molts prejudicis associen la pobresa amb la delinqüència o la mandra, com si la pobresa fos sempre culpa de qui la pateix. Finalment, la manca de contacte fa que les persones sense llar ens resultin invisibles.\n\nPer combatre-la, cal educar en l’empatia des de l’escola i que els mitjans informin amb rigor. D’altra banda, les administracions han de garantir habitatge i oportunitats laborals.\n\nEn definitiva, només reconeixent la dignitat de tothom podrem construir una societat més justa."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Adequació: registre formal i contingut demanat (causes de l’aporofòbia i solucions). Coherència: estructura del text i de les idees. Cohesió: oracions ben construïdes. Es gradua en segments de 0,25. −0,1 per falta (ortografia, lèxic, gramàtica), sense límit, al còmput general."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 138 paraules (dins de 125-150). Errors típics: oblidar les solucions, escriure en registre col·loquial o fer un text sense paràgrafs. Les pautes accepten tant l’ortografia anterior com la de l’*Ortografia catalana* (2017), però cal ser coherent."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-1-b",
+      "exercici": 1,
+      "questio": "1.1",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals sobre el turisme espacial",
+      "tema": "comprensio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "comprensió lectora",
+        "vertader o fals",
+        "text periodístic",
+        "turisme espacial"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "«Astronauta!» Aquest és el crit que fan molts nens i nenes quan els pregunten què volen ser de grans. Quan creixen la idea sol anar-se’n en orris, perquè convertir-se en home de l’espai exigeix uns sacrificis físics i intel·lectuals fora de mida. Però el somni de viatjar a les estrelles roman en molta gent que mira embadalida el cel cada nit. Per això, darrere la idea del turisme espacial molts hi veuen una oportunitat de negoci.\n\nJa fa anys que la idea de viatjar a l’espai com a turista ha deixat de ser una quimera. Ha estat així gràcies a projectes com Virgin Galactic, amb el qual Richard Branson vol posar turistes en òrbita, amb una llista d’espera formada per noms tan populars com Justin Bieber o Ashton Kutcher. El projecte de Branson no és nou, i a molts els semblaria una excentricitat, si no fos perquè comencen a aparèixer moltes altres iniciatives similars, amb inversors potents al darrere i amb calendaris establerts.\n\nQui té previst oferir el primer vol suborbital abans que acabi el 2014 és la companyia holandesa Space Expedition Corporation. Per 71.000 euros, la companyia promet un vol a cent quilòmetres d’altura, superant la línia de Kármán, que separa oficialment l’atmosfera de l’espai exterior. Quaranta-cinc minuts de vol complet. Space Expedition Corporation ja ha venut uns tres-cents d’aquests viatges arreu del món, mitja dotzena a l’Estat espanyol.\n\nEls contractants són persones de perfils molt diferents: des d’un multimilionari a qui ja no **li** queda cap excentricitat per fer a la Terra fins a un jove d’origen asiàtic amb ganes de provar les últimes tendències i capacitat per a pagar-les, passant per un veterà empresari del món de la construcció. El punt en comú entre ells és fàcil d’endevinar: una cartera ben plena. Els viatges espacials són per a gent molt adinerada, però ja no es demanen les fortunes siderals de fa uns quants anys, només a l’abast d’estrelles histriòniques. Per a qui s’**ho** pugui permetre, avui costen el mateix que un cotxe car.\n\nPer aquest motiu el turisme espacial és un terreny adobat per a l’aparició de nous agents, disposats a demostrar que de maneres d’anar a l’espai n’hi ha de diverses. L’oferta de Noon es basa a poder observar el planeta des de trenta-sis quilòmetres d’altura, als quals s’ascendeix en una càpsula acoblada a un globus impulsat per heli. Ni naus espacials, ni satèl·lits ni coets: un globus que triga dues hores a agafar l’altura desitjada, i des de la qual ja es pot observar la cobertura de la Terra i distingir el blau del cel terrestre i el negre de l’espai. Després de dues hores d’observació, la càpsula descendeix durant prop d’una hora amb l’ajuda d’un paracaigudes. El cost de l’experiència: 110.000 euros.\n\nDarrere de tot plegat hi ha una idea bàsica: la conquesta de l’espai ja no està tan sols en mans de les grans agències públiques com la NASA o de gegants aeronàutics, sinó que també és una parcel·la apta per a empreses privades que vulguin explotar tant l’àmbit turístic com el tecnològic. Hi ha terreny per competir i per fer-hi diners.\n\nAdaptació feta a partir del text de Vern Bueno. «Turisme espacial: de la ciència-ficció a l’oportunitat de negoci». *El Món. Via Empresa* [en línia] (17 juny 2014)",
+      "enunciat": "Opció B. Després de llegir atentament el text anterior, indiqueu si les afirmacions següents són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "La idea del turisme espacial supera la ciència-ficció.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "Per a fer turisme espacial encara no hi ha llista d’espera.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Per a observar l’espai no es podria fer servir un globus.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "Ara com ara, el preu dels viatges espacials s’aproxima al d’un cotxe car.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "La conquesta de l’espai és exclusiva de la NASA.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cinc afirmacions de vertader o fals (0,1 punts cadascuna). Cada error **resta 0,1** i deixar-la en blanc no resta res: respon només el que puguis justificar amb una frase concreta del text. Desconfia de les afirmacions amb un detall canviat (un color, un nombre, *de seguida*, *exclusiva*, *ningú*). Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "«Ja fa anys que la idea de viatjar a l’espai com a turista ha deixat de ser una quimera»: ja no és ficció sinó un negoci real (ho diu també el títol: «de la ciència-ficció a l’oportunitat de negoci»). **Vertader.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Virgin Galactic té «una llista d’espera formada per noms tan populars com Justin Bieber o Ashton Kutcher». **Fals.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "L’oferta de Noon és precisament una càpsula «acoblada a un globus impulsat per heli» que puja a trenta-sis quilòmetres. **Fals.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "«Per a qui s’ho pugui permetre, avui costen el mateix que un cotxe car». **Vertader.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "«ja no està tan sols en mans de les grans agències públiques com la NASA […], sinó que també és una parcel·la apta per a empreses privades». *Exclusiva* és la paraula trampa. **Fals.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "- a) Vertader\n- b) Fals\n- c) Fals\n- d) Vertader\n- e) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "d",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "Desconfia de les afirmacions absolutes (*exclusiva*, *encara no*): solen ser falses. A la a) cal entendre que *supera la ciència-ficció* vol dir que ja és real."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-2-b",
+      "exercici": 1,
+      "questio": "1.2",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Sinònims de mots del text sobre el turisme espacial",
+      "tema": "lexic",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "sinonímia",
+        "lèxic",
+        "locucions",
+        "turisme espacial"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "«Astronauta!» Aquest és el crit que fan molts nens i nenes quan els pregunten què volen ser de grans. Quan creixen la idea sol anar-se’n en orris, perquè convertir-se en home de l’espai exigeix uns sacrificis físics i intel·lectuals fora de mida. Però el somni de viatjar a les estrelles roman en molta gent que mira embadalida el cel cada nit. Per això, darrere la idea del turisme espacial molts hi veuen una oportunitat de negoci.\n\nJa fa anys que la idea de viatjar a l’espai com a turista ha deixat de ser una quimera. Ha estat així gràcies a projectes com Virgin Galactic, amb el qual Richard Branson vol posar turistes en òrbita, amb una llista d’espera formada per noms tan populars com Justin Bieber o Ashton Kutcher. El projecte de Branson no és nou, i a molts els semblaria una excentricitat, si no fos perquè comencen a aparèixer moltes altres iniciatives similars, amb inversors potents al darrere i amb calendaris establerts.\n\nQui té previst oferir el primer vol suborbital abans que acabi el 2014 és la companyia holandesa Space Expedition Corporation. Per 71.000 euros, la companyia promet un vol a cent quilòmetres d’altura, superant la línia de Kármán, que separa oficialment l’atmosfera de l’espai exterior. Quaranta-cinc minuts de vol complet. Space Expedition Corporation ja ha venut uns tres-cents d’aquests viatges arreu del món, mitja dotzena a l’Estat espanyol.\n\nEls contractants són persones de perfils molt diferents: des d’un multimilionari a qui ja no **li** queda cap excentricitat per fer a la Terra fins a un jove d’origen asiàtic amb ganes de provar les últimes tendències i capacitat per a pagar-les, passant per un veterà empresari del món de la construcció. El punt en comú entre ells és fàcil d’endevinar: una cartera ben plena. Els viatges espacials són per a gent molt adinerada, però ja no es demanen les fortunes siderals de fa uns quants anys, només a l’abast d’estrelles histriòniques. Per a qui s’**ho** pugui permetre, avui costen el mateix que un cotxe car.\n\nPer aquest motiu el turisme espacial és un terreny adobat per a l’aparició de nous agents, disposats a demostrar que de maneres d’anar a l’espai n’hi ha de diverses. L’oferta de Noon es basa a poder observar el planeta des de trenta-sis quilòmetres d’altura, als quals s’ascendeix en una càpsula acoblada a un globus impulsat per heli. Ni naus espacials, ni satèl·lits ni coets: un globus que triga dues hores a agafar l’altura desitjada, i des de la qual ja es pot observar la cobertura de la Terra i distingir el blau del cel terrestre i el negre de l’espai. Després de dues hores d’observació, la càpsula descendeix durant prop d’una hora amb l’ajuda d’un paracaigudes. El cost de l’experiència: 110.000 euros.\n\nDarrere de tot plegat hi ha una idea bàsica: la conquesta de l’espai ja no està tan sols en mans de les grans agències públiques com la NASA o de gegants aeronàutics, sinó que també és una parcel·la apta per a empreses privades que vulguin explotar tant l’àmbit turístic com el tecnològic. Hi ha terreny per competir i per fer-hi diners.\n\nAdaptació feta a partir del text de Vern Bueno. «Turisme espacial: de la ciència-ficció a l’oportunitat de negoci». *El Món. Via Empresa* [en línia] (17 juny 2014)",
+      "enunciat": "Opció B. Trobeu en el text els cinc mots o expressions que poden funcionar com a sinònims dels mots següents. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Utopia:",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "Rica:",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Extasiada:",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "Fracassar:",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Impel·lit:",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Busca al text el mot o l’expressió amb el mateix significat i la mateixa categoria i gènere (si et donen *rica*, femení, el sinònim ha de ser un adjectiu femení). Pot ser una locució de diverses paraules. 0,1 per ítem. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Una utopia és una cosa ideal i irrealitzable: «ha deixat de ser una **quimera**»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "«gent molt **adinerada**»: adjectiu femení, que té molts diners."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "«gent que mira **embadalida** el cel»: absorta, extasiada davant d’alguna cosa."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "«la idea sol **anar-se’n en orris**»: locució verbal que vol dir fracassar, no reeixir. Cal copiar la locució sencera."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "«un globus **impulsat** per heli»: participi masculí, empès."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) quimera; b) adinerada; c) embadalida; d) anar-se’n en orris; e) impulsat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "quimera"
+          },
+          {
+            "apartat": "b",
+            "valor": "adinerada"
+          },
+          {
+            "apartat": "c",
+            "valor": "embadalida"
+          },
+          {
+            "apartat": "d",
+            "valor": "anar-se’n en orris"
+          },
+          {
+            "apartat": "e",
+            "valor": "impulsat"
+          }
+        ],
+        "nota": "La d) és la que més es falla: el sinònim és una locució i cal reconèixer-la. Respecta el gènere i el nombre del mot donat."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-3-b",
+      "exercici": 1,
+      "questio": "1.3",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Referent dels pronoms «ho» i «li»",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "pronoms febles",
+        "referent",
+        "pronom neutre ho",
+        "complement indirecte"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "«Astronauta!» Aquest és el crit que fan molts nens i nenes quan els pregunten què volen ser de grans. Quan creixen la idea sol anar-se’n en orris, perquè convertir-se en home de l’espai exigeix uns sacrificis físics i intel·lectuals fora de mida. Però el somni de viatjar a les estrelles roman en molta gent que mira embadalida el cel cada nit. Per això, darrere la idea del turisme espacial molts hi veuen una oportunitat de negoci.\n\nJa fa anys que la idea de viatjar a l’espai com a turista ha deixat de ser una quimera. Ha estat així gràcies a projectes com Virgin Galactic, amb el qual Richard Branson vol posar turistes en òrbita, amb una llista d’espera formada per noms tan populars com Justin Bieber o Ashton Kutcher. El projecte de Branson no és nou, i a molts els semblaria una excentricitat, si no fos perquè comencen a aparèixer moltes altres iniciatives similars, amb inversors potents al darrere i amb calendaris establerts.\n\nQui té previst oferir el primer vol suborbital abans que acabi el 2014 és la companyia holandesa Space Expedition Corporation. Per 71.000 euros, la companyia promet un vol a cent quilòmetres d’altura, superant la línia de Kármán, que separa oficialment l’atmosfera de l’espai exterior. Quaranta-cinc minuts de vol complet. Space Expedition Corporation ja ha venut uns tres-cents d’aquests viatges arreu del món, mitja dotzena a l’Estat espanyol.\n\nEls contractants són persones de perfils molt diferents: des d’un multimilionari a qui ja no **li** queda cap excentricitat per fer a la Terra fins a un jove d’origen asiàtic amb ganes de provar les últimes tendències i capacitat per a pagar-les, passant per un veterà empresari del món de la construcció. El punt en comú entre ells és fàcil d’endevinar: una cartera ben plena. Els viatges espacials són per a gent molt adinerada, però ja no es demanen les fortunes siderals de fa uns quants anys, només a l’abast d’estrelles histriòniques. Per a qui s’**ho** pugui permetre, avui costen el mateix que un cotxe car.\n\nPer aquest motiu el turisme espacial és un terreny adobat per a l’aparició de nous agents, disposats a demostrar que de maneres d’anar a l’espai n’hi ha de diverses. L’oferta de Noon es basa a poder observar el planeta des de trenta-sis quilòmetres d’altura, als quals s’ascendeix en una càpsula acoblada a un globus impulsat per heli. Ni naus espacials, ni satèl·lits ni coets: un globus que triga dues hores a agafar l’altura desitjada, i des de la qual ja es pot observar la cobertura de la Terra i distingir el blau del cel terrestre i el negre de l’espai. Després de dues hores d’observació, la càpsula descendeix durant prop d’una hora amb l’ajuda d’un paracaigudes. El cost de l’experiència: 110.000 euros.\n\nDarrere de tot plegat hi ha una idea bàsica: la conquesta de l’espai ja no està tan sols en mans de les grans agències públiques com la NASA o de gegants aeronàutics, sinó que també és una parcel·la apta per a empreses privades que vulguin explotar tant l’àmbit turístic com el tecnològic. Hi ha terreny per competir i per fer-hi diners.\n\nAdaptació feta a partir del text de Vern Bueno. «Turisme espacial: de la ciència-ficció a l’oportunitat de negoci». *El Món. Via Empresa* [en línia] (17 juny 2014)",
+      "enunciat": "Opció B. Escriviu el referent dels pronoms següents, marcats en negreta en el text. [0,5 punts]\n\na) «Els viatges espacials són per a gent molt adinerada, però ja no es demanen les fortunes siderals de fa uns quants anys, només a l’abast d’estrelles histriòniques. Per a qui s’**ho** pugui permetre, avui costen el mateix que un cotxe car»:\n\nb) «Els contractants són persones de perfils molt diferents: des d’un multimilionari a qui ja no **li** queda cap excentricitat per fer a la Terra fins a un jove d’origen asiàtic amb ganes de provar les últimes tendències i capacitat per a pagar-les, passant per un veterà empresari del món de la construcció»:",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "«Per a qui s’**ho** pugui permetre»",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "«un multimilionari a qui ja no **li** queda cap excentricitat»",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Substitueix el pronom per la paraula o idea a què es refereix i comprova que la frase funciona. *Ho* és neutre (substitueix una idea o acció); *li* és complement indirecte (persona). 0,25 per ítem. Temps: 2 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Què es pot permetre qui té diners? L’acció de què parla tot el paràgraf: **fer (o pagar) un viatge espacial**. Prova: «Per a qui es pugui permetre fer un viatge espacial, avui costen el mateix que un cotxe car». Com que *ho* és neutre, el referent és una acció, no *els viatges* (que seria *els*)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Li* és CI: a qui no queda cap excentricitat? «a qui» = **al multimilionari**. En una oració de relatiu, el pronom feble duplica el relatiu *a qui*, que té com a antecedent *un multimilionari*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) *Ho* = fer (pagar) un viatge espacial.\n\nb) *Li* = al multimilionari."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "fer / pagar un viatge espacial"
+          },
+          {
+            "apartat": "b",
+            "valor": "al multimilionari"
+          }
+        ],
+        "nota": "A la a) és un error respondre «els viatges espacials» (seria el pronom *els*, no *ho*). A la b) mantingues la preposició *a* del CI: «al multimilionari»."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-4-b",
+      "exercici": 1,
+      "questio": "1.4",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Per què el turisme espacial és un negoci (màxim tres línies)",
+      "tema": "comprensio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "comprensió lectora",
+        "idea principal",
+        "text periodístic",
+        "turisme espacial"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "«Astronauta!» Aquest és el crit que fan molts nens i nenes quan els pregunten què volen ser de grans. Quan creixen la idea sol anar-se’n en orris, perquè convertir-se en home de l’espai exigeix uns sacrificis físics i intel·lectuals fora de mida. Però el somni de viatjar a les estrelles roman en molta gent que mira embadalida el cel cada nit. Per això, darrere la idea del turisme espacial molts hi veuen una oportunitat de negoci.\n\nJa fa anys que la idea de viatjar a l’espai com a turista ha deixat de ser una quimera. Ha estat així gràcies a projectes com Virgin Galactic, amb el qual Richard Branson vol posar turistes en òrbita, amb una llista d’espera formada per noms tan populars com Justin Bieber o Ashton Kutcher. El projecte de Branson no és nou, i a molts els semblaria una excentricitat, si no fos perquè comencen a aparèixer moltes altres iniciatives similars, amb inversors potents al darrere i amb calendaris establerts.\n\nQui té previst oferir el primer vol suborbital abans que acabi el 2014 és la companyia holandesa Space Expedition Corporation. Per 71.000 euros, la companyia promet un vol a cent quilòmetres d’altura, superant la línia de Kármán, que separa oficialment l’atmosfera de l’espai exterior. Quaranta-cinc minuts de vol complet. Space Expedition Corporation ja ha venut uns tres-cents d’aquests viatges arreu del món, mitja dotzena a l’Estat espanyol.\n\nEls contractants són persones de perfils molt diferents: des d’un multimilionari a qui ja no **li** queda cap excentricitat per fer a la Terra fins a un jove d’origen asiàtic amb ganes de provar les últimes tendències i capacitat per a pagar-les, passant per un veterà empresari del món de la construcció. El punt en comú entre ells és fàcil d’endevinar: una cartera ben plena. Els viatges espacials són per a gent molt adinerada, però ja no es demanen les fortunes siderals de fa uns quants anys, només a l’abast d’estrelles histriòniques. Per a qui s’**ho** pugui permetre, avui costen el mateix que un cotxe car.\n\nPer aquest motiu el turisme espacial és un terreny adobat per a l’aparició de nous agents, disposats a demostrar que de maneres d’anar a l’espai n’hi ha de diverses. L’oferta de Noon es basa a poder observar el planeta des de trenta-sis quilòmetres d’altura, als quals s’ascendeix en una càpsula acoblada a un globus impulsat per heli. Ni naus espacials, ni satèl·lits ni coets: un globus que triga dues hores a agafar l’altura desitjada, i des de la qual ja es pot observar la cobertura de la Terra i distingir el blau del cel terrestre i el negre de l’espai. Després de dues hores d’observació, la càpsula descendeix durant prop d’una hora amb l’ajuda d’un paracaigudes. El cost de l’experiència: 110.000 euros.\n\nDarrere de tot plegat hi ha una idea bàsica: la conquesta de l’espai ja no està tan sols en mans de les grans agències públiques com la NASA o de gegants aeronàutics, sinó que també és una parcel·la apta per a empreses privades que vulguin explotar tant l’àmbit turístic com el tecnològic. Hi ha terreny per competir i per fer-hi diners.\n\nAdaptació feta a partir del text de Vern Bueno. «Turisme espacial: de la ciència-ficció a l’oportunitat de negoci». *El Món. Via Empresa* [en línia] (17 juny 2014)",
+      "enunciat": "Opció B. Expliqueu, en tres línies com a màxim, per què en el turisme espacial hi ha terreny per a competir i per a fer-hi diners. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Es demana identificar la tesi del text (per què el turisme espacial és un negoci) en tres línies com a màxim, amb paraules pròpies. Identificació clara: 0,5; a mitges: 0,25. Temps: 3 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Relaciona tres idees del text: (1) el somni de viatjar a l’espai és molt comú; (2) els preus han baixat (ara costen com un cotxe car), de manera que hi ha més clients possibles, sobretot gent rica i excèntrica; (3) l’espai ja no és només de la NASA: hi entren moltes empreses privades amb ofertes diferents (vols suborbitals, globus)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Perquè molta gent somia viatjar a l’espai i, ara que els preus han baixat fins al d’un cotxe car, hi ha prou clients rics disposats a pagar-ho; a més, l’espai ja no és exclusiu de les agències públiques i moltes empreses privades hi ofereixen propostes diferents."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Destinat a gent excèntrica i adinerada que vol fer coses diferents; la rebaixa de preus augmenta l’interès de clients que volen fer realitat el somni d’infantesa (i hi entren empreses privades)."
+          }
+        ],
+        "nota": "Resposta model: unes 45 paraules (tres línies manuscrites). No copiïs literalment el text."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-5-1-b",
+      "exercici": 1,
+      "questio": "1.5.1",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Per què la Natàlia vol matar els coloms (màxim 50 mots)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mercè rodoreda",
+        "la plaça del diamant",
+        "coloms",
+        "simbolisme",
+        "natàlia"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B. Resoleu les qüestions següents, relatives a les lectures obligatòries d’aquest curs.\n\n1.5.1. En un màxim de cinquanta mots, expliqueu per què la Natàlia vol matar els coloms i desfer-se del colomar, a l’obra *La plaça del Diamant*, de Mercè Rodoreda. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cal explicar els motius (no només el fet) en 50 mots com a màxim. Indicacions clares: 1 punt; parcials: 0,5. Temps: 5 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Idees clau: (1) els coloms són un caprici d’en Quimet, amb la il·lusió d’un negoci; (2) envaeixen tota la casa (colomar al terrat, golfes, habitacions), l’embruten i l’empudeguen; (3) tota la feina recau en la Natàlia (netejar, comprar veces, tenir-ne cura) a més de la casa, els fills i la feina fora; (4) esgotada, els comença a destruir: remena els ous perquè no neixin les cries. Simbolitzen l’opressió d’en Quimet."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Els coloms, un caprici d’en Quimet que havia de ser un negoci, envaeixen la casa, l’embruten i l’empudeguen. La Natàlia ha de netejar-los, comprar-los veces i cuidar-los, a més de la casa, els fills i la feina. Esgotada i ofegada, fa malbé els ous i ataca les cries."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Caprici d’en Quimet i il·lusió d’un negoci; envaeixen la casa, l’embruten i l’empudeguen; ella s’escarrassa a netejar-los, comprar veces i cuidar-los; cansada, fa malbé els ous i ataca les cries."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 48 paraules (límit 50). Pots afegir que els coloms simbolitzen l’ofec de la Natàlia en el matrimoni, però sense passar-te del límit."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-5-2-b",
+      "exercici": 1,
+      "questio": "1.5.2",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals sobre *La plaça del Diamant*",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mercè rodoreda",
+        "la plaça del diamant",
+        "vertader o fals",
+        "personatges"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8
+      ],
+      "text": "",
+      "enunciat": "Opció B. 1.5.2. Indiqueu si les afirmacions següents, relatives a l’obra *La plaça del Diamant*, de Mercè Rodoreda, són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En Quimet treballava d’ebenista.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "L’Antoni, en néixer la seva germana Rita, no se sent engelosit.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "La mare d’en Quimet va morir d’un atac de cor un dia que hi va haver un bombardeig.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "La Natàlia volia posar fi a la seva vida i la dels seus fills fent servir lleixiu.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "La Natàlia, un cop casada amb l’Antoni, tenia por que tornés en Quimet.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cinc afirmacions de vertader o fals (0,1 punts cadascuna). Cada error **resta 0,1** i deixar-la en blanc no resta res: respon només el que puguis justificar amb una frase concreta de l’obra. Desconfia de les afirmacions amb un detall canviat (un color, un nombre, *de seguida*, *exclusiva*, *ningú*). Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "En Quimet és fuster-ebenista, té el seu taller i fa mobles (fins i tot construeix el colomar). **Vertader.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "L’Antoni té gelosia de la germana petita quan neix (fins al punt de voler-li fer mal), i la Natàlia ha de vigilar-lo. **Fals.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Segons les pautes, l’afirmació és falsa: la mort de la mare d’en Quimet no es produeix d’aquesta manera. **Fals.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "En la misèria de la postguerra, la Natàlia pensa matar els fills i matar-se ella amb **salfumant** (posant-los-hi un embut a la boca), no amb lleixiu. **Fals.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Tot i saber que en Quimet ha mort al front, la Natàlia té por (i malsons) que tornés i la trobés casada amb un altre. **Vertader.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "- a) Vertader\n- b) Fals\n- c) Fals\n- d) Fals\n- e) Vertader"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Vertader"
+          }
+        ],
+        "nota": "La d) és una trampa de detall (salfumant, no lleixiu). La b) cal llegir-la bé per la negació: *no se sent engelosit* és fals perquè sí que en té."
+      }
+    },
+    {
+      "id": "catala-2018-S-e1-q1-5-3-b",
+      "exercici": 1,
+      "questio": "1.5.3",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals sobre *Terra baixa*",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "àngel guimerà",
+        "terra baixa",
+        "vertader o fals",
+        "simbolisme",
+        "personatges"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8
+      ],
+      "text": "",
+      "enunciat": "Opció B. 1.5.3. Indiqueu si les afirmacions següents, relatives a l’obra *Terra baixa*, d’Àngel Guimerà, són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En Sebastià es comporta com un cacic a les seves terres.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "La Marta tenia deu anys quan va conèixer en Sebastià.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Barcelona, d’on prové la Marta, es pot considerar una Terra Baixa.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "Les darreres paraules d’en Manelic, a la fi de l’obra, són: «He mort en Sebastià».",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "A la fi, la Marta i en Manelic no poden retornar a la Terra Alta.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cinc afirmacions de vertader o fals (0,1 punts cadascuna). Cada error **resta 0,1** i deixar-la en blanc no resta res: respon només el que puguis justificar amb una frase concreta de l’obra. Desconfia de les afirmacions amb un detall canviat (un color, un nombre, *de seguida*, *exclusiva*, *ningú*). Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "En Sebastià és l’amo del molí i de les terres: tracta els masovers i la Marta com a propietats seves, abusa del seu poder i fa i desfà al seu gust; és el típic cacic. **Vertader.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Segons les pautes, la dada és falsa: no és l’edat que l’obra atribueix a la Marta quan arriba al molí d’en Sebastià amb el captaire. **Fals.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "La Terra Baixa és un espai simbòlic: el món de la plana, de la ciutat i de la societat, ple de corrupció, misèria i engany, oposat a la puresa de la Terra Alta. La Barcelona on la Marta captava, i d’on fugen per no ser tancats, encaixa amb aquest món. **Vertader.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "En Manelic acaba l’obra cridant que ha mort **el llop** («He mort lo llop!»): identifica en Sebastià amb el llop que havia escanyat a la muntanya. És una frase simbòlica. **Fals.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Al final, en Manelic s’emporta la Marta cap a la Terra Alta, lluny de la Terra Baixa: l’obra s’acaba amb la fugida cap a la muntanya. **Fals.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "- a) Vertader\n- b) Fals\n- c) Vertader\n- d) Fals\n- e) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "La d) és la més coneguda de l’obra: «He mort lo llop!» —el llop és en Sebastià—. Si recordes l’oposició simbòlica Terra Alta / Terra Baixa, la c) i la e) surten soles."
+      }
+    },
+    {
+      "id": "catala-2018-S-e2-q2-1-b",
+      "exercici": 2,
+      "questio": "2.1",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Reescriure un fragment sobre el turisme espacial passant el present al passat",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "normativa"
+      ],
+      "conceptes": [
+        "temps verbals",
+        "imperfet d’indicatiu",
+        "morfologia verbal",
+        "concordança temporal"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        8
+      ],
+      "text": "«Astronauta!» Aquest és el crit que fan molts nens i nenes quan els pregunten què volen ser de grans. Quan creixen la idea sol anar-se’n en orris, perquè convertir-se en home de l’espai exigeix uns sacrificis físics i intel·lectuals fora de mida. Però el somni de viatjar a les estrelles roman en molta gent que mira embadalida el cel cada nit. Per això, darrere la idea del turisme espacial molts hi veuen una oportunitat de negoci.\n\nJa fa anys que la idea de viatjar a l’espai com a turista ha deixat de ser una quimera. Ha estat així gràcies a projectes com Virgin Galactic, amb el qual Richard Branson vol posar turistes en òrbita, amb una llista d’espera formada per noms tan populars com Justin Bieber o Ashton Kutcher. El projecte de Branson no és nou, i a molts els semblaria una excentricitat, si no fos perquè comencen a aparèixer moltes altres iniciatives similars, amb inversors potents al darrere i amb calendaris establerts.\n\nQui té previst oferir el primer vol suborbital abans que acabi el 2014 és la companyia holandesa Space Expedition Corporation. Per 71.000 euros, la companyia promet un vol a cent quilòmetres d’altura, superant la línia de Kármán, que separa oficialment l’atmosfera de l’espai exterior. Quaranta-cinc minuts de vol complet. Space Expedition Corporation ja ha venut uns tres-cents d’aquests viatges arreu del món, mitja dotzena a l’Estat espanyol.\n\nEls contractants són persones de perfils molt diferents: des d’un multimilionari a qui ja no **li** queda cap excentricitat per fer a la Terra fins a un jove d’origen asiàtic amb ganes de provar les últimes tendències i capacitat per a pagar-les, passant per un veterà empresari del món de la construcció. El punt en comú entre ells és fàcil d’endevinar: una cartera ben plena. Els viatges espacials són per a gent molt adinerada, però ja no es demanen les fortunes siderals de fa uns quants anys, només a l’abast d’estrelles histriòniques. Per a qui s’**ho** pugui permetre, avui costen el mateix que un cotxe car.\n\nPer aquest motiu el turisme espacial és un terreny adobat per a l’aparició de nous agents, disposats a demostrar que de maneres d’anar a l’espai n’hi ha de diverses. L’oferta de Noon es basa a poder observar el planeta des de trenta-sis quilòmetres d’altura, als quals s’ascendeix en una càpsula acoblada a un globus impulsat per heli. Ni naus espacials, ni satèl·lits ni coets: un globus que triga dues hores a agafar l’altura desitjada, i des de la qual ja es pot observar la cobertura de la Terra i distingir el blau del cel terrestre i el negre de l’espai. Després de dues hores d’observació, la càpsula descendeix durant prop d’una hora amb l’ajuda d’un paracaigudes. El cost de l’experiència: 110.000 euros.\n\nDarrere de tot plegat hi ha una idea bàsica: la conquesta de l’espai ja no està tan sols en mans de les grans agències públiques com la NASA o de gegants aeronàutics, sinó que també és una parcel·la apta per a empreses privades que vulguin explotar tant l’àmbit turístic com el tecnològic. Hi ha terreny per competir i per fer-hi diners.\n\nAdaptació feta a partir del text de Vern Bueno. «Turisme espacial: de la ciència-ficció a l’oportunitat de negoci». *El Món. Via Empresa* [en línia] (17 juny 2014)",
+      "enunciat": "Opció B. Reescriviu el fragment següent del text passant els temps verbals en present a formes de passat. La redacció resultant ha de contenir tota la informació inclosa en el fragment. [1 punt]\n\n«Aquest és el crit que fan molts nens i nenes quan els pregunten què volen ser de grans. Quan creixen la idea sol anar-se’n en orris, perquè convertir-se en home de l’espai exigeix uns sacrificis físics i intel·lectuals fora de mida. Però el somni de viatjar a les estrelles roman en molta gent que mira embadalida el cel cada nit. Per això, darrere la idea del turisme espacial molts hi veuen una oportunitat de negoci.»",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Hi ha **deu** formes de present d’indicatiu; cada una val 0,1. El temps de passat que conserva el valor habitual i descriptiu del present és l’**imperfet d’indicatiu**. Si una forma és incorrecta es descompta 0,1 (i no compta com a falta al total). Els infinitius (*anar-se’n*, *convertir-se*, *viatjar*, *ser*) no es toquen. Temps: 5 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Formes de present → imperfet:\n\n- *és* → **era**\n- *fan* → **feien**\n- *pregunten* → **preguntaven**\n- *volen* → **volien**\n- *creixen* → **creixien**\n- *sol* → **solia**\n- *exigeix* → **exigia**\n- *roman* → **romania**\n- *mira* → **mirava**\n- *veuen* → **veien**\n\nCompte amb els irregulars: *fer* → *feien*, *voler* → *volien*, *créixer* → *creixien*, *soler* → *solia*, *romandre* → *romania*, *veure* → *veien*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "«Aquest era el crit que feien molts nens i nenes quan els preguntaven què volien ser de grans. Quan creixien la idea solia anar-se’n en orris, perquè convertir-se en home de l’espai exigia uns sacrificis físics i intel·lectuals fora de mida. Però el somni de viatjar a les estrelles romania en molta gent que mirava embadalida el cel cada nit. Per això, darrere la idea del turisme espacial molts hi veien una oportunitat de negoci.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "era, feien, preguntaven, volien, creixien, solia, exigia, romania, mirava, veien (0,1 per ítem)."
+          }
+        ],
+        "nota": "Errors típics: *creixeven*, *veuen*→*veuien*, *romandia* o *romangué* en lloc de *romania*, *exigí* (passat simple puntual, que canvia el sentit habitual). També es pot acceptar el passat perifràstic en algun cas, però l’imperfet és la solució natural i la de les pautes."
+      }
+    },
+    {
+      "id": "catala-2018-S-e2-q2-2-b",
+      "exercici": 2,
+      "questio": "2.2",
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "redaccio",
+      "punts": 2,
+      "titol": "Text formal sobre el turisme espacial: avantatges i desavantatges (125-150 paraules)",
+      "tema": "expressio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "text argumentatiu",
+        "redacció",
+        "turisme espacial",
+        "registre formal"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        9
+      ],
+      "text": "«Astronauta!» Aquest és el crit que fan molts nens i nenes quan els pregunten què volen ser de grans. Quan creixen la idea sol anar-se’n en orris, perquè convertir-se en home de l’espai exigeix uns sacrificis físics i intel·lectuals fora de mida. Però el somni de viatjar a les estrelles roman en molta gent que mira embadalida el cel cada nit. Per això, darrere la idea del turisme espacial molts hi veuen una oportunitat de negoci.\n\nJa fa anys que la idea de viatjar a l’espai com a turista ha deixat de ser una quimera. Ha estat així gràcies a projectes com Virgin Galactic, amb el qual Richard Branson vol posar turistes en òrbita, amb una llista d’espera formada per noms tan populars com Justin Bieber o Ashton Kutcher. El projecte de Branson no és nou, i a molts els semblaria una excentricitat, si no fos perquè comencen a aparèixer moltes altres iniciatives similars, amb inversors potents al darrere i amb calendaris establerts.\n\nQui té previst oferir el primer vol suborbital abans que acabi el 2014 és la companyia holandesa Space Expedition Corporation. Per 71.000 euros, la companyia promet un vol a cent quilòmetres d’altura, superant la línia de Kármán, que separa oficialment l’atmosfera de l’espai exterior. Quaranta-cinc minuts de vol complet. Space Expedition Corporation ja ha venut uns tres-cents d’aquests viatges arreu del món, mitja dotzena a l’Estat espanyol.\n\nEls contractants són persones de perfils molt diferents: des d’un multimilionari a qui ja no **li** queda cap excentricitat per fer a la Terra fins a un jove d’origen asiàtic amb ganes de provar les últimes tendències i capacitat per a pagar-les, passant per un veterà empresari del món de la construcció. El punt en comú entre ells és fàcil d’endevinar: una cartera ben plena. Els viatges espacials són per a gent molt adinerada, però ja no es demanen les fortunes siderals de fa uns quants anys, només a l’abast d’estrelles histriòniques. Per a qui s’**ho** pugui permetre, avui costen el mateix que un cotxe car.\n\nPer aquest motiu el turisme espacial és un terreny adobat per a l’aparició de nous agents, disposats a demostrar que de maneres d’anar a l’espai n’hi ha de diverses. L’oferta de Noon es basa a poder observar el planeta des de trenta-sis quilòmetres d’altura, als quals s’ascendeix en una càpsula acoblada a un globus impulsat per heli. Ni naus espacials, ni satèl·lits ni coets: un globus que triga dues hores a agafar l’altura desitjada, i des de la qual ja es pot observar la cobertura de la Terra i distingir el blau del cel terrestre i el negre de l’espai. Després de dues hores d’observació, la càpsula descendeix durant prop d’una hora amb l’ajuda d’un paracaigudes. El cost de l’experiència: 110.000 euros.\n\nDarrere de tot plegat hi ha una idea bàsica: la conquesta de l’espai ja no està tan sols en mans de les grans agències públiques com la NASA o de gegants aeronàutics, sinó que també és una parcel·la apta per a empreses privades que vulguin explotar tant l’àmbit turístic com el tecnològic. Hi ha terreny per competir i per fer-hi diners.\n\nAdaptació feta a partir del text de Vern Bueno. «Turisme espacial: de la ciència-ficció a l’oportunitat de negoci». *El Món. Via Empresa* [en línia] (17 juny 2014)",
+      "enunciat": "Opció B. En el text s’expliquen les oportunitats de negoci que representen els viatges a l’espai. Escriviu un text formal i ben estructurat, de cent vint-i-cinc a cent cinquanta paraules, en què valoreu la idoneïtat de la iniciativa i els avantatges i desavantatges que pot suposar per als viatgers. [2 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text formal de **125-150 paraules** amb tres continguts: una **valoració** de la iniciativa (és oportuna o no?), els **avantatges** i els **desavantatges per als viatgers**. Es valora adequació, coherència i cohesió, en segments de 0,25. Cada falta resta 0,1 del total. Temps: 20-25 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Estructura:\n\n1. **Introducció**: presenta el fenomen (empreses privades que venen viatges a l’espai).\n2. **Avantatges per als viatgers**: complir un somni, una experiència única (veure la Terra des de l’espai), més opcions i preus més baixos que abans.\n3. **Desavantatges**: preu encara altíssim, riscos per a la salut i accidents, preparació física, impacte ambiental (combustible, emissions).\n4. **Valoració i conclusió**: posició personal raonada (p. ex., una iniciativa interessant però que cal regular i que, ara per ara, és un luxe per a pocs).\n\nConnectors: *d’una banda… de l’altra, a més, en canvi, tanmateix, per tot plegat*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El turisme espacial ha passat de ser un somni de ciència-ficció a un negoci real, impulsat per empreses privades.\n\nD’una banda, per als viatgers representa una experiència única: contemplar la Terra des de l’espai i complir un somni d’infantesa. A més, la competència entre empreses ha fet baixar els preus i ha multiplicat les opcions, des dels vols suborbitals fins als globus.\n\nDe l’altra, els inconvenients són evidents. Malgrat la rebaixa, un viatge costa com un cotxe de luxe, de manera que continua sent un privilegi de rics. També implica riscos per a la salut i una preparació exigent, i té un impacte ambiental considerable.\n\nPer tot plegat, considero que la iniciativa és atractiva i pot afavorir el progrés tecnològic, però cal regular-la amb rigor i no oblidar que, avui dia, és un luxe a l’abast de molt poca gent."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Adequació (registre formal; valoració + avantatges + desavantatges per als viatgers), coherència (estructura i idees) i cohesió (oracions ben construïdes, connectors). Es gradua en segments de 0,25; −0,1 per falta al còmput general."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 140 paraules (dins de 125-150). Error típic: parlar només del negoci per a les empreses i oblidar els avantatges i desavantatges per als **viatgers**, o no fer cap valoració personal."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-1-1",
+      "exercici": 3,
+      "questio": "3.1.1",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.1,
+      "titol": "Funció de l’oració «que era cega»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "oració de relatiu",
+        "complement del nom",
+        "antecedent"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. 3.1. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,1 per qüestió. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]\n\nVeureu: jo tenia una mare **que era cega**.",
+      "figures": [],
+      "opcions": {
+        "A": "oració subordinada substantiva de subjecte",
+        "B": "oració subordinada substantiva de complement o objecte directe",
+        "C": "oració subordinada adjectiva o de relatiu de complement del nom",
+        "D": "oració subordinada adjectiva o de relatiu de complement de l’adjectiu"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,1 i **cada error resta 0,1**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, un adjectiu, un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Comença amb el relatiu *que*, que té un antecedent: *una mare*. Es pot substituir per un adjectiu (*una mare cega*): és una **oració de relatiu** que complementa el nom *mare*. No és substantiva (no es pot substituir per *això*) ni complementa cap adjectiu."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "C) oració subordinada adjectiva o de relatiu de complement del nom."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Oració subordinada adjectiva o de relatiu de complement del nom."
+          }
+        ],
+        "nota": "Si el *que* té antecedent (un nom just davant) i l’oració es pot canviar per un adjectiu, és de relatiu."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-1-2",
+      "exercici": 3,
+      "questio": "3.1.2",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.1,
+      "titol": "Funció de l’oració «què volen ser de grans»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "interrogativa indirecta",
+        "oració substantiva",
+        "complement directe"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. 3.1. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,1 per qüestió. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]\n\nAquest és el crit que fan molts nens i nenes quan els pregunten **què volen ser de grans**.",
+      "figures": [],
+      "opcions": {
+        "A": "oració subordinada adjectiva o de relatiu de complement o objecte directe",
+        "B": "oració subordinada adverbial condicional",
+        "C": "oració subordinada adverbial de complement o objecte directe",
+        "D": "oració subordinada substantiva interrogativa de complement o objecte directe"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,1 i **cada error resta 0,1**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, un adjectiu, un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Què* porta accent: és un interrogatiu, no un relatiu. Què els pregunten? «què volen ser de grans» → *els ho pregunten*: és el CD de *pregunten*. Una interrogativa indirecta que fa de CD és una **subordinada substantiva interrogativa de CD**. Les opcions A i C barregen termes que no existeixen (una adjectiva no fa de CD, i una adverbial tampoc)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "D) oració subordinada substantiva interrogativa de complement o objecte directe."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Oració subordinada substantiva interrogativa de complement o objecte directe."
+          }
+        ],
+        "nota": "L’accent de *què* és la pista: interrogatiu → interrogativa indirecta."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-1-3",
+      "exercici": 3,
+      "questio": "3.1.3",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.1,
+      "titol": "Funció d’«una quimera»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "atribut",
+        "verbs copulatius",
+        "perífrasis verbals"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. 3.1. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,1 per qüestió. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]\n\nJa fa anys que la idea de viatjar a l’espai com a turista ha deixat de ser **una quimera**.",
+      "figures": [],
+      "opcions": {
+        "A": "complement o objecte directe",
+        "B": "complement predicatiu",
+        "C": "atribut",
+        "D": "complement del nom"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,1 i **cada error resta 0,1**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, un adjectiu, un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Deixar de ser* és una perífrasi amb el verb copulatiu *ser*: el nucli verbal és *ser*. *Una quimera* diu què és el subjecte (*la idea…*) i es pot substituir per *ho*: «ha deixat de ser-**ho**». Un SN amb verb copulatiu substituïble per *ho* és **atribut**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "C) atribut."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Atribut."
+          }
+        ],
+        "nota": "No et deixis enganyar per *deixar de*: el verb que compta és *ser*."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-1-4",
+      "exercici": 3,
+      "questio": "3.1.4",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.1,
+      "titol": "Funció de «del món de la construcció»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "complement del nom",
+        "sintagma preposicional"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. 3.1. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,1 per qüestió. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]\n\nDes d’un multimilionari a qui ja no li queda cap excentricitat per fer a la Terra fins a un jove d’origen asiàtic amb ganes de provar les últimes tendències i capacitat per a pagar-les, passant per un veterà empresari **del món de la construcció**.",
+      "figures": [],
+      "opcions": {
+        "A": "complement o objecte directe",
+        "B": "complement de règim (o preposicional)",
+        "C": "complement del nom",
+        "D": "complement circumstancial (o adjunt)"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,1 i **cada error resta 0,1**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, un adjectiu, un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Del món de la construcció* depèn del nom *empresari* (quina mena d’empresari?), no del verb *passant*. Un sintagma preposicional que complementa un nom és **complement del nom**. Prova: forma un sol bloc amb *empresari* («un veterà empresari del món de la construcció»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "C) complement del nom."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Complement del nom."
+          }
+        ],
+        "nota": "Pregunta’t de quina paraula depèn: si depèn d’un nom, és CN."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-1-5",
+      "exercici": 3,
+      "questio": "3.1.5",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.1,
+      "titol": "Funció de «la companyia holandesa Space Expedition Corporation»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "subjecte",
+        "oracions copulatives",
+        "construcció emfàtica"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. 3.1. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,1 per qüestió. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]\n\nQui té previst oferir el primer vol suborbital abans que acabi el 2014 és **la companyia holandesa Space Expedition Corporation**.",
+      "figures": [],
+      "opcions": {
+        "A": "subjecte",
+        "B": "complement o objecte indirecte",
+        "C": "complement o objecte directe",
+        "D": "complement circumstancial (o adjunt)"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,1 i **cada error resta 0,1**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, un adjectiu, un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "És una oració copulativa emfàtica: «Qui té previst oferir… **és** la companyia…». Equival a «La companyia Space Expedition Corporation té previst oferir…». El SN concorda amb el verb *és* (3a persona del singular) i és qui fa l’acció: és el **subjecte**. Els verbs copulatius no admeten CD ni CI."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A) subjecte."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Subjecte."
+          }
+        ],
+        "nota": "Reordena la frase en ordre neutre per veure qui fa l’acció."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-1-6",
+      "exercici": 3,
+      "questio": "3.1.6",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.1,
+      "titol": "Funció d’«embadalida»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "complement predicatiu",
+        "concordança"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. 3.1. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,1 per qüestió. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]\n\nPerò el somni de viatjar a les estrelles roman en molta gent que mira **embadalida** el cel cada nit.",
+      "figures": [],
+      "opcions": {
+        "A": "complement o objecte directe",
+        "B": "complement circumstancial (o adjunt)",
+        "C": "subjecte",
+        "D": "complement predicatiu"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,1 i **cada error resta 0,1**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, un adjectiu, un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Embadalida* és un adjectiu que concorda en gènere i nombre amb *gent* (subjecte de *mira*) i alhora complementa el verb *mira* (com mira? embadalida). Un adjectiu que es refereix al subjecte en una oració amb verb no copulatiu és **complement predicatiu**. El CD de *mira* és *el cel*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "D) complement predicatiu."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Complement predicatiu."
+          }
+        ],
+        "nota": "Si és un adjectiu que concorda amb el subjecte o el CD i el verb no és copulatiu: predicatiu."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-1-7",
+      "exercici": 3,
+      "questio": "3.1.7",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.1,
+      "titol": "Funció de «tantes noietes de ma edat amb la robeta bonica de les festes»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "complement directe",
+        "verbs de percepció",
+        "infinitiu"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. 3.1. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,1 per qüestió. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]\n\n[…] i com jo anava espigant-me i veia passar **tantes noietes de ma edat amb la robeta bonica de les festes**, jo que li vaig dir al pare un dia que no havíem arreplegat gaires dinerons: «Pare, i si treballéssim?»",
+      "figures": [],
+      "opcions": {
+        "A": "complement o objecte directe",
+        "B": "complement de règim (o preposicional)",
+        "C": "complement del nom",
+        "D": "complement circumstancial (o adjunt)"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,1 i **cada error resta 0,1**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, un adjectiu, un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Què veia passar? «tantes noietes…» → «les veia passar»: es pot substituir per *les*, pronom de CD. Amb els verbs de percepció (*veure*, *sentir*) + infinitiu, el SN és el **complement directe** del verb de percepció (i alhora el subjecte de l’infinitiu *passar*). No porta preposició, de manera que no pot ser règim ni CN."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A) complement o objecte directe."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Complement o objecte directe."
+          }
+        ],
+        "nota": "Prova del pronom: *les veia passar* → CD."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-1-8",
+      "exercici": 3,
+      "questio": "3.1.8",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.1,
+      "titol": "Funció de l’oració «sinó que també és una parcel·la apta…»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "oració coordinada",
+        "coordinació adversativa",
+        "sinó que"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. 3.1. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,1 per qüestió. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]\n\nLa conquesta de l’espai ja no està tan sols en mans de les grans agències públiques com la NASA o de gegants aeronàutics, **sinó que també és una parcel·la apta per a empreses privades que vulguin explotar tant l’àmbit turístic com el tecnològic**.",
+      "figures": [],
+      "opcions": {
+        "A": "oració subordinada substantiva de subjecte",
+        "B": "oració subordinada substantiva de complement o objecte directe",
+        "C": "oració coordinada",
+        "D": "oració subordinada adverbial consecutiva"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,1 i **cada error resta 0,1**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, un adjectiu, un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "La construcció *no (tan sols)… sinó que (també)…* uneix dues oracions del mateix nivell, cadascuna amb el seu verb (*està* / *és*): és una **coordinació adversativa** (correctiva/additiva). El *que* de *sinó que* no és una conjunció subordinant; no fa cap funció dins de l’altra oració."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "C) oració coordinada."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Oració coordinada."
+          }
+        ],
+        "nota": "*Sinó que* coordina: no et confonguis pel *que*."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-1-9",
+      "exercici": 3,
+      "questio": "3.1.9",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.1,
+      "titol": "Funció del pronom «hi» a «jo hi vaig anar»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pronom hi",
+        "complement circumstancial",
+        "pronoms febles"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. 3.1. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,1 per qüestió. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]\n\nI a l’endemà se l’endugueren al cementiri, a la mare, i jo **hi** vaig anar al darrera amb aquell home.",
+      "figures": [],
+      "opcions": {
+        "A": "complement predicatiu",
+        "B": "complement de règim (o preposicional)",
+        "C": "complement de l’adjectiu",
+        "D": "complement circumstancial (o adjunt)"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,1 i **cada error resta 0,1**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, un adjectiu, un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Hi* substitueix *al cementiri*: «jo vaig anar al cementiri». Expressa el lloc on va: és un **complement circumstancial de lloc** (segons les pautes). No és règim perquè *anar* no regeix una preposició fixa, ni predicatiu (que seria *ho/hi* referit a un adjectiu)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "D) complement circumstancial (o adjunt)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Complement circumstancial (o adjunt)."
+          }
+        ],
+        "nota": "Busca el referent de *hi* (al cementiri) i pregunta’t quina funció té: lloc → CC."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-1-10",
+      "exercici": 3,
+      "questio": "3.1.10",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.1,
+      "titol": "Funció de l’oració «perquè plorava»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "oració causal",
+        "perquè",
+        "oració adverbial"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Part comuna. 3.1. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,1 per qüestió. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades, no hi haurà cap descompte.]\n\n[…] i per això vaig conèixer que aquell home no era cego de bo de bo, **perquè plorava**.",
+      "figures": [],
+      "opcions": {
+        "A": "oració subordinada adverbial consecutiva",
+        "B": "oració subordinada substantiva de complement o objecte directe",
+        "C": "oració subordinada adverbial causal",
+        "D": "oració subordinada substantiva de subjecte"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,1 i **cada error resta 0,1**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, un adjectiu, un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Perquè* + indicatiu (*plorava*) introdueix la causa: la raó per la qual la Marta sap que no era cec. És una **subordinada adverbial causal**. No és consecutiva (no expressa una conseqüència) ni substantiva (no es pot substituir per *això*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "C) oració subordinada adverbial causal."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Oració subordinada adverbial causal."
+          }
+        ],
+        "nota": "*Perquè* + indicatiu = causa; *perquè* + subjuntiu = finalitat."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-2",
+      "exercici": 3,
+      "questio": "3.2",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Parelles de mots: perquè / per què, sinó / si no, tan / tant, enlloc / en lloc, gens / res",
+      "tema": "normativa",
+      "temes_secundaris": [],
+      "conceptes": [
+        "parònims",
+        "perquè / per què",
+        "sinó / si no",
+        "tan / tant",
+        "enlloc / en lloc",
+        "gens / res"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Completeu les oracions següents amb la forma correcta de les dues que hi ha entre parèntesis. [0,5 punts]\n\na) Va anar a veure en Joan _____ li solucionés el problema. La veritat és que no sé _____ se’n refia. (*perquè / per què*)\n\nb) _____ t’afanyes no trobaràs la peixateria oberta. —És igual. No menjaré peix, _____ carn. (*sinó / si no*)\n\nc) Estic _____ esgotat de _____ parlar que me n’aniria a dormir ara mateix. (*tan / tant*)\n\nd) No he trobat pa _____. —Si haguessis anat a la botiga de la plaça _____ del supermercat, n’hauries trobat. (*enlloc / en lloc*)\n\ne) Et demanava si volies _____ de sucre al cafè, però veig que no em dius _____. (*gens / res*)",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Va anar a veure en Joan ___ li solucionés el problema. La veritat és que no sé ___ se’n refia. (perquè / per què)",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "___ t’afanyes no trobaràs la peixateria oberta. —És igual. No menjaré peix, ___ carn. (sinó / si no)",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Estic ___ esgotat de ___ parlar que me n’aniria a dormir ara mateix. (tan / tant)",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "No he trobat pa ___. —Si haguessis anat a la botiga de la plaça ___ del supermercat, n’hauries trobat. (enlloc / en lloc)",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Et demanava si volies ___ de sucre al cafè, però veig que no em dius ___. (gens / res)",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada frase té dos buits i les dues formes s’han d’usar (una a cada buit). Pensa la funció gramatical de cada buit abans de triar. 0,1 per ítem (els dos buits ben resolts). Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*Perquè* (junt) és conjunció: aquí, amb subjuntiu (*solucionés*), indica **finalitat** («a fi que»). *Per què* (separat) és preposició + interrogatiu: «no sé **per què** se’n refia» = no sé per quina raó (interrogativa indirecta)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Si no* = condicional *si* + negació: «**Si no** t’afanyes» (si no corres). *Sinó* és conjunció adversativa després d’una negació: «No menjaré peix, **sinó** carn»."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Davant d’adjectiu o adverbi va *tan*: «**tan** esgotat». Davant de verb (aquí l’infinitiu *parlar*), nom o quan va sol, *tant*: «de **tant** parlar»."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "*Enlloc* (junt) és adverbi de lloc negatiu = a cap lloc: «No he trobat pa **enlloc**». *En lloc de* (separat) és locució = en comptes de: «a la botiga de la plaça **en lloc** del supermercat»."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "*Gens* indica quantitat d’una cosa no comptable (*gens de sucre* = una mica de sucre, en frase interrogativa/condicional). *Res* = cap cosa: «no em dius **res**»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) perquè / per què; b) Si no / sinó; c) tan / tant; d) enlloc / en lloc; e) gens / res."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "perquè; per què"
+          },
+          {
+            "apartat": "b",
+            "valor": "Si no; sinó"
+          },
+          {
+            "apartat": "c",
+            "valor": "tan; tant"
+          },
+          {
+            "apartat": "d",
+            "valor": "enlloc; en lloc"
+          },
+          {
+            "apartat": "e",
+            "valor": "gens; res"
+          }
+        ],
+        "nota": "Truc: *sinó* es pot substituir per «al contrari, més aviat»; *si no*, per «en cas que no». *Enlloc* respon a «on?», *en lloc de* a «en comptes de què?»."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-3",
+      "exercici": 3,
+      "questio": "3.3",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Formes verbals: cabre, abstenir, incloure, seure, voler",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "normativa"
+      ],
+      "conceptes": [
+        "morfologia verbal",
+        "verbs irregulars",
+        "subjuntiu",
+        "participi",
+        "imperatiu"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Completeu les oracions següents amb la forma verbal simple correcta del verb que hi ha entre parèntesis. [0,5 punts]\n\na) Jo m’asseguraria que _____ (*cabre*) els mobles a la furgoneta. Així no hauríem de fer dos viatges.\n\nb) És millor que us _____ (*abstenir*) de fer cap comentari que el pugui ferir.\n\nc) L’han _____ (*incloure*) a la llista de creditors, i ell s’ho ha pres molt malament.\n\nd) El policia li va demanar que _____ (*seure*) i que li expliqués com s’havia produït l’accident.\n\ne) No _____ (*voler*) anar tan de pressa, vosaltres, que prendreu mal.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Jo m’asseguraria que ___ (cabre) els mobles a la furgoneta.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "És millor que us ___ (abstenir) de fer cap comentari que el pugui ferir.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "L’han ___ (incloure) a la llista de creditors.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "El policia li va demanar que ___ (seure) i que li expliqués com s’havia produït l’accident.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "No ___ (voler) anar tan de pressa, vosaltres, que prendreu mal.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Per a cada buit, decideix primer **temps, mode, persona i nombre** a partir de la frase (subjecte, concordança temporal) i després conjuga el verb, que sol ser irregular. Forma simple: un sol mot. 0,1 per ítem. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*M’asseguraria que* (condicional) demana **imperfet de subjuntiu**; el subjecte és *els mobles* (3a pl.): **cabessin** (també és correcte *capiguessin*)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*És millor que* + **present de subjuntiu**; *us* indica 2a pl. (vosaltres): **abstingueu** (com *tenir* → *tingueu*)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "*L’han* + **participi**; *incloure* fa el participi irregular **inclòs** (masculí; com *concloure* → *conclòs*)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "*Li va demanar que* (passat) → **imperfet de subjuntiu**, 3a sg. (paral·lel a *expliqués*): **segués**."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Ordre negatiu a *vosaltres*: l’imperatiu negatiu es fa amb el **present de subjuntiu**: «No **vulgueu**»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) cabessin; b) abstingueu; c) inclòs; d) segués; e) vulgueu."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "cabessin"
+          },
+          {
+            "apartat": "b",
+            "valor": "abstingueu"
+          },
+          {
+            "apartat": "c",
+            "valor": "inclòs"
+          },
+          {
+            "apartat": "d",
+            "valor": "segués"
+          },
+          {
+            "apartat": "e",
+            "valor": "vulgueu"
+          }
+        ],
+        "nota": "Errors típics: *cabéssin* o *càpiguen* (temps equivocat), *abstenigueu*, *inclós* (accent obert: *inclòs*), *seiés*, *voleu* (l’imperatiu negatiu no és *no voleu*). A la a) les pautes donen *cabessin*; la forma *capiguessin* també és normativa."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-4",
+      "exercici": 3,
+      "questio": "3.4",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Assimilació de les nasals al punt d’articulació de la consonant següent",
+      "tema": "normativa",
+      "temes_secundaris": [],
+      "conceptes": [
+        "fonètica",
+        "consonants nasals",
+        "assimilació",
+        "punt d’articulació"
+      ],
+      "dificultat": 3,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Subratlleu (aquí, marqueu) NOMÉS les cinc grafies corresponents a sons nasals que s’assimilen al punt d’articulació de la consonant següent. [0,5 punts]\n\nEstava ben enfadat amb la Maria. L’havia insultat i havia fet creure a tothom que la seva feina era un nyap. Eren dos i a sobre estaven malavinguts.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "La *n* (alveolar) canvia de pronúncia segons la consonant que la segueix, dins del mot o entre mots: davant de *f* es fa labiodental [ɱ], davant de *b, p, m* bilabial [m], davant de *ny, ll, i* palatal [ɲ], davant de *g, c* velar [ŋ] i davant de *t, d* dental. Busca totes les *n* (i *m*) seguides de consonant. 0,1 per ítem. Temps: 3 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "- *be**n** e**n**fadat*: la primera *n* va davant de vocal (*ben_enfadat*): no s’assimila. La *n* d’*e**n**fadat* va davant de *f* → labiodental [ɱ]. **Sí.**\n- *a**m**b*: la *m* ja és bilabial i va davant de *b* (bilabial): no hi ha canvi; no compta.\n- *i**n**sultat*: *n* davant de *s* (alveolar, mateix punt): no s’assimila.\n- *u**n** nyap*: *n* davant de *ny* → palatal [ɲ]. **Sí.**\n- *Ere**n** dos*: *n* davant de *d* → dental. **Sí.**\n- *estave**n** malavinguts*: *n* davant de *m* → bilabial [m]. **Sí.**\n- *malavi**n**guts*: *n* davant de *g* → velar [ŋ]. **Sí.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Estava ben e**n**fadat amb la Maria. L’havia insultat i havia fet creure a tothom que la seva feina era u**n** nyap. Ere**n** dos i a sobre estave**n** malavi**n**guts.\n\nLes cinc grafies: la *n* d’*enfadat*, la *n* d’*un* (davant de *nyap*), la *n* d’*Eren* (davant de *dos*), la *n* d’*estaven* (davant de *malavinguts*) i la *n* de *malavinguts*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "enfadat (n), un nyap (n), Eren dos (n), estaven malavinguts (n final), malavinguts (n)."
+          }
+        ],
+        "nota": "Errors típics: marcar la *m* d’*amb* (ja és bilabial, no canvia) o la *n* de *ben* (va davant de vocal). Recorda que l’assimilació també es produeix entre paraules (*un nyap*, *estaven malavinguts*)."
+      }
+    },
+    {
+      "id": "catala-2018-S-e3-q3-5",
+      "exercici": 3,
+      "questio": "3.5",
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Derivació: llegir, magatzem, budell, angúnia, rogall",
+      "tema": "lexic",
+      "temes_secundaris": [
+        "normativa"
+      ],
+      "conceptes": [
+        "derivació",
+        "prefixos",
+        "sufixos",
+        "formació de mots",
+        "parasíntesi"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Completeu les oracions següents amb els verbs, substantius o adjectius adequats, derivats dels mots que hi ha entre parèntesis. [0,5 punts]\n\na) El full està tot moll i el text que hi havia ha esdevingut _____. (*llegir*)\n\nb) Tres enginyers informàtics han creat nous sistemes d’_____ de dades i d’intercanvi d’arxius digitals. (*magatzem*)\n\nc) A la pel·lícula, aquella bèstia va matar quatre homes i va _____ una dotzena de cavalls. (*budell*)\n\nd) La manca de notícies de la seva filla va _____ els pares. (*angúnia*)\n\ne) Té molt mal de coll i se li ha _____ la veu. (*rogall*)",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "El full està tot moll i el text que hi havia ha esdevingut ___. (llegir)",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "Tres enginyers informàtics han creat nous sistemes d’___ de dades i d’intercanvi d’arxius digitals. (magatzem)",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "A la pel·lícula, aquella bèstia va matar quatre homes i va ___ una dotzena de cavalls. (budell)",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "La manca de notícies de la seva filla va ___ els pares. (angúnia)",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Té molt mal de coll i se li ha ___ la veu. (rogall)",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Mira quina categoria demana cada buit (després d’*esdevingut*, un adjectiu; després de *va*, un infinitiu; després de *ha*, un participi; després de *sistemes d’*, un nom) i forma el derivat amb el prefix o sufix adequat. Compte amb l’ortografia (*l·l*, *mm*). 0,1 per ítem. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Adjectiu negatiu: que no es pot llegir. Prefix *in-* + *llegible* → *in-* s’assimila davant de *l*: **il·legible** (amb ela geminada)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Nom d’acció del verb *emmagatzemar* (*en-* + *magatzem* + *-ar*; *en-* davant de *m* → *em-*, d’aquí la doble *m*): **emmagatzematge** (o *emmagatzemament*)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Verb parasintètic (*es-* + *budell* + *-ar*): treure els budells → **esbudellar** (infinitiu després de *va*)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Verb derivat amb el sufix *-ejar*: causar angúnia → **anguniejar** (perd l’accent i la *a* final)."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Verb parasintètic *en-* + *rogall* + *-ar* = *enrogallar-se* (posar-se ronc). Després de *s’ha*, participi: **enrogallat**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) il·legible; b) emmagatzematge (o emmagatzemament); c) esbudellar; d) anguniejar; e) enrogallat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "il·legible"
+          },
+          {
+            "apartat": "b",
+            "valor": "emmagatzematge / emmagatzemament"
+          },
+          {
+            "apartat": "c",
+            "valor": "esbudellar"
+          },
+          {
+            "apartat": "d",
+            "valor": "anguniejar"
+          },
+          {
+            "apartat": "e",
+            "valor": "enrogallat"
+          }
+        ],
+        "nota": "Les pautes oficials escriuen «emmagatzemament / enmagatzematge»: la segona forma té una errada tipogràfica; la grafia correcta és **emmagatzematge** (amb *mm*, com *emmagatzemar*). Errors típics: *ilegible* (sense ela geminada), *enmagatzematge*, *angunietjar*."
+      }
+    }
+  ]
+}
