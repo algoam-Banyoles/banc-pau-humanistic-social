@@ -1,0 +1,831 @@
+{
+  "examen": {
+    "id": "empresa-2024-J",
+    "assignatura": "empresa",
+    "materia": "Funcionament de l’empresa i disseny de models de negoci",
+    "any": 2024,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/empresa/2024-J-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2024-J-solucio.pdf",
+    "estructura": "Cal resoldre QUATRE dels sis exercicis proposats (2,5 punts cadascun); si se’n responen més, només es valoren els quatre primers. Exercici 1: dones emprenedores, formes jurídiques i classificació d’empreses. Exercici 2: balanç de situació, fons de maniobra, ràtio de liquiditat i accions per millorar-los. Exercici 3: compte de pèrdues i guanys, rendibilitat econòmica i financera, i VAN. Exercici 4: patrons de models de negoci, mapa d’empatia, storytelling/elevator pitch i matriu ERIC. Exercici 5: DAFO, propietat industrial i intel·lectual, i lean startup. Exercici 6: 5 preguntes de test (0,5 punts per encert, −0,15 per error, les no contestades no resten). Es pot utilitzar calculadora científica no programable."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2024-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Dones emprenedores, formes jurídiques (empresa individual, SL, SA, cooperativa) i classificació d’empreses",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "emprenedoria"
+      ],
+      "conceptes": [
+        "emprenedoria femenina",
+        "formes jurídiques",
+        "societat de responsabilitat limitada",
+        "societat anònima",
+        "responsabilitat dels socis",
+        "classificació d’empreses",
+        "sectors econòmics",
+        "dimensió empresarial"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3,
+        4
+      ],
+      "text": "Estée Lauder no és només una marca referent. Darrere seu hi va haver Josephine Esther Mentzer, una emprenedora que als anys quaranta va crear un imperi amb el seu nom que avui dia encara és vigent. Casos similars serien els de Coco Chanel o Carolina Herrera, més conegudes pels seus dissenys que no pas per la seva emprenedoria. Les dones emprenedores tenen un paper clau en la transformació de la societat, ja que aporten valor afegit, diversitat i perspectiva de gènere als seus negocis. No obstant això, també s’enfronten a diversos reptes i obstacles que els dificulten el camí cap a l’èxit.",
+      "enunciat": "Llegiu el text i responeu els apartats 1.1 a 1.4.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1.1",
+          "punts": 0.4,
+          "enunciat": "Relacioneu cada dificultat amb què es troben les dones emprenedores (columna esquerra de la taula) amb una frase que l’exemplifiqui (columna dreta). Per fer-ho, escriviu la lletra corresponent (*a*, *b*, *c*, *d*) en les caselles de la columna de la dreta. Tingueu en compte que no podeu repetir cap lletra.\n\n| Dificultat | Frase |\n|---|---|\n| *a*) Conciliació de la vida professional i familiar | ☐ «No et podem concedir el finançament que demanes perquè no tenim garanties d’èxit.» |\n| *b*) Estereotips de gènere | ☐ «Ens agrada el teu perfil per al lloc de treball, però tens dues criatures petites i quan es posin malaltes hauràs de faltar a la feina.» |\n| *c*) Discriminació de gènere | ☐ «No pots ser gerenta d’aquesta empresa, ja que molts homes no accepten tenir una dona com a superior.» |\n| *d*) Accés a finançament | ☐ «Aquesta feina requereix força. Una dona no la pot fer.» |"
+        },
+        {
+          "id": "1.2",
+          "punts": 0.6,
+          "enunciat": "La Marta i en Joan tenen vint-i-set anys. Volen obrir una botiga gurmet de productes elaborats a la Garrotxa, però tenen dubtes sobre quina forma jurídica seria la més adient: una empresa individual o una societat de responsabilitat limitada. En la taula següent, indiqueu, per a cadascun d’aquests dos tipus d’empreses, el nombre mínim de socis, la responsabilitat dels socis i l’import mínim de capital.\n\n| Tipus d’empresa | Nombre mínim de socis | Responsabilitat dels socis | Capital mínim | Fiscalitat |\n|---|---|---|---|---|\n| Empresa individual | | | | IRPF |\n| Societat de responsabilitat limitada | | | | Impost de societats |"
+        },
+        {
+          "id": "1.3",
+          "punts": 0.7,
+          "enunciat": "Indiqueu quines afirmacions de la taula següent són correctes i quines són incorrectes. En el cas de les incorrectes, expliqueu-ne el motiu.\n\n| Afirmació | Correcta o incorrecta? | En cas de ser incorrecta, expliqueu-ne el motiu |\n|---|---|---|\n| La societat anònima és una societat capitalista amb un capital social dividit i integrat per aportacions dels socis en forma de participacions. | | |\n| En la societat cooperativa, el capital mínim ve fixat pels estatuts. | | |\n| El capital mínim de la societat anònima és de 60.000 €. | | |\n| La responsabilitat dels socis de les societats de responsabilitat limitada i anònima està limitada al capital aportat. | | |\n| En el cas que només hi hagi un únic soci, la fiscalitat de la societat anònima és l’IRPF. | | |"
+        },
+        {
+          "id": "1.4",
+          "punts": 0.8,
+          "enunciat": "Completeu la taula següent escrivint el sector d’activitat, la dimensió, l’àmbit geogràfic i la propietat del capital de cada una de les empreses descrites.\n\n| Descripció de l’empresa | Sector d’activitat | Dimensió | Àmbit geogràfic | Propietat del capital |\n|---|---|---|---|---|\n| Empresa formada per un ramader sense cap treballador a càrrec i creada amb el seu capital que es dedica a la cura de vaques. Ven els seus productes a empreses de la seva comarca o regió. | | | | |\n| Empresa amb més de dos-cents cinquanta treballadors que es dedica a la investigació d’una malaltia no gaire comuna. El capital és de l’Estat. Opera en un país, però exporta els seus coneixements a altres països. | | | | |\n| Filial a Barcelona d’una empresa que es dedica a la venda de roba. El seu capital pertany a persones particulars i té més de dos-cents cinquanta treballadors. És una empresa que té filials o sucursals a altres països. | | | | |\n| Empresa que es dedica a activitats de transformació o industrials (manufactures) de productes que es venen per tot Espanya. El seu capital pertany a persones particulars i té dos-cents quinze treballadors. | | | | |"
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici totalment teòric sobre **emprenedoria femenina, formes jurídiques i classificació d’empreses**. Són quatre apartats curts, de tipus «omplir la taula», que es poden resoldre en uns 20-25 minuts. La clau és la precisió: cada casella compta. A l’1.3, quan una afirmació és incorrecta, no n’hi ha prou de marcar-la: cal **explicar el motiu** (sense explicació, no es puntua). Recorda que l’examen et fa triar **quatre dels sis exercicis**: aquest és un bon candidat si domines la teoria de formes jurídiques, perquè no té càlculs."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Llegeix cada frase i pregunta’t quin obstacle concret reflecteix:\n\n1. «No et podem concedir el finançament…» → el problema és aconseguir diners: **accés a finançament (*d*)**.\n2. «…tens dues criatures petites i hauràs de faltar a la feina» → la feina xoca amb la cura dels fills: **conciliació de la vida professional i familiar (*a*)**.\n3. «No pots ser gerenta… molts homes no accepten tenir una dona com a superior» → se li nega un càrrec pel fet de ser dona: **discriminació de gènere (*c*)**.\n4. «Aquesta feina requereix força. Una dona no la pot fer» → idea preconcebuda sobre les capacitats de les dones: **estereotip de gènere (*b*)**.\n\nDiferència clau: l’**estereotip** és una creença generalitzada i simplificada («les dones no tenen força»); la **discriminació** és un tracte desigual efectiu (no donar-li el lloc de gerenta)."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Compara les dues formes jurídiques en els tres aspectes que demana la taula:\n\n- **Empresa individual** (autònom): un sol titular, **responsabilitat il·limitada** (respon dels deutes amb tot el seu patrimoni personal) i **sense capital mínim**.\n- **Societat de responsabilitat limitada (SL)**: es pot constituir amb **1 soci** (SL unipersonal); la **responsabilitat és limitada al capital aportat**; des de la Llei 18/2022 («Crea y Crece») el **capital mínim és d’1 €** (abans eren 3.000 €).\n\nFixa’t que la columna de fiscalitat ja està omplerta: IRPF per a l’empresari individual i impost de societats per a la SL."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Analitza les afirmacions una per una:\n\n1. La SA té el capital dividit en **accions**, no en participacions (les participacions són pròpies de la SL) → **incorrecta**.\n2. A la cooperativa, el capital mínim el fixen els **estatuts** → **correcta**.\n3. El capital mínim de la SA és de **60.000 €** → **correcta**.\n4. Tant a la SL com a la SA els socis responen **només fins al capital aportat** → **correcta**.\n5. La SA, encara que sigui unipersonal, tributa sempre per l’**impost de societats**; l’IRPF és per a persones físiques → **incorrecta**."
+          },
+          {
+            "apartat": "1.4",
+            "titol": "Com plantejar-ho",
+            "cos": "Fes servir els quatre criteris de classificació:\n\n- **Sector**: primari (obtenció de recursos naturals: agricultura, ramaderia, pesca), secundari (transformació, indústria), terciari (serveis, comerç), quaternari (coneixement, R+D, tecnologies de la informació).\n- **Dimensió** (segons treballadors): microempresa (menys de 10), petita (10-49), mitjana (50-249) i gran (250 o més).\n- **Àmbit geogràfic**: local, regional, nacional, internacional (opera o ven a l’estranger) o multinacional (té filials o sucursals a diversos països).\n- **Propietat del capital**: privada, pública o mixta.\n\nAplica’ls a cada descripció buscant les paraules clau: «cura de vaques» → primari; «sense cap treballador» → microempresa; «investigació» → quaternari; «filials a altres països» → multinacional; «215 treballadors» → mitjana."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**1.1.** Lletres a la columna de la dreta, de dalt a baix: **d, a, c, b**.\n\n| Frase | Dificultat |\n|---|---|\n| «No et podem concedir el finançament…» | *d*) Accés a finançament |\n| «…tens dues criatures petites…» | *a*) Conciliació de la vida professional i familiar |\n| «No pots ser gerenta…» | *c*) Discriminació de gènere |\n| «Aquesta feina requereix força…» | *b*) Estereotips de gènere |\n\n**1.2.**\n\n| Tipus d’empresa | Nombre mínim de socis | Responsabilitat dels socis | Capital mínim | Fiscalitat |\n|---|---|---|---|---|\n| Empresa individual | 1 (un sol titular; no hi ha socis) | Il·limitada | No hi ha capital mínim | IRPF |\n| Societat de responsabilitat limitada | 1 (SL unipersonal); 2 si no és unipersonal | Limitada al capital aportat | 1 € | Impost de societats |\n\nPer a la Marta i en Joan, la SL seria la forma més adient: protegeix el seu patrimoni personal i, amb 1 € de capital mínim, no els exigeix una gran aportació inicial.\n\n**1.3.**\n\n| Afirmació | Correcta o incorrecta? | Motiu |\n|---|---|---|\n| La SA té el capital dividit en participacions | Incorrecta | La SA és una societat capitalista amb el capital social dividit en **accions**; les participacions són de la SL. |\n| A la cooperativa, el capital mínim el fixen els estatuts | Correcta | |\n| El capital mínim de la SA és de 60.000 € | Correcta | |\n| A la SL i la SA la responsabilitat està limitada al capital aportat | Correcta | |\n| La SA unipersonal tributa per l’IRPF | Incorrecta | La SA sempre tributa per l’**impost de societats**; el nombre de socis no en determina la fiscalitat. |\n\n**1.4.**\n\n| Empresa | Sector | Dimensió | Àmbit geogràfic | Propietat del capital |\n|---|---|---|---|---|\n| Ramader de vaques | Primari | Microempresa (petita, pime) | Regional | Privada |\n| Investigació d’una malaltia | Quaternari (o terciari) | Gran | Internacional | Pública |\n| Filial de venda de roba | Terciari | Gran | Multinacional | Privada |\n| Manufactures venudes a tot Espanya | Secundari | Mitjana (pime) | Nacional | Privada |"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1.1",
+            "valor": "d, a, c, b (finançament – conciliació – discriminació – estereotips)."
+          },
+          {
+            "apartat": "1.2",
+            "valor": "Empresa individual: 1 titular (o «no hi ha socis»), responsabilitat il·limitada, sense capital mínim. SL: 1 soci (unipersonal) o 2, responsabilitat limitada al capital aportat, capital mínim d’1 €."
+          },
+          {
+            "apartat": "1.3",
+            "valor": "Incorrecta (SA: capital en accions), correcta, correcta, correcta, incorrecta (la SA tributa sempre per l’impost de societats)."
+          },
+          {
+            "apartat": "1.4",
+            "valor": "Primari/micro/regional/privat; quaternari (o terciari)/gran/internacional/públic; terciari/gran/multinacional/privat; secundari/mitjana/nacional/privat."
+          }
+        ],
+        "nota": "Errors típics: posar 3.000 € com a capital mínim de la SL (és la normativa anterior a la Llei 18/2022; els criteris oficials donen 1 €); dir que la SL necessita 2 socis com a mínim (també pot ser unipersonal); confondre accions (SA) amb participacions (SL); a l’1.4, confondre «internacional» (exporta) amb «multinacional» (té filials a altres països). Els criteris accepten «terciari» per a l’empresa d’investigació, perquè hi ha manuals que no inclouen el sector quaternari, i «no hi ha socis» per a l’empresa individual."
+      }
+    },
+    {
+      "id": "empresa-2024-J-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Naan, SA: balanç de situació, fons de maniobra, ràtio de liquiditat i accions per millorar-los",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "balanç de situació",
+        "masses patrimonials",
+        "immobilitzat intangible",
+        "fons de maniobra",
+        "ràtio de liquiditat",
+        "equilibri financer"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5,
+        7,
+        8
+      ],
+      "text": "L’empresa Naan, SA es dedica a la restauració i presenta, a 31 de desembre de 2023, la informació comptable següent. (Els imports estan expressats en milions d’euros.)\n\n| Concepte | Import (en milions d’euros) |\n|---|---:|\n| Aplicacions informàtiques | 2 |\n| Bancs i institucions de crèdit | 16 |\n| Caixa | 5 |\n| Capital / Capital social | 30 |\n| Construccions (activitat productiva de l’empresa) | 30 |\n| Creditors per prestació de serveis | 5 |\n| Deutes a curt termini amb entitats de crèdit | 1 |\n| Deutes a llarg termini amb entitats de crèdit | 3 |\n| Elements de transport | 2 |\n| Equips per a processos d’informació | 4 |\n| Hisenda pública creditora per conceptes fiscals | 5 |\n| Recerca i desenvolupament | 1 |\n| Maquinària | 4 |\n| Matèries primeres | 7 |\n| Mobiliari | 5 |\n| Organismes de la Seguretat Social creditors | 2 |\n| Organismes de la Seguretat Social deutors | 1 |\n| Existències de productes en curs | 2 |\n| Proveïdors | 10 |\n| Proveïdors de l’immobilitzat a curt termini | 4 |\n| Proveïdors de l’immobilitzat a llarg termini | 15 |\n| Reserves | 2 |\n| Resultat de l’exercici | 3 |\n| Utillatge | 1 |\n\n*Nota*: Tots els comptes de l’immobilitzat es presenten amb el valor net comptable (cost d’adquisició o cost de producció menys amortització acumulada).",
+      "enunciat": "Responeu els apartats 2.1, 2.2 i 2.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "punts": 1,
+          "enunciat": "A partir de les dades de l’enunciat, elaboreu el balanç de situació de l’empresa a 31 de desembre de 2023. Per fer-ho, tingueu en compte el següent:\n\n- Recordeu que sempre s’ha de complir la igualtat «total actiu = patrimoni net + passiu».\n- Si, en algun cas, dins d’una massa patrimonial hi ha diferents elements patrimonials, cal que detalleu aquests elements; és a dir, no us limiteu a agrupar i a escriure directament el valor total de la massa patrimonial: heu d’especificar els elements patrimonials que la integren i detallar l’import tant dels elements com de les masses patrimonials.\n- Només heu d’incloure en el balanç de situació aquelles masses o elements patrimonials que formen part de l’enunciat de l’exercici."
+        },
+        {
+          "id": "2.2",
+          "punts": 1,
+          "enunciat": "Tenint en compte el balanç de situació elaborat en l’apartat anterior, escriviu la fórmula tant del fons de maniobra com de la ràtio de liquiditat. A continuació, calculeu i interpreteu el fons de maniobra i la ràtio de liquiditat de l’empresa. Finalment, expliqueu quina relació hi ha entre aquests dos indicadors; és a dir, argumenteu si el fons de maniobra està directament relacionat amb la ràtio de liquiditat."
+        },
+        {
+          "id": "2.3",
+          "punts": 0.5,
+          "enunciat": "Imagineu que voleu millorar el fons de maniobra i la ràtio de liquiditat d’una empresa: expliqueu dues accions concretes que duríeu a terme per aconseguir-ho."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de comptabilitat en tres parts: (2.1) **balanç de situació** detallat, (2.2) **fons de maniobra i ràtio de liquiditat** amb fórmula, càlcul, interpretació i relació entre tots dos, i (2.3) **dues accions** per millorar-los. Dedica-hi uns 15 minuts al balanç, 10 al 2.2 i 5 al 2.3.\n\nA diferència d’altres anys, aquí no hi ha cap incògnita: totes les dades hi són, i el balanç ha de quadrar sol (80 = 80). Si no et quadra, revisa la classificació abans de continuar. L’enunciat exigeix **detallar els elements** dins de cada massa: si només poses els totals, perds punts."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Immobilitzat intangible**: recerca i desenvolupament 1 + aplicacions informàtiques 2 = **3**.\n2. **Immobilitzat material**: construccions 30 + maquinària 4 + utillatge 1 + mobiliari 5 + elements de transport 2 + equips per a processos d’informació 4 = **46**.\n3. **Actiu no corrent** = 3 + 46 = **49**.\n4. **Actiu corrent**: existències (matèries primeres 7 + productes en curs 2 = 9) + deutors (Seguretat Social deutora 1) + efectiu (bancs 16 + caixa 5 = 21) = **31**.\n5. **Total actiu** = 49 + 31 = **80**.\n6. **Patrimoni net**: capital 30 + reserves 2 + resultat 3 = **35**.\n7. **Passiu no corrent**: proveïdors d’immobilitzat a llarg termini 15 + deutes a llarg termini amb entitats de crèdit 3 = **18**.\n8. **Passiu corrent**: proveïdors 10 + creditors per prestació de serveis 5 + proveïdors d’immobilitzat a curt termini 4 + deutes a curt termini amb entitats de crèdit 1 + Hisenda pública creditora 5 + Seguretat Social creditora 2 = **27**.\n9. Comprovació: $35 + 18 + 27 = 80$ = total actiu.\n\nParanys: la **Seguretat Social deutora** és un dret de cobrament (actiu corrent), mentre que la **creditora** és un deute (passiu corrent). La **recerca i desenvolupament** i les **aplicacions informàtiques** són immobilitzat **intangible**, no material. Els **proveïdors d’immobilitzat** no són proveïdors comercials: el termini decideix si van al passiu corrent o al no corrent."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "**Balanç de situació de Naan, SA a 31-12-2023 (milions d’euros)**\n\n| ACTIU | | PATRIMONI NET I PASSIU | |\n|---|---:|---|---:|\n| **ACTIU NO CORRENT** | **49** | **PATRIMONI NET** | **35** |\n| *Immobilitzat intangible* | *3* | Capital social | 30 |\n| Recerca i desenvolupament | 1 | Reserves | 2 |\n| Aplicacions informàtiques | 2 | Resultat de l’exercici | 3 |\n| *Immobilitzat material* | *46* | **PASSIU NO CORRENT** | **18** |\n| Construccions | 30 | Proveïdors d’immobilitzat a llarg termini | 15 |\n| Maquinària | 4 | Deutes a llarg termini amb entitats de crèdit | 3 |\n| Utillatge | 1 | **PASSIU CORRENT** | **27** |\n| Mobiliari | 5 | Proveïdors | 10 |\n| Elements de transport | 2 | Creditors per prestació de serveis | 5 |\n| Equips per a processos d’informació | 4 | Proveïdors d’immobilitzat a curt termini | 4 |\n| **ACTIU CORRENT** | **31** | Deutes a curt termini amb entitats de crèdit | 1 |\n| *Existències* | *9* | Hisenda pública creditora per conceptes fiscals | 5 |\n| Matèries primeres | 7 | Organismes de la Seguretat Social creditors | 2 |\n| Productes en curs | 2 | | |\n| *Deutors comercials i altres comptes a cobrar* | *1* | | |\n| Organismes de la Seguretat Social deutors | 1 | | |\n| *Efectiu i altres actius líquids equivalents* | *21* | | |\n| Bancs i institucions de crèdit | 16 | | |\n| Caixa | 5 | | |\n| **TOTAL ACTIU** | **80** | **TOTAL PATRIMONI NET I PASSIU** | **80** |"
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Per a cada indicador: **fórmula → càlcul → interpretació**, i al final la **relació** entre tots dos.\n\n$$\\text{FM} = \\text{AC} - \\text{PC} = 31 - 27 = 4 \\text{ milions d’euros}$$\n\n(També: $\\text{FM} = (\\text{PN} + \\text{PNC}) - \\text{ANC} = (35 + 18) - 49 = 4$.)\n\n$$\\text{Liquiditat} = \\frac{\\text{AC}}{\\text{PC}} = \\frac{31}{27} = 1{,}148$$\n\nValor orientatiu de la ràtio de liquiditat: entre 1,5 i 2 (alguns manuals diuen entre 1 i 2). Per sobre d’1 vol dir que l’actiu corrent cobreix el passiu corrent; per sota de l’interval òptim, el marge és just.\n\nRelació: tots dos indicadors es calculen amb les **mateixes masses** (AC i PC). Si $\\text{AC} > \\text{PC}$, aleshores $\\text{FM} > 0$ i $\\text{L} > 1$; si $\\text{AC} < \\text{PC}$, aleshores $\\text{FM} < 0$ i $\\text{L} < 1$. Un mesura la diferència en valor absolut (euros) i l’altre la proporció (ràtio)."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "**Fons de maniobra**\n\n- Fórmula: $\\text{FM} = \\text{Actiu corrent} - \\text{Passiu corrent}$.\n- Càlcul: $\\text{FM} = 31 - 27 = 4$ milions d’euros.\n- Interpretació: el fons de maniobra és **positiu**: l’empresa té 4 milions d’euros d’actiu corrent finançats amb recursos permanents (patrimoni net i passiu no corrent). Això vol dir que, en principi, pot pagar els deutes a curt termini (27 milions) amb els actius a curt termini (31 milions): l’empresa està en **equilibri financer** i no té risc immediat de suspensió de pagaments.\n\n**Ràtio de liquiditat**\n\n- Fórmula: $\\text{Liquiditat} = \\dfrac{\\text{Actiu corrent}}{\\text{Passiu corrent}}$.\n- Càlcul: $\\text{L} = \\dfrac{31}{27} = 1{,}148$.\n- Interpretació: la ràtio és superior a 1, de manera que per cada euro de deute a curt termini l’empresa té 1,15 euros d’actiu corrent i pot fer front als seus compromisos a curt termini. Ara bé, queda per sota de l’interval òptim (1,5-2): el marge de seguretat és petit, sobretot perquè una part de l’actiu corrent són existències (matèries primeres i productes en curs, 9 milions) que no es poden convertir en diners de manera immediata. Podria tenir alguna tensió de tresoreria.\n\n**Relació entre tots dos indicadors**\n\nSí, estan directament relacionats: tots dos es calculen a partir de l’actiu corrent i el passiu corrent. Quan $\\text{AC} \\geq \\text{PC}$, el fons de maniobra és positiu o nul ($\\text{FM} \\geq 0$) i la ràtio de liquiditat és igual o superior a 1 ($\\text{L} \\geq 1$); quan $\\text{AC} < \\text{PC}$, $\\text{FM} < 0$ i $\\text{L} < 1$. El fons de maniobra expressa la diferència en euros i la ràtio, la proporció. A Naan, SA, $\\text{FM} = 4$ milions i $\\text{L} = 1{,}148$: tots dos indiquen una situació financera a curt termini sana, tot i que caldria completar l’anàlisi amb altres ràtios (tresoreria, solvència, endeutament)."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Com que $\\text{FM} = \\text{AC} - \\text{PC}$ i $\\text{L} = \\text{AC}/\\text{PC}$, qualsevol acció que **augmenti l’actiu corrent sense augmentar el passiu corrent** o que **redueixi el passiu corrent sense reduir l’actiu corrent** els millora tots dos. Només en demanen **dues**: tria-les i, per a cadascuna, explica quina massa patrimonial canvia i per què millora el FM i la ràtio."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Resposta model",
+            "cos": "1. **Ampliació de capital** (aportacions dels socis en diners): augmenta el patrimoni net i, alhora, l’efectiu (actiu corrent), mentre que el passiu corrent no varia. Com que l’AC creix i el PC es manté, augmenten tant el fons de maniobra com la ràtio de liquiditat.\n\n2. **Renegociar els deutes a curt termini perquè passin a llarg termini** (per exemple, allargar el termini de pagament als proveïdors d’immobilitzat o convertir el deute bancari a curt en un préstec a llarg): el passiu corrent disminueix i el passiu no corrent augmenta, mentre que l’actiu corrent no varia. Com que el PC es redueix, el FM i la ràtio de liquiditat augmenten.\n\nAltres accions vàlides: augmentar les vendes amb benefici, vendre immobilitzat ociós per obtenir liquiditat, millorar la gestió de cobraments dels clients o demanar un préstec a llarg termini."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "ANC 49 (intangible 3: R+D 1 i aplicacions informàtiques 2; material 46). AC 31 (existències 9, deutors 1, efectiu 21). PN 35, PNC 18, PC 27. Total 80 = 80, amb tots els elements detallats."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "FM = AC − PC = 31 − 27 = 4 milions € (positiu: equilibri financer). L = AC/PC = 31/27 = 1,148 (> 1, pot pagar a curt termini, però per sota de l’òptim 1,5-2). Relació directa: mateixes masses; AC ≥ PC ⇔ FM ≥ 0 ⇔ L ≥ 1."
+          },
+          {
+            "apartat": "2.3",
+            "valor": "Dues accions argumentades: ampliació de capital, vendes amb benefici, allargar terminis amb proveïdors d’immobilitzat o bancs (passar deute de curt a llarg), millorar cobraments, vendre immobilitzat ociós, línia de crèdit."
+          }
+        ],
+        "nota": "Errors típics: posar la recerca i desenvolupament o les aplicacions informàtiques a l’immobilitzat material; classificar la Seguretat Social deutora al passiu; posar els proveïdors d’immobilitzat a curt termini amb els proveïdors comercials però sense separar-los dels de llarg termini; no detallar els elements de cada massa. Al 2.2, la interpretació de la ràtio depèn del valor òptim que prenguis (1-2 o 1,5-2): els criteris accepten les dues lectures (pot pagar / marge just) sempre que estiguin ben argumentades. Recorda que un error de càlcul només es descompta una vegada."
+      }
+    },
+    {
+      "id": "empresa-2024-J-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Voramar, SA: compte de pèrdues i guanys, rendibilitat econòmica i financera, i VAN de dos projectes d’internacionalització",
+      "tema": "comptabilitat",
+      "temes_secundaris": [
+        "financament"
+      ],
+      "conceptes": [
+        "compte de pèrdues i guanys",
+        "baii",
+        "benefici net",
+        "rendibilitat econòmica",
+        "rendibilitat financera",
+        "van",
+        "selecció d’inversions"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8,
+        10
+      ],
+      "text": "L’empresa Voramar, SA presenta, a 31 de desembre de 2023, les dades comptables següents. (Els imports estan expressats en milers d’euros.)\n\n| Concepte | Import (en milers d’euros) |\n|---|---:|\n| Altres despeses d’explotació | 115 |\n| Despeses de personal | 105 |\n| Aprovisionament o proveïment (compres +/– variació d’existències comercials i matèries primeres) | 9,2 |\n| Despeses financeres | 2,1 |\n| Amortització de l’immobilitzat | 4,2 |\n| Import de la xifra de negoci | 245 |\n| Impost sobre beneficis | 2,8 |",
+      "enunciat": "Responeu els apartats 3.1, 3.2 i 3.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "3.1",
+          "punts": 1,
+          "enunciat": "Elaboreu el compte de pèrdues i guanys de l’empresa Voramar, SA, indicant de manera detallada els càlculs que heu fet per a obtenir el resultat d’explotació, el benefici abans d’interessos i impostos (BAII), el benefici abans d’impostos (BAI) i el benefici net (BN). Per a l’elaboració del compte de pèrdues i guanys, no cal que hi poseu les partides que no es faciliten en l’enunciat."
+        },
+        {
+          "id": "3.2",
+          "punts": 1,
+          "enunciat": "Escriviu les fórmules de la rendibilitat econòmica i de la rendibilitat financera. A continuació, calculeu-les i interpreteu-ne el valor per a l’exercici 2023 de l’empresa Voramar, SA utilitzant les dades obtingudes en l’apartat anterior i tenint en compte que l’actiu total va tenir un valor de 98 milers d’euros i que els recursos aliens (passiu corrent + passiu no corrent) van ser de 51 milers d’euros. Expresseu els resultats obtinguts en percentatge."
+        },
+        {
+          "id": "3.3",
+          "punts": 0.5,
+          "enunciat": "Un grup d’inversors vol posar en marxa un determinat projecte per a aquesta empresa consistent a internacionalitzar-la. El dubte és si obrir mercat a la Xina (projecte A) o al Japó (projecte B). Les dues alternatives (projectes A i B) impliquen diferents desemborsaments inicials i també diferents fluxos de caixa nets (FCN) al llarg d’un cicle de vida del negoci de tres anys, tal com es recull a la taula següent:\n\n| | Desemborsament inicial | FCN (any 1) | FCN (any 2) | FCN (any 3) |\n|---|---:|---:|---:|---:|\n| Projecte A | 1.000 € | 600 € | 900 € | 200 € |\n| Projecte B | 2.200 € | 800 € | 1.000 € | 400 € |\n\nSi aquests dos projectes s’avaluen amb l’aplicació del criteri del valor actual net (VAN) sabent que la taxa d’actualització és del 2 %, quin dels dos projectes hauria d’elegir el grup inversor? Raoneu la resposta. No us limiteu a dir si el valor obtingut és positiu o negatiu; expliqueu què significa que, un cop calculat el VAN per a cada projecte, el valor obtingut sigui més gran o més petit que zero."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici numèric amb tres parts: (3.1) **compte de pèrdues i guanys** escalonat, (3.2) **rendibilitat econòmica i financera** (fórmula, càlcul en % i interpretació) i (3.3) **VAN** de dos projectes amb elecció raonada. Els resultats del 3.1 alimenten el 3.2: si t’equivoques al 3.1 però apliques bé les fórmules al 3.2, no et tornen a descomptar. Dedica-hi uns 10 minuts per apartat. Al 3.3 et demanen explícitament explicar **què significa** VAN > 0 o VAN < 0: no et limitis al signe."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Segueix l’ordre del compte de resultats:\n\n1. **Ingressos d’explotació**: import de la xifra de negoci (245).\n2. **Despeses d’explotació**: aprovisionaments, personal, amortització i altres despeses (totes són de l’activitat principal).\n3. Resultat d’explotació = ingressos − despeses d’explotació = **BAII** (no hi ha ingressos financers).\n4. Resultat financer = ingressos financers − despeses financeres.\n5. BAI = BAII + resultat financer.\n6. BN = BAI − impost sobre beneficis.\n\nAtenció: l’**amortització** és una despesa d’explotació, i les **despeses financeres** (interessos) no hi entren fins després del BAII."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Resposta model",
+            "cos": "**Compte de pèrdues i guanys de Voramar, SA (exercici 2023, milers d’euros)**\n\n| Concepte | Import |\n|---|---:|\n| Import net de la xifra de negocis | 245 |\n| − Aprovisionaments | −9,2 |\n| − Despeses de personal | −105 |\n| − Amortització de l’immobilitzat | −4,2 |\n| − Altres despeses d’explotació | −115 |\n| **= Resultat d’explotació (BAII)** | **11,6** |\n| − Despeses financeres | −2,1 |\n| **Resultat financer** | **−2,1** |\n| **= Resultat abans d’impostos (BAI)** | **9,5** |\n| − Impost sobre beneficis | −2,8 |\n| **= Resultat net (BN)** | **6,7** |\n\nCàlculs:\n\n- Despeses d’explotació $= 9{,}2 + 105 + 4{,}2 + 115 = 233{,}4$ milers d’euros.\n- Resultat d’explotació $= 245 - 233{,}4 = 11{,}6$ milers d’euros. Com que no hi ha ingressos financers, $\\text{BAII} = 11{,}6$.\n- $\\text{BAI} = \\text{BAII} + \\text{resultat financer} = 11{,}6 - 2{,}1 = 9{,}5$ milers d’euros.\n- $\\text{BN} = \\text{BAI} - \\text{impost} = 9{,}5 - 2{,}8 = 6{,}7$ milers d’euros."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Primer cal el **patrimoni net**, que no es dona directament: a partir de la igualtat $\\text{Actiu} = \\text{PN} + \\text{Passiu}$,\n\n$$\\text{PN} = 98 - 51 = 47 \\text{ milers d’euros}$$\n\nDesprés:\n\n$$\\text{RE} = \\frac{\\text{BAII}}{\\text{Actiu total}} \\cdot 100 = \\frac{11{,}6}{98} \\cdot 100 = 11{,}84\\,\\%$$\n\n$$\\text{RF} = \\frac{\\text{BN}}{\\text{Patrimoni net}} \\cdot 100 = \\frac{6{,}7}{47} \\cdot 100 = 14{,}26\\,\\%$$\n\nLa RE fa servir el BAII (resultat de l’activitat, abans de pagar el finançament) perquè mesura el rendiment de **tots** els actius, independentment de com s’han finançat. La RF fa servir el BN perquè mesura el que queda per als **propietaris**."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Resposta model",
+            "cos": "**Rendibilitat econòmica (ROA)**\n\n- Fórmula: $\\text{RE} = \\dfrac{\\text{BAII}}{\\text{Actiu total}} \\cdot 100$.\n- Càlcul: $\\text{RE} = \\dfrac{11{,}6}{98} \\cdot 100 = 11{,}84\\,\\%$.\n- Interpretació: la rendibilitat econòmica mesura la capacitat dels actius de l’empresa per generar beneficis, sense tenir en compte com s’han finançat. A Voramar, SA, cada 100 euros invertits en actiu han generat 11,84 euros de BAII. Com més alta, més eficient és la gestió dels actius.\n\n**Rendibilitat financera (ROE)**\n\n- Fórmula: $\\text{RF} = \\dfrac{\\text{BN}}{\\text{Patrimoni net}} \\cdot 100$.\n- Patrimoni net: $\\text{PN} = \\text{Actiu} - \\text{Passiu} = 98 - 51 = 47$ milers d’euros.\n- Càlcul: $\\text{RF} = \\dfrac{6{,}7}{47} \\cdot 100 = 14{,}26\\,\\%$.\n- Interpretació: la rendibilitat financera mesura el rendiment que obtenen els socis pels recursos propis que han aportat. A Voramar, SA, per cada 100 euros de recursos propis s’han obtingut 14,26 euros de benefici net. Com que la RF (14,26 %) és superior a la RE (11,84 %), l’endeutament de l’empresa està afavorint la rendibilitat dels socis (palanquejament financer positiu)."
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Com plantejar-ho",
+            "cos": "El VAN actualitza cada flux de caixa al moment inicial i hi resta el desemborsament:\n\n$$\\text{VAN} = -D_0 + \\frac{\\text{FCN}_1}{(1+k)} + \\frac{\\text{FCN}_2}{(1+k)^2} + \\frac{\\text{FCN}_3}{(1+k)^3}, \\quad k = 0{,}02$$\n\n$$\\text{VAN}_A = -1000 + \\frac{600}{1{,}02} + \\frac{900}{1{,}02^2} + \\frac{200}{1{,}02^3} = -1000 + 588{,}24 + 865{,}05 + 188{,}46 = 641{,}75$$\n\n$$\\text{VAN}_B = -2200 + \\frac{800}{1{,}02} + \\frac{1000}{1{,}02^2} + \\frac{400}{1{,}02^3} = -2200 + 784{,}31 + 961{,}17 + 376{,}93 = -77{,}59$$\n\nCriteri: un projecte només és acceptable si VAN > 0, i entre diversos projectes acceptables es tria el de VAN més alt."
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Resposta model",
+            "cos": "- $\\text{VAN}_A = 641{,}75$ €.\n- $\\text{VAN}_B = -77{,}59$ €.\n\nEl grup inversor ha d’escollir el **projecte A (internacionalitzar-se a la Xina)**.\n\nEl VAN és un mètode **dinàmic** de selecció d’inversions: suma tots els fluxos de caixa actualitzats al moment inicial a la taxa de descompte (2 %), de manera que té en compte que un euro d’avui val més que un euro de demà. Un **VAN positiu** (projecte A) significa que els fluxos de caixa actualitzats superen el desemborsament inicial: el projecte recupera la inversió, cobreix el cost del capital i, a més, genera una riquesa addicional de 641,75 € en valor d’avui. Un **VAN negatiu** (projecte B) significa que els fluxos actualitzats no arriben a recuperar el desemborsament: el projecte destruiria valor (77,59 € en valor actual) i s’ha de rebutjar. Si el VAN fos zero, el projecte seria indiferent."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "3.1",
+            "valor": "Despeses d’explotació 233,4; resultat d’explotació = BAII = 11,6; resultat financer −2,1; BAI = 9,5; BN = 6,7 (milers d’euros)."
+          },
+          {
+            "apartat": "3.2",
+            "valor": "RE = BAII / actiu = 11,6/98 = 11,84 %. PN = 98 − 51 = 47. RF = BN / PN = 6,7/47 = 14,26 %. Interpretació: per cada 100 € d’actiu, 11,84 € de BAII; per cada 100 € de recursos propis, 14,26 € de BN."
+          },
+          {
+            "apartat": "3.3",
+            "valor": "VAN A = 641,75 € > 0; VAN B = −77,59 € < 0. Triar el projecte A (Xina). VAN > 0: els fluxos actualitzats superen el desemborsament i es crea valor; VAN < 0: es rebutja."
+          }
+        ],
+        "nota": "Errors típics: restar les despeses financeres abans del BAII; oblidar l’amortització com a despesa d’explotació; calcular la RF dividint pel total actiu o pels recursos aliens en lloc del patrimoni net (cal calcular-lo: 98 − 51 = 47); no expressar els resultats en percentatge. Al VAN, vigila els exponents i usa la taxa en tant per u (0,02). Discrepància menor a l’oficial: als criteris del 3.3 les fórmules porten l’etiqueta «VAN (0,05)», però els càlculs es fan correctament al 2 % i els resultats (641,75 € i −77,59 €) coincideixen amb els nostres."
+      }
+    },
+    {
+      "id": "empresa-2024-J-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Patrons de models de negoci, mapa d’empatia, storytelling i elevator pitch, i matriu ERIC",
+      "tema": "models-negoci",
+      "temes_secundaris": [
+        "marqueting"
+      ],
+      "conceptes": [
+        "freemium",
+        "long tail",
+        "plataformes multicara",
+        "mapa d’empatia",
+        "storytelling",
+        "elevator pitch",
+        "matriu eric",
+        "oceà blau"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11,
+        12,
+        13
+      ],
+      "text": "",
+      "enunciat": "Responeu els apartats 4.1 a 4.4.",
+      "figures": [
+        {
+          "src": "img/empresa/2024-J/e4.png",
+          "peu": "Esquema del mapa d’empatia de l’apartat 4.2 (caselles buides al voltant de l’Ainhoa, patinadora professional de setze anys)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "4.1",
+          "punts": 0.6,
+          "enunciat": "Expliqueu breument en què consisteixen els següents patrons o models de negoci i, en cada cas, escriviu un exemple d’empresa que segueixi el model. (Tingueu en compte que l’exemple ha de ser diferent per a cada model.)\n\na) Freemium\n\nb) Long tail\n\nc) Multiplataforma\n\nd) Basat en aplicacions mòbils"
+        },
+        {
+          "id": "4.2",
+          "punts": 1,
+          "enunciat": "Expliqueu breument en què consisteix un *mapa d’empatia* de clients.\n\nA continuació, escriviu, dins de les caselles de l’esquema següent, el nom de les sis parts del model i també la lletra corresponent a les sis frases que fan referència a l’Ainhoa, una patinadora professional de setze anys que s’entrena per a un campionat. Tingueu en compte que cada lletra només pot anar a una casella.\n\n*a*) L’Ainhoa veu que les seves companyes entrenen una hora més que ella.\n\n*b*) L’Ainhoa escolta els consells de les seves entrenadores, que han participat en campionats similars al seu.\n\n*c*) L’Ainhoa diu que no té gaire temps per a preparar-se per al campionat. Hauria de deixar altres activitats per a dedicar-se a entrenar.\n\n*d*) L’Ainhoa pensa que vol quedar entre les deu primeres, però sent que les seves companyes són millors que ella i no té més temps per a entrenar.\n\n*e*) L’Ainhoa es desconcentra sovint perquè no obté el resultat desitjat. Això fa que perdi interès en la competició perquè no veu recompensat el seu esforç.\n\n*f*) Els resultats que pretén obtenir l’Ainhoa són: gaudir de la competició i quedar entre les deu primeres."
+        },
+        {
+          "id": "4.3",
+          "punts": 0.4,
+          "enunciat": "Expliqueu breument en què consisteix la narració d’històries (o *storytelling*) i el discurs de l’ascensor (o *elevator pitch*)."
+        },
+        {
+          "id": "4.4",
+          "punts": 0.5,
+          "enunciat": "Expliqueu breument en què consisteix l’anàlisi de la matriu ERIC i descriviu quin és el propòsit principal de la fase reduir (R) de la matriu ERIC."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici teòric de **disseny de models de negoci**: patrons de negoci, mapa d’empatia, eines de comunicació (storytelling i elevator pitch) i matriu ERIC. Les respostes han de ser **breus i precises** (2-4 línies per concepte) i, on es demana, amb un **exemple** real i diferent per a cada cas. L’apartat que pesa més és el 4.2 (1 punt): definició del mapa d’empatia + nom de les sis parts + col·locar les sis lletres a l’esquema. Uns 20 minuts en total."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Per a cada patró: **idea central** (com genera valor i ingressos) + **exemple** (que no es repeteixi).\n\n- *Freemium*: free + premium; la major part dels usuaris no paguen i una minoria paga per funcions avançades.\n- *Long tail* (cua llarga): vendre poques unitats de moltíssims productes de nínxol; la suma de vendes de la «cua» és important.\n- *Multiplataforma*: reuneix dos o més grups de clients interdependents; el valor creix amb el nombre d’usuaris (efecte xarxa).\n- *Basat en aplicacions mòbils*: el producte o servei es presta a través d’una app que l’usuari instal·la al dispositiu."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Resposta model",
+            "cos": "a) **Freemium**: model en què el servei bàsic s’ofereix gratuïtament a tots els usuaris i només una part d’ells paga per una versió prèmium amb més funcions o millors condicions; els usuaris de pagament financen els gratuïts. Exemple: **Spotify**.\n\nb) **Long tail** (cua llarga): consisteix a vendre poques unitats d’una gran varietat de productes de nínxol, en lloc de moltes unitats de pocs productes d’èxit; la suma de totes aquestes vendes petites genera un volum important. Exemple: **Amazon** (o una llibreria en línia amb un catàleg molt ampli).\n\nc) **Multiplataforma**: reuneix dos o més grups de clients diferents però interdependents (per exemple, compradors i venedors, o usuaris i anunciants); la plataforma té valor per a un grup només si l’altre també hi és, i es fa més forta com més usuaris hi entren (efecte xarxa). Exemple: **Airbnb** (amfitrions i hostes).\n\nd) **Basat en aplicacions mòbils**: el negoci ofereix el seu producte o servei a través d’una aplicació que l’usuari instal·la al mòbil o la tauleta, per a gestions, compres o entreteniment. Exemple: **Glovo** (o l’app d’un banc o d’un supermercat)."
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Com plantejar-ho",
+            "cos": "El mapa d’empatia té **sis parts**: quatre al voltant del client (què **pensa i sent**, què **sent/escolta**, què **veu**, què **diu i fa**) i dues a la part inferior (**esforços/obstacles** i **resultats/què vol aconseguir**). A l’esquema, la casella de dalt és «què pensa i sent», la de l’esquerra «què escolta», la de la dreta «què veu», la de baix «què diu i fa», i les dues de la franja inferior, «esforços» (esquerra) i «resultats» (dreta).\n\nPer col·locar les lletres, busca el verb clau de cada frase:\n\n- *a*) «**veu**» → Què veu?\n- *b*) «**escolta**» → Què sent/escolta?\n- *c*) «**diu**» → Què diu i fa?\n- *d*) «**pensa** … **sent**» → Què pensa i sent?\n- *e*) obstacle (es desconcentra, perd interès) → Quins obstacles ha de superar?\n- *f*) «**resultats que pretén obtenir**» → Què vol aconseguir?"
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Resposta model",
+            "cos": "El **mapa d’empatia** és una eina de disseny de models de negoci que permet conèixer a fons i caracteritzar el client prototip (el segment de clients) posant-se en el seu lloc: què pensa, què sent, què veu, què escolta, què diu i fa, quines frustracions té i què vol aconseguir. Serveix per detectar les seves necessitats reals i dissenyar una proposta de valor que hi encaixi. Per elaborar-lo: segmentar, humanitzar, empatitzar i validar.\n\nEsquema completat:\n\n| Posició a l’esquema | Part del model | Lletra |\n|---|---|---|\n| Dalt | Què pensa i sent? | *d* |\n| Esquerra | Què sent/escolta? | *b* |\n| Dreta | Què veu? | *a* |\n| Baix | Què diu i fa? | *c* |\n| Franja inferior esquerra | Quins obstacles (esforços) ha de superar? | *e* |\n| Franja inferior dreta | Què vol aconseguir? (resultats) | *f* |"
+          },
+          {
+            "apartat": "4.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues definicions breus. Storytelling → comunicar amb **històries** que emocionen. Elevator pitch → presentació **molt curta** (45 segons - 1 minut) per **persuadir** inversors o clients."
+          },
+          {
+            "apartat": "4.3",
+            "titol": "Resposta model",
+            "cos": "La **narració d’històries** (*storytelling*) és una tècnica de comunicació que consisteix a transmetre un missatge (sobre l’empresa, el producte o la marca) en forma d’història, amb paraules, imatges, música o sons, per connectar emocionalment amb l’audiència i fer que el missatge es recordi i commogui.\n\nEl **discurs de l’ascensor** (*elevator pitch*) és una presentació breu, clara i impactant d’un projecte o idea de negoci, d’entre 45 segons i un minut (el que dura un viatge en ascensor), amb l’objectiu de despertar l’interès i persuadir l’interlocutor (inversors, clients, superiors)."
+          },
+          {
+            "apartat": "4.4",
+            "titol": "Com plantejar-ho",
+            "cos": "La matriu ERIC és l’eina de l’**estratègia de l’oceà blau**: quatre quadrants (**E**liminar, **R**eduir, **I**ncrementar, **C**rear) per replantejar la proposta de valor. Explica què és en conjunt i després concreta la fase **reduir**: rebaixar per sota de l’estàndard del sector aquells atributs que el client no valora prou, per estalviar costos."
+          },
+          {
+            "apartat": "4.4",
+            "titol": "Resposta model",
+            "cos": "La **matriu ERIC** és una eina estratègica de quatre quadrants (eliminar, reduir, incrementar i crear) que serveix per qüestionar el model de negoci i la proposta de valor d’una empresa respecte als estàndards del sector, amb l’objectiu de diferenciar-se de la competència i crear valor per al client (és l’eina pròpia de l’estratègia de l’oceà blau).\n\nEl propòsit de la fase **reduir** és identificar els atributs, característiques o funcionalitats del producte o servei que es poden simplificar o rebaixar per sota del nivell habitual del sector perquè no són essencials per als clients, i així **reduir costos** sense perdre valor percebut."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "4.1",
+            "valor": "Freemium: gratuït amb una part prèmium de pagament (Spotify, Dropbox). Long tail: poques unitats de molts productes (llibreria). Multiplataforma: dos o més grups de clients interdependents, efecte xarxa (Amazon, Google). Apps mòbils: servei a través d’una aplicació (apps de bancs, supermercats). Exemple diferent per a cada model."
+          },
+          {
+            "apartat": "4.2",
+            "valor": "Eina per conèixer i caracteritzar el client prototip; sis parts. Pensa i sent: d; sent/escolta: b; veu: a; diu i fa: c; obstacles/esforços: e; què vol aconseguir: f."
+          },
+          {
+            "apartat": "4.3",
+            "valor": "Storytelling: transmetre missatges amb històries que emocionen. Elevator pitch: presentació impactant i ràpida (45 s - 1 min) per persuadir inversors o clients."
+          },
+          {
+            "apartat": "4.4",
+            "valor": "Matriu de quatre quadrants (eliminar, reduir, incrementar, crear) per qüestionar el model de negoci i diferenciar-se. Reduir: simplificar o minimitzar característiques no essencials per als clients i reduir costos."
+          }
+        ],
+        "nota": "Errors típics: repetir el mateix exemple en dos models (l’enunciat ho prohibeix); al mapa d’empatia, confondre «què pensa i sent» amb «què escolta» (la clau és el verb de la frase) o deixar sense escriure el nom de les parts (també puntuen). Als criteris oficials, qualsevol exemple que s’ajusti al patró es dona per bo. A la matriu ERIC, no confonguis «reduir» (rebaixar) amb «eliminar» (suprimir del tot)."
+      }
+    },
+    {
+      "id": "empresa-2024-J-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Harley-Davidson: anàlisi DAFO, propietat industrial i intel·lectual, i metodologia lean startup",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "emprenedoria"
+      ],
+      "conceptes": [
+        "anàlisi dafo",
+        "fortaleses i debilitats",
+        "oportunitats i amenaces",
+        "propietat industrial",
+        "propietat intel·lectual",
+        "lean startup",
+        "producte mínim viable"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        13,
+        14,
+        15
+      ],
+      "text": "L’empresa Harley-Davidson es trobava en una fase de maduresa, amb una reducció progressiva de la taxa de creixement (un factor que fa que les possibilitats de creixement natural de l’empresa es redueixin). Calia, doncs, passar de la supervivència a la renovació. El CEO (o executiu en cap) de l’empresa va fer la llista següent amb els factors (positius i negatius) que tenien una incidència directa sobre els resultats econòmics i financers de l’empresa:\n\n*a*) Hi ha una entrada de nous competidors amb costos més baixos, com ara les empreses japoneses fabricants de motos.\n\n*b*) Hi ha un increment de les vendes dels productes substitutius.\n\n*c*) L’empresa té els recursos financers adequats.\n\n*d*) L’empresa té una bona imatge de cara als consumidors.\n\n*e*) Aquest sector permet entrar a nous mercats o segments com, per exemple, el de les bicicletes i els patinets, la qual cosa seria beneficiosa per al mercat i per a aquesta empresa.\n\n*f*) De totes les empreses que competeixen en el sector, s’ha retirat el seu principal competidor.\n\n*g*) L’empresa té uns costos variables unitaris més alts que els seus competidors directes.\n\n*h*) Els treballadors i els directius tenen poca visió de futur perquè pensaven que la marca Harley no podia perdre quota de mercat.\n\n*i*) Els directius han escollit un preu més alt que els competidors, cosa que els està frenant les vendes.\n\n*j*) Hi ha un canvi en les necessitats i els gustos dels consumidors en favor d’altres productes de dues rodes i a això s’hi afegeix una situació internacional de crisi.\n\n*k*) L’empresa té productes (marques) ben diferenciats i valorats al mercat, la qual cosa fa que es distingeixin respecte als de la competència.\n\n*l*) Els treballadors són un avantatge competitiu per a l’empresa.",
+      "enunciat": "Llegiu la informació sobre Harley-Davidson i responeu els apartats 5.1, 5.2 i 5.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "5.1",
+          "punts": 1.2,
+          "enunciat": "Feu l’anàlisi DAFO d’aquesta empresa col·locant la lletra corresponent a cada factor (*a*, *b*, *c*, *d*, *e*, *f*, *g*, *h*, *i*, *j*, *k*, *l*) a la casella corresponent. Tingueu en compte que cada lletra només pot anar a una casella.\n\n| Fortaleses de l’empresa | Debilitats de l’empresa |\n|---|---|\n| | |\n\n| Oportunitats de l’entorn | Amenaces de l’entorn |\n|---|---|\n| | |"
+        },
+        {
+          "id": "5.2",
+          "punts": 0.8,
+          "enunciat": "Expliqueu els conceptes *propietat industrial* i *propietat intel·lectual* i poseu un exemple de cadascun."
+        },
+        {
+          "id": "5.3",
+          "punts": 0.5,
+          "enunciat": "Expliqueu breument per a què s’utilitza la metodologia *lean startup* i concreteu en què consisteixen els seus passos clau: crear (o construir), aprendre i mesurar."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici teòric en tres parts: (5.1) **DAFO** classificant dotze factors, (5.2) **propietat industrial i intel·lectual** amb exemples i (5.3) metodologia **lean startup**. El 5.1 és el que pesa més (1,2 punts, 0,1 per lletra): primer decideix si el factor és **intern** (depèn de l’empresa: fortalesa o debilitat) o **extern** (entorn: oportunitat o amenaça), i després si és **positiu** o **negatiu**. Uns 20 minuts en total."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Doble pregunta per a cada lletra: intern o extern? positiu o negatiu?\n\n- **Interns positius (fortaleses)**: *c* (recursos financers adequats), *d* (bona imatge), *k* (productes diferenciats i valorats), *l* (treballadors com a avantatge competitiu).\n- **Interns negatius (debilitats)**: *g* (costos variables unitaris més alts), *h* (poca visió de futur de treballadors i directius), *i* (preu massa alt, decisió dels directius).\n- **Externs positius (oportunitats)**: *e* (possibilitat d’entrar a nous segments: bicicletes, patinets), *f* (retirada del principal competidor).\n- **Externs negatius (amenaces)**: *a* (nous competidors amb costos baixos), *b* (augment de vendes de substitutius), *j* (canvi de gustos i crisi internacional).\n\nCompte amb *i*: frena les vendes, però és una **decisió interna** dels directius, per tant és una debilitat, no una amenaça."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Resposta model",
+            "cos": "| Fortaleses de l’empresa | Debilitats de l’empresa |\n|---|---|\n| *c*, *d*, *k*, *l* | *g*, *h*, *i* |\n\n| Oportunitats de l’entorn | Amenaces de l’entorn |\n|---|---|\n| *e*, *f* | *a*, *b*, *j* |"
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Defineix els dos conceptes i dona un exemple de cadascun (no cal explicar-lo):\n\n- **Propietat intel·lectual**: drets de l’autor sobre **creacions** literàries, artístiques o científiques; neix pel sol fet de la creació.\n- **Propietat industrial**: dret exclusiu sobre **invencions, signes distintius i dissenys** d’aplicació industrial o comercial; cal registrar-los (patents, marques, dissenys industrials)."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Resposta model",
+            "cos": "La **propietat intel·lectual** és el conjunt de drets que corresponen a l’autor (i a altres titulars, com artistes o productors) sobre les obres originals literàries, artístiques o científiques que ha creat, expressades en qualsevol suport. Correspon a l’autor pel sol fet de la creació i li permet decidir-ne l’ús i l’explotació; les idees, mentre no es fixen en un suport, no són objecte de propietat intel·lectual. Exemple: els **drets d’autor d’una novel·la** (o d’una cançó, una fotografia o un programa d’ordinador).\n\nLa **propietat industrial** és el dret exclusiu que té una persona física o jurídica sobre una invenció, un signe distintiu o un disseny industrial, que li permet explotar-lo en exclusiva i impedir que altres el facin servir sense permís. Les invencions són solucions a problemes tècnics i els dissenys són creacions estètiques que determinen l’aparença dels productes. Exemple: una **marca registrada** (o una patent d’invenció, o una denominació d’origen)."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Explica la finalitat (desenvolupar productes i negocis amb poc risc i aprenent del client) i el cicle **crear → mesurar → aprendre**, amb el **producte mínim viable (PMV)** com a peça clau."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Resposta model",
+            "cos": "La **metodologia lean startup** s’utilitza per desenvolupar nous negocis i productes de manera àgil i amb el mínim de recursos: posa el focus en les necessitats del client i utilitza la seva retroalimentació per anar modificant el producte, en cicles curts, fins a arribar a la versió final, eliminant tot allò que no aporta valor («aprenentatge validat»).\n\n- **Crear (construir)**: es converteix ràpidament la idea en un **producte mínim viable**, amb les funcionalitats mínimes per poder-lo provar amb clients reals.\n- **Mesurar**: es registra i s’analitza com responen els consumidors al producte (dades d’ús, opinions, vendes).\n- **Aprendre**: a partir d’aquestes dades, es decideix què cal mantenir i què cal canviar (millorar o pivotar), i el cicle torna a començar."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "5.1",
+            "valor": "Fortaleses: c, d, k, l. Debilitats: g, h, i. Oportunitats: e, f. Amenaces: a, b, j."
+          },
+          {
+            "apartat": "5.2",
+            "valor": "Propietat intel·lectual: drets de l’autor sobre obres literàries, artístiques o científiques pel sol fet de crear-les (ex.: llibre, cançó, programari). Propietat industrial: dret exclusiu sobre invencions, signes distintius o dissenys industrials (ex.: marca, patent, denominació d’origen)."
+          },
+          {
+            "apartat": "5.3",
+            "valor": "Desenvolupar negocis/productes centrats en el client i el seu feedback, en cicles curts. Crear un producte mínim viable; mesurar la resposta dels consumidors; aprendre què mantenir i què canviar, i tornar a començar."
+          }
+        ],
+        "nota": "Errors típics: posar *i* (preu alt) a les amenaces perquè «frena les vendes» (és una decisió interna: debilitat); posar *f* (retirada del competidor) a les fortaleses (és un fet de l’entorn: oportunitat); confondre propietat industrial (marques, patents) amb intel·lectual (obres, drets d’autor). Al 5.3, l’ordre lògic del cicle és crear → mesurar → aprendre, encara que l’enunciat l’esmenti com a «crear, aprendre i mesurar»."
+      }
+    },
+    {
+      "id": "empresa-2024-J-e6-q1",
+      "exercici": 6,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Les 4P del màrqueting digital",
+      "tema": "marqueting",
+      "temes_secundaris": [],
+      "conceptes": [
+        "màrqueting digital",
+        "4p del màrqueting digital",
+        "peer-to-peer"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Les 4P del màrqueting digital són:",
+      "figures": [],
+      "opcions": {
+        "a": "de persona a persona (*peer-to-peer*), producte, promoció i publicitat.",
+        "b": "preu, producte, participació i predicció en models.",
+        "c": "personalització, de persona a persona (*peer-to-peer*), participació i predicció en models.",
+        "d": "producte, preu, de persona a persona (*peer-to-peer*) i promoció."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten). Amb quatre opcions, si en pots descartar dues amb seguretat, l’esperança de puntuació és positiva i val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. Les 4P del màrqueting digital són **personalització, *peer-to-peer* (de persona a persona), participació i predicció en models**: adaptar l’oferta a cada client, aprofitar les recomanacions entre usuaris, fer participar el client en la marca i predir-ne el comportament a partir de dades. Les opcions b) i d) barregen les 4P del màrqueting tradicional (producte, preu, distribució i promoció) amb les digitals, i l’a) inclou la «publicitat», que no n’és cap."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2024-J-e6-q2",
+      "exercici": 6,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Estratègia de l’oceà blau",
+      "tema": "models-negoci",
+      "temes_secundaris": [],
+      "conceptes": [
+        "oceà blau",
+        "innovació en valor",
+        "estratègia competitiva"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Què s’entén per *oceà blau* en l’àmbit empresarial?",
+      "figures": [],
+      "opcions": {
+        "a": "La creació de nous espais o vetes de mercat mitjançant la innovació en valor.",
+        "b": "Una estratègia que pretén competir en mercats existents i busca un posicionament únic.",
+        "c": "Una estratègia centrada en la reducció de costos per a aconseguir preus baixos.",
+        "d": "El fet d’analitzar la competència i adaptar-s’hi mitjançant la diferenciació de productes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten). Amb quatre opcions, si en pots descartar dues amb seguretat, l’esperança de puntuació és positiva i val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. L’estratègia de l’oceà blau consisteix a **crear nous espais de mercat sense competència** mitjançant la **innovació en valor** (oferir alhora més valor al client i menys cost), de manera que la competència es torna irrellevant. Les opcions b), c) i d) descriuen estratègies d’**oceà vermell**: competir en mercats existents per costos o per diferenciació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2024-J-e6-q3",
+      "exercici": 6,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Knowmad: el treballador nòmada del coneixement",
+      "tema": "recursos-humans",
+      "temes_secundaris": [],
+      "conceptes": [
+        "knowmad",
+        "mercat laboral",
+        "aprenentatge continu"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Què significa el terme *knowmad* en l’àmbit laboral actual?",
+      "figures": [],
+      "opcions": {
+        "a": "Professional amb una gran experiència en una única indústria.",
+        "b": "Treballador amb coneixements especialitzats en una àrea específica.",
+        "c": "Persona amb poca experiència laboral, però amb una formació acadèmica variada.",
+        "d": "Individu amb habilitats d’aprenentatge continu i adaptabilitat a diferents entorns laborals."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten). Amb quatre opcions, si en pots descartar dues amb seguretat, l’esperança de puntuació és positiva i val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. *Knowmad* combina *know* (saber) i *nomad* (nòmada): és el **treballador del coneixement** creatiu i innovador que **aprèn contínuament** i s’adapta a diferents entorns, projectes i llocs de treball (sovint gràcies a la tecnologia). Les opcions a) i b) descriuen perfils especialitzats en un sol àmbit, just el contrari de la idea de nòmada."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2024-J-e6-q4",
+      "exercici": 6,
+      "questio": 4,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Objectius de desenvolupament sostenible: l’ODS 7",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "ods",
+        "agenda 2030",
+        "energia assequible i no contaminant"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Quin és l’objectiu de desenvolupament sostenible (ODS) que correspon al número 7?",
+      "figures": [],
+      "opcions": {
+        "a": "Indústria, innovació i infraestructura.",
+        "b": "Producció i consum responsables.",
+        "c": "Energia assequible i no contaminant.",
+        "d": "Fi de la pobresa."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten). Amb quatre opcions, si en pots descartar dues amb seguretat, l’esperança de puntuació és positiva i val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. L’ODS 7 de l’Agenda 2030 és **energia assequible i no contaminant**. Les altres opcions són també ODS, però amb un altre número: fi de la pobresa és l’ODS 1, indústria, innovació i infraestructura és l’ODS 9, i producció i consum responsables és l’ODS 12."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2024-J-e6-q5",
+      "exercici": 6,
+      "questio": 5,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Pla d’empresa: viabilitat econòmica",
+      "tema": "emprenedoria",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pla d’empresa",
+        "viabilitat econòmica",
+        "llindar de rendibilitat"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Què avalua principalment la viabilitat econòmica d’un projecte?",
+      "figures": [],
+      "opcions": {
+        "a": "L’anàlisi de la competència i del consumidor.",
+        "b": "La disponibilitat tecnològica i la idoneïtat de l’equip humà del projecte.",
+        "c": "El punt mort o llindar de rendibilitat del projecte.",
+        "d": "El càlcul del VAN i de la TIR."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten). Amb quatre opcions, si en pots descartar dues amb seguretat, l’esperança de puntuació és positiva i val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. La **viabilitat econòmica** estudia si el projecte serà rendible, és a dir, si els ingressos cobriran els costos: l’indicador clau és el **punt mort o llindar de rendibilitat**. L’opció a) correspon a la viabilitat comercial, la b) a la viabilitat tècnica (i de l’equip humà) i la d) a la viabilitat **financera** (VAN i TIR avaluen la inversió)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    }
+  ]
+}

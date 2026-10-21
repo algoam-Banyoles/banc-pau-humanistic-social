@@ -1,0 +1,2268 @@
+{
+  "examen": {
+    "id": "catala-2023-J",
+    "assignatura": "catala",
+    "materia": "Llengua catalana i literatura",
+    "any": 2023,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/catala/2023-J-examen.pdf",
+    "pdf_solucio": null,
+    "estructura": "Examen del model 2023 (sèrie 1), 10 punts. Cal triar UNA de les dues opcions (A: fragment de Jesús Moncada, «L’estremidora confessió de Joe Galàxia»; B: article sobre l’Apollo 11) i fer-ne les parts 1 i 2; la part 3 és comuna. 1. Comprensió lectora (4 punts): vertader/fals (0,5; error −0,1), sinònims (0,5), referent de pronoms febles (0,5), resposta breu de màxim 50 mots (0,5) i, de les lectures obligatòries (*La plaça del Diamant* i *Aigües encantades*), cal resoldre DUES de les tres qüestions 1.5 (1 punt cadascuna; als vertader/fals, error −0,2). 2. Expressió escrita (3 punts): reescriptura d’un fragment canviant els temps verbals (1 punt) i text formal de 125-150 paraules (2 punts: adequació 0,5, coherència 0,75, cohesió 0,75). 3. Reflexió lingüística, part comuna (3 punts): cinc qüestions de test de sintaxi (1 punt; error −0,2) i quatre exercicis de 0,5 (tan/tant..., formes verbals, grafies de [s], derivació). Cada falta de normativa, encara que sigui repetida, resta 0,1 punts. IMPORTANT: d’aquesta convocatòria no s’han publicat criteris de correcció oficials; totes les solucions les ha elaborades l’autor de l’app (els barems s’han pres dels criteris de la convocatòria de setembre del 2023, que té la mateixa estructura)."
+  },
+  "problemes": [
+    {
+      "id": "catala-2023-J-e1-q1-1-a",
+      "exercici": 1,
+      "questio": "1.1",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals sobre la carta de Joe Galàxia",
+      "tema": "comprensio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "comprensió lectora",
+        "vertader o fals",
+        "jesús moncada",
+        "narrativa"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2
+      ],
+      "text": "Cal que li digui de camí que vostè i jo no ens hem vist mai de la vida, que no formo part ni dels seus parents, ni dels seus amics, ni tan sols dels seus conciutadans, i l’únic que sé de Berga, la vila on vostè resideix, és el que en diu la *Gran enciclopèdia catalana* a l’article corresponent. Suposo que aquestes paraules esbandiran un seguit de cabòries, lògiques, que l’hauran amoïnat aquests anys; però, de retruc, en desvetllaran d’altres sense, en definitiva, aclarir-**ne** cap. Només li demano una miqueta de paciència; en acabar de llegir aquests fulls, potser abans, atès que intueixo que és una dona intel·ligent, ho veurà tot més clar que l’aigua.\n\nJo em dic Estanislau Dellasegre, però la gent em coneix més per Joe Galàxia, el meu nom professional. Sempre he estat artista de circ; formava parella amb la meva dona, la Marieta Castells, i fèiem un número que se’n deia «Joe Galàxia i la Dona Obús». Ara que em trobo a les portes de la mort, que és com la gent fina en diu, i vostè em perdonarà l’expressió, d’estar a punt de cascar-la, això em fa somriure, però la veritat és que ens sortia un número rodó, molt arriscat i espectacular. Teníem un èxit darrere l’altre i ofertes a cabassos; ens permetíem el luxe d’escollir els circs on ens abellia actuar i cobràvem el que volíem. Mal m’està el dir-**ho**, però tot havia estat ideat i fet per mi, que sempre he tingut la mà trencada per a les coses mecàniques. No la cansaré amb detalls tècnics; només li diré que, en essència, la cosa constava d’una mena de canó que funcionava amb aire comprimit. La Marieta feia d’obús; en disparar-se el canó, ella sortia com una bala, passava a través d’una roda de foc penjada sobre la pista i anava a caure a uns deu metres de distància, a sobre d’una palanca, a l’altra punta de la qual estava un servidor. L’impuls de la Marieta em feia sortir projectat a mi, que passava en sentit invers la roda flamejant i feia cap a una cadireta fixada damunt el canó. Allò era un deliri. Quines ovacions, senyora! La gent no es cansava d’aplaudir i havíem de sortir a saludar un sac de vegades. Comprendrà que ens jugàvem el físic a cada funció i que el nostre treball exigia valor, sang freda i una precisió infal·lible. Sobretot, calia vigilar que la pressió fos la justa i canviar regularment els cuirs que evitaven les fugides d’aire; la Marieta era el que se’n diu un tros de dona i l’eina se’n ressentia.\n\nSuposo que vostè ha començat a lligar caps, però és més lluny de la veritat del que es pensa. No es precipiti. Ara arribem a la part més esfereïdora.\n\n*Jesús Moncada. «L’estremidora confessió de Joe Galàxia (Història de fulletó)». A: Vuit narradors actuals. Barcelona: Edicions 62, 1996, p. 69-70*",
+      "enunciat": "Després de llegir atentament el text anterior, indiqueu si les afirmacions següents són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Joe Galàxia escriu, quan està a punt de morir, a una senyora de Berga.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "La dona de Joe Galàxia era molt prima.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Per les seves actuacions, Joe Galàxia i la seva parella cobraven molts diners.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "En la funció, Joe Galàxia i la seva dona travessaven una roda de foc.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Mai no calia fer cap adaptació al canó.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Contrasta cada afirmació amb una frase concreta del text, no amb el que sembla lògic. Cada error resta 0,1 punts i una resposta en blanc no resta res: si no trobes la prova al text, deixa-la en blanc. Compte amb les expressions figurades (*un tros de dona*) i amb els absoluts (*mai no*). Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** El narrador diu que es troba «a les portes de la mort», s’adreça a «vostè» i afirma que només sap de Berga «la vila on vostè resideix» el que diu l’enciclopèdia; a més, «intueixo que és una dona intel·ligent» i «Quines ovacions, senyora!»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** Al final del segon paràgraf diu que «la Marieta era el que se’n diu un tros de dona», és a dir, una dona grossa i corpulenta, tant que «l’eina se’n ressentia»."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** «Teníem un èxit darrere l’altre i ofertes a cabassos [...] i cobràvem el que volíem.»"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** Tots dos hi passen: la Marieta «passava a través d’una roda de foc» i després el narrador «passava en sentit invers la roda flamejant»."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** Calia «vigilar que la pressió fos la justa i canviar regularment els cuirs que evitaven les fugides d’aire»: el canó necessitava manteniment i ajustos constants."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Vertader\n\nb) Fals\n\nc) Vertader\n\nd) Vertader\n\ne) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "d",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "Error típic a la b): entendre «un tros de dona» com «una dona petita». És una locució col·loquial que vol dir ’una dona grossa, corpulenta’; el text ho confirma quan diu que el canó «se’n ressentia». (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-2-a",
+      "exercici": 1,
+      "questio": "1.2",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Sinònims de mots del text de Jesús Moncada",
+      "tema": "lexic",
+      "temes_secundaris": [],
+      "conceptes": [
+        "sinonímia",
+        "lèxic",
+        "jesús moncada",
+        "comprensió lectora"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        3
+      ],
+      "text": "Cal que li digui de camí que vostè i jo no ens hem vist mai de la vida, que no formo part ni dels seus parents, ni dels seus amics, ni tan sols dels seus conciutadans, i l’únic que sé de Berga, la vila on vostè resideix, és el que en diu la *Gran enciclopèdia catalana* a l’article corresponent. Suposo que aquestes paraules esbandiran un seguit de cabòries, lògiques, que l’hauran amoïnat aquests anys; però, de retruc, en desvetllaran d’altres sense, en definitiva, aclarir-**ne** cap. Només li demano una miqueta de paciència; en acabar de llegir aquests fulls, potser abans, atès que intueixo que és una dona intel·ligent, ho veurà tot més clar que l’aigua.\n\nJo em dic Estanislau Dellasegre, però la gent em coneix més per Joe Galàxia, el meu nom professional. Sempre he estat artista de circ; formava parella amb la meva dona, la Marieta Castells, i fèiem un número que se’n deia «Joe Galàxia i la Dona Obús». Ara que em trobo a les portes de la mort, que és com la gent fina en diu, i vostè em perdonarà l’expressió, d’estar a punt de cascar-la, això em fa somriure, però la veritat és que ens sortia un número rodó, molt arriscat i espectacular. Teníem un èxit darrere l’altre i ofertes a cabassos; ens permetíem el luxe d’escollir els circs on ens abellia actuar i cobràvem el que volíem. Mal m’està el dir-**ho**, però tot havia estat ideat i fet per mi, que sempre he tingut la mà trencada per a les coses mecàniques. No la cansaré amb detalls tècnics; només li diré que, en essència, la cosa constava d’una mena de canó que funcionava amb aire comprimit. La Marieta feia d’obús; en disparar-se el canó, ella sortia com una bala, passava a través d’una roda de foc penjada sobre la pista i anava a caure a uns deu metres de distància, a sobre d’una palanca, a l’altra punta de la qual estava un servidor. L’impuls de la Marieta em feia sortir projectat a mi, que passava en sentit invers la roda flamejant i feia cap a una cadireta fixada damunt el canó. Allò era un deliri. Quines ovacions, senyora! La gent no es cansava d’aplaudir i havíem de sortir a saludar un sac de vegades. Comprendrà que ens jugàvem el físic a cada funció i que el nostre treball exigia valor, sang freda i una precisió infal·lible. Sobretot, calia vigilar que la pressió fos la justa i canviar regularment els cuirs que evitaven les fugides d’aire; la Marieta era el que se’n diu un tros de dona i l’eina se’n ressentia.\n\nSuposo que vostè ha començat a lligar caps, però és més lluny de la veritat del que es pensa. No es precipiti. Ara arribem a la part més esfereïdora.\n\n*Jesús Moncada. «L’estremidora confessió de Joe Galàxia (Història de fulletó)». A: Vuit narradors actuals. Barcelona: Edicions 62, 1996, p. 69-70*",
+      "enunciat": "Trobeu en el text els cinc mots que poden funcionar com a sinònims dels mots següents. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "*Dispersaran, dissoldran*:",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "*Cavil·lacions, preocupacions*:",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "*Enlluernador, vistós*:",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "*Agradava, plaïa*:",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "*Aterridora, atroç*:",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Has de copiar del text el mot que pot substituir els que et donen, **amb la mateixa categoria i forma** (si et donen un verb en futur plural, busca un verb en futur plural; si et donen un adjectiu femení, un adjectiu femení). Copia’l exactament: una falta d’ortografia en copiar resta. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*Dispersaran, dissoldran* són verbs en futur, 3a persona del plural. Al primer paràgraf: «aquestes paraules **esbandiran** un seguit de cabòries» (esbandir: ’fer fugir, dissipar’)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Nom plural: «un seguit de **cabòries**» (pensaments que amoïnen)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Adjectiu masculí singular: «un número rodó, molt arriscat i **espectacular**»."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Verb en imperfet, 3a persona del singular: «els circs on ens **abellia** actuar» (abellir: ’venir de gust’)."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Adjectiu femení singular: «la part més **esfereïdora**» (que fa esfereir, que fa por)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) esbandiran\n\nb) cabòries\n\nc) espectacular\n\nd) abellia\n\ne) esfereïdora"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "esbandiran"
+          },
+          {
+            "apartat": "b",
+            "valor": "cabòries"
+          },
+          {
+            "apartat": "c",
+            "valor": "espectacular"
+          },
+          {
+            "apartat": "d",
+            "valor": "abellia"
+          },
+          {
+            "apartat": "e",
+            "valor": "esfereïdora"
+          }
+        ],
+        "nota": "Als criteris de setembre del 2023 s’acceptaven altres formes del text sempre que fossin normatives i tinguessin el mateix valor semàntic. Atenció a la dièresi d’*esfereïdora* i a l’accent de *cabòries*: copiar-les malament compta com a falta. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-3-a",
+      "exercici": 1,
+      "questio": "1.3",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Referent dels pronoms febles «ne» i «ho»",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "pronoms febles",
+        "referent",
+        "en/ne",
+        "ho",
+        "catàfora"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "Cal que li digui de camí que vostè i jo no ens hem vist mai de la vida, que no formo part ni dels seus parents, ni dels seus amics, ni tan sols dels seus conciutadans, i l’únic que sé de Berga, la vila on vostè resideix, és el que en diu la *Gran enciclopèdia catalana* a l’article corresponent. Suposo que aquestes paraules esbandiran un seguit de cabòries, lògiques, que l’hauran amoïnat aquests anys; però, de retruc, en desvetllaran d’altres sense, en definitiva, aclarir-**ne** cap. Només li demano una miqueta de paciència; en acabar de llegir aquests fulls, potser abans, atès que intueixo que és una dona intel·ligent, ho veurà tot més clar que l’aigua.\n\nJo em dic Estanislau Dellasegre, però la gent em coneix més per Joe Galàxia, el meu nom professional. Sempre he estat artista de circ; formava parella amb la meva dona, la Marieta Castells, i fèiem un número que se’n deia «Joe Galàxia i la Dona Obús». Ara que em trobo a les portes de la mort, que és com la gent fina en diu, i vostè em perdonarà l’expressió, d’estar a punt de cascar-la, això em fa somriure, però la veritat és que ens sortia un número rodó, molt arriscat i espectacular. Teníem un èxit darrere l’altre i ofertes a cabassos; ens permetíem el luxe d’escollir els circs on ens abellia actuar i cobràvem el que volíem. Mal m’està el dir-**ho**, però tot havia estat ideat i fet per mi, que sempre he tingut la mà trencada per a les coses mecàniques. No la cansaré amb detalls tècnics; només li diré que, en essència, la cosa constava d’una mena de canó que funcionava amb aire comprimit. La Marieta feia d’obús; en disparar-se el canó, ella sortia com una bala, passava a través d’una roda de foc penjada sobre la pista i anava a caure a uns deu metres de distància, a sobre d’una palanca, a l’altra punta de la qual estava un servidor. L’impuls de la Marieta em feia sortir projectat a mi, que passava en sentit invers la roda flamejant i feia cap a una cadireta fixada damunt el canó. Allò era un deliri. Quines ovacions, senyora! La gent no es cansava d’aplaudir i havíem de sortir a saludar un sac de vegades. Comprendrà que ens jugàvem el físic a cada funció i que el nostre treball exigia valor, sang freda i una precisió infal·lible. Sobretot, calia vigilar que la pressió fos la justa i canviar regularment els cuirs que evitaven les fugides d’aire; la Marieta era el que se’n diu un tros de dona i l’eina se’n ressentia.\n\nSuposo que vostè ha començat a lligar caps, però és més lluny de la veritat del que es pensa. No es precipiti. Ara arribem a la part més esfereïdora.\n\n*Jesús Moncada. «L’estremidora confessió de Joe Galàxia (Història de fulletó)». A: Vuit narradors actuals. Barcelona: Edicions 62, 1996, p. 69-70*",
+      "enunciat": "Escriviu el referent dels pronoms següents, marcats en negreta en el text. La resposta ha de contenir tots els elements que formen la construcció substituïda pel pronom feble. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "«Suposo que aquestes paraules esbandiran un seguit de cabòries, lògiques, que l’hauran amoïnat aquests anys; però, de retruc, en desvetllaran d’altres sense, en definitiva, aclarir-**ne** cap»:",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "«Mal m’està el dir-**ho**, però tot havia estat ideat i fet per mi, que sempre he tingut la mà trencada per a les coses mecàniques»:",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Has d’escriure el fragment que substitueix el pronom **amb tots els elements** (preposició inclosa si el pronom la porta implícita). Comprova-ho tornant a posar el referent al lloc del pronom: la frase ha de tenir sentit. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*Aclarir-ne cap* = ’aclarir cap **de les cabòries**’. El pronom *en/ne* aquí substitueix el complement del quantificador *cap* (estructura partitiva: *cap de...*), i fa referència a les *cabòries*, tant les que s’esbandiran com les que es desvetllaran («d’altres» [cabòries]). Prova: «sense aclarir cap de les cabòries»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Ho* és un pronom neutre que substitueix una oració o una idea. Aquí és **catafòric**: anuncia el que es diu a continuació. Prova: «Mal m’està dir **que tot havia estat ideat i fet per mi**»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) *ne* = (cap) **de les cabòries** (les que les paraules del narrador esbandiran i les altres que en desvetllaran).\n\nb) *ho* = **que tot havia estat ideat i fet per mi**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "de les cabòries"
+          },
+          {
+            "apartat": "b",
+            "valor": "que tot havia estat ideat i fet per mi"
+          }
+        ],
+        "nota": "Error típic: respondre només «cabòries» sense la preposició *de* que el pronom *ne* inclou. A la b), no confonguis el referent de *ho* (una oració) amb un nom de la frase anterior: el pronom apunta cap endavant. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-4-a",
+      "exercici": 1,
+      "questio": "1.4",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Per què el número del circ era arriscat (màxim 50 mots)",
+      "tema": "comprensio",
+      "temes_secundaris": [
+        "expressio"
+      ],
+      "conceptes": [
+        "comprensió lectora",
+        "resposta breu",
+        "paràfrasi",
+        "jesús moncada"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "Cal que li digui de camí que vostè i jo no ens hem vist mai de la vida, que no formo part ni dels seus parents, ni dels seus amics, ni tan sols dels seus conciutadans, i l’únic que sé de Berga, la vila on vostè resideix, és el que en diu la *Gran enciclopèdia catalana* a l’article corresponent. Suposo que aquestes paraules esbandiran un seguit de cabòries, lògiques, que l’hauran amoïnat aquests anys; però, de retruc, en desvetllaran d’altres sense, en definitiva, aclarir-**ne** cap. Només li demano una miqueta de paciència; en acabar de llegir aquests fulls, potser abans, atès que intueixo que és una dona intel·ligent, ho veurà tot més clar que l’aigua.\n\nJo em dic Estanislau Dellasegre, però la gent em coneix més per Joe Galàxia, el meu nom professional. Sempre he estat artista de circ; formava parella amb la meva dona, la Marieta Castells, i fèiem un número que se’n deia «Joe Galàxia i la Dona Obús». Ara que em trobo a les portes de la mort, que és com la gent fina en diu, i vostè em perdonarà l’expressió, d’estar a punt de cascar-la, això em fa somriure, però la veritat és que ens sortia un número rodó, molt arriscat i espectacular. Teníem un èxit darrere l’altre i ofertes a cabassos; ens permetíem el luxe d’escollir els circs on ens abellia actuar i cobràvem el que volíem. Mal m’està el dir-**ho**, però tot havia estat ideat i fet per mi, que sempre he tingut la mà trencada per a les coses mecàniques. No la cansaré amb detalls tècnics; només li diré que, en essència, la cosa constava d’una mena de canó que funcionava amb aire comprimit. La Marieta feia d’obús; en disparar-se el canó, ella sortia com una bala, passava a través d’una roda de foc penjada sobre la pista i anava a caure a uns deu metres de distància, a sobre d’una palanca, a l’altra punta de la qual estava un servidor. L’impuls de la Marieta em feia sortir projectat a mi, que passava en sentit invers la roda flamejant i feia cap a una cadireta fixada damunt el canó. Allò era un deliri. Quines ovacions, senyora! La gent no es cansava d’aplaudir i havíem de sortir a saludar un sac de vegades. Comprendrà que ens jugàvem el físic a cada funció i que el nostre treball exigia valor, sang freda i una precisió infal·lible. Sobretot, calia vigilar que la pressió fos la justa i canviar regularment els cuirs que evitaven les fugides d’aire; la Marieta era el que se’n diu un tros de dona i l’eina se’n ressentia.\n\nSuposo que vostè ha començat a lligar caps, però és més lluny de la veritat del que es pensa. No es precipiti. Ara arribem a la part més esfereïdora.\n\n*Jesús Moncada. «L’estremidora confessió de Joe Galàxia (Història de fulletó)». A: Vuit narradors actuals. Barcelona: Edicions 62, 1996, p. 69-70*",
+      "enunciat": "Expliqueu, en un màxim de cinquanta mots, per què l’actuació que feien els artistes en el circ comportava un risc. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Resposta breu (màxim 50 mots) amb paraules pròpies, no una còpia de frases del text. Ha de ser una oració ben construïda que respongui directament el *per què*. Compta els mots: passar-se’n pot restar punts. Temps: 5 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Idees que cal incloure:\n\n1. El mecanisme perillós: la dona era disparada per un canó d’aire comprimit.\n2. El foc: tots dos travessaven una roda de foc.\n3. La palanca: la caiguda de la Marieta llançava el narrador cap a una cadireta sobre el canó.\n4. Les exigències: valor, sang freda, precisió infal·lible; controlar la pressió i canviar els cuirs (la Marieta pesava molt)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L’actuació era arriscada perquè la Marieta sortia disparada d’un canó d’aire comprimit, travessava una roda de foc i queia sobre una palanca que llançava el seu marit, en sentit invers, a través del foc. Calia precisió infal·lible, controlar la pressió i canviar sovint els cuirs."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Canó d’aire comprimit que disparava la Marieta; pas per una roda de foc; caiguda sobre una palanca que projectava Joe Galàxia; necessitat de precisió absoluta, pressió justa i manteniment dels cuirs."
+          }
+        ],
+        "nota": "La resposta model té 45 mots. Si copies frases senceres del text, perds part de la puntuació: reformula-les. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-5-1-a",
+      "exercici": 1,
+      "questio": "1.5.1",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Quimet i Antoni: el caràcter dels dos marits de la Natàlia",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mercè rodoreda",
+        "la plaça del diamant",
+        "personatges",
+        "quimet",
+        "antoni"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Resoleu DUES de les tres qüestions següents (1.5.1, 1.5.2 i 1.5.3), relatives a les lectures obligatòries d’aquest curs.\n\n**1.5.1.** En un màxim de cinquanta mots, expliqueu quines diferències de caràcter hi ha entre en Quimet i l’Antoni, els dos marits de la Natàlia, a l’obra *La plaça del Diamant*, de Mercè Rodoreda. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de lectura obligatòria: cal triar DUES de les tres qüestions 1.5 (si en fas tres, només es corregeixen les dues primeres). Demana un **contrast** en 50 mots com a màxim: no expliquis l’argument, caracteritza els dos personatges amb adjectius precisos i un exemple de cada un. Fes servir un connector contrastiu (*en canvi*, *per contra*). Temps: 6-7 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "**En Quimet** (primer marit): egoista, dominant, possessiu i gelós, xerraire i fantasiós; decideix per ella (li posa el nom de *Colometa*, li fa deixar el promès, omple el pis de coloms que ella ha de cuidar), es queixa constantment de mals imaginaris. Representa l’anul·lació de la personalitat de la Natàlia.\n\n**L’Antoni** (l’adroguer, segon marit): bo, generós, tímid, callat i respectuós; ferit a la guerra (no pot tenir fills), li ofereix seguretat material i afecte sense demanar res a canvi. Representa la tranquil·litat i la recuperació de la Natàlia."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "En Quimet és egoista, autoritari, possessiu i gelós: imposa la seva voluntat a la Natàlia, li canvia el nom (Colometa) i l’esclavitza amb els coloms. L’Antoni, en canvi, és bondadós, pacient, tímid i respectuós: li ofereix estabilitat i protecció i la tracta amb tendresa, sense exigir-li res."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Quimet: dominant, egoista, possessiu, gelós, la sotmet (Colometa, coloms). Antoni: bondadós, pacient, generós, respectuós, li dona seguretat i pau."
+          }
+        ],
+        "nota": "La resposta model té 47 mots. No t’allarguis explicant la trama: la pregunta només demana el contrast de caràcters. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-5-2-a",
+      "exercici": 1,
+      "questio": "1.5.2",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals sobre La plaça del Diamant (narrador, orfandat, Quimet, Antoni)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mercè rodoreda",
+        "la plaça del diamant",
+        "vertader o fals",
+        "narrador en primera persona",
+        "personatges"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Resoleu DUES de les tres qüestions següents (1.5.1, 1.5.2 i 1.5.3), relatives a les lectures obligatòries d’aquest curs.\n\n**1.5.2.** Indiqueu si les afirmacions següents, relatives a l’obra *La plaça del Diamant*, de Mercè Rodoreda, són vertaderes o falses. [1 punt. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "*La plaça del Diamant* està escrita en tercera persona.",
+          "punts": 0.2
+        },
+        {
+          "id": "b",
+          "enunciat": "La Natàlia és òrfena de pare i mare.",
+          "punts": 0.2
+        },
+        {
+          "id": "c",
+          "enunciat": "La Natàlia sempre s’aturava a la botiga per mirar les nines.",
+          "punts": 0.2
+        },
+        {
+          "id": "d",
+          "enunciat": "En Quimet tractava la Natàlia d’una manera molt possessiva.",
+          "punts": 0.2
+        },
+        {
+          "id": "e",
+          "enunciat": "L’Antoni, l’adroguer, abans de casar-s’hi, va oferir a la Natàlia de treballar de dependenta.",
+          "punts": 0.2
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada afirmació val 0,2 i **cada error resta 0,2**: només marca les que tinguis clares. Fixa’t en els detalls que fan falsa una afirmació (*tercera* persona, òrfena de pare *i* mare, *nines*, *dependenta*). Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** La novel·la és narrada en **primera persona** per la mateixa Natàlia, en un llarg monòleg retrospectiu, amb un estil oral i col·loquial."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** La Natàlia és òrfena de **mare**; el pare és viu, però s’ha tornat a casar i no se n’ocupa gens."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** La botiga on la Natàlia s’atura sovint i que es converteix en un motiu recurrent és la **botiga dels hules** (on contempla els hules estampats), no una botiga de nines. Segons el moment, s’hi refugia i la deslliura dels seus pensaments."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** En Quimet és gelós i dominant: li canvia el nom (Colometa), li fa deixar el promès (en Pere), decideix per ella i li imposa els coloms."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** Quan la Natàlia, en plena misèria de la postguerra, demana feina a l’adrogueria, l’Antoni la contracta per **fer feines de casa** (netejar el pis), no de dependenta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Fals\n\nb) Fals\n\nc) Fals\n\nd) Vertader\n\ne) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "d",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "La c) és la més difícil: el motiu recurrent de la novel·la és la botiga dels hules. Si no recordes el detall, és millor deixar-la en blanc que arriscar-te a perdre 0,2 punts. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-5-3-a",
+      "exercici": 1,
+      "questio": "1.5.3",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals sobre Aigües encantades (individu i societat, Juliana, processó, Pere Amat)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "joan puig i ferreter",
+        "aigües encantades",
+        "vertader o fals",
+        "teatre modernista",
+        "individu i societat"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Resoleu DUES de les tres qüestions següents (1.5.1, 1.5.2 i 1.5.3), relatives a les lectures obligatòries d’aquest curs.\n\n**1.5.3.** Indiqueu si les afirmacions següents, relatives a l’obra *Aigües encantades*, de Joan Puig i Ferreter, són vertaderes o falses. [1 punt. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "A *Aigües encantades* es contraposen l’individu i la societat.",
+          "punts": 0.2
+        },
+        {
+          "id": "b",
+          "enunciat": "La Juliana no és una dona religiosa.",
+          "punts": 0.2
+        },
+        {
+          "id": "c",
+          "enunciat": "A la processó que es fa per a demanar que plogui, els homes van descalços.",
+          "punts": 0.2
+        },
+        {
+          "id": "d",
+          "enunciat": "El pare de la Cecília es nega a pagar-li l’any de carrera que li falta.",
+          "punts": 0.2
+        },
+        {
+          "id": "e",
+          "enunciat": "En Pere Amat modifica, a la fi de l’obra, la seva actitud hostil envers el Foraster.",
+          "punts": 0.2
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada afirmació val 0,2 i **cada error resta 0,2**. Algunes són generals (tema de l’obra) i d’altres de detall (la processó): comença per les generals i deixa en blanc les de detall si no les recordes. Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** És el conflicte central del drama: individus lliures i il·lustrats (el Foraster, la Cecília) s’enfronten a una comunitat rural tancada, supersticiosa i dominada per la religió i el poder."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** La Juliana, la mare de la Cecília, és una dona molt religiosa i submisa, que accepta el paper tradicional de la dona."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** A la processó de pregària per la pluja, els homes hi van descalços en senyal de penitència; és una mostra de la mentalitat supersticiosa del poble que critica l’obra."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** En Pere Amat, contrari a les idees modernes que la Cecília ha après a ciutat, es nega a pagar-li el darrer curs dels estudis."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** En Pere Amat es manté hostil fins al final (és un dels instigadors de la revolta contra el Foraster). El personatge que evoluciona és en Joan Gatell, el batlle."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Vertader\n\nb) Fals\n\nc) Vertader\n\nd) Vertader\n\ne) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "d",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "Les respostes c) i d) són de detall argumental i, sense criteris oficials, no s’han pogut contrastar amb una font oficial: comprova-les amb la teva lectura de l’obra. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e2-q2-1-a",
+      "exercici": 2,
+      "questio": "2.1",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Reescriure un fragment de Moncada passant els temps passats a present",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "expressio"
+      ],
+      "conceptes": [
+        "temps verbals",
+        "present d’indicatiu",
+        "reescriptura",
+        "morfologia verbal",
+        "imperfet d’indicatiu"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Reescriviu el fragment següent canviant els temps verbals en passat per formes de present. La redacció resultant ha de contenir tota la informació inclosa en el fragment. Subratlleu en els dos textos les formes verbals originals i les reescrites. [1 punt]\n\n«Jo em dic Estanislau Dellasegre, però la gent em coneix més per Joe Galàxia, el meu nom professional. […] amb la meva dona, la Marieta Castells, fèiem un número que se’n deia «Joe Galàxia i la Dona Obús». Ara que em trobo a les portes de la mort, que és com la gent fina en diu, i vostè em perdonarà l’expressió, d’estar a punt de cascar-la, això em fa somriure, però la veritat és que ens sortia un número rodó, molt arriscat i espectacular. Teníem un èxit darrere l’altre i ofertes a cabassos; ens permetíem el luxe d’escollir els circs on ens abellia actuar i cobràvem el que volíem. […] No la cansaré amb detalls tècnics; només li diré que, en essència, la cosa constava d’una mena de canó que funcionava amb aire comprimit.»",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cal localitzar **tots** els verbs conjugats en passat (aquí, imperfets d’indicatiu), passar-los a present i **subratllar-los en els dos textos**. Els verbs que ja són en present (*em dic*, *coneix*, *em trobo*, *és*, *diu*, *fa*) i els futurs (*perdonarà*, *cansaré*, *diré*) no es toquen. No canviïs res més i copia sense faltes. Temps: 8 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Formes en passat (10) i el seu present:\n\n| Passat | Present |\n|---|---|\n| fèiem | fem |\n| deia | diu |\n| sortia | surt |\n| Teníem | Tenim |\n| permetíem | permetem |\n| abellia | abelleix |\n| cobràvem | cobrem |\n| volíem | volem |\n| constava | consta |\n| funcionava | funciona |\n\nAtenció a les irregulars: *fer* → *fem*; *dir* → *diu*; *sortir* → *surt* (amb alternança vocàlica, no *\\*sort*); *tenir* → *tenim*; *abellir* és incoatiu → *abelleix*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "«Jo em dic Estanislau Dellasegre, però la gent em coneix més per Joe Galàxia, el meu nom professional. […] amb la meva dona, la Marieta Castells, **fem** un número que se’n **diu** «Joe Galàxia i la Dona Obús». Ara que em trobo a les portes de la mort, que és com la gent fina en diu, i vostè em perdonarà l’expressió, d’estar a punt de cascar-la, això em fa somriure, però la veritat és que ens **surt** un número rodó, molt arriscat i espectacular. **Tenim** un èxit darrere l’altre i ofertes a cabassos; ens **permetem** el luxe d’escollir els circs on ens **abelleix** actuar i **cobrem** el que **volem**. […] No la cansaré amb detalls tècnics; només li diré que, en essència, la cosa **consta** d’una mena de canó que **funciona** amb aire comprimit.»\n\n(Les formes en negreta són les que s’han de subratllar; al text original cal subratllar també els imperfets corresponents.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "fem, diu, surt, Tenim, permetem, abelleix, cobrem, volem, consta, funciona (10 formes, subratllades en els dos textos)."
+          }
+        ],
+        "nota": "Errors típics: escriure *\\*sort* o *\\*sorteix* en lloc de *surt*, o *\\*abellia* → *\\*abell*; canviar també els futurs (*perdonarà*, *diré*), que no són passats. Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e2-q2-2-a",
+      "exercici": 2,
+      "questio": "2.2",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "redaccio",
+      "punts": 2,
+      "titol": "Imaginar l’episodi esfereïdor de Joe Galàxia (125-150 paraules)",
+      "tema": "expressio",
+      "temes_secundaris": [
+        "textos"
+      ],
+      "conceptes": [
+        "text narratiu",
+        "registre formal",
+        "coherència",
+        "cohesió",
+        "connectors",
+        "jesús moncada"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "El fragment que heu llegit, narrat per Joe Galàxia, es tanca amb les paraules següents: «Ara arribem a la part més esfereïdora». Basant-vos en el que es diu en el text, escriviu un text formal ben estructurat, de cent vint-i-cinc a cent cinquanta paraules, en què expliqueu quin és l’episodi esfereïdor que imagineu que devia haver succeït. [2 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de **125-150 paraules** en registre formal (sense col·loquialismes com *cascar-la*), ben estructurat. La clau és «**basant-vos en el que es diu en el text**»: l’episodi imaginat ha de ser coherent amb les pistes del fragment (la pressió, els cuirs, el pes de la Marieta, la carta a una senyora de Berga, «és més lluny de la veritat del que es pensa»). Els criteris del 2023 reparteixen els 2 punts en adequació (0,5), coherència (0,75) i cohesió (0,75), graduables de 0,25 en 0,25; l’extensió s’ha d’ajustar a la demanada. Temps: 20 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Estructura en tres paràgrafs:\n\n1. **Introducció**: el número va acabar malament; presenta l’accident.\n\n2. **Desenvolupament**: relaciona l’accident amb les pistes del text (pressió, cuirs, pes de la Marieta) i narra-ho amb una seqüència clara de causa-conseqüència.\n\n3. **Tancament**: lliga l’episodi amb la carta a la senyora de Berga, que dona sentit a tot el relat.\n\nConnectors útils: *tot indica que*, *d’una banda*, *probablement*, *en conseqüència*, *així doncs*, *això explicaria*. Pots narrar en 3a persona o adoptar la veu de Joe Galàxia, però mantenint el registre formal."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La confessió de Joe Galàxia fa pensar que el número de la Dona Obús va acabar en tragèdia. Tot indica que una nit el canó va fallar.\n\nD’una banda, el narrador insisteix que calia vigilar la pressió i canviar sovint els cuirs, ja que la Marieta era corpulenta i la màquina se’n ressentia. Probablement, aquell vespre els cuirs nous van tancar massa bé i la pressió va ser molt superior a l’habitual. En conseqüència, la Marieta va sortir disparada amb una força descomunal, va travessar la roda de foc, va esquinçar la lona de la carpa i es va perdre en la foscor.\n\nAixí doncs, l’episodi esfereïdor seria la desaparició de la Dona Obús, que mai més no van trobar. Això explicaria per què, anys després, Joe Galàxia escriu a una desconeguda de Berga: potser la Marieta va anar a caure, precisament, en aquella vila."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Adequació (0,5): registre formal, tema demanat, 125-150 paraules."
+          },
+          {
+            "apartat": null,
+            "valor": "Coherència (0,75): episodi versemblant i basat en les pistes del text; estructura clara."
+          },
+          {
+            "apartat": null,
+            "valor": "Cohesió (0,75): oracions ben construïdes, connectors, puntuació, referents."
+          }
+        ],
+        "nota": "La resposta model té 145 paraules. És una resposta oberta: qualsevol episodi coherent amb el text és vàlid. Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-1-b",
+      "exercici": 1,
+      "questio": "1.1",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals sobre la missió Apollo 11",
+      "tema": "comprensio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "comprensió lectora",
+        "vertader o fals",
+        "apollo 11",
+        "cursa espacial"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "El llançament el 1957 del primer satèl·lit artificial, l’*Sputnik 1*, per part de la Unió Soviètica va accelerar la cursa espacial dels Estats Units, que **el** van interpretar com una amenaça, i va acabar derivant en la creació de la NASA, la qual va desenvolupar diversos programes espacials —com el Mercury i el Gemini— amb l’objectiu de posar un peu a la Lluna abans del 1970, un compromís adquirit pel president John Fitzgerald Kennedy. Estava en joc el prestigi dels Estats Units, sobretot des que la Unió Soviètica va posar en òrbita, l’abril del 1961, Iuri Gagarin, el primer home que va viatjar a l’espai.\n\nLa missió lunar *Apollo 11* va ser la primera a posar una persona a la superfície de la Lluna. Els sis primers vols del programa *Apollo* van ser llançaments de prova no tripulats i l’*Apollo 11* va ser la cinquena missió tripulada del programa. Tot i la seva forta càrrega simbòlica, tenia un abast científic limitat. Els astronautes hi van recollir roques lunars, hi van muntar un panell reflector per mesurar la distància exacta entre la Terra i la Lluna i hi van deixar un sismògraf per mesurar possibles moviments sísmics. L’emblema de la missió era una àguila amb el cap blanc, l’au nacional dels Estats Units, i una branca d’olivera a les urpes. I l’àguila també va ser l’animal que va donar nom al mòdul lunar, *Eagle*.\n\nLa tripulació de l’*Apollo 11* la formaven el comandant de la missió, Neil Armstrong, de trenta-vuit anys —civil, tot i que veterà de la guerra de Corea—, i dos pilots militars, Buzz Aldrin, de trenta-nou anys i pilot de la missió lunar, i Michael Collins, de trenta-vuit anys i pilot del mòdul de comandament. Tots tres havien sigut la tripulació de reserva de l’*Apollo 8*. Tenien personalitats molt diferents. Armstrong era força reservat i defugia el paper de protagonista, i estava més interessat en els aspectes tècnics del viatge que en la seva transcendència històrica, tot i que va pronunciar una frase per a la posteritat: «És un petit pas per a un home però un gran salt per a la humanitat». Doctorat pel MIT, Aldrin tenia una mentalitat analítica i científica i li va tocar ser el segon home a deixar la seva petjada sobre la Lluna. Michael Collins, que va ser l’únic que no va caminar sobre la superfície lunar perquè es va quedar al mòdul de comandament, orbitant la Lluna, va ser a qui menys atenció van prestar els mitjans de comunicació.\n\n2 hores i 17 minuts, és a dir, 137 minuts: aquest és el temps que Neil Armstrong va estar sobre la Lluna. Buzz Aldrin, el segon home que va trepitjar-la, s’hi va estar 1 hora i 49 minuts. El rècord el té Eugene Cernan, astronauta de l’última missió lunar, l’*Apollo 17*, que s’**hi** va estar 22 hores i 4 minuts. Quan el mòdul lunar de l’*Apollo 11* va aterrar a la Lluna sobre la plana coneguda com a *Mare Tranquillitatis* (mar de la Tranquil·litat), començava a clarejar.\n\nL’arribada de l’home a la Lluna es pot considerar el primer espectacle global, i va congregar a tot el món cinc-cents trenta milions d’espectadors davant del televisor per veure un borrós Neil Armstrong en blanc i negre posant un peu sobre la Lluna.\n\n*Adaptació feta a partir del text de Lara Bonilla. «Fins a la Lluna i més enllà». Ara [en línia] (15 juliol 2019)*",
+      "enunciat": "Després de llegir atentament el text anterior, indiqueu si les afirmacions següents són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "L’*Apollo 11* va ser la primera missió tripulada a l’espai.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "La Unió Soviètica va ser el primer país a enviar un home a tripular una nau espacial.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Els tres pilots de l’*Apollo 11* tenien trenta-vuit anys.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "Edwin Aldrin va romandre a la nau, orbitant la Lluna.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Tots tres astronautes van rebre la mateixa atenció per part dels mitjans de comunicació.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Contrasta cada afirmació amb el text. Cada error resta 0,1 i les respostes en blanc no resten. Atenció als matisos: «primera missió tripulada» no és el mateix que «primera a arribar a la Lluna», i *Edwin* és el nom real de *Buzz* Aldrin. Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** Va ser la primera a posar una persona a la Lluna, però era la cinquena missió tripulada del programa *Apollo*, i el 1961 Iuri Gagarin ja havia viatjat a l’espai."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** «La Unió Soviètica va posar en òrbita, l’abril del 1961, Iuri Gagarin, el primer home que va viatjar a l’espai.»"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** Armstrong i Collins en tenien trenta-vuit, però Aldrin en tenia **trenta-nou**."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** Qui es va quedar al mòdul de comandament orbitant la Lluna va ser **Michael Collins**; Aldrin (Edwin era el seu nom de pila; *Buzz*, el sobrenom) va ser el segon home a trepitjar-la."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** Collins «va ser a qui menys atenció van prestar els mitjans de comunicació»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Fals\n\nb) Vertader\n\nc) Fals\n\nd) Fals\n\ne) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "b",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "c",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "Trampa de la d): el text sempre diu *Buzz* Aldrin; l’afirmació fa servir el seu nom de pila, Edwin. Encara que no ho sabessis, el text deixa clar que qui va quedar orbitant va ser Collins, no Aldrin. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-2-b",
+      "exercici": 1,
+      "questio": "1.2",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Sinònims de mots del text sobre l’Apollo 11",
+      "tema": "lexic",
+      "temes_secundaris": [],
+      "conceptes": [
+        "sinonímia",
+        "lèxic",
+        "comprensió lectora",
+        "apollo 11"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        7
+      ],
+      "text": "El llançament el 1957 del primer satèl·lit artificial, l’*Sputnik 1*, per part de la Unió Soviètica va accelerar la cursa espacial dels Estats Units, que **el** van interpretar com una amenaça, i va acabar derivant en la creació de la NASA, la qual va desenvolupar diversos programes espacials —com el Mercury i el Gemini— amb l’objectiu de posar un peu a la Lluna abans del 1970, un compromís adquirit pel president John Fitzgerald Kennedy. Estava en joc el prestigi dels Estats Units, sobretot des que la Unió Soviètica va posar en òrbita, l’abril del 1961, Iuri Gagarin, el primer home que va viatjar a l’espai.\n\nLa missió lunar *Apollo 11* va ser la primera a posar una persona a la superfície de la Lluna. Els sis primers vols del programa *Apollo* van ser llançaments de prova no tripulats i l’*Apollo 11* va ser la cinquena missió tripulada del programa. Tot i la seva forta càrrega simbòlica, tenia un abast científic limitat. Els astronautes hi van recollir roques lunars, hi van muntar un panell reflector per mesurar la distància exacta entre la Terra i la Lluna i hi van deixar un sismògraf per mesurar possibles moviments sísmics. L’emblema de la missió era una àguila amb el cap blanc, l’au nacional dels Estats Units, i una branca d’olivera a les urpes. I l’àguila també va ser l’animal que va donar nom al mòdul lunar, *Eagle*.\n\nLa tripulació de l’*Apollo 11* la formaven el comandant de la missió, Neil Armstrong, de trenta-vuit anys —civil, tot i que veterà de la guerra de Corea—, i dos pilots militars, Buzz Aldrin, de trenta-nou anys i pilot de la missió lunar, i Michael Collins, de trenta-vuit anys i pilot del mòdul de comandament. Tots tres havien sigut la tripulació de reserva de l’*Apollo 8*. Tenien personalitats molt diferents. Armstrong era força reservat i defugia el paper de protagonista, i estava més interessat en els aspectes tècnics del viatge que en la seva transcendència històrica, tot i que va pronunciar una frase per a la posteritat: «És un petit pas per a un home però un gran salt per a la humanitat». Doctorat pel MIT, Aldrin tenia una mentalitat analítica i científica i li va tocar ser el segon home a deixar la seva petjada sobre la Lluna. Michael Collins, que va ser l’únic que no va caminar sobre la superfície lunar perquè es va quedar al mòdul de comandament, orbitant la Lluna, va ser a qui menys atenció van prestar els mitjans de comunicació.\n\n2 hores i 17 minuts, és a dir, 137 minuts: aquest és el temps que Neil Armstrong va estar sobre la Lluna. Buzz Aldrin, el segon home que va trepitjar-la, s’hi va estar 1 hora i 49 minuts. El rècord el té Eugene Cernan, astronauta de l’última missió lunar, l’*Apollo 17*, que s’**hi** va estar 22 hores i 4 minuts. Quan el mòdul lunar de l’*Apollo 11* va aterrar a la Lluna sobre la plana coneguda com a *Mare Tranquillitatis* (mar de la Tranquil·litat), començava a clarejar.\n\nL’arribada de l’home a la Lluna es pot considerar el primer espectacle global, i va congregar a tot el món cinc-cents trenta milions d’espectadors davant del televisor per veure un borrós Neil Armstrong en blanc i negre posant un peu sobre la Lluna.\n\n*Adaptació feta a partir del text de Lara Bonilla. «Fins a la Lluna i més enllà». Ara [en línia] (15 juliol 2019)*",
+      "enunciat": "Trobeu en el text els cinc mots que poden funcionar com a sinònims dels mots següents. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "*Intimidació*:",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "*Distintiu, insígnia*:",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "*Evitava*:",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "*Importància*:",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "*Reunir, aplegar*:",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Busca al text un mot de la **mateixa categoria i forma** que els que et donen (nom femení singular, verb en imperfet, infinitiu...). Copia’l exactament. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Nom femení: els EUA van interpretar el llançament de l’Sputnik «com una **amenaça**»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Nom masculí: «L’**emblema** de la missió era una àguila amb el cap blanc»."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Verb en imperfet, 3a persona del singular: Armstrong «**defugia** el paper de protagonista»."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Nom femení singular: «la seva **transcendència** històrica». (*Prestigi* no encaixa: vol dir ’bona reputació’, no ’importància’.)"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Verb: «va **congregar** a tot el món cinc-cents trenta milions d’espectadors». L’infinitiu *congregar* correspon als infinitius *reunir, aplegar*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) amenaça\n\nb) emblema\n\nc) defugia\n\nd) transcendència\n\ne) congregar"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "amenaça"
+          },
+          {
+            "apartat": "b",
+            "valor": "emblema"
+          },
+          {
+            "apartat": "c",
+            "valor": "defugia"
+          },
+          {
+            "apartat": "d",
+            "valor": "transcendència"
+          },
+          {
+            "apartat": "e",
+            "valor": "congregar"
+          }
+        ],
+        "nota": "A la d) també es podria pensar en *abast* (’abast científic’), però *transcendència* és el sinònim més precís d’*importància*. Els criteris del 2023 admetien altres formes del text si tenien el mateix valor semàntic. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-3-b",
+      "exercici": 1,
+      "questio": "1.3",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Referent dels pronoms febles «el» i «hi»",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "pronoms febles",
+        "referent",
+        "complement directe",
+        "hi locatiu"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "El llançament el 1957 del primer satèl·lit artificial, l’*Sputnik 1*, per part de la Unió Soviètica va accelerar la cursa espacial dels Estats Units, que **el** van interpretar com una amenaça, i va acabar derivant en la creació de la NASA, la qual va desenvolupar diversos programes espacials —com el Mercury i el Gemini— amb l’objectiu de posar un peu a la Lluna abans del 1970, un compromís adquirit pel president John Fitzgerald Kennedy. Estava en joc el prestigi dels Estats Units, sobretot des que la Unió Soviètica va posar en òrbita, l’abril del 1961, Iuri Gagarin, el primer home que va viatjar a l’espai.\n\nLa missió lunar *Apollo 11* va ser la primera a posar una persona a la superfície de la Lluna. Els sis primers vols del programa *Apollo* van ser llançaments de prova no tripulats i l’*Apollo 11* va ser la cinquena missió tripulada del programa. Tot i la seva forta càrrega simbòlica, tenia un abast científic limitat. Els astronautes hi van recollir roques lunars, hi van muntar un panell reflector per mesurar la distància exacta entre la Terra i la Lluna i hi van deixar un sismògraf per mesurar possibles moviments sísmics. L’emblema de la missió era una àguila amb el cap blanc, l’au nacional dels Estats Units, i una branca d’olivera a les urpes. I l’àguila també va ser l’animal que va donar nom al mòdul lunar, *Eagle*.\n\nLa tripulació de l’*Apollo 11* la formaven el comandant de la missió, Neil Armstrong, de trenta-vuit anys —civil, tot i que veterà de la guerra de Corea—, i dos pilots militars, Buzz Aldrin, de trenta-nou anys i pilot de la missió lunar, i Michael Collins, de trenta-vuit anys i pilot del mòdul de comandament. Tots tres havien sigut la tripulació de reserva de l’*Apollo 8*. Tenien personalitats molt diferents. Armstrong era força reservat i defugia el paper de protagonista, i estava més interessat en els aspectes tècnics del viatge que en la seva transcendència històrica, tot i que va pronunciar una frase per a la posteritat: «És un petit pas per a un home però un gran salt per a la humanitat». Doctorat pel MIT, Aldrin tenia una mentalitat analítica i científica i li va tocar ser el segon home a deixar la seva petjada sobre la Lluna. Michael Collins, que va ser l’únic que no va caminar sobre la superfície lunar perquè es va quedar al mòdul de comandament, orbitant la Lluna, va ser a qui menys atenció van prestar els mitjans de comunicació.\n\n2 hores i 17 minuts, és a dir, 137 minuts: aquest és el temps que Neil Armstrong va estar sobre la Lluna. Buzz Aldrin, el segon home que va trepitjar-la, s’hi va estar 1 hora i 49 minuts. El rècord el té Eugene Cernan, astronauta de l’última missió lunar, l’*Apollo 17*, que s’**hi** va estar 22 hores i 4 minuts. Quan el mòdul lunar de l’*Apollo 11* va aterrar a la Lluna sobre la plana coneguda com a *Mare Tranquillitatis* (mar de la Tranquil·litat), començava a clarejar.\n\nL’arribada de l’home a la Lluna es pot considerar el primer espectacle global, i va congregar a tot el món cinc-cents trenta milions d’espectadors davant del televisor per veure un borrós Neil Armstrong en blanc i negre posant un peu sobre la Lluna.\n\n*Adaptació feta a partir del text de Lara Bonilla. «Fins a la Lluna i més enllà». Ara [en línia] (15 juliol 2019)*",
+      "enunciat": "Escriviu el referent dels pronoms següents, marcats en negreta en el text. La resposta ha de contenir tots els elements que formen la construcció substituïda pel pronom feble. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "«El llançament el 1957 del primer satèl·lit artificial, l’*Sputnik 1*, per part de la Unió Soviètica va accelerar la cursa espacial dels Estats Units, que **el** van interpretar com una amenaça»:",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "«2 hores i 17 minuts, és a dir, 137 minuts: aquest és el temps que Neil Armstrong va estar sobre la Lluna. Buzz Aldrin, el segon home que va trepitjar-la, s’hi va estar 1 hora i 49 minuts. El rècord el té Eugene Cernan, astronauta de l’última missió lunar, l’*Apollo 17*, que s’**hi** va estar 22 hores i 4 minuts»:",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Escriu el sintagma sencer que el pronom substitueix i comprova-ho posant-lo al lloc del pronom. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*El* és un pronom de complement directe masculí singular del verb *interpretar* (els EUA van interpretar *què*?). El subjecte de *van interpretar* és *que* (= els Estats Units). El que interpreten com una amenaça és el llançament: «van interpretar **el llançament el 1957 del primer satèl·lit artificial, l’Sputnik 1, per part de la Unió Soviètica** com una amenaça»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Hi* substitueix un complement de lloc del verb *estar-se*: «s’hi va estar 22 hores» = ’es va estar **a la Lluna** / **sobre la Lluna** 22 hores’. El referent apareix abans: «el temps que Neil Armstrong va estar sobre la Lluna»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) *el* = **el llançament el 1957 del primer satèl·lit artificial, l’Sputnik 1, per part de la Unió Soviètica**.\n\nb) *hi* = **a la Lluna** (sobre la Lluna)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "el llançament el 1957 del primer satèl·lit artificial, l’Sputnik 1, per part de la Unió Soviètica"
+          },
+          {
+            "apartat": "b",
+            "valor": "a la Lluna / sobre la Lluna"
+          }
+        ],
+        "nota": "Error típic a la a): respondre «la cursa espacial» (és el CD d’*accelerar*, no d’*interpretar*) o només «l’Sputnik». El pronom *el* és masculí i el que s’interpreta com a amenaça és el llançament; la resposta ha de contenir tots els elements del sintagma. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-4-b",
+      "exercici": 1,
+      "questio": "1.4",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Per què l’Apollo 11 tenia un abast científic limitat (màxim 50 mots)",
+      "tema": "comprensio",
+      "temes_secundaris": [
+        "expressio"
+      ],
+      "conceptes": [
+        "comprensió lectora",
+        "resposta breu",
+        "paràfrasi",
+        "cursa espacial"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "El llançament el 1957 del primer satèl·lit artificial, l’*Sputnik 1*, per part de la Unió Soviètica va accelerar la cursa espacial dels Estats Units, que **el** van interpretar com una amenaça, i va acabar derivant en la creació de la NASA, la qual va desenvolupar diversos programes espacials —com el Mercury i el Gemini— amb l’objectiu de posar un peu a la Lluna abans del 1970, un compromís adquirit pel president John Fitzgerald Kennedy. Estava en joc el prestigi dels Estats Units, sobretot des que la Unió Soviètica va posar en òrbita, l’abril del 1961, Iuri Gagarin, el primer home que va viatjar a l’espai.\n\nLa missió lunar *Apollo 11* va ser la primera a posar una persona a la superfície de la Lluna. Els sis primers vols del programa *Apollo* van ser llançaments de prova no tripulats i l’*Apollo 11* va ser la cinquena missió tripulada del programa. Tot i la seva forta càrrega simbòlica, tenia un abast científic limitat. Els astronautes hi van recollir roques lunars, hi van muntar un panell reflector per mesurar la distància exacta entre la Terra i la Lluna i hi van deixar un sismògraf per mesurar possibles moviments sísmics. L’emblema de la missió era una àguila amb el cap blanc, l’au nacional dels Estats Units, i una branca d’olivera a les urpes. I l’àguila també va ser l’animal que va donar nom al mòdul lunar, *Eagle*.\n\nLa tripulació de l’*Apollo 11* la formaven el comandant de la missió, Neil Armstrong, de trenta-vuit anys —civil, tot i que veterà de la guerra de Corea—, i dos pilots militars, Buzz Aldrin, de trenta-nou anys i pilot de la missió lunar, i Michael Collins, de trenta-vuit anys i pilot del mòdul de comandament. Tots tres havien sigut la tripulació de reserva de l’*Apollo 8*. Tenien personalitats molt diferents. Armstrong era força reservat i defugia el paper de protagonista, i estava més interessat en els aspectes tècnics del viatge que en la seva transcendència històrica, tot i que va pronunciar una frase per a la posteritat: «És un petit pas per a un home però un gran salt per a la humanitat». Doctorat pel MIT, Aldrin tenia una mentalitat analítica i científica i li va tocar ser el segon home a deixar la seva petjada sobre la Lluna. Michael Collins, que va ser l’únic que no va caminar sobre la superfície lunar perquè es va quedar al mòdul de comandament, orbitant la Lluna, va ser a qui menys atenció van prestar els mitjans de comunicació.\n\n2 hores i 17 minuts, és a dir, 137 minuts: aquest és el temps que Neil Armstrong va estar sobre la Lluna. Buzz Aldrin, el segon home que va trepitjar-la, s’hi va estar 1 hora i 49 minuts. El rècord el té Eugene Cernan, astronauta de l’última missió lunar, l’*Apollo 17*, que s’**hi** va estar 22 hores i 4 minuts. Quan el mòdul lunar de l’*Apollo 11* va aterrar a la Lluna sobre la plana coneguda com a *Mare Tranquillitatis* (mar de la Tranquil·litat), començava a clarejar.\n\nL’arribada de l’home a la Lluna es pot considerar el primer espectacle global, i va congregar a tot el món cinc-cents trenta milions d’espectadors davant del televisor per veure un borrós Neil Armstrong en blanc i negre posant un peu sobre la Lluna.\n\n*Adaptació feta a partir del text de Lara Bonilla. «Fins a la Lluna i més enllà». Ara [en línia] (15 juliol 2019)*",
+      "enunciat": "Exposeu, en un màxim de cinquanta mots, per què en l’article s’afirma que la missió de l’*Apollo 11* tenia un abast científic limitat. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Resposta breu (màxim 50 mots), amb paraules pròpies i ben construïda. Cal explicar el *per què*: contrast entre la gran càrrega simbòlica i les poques tasques científiques. Temps: 5 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. La motivació era sobretot de prestigi: la cursa espacial amb la URSS (Sputnik, Gagarin, compromís de Kennedy).\n2. Les tasques científiques van ser poques: recollir roques, muntar un panell reflector per mesurar la distància Terra-Lluna i deixar un sismògraf.\n3. (Opcional) L’estada va ser molt breu: Armstrong hi va estar 2 hores i 17 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Perquè la missió tenia sobretot un valor simbòlic i polític: guanyar la cursa espacial a la Unió Soviètica. Científicament, els astronautes només hi van recollir roques lunars, hi van instal·lar un panell reflector per mesurar la distància entre la Terra i la Lluna i hi van deixar un sismògraf."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Valor sobretot simbòlic (prestigi dels EUA en la cursa espacial); tasques científiques escasses: roques lunars, panell reflector, sismògraf."
+          }
+        ],
+        "nota": "La resposta model té 49 mots. No n’hi ha prou de copiar la frase «tenia un abast científic limitat»: cal explicar-ne el motiu. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-5-1-b",
+      "exercici": 1,
+      "questio": "1.5.1",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Puig i Ferreter, Aigües encantades: «L’àliga deixa el galliner, per sempre…»",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "joan puig i ferreter",
+        "aigües encantades",
+        "cecília",
+        "símbol",
+        "individu i societat",
+        "teatre modernista"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Resoleu DUES de les tres qüestions següents (1.5.1, 1.5.2 i 1.5.3), relatives a les lectures obligatòries d’aquest curs.\n\n**1.5.1.** Comenteu aquesta frase de la Cecília, que forma part de la conversa final que té amb en Vergés, a l’obra *Aigües encantades*, de Joan Puig i Ferreter: «L’àliga deixa el galliner, per sempre…» [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cal triar DUES de les tres qüestions 1.5. Comentar la frase vol dir: **situar-la** (final de l’obra, la Cecília se’n va), **interpretar-ne el sentit simbòlic** (àliga / galliner) i **relacionar-la amb el tema** de l’obra. No hi ha límit de mots, però una resposta de 80-120 paraules és suficient. Temps: 8 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Context**: escena final; la Cecília, que ha estudiat a ciutat i s’ha sentit identificada amb les idees del Foraster, decideix deixar el poble i rebutja la vida que se li ofereix (també al costat d’en Vergés).\n\n2. **Símbols**: *l’àliga* = la llibertat, l’ambició intel·lectual, la Cecília; *el galliner* = el poble rural, tancat i supersticiós, i la casa paterna autoritària.\n\n3. **Tema**: individu vs. societat; ciència i progrés vs. superstició i tradició; emancipació de la dona.\n\n4. **«Per sempre»**: decisió irreversible."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La frase, pronunciada al final de l’obra, resumeix la decisió de la Cecília de marxar del poble per sempre. L’àliga, ocell que vola alt i lliure, la simbolitza a ella: una dona que ha estudiat a la ciutat, que creu en la ciència i el progrés i que aspira a la llibertat personal. El galliner representa el poble i la casa paterna: un espai tancat i mesquí, dominat per la superstició (les «aigües encantades»), la religió i l’autoritat del pare, en Pere Amat, on les dones han de viure com la Juliana, submises i resignades. Ni tan sols l’amor d’en Vergés no la pot retenir.\n\nLa frase condensa, doncs, el conflicte central del drama, l’enfrontament entre l’individu lliure i una societat immobilista, i el «per sempre» marca una ruptura definitiva, sense retorn."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Situació al final de l’obra (la Cecília se’n va del poble); àliga = llibertat / Cecília; galliner = poble tancat, supersticiós i autoritari; conflicte individu-societat; ruptura definitiva."
+          }
+        ],
+        "nota": "Error típic: explicar l’argument sencer en lloc de comentar la frase. Curiosament, l’àliga també és l’emblema de l’Apollo 11 del text de l’opció B, però al comentari no cal esmentar-ho. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-5-2-b",
+      "exercici": 1,
+      "questio": "1.5.2",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals sobre La plaça del Diamant (Quimet, veces, senyora Enriqueta, Rita)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mercè rodoreda",
+        "la plaça del diamant",
+        "vertader o fals",
+        "personatges",
+        "guerra civil"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8
+      ],
+      "text": "",
+      "enunciat": "Resoleu DUES de les tres qüestions següents (1.5.1, 1.5.2 i 1.5.3), relatives a les lectures obligatòries d’aquest curs.\n\n**1.5.2.** Indiqueu si les afirmacions següents, relatives a l’obra *La plaça del Diamant*, de Mercè Rodoreda, són vertaderes o falses. [1 punt. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En Quimet era una persona autoritària.",
+          "punts": 0.2
+        },
+        {
+          "id": "b",
+          "enunciat": "La Natàlia i en Quimet compraven les veces dels coloms a l’Antoni, l’adroguer.",
+          "punts": 0.2
+        },
+        {
+          "id": "c",
+          "enunciat": "La senyora Enriqueta, a l’estiu i a l’hivern, sols venia cacauets i xufles.",
+          "punts": 0.2
+        },
+        {
+          "id": "d",
+          "enunciat": "La filla de la Natàlia i en Quimet es deia Julieta.",
+          "punts": 0.2
+        },
+        {
+          "id": "e",
+          "enunciat": "La mare d’en Quimet va morir després que esclatés la Guerra Civil.",
+          "punts": 0.2
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada afirmació val 0,2 i **cada error resta 0,2**. Són preguntes de detall sobre personatges secundaris: si no en recordes alguna, deixa-la en blanc. Fixa’t en els absoluts (*sols*, *a l’estiu i a l’hivern*). Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** En Quimet imposa sempre la seva voluntat: decideix el nom de la Natàlia (Colometa), el colomar, la vida de la parella."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** Les veces per als coloms les compraven a l’adrogueria de l’Antoni; per això, quan la Natàlia hi va a demanar feina, l’adroguer la reconeix."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** La senyora Enriqueta venia **cacauets i xufles a l’estiu, i castanyes i moniatos a l’hivern**."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** La filla es diu **Rita** (el fill, Antoni). La Julieta és l’amiga que acompanya la Natàlia al ball de la plaça del Diamant al començament de la novel·la."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** La mare d’en Quimet mor durant la guerra, mentre ell és al front."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Vertader\n\nb) Vertader\n\nc) Fals\n\nd) Fals\n\ne) Vertader"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "c",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Vertader"
+          }
+        ],
+        "nota": "La c) es fa falsa per l’adverbi *sols* aplicat a tot l’any. Les respostes b) i e) són de detall i, sense criteris oficials, convé contrastar-les amb la lectura de l’obra. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e1-q1-5-3-b",
+      "exercici": 1,
+      "questio": "1.5.3",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals sobre Aigües encantades (mossèn, Vergés, Foraster, Joan Gatell)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "joan puig i ferreter",
+        "aigües encantades",
+        "vertader o fals",
+        "personatges",
+        "teatre modernista"
+      ],
+      "dificultat": 3,
+      "pagines": [
+        8
+      ],
+      "text": "",
+      "enunciat": "Resoleu DUES de les tres qüestions següents (1.5.1, 1.5.2 i 1.5.3), relatives a les lectures obligatòries d’aquest curs.\n\n**1.5.3.** Indiqueu si les afirmacions següents, relatives a l’obra *Aigües encantades*, de Joan Puig i Ferreter, són vertaderes o falses. [1 punt. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "El mossèn retreu a la Juliana que hagi deixat estudiar la seva filla.",
+          "punts": 0.2
+        },
+        {
+          "id": "b",
+          "enunciat": "La Cecília està acompanyada quan en Vergés va a veure-la a l’inici de l’obra.",
+          "punts": 0.2
+        },
+        {
+          "id": "c",
+          "enunciat": "El Foraster, en arribar al poble, s’adreça a la casa d’en Pere Amat.",
+          "punts": 0.2
+        },
+        {
+          "id": "d",
+          "enunciat": "En Joan Gatell és el metge del poble.",
+          "punts": 0.2
+        },
+        {
+          "id": "e",
+          "enunciat": "El marit de la Juliana és molt més intransigent que ella.",
+          "punts": 0.2
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada afirmació val 0,2 i **cada error resta 0,2**. Les afirmacions d) i e) es poden respondre coneixent els personatges principals; les altres són de detall d’escena: si no les recordes amb seguretat, deixa-les en blanc. Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** El mossèn, representant de la mentalitat religiosa del poble, culpa la mare d’haver deixat que la Cecília estudiés a ciutat, on ha perdut la fe i ha après idees modernes."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** Al començament de l’obra en Vergés troba la Cecília sola i té amb ella una conversa a soles en què es fa evident l’interès que sent per ella."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** El Foraster, quan arriba al poble assolat per la sequera, va a parar a casa d’en Pere Amat, on coneix la Cecília."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fals.** En Joan Gatell és el **batlle** del poble (i el personatge que evoluciona al llarg de l’obra), no el metge."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "**Vertader.** En Pere Amat, el marit de la Juliana, és un terratinent autoritari i immobilista; la Juliana, tot i ser religiosa i submisa, és més tendra i comprensiva amb la filla."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Vertader\n\nb) Fals\n\nc) Vertader\n\nd) Fals\n\ne) Vertader"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Vertader"
+          }
+        ],
+        "nota": "Atenció: les respostes b) i c) depenen de detalls d’escena que no s’han pogut contrastar amb criteris oficials (no n’hi ha); són les menys segures d’aquest examen i convé comprovar-les amb el text de l’obra. La d) i la e) són segures (els criteris de setembre del 2023 també indiquen que en Joan Gatell és el batlle). (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e2-q2-1-b",
+      "exercici": 2,
+      "questio": "2.1",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Reescriure un fragment passant el passat perifràstic a passat simple",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "expressio"
+      ],
+      "conceptes": [
+        "temps verbals",
+        "passat perifràstic",
+        "passat simple",
+        "reescriptura",
+        "morfologia verbal"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8
+      ],
+      "text": "",
+      "enunciat": "Reescriviu el fragment següent canviant els temps verbals en passat perifràstic per formes de passat simple. La redacció resultant ha de contenir tota la informació inclosa en el fragment. Subratlleu en els dos textos les formes verbals originals i les reescrites. [1 punt]\n\n«El llançament el 1957 del primer satèl·lit artificial, l’*Sputnik 1*, per part de la Unió Soviètica va accelerar la cursa espacial dels Estats Units, que el van interpretar com una amenaça, i va acabar derivant en la creació de la NASA, la qual va desenvolupar diversos programes espacials —com el Mercury i el Gemini— amb l’objectiu de posar un peu a la Lluna abans del 1970, un compromís adquirit pel president John Fitzgerald Kennedy. Estava en joc el prestigi dels Estats Units, sobretot des que la Unió Soviètica va posar en òrbita, l’abril del 1961, Iuri Gagarin, el primer home que va viatjar a l’espai.\n\nLa missió lunar *Apollo 11* va ser la primera a posar una persona a la superfície de la Lluna. […] Tot i la seva forta càrrega simbòlica, tenia un abast científic limitat. Els astronautes hi van recollir roques lunars, hi van muntar un panell reflector per mesurar la distància exacta entre la Terra i la Lluna i hi van deixar un sismògraf per mesurar possibles moviments sísmics. L’emblema de la missió era una àguila amb el cap blanc, l’au nacional dels Estats Units, i una branca d’olivera a les urpes. I l’àguila també va ser l’animal que va donar nom al mòdul lunar, *Eagle*.»",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cal canviar **només** els passats perifràstics (*va* + infinitiu) pel passat simple (*accelerà*, *acabaren*...) i subratllar-los en els dos textos. Els imperfets (*Estava*, *tenia*, *era*) i el gerundi (*derivant*) no es toquen. Atenció als pronoms: *el van interpretar* → *l’interpretaren* (davant de vocal, el pronom s’apostrofa). Temps: 8 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Formes en passat perifràstic (12) i el seu passat simple:\n\n| Perifràstic | Passat simple |\n|---|---|\n| va accelerar | accelerà |\n| el van interpretar | l’interpretaren |\n| va acabar | acabà |\n| va desenvolupar | desenvolupà |\n| va posar (en òrbita) | posà |\n| va viatjar | viatjà |\n| va ser (la primera) | fou |\n| hi van recollir | hi recolliren |\n| hi van muntar | hi muntaren |\n| hi van deixar | hi deixaren |\n| va ser (l’animal) | fou |\n| va donar | donà |\n\nRecorda: 3a persona del singular en *-à* (accentuada) i del plural en *-aren*/*-iren*; *ser* → *fou* (forma pròpia del passat simple de *ser*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "«El llançament el 1957 del primer satèl·lit artificial, l’*Sputnik 1*, per part de la Unió Soviètica **accelerà** la cursa espacial dels Estats Units, que **l’interpretaren** com una amenaça, i **acabà** derivant en la creació de la NASA, la qual **desenvolupà** diversos programes espacials —com el Mercury i el Gemini— amb l’objectiu de posar un peu a la Lluna abans del 1970, un compromís adquirit pel president John Fitzgerald Kennedy. Estava en joc el prestigi dels Estats Units, sobretot des que la Unió Soviètica **posà** en òrbita, l’abril del 1961, Iuri Gagarin, el primer home que **viatjà** a l’espai.\n\nLa missió lunar *Apollo 11* **fou** la primera a posar una persona a la superfície de la Lluna. […] Tot i la seva forta càrrega simbòlica, tenia un abast científic limitat. Els astronautes hi **recolliren** roques lunars, hi **muntaren** un panell reflector per mesurar la distància exacta entre la Terra i la Lluna i hi **deixaren** un sismògraf per mesurar possibles moviments sísmics. L’emblema de la missió era una àguila amb el cap blanc, l’au nacional dels Estats Units, i una branca d’olivera a les urpes. I l’àguila també **fou** l’animal que **donà** nom al mòdul lunar, *Eagle*.»\n\n(Les formes en negreta són les que s’han de subratllar; al text original cal subratllar també els perifràstics corresponents.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "accelerà, l’interpretaren, acabà, desenvolupà, posà, viatjà, fou, recolliren, muntaren, deixaren, fou, donà (12 formes)."
+          }
+        ],
+        "nota": "Errors típics: oblidar l’accent de la 3a persona (*\\*accelera* és present!), escriure *\\*el interpretaren* sense apostrofar, o canviar també els imperfets (*Estava*, *tenia*, *era*). Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e2-q2-2-b",
+      "exercici": 2,
+      "questio": "2.2",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "redaccio",
+      "punts": 2,
+      "titol": "Valorar la importància i les aportacions dels viatges a l’espai (125-150 paraules)",
+      "tema": "expressio",
+      "temes_secundaris": [
+        "textos"
+      ],
+      "conceptes": [
+        "text argumentatiu",
+        "registre formal",
+        "coherència",
+        "cohesió",
+        "connectors",
+        "exploració espacial"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        9
+      ],
+      "text": "",
+      "enunciat": "El text recorda l’arribada dels tripulants de l’*Apollo 11* a la Lluna, que tingué lloc l’any 1969. Escriviu un text formal ben estructurat, de cent vint-i-cinc a cent cinquanta paraules, en què valoreu la importància i les aportacions dels viatges a l’espai. [2 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text **argumentatiu/expositiu** formal de **125-150 paraules**: has de *valorar*, és a dir, donar una opinió fonamentada amb arguments i exemples concrets d’aportacions. Evita la primera persona col·loquial i les generalitats buides. Els criteris del 2023: adequació (0,5), coherència (0,75) i cohesió (0,75), graduables de 0,25 en 0,25; extensió ajustada. Temps: 20 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Introducció / tesi**: enllaça amb l’Apollo 11 i afirma la importància dels viatges espacials.\n\n2. **Arguments**: coneixement científic (univers, sistema solar, cos humà); avenços tecnològics quotidians (satèl·lits, GPS, meteorologia, materials); observació de la Terra i canvi climàtic.\n\n3. **Contraargument** (opcional però valorat): el cost elevat, i la refutació.\n\n4. **Conclusió**: reafirma la tesi.\n\nConnectors: *en primer lloc*, *en segon lloc*, *a més*, *tanmateix*, *malgrat això*, *en definitiva*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L’arribada de l’*Apollo 11* a la Lluna, l’any 1969, va ser molt més que una gesta simbòlica de la guerra freda. Els viatges a l’espai han tingut una importància cabdal per al progrés de la humanitat.\n\nEn primer lloc, han ampliat el coneixement científic: les missions espacials permeten estudiar l’origen del sistema solar, observar l’univers sense la interferència de l’atmosfera i investigar els efectes de la gravetat en el cos humà. En segon lloc, han impulsat avenços tecnològics que avui fem servir quotidianament, com ara els satèl·lits de comunicacions, el GPS o la predicció meteorològica. A més, l’observació de la Terra des de l’espai és imprescindible per controlar el canvi climàtic.\n\nTanmateix, cal reconèixer que aquests programes són molt costosos. Malgrat això, els beneficis superen àmpliament les despeses, perquè l’exploració espacial fa avançar la humanitat i amplia els límits del coneixement."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Adequació (0,5): registre formal, valoració del tema demanat, 125-150 paraules."
+          },
+          {
+            "apartat": null,
+            "valor": "Coherència (0,75): tesi clara, arguments pertinents amb exemples, estructura en paràgrafs."
+          },
+          {
+            "apartat": null,
+            "valor": "Cohesió (0,75): connectors, puntuació, oracions ben construïdes."
+          }
+        ],
+        "nota": "La resposta model té 142 paraules. És una resposta oberta: també es pot defensar una postura crítica (cost, residus espacials) si està ben argumentada. Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e3-q3-1-1",
+      "exercici": 3,
+      "questio": "3.1.1",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció del pronom «l’» a «que l’hauran amoïnat»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "funcions sintàctiques",
+        "pronoms febles",
+        "complement directe"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nSuposo que aquestes paraules esbandiran un seguit de cabòries, lògiques, que **l’**hauran amoïnat aquests anys.",
+      "figures": [],
+      "opcions": {
+        "A": "complement agent",
+        "B": "complement o objecte directe",
+        "C": "atribut",
+        "D": "complement de l’adjectiu"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test sobre funcions sintàctiques. Cada encert val 0,2 i **cada error resta 0,2**: si no pots descartar opcions, deixa-la en blanc. Fes servir les proves: substitució per un pronom feble, concordança amb el verb, canvi de posició. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "El verb és *amoïnar* (transitiu: *amoïnar algú*). El subjecte és el relatiu *que* (= les cabòries) i *l’* (= vostè, la senyora) és la persona amoïnada. Prova: «les cabòries **l’**han amoïnada / han amoïnat **la senyora**». No hi ha verb copulatiu (descartem l’atribut), ni passiva (descartem l’agent), ni cap adjectiu de qui depengui."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "B) complement o objecte directe."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "complement o objecte directe."
+          }
+        ],
+        "nota": "(Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e3-q3-1-2",
+      "exercici": 3,
+      "questio": "3.1.2",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció de l’oració «que va donar nom al mòdul lunar, Eagle»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "oració subordinada adjectiva",
+        "oració de relatiu",
+        "complement del nom"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nI l’àguila també va ser l’animal **que va donar nom al mòdul lunar, *Eagle***.",
+      "figures": [],
+      "opcions": {
+        "A": "oració subordinada substantiva de complement directe",
+        "B": "oració subordinada adjectiva o de relatiu de complement del nom",
+        "C": "oració subordinada substantiva de subjecte",
+        "D": "construcció o clàusula d’infinitiu temporal"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test sobre funcions sintàctiques. Cada encert val 0,2 i **cada error resta 0,2**: si no pots descartar opcions, deixa-la en blanc. Fes servir les proves: substitució per un pronom feble, concordança amb el verb, canvi de posició. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "L’oració comença amb *que* precedit d’un nom (*l’animal*), que és l’antecedent: «l’animal que va donar nom...» = ’l’animal **el qual** va donar nom...’. Com que es pot substituir per *el qual*, *que* és un pronom relatiu i l’oració és **adjectiva de relatiu**, que complementa el nom *animal*. Dins l’oració, *que* fa de subjecte de *va donar*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "B) oració subordinada adjectiva o de relatiu de complement del nom."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "oració subordinada adjectiva o de relatiu de complement del nom."
+          }
+        ],
+        "nota": "(Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e3-q3-1-3",
+      "exercici": 3,
+      "questio": "3.1.3",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció del pronom «hi» a «hi van deixar un sismògraf»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "funcions sintàctiques",
+        "pronom hi",
+        "complement circumstancial"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nVan muntar un panell reflector per mesurar la distància exacta entre la Terra i la Lluna i **hi** van deixar un sismògraf per mesurar possibles moviments sísmics.",
+      "figures": [],
+      "opcions": {
+        "A": "complement del nom",
+        "B": "complement o objecte directe",
+        "C": "subjecte",
+        "D": "complement circumstancial (o adjunt)"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test sobre funcions sintàctiques. Cada encert val 0,2 i **cada error resta 0,2**: si no pots descartar opcions, deixa-la en blanc. Fes servir les proves: substitució per un pronom feble, concordança amb el verb, canvi de posició. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Hi* substitueix un complement de lloc: «van deixar un sismògraf **a la Lluna**». El CD de *deixar* ja és *un sismògraf*, i el subjecte és el nom elidit *els astronautes* (un pronom feble mai no és subjecte). Per tant, *hi* és **complement circumstancial de lloc**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "D) complement circumstancial (o adjunt)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "complement circumstancial (o adjunt)."
+          }
+        ],
+        "nota": "(Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e3-q3-1-4",
+      "exercici": 3,
+      "questio": "3.1.4",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció de «d’una mena de canó que funcionava amb aire comprimit»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "funcions sintàctiques",
+        "complement de règim",
+        "verbs de règim"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nLa cosa constava **d’una mena de canó que funcionava amb aire comprimit**.",
+      "figures": [],
+      "opcions": {
+        "A": "complement de règim (o preposicional)",
+        "B": "complement circumstancial (o adjunt)",
+        "C": "complement del nom",
+        "D": "complement agent"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test sobre funcions sintàctiques. Cada encert val 0,2 i **cada error resta 0,2**: si no pots descartar opcions, deixa-la en blanc. Fes servir les proves: substitució per un pronom feble, concordança amb el verb, canvi de posició. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "El verb *constar* (amb el sentit de ’estar format’) **exigeix** la preposició *de*: *constar de alguna cosa*. Sense el complement la frase queda incompleta («\\*La cosa constava»). Es pronominalitza amb *en*: «La cosa **en** constava». És un **complement de règim verbal**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A) complement de règim (o preposicional)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "complement de règim (o preposicional)."
+          }
+        ],
+        "nota": "(Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e3-q3-1-5",
+      "exercici": 3,
+      "questio": "3.1.5",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció de «els mitjans de comunicació»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "funcions sintàctiques",
+        "subjecte",
+        "concordança"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nVa ser a qui menys atenció van prestar **els mitjans de comunicació**.",
+      "figures": [],
+      "opcions": {
+        "A": "subjecte",
+        "B": "atribut",
+        "C": "complement del nom",
+        "D": "complement o objecte indirecte"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test sobre funcions sintàctiques. Cada encert val 0,2 i **cada error resta 0,2**: si no pots descartar opcions, deixa-la en blanc. Fes servir les proves: substitució per un pronom feble, concordança amb el verb, canvi de posició. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "El sintagma concorda en plural amb el verb *van prestar*: si el posem en singular, el verb també canvia («va prestar el mitjà de comunicació»). És qui fa l’acció de prestar atenció: és el **subjecte** (postposat) de l’oració de relatiu «a qui menys atenció van prestar els mitjans». *A qui* és el complement indirecte i *menys atenció*, el CD."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A) subjecte."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "subjecte."
+          }
+        ],
+        "nota": "Error típic: triar el complement indirecte perquè el subjecte va darrere del verb. La prova de la concordança ho resol. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e3-q3-2",
+      "exercici": 3,
+      "questio": "3.2",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Parelles de mots: tan/tant, gens/res, què/que, sinó/si no, gairebé/gaire bé",
+      "tema": "normativa",
+      "temes_secundaris": [],
+      "conceptes": [
+        "tan/tant",
+        "gens/res",
+        "què/que",
+        "sinó/si no",
+        "gairebé/gaire bé",
+        "ortografia"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Completeu les oracions següents amb la forma correcta de les dues que hi ha entre parèntesis. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Després de _____ de temps sense veure’l, m’adono que continua _____ loquaç com sempre. (*tan* / *tant*)",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "No t’amoïnis _____ pels diners. No et costarà _____ tornar-ho a imprimir. (*gens* / *res*)",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Li vaig dir _____ tingués una mica de paciència i em va demanar per _____. (*què* / *que*)",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "No diu _____ ruqueries; hauria estat millor que no hagués vingut, _____ volia intervenir en el programa. (*sinó* / *si no*)",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Hi eren _____ tots. Sols no hi van anar els que no es trobaven _____. (*gaire bé* / *gairebé*)",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada oració té dos buits i s’hi han de posar les dues formes, una a cada lloc. Raona-ho amb la categoria gramatical de cada forma (adverbi, quantificador, conjunció, pronom). Cada parella val 0,1 i normalment cal encertar les dues formes. Temps: 4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*Tant* acompanya noms i verbs (quantitat: *tant de temps*); *tan* és la forma apocopada davant d’adjectius i adverbis (*tan loquaç*)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Gens* indica grau o quantitat no comptable i acompanya verbs com a intensitat (’gens ni mica’: *no t’amoïnis gens*); *res* és un pronom que equival a ’cap cosa’ i fa de CD (*no et costarà res* = cap cosa, cap esforç)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "*Que* àton és una conjunció que introdueix l’oració subordinada (*li vaig dir que tingués paciència*). *Per què* (preposició + pronom interrogatiu tònic *què*) vol dir ’per quin motiu’: *em va demanar per què* [ho deia]."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "*Sinó* (conjunció) equival a ’només, solament’ en frases negatives (*no diu sinó ruqueries* = només diu ruqueries). *Si no* = conjunció condicional *si* + negació: *si no volia intervenir* = ’en cas que no volgués’."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "*Gairebé* (adverbi, una sola paraula) = ’quasi’ (*gairebé tots*). *Gaire bé* = quantificador *gaire* + adverbi *bé*: *no es trobaven gaire bé* = ’no es trobaven bé del tot’."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Després de **tant** de temps sense veure’l, m’adono que continua **tan** loquaç com sempre.\n\nb) No t’amoïnis **gens** pels diners. No et costarà **res** tornar-ho a imprimir.\n\nc) Li vaig dir **que** tingués una mica de paciència i em va demanar per **què**.\n\nd) No diu **sinó** ruqueries; hauria estat millor que no hagués vingut, **si no** volia intervenir en el programa.\n\ne) Hi eren **gairebé** tots. Sols no hi van anar els que no es trobaven **gaire bé**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "tant / tan"
+          },
+          {
+            "apartat": "b",
+            "valor": "gens / res"
+          },
+          {
+            "apartat": "c",
+            "valor": "que / què"
+          },
+          {
+            "apartat": "d",
+            "valor": "sinó / si no"
+          },
+          {
+            "apartat": "e",
+            "valor": "gairebé / gaire bé"
+          }
+        ],
+        "nota": "La b) és la més delicada: *gens* i *res* poden semblar intercanviables, però *res* fa de CD (’cap cosa’) i *gens* modifica el verb com a grau. A la c), recorda que *per què* interrogatiu s’escriu separat i amb accent. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e3-q3-3",
+      "exercici": 3,
+      "questio": "3.3",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Formes verbals: fer, lluir, escollir, coure, voler",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "normativa"
+      ],
+      "conceptes": [
+        "morfologia verbal",
+        "present de subjuntiu",
+        "imperatiu",
+        "gerundi",
+        "verbs irregulars"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Completeu les oracions següents amb la forma verbal correcta del verb que hi ha entre parèntesis. No podeu utilitzar formes perifràstiques. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Ja em diràs per què vols que ho _____ (*fer*) ells si no són les persones més indicades per a dur a terme aquesta missió.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "Aquests pastissers ara sempre es _____ (*lluir*) molt amb els pastissos que fan.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Endavant. _____ (*escollir*) el vestit que t’agradi més.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "La Maria s’ha passat el matí _____ (*coure*) els caragols ben a poc a poc.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Vigileu! No _____ (*voler*) anar tan de pressa, que caureu!",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Primer decideix el **temps i la persona** que demana el context (subjecte, *vols que* + subjuntiu, imperatiu, perífrasi *passar-se el matí* + gerundi) i després conjuga el verb, compte amb les irregularitats. Temps: 4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*Vols que* exigeix subjuntiu; el subjecte és *ells* → present de subjuntiu, 3a persona del plural de *fer*: **facin**."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Present d’indicatiu (*ara sempre*), 3a persona del plural (*aquests pastissers*). *Lluir* és incoatiu: *lluo/llueixo, llueixes, llueix...* → **llueixen**."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Imperatiu de 2a persona del singular (*que t’agradi*, tractament de tu). *Escollir* és irregular amb alternança vocàlica (*escullo, culls, cull*) → **escull**."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "*Passar-se el matí* + gerundi. El gerundi de *coure* és **coent** (com *beure* → *bevent*, *moure* → *movent*... però *coure* fa *coent*)."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Imperatiu negatiu = present de subjuntiu; 2a persona del plural (*Vigileu*, *caureu*) → *voler*: **vulgueu**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) facin\n\nb) llueixen\n\nc) Escull\n\nd) coent\n\ne) vulgueu"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "facin"
+          },
+          {
+            "apartat": "b",
+            "valor": "llueixen"
+          },
+          {
+            "apartat": "c",
+            "valor": "Escull"
+          },
+          {
+            "apartat": "d",
+            "valor": "coent"
+          },
+          {
+            "apartat": "e",
+            "valor": "vulgueu"
+          }
+        ],
+        "nota": "Errors típics: *\\*fagin* (forma no normativa), *\\*coient* o *\\*coguent* (incorrectes) i *\\*volgueu* o *\\*vulguis* (persona equivocada). Compte que *Escull* va amb majúscula perquè comença frase. (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e3-q3-4",
+      "exercici": 3,
+      "questio": "3.4",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Grafies del so fricatiu alveolar sord [s]",
+      "tema": "normativa",
+      "temes_secundaris": [],
+      "conceptes": [
+        "fonètica",
+        "essa sorda",
+        "essa sonora",
+        "ortografia",
+        "s/ss/c"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Subratlleu en el text següent NOMÉS les cinc grafies que corresponen al so fricatiu alveolar sord [s]. [0,5 punts]\n\nEncara que va insistir molt perquè anés al casament, vaig decidir que no volia passar per aquest tràngol insuportable.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Has de distingir el so [s] (sord: *passar*, *cel*, *pensar*) del so [z] (sonor: *casa*, *zero*, i la *-s* final davant de vocal en la cadena parlada). Repassa paraula per paraula totes les *s*, *ss*, *c* i *ç*. Temps: 3 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Repàs de les grafies sibilants:\n\n- *insistir*: la *s* després de consonant (*ins-*) i la *s* davant de consonant (*-ist-*) són sordes [s].\n- *anés al*: la *-s* final davant de vocal es pronuncia sonora [z] («ané[z] al») → **no**.\n- *casament*: la *s* entre vocals és sonora [z] → **no**.\n- *decidir*: *c* davant de *i* = [s] → **sí**.\n- *passar*: *ss* = [s] → **sí**.\n- *aquest*: *s* davant de *t* = [s] → **sí**.\n- *insuportable*: *s* després de *n* = [s] → **sí**.\n\nHi ha, doncs, **cinc paraules** amb grafia de [s] (*insistir*, *decidir*, *passar*, *aquest*, *insuportable*); *insistir* en conté dues."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Encara que va in**s**i**s**tir molt perquè anés al casament, vaig de**c**idir que no volia pa**ss**ar per aque**s**t tràngol in**s**uportable.\n\n(En negreta, les grafies que s’han de subratllar.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "in**s**i**s**tir, de**c**idir, pa**ss**ar, aque**s**t, in**s**uportable."
+          }
+        ],
+        "nota": "Discrepància amb l’enunciat: estrictament hi ha **sis** grafies de [s], perquè *insistir* en té dues. Probablement l’examen compta cinc paraules (o cinc llocs on apareix el so). Sense criteris oficials no es pot saber com es corregia; el més segur és subratllar les sis grafies. Les trampes són *casament* i *anés al* (essa sonora [z]). (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    },
+    {
+      "id": "catala-2023-J-e3-q3-5",
+      "exercici": 3,
+      "questio": "3.5",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Derivació: entaular-se, ineptitud, perseverança, impressió, engelosir-se",
+      "tema": "lexic",
+      "temes_secundaris": [],
+      "conceptes": [
+        "derivació",
+        "formació de mots",
+        "sufixos",
+        "prefixos",
+        "parasíntesi"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Completeu les oracions següents amb els verbs o substantius adequats, derivats dels mots que hi ha entre parèntesis. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Van arribar al restaurant, i es van _____ tot seguit. (*taula*)",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "Té una absoluta _____ per a prendre decisions. (*inepte*)",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Va actuar amb _____ i al final va aconseguir el seu propòsit. (*perseverar*)",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "La _____ d’aquest llibre és molt acurada. (*imprimir*)",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Tot i que sovint s’_____ de la seva germana, mai no ho va arribar a demostrar. (*gelós*)",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Mira quina categoria demana el buit (verb després de *es van*, nom després d’article o d’*amb*) i quina forma flexiva (infinitiu, imperfet...). Escriu el derivat normatiu, sense castellanismes. Temps: 4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Verb parasintètic *en-* + *taula* + *-ar*: *entaular-se* (’seure a taula’). Després de *es van* va l’infinitiu: **entaular**."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Nom de qualitat de *inepte* amb el sufix *-itud*: **ineptitud** (no *\\*inèptia*)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Nom d’acció/qualitat de *perseverar* amb *-ança*: **perseverança**."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Nom d’acció d’*imprimir* (participi *imprès*): **impressió**."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Verb parasintètic *en-* + *gelós* + *-ir*: *engelosir-se* (’posar-se gelós’). El context (*sovint*, *mai no ho va arribar*) demana imperfet, 3a persona: **engelosia** («s’engelosia»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) entaular\n\nb) ineptitud\n\nc) perseverança\n\nd) impressió\n\ne) engelosia"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "entaular"
+          },
+          {
+            "apartat": "b",
+            "valor": "ineptitud"
+          },
+          {
+            "apartat": "c",
+            "valor": "perseverança"
+          },
+          {
+            "apartat": "d",
+            "valor": "impressió"
+          },
+          {
+            "apartat": "e",
+            "valor": "engelosia"
+          }
+        ],
+        "nota": "Errors típics: *\\*sentar-se* a la a) (castellanisme i no derivat de *taula*), *\\*impresió* amb una sola *s* a la d), i *\\*engelosava* a la e) (el verb és de la 3a conjugació, *engelosir*). A la e) també s’acceptaria *engelosí* (passat simple). (Aquest examen no té criteris de correcció oficials publicats.)"
+      }
+    }
+  ]
+}

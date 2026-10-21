@@ -1,0 +1,2152 @@
+{
+  "examen": {
+    "id": "catala-2023-S",
+    "assignatura": "catala",
+    "materia": "Llengua catalana i literatura",
+    "any": 2023,
+    "convocatoria": "setembre",
+    "serie": "2",
+    "pdf_examen": "pdfs/catala/2023-S-examen.pdf",
+    "pdf_solucio": "pdfs/catala/2023-S-solucio.pdf",
+    "estructura": "Tres parts (10 punts). Cal triar UNA de les dues opcions (A: fragment de *Suburbi*, de Xavier Benguerel; B: text periodístic sobre les assegurances contra abduccions extraterrestres) i fer-ne les parts 1 i 2; la part 3 és comuna. 1. Comprensió lectora (4 punts): vertader/fals (0,5; errors descompten 0,1), sinònims (0,5), referents de pronoms febles (0,5), pregunta de comprensió de 50 mots (0,5) i, de les lectures obligatòries (*La plaça del Diamant* i *Aigües encantades*), cal resoldre DUES de les tres qüestions 1.5.1-1.5.3 (1 punt cadascuna; als vertader/fals els errors descompten 0,2). 2. Expressió escrita (3 punts): reescriptura d’un fragment canviant els temps verbals (1 punt) i text formal de 125-150 paraules (2 punts: adequació 0,5, coherència 0,75, cohesió 0,75). 3. Reflexió lingüística, part comuna (3 punts): cinc preguntes de test d’anàlisi sintàctica (1 punt, 0,2 cadascuna, errors descompten 0,2) i quatre exercicis de 0,5 punts (parelles de mots, formes verbals, essa sonora i derivació). Cada falta de normativa, encara que sigui repetida, resta 0,1 punts en tot l’examen."
+  },
+  "problemes": [
+    {
+      "id": "catala-2023-S-e1-q1-1-a",
+      "exercici": 1,
+      "questio": "1.1",
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals sobre el fragment de Suburbi",
+      "tema": "comprensio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "comprensió lectora",
+        "vertader o fals",
+        "xavier benguerel",
+        "suburbi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2
+      ],
+      "text": "Només eren les sis. Exactament a les set i cinc minuts, quan tothom comencés a plegar, entraria a la gerència. Es pensava que s’ho sabia de memòria, el que havia de tirar en cara a don Narcís, i ara, tot just si recordava quatre coses sense cap mena d’importància. Per si fos poc, aquells dies no l’havien deixat ni un moment sol amb la Maria. Només, asseguts a taula a les hores dels àpats, es miraven sense dir-se res, amb tristesa. […] Arrabassà d’una estrebada el paper que tenia a la màquina d’escriure i el va rebotre contra la paperera. S’aixecà enfurismat, amb ganes de cridar, de fer-s’hi a cops de puny, a mossegades.\n\n—Què li passa, Joaquim?\n\nAixò mateix, què li passava? Que perdia els estreps, que si no sabia contenir-se, obrar amb astúcia, ho perdria tot, definitivament. Si li digués què li passava! Però allò no era cap pregunta. S’**hi** assemblava. Venia a ser un comentari que no el comprometia. Tombà el cap amb l’esperança de trobar algú que a última hora el compadís, amb ganes d’ajudar-lo. Refia-te’n. Cap mica de cordialitat ni tal sols d’interès en aquella mirada de conill del senyor Rovira: inexpressiva, mansa, sempre igual a si mateixa.\n\n—Haig de parlar amb don Narcís —va dir per dir alguna cosa.\n\n—Doncs, si no s’hi afanya no hi serà pas a temps. Avui té pressa. Ara, que si em vol creure a mi, em penso que val més…\n\nEn Quimet sortí disparat de l’oficina sense acabar d’atendre el consell del senyor Rovira. No podia perdre ni una hora més, ni un sol minut. No trucà a la gerència, com era de rigor, va entrar-hi impetuosament. Don Narcís estava tancant els calaixos de la taula, disposant-se a plegar. En escoltar el vaivé de la porta es regirà, sorprès.\n\n—Ah, és vostè, Joaquim!\n\nEl tenia allà dins, no se li escaparia; l’hauria d’escoltar, si no de grat, per força.\n\n—És que el senyor Rovira m’acaba de dir que potser el trobaria fora, i com que necessitava parlar-li avui mateix…\n\n—No es preocupi, home de Déu, ni faci compliments. Realment porto pressa i em disposava a sortir, però tractant-se de vostè…\n\nEl to era cordial, ajustat al seu estil. Potser un inquiet anar i venir de les pupil·les delatava una certa inquietud si no fos el desig de treure-se’l del davant com més aviat millor. En Quimet reüllà al seu entorn. Era estúpid, però per un moment va tenir la impressió que la senyora Rosa i la tia Sílvia **l’**espiaven des del lavabo de don Narcís. Tant li fot si hi eren. […]\n\n—Digui què vol.\n\nXavier Benguerel. *Suburbi*. Barcelona: Proa, 1985, p. 131-132",
+      "enunciat": "Opció A. Després de llegir atentament el text anterior, indiqueu si les afirmacions següents són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Don Narcís era el gerent de l’empresa on treballava en Quimet.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "En Quimet feia molts dies que no veia la Maria.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Don Narcís tenia una mirada de conill.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "El senyor Rovira aconsella a en Quimet que vagi a parlar de seguida amb don Narcís.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "En Quimet se sentia espiat.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada afirmació s’ha de contrastar amb una frase concreta del text: no responguis pel que «sembla lògic». Compte amb la penalització: cada error resta 0,1 punts i deixar-la en blanc no resta res. Fixa’t en les paraules trampa (*en general*, *mai*, *sols*, *menys de*...). Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "En Quimet vol anar «a la gerència» a parlar amb don Narcís, que té el despatx de la gerència i hi entra sense trucar: don Narcís és el gerent. **Vertader.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "El text diu que «aquells dies no l’havien deixat ni un moment sol amb la Maria», però que es veien als àpats: «asseguts a taula [...] es miraven sense dir-se res». Sí que la veia, el que no podia era estar-hi sol. **Fals.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "La «mirada de conill» és «del senyor Rovira», no de don Narcís. **Fals.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "El senyor Rovira diu que si no s’afanya no hi serà a temps, però tot seguit comença a desaconsellar-li-ho: «si em vol creure a mi, em penso que val més…». No li aconsella que hi vagi de seguida. **Fals.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "«Per un moment va tenir la impressió que la senyora Rosa i la tia Sílvia l’espiaven». **Vertader.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Vertader · b) Fals · c) Fals · d) Fals · e) Vertader"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Vertader"
+          }
+        ],
+        "nota": "Errors típics: a la c), atribuir la mirada de conill a don Narcís per lectura ràpida; a la d), quedar-se amb la primera frase del senyor Rovira i no amb la frase final, que és un consell en sentit contrari."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-2-a",
+      "exercici": 1,
+      "questio": "1.2",
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Sinònims de mots del fragment de Suburbi",
+      "tema": "lexic",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "sinonímia",
+        "lèxic en context",
+        "categoria gramatical"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        3
+      ],
+      "text": "Només eren les sis. Exactament a les set i cinc minuts, quan tothom comencés a plegar, entraria a la gerència. Es pensava que s’ho sabia de memòria, el que havia de tirar en cara a don Narcís, i ara, tot just si recordava quatre coses sense cap mena d’importància. Per si fos poc, aquells dies no l’havien deixat ni un moment sol amb la Maria. Només, asseguts a taula a les hores dels àpats, es miraven sense dir-se res, amb tristesa. […] Arrabassà d’una estrebada el paper que tenia a la màquina d’escriure i el va rebotre contra la paperera. S’aixecà enfurismat, amb ganes de cridar, de fer-s’hi a cops de puny, a mossegades.\n\n—Què li passa, Joaquim?\n\nAixò mateix, què li passava? Que perdia els estreps, que si no sabia contenir-se, obrar amb astúcia, ho perdria tot, definitivament. Si li digués què li passava! Però allò no era cap pregunta. S’**hi** assemblava. Venia a ser un comentari que no el comprometia. Tombà el cap amb l’esperança de trobar algú que a última hora el compadís, amb ganes d’ajudar-lo. Refia-te’n. Cap mica de cordialitat ni tal sols d’interès en aquella mirada de conill del senyor Rovira: inexpressiva, mansa, sempre igual a si mateixa.\n\n—Haig de parlar amb don Narcís —va dir per dir alguna cosa.\n\n—Doncs, si no s’hi afanya no hi serà pas a temps. Avui té pressa. Ara, que si em vol creure a mi, em penso que val més…\n\nEn Quimet sortí disparat de l’oficina sense acabar d’atendre el consell del senyor Rovira. No podia perdre ni una hora més, ni un sol minut. No trucà a la gerència, com era de rigor, va entrar-hi impetuosament. Don Narcís estava tancant els calaixos de la taula, disposant-se a plegar. En escoltar el vaivé de la porta es regirà, sorprès.\n\n—Ah, és vostè, Joaquim!\n\nEl tenia allà dins, no se li escaparia; l’hauria d’escoltar, si no de grat, per força.\n\n—És que el senyor Rovira m’acaba de dir que potser el trobaria fora, i com que necessitava parlar-li avui mateix…\n\n—No es preocupi, home de Déu, ni faci compliments. Realment porto pressa i em disposava a sortir, però tractant-se de vostè…\n\nEl to era cordial, ajustat al seu estil. Potser un inquiet anar i venir de les pupil·les delatava una certa inquietud si no fos el desig de treure-se’l del davant com més aviat millor. En Quimet reüllà al seu entorn. Era estúpid, però per un moment va tenir la impressió que la senyora Rosa i la tia Sílvia **l’**espiaven des del lavabo de don Narcís. Tant li fot si hi eren. […]\n\n—Digui què vol.\n\nXavier Benguerel. *Suburbi*. Barcelona: Proa, 1985, p. 131-132",
+      "enunciat": "Opció A. Trobeu en el text els cinc mots que poden funcionar com a sinònims dels mots o expressions següents. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Busca al text un **sol mot** de la mateixa categoria i, si és un verb, en la mateixa persona i temps que la pista (*Arrencà*, *Planyés* ja estan conjugats). Llegeix el text de dalt a baix amb les cinc definicions al cap. 0,1 per encert. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "«el va **rebotre** contra la paperera»: *rebotre* = llançar amb força."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "«**Arrabassà** d’una estrebada el paper»: passat simple, com *arrencà*."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "«S’aixecà **enfurismat**»: adjectiu = aïrat, enfadat."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "«trobar algú que a última hora el **compadís**»: imperfet de subjuntiu, com *planyés, s’apiadés*."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "«ni faci **compliments**»: substantiu plural = cortesies, afalacs."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) rebotre · b) arrabassà · c) enfurismat · d) compadís · e) compliments"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "rebotre"
+          },
+          {
+            "apartat": "b",
+            "valor": "arrabassà"
+          },
+          {
+            "apartat": "c",
+            "valor": "enfurismat"
+          },
+          {
+            "apartat": "d",
+            "valor": "compadís"
+          },
+          {
+            "apartat": "e",
+            "valor": "compliments"
+          }
+        ],
+        "nota": "Les pautes accepten altres formes si són normatives i tenen el mateix valor al text, però cal copiar el mot tal com apareix (temps i persona). Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-3-a",
+      "exercici": 1,
+      "questio": "1.3",
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Referent dels pronoms febles «hi» i «l’»",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "pronoms febles",
+        "referent",
+        "complement de règim",
+        "complement directe"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "Només eren les sis. Exactament a les set i cinc minuts, quan tothom comencés a plegar, entraria a la gerència. Es pensava que s’ho sabia de memòria, el que havia de tirar en cara a don Narcís, i ara, tot just si recordava quatre coses sense cap mena d’importància. Per si fos poc, aquells dies no l’havien deixat ni un moment sol amb la Maria. Només, asseguts a taula a les hores dels àpats, es miraven sense dir-se res, amb tristesa. […] Arrabassà d’una estrebada el paper que tenia a la màquina d’escriure i el va rebotre contra la paperera. S’aixecà enfurismat, amb ganes de cridar, de fer-s’hi a cops de puny, a mossegades.\n\n—Què li passa, Joaquim?\n\nAixò mateix, què li passava? Que perdia els estreps, que si no sabia contenir-se, obrar amb astúcia, ho perdria tot, definitivament. Si li digués què li passava! Però allò no era cap pregunta. S’**hi** assemblava. Venia a ser un comentari que no el comprometia. Tombà el cap amb l’esperança de trobar algú que a última hora el compadís, amb ganes d’ajudar-lo. Refia-te’n. Cap mica de cordialitat ni tal sols d’interès en aquella mirada de conill del senyor Rovira: inexpressiva, mansa, sempre igual a si mateixa.\n\n—Haig de parlar amb don Narcís —va dir per dir alguna cosa.\n\n—Doncs, si no s’hi afanya no hi serà pas a temps. Avui té pressa. Ara, que si em vol creure a mi, em penso que val més…\n\nEn Quimet sortí disparat de l’oficina sense acabar d’atendre el consell del senyor Rovira. No podia perdre ni una hora més, ni un sol minut. No trucà a la gerència, com era de rigor, va entrar-hi impetuosament. Don Narcís estava tancant els calaixos de la taula, disposant-se a plegar. En escoltar el vaivé de la porta es regirà, sorprès.\n\n—Ah, és vostè, Joaquim!\n\nEl tenia allà dins, no se li escaparia; l’hauria d’escoltar, si no de grat, per força.\n\n—És que el senyor Rovira m’acaba de dir que potser el trobaria fora, i com que necessitava parlar-li avui mateix…\n\n—No es preocupi, home de Déu, ni faci compliments. Realment porto pressa i em disposava a sortir, però tractant-se de vostè…\n\nEl to era cordial, ajustat al seu estil. Potser un inquiet anar i venir de les pupil·les delatava una certa inquietud si no fos el desig de treure-se’l del davant com més aviat millor. En Quimet reüllà al seu entorn. Era estúpid, però per un moment va tenir la impressió que la senyora Rosa i la tia Sílvia **l’**espiaven des del lavabo de don Narcís. Tant li fot si hi eren. […]\n\n—Digui què vol.\n\nXavier Benguerel. *Suburbi*. Barcelona: Proa, 1985, p. 131-132",
+      "enunciat": "Opció A. Escriviu el referent dels pronoms següents, marcats en negreta en el text. La resposta ha de contenir tots els elements que formen la construcció substituïda pel pronom feble. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Substitueix el pronom per la construcció completa i comprova que la frase té sentit. Si el pronom substitueix un complement amb preposició (com *hi*), la preposició també forma part del referent. Temps: 2 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*Assemblar-se* regeix la preposició *a* (algú s’assembla **a** alguna cosa). La frase anterior parla de «cap pregunta»: el comentari s’assemblava **a una pregunta**. Per tant, *hi* = «a una pregunta» (complement de règim)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Qui té la impressió de ser espiat és en Quimet: «la senyora Rosa i la tia Sílvia espiaven **en Quimet**». *L’* és complement directe masculí singular."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) *hi* = a una pregunta.\n\nb) *l’* = en Quimet (el Quimet)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "a una pregunta"
+          },
+          {
+            "apartat": "b",
+            "valor": "en/el Quimet"
+          }
+        ],
+        "nota": "Error típic a la a): respondre «una pregunta» sense la preposició *a* o «cap pregunta» (la frase original és negativa, però el referent és «a una pregunta»)."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-4-a",
+      "exercici": 1,
+      "questio": "1.4",
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Per què pregunten a en Quimet què li passa (màxim 50 mots)",
+      "tema": "comprensio",
+      "temes_secundaris": [
+        "expressio"
+      ],
+      "conceptes": [
+        "comprensió lectora",
+        "síntesi",
+        "paràfrasi",
+        "límit de mots"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        3
+      ],
+      "text": "Només eren les sis. Exactament a les set i cinc minuts, quan tothom comencés a plegar, entraria a la gerència. Es pensava que s’ho sabia de memòria, el que havia de tirar en cara a don Narcís, i ara, tot just si recordava quatre coses sense cap mena d’importància. Per si fos poc, aquells dies no l’havien deixat ni un moment sol amb la Maria. Només, asseguts a taula a les hores dels àpats, es miraven sense dir-se res, amb tristesa. […] Arrabassà d’una estrebada el paper que tenia a la màquina d’escriure i el va rebotre contra la paperera. S’aixecà enfurismat, amb ganes de cridar, de fer-s’hi a cops de puny, a mossegades.\n\n—Què li passa, Joaquim?\n\nAixò mateix, què li passava? Que perdia els estreps, que si no sabia contenir-se, obrar amb astúcia, ho perdria tot, definitivament. Si li digués què li passava! Però allò no era cap pregunta. S’**hi** assemblava. Venia a ser un comentari que no el comprometia. Tombà el cap amb l’esperança de trobar algú que a última hora el compadís, amb ganes d’ajudar-lo. Refia-te’n. Cap mica de cordialitat ni tal sols d’interès en aquella mirada de conill del senyor Rovira: inexpressiva, mansa, sempre igual a si mateixa.\n\n—Haig de parlar amb don Narcís —va dir per dir alguna cosa.\n\n—Doncs, si no s’hi afanya no hi serà pas a temps. Avui té pressa. Ara, que si em vol creure a mi, em penso que val més…\n\nEn Quimet sortí disparat de l’oficina sense acabar d’atendre el consell del senyor Rovira. No podia perdre ni una hora més, ni un sol minut. No trucà a la gerència, com era de rigor, va entrar-hi impetuosament. Don Narcís estava tancant els calaixos de la taula, disposant-se a plegar. En escoltar el vaivé de la porta es regirà, sorprès.\n\n—Ah, és vostè, Joaquim!\n\nEl tenia allà dins, no se li escaparia; l’hauria d’escoltar, si no de grat, per força.\n\n—És que el senyor Rovira m’acaba de dir que potser el trobaria fora, i com que necessitava parlar-li avui mateix…\n\n—No es preocupi, home de Déu, ni faci compliments. Realment porto pressa i em disposava a sortir, però tractant-se de vostè…\n\nEl to era cordial, ajustat al seu estil. Potser un inquiet anar i venir de les pupil·les delatava una certa inquietud si no fos el desig de treure-se’l del davant com més aviat millor. En Quimet reüllà al seu entorn. Era estúpid, però per un moment va tenir la impressió que la senyora Rosa i la tia Sílvia **l’**espiaven des del lavabo de don Narcís. Tant li fot si hi eren. […]\n\n—Digui què vol.\n\nXavier Benguerel. *Suburbi*. Barcelona: Proa, 1985, p. 131-132",
+      "enunciat": "Opció A. Expliqueu, en un màxim de cinquanta mots, per què li pregunten a en Quimet què li passa. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Es demana la causa: què ha fet en Quimet just abans de la pregunta «Què li passa, Joaquim?». Respon amb paraules pròpies, amb una o dues frases ben construïdes i sense passar de 50 mots. Temps: 4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Identifica el comportament visible: arrenca el paper, el llença a la paperera, s’aixeca enfurismat amb ganes de cridar i de fer-s’hi a cops de puny.\n\n2. Afegeix el motiu de fons: ha de parlar amb el gerent i té por de no saber-se contenir.\n\n3. Comença amb «Li ho pregunten perquè...» per respondre directament."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Li ho pregunten perquè en Quimet acaba de perdre el control a l’oficina: arrenca d’una estrebada el paper de la màquina d’escriure, el llença contra la paperera i s’aixeca enfurismat, amb ganes de cridar i de pegar. Està nerviós perquè ha d’enfrontar-se al gerent. (44 mots)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Es comporta de manera violenta a l’oficina: arrenca el paper de la màquina d’escriure i el llença a la paperera, s’aixeca enfadat, amb ganes de cridar i donar cops de puny."
+          },
+          {
+            "apartat": null,
+            "valor": "Ha de parlar amb el gerent i té por de no saber-se contenir ni obrar amb astúcia."
+          }
+        ],
+        "nota": "No copiïs frases senceres del text; reformula. Passar de 50 mots pot penalitzar. Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-5-1-a",
+      "exercici": 1,
+      "questio": "1.5.1",
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "La Natàlia i els coloms a La plaça del Diamant (màxim 50 mots)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mercè rodoreda",
+        "la plaça del diamant",
+        "simbolisme",
+        "coloms",
+        "colometa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Opció A. Resoleu DUES de les tres qüestions 1.5.1-1.5.3, relatives a les lectures obligatòries. En un màxim de cinquanta mots, expliqueu quina relació tenia la Natàlia amb els coloms que hi havia a casa seva a la novel·la *La plaça del Diamant*, de Mercè Rodoreda. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de lectura obligatòria: cal demostrar que coneixes la novel·la i el **valor simbòlic** dels coloms. Màxim 50 mots, ben redactats. Si en fas més de dues del bloc 1.5, només es corregeixen les dues primeres. Temps: 6 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Inici: la relació no és dolenta; la Natàlia cuida el primer colom, que arriba ferit.\n\n2. Evolució: en Quimet construeix el colomar i el pis s’omple de coloms que ella ha de netejar.\n\n3. Sentit simbòlic: els coloms representen l’empresonament i la submissió al marit (ell la batejarà «Colometa»).\n\n4. Si queda espai: la seva reacció final (remena els ous per acabar amb la plaga)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Al principi la Natàlia té cura d’un colom ferit i no els rebutja. Però en Quimet construeix un colomar i omple la casa de coloms que ella ha de netejar; acaben simbolitzant la seva submissió i el seu empresonament, fins que, desesperada, remena els ous perquè no neixin colomins. (49 mots)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Al principi no hi té mala relació: té cura del primer colom, que arriba ferit."
+          },
+          {
+            "apartat": null,
+            "valor": "El colomar que construeix en Quimet i que ella ha de netejar representa l’empresonament en què viu per la submissió al marit i a les seves dèries."
+          }
+        ],
+        "nota": "Error típic: explicar només l’argument sense el valor simbòlic, que és el que dona el punt sencer. Recorda que el nom de *Colometa* li posa en Quimet."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-5-2-a",
+      "exercici": 1,
+      "questio": "1.5.2",
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals sobre La plaça del Diamant",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mercè rodoreda",
+        "la plaça del diamant",
+        "personatges",
+        "vertader o fals"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. Resoleu DUES de les tres qüestions 1.5.1-1.5.3. Indiqueu si les afirmacions següents, relatives a l’obra *La plaça del Diamant*, de Mercè Rodoreda, són vertaderes o falses. [1 punt. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "La Natàlia va deixar el seu promès i es va prometre amb en Quimet.",
+          "punts": 0.2
+        },
+        {
+          "id": "b",
+          "enunciat": "En Quimet s’escapolia de la feina quan treballava al pis abans de casar-se.",
+          "punts": 0.2
+        },
+        {
+          "id": "c",
+          "enunciat": "En Quimet va morir abans que esclatés la Guerra Civil.",
+          "punts": 0.2
+        },
+        {
+          "id": "d",
+          "enunciat": "La Rita no s’assemblava a en Quimet, el seu pare.",
+          "punts": 0.2
+        },
+        {
+          "id": "e",
+          "enunciat": "L’Antoni és el germà petit de la Rita.",
+          "punts": 0.2
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada encert val 0,2 i cada error resta 0,2: marca només el que sàpigues segur. Pensa en l’ordre de la novel·la (festeig, casament, fills, guerra, postguerra). Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Quan coneix en Quimet a la plaça del Diamant, la Natàlia festejava amb en Pere, el cuiner; el deixa i es promet amb en Quimet. **Vertader.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Mentre arreglaven el pis abans del casament, en Quimet feinejava poc i s’escapolia. **Vertader** (segons les pautes)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "En Quimet mor durant la Guerra Civil, al front d’Aragó; no abans que esclatés. **Fals.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "La Rita s’assemblava al pare. **Fals.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "L’Antoni és el fill gran; la Rita és la petita. **Fals.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Vertader · b) Vertader · c) Fals · d) Fals · e) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "c",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "La c) és la més important de saber: la mort d’en Quimet a la guerra marca el pas a la misèria de la postguerra i el segon matrimoni amb l’Antoni, el botiguer."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-5-3-a",
+      "exercici": 1,
+      "questio": "1.5.3",
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals sobre Aigües encantades",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "joan puig i ferreter",
+        "aigües encantades",
+        "teatre",
+        "personatges",
+        "vertader o fals"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. Resoleu DUES de les tres qüestions 1.5.1-1.5.3. Indiqueu si les afirmacions següents, relatives a l’obra *Aigües encantades*, de Joan Puig i Ferreter, són vertaderes o falses. [1 punt. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "La Cecília estudia a la ciutat per ser infermera.",
+          "punts": 0.2
+        },
+        {
+          "id": "b",
+          "enunciat": "En Pere Amat és un dels instigadors de la revolta popular contra el Foraster.",
+          "punts": 0.2
+        },
+        {
+          "id": "c",
+          "enunciat": "La mare de la Cecília accepta, sense qüestionar-lo, el paper tradicional de la dona.",
+          "punts": 0.2
+        },
+        {
+          "id": "d",
+          "enunciat": "La Cecília no estima els seus pares.",
+          "punts": 0.2
+        },
+        {
+          "id": "e",
+          "enunciat": "En Vergés és el metge del poble.",
+          "punts": 0.2
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada encert val 0,2 i cada error resta 0,2. Recorda el conflicte de l’obra: un poble de secà dominat per la superstició i el cacic, davant de les idees modernes de la Cecília i del Foraster. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "La Cecília ha estudiat a la ciutat i torna amb idees modernes i científiques, però no estudia per ser infermera. **Fals.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "En Pere Amat, el terratinent conservador, és dels qui inciten el poble contra el Foraster. **Vertader.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "La mare representa la dona tradicional que accepta sense discutir el seu paper subordinat, en contrast amb la filla. **Vertader.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "La Cecília xoca amb els pares, però els estima: el conflicte és d’idees, no d’afectes. **Fals.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "En Vergés no és el metge del poble. **Fals.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Fals · b) Vertader · c) Vertader · d) Fals · e) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "b",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "c",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "Recorda els símbols de l’obra: l’aigua (progrés, ciència) enfront de la superstició (les processons per fer ploure) i l’autoritarisme d’en Pere Amat."
+      }
+    },
+    {
+      "id": "catala-2023-S-e2-q2-1-a",
+      "exercici": 2,
+      "questio": "2.1",
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Reescriure un fragment de Suburbi passant el passat al present",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "expressio"
+      ],
+      "conceptes": [
+        "temps verbals",
+        "present d’indicatiu",
+        "passat simple",
+        "reescriptura",
+        "morfologia verbal"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. Reescriviu el fragment següent canviant els temps verbals en passat d’indicatiu per formes de present. La redacció resultant ha de contenir tota la informació inclosa en el fragment. Subratlleu en els dos textos les formes verbals originals i les reescrites. [1 punt]\n\n«En Quimet sortí disparat de l’oficina sense acabar d’atendre el consell del senyor Rovira. No podia perdre ni una hora més, ni un sol minut. No trucà a la gerència, com era de rigor, va entrar-hi impetuosament. Don Narcís estava tancant els calaixos de la taula, disposant-se a plegar. En escoltar el vaivé de la porta es regirà, sorprès. […]\n\nEl to era cordial, ajustat al seu estil. Potser un inquiet anar i venir de les pupil·les delatava una certa inquietud si no fos el desig de treure-se’l del davant com més aviat millor. En Quimet reüllà al seu entorn.»",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Localitza **tots** els verbs conjugats en passat d’indicatiu (passat simple, perifràstic i imperfet) i passa’ls al present d’indicatiu; subratlla’ls als dos textos. Els infinitius i gerundis (*acabar*, *atendre*, *disposant-se*, *escoltar*) no canvien, i tampoc el subjuntiu *fos* (l’enunciat només parla d’indicatiu). Copia amb cura: cada falta resta 0,1. Temps: 8 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "| Passat | Present |\n|---|---|\n| sortí | surt |\n| podia | pot |\n| trucà | truca |\n| era (de rigor) | és |\n| va entrar-hi | hi entra |\n| estava tancant | està tancant |\n| es regirà | es regira |\n| era (cordial) | és |\n| delatava | delata |\n| reüllà | reülla |\n\nCompte amb *va entrar-hi*: en present el pronom va davant, *hi entra* (*entra-hi* seria un imperatiu). *Reüllar* conserva la dièresi: *reülla*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "En Quimet **surt** disparat de l’oficina sense acabar d’atendre el consell del senyor Rovira. No **pot** perdre ni una hora més, ni un sol minut. No **truca** a la gerència, com **és** de rigor, **hi entra** impetuosament. Don Narcís **està** tancant els calaixos de la taula, disposant-se a plegar. En escoltar el vaivé de la porta **es regira**, sorprès. […]\n\nEl to **és** cordial, ajustat al seu estil. Potser un inquiet anar i venir de les pupil·les **delata** una certa inquietud si no fos el desig de treure-se’l del davant com més aviat millor. En Quimet **reülla** al seu entorn.\n\n(Les formes en negreta són les que s’han de subratllar; al text original cal subratllar les formes corresponents en passat.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "surt, pot, truca, és, hi entra, està (tancant), es regira, és, delata, reülla."
+          },
+          {
+            "apartat": null,
+            "valor": "Tota la informació del fragment, sense canvis innecessaris; formes subratllades en els dos textos."
+          }
+        ],
+        "nota": "Errors típics: oblidar algun verb (sobretot *era* de «com era de rigor»), escriure *entra-hi* o *reulla* sense dièresi, o canviar també *fos*, que és subjuntiu. Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts."
+      }
+    },
+    {
+      "id": "catala-2023-S-e2-q2-2-a",
+      "exercici": 2,
+      "questio": "2.2",
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "redaccio",
+      "punts": 2,
+      "titol": "Text formal sobre una situació que fa perdre els estreps (125-150 paraules)",
+      "tema": "expressio",
+      "temes_secundaris": [
+        "textos"
+      ],
+      "conceptes": [
+        "expressió escrita",
+        "text formal",
+        "adequació",
+        "coherència",
+        "cohesió",
+        "connectors"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A. En el text, en Quimet, el protagonista, mostra, amb la seva actitud, que perd el control i expressa públicament el seu enuig. Escriviu un text formal i ben estructurat, de cent vint-i-cinc a cent cinquanta paraules, en què expliqueu una situació, real o inventada, que pot fer perdre els estreps o en la qual és difícil saber-se controlar. [2 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text **formal** (sense col·loquialismes ni expressions vulgars), de 125-150 paraules, que **expliqui una situació** concreta. Es puntua l’adequació (0,5: registre i tema), la coherència (0,75: estructura i idees) i la cohesió (0,75: oracions ben construïdes i connectors). Planifica 3 minuts, escriu 12 i reserva’n 5 per revisar faltes i comptar paraules."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Introducció**: presenta la idea general (hi ha situacions en què costa controlar-se) i la situació concreta.\n\n2. **Desenvolupament**: narra la situació en passos ordenats amb connectors (*en primer lloc*, *a continuació*, *finalment*) perquè es vegi com creix la tensió.\n\n3. **Conclusió**: reflexiona sobre com s’hauria de reaccionar (*tanmateix*, *per tant*).\n\nUsa la tercera persona o una primera persona formal, frases completes i vocabulari precís (*frustració*, *incidència*, *fermesa*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Hi ha situacions en què mantenir la calma esdevé un veritable repte. Un exemple habitual és el d’una persona que, després de setmanes intentant resoldre una avaria a casa, truca per enèsima vegada al servei d’atenció al client de la seva companyia.\n\nEn primer lloc, ha d’esperar més de mitja hora escoltant la mateixa música. A continuació, una veu automàtica la fa passar per un laberint d’opcions que no s’ajusten al seu problema. Finalment, quan aconsegueix parlar amb algú, l’operador li demana per tercera vegada les mateixes dades i li comunica que la incidència continua oberta.\n\nEn aquest moment, la frustració acumulada pot fer que alci la veu o que pengi de males maneres. Tanmateix, cal recordar que el treballador no és el responsable del problema. Per tant, respirar fons i exposar la queixa amb fermesa, però amb respecte, és la manera més eficaç de defensar els propis drets.\n\n(149 paraules)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Adequació (0,5): registre formal i tema demanat (una situació que fa perdre els estreps)."
+          },
+          {
+            "apartat": null,
+            "valor": "Coherència (0,75): estructura clara (introducció, desenvolupament, conclusió) i idees ben organitzades."
+          },
+          {
+            "apartat": null,
+            "valor": "Cohesió (0,75): oracions ben construïdes, connectors i puntuació correctes."
+          },
+          {
+            "apartat": null,
+            "valor": "Extensió ajustada a 125-150 paraules."
+          }
+        ],
+        "nota": "La resposta model té 149 paraules. Errors típics: escriure un text col·loquial o en to de queixa personal, fer una llista d’idees sense explicar cap situació, o passar-se de llargada. Les faltes resten 0,1 cadascuna, també les repetides, en tot l’examen."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-1-b",
+      "exercici": 1,
+      "questio": "1.1",
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals sobre les assegurances contra abduccions",
+      "tema": "comprensio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "comprensió lectora",
+        "vertader o fals",
+        "text periodístic",
+        "assegurances"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "**És cert que existeixen les pòlisses d’assegurances que cobreixen les abduccions extraterrestres? La resposta és sí**\n\nLes assegurances contra abduccions extraterrestres són serveis pensats per a indemnitzar la família de l’assegurat en cas que sigui abduït per un ovni.\n\nAls anys noranta, durant el *boom* del fenomen OVNI (objecte volador no identificat), aquestes pòlisses van sorgir com a assegurances «tranquil·litzadores» per a les persones que creien en l’existència de vida extraterrestre. Per dinou dòlars, les entitats asseguradores oferien un ventall de serveis tant per a la persona abduïda com per a la família, i, fins i tot, una indemnització per a la família si l’alienígena «devorava» el segrestat. Fins ara, milers de persones han contractat una pòlissa d’aquest darrer tipus.\n\nEl comparador de preus *Acierto.com* afirma que UFO Abduction Insurance va ser la primera entitat a oferir aquest servei a Florida (Estats Units). Actualment, existeixen també altres asseguradores que promouen aquest tipus de pòlisses, com ara Goodfellow Rebecca Ingram Pearson, ubicada a la capital del Regne Unit i que per cent lliures esterlines protegeix la teva família si ets segrestat pels alienígenes. Les pòlisses normalment es paguen un cop al mes i tenen una durada vitalícia.\n\nUna altra entitat que ofereix aquest servei és The Saint Lawrence Agency, que proporciona una pòlissa contra abduccions per deu euros al mes. Però els seus contractes tenen una lletra petita que especifica que, en cas de sobreviure a l’abducció i tornar a la Terra, cal portar una prova del segrest amb una signatura extraterrestre. Això implica que, a part d’haver estat segrestat i no saber on has estat, cal que t’espavilis per trobar quelcom que pugui certificar-**ho**.\n\nPer què convé contractar una assegurança contra una abducció alienígena? La resposta és senzilla: actualment, gairebé cap assegurança de vida NO conté una clàusula de pagament en cas de ser abduït pels extraterrestres. Habitualment, les pòlisses de vida que es contracten no es responsabilitzen de la desaparició de persones, tot i que en alguns casos, si succeeix, s’estableix un termini de deu anys perquè el perceptor rebi el pagament de l’assegurança. La majoria d’entitats demanen un certificat de mort perquè el beneficiari pugui cobrar.\n\nEn el cas de les assegurances per abducció per ovnis, els serveis més comuns que s’inclouen són l’atenció psiquiàtrica i el tractament de cremades, de psicosi transportadora i de lesions per estudis o proves que puguin fer-te els extraterrestres. En cas de tornar a la Terra, l’entitat et compensa els salaris perduts per no haver assistit al lloc de treball i, si l’alienígena se t’emporta el cotxe, te’**l** reemplacen per un altre.\n\nLa majoria d’entitats actualment ofereixen els seus serveis per assegurar objectes o persones que siguin reals, que existeixin; en altres paraules, les entitats ofereixen assegurances davant de riscos que siguin possibles. Tot i que l’existència de vida extraterrestre encara és un fet que no s’ha comprovat, aquestes entitats continuen oferint els seus serveis de manera presencial, ja que és molt difícil adquirir aquests productes per Internet. No obstant això, el risc és incert i aleatori.\n\n*Adaptació feta a partir del text de Laura Gómez. «Existeixen les assegurances contra abduccions alienígenes?». Lleidacom [en línia] (21 juliol 2021)*",
+      "enunciat": "Opció B. Després de llegir atentament el text anterior, indiqueu si les afirmacions següents són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Als anys noranta, algunes companyies asseguradores cobrien abduccions extraterrestres per menys de deu euros al mes.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "La companyia Goodfellow Rebecca Ingram Pearson radica a Londres.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "En general, es tarda deu anys a cobrar el que estableix una assegurança.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "Mai no s’ha de presentar el certificat de defunció per a cobrar el que estableix una assegurança.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "En general, la contractació de les assegurances que cobreixen abduccions extraterrestres sols es pot fer de manera presencial.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada afirmació s’ha de contrastar amb una frase concreta del text: no responguis pel que «sembla lògic». Compte amb la penalització: cada error resta 0,1 punts i deixar-la en blanc no resta res. Fixa’t en les paraules trampa (*en general*, *mai*, *sols*, *menys de*...). Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Als anys noranta, les pòlisses costaven «dinou dòlars»; els «deu euros al mes» són el preu actual de The Saint Lawrence Agency. **Fals.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Goodfellow Rebecca Ingram Pearson és «ubicada a la capital del Regne Unit», és a dir, Londres. **Vertader.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "El text diu que, en cas de desaparició, «s’estableix un termini de deu anys perquè el perceptor rebi el pagament». Les pautes la donen per **vertadera** (tot i que el text diu «en alguns casos»)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "«La majoria d’entitats demanen un certificat de mort perquè el beneficiari pugui cobrar»: *mai* és fals. **Fals.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Aquestes entitats ofereixen els serveis «de manera presencial, ja que és molt difícil adquirir aquests productes per Internet». Les pautes la donen per **vertadera**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Fals · b) Vertader · c) Vertader · d) Fals · e) Vertader"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "b",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "c",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Vertader"
+          }
+        ],
+        "nota": "Atenció: dues respostes oficials són discutibles. A la c), el text parla d’un termini de deu anys «en alguns casos» i només per a la desaparició de persones, no «en general»; a la e), el text diu que és «molt difícil» comprar-les per Internet, no que «sols» es puguin contractar presencialment. A l’examen, segueix la lectura de les pautes, però si dubtes molt, recorda que deixar-la en blanc no resta."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-2-b",
+      "exercici": 1,
+      "questio": "1.2",
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Sinònims de mots del text de les assegurances",
+      "tema": "lexic",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "sinonímia",
+        "lèxic en context",
+        "categoria gramatical",
+        "concordança"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        7
+      ],
+      "text": "**És cert que existeixen les pòlisses d’assegurances que cobreixen les abduccions extraterrestres? La resposta és sí**\n\nLes assegurances contra abduccions extraterrestres són serveis pensats per a indemnitzar la família de l’assegurat en cas que sigui abduït per un ovni.\n\nAls anys noranta, durant el *boom* del fenomen OVNI (objecte volador no identificat), aquestes pòlisses van sorgir com a assegurances «tranquil·litzadores» per a les persones que creien en l’existència de vida extraterrestre. Per dinou dòlars, les entitats asseguradores oferien un ventall de serveis tant per a la persona abduïda com per a la família, i, fins i tot, una indemnització per a la família si l’alienígena «devorava» el segrestat. Fins ara, milers de persones han contractat una pòlissa d’aquest darrer tipus.\n\nEl comparador de preus *Acierto.com* afirma que UFO Abduction Insurance va ser la primera entitat a oferir aquest servei a Florida (Estats Units). Actualment, existeixen també altres asseguradores que promouen aquest tipus de pòlisses, com ara Goodfellow Rebecca Ingram Pearson, ubicada a la capital del Regne Unit i que per cent lliures esterlines protegeix la teva família si ets segrestat pels alienígenes. Les pòlisses normalment es paguen un cop al mes i tenen una durada vitalícia.\n\nUna altra entitat que ofereix aquest servei és The Saint Lawrence Agency, que proporciona una pòlissa contra abduccions per deu euros al mes. Però els seus contractes tenen una lletra petita que especifica que, en cas de sobreviure a l’abducció i tornar a la Terra, cal portar una prova del segrest amb una signatura extraterrestre. Això implica que, a part d’haver estat segrestat i no saber on has estat, cal que t’espavilis per trobar quelcom que pugui certificar-**ho**.\n\nPer què convé contractar una assegurança contra una abducció alienígena? La resposta és senzilla: actualment, gairebé cap assegurança de vida NO conté una clàusula de pagament en cas de ser abduït pels extraterrestres. Habitualment, les pòlisses de vida que es contracten no es responsabilitzen de la desaparició de persones, tot i que en alguns casos, si succeeix, s’estableix un termini de deu anys perquè el perceptor rebi el pagament de l’assegurança. La majoria d’entitats demanen un certificat de mort perquè el beneficiari pugui cobrar.\n\nEn el cas de les assegurances per abducció per ovnis, els serveis més comuns que s’inclouen són l’atenció psiquiàtrica i el tractament de cremades, de psicosi transportadora i de lesions per estudis o proves que puguin fer-te els extraterrestres. En cas de tornar a la Terra, l’entitat et compensa els salaris perduts per no haver assistit al lloc de treball i, si l’alienígena se t’emporta el cotxe, te’**l** reemplacen per un altre.\n\nLa majoria d’entitats actualment ofereixen els seus serveis per assegurar objectes o persones que siguin reals, que existeixin; en altres paraules, les entitats ofereixen assegurances davant de riscos que siguin possibles. Tot i que l’existència de vida extraterrestre encara és un fet que no s’ha comprovat, aquestes entitats continuen oferint els seus serveis de manera presencial, ja que és molt difícil adquirir aquests productes per Internet. No obstant això, el risc és incert i aleatori.\n\n*Adaptació feta a partir del text de Laura Gómez. «Existeixen les assegurances contra abduccions alienígenes?». Lleidacom [en línia] (21 juliol 2021)*",
+      "enunciat": "Opció B. Trobeu en el text els cinc mots que poden funcionar com a sinònims dels mots o expressions següents. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Busca un **sol mot** de la mateixa categoria gramatical que la pista. Si la pista és una locució (*fins a la fi de la vida*), el sinònim pot ser un adjectiu. 0,1 per encert. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "«una **indemnització** per a la família»: compensació econòmica per un dany."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "«va ser la primera **entitat** a oferir aquest servei»: empresa, organisme."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "«tenen una durada **vitalícia**»: que dura tota la vida."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "«et compensa els **salaris** perduts»: sous, jornals (plural)."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "«el risc és incert i **aleatori**»: atzarós, fortuït."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) indemnització · b) entitat · c) vitalícia · d) salaris · e) aleatori"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "indemnització"
+          },
+          {
+            "apartat": "b",
+            "valor": "entitat"
+          },
+          {
+            "apartat": "c",
+            "valor": "vitalícia"
+          },
+          {
+            "apartat": "d",
+            "valor": "salaris"
+          },
+          {
+            "apartat": "e",
+            "valor": "aleatori"
+          }
+        ],
+        "nota": "Compte amb l’ortografia: *indemnització* (amb -mn-), *vitalícia*. Les pautes accepten altres formes normatives amb el mateix valor al text. Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-3-b",
+      "exercici": 1,
+      "questio": "1.3",
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Referent dels pronoms febles «ho» i «l’»",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "pronoms febles",
+        "referent",
+        "pronom neutre",
+        "complement directe"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "**És cert que existeixen les pòlisses d’assegurances que cobreixen les abduccions extraterrestres? La resposta és sí**\n\nLes assegurances contra abduccions extraterrestres són serveis pensats per a indemnitzar la família de l’assegurat en cas que sigui abduït per un ovni.\n\nAls anys noranta, durant el *boom* del fenomen OVNI (objecte volador no identificat), aquestes pòlisses van sorgir com a assegurances «tranquil·litzadores» per a les persones que creien en l’existència de vida extraterrestre. Per dinou dòlars, les entitats asseguradores oferien un ventall de serveis tant per a la persona abduïda com per a la família, i, fins i tot, una indemnització per a la família si l’alienígena «devorava» el segrestat. Fins ara, milers de persones han contractat una pòlissa d’aquest darrer tipus.\n\nEl comparador de preus *Acierto.com* afirma que UFO Abduction Insurance va ser la primera entitat a oferir aquest servei a Florida (Estats Units). Actualment, existeixen també altres asseguradores que promouen aquest tipus de pòlisses, com ara Goodfellow Rebecca Ingram Pearson, ubicada a la capital del Regne Unit i que per cent lliures esterlines protegeix la teva família si ets segrestat pels alienígenes. Les pòlisses normalment es paguen un cop al mes i tenen una durada vitalícia.\n\nUna altra entitat que ofereix aquest servei és The Saint Lawrence Agency, que proporciona una pòlissa contra abduccions per deu euros al mes. Però els seus contractes tenen una lletra petita que especifica que, en cas de sobreviure a l’abducció i tornar a la Terra, cal portar una prova del segrest amb una signatura extraterrestre. Això implica que, a part d’haver estat segrestat i no saber on has estat, cal que t’espavilis per trobar quelcom que pugui certificar-**ho**.\n\nPer què convé contractar una assegurança contra una abducció alienígena? La resposta és senzilla: actualment, gairebé cap assegurança de vida NO conté una clàusula de pagament en cas de ser abduït pels extraterrestres. Habitualment, les pòlisses de vida que es contracten no es responsabilitzen de la desaparició de persones, tot i que en alguns casos, si succeeix, s’estableix un termini de deu anys perquè el perceptor rebi el pagament de l’assegurança. La majoria d’entitats demanen un certificat de mort perquè el beneficiari pugui cobrar.\n\nEn el cas de les assegurances per abducció per ovnis, els serveis més comuns que s’inclouen són l’atenció psiquiàtrica i el tractament de cremades, de psicosi transportadora i de lesions per estudis o proves que puguin fer-te els extraterrestres. En cas de tornar a la Terra, l’entitat et compensa els salaris perduts per no haver assistit al lloc de treball i, si l’alienígena se t’emporta el cotxe, te’**l** reemplacen per un altre.\n\nLa majoria d’entitats actualment ofereixen els seus serveis per assegurar objectes o persones que siguin reals, que existeixin; en altres paraules, les entitats ofereixen assegurances davant de riscos que siguin possibles. Tot i que l’existència de vida extraterrestre encara és un fet que no s’ha comprovat, aquestes entitats continuen oferint els seus serveis de manera presencial, ja que és molt difícil adquirir aquests productes per Internet. No obstant això, el risc és incert i aleatori.\n\n*Adaptació feta a partir del text de Laura Gómez. «Existeixen les assegurances contra abduccions alienígenes?». Lleidacom [en línia] (21 juliol 2021)*",
+      "enunciat": "Opció B. Escriviu el referent dels pronoms següents, marcats en negreta en el text. La resposta ha de contenir tots els elements que formen la construcció substituïda pel pronom feble. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Substitueix el pronom per la construcció sencera i comprova que la frase funciona. *Ho* és neutre: sovint substitueix tota una oració o un fet. Temps: 2 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Què cal certificar? Que t’han segrestat: «trobar quelcom que pugui certificar **que has estat segrestat**». *Ho* és el CD neutre que recull la idea d’«haver estat segrestat»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Què et reemplacen per un altre? **El cotxe**: «te reemplacen el cotxe per un altre». *L’* és CD masculí singular (*te* és el CI)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) *ho* = que has estat segrestat (abduït) / haver estat segrestat.\n\nb) *l’* = el cotxe."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "que has estat segrestat (abduït) / haver estat segrestat"
+          },
+          {
+            "apartat": "b",
+            "valor": "el cotxe"
+          }
+        ],
+        "nota": "Error típic a la a): respondre «quelcom» o «la prova del segrest»; el pronom és dins de la relativa i es refereix al fet que s’ha de certificar."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-4-b",
+      "exercici": 1,
+      "questio": "1.4",
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Diferència entre pòlisses convencionals i contra abduccions (màxim 50 mots)",
+      "tema": "comprensio",
+      "temes_secundaris": [
+        "expressio"
+      ],
+      "conceptes": [
+        "comprensió lectora",
+        "síntesi",
+        "paràfrasi",
+        "límit de mots"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "**És cert que existeixen les pòlisses d’assegurances que cobreixen les abduccions extraterrestres? La resposta és sí**\n\nLes assegurances contra abduccions extraterrestres són serveis pensats per a indemnitzar la família de l’assegurat en cas que sigui abduït per un ovni.\n\nAls anys noranta, durant el *boom* del fenomen OVNI (objecte volador no identificat), aquestes pòlisses van sorgir com a assegurances «tranquil·litzadores» per a les persones que creien en l’existència de vida extraterrestre. Per dinou dòlars, les entitats asseguradores oferien un ventall de serveis tant per a la persona abduïda com per a la família, i, fins i tot, una indemnització per a la família si l’alienígena «devorava» el segrestat. Fins ara, milers de persones han contractat una pòlissa d’aquest darrer tipus.\n\nEl comparador de preus *Acierto.com* afirma que UFO Abduction Insurance va ser la primera entitat a oferir aquest servei a Florida (Estats Units). Actualment, existeixen també altres asseguradores que promouen aquest tipus de pòlisses, com ara Goodfellow Rebecca Ingram Pearson, ubicada a la capital del Regne Unit i que per cent lliures esterlines protegeix la teva família si ets segrestat pels alienígenes. Les pòlisses normalment es paguen un cop al mes i tenen una durada vitalícia.\n\nUna altra entitat que ofereix aquest servei és The Saint Lawrence Agency, que proporciona una pòlissa contra abduccions per deu euros al mes. Però els seus contractes tenen una lletra petita que especifica que, en cas de sobreviure a l’abducció i tornar a la Terra, cal portar una prova del segrest amb una signatura extraterrestre. Això implica que, a part d’haver estat segrestat i no saber on has estat, cal que t’espavilis per trobar quelcom que pugui certificar-**ho**.\n\nPer què convé contractar una assegurança contra una abducció alienígena? La resposta és senzilla: actualment, gairebé cap assegurança de vida NO conté una clàusula de pagament en cas de ser abduït pels extraterrestres. Habitualment, les pòlisses de vida que es contracten no es responsabilitzen de la desaparició de persones, tot i que en alguns casos, si succeeix, s’estableix un termini de deu anys perquè el perceptor rebi el pagament de l’assegurança. La majoria d’entitats demanen un certificat de mort perquè el beneficiari pugui cobrar.\n\nEn el cas de les assegurances per abducció per ovnis, els serveis més comuns que s’inclouen són l’atenció psiquiàtrica i el tractament de cremades, de psicosi transportadora i de lesions per estudis o proves que puguin fer-te els extraterrestres. En cas de tornar a la Terra, l’entitat et compensa els salaris perduts per no haver assistit al lloc de treball i, si l’alienígena se t’emporta el cotxe, te’**l** reemplacen per un altre.\n\nLa majoria d’entitats actualment ofereixen els seus serveis per assegurar objectes o persones que siguin reals, que existeixin; en altres paraules, les entitats ofereixen assegurances davant de riscos que siguin possibles. Tot i que l’existència de vida extraterrestre encara és un fet que no s’ha comprovat, aquestes entitats continuen oferint els seus serveis de manera presencial, ja que és molt difícil adquirir aquests productes per Internet. No obstant això, el risc és incert i aleatori.\n\n*Adaptació feta a partir del text de Laura Gómez. «Existeixen les assegurances contra abduccions alienígenes?». Lleidacom [en línia] (21 juliol 2021)*",
+      "enunciat": "Opció B. Expliqueu, en un màxim de cinquanta mots, quina diferència hi ha entre les pòlisses d’assegurances convencionals i les que cobreixen les abduccions extraterrestres. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Es demana una **comparació**: què cobreix cada tipus d’assegurança. La clau és a l’últim paràgraf del text. Paraules pròpies, màxim 50 mots, amb un connector de contrast (*en canvi*). Temps: 4 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Convencionals: riscos possibles, sobre objectes o persones reals, que existeixen.\n\n2. Abduccions: risc incert i aleatori.\n\n3. Motiu: no s’ha comprovat que existeixi vida extraterrestre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Les pòlisses convencionals només cobreixen riscos possibles, és a dir, persones, objectes o situacions reals. En canvi, les que cobreixen abduccions extraterrestres asseguren un risc incert i aleatori, perquè encara no s’ha demostrat que existeixi vida fora de la Terra. (40 mots)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Les convencionals cobreixen objectes, situacions o persones reals: riscos possibles."
+          },
+          {
+            "apartat": null,
+            "valor": "Les d’abduccions cobreixen riscos incerts i aleatoris, perquè no s’ha provat que existeixi vida extraterrestre."
+          }
+        ],
+        "nota": "No et perdis en detalls secundaris (preus, serveis inclosos). Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-5-1-b",
+      "exercici": 1,
+      "questio": "1.5.1",
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Per què Pere Amat rebutja les idees de la Cecília a Aigües encantades (màxim 50 mots)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "joan puig i ferreter",
+        "aigües encantades",
+        "teatre",
+        "conflicte generacional",
+        "tradició i progrés"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B. Resoleu DUES de les tres qüestions 1.5.1-1.5.3, relatives a les lectures obligatòries. En un màxim de cinquanta mots, expliqueu per què en Pere Amat no accepta les idees de la Cecília a l’obra *Aigües encantades*, de Joan Puig i Ferreter. [1 punt]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cal caracteritzar en Pere Amat (qui és, què representa) i explicar el **motiu** del rebuig. Màxim 50 mots. Temps: 6 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Qui és: el pare de la Cecília, un terratinent amb mentalitat immobilista, propi de la societat rural de l’època.\n\n2. Les idees de la Cecília: modernes, de base científica.\n\n3. Per què les rebutja: no les entén i les veu com un atemptat contra la seva ideologia conservadora, regida per l’autoritat i la religió."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Pere Amat és un terratinent conservador que representa la mentalitat immobilista del món rural. No accepta les idees modernes i científiques de la Cecília perquè no les entén i les considera un atac a la tradició, a l’autoritat paterna i a la religió, que sostenen el seu ordre. (48 mots)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Pere Amat és un terratinent amb la mentalitat immobilista de la societat rural de l’època."
+          },
+          {
+            "apartat": null,
+            "valor": "No accepta les idees modernes i científiques de la Cecília perquè no les entén i les considera un atemptat contra la seva ideologia conservadora i tradicional, regida per l’autoritat i la religió."
+          }
+        ],
+        "nota": "Error típic: explicar el conflicte només com una baralla familiar; cal esmentar l’oposició ideològica tradició/progrés, que és el tema de l’obra."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-5-2-b",
+      "exercici": 1,
+      "questio": "1.5.2",
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals sobre La plaça del Diamant",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mercè rodoreda",
+        "la plaça del diamant",
+        "personatges",
+        "espai",
+        "vertader o fals"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8
+      ],
+      "text": "",
+      "enunciat": "Opció B. Resoleu DUES de les tres qüestions 1.5.1-1.5.3. Indiqueu si les afirmacions següents, relatives a l’obra *La plaça del Diamant*, de Mercè Rodoreda, són vertaderes o falses. [1 punt. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "La plaça del Diamant és al barri de Sants de Barcelona.",
+          "punts": 0.2
+        },
+        {
+          "id": "b",
+          "enunciat": "En Quimet, en conèixer la Natàlia, li va posar el nom de Colometa.",
+          "punts": 0.2
+        },
+        {
+          "id": "c",
+          "enunciat": "El pis on vivien la Natàlia i en Quimet era de propietat.",
+          "punts": 0.2
+        },
+        {
+          "id": "d",
+          "enunciat": "En Quimet treballava de manobre.",
+          "punts": 0.2
+        },
+        {
+          "id": "e",
+          "enunciat": "La Natàlia i en Quimet van tenir un fill i una filla.",
+          "punts": 0.2
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada encert val 0,2 i cada error resta 0,2: marca només el que sàpigues segur. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "La plaça del Diamant és al barri de **Gràcia**, no a Sants. **Fals.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Al ball de la plaça, en Quimet li diu que es dirà Colometa. **Vertader.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "El pis on vivien era de lloguer, no de propietat. **Fals.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "En Quimet era ebenista (fuster de mobles), no manobre. **Fals.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Van tenir l’Antoni i la Rita. **Vertader.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Fals · b) Vertader · c) Fals · d) Fals · e) Vertader"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "b",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "c",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Vertader"
+          }
+        ],
+        "nota": "La a) és un error freqüent: la novel·la passa a Gràcia, i la plaça del Diamant és on comença i acaba la història."
+      }
+    },
+    {
+      "id": "catala-2023-S-e1-q1-5-3-b",
+      "exercici": 1,
+      "questio": "1.5.3",
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals sobre Aigües encantades",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "joan puig i ferreter",
+        "aigües encantades",
+        "teatre",
+        "personatges",
+        "vertader o fals"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8
+      ],
+      "text": "",
+      "enunciat": "Opció B. Resoleu DUES de les tres qüestions 1.5.1-1.5.3. Indiqueu si les afirmacions següents, relatives a l’obra *Aigües encantades*, de Joan Puig i Ferreter, són vertaderes o falses. [1 punt. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En Vergés no està enamorat de la Cecília.",
+          "punts": 0.2
+        },
+        {
+          "id": "b",
+          "enunciat": "El Foraster ha viatjat per diversos països europeus.",
+          "punts": 0.2
+        },
+        {
+          "id": "c",
+          "enunciat": "La Trinitat és la dona d’en Pere Amat.",
+          "punts": 0.2
+        },
+        {
+          "id": "d",
+          "enunciat": "La mentalitat d’en Joan Gatell, el batlle del poble, evoluciona al llarg de l’obra.",
+          "punts": 0.2
+        },
+        {
+          "id": "e",
+          "enunciat": "Al final de l’obra, la Cecília es queda al poble amb en Vergés.",
+          "punts": 0.2
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada encert val 0,2 i cada error resta 0,2. Repassa els personatges: la Cecília, en Pere Amat (el pare), el Foraster, en Vergés, en Joan Gatell (el batlle). Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "En Vergés sí que està enamorat de la Cecília. **Fals.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "El Foraster és un home de món, que ha viatjat per diversos països d’Europa i porta idees de progrés. **Vertader.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "La Trinitat no és la dona d’en Pere Amat. **Fals.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "En Joan Gatell, el batlle, canvia de mentalitat al llarg de l’obra. **Vertader.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Al final la Cecília no es queda al poble amb en Vergés: trenca amb el món tancat del poble. **Fals.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Fals · b) Vertader · c) Fals · d) Vertader · e) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "b",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "c",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "d",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "Fixa’t en les negacions (a: «no està enamorat»): és fàcil marcar el contrari del que vols dir."
+      }
+    },
+    {
+      "id": "catala-2023-S-e2-q2-1-b",
+      "exercici": 2,
+      "questio": "2.1",
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Reescriure un fragment canviant el present per l’imperfet",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "expressio"
+      ],
+      "conceptes": [
+        "temps verbals",
+        "imperfet d’indicatiu",
+        "reescriptura",
+        "morfologia verbal"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        8
+      ],
+      "text": "",
+      "enunciat": "Opció B. Reescriviu el fragment següent canviant els temps verbals en present per formes de passat imperfet. La redacció resultant ha de contenir tota la informació inclosa en el fragment. Subratlleu en els dos textos les formes verbals originals i les reescrites. [1 punt]\n\n«El comparador de preus *Acierto.com* afirma que UFO Abduction Insurance va ser la primera entitat a oferir aquest servei a Florida (Estats Units). Actualment, existeixen també altres asseguradores que promouen aquest tipus de pòlisses, com ara Goodfellow Rebecca Ingram Pearson, ubicada a la capital del Regne Unit i que per cent lliures esterlines protegeix la teva família si ets segrestat pels alienígenes. Les pòlisses normalment es paguen un cop al mes i tenen una durada vitalícia.\n\n[…] Però els seus contractes tenen una lletra petita que especifica que, en cas de sobreviure a l’abducció i tornar a la Terra, cal portar una prova del segrest amb una signatura extraterrestre.»",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Localitza tots els verbs conjugats en present d’indicatiu, passa’ls a l’imperfet i subratlla’ls als dos textos. *Va ser* (passat perifràstic), *ubicada* (participi) i els infinitius (*oferir*, *sobreviure*, *tornar*, *portar*) no canvien. No canviïs res més. Temps: 8 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "| Present | Imperfet |\n|---|---|\n| afirma | afirmava |\n| existeixen | existien |\n| promouen | promovien |\n| protegeix | protegia |\n| ets | eres |\n| es paguen | es pagaven |\n| tenen (×2) | tenien |\n| especifica | especificava |\n| cal | calia |\n\nIrregulars: *ser* → *eres* (2a persona); *promoure* → *promovien*; *existir* i *protegir* perden l’increment *-eix-* (*existien*, *protegia*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El comparador de preus *Acierto.com* **afirmava** que UFO Abduction Insurance va ser la primera entitat a oferir aquest servei a Florida (Estats Units). Actualment, **existien** també altres asseguradores que **promovien** aquest tipus de pòlisses, com ara Goodfellow Rebecca Ingram Pearson, ubicada a la capital del Regne Unit i que per cent lliures esterlines **protegia** la teva família si **eres** segrestat pels alienígenes. Les pòlisses normalment **es pagaven** un cop al mes i **tenien** una durada vitalícia.\n\n[…] Però els seus contractes **tenien** una lletra petita que **especificava** que, en cas de sobreviure a l’abducció i tornar a la Terra, **calia** portar una prova del segrest amb una signatura extraterrestre.\n\n(Les formes en negreta són les que s’han de subratllar; al text original cal subratllar les formes corresponents en present.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "afirmava, existien, promovien, protegia, era/eres, es pagaven, tenien, tenien, especificava(en), calia."
+          },
+          {
+            "apartat": null,
+            "valor": "Tota la informació del fragment; formes subratllades en els dos textos."
+          }
+        ],
+        "nota": "La versió oficial introdueix altres canvis (*assegurances* per *asseguradores*, «la família si hom era segrestat», «100 lliures», «on especificaven»), però les formes verbals coincideixen; no cal tocar res més que els verbs. Errors típics: *existeixien*, *protegeixia*, *promoïen*. Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts."
+      }
+    },
+    {
+      "id": "catala-2023-S-e2-q2-2-b",
+      "exercici": 2,
+      "questio": "2.2",
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "redaccio",
+      "punts": 2,
+      "titol": "Text formal amb arguments a favor i en contra de l’existència de civilitzacions extraterrestres (125-150 paraules)",
+      "tema": "expressio",
+      "temes_secundaris": [
+        "textos"
+      ],
+      "conceptes": [
+        "expressió escrita",
+        "text argumentatiu",
+        "text formal",
+        "arguments a favor i en contra",
+        "connectors"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        9
+      ],
+      "text": "",
+      "enunciat": "Opció B. En el text s’explica que hi ha persones que contracten pòlisses d’assegurances que cobreixen abduccions d’extraterrestres. Escriviu un text formal i ben estructurat, de cent vint-i-cinc a cent cinquanta paraules, en què proposeu arguments a favor i en contra de l’existència de civilitzacions extraterrestres. [2 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text **formal** i **argumentatiu**, de 125-150 paraules, amb arguments **de tots dos costats** (si només en dones d’un, l’adequació baixa). Es puntua l’adequació (0,5), la coherència (0,75) i la cohesió (0,75). Planifica 3 minuts, escriu 12 i revisa’n 5."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Introducció**: presenta el tema i anuncia que hi ha arguments en tots dos sentits.\n\n2. **Arguments a favor** (*d’una banda*): la immensitat de l’univers i els exoplanetes; la probabilitat estadística.\n\n3. **Arguments en contra** (*d’altra banda*, *a més*): l’absència de senyals o proves; la raresa de les condicions per a la vida intel·ligent.\n\n4. **Conclusió** (*en definitiva*): la qüestió és oberta; actitud crítica.\n\nEvita les afirmacions categòriques sense justificar i el to col·loquial."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L’existència de civilitzacions extraterrestres és una de les qüestions que més han fascinat la humanitat. Tot i que no disposem de cap prova concloent, hi ha arguments de pes en tots dos sentits.\n\nD’una banda, l’univers és immens: només la nostra galàxia conté milers de milions d’estrelles, i els astrònoms han descobert milers de planetes fora del sistema solar, alguns dels quals podrien tenir aigua líquida. Des d’un punt de vista estadístic, sembla improbable que la Terra sigui l’únic lloc on ha sorgit la vida intel·ligent.\n\nD’altra banda, malgrat dècades d’observació i d’escolta de senyals de ràdio, no s’ha detectat cap indici d’activitat extraterrestre. A més, l’aparició de la vida i, sobretot, de la intel·ligència podria dependre d’una combinació de condicions extraordinàriament rara.\n\nEn definitiva, la qüestió continua oberta. Mentre la ciència no aporti proves, convé mantenir una actitud oberta però crítica.\n\n(142 paraules)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Adequació (0,5): registre formal i tema demanat (arguments a favor i en contra)."
+          },
+          {
+            "apartat": null,
+            "valor": "Coherència (0,75): estructura clara i idees ben organitzades."
+          },
+          {
+            "apartat": null,
+            "valor": "Cohesió (0,75): oracions ben construïdes, connectors i puntuació correctes."
+          },
+          {
+            "apartat": null,
+            "valor": "Extensió ajustada a 125-150 paraules."
+          }
+        ],
+        "nota": "La resposta model té 142 paraules. Errors típics: parlar de les assegurances en lloc dels extraterrestres, donar només una postura o fer una llista d’arguments sense connectors. Les faltes resten 0,1 cadascuna en tot l’examen."
+      }
+    },
+    {
+      "id": "catala-2023-S-e3-q3-1-1",
+      "exercici": 3,
+      "questio": "3.1.1",
+      "opcio": null,
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció de l’oració «que es contracten»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "oracions de relatiu",
+        "subordinació adjectiva",
+        "complement del nom",
+        "pronom relatiu"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nLes pòlisses de vida **que es contracten** no es responsabilitzen de la desaparició de persones.",
+      "figures": [],
+      "opcions": {
+        "A": "oració subordinada substantiva de complement directe",
+        "B": "oració subordinada substantiva de subjecte",
+        "C": "construcció o clàusula d’infinitiu temporal",
+        "D": "oració subordinada adjectiva o de relatiu de complement del nom"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,2 i **cada error resta 0,2**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, per un adjectiu, per un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Que* té antecedent (*les pòlisses de vida*) i es pot substituir per *les quals*: «les pòlisses de vida les quals es contracten». També es pot canviar per un adjectiu (*les pòlisses contractades*). És, doncs, una **oració de relatiu** que complementa el nom *pòlisses*. No és una construcció d’infinitiu (el verb és conjugat) ni substantiva (no fa de subjecte ni de CD del verb principal *es responsabilitzen*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "D) oració subordinada adjectiva o de relatiu de complement del nom."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Oració subordinada adjectiva o de relatiu de complement del nom."
+          }
+        ],
+        "nota": "Error típic: confondre el *que* relatiu amb la conjunció *que* de les substantives. Prova: si el *que* es pot substituir per *el qual, la qual...*, és relatiu."
+      }
+    },
+    {
+      "id": "catala-2023-S-e3-q3-1-2",
+      "exercici": 3,
+      "questio": "3.1.2",
+      "opcio": null,
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció de «sense acabar d’atendre el consell del senyor Rovira»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "funcions sintàctiques",
+        "complement circumstancial",
+        "construcció d’infinitiu",
+        "complement predicatiu"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nEn Quimet sortí disparat de l’oficina **sense acabar d’atendre el consell del senyor Rovira**.",
+      "figures": [],
+      "opcions": {
+        "A": "complement del nom",
+        "B": "complement predicatiu",
+        "C": "complement circumstancial (o adjunt)",
+        "D": "atribut"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,2 i **cada error resta 0,2**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, per un adjectiu, per un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Construcció d’infinitiu introduïda per *sense* que indica **com** (o en quines circumstàncies) en Quimet surt. Depèn del verb *sortir* i es pot desplaçar: «Sense acabar d’atendre el consell, en Quimet sortí disparat». No complementa cap nom (descartem A), no concorda amb el subjecte com un predicatiu (el predicatiu és *disparat*) i *sortir* no és copulatiu (descartem D). És un **complement circumstancial** (de manera)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "C) complement circumstancial (o adjunt)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Complement circumstancial (o adjunt)."
+          }
+        ],
+        "nota": "No confonguis aquest sintagma amb *disparat*, que sí que és complement predicatiu (concorda amb *en Quimet*)."
+      }
+    },
+    {
+      "id": "catala-2023-S-e3-q3-1-3",
+      "exercici": 3,
+      "questio": "3.1.3",
+      "opcio": null,
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció del pronom «l’» a «no l’havien deixat»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pronoms febles",
+        "complement directe",
+        "funcions sintàctiques"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nAquells dies no **l’**havien deixat ni un moment sol amb la Maria.",
+      "figures": [],
+      "opcions": {
+        "A": "complement del nom",
+        "B": "complement o objecte directe",
+        "C": "complement circumstancial (o adjunt)",
+        "D": "subjecte"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,2 i **cada error resta 0,2**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, per un adjectiu, per un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Deixar algú sol*: *l’* representa en Quimet, la persona a qui «havien deixat» sola. El pronom *el/l’* és la forma del **complement directe** masculí singular. A més, el participi i el predicatiu *sol* concorden amb ell. Els pronoms febles mai no fan de subjecte (descartem D)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "B) complement o objecte directe."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Complement o objecte directe."
+          }
+        ],
+        "nota": "*Sol* és complement predicatiu referit al CD; no et despistis: la pregunta és pel pronom."
+      }
+    },
+    {
+      "id": "catala-2023-S-e3-q3-1-4",
+      "exercici": 3,
+      "questio": "3.1.4",
+      "opcio": null,
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció del pronom «hi» a «s’hi assemblava»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pronoms febles",
+        "complement de règim",
+        "verbs pronominals",
+        "funcions sintàctiques"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nPerò allò no era cap pregunta. S’**hi** assemblava.",
+      "figures": [],
+      "opcions": {
+        "A": "complement del nom",
+        "B": "complement de règim (o preposicional)",
+        "C": "complement circumstancial (o adjunt)",
+        "D": "complement agent"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,2 i **cada error resta 0,2**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, per un adjectiu, per un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Assemblar-se* exigeix un complement amb la preposició *a*: «s’assemblava **a una pregunta**». Aquest complement no es pot eliminar sense que canviï el sentit del verb ni es pot substituir per un adverbi de lloc o de manera: és un **complement de règim**, que es pronominalitza amb *hi*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "B) complement de règim (o preposicional)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Complement de règim (o preposicional)."
+          }
+        ],
+        "nota": "*Hi* pot ser CC de lloc o complement de règim: la clau és si el verb exigeix una preposició fixa (*assemblar-se a*, *pensar en*, *confiar en*...)."
+      }
+    },
+    {
+      "id": "catala-2023-S-e3-q3-1-5",
+      "exercici": 3,
+      "questio": "3.1.5",
+      "opcio": null,
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció de l’oració «Si no s’hi afanya»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "subordinació adverbial",
+        "oracions condicionals",
+        "conjunció si"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Indiqueu l’anàlisi correcta dels pronoms, les oracions o els sintagmes subratllats (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\n**Si no s’hi afanya** no hi serà pas a temps.",
+      "figures": [],
+      "opcions": {
+        "A": "oració subordinada substantiva de complement directe",
+        "B": "oració subordinada adverbial temporal",
+        "C": "oració subordinada adjectiva de complement directe",
+        "D": "oració subordinada adverbial condicional"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test d’anàlisi sintàctica. Cada encert val 0,2 i **cada error resta 0,2**: si no pots descartar opcions, val més deixar-la en blanc. Fes servir les proves de substitució (per un pronom feble, per un adjectiu, per un adverbi) i de concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "La conjunció *si* introdueix una **condició** (la pròtasi) del fet expressat a l’oració principal (l’apòdosi: «no hi serà pas a temps»). Equival a «En cas que no s’hi afanyi...». És, per tant, una oració subordinada **adverbial condicional**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "D) oració subordinada adverbial condicional."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Oració subordinada adverbial condicional."
+          }
+        ],
+        "nota": "No confonguis el *si* condicional amb el *si* interrogatiu indirecte (*No sé si vindrà*), que introdueix una substantiva."
+      }
+    },
+    {
+      "id": "catala-2023-S-e3-q3-2",
+      "exercici": 3,
+      "questio": "3.2",
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Parelles de mots: alhora / a l’hora, tant / tan, que / què, en lloc / enlloc, sinó / si no",
+      "tema": "normativa",
+      "temes_secundaris": [],
+      "conceptes": [
+        "parònims",
+        "alhora",
+        "tant i tan",
+        "pronom relatiu",
+        "sinó i si no",
+        "ortografia"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Completeu les oracions següents amb la forma correcta de les dues que hi ha entre parèntesis. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada oració té dos buits i les dues formes de la parella (cada forma va en un buit). Pensa en el significat i en la categoria de cada forma. 0,1 per oració. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*A l’hora* = en el moment («a l’hora que vulgueu»); *alhora* = al mateix temps, simultàniament («que no arribeu alhora»)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Tant* (quantitat) va davant de verbs o sola: «**Tant** que patia...»; *tan* va davant d’adjectius o adverbis: «estava **tan** tranquil»."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Relatiu sense preposició: *que* («Els llibres **que** més m’agraden»). Relatiu darrere de preposició: *què* («aquells en **què** el protagonista guanya»)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "*Enlloc* = en cap lloc («No trobava la bufanda **enlloc**»); *en lloc de* = en comptes de («l’havia agafada **en lloc** de la seva»)."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "*Si no* = condició negativa («**Si no** t’agradava la carn...»); *sinó* = conjunció adversativa després d’una negació, o «excepte» («no t’hauria donat les costelles **sinó** el rap»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Podeu arribar **a l’hora** que vulgueu. Us aconsello, però, que no arribeu **alhora**.\n\nb) **Tant** que patia per la tornada del seu fill, i quan va arribar aquest estava **tan** tranquil.\n\nc) Els llibres **que** més m’agraden són aquells en **què** el protagonista sempre guanya.\n\nd) No trobava la bufanda **enlloc** i al final em vaig adonar que la Maria l’havia agafada **en lloc** de la seva.\n\ne) **Si no** t’agradava la carn, m’ho hauries d’haver dit i no t’hauria donat les costelles **sinó** el rap."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "a l’hora / alhora"
+          },
+          {
+            "apartat": "b",
+            "valor": "tant / tan"
+          },
+          {
+            "apartat": "c",
+            "valor": "que / què"
+          },
+          {
+            "apartat": "d",
+            "valor": "enlloc / en lloc"
+          },
+          {
+            "apartat": "e",
+            "valor": "si no / sinó"
+          }
+        ],
+        "nota": "Truc per a la e): si es pot afegir *que* («no t’hauria donat les costelles, sinó el rap»), o si es pot dir «en comptes de», és *sinó*; si es pot dir «en cas que no», és *si no*. Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts."
+      }
+    },
+    {
+      "id": "catala-2023-S-e3-q3-3",
+      "exercici": 3,
+      "questio": "3.3",
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Formes verbals: respondre, jeure, donar, caber, voler",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "normativa"
+      ],
+      "conceptes": [
+        "morfologia verbal",
+        "verbs irregulars",
+        "imperatiu",
+        "participi",
+        "subjuntiu",
+        "gerundi"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Completeu les oracions següents amb la forma verbal correcta del verb que hi ha entre parèntesis. No podeu utilitzar formes perifràstiques. [0,5 punts]\n\na) Si us plau. Quan us ho demanin, _____ (*respondre*) a totes les preguntes que us facin.\n\nb) Hem _____ (*jeure*) una estona després de dinar perquè estàvem cansadíssimes.\n\nc) Que faci el que li _____ (*donar*) la gana! Sempre va a la seva, aquest.\n\nd) No sé per què m’ha donat aquest seient. Provo d’asseure-m’hi i no hi _____ (*caber*).\n\ne) _____ (*voler*) arribar d’hora, van fer tard per culpa de l’accident que van trobar a la carretera.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Primer decideix el temps i la persona que demana el context; després conjuga, vigilant les irregulars. 0,1 per forma. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Ordre adreçat a «vosaltres» (*us ho demanin*): imperatiu, 2a plural → **responeu**."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Hem* + participi. El participi de *jeure* és irregular: **jagut** (com *plagut* de *plaure*)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "«el que li ... la gana» depèn de *Que faci*: present de subjuntiu, 3a singular → **doni**."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Subjecte *jo* (*Provo*): present d’indicatiu, 1a singular de *caber* → **cabo** (no *quepo*, que és castellà)."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Forma no personal amb valor concessiu («tot i voler arribar d’hora»): gerundi → **volent**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) responeu · b) jagut · c) doni · d) cabo · e) volent"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "responeu"
+          },
+          {
+            "apartat": "b",
+            "valor": "jagut"
+          },
+          {
+            "apartat": "c",
+            "valor": "doni"
+          },
+          {
+            "apartat": "d",
+            "valor": "cabo"
+          },
+          {
+            "apartat": "e",
+            "valor": "volent"
+          }
+        ],
+        "nota": "Errors típics: *respongueu* (és el subjuntiu, no l’imperatiu), *jegut*, *dongui* (forma no normativa), *quepo*, *volguent*. Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts."
+      }
+    },
+    {
+      "id": "catala-2023-S-e3-q3-4",
+      "exercici": 3,
+      "questio": "3.4",
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Grafies del so fricatiu alveolar sonor [z]",
+      "tema": "normativa",
+      "temes_secundaris": [],
+      "conceptes": [
+        "fonètica",
+        "essa sonora",
+        "sonorització",
+        "enllaç fonètic",
+        "ortografia"
+      ],
+      "dificultat": 3,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Subratlleu (aquí, indiqueu) en el text següent NOMÉS les cinc grafies que corresponen al so fricatiu alveolar sonor [z]. [0,5 punts]\n\nA la ciutat, el trànsit és molt complicat a aquestes hores. Cap a les onze, millora una mica.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "No n’hi ha prou amb buscar *z* i *s* entre vocals: cal pensar també en la **sonorització** de la *-s* final quan el mot següent comença per vocal o per consonant sonora. N’hi ha exactament cinc. 0,1 per grafia. Temps: 3 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **trànsit**: en aquest mot la *s* es pronuncia sonora: [ˈtɾanzit].\n\n2. **és** molt: la *-s* final davant de consonant sonora (*m*) se sonoritza: [ɛz mɔl].\n\n3. aqueste**s** hores: *-s* final davant de vocal (la *h* és muda) → enllaç sonor [z].\n\n4. le**s** onze: *-s* final davant de vocal → [z].\n\n5. on**z**e: la *z* sempre és sonora.\n\nLes altres *s* no hi compten: *ciutat*, *complicat* i *Cap* no tenen essa; a *hores* la *-s* va seguida de pausa (punt) i és sorda."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A la ciutat, el tràn**s**it é**s** molt complicat a aqueste**s** hores. Cap a le**s** on**z**e, millora una mica."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "trànsit (s), és (s), aquestes (s final), les (s), onze (z)."
+          }
+        ],
+        "nota": "És la qüestió més difícil de la part 3. Error típic: subratllar la *s* de *hores* (davant de pausa és sorda) o oblidar les sonoritzacions per enllaç (*és molt*, *aquestes hores*, *les onze*)."
+      }
+    },
+    {
+      "id": "catala-2023-S-e3-q3-5",
+      "exercici": 3,
+      "questio": "3.5",
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Derivació: pulcre, cabòria, sabó, favor, honest",
+      "tema": "lexic",
+      "temes_secundaris": [
+        "normativa"
+      ],
+      "conceptes": [
+        "derivació",
+        "formació de mots",
+        "sufixos",
+        "prefixos",
+        "parasíntesi"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Part comuna. Completeu les oracions següents amb els verbs, substantius o adjectius adequats, derivats dels mots que hi ha entre parèntesis. [0,5 punts]\n\na) Era una persona molt escrupolosa. Va fer el seu treball amb molta _____. (*pulcre*)\n\nb) Se’l veia _____ i no va dir una sola paraula en tota la tarda. (*cabòria*)\n\nc) Tot el que s’ha de fer és rentar la ferida amb aigua _____. (*sabó*)\n\nd) Aquesta acció ha _____ la presència d’espècies autòctones. (*favor*)\n\ne) L’_____ és un valor que consisteix a comportar-se amb coherència amb un mateix. (*honest*)",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Mira quina categoria demana cada buit (darrere de *molta* → substantiu femení; darrere de *ha* → participi; darrere de *aigua* → adjectiu femení) i fes concordar el derivat. 0,1 per mot. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*molta* + substantiu femení de qualitat: *pulcre* → **pulcritud** (sufix *-itud*)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Adjectiu (participi) masculí que descriu algú preocupat, capficat: *cabòria* → **encaboriat** (parasíntesi *en-...-at*)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Adjectiu femení que concorda amb *aigua*: *sabó* → **sabonosa** (recupera la *-n-* de l’arrel: *sabonós*)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "*ha* + participi del verb *afavorir* (prefix *a-*): **afavorit**."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Substantiu femení amb apòstrof (*L’*): *honest* → **honestedat**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) pulcritud · b) encaboriat · c) sabonosa · d) afavorit · e) honestedat"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "pulcritud"
+          },
+          {
+            "apartat": "b",
+            "valor": "encaboriat"
+          },
+          {
+            "apartat": "c",
+            "valor": "sabonosa"
+          },
+          {
+            "apartat": "d",
+            "valor": "afavorit"
+          },
+          {
+            "apartat": "e",
+            "valor": "honestedat"
+          }
+        ],
+        "nota": "Errors típics: *pulcritut*, *sabonera* (que és un nom), *favorit* (és un adjectiu, no el participi d’*afavorir*), *honestitat* (la forma normativa és *honestedat*). Recorda que a tot l’examen cada falta de normativa (encara que sigui repetida) resta 0,1 punts."
+      }
+    }
+  ]
+}

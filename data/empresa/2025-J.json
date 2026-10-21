@@ -1,0 +1,707 @@
+{
+  "examen": {
+    "id": "empresa-2025-J",
+    "assignatura": "empresa",
+    "materia": "Funcionament de l’empresa i disseny de models de negoci",
+    "any": 2025,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/empresa/2025-J-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2025-S-solucio.pdf",
+    "estructura": "Quatre exercicis obligatoris de 2,5 punts cadascun (sèrie 1, convocatòria ordinària). Exercici 1: cas Serrallonga, SL (DAFO, formes jurídiques, models de negoci i estratègies de creixement). Exercici 2: projectes d’inversió de Semprequalitat, SA (VAN, 4P del màrqueting digital, TIR raonada) i un apartat 2.4 (0,5 punts) en què cal triar UNA opció: A (termini de recuperació o payback) o B (productivitat global i taxa de variació); si es responen les dues, només es corregeix l’A. Exercici 3: balanç de situació d’AnemEsquí, SL, fons de maniobra i ràtio de liquiditat. Exercici 4: 5 preguntes de test (0,5 punts per encert, −0,15 per error, les no contestades no resten). Es pot utilitzar calculadora no programable. Nota sobre les solucions: inicialment no constava cap PDF de criteris d’aquesta convocatòria; el fitxer pdfs/empresa/2025-S-solucio.pdf porta la capçalera «2025, convocatòria ordinària» i correspon exactament a aquest examen (juny), de manera que s’ha fet servir com a criteri oficial. Tots els càlculs s’han verificat amb Python."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2025-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Serrallonga, SL: DAFO, formes jurídiques, models de negoci i estratègies de creixement",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "models-negoci",
+        "emprenedoria"
+      ],
+      "conceptes": [
+        "anàlisi dafo",
+        "formes jurídiques",
+        "societat de responsabilitat limitada",
+        "societat cooperativa",
+        "freemium",
+        "franquícia",
+        "estratègies de creixement",
+        "diversificació"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3,
+        4
+      ],
+      "text": "Serrallonga, SL és una empresa catalana que ofereix serveis d’assessorament a la pagesia i la gent dedicada a la ramaderia. Després de fer una anàlisi externa i interna de l’empresa, s’ha obtingut la informació següent:\n\n- ***a)*** L’empresa disposa d’un equip de persones especialitzat que entén les necessitats específiques dels pagesos.\n- ***b)*** Com que és una empresa petita, els recursos econòmics per a créixer o per a competir amb grans empreses són limitats.\n- ***c)*** L’empresa pot disposar d’ajuts econòmics de la Unió Europea per a desenvolupar solucions innovadores que millorin la seva competitivitat.\n- ***d)*** Hi ha el risc que altres empreses competidores, més grans i amb més recursos econòmics, li puguin prendre clients actuals.\n- ***e)*** L’empresa encara no ha implementat eines digitals modernes en els seus processos de negoci.\n- ***f)*** La presència local i la proximitat als clients li aporten un valor afegit important.\n- ***g)*** Hi ha una tendència social favorable a donar suport a les petites empreses.\n- ***h)*** Es preveuen canvis en la política agrària europea que poden fer perillar les subvencions i els ajuts que l’empresa rep actualment.",
+      "enunciat": "Responeu els apartats 1.1 a 1.4 sobre l’empresa Serrallonga, SL.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1.1",
+          "punts": 0.8,
+          "enunciat": "Feu l’anàlisi DAFO d’aquesta empresa col·locant les lletres de la informació anterior (*a*, *b*, *c*, *d*, *e*, *f*, *g*, *h*) a la casella corresponent de la taula següent. Tingueu en compte que cada lletra només pot anar a una casella.\n\n| *Fortaleses de l’empresa* | *Debilitats de l’empresa* |\n|---|---|\n| | |\n\n| *Oportunitats de l’entorn* | *Amenaces de l’entorn* |\n|---|---|\n| | |"
+        },
+        {
+          "id": "1.2",
+          "punts": 0.4,
+          "enunciat": "L’empresa Serrallonga, SL és una societat limitada, un tipus de forma jurídica força habitual. Tanmateix, les empreses poden adoptar altres formes jurídiques segons les seves necessitats, la seva estructura i els tipus de responsabilitat que vulguin assumir.\n\nLa taula següent conté característiques pròpies de diferents formes jurídiques d’empresa. Completeu-la relacionant cada característica amb la forma jurídica que li correspon, d’entre les opcions següents: societat de responsabilitat limitada, societat anònima, societat cooperativa o empresari/ària individual.\n\n| Forma jurídica de l’empresa | Característica |\n|---|---|\n| | Té un capital social mínim elevat, dividit en accions que es poden transferir lliurement. |\n| | Un únic propietari assumeix la responsabilitat total de l’empresa i respon amb el seu patrimoni personal. |\n| | El seu capital es divideix en participacions. Aquestes participacions no es poden transferir lliurement sense l’aprovació dels altres socis, la qual cosa proporciona més control sobre qui pot entrar a formar part de la societat. |\n| | Els socis treballen de manera conjunta i democràtica, i comparteixen els beneficis de manera equitativa. S’associen en règim de lliure adhesió i baixa voluntària. |"
+        },
+        {
+          "id": "1.3",
+          "punts": 0.5,
+          "enunciat": "L’empresa Serrallonga, SL vol explorar nous models de negoci com el freemium, l’afiliació, la subscripció, les aplicacions mòbils i la franquícia. Completeu la taula següent relacionant els cinc models de negoci esmentats amb les seves característiques.\n\n| Model de negoci | Característica |\n|---|---|\n| | Permet l’accés continuat als serveis de l’empresa a canvi d’una quota periòdica, amb diversos plans adaptats a les necessitats dels clients. |\n| | És una forma d’expansió a noves regions on altres empreses ofereixen els serveis de l’empresa sota la seva supervisió i marca. |\n| | Ofereix serveis bàsics gratuïts amb opcions de pagament per serveis avançats. |\n| | Proporciona accés immediat i còmode als serveis i dona informació als pagesos mitjançant una aplicació per a telèfon mòbil. |\n| | És una col·laboració amb entitats i professionals per a captar clients a canvi d’una comissió. |"
+        },
+        {
+          "id": "1.4",
+          "punts": 0.8,
+          "enunciat": "L’empresa Serrallonga, SL té com a objectiu créixer, i disposa de diferents vies o mecanismes per a assolir aquest propòsit. Per dur a terme aquest creixement, ha identificat diverses estratègies a seguir. Completeu les frases següents sobre les diferents estratègies de creixement amb el mot o mots que considereu més adequats.\n\n***a)*** Si l’empresa decideix concentrar-se encara més en serveis específics de suport legal per a temes agraris, estaria adoptant una estratègia de creixement \\_\\_\\_\\_\\_\\_ coneguda com a \\_\\_\\_\\_\\_\\_.\n\n***b)*** Si Serrallonga, SL estudiés incorporar nous serveis, com ara l’assessorament en sostenibilitat, amb l’objectiu d’ampliar l’oferta, estaria seguint una estratègia de \\_\\_\\_\\_\\_\\_. Aquesta manera d’actuar suposa una estratègia de creixement \\_\\_\\_\\_\\_\\_.\n\n***c)*** Si l’empresa fa una \\_\\_\\_\\_\\_\\_ amb una altra organització, formant una nova empresa conjunta per a aconseguir augmentar la seva dimensió i millorar la seva competitivitat, estaria seguint una estratègia de creixement \\_\\_\\_\\_\\_\\_.\n\n***d)*** Finalment, Serrallonga, SL també valora una altra forma de creixement \\_\\_\\_\\_\\_\\_ mitjançant la \\_\\_\\_\\_\\_\\_ amb altres empreses per a crear programes de suport rural. Aquest tipus de col·laboració permet a l’empresa mantenir la seva independència, alhora que suma esforços per a augmentar l’impacte de les seves accions."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de **classificar i relacionar**, sense redacció llarga: només cal omplir taules i buits amb el terme exacte. És el més ràpid de l’examen (10-12 minuts) i permet assegurar 2,5 punts. La dificultat és conceptual:\n\n- al DAFO, distingir allò **intern** (fortaleses i debilitats: depèn de l’empresa) d’allò **extern** (oportunitats i amenaces: depèn de l’entorn);\n- a les formes jurídiques, fixar-se en la paraula clau (accions, únic propietari, participacions, democràtica);\n- als models de negoci, associar cada mecanisme d’ingrés al seu nom;\n- al creixement, recordar que **intern** = amb recursos propis (especialització, diversificació, nous mercats) i **extern** = amb altres empreses (fusió, adquisició, cooperació)."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Pregunta’t per a cada frase: *és una característica de l’empresa (interna) o de l’entorn (externa)?* i després *és positiva o negativa?*\n\n- a) equip especialitzat → intern i positiu → **fortalesa**.\n- b) recursos econòmics limitats → intern i negatiu → **debilitat**.\n- c) ajuts de la UE → extern i positiu → **oportunitat**.\n- d) competidors més grans → extern i negatiu → **amenaça**.\n- e) manca d’eines digitals → intern i negatiu → **debilitat**.\n- f) presència local i proximitat → intern i positiu → **fortalesa**.\n- g) tendència social favorable a les pimes → extern i positiu → **oportunitat**.\n- h) canvis en la política agrària europea → extern i negatiu → **amenaça**.\n\nQueden dues lletres a cada casella, cosa que serveix de comprovació."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Resposta model",
+            "cos": "| *Fortaleses de l’empresa* | *Debilitats de l’empresa* |\n|---|---|\n| a), f) | b), e) |\n\n| *Oportunitats de l’entorn* | *Amenaces de l’entorn* |\n|---|---|\n| c), g) | d), h) |"
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Paraules clau: **accions** transmissibles lliurement i capital mínim elevat (60.000 €) → societat anònima; **un únic propietari** amb responsabilitat il·limitada → empresari individual; **participacions** amb transmissió restringida → societat de responsabilitat limitada; gestió **democràtica**, lliure adhesió i baixa voluntària → cooperativa."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Resposta model",
+            "cos": "| Forma jurídica de l’empresa | Característica |\n|---|---|\n| **Societat anònima** | Capital social mínim elevat, dividit en accions que es poden transferir lliurement. |\n| **Empresari/ària individual** | Un únic propietari assumeix la responsabilitat total i respon amb el seu patrimoni personal. |\n| **Societat de responsabilitat limitada** | Capital dividit en participacions que no es poden transferir lliurement sense l’aprovació dels altres socis. |\n| **Societat cooperativa** | Socis que treballen de manera conjunta i democràtica, reparteixen els beneficis equitativament; lliure adhesió i baixa voluntària. |"
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Associa cada model amb la seva manera de generar ingressos: quota periòdica → **subscripció**; expansió amb altres empreses que usen la teva marca → **franquícia**; bàsic gratis + pagament pel prèmium → **freemium**; servei a través del telèfon → **aplicacions mòbils**; tercers que porten clients a canvi de comissió → **afiliació**."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Resposta model",
+            "cos": "| Model de negoci | Característica |\n|---|---|\n| **Subscripció** | Accés continuat als serveis a canvi d’una quota periòdica, amb diversos plans. |\n| **Franquícia** | Expansió a noves regions on altres empreses ofereixen els serveis sota la supervisió i la marca de l’empresa. |\n| **Freemium** | Serveis bàsics gratuïts amb opcions de pagament per serveis avançats. |\n| **Aplicacions mòbils** | Accés immediat i còmode als serveis i informació als pagesos mitjançant una aplicació per a mòbil. |\n| **Afiliació** | Col·laboració amb entitats i professionals per a captar clients a canvi d’una comissió. |"
+          },
+          {
+            "apartat": "1.4",
+            "titol": "Com plantejar-ho",
+            "cos": "Primer decideix si l’empresa creix **sola** (creixement intern) o **amb altres empreses** (creixement extern):\n\n- a) concentrar-se encara més en el que ja fa → creixement intern per **especialització**.\n- b) afegir nous serveis → **diversificació**, que és creixement intern (es fa amb recursos propis).\n- c) unir-se amb una altra organització i formar-ne una de nova → **fusió**, creixement extern.\n- d) col·laborar mantenint la independència → **cooperació** (acords, aliances), creixement extern.\n\nClau per a la d): si les empreses mantenen la independència, no és fusió ni adquisició sinó cooperació."
+          },
+          {
+            "apartat": "1.4",
+            "titol": "Resposta model",
+            "cos": "a) estratègia de creixement **intern** coneguda com a **especialització**.\n\nb) estratègia de **diversificació**; suposa una estratègia de creixement **intern**.\n\nc) si l’empresa fa una **fusió** amb una altra organització, estaria seguint una estratègia de creixement **extern**.\n\nd) una altra forma de creixement **extern** mitjançant la **cooperació** amb altres empreses."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1.1",
+            "valor": "Fortaleses: a, f. Debilitats: b, e. Oportunitats: c, g. Amenaces: d, h."
+          },
+          {
+            "apartat": "1.2",
+            "valor": "Societat anònima; empresari/ària individual; societat de responsabilitat limitada; societat cooperativa (en l’ordre de la taula)."
+          },
+          {
+            "apartat": "1.3",
+            "valor": "Subscripció; franquícia; freemium; aplicacions mòbils; afiliació (en l’ordre de la taula)."
+          },
+          {
+            "apartat": "1.4",
+            "valor": "a) intern – especialització; b) diversificació – intern; c) fusió – extern; d) extern – cooperació."
+          }
+        ],
+        "nota": "Error típic al DAFO: posar els ajuts de la UE (c) o els canvis de la política agrària (h) com a fortalesa o debilitat; són factors de l’entorn, no de l’empresa. Al 1.4, molts alumnes posen la diversificació com a creixement extern: només ho seria si es fes comprant o fusionant-se amb una altra empresa. Els criteris oficials donen exactament les respostes de la resposta model."
+      }
+    },
+    {
+      "id": "empresa-2025-J-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Semprequalitat, SA: VAN de tres projectes, 4P del màrqueting digital i TIR raonada",
+      "tema": "financament",
+      "temes_secundaris": [
+        "marqueting"
+      ],
+      "conceptes": [
+        "valor actual net",
+        "taxa interna de rendibilitat",
+        "valor residual",
+        "cost del capital",
+        "màrqueting digital",
+        "4p del màrqueting digital",
+        "personalització"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5,
+        6
+      ],
+      "text": "El consell d’administració de l’empresa Semprequalitat, SA s’està plantejant els nous objectius de la societat per al període 2025-2028.\n\nUn d’ells és assegurar la futura competitivitat de l’empresa. Per assolir-ho, es planteja, entre altres opcions, fer canvis en les variables del màrqueting *mix* cap a un sistema digital que li permeti adaptar-se més a cada client deixant de banda el màrqueting massiu.\n\nTambé s’ha plantejat la robotització del procés productiu, ja que la maquinària actual està obsoleta i s’ha detectat que els competidors poden produir amb costos més baixos.\n\nFent els estudis pertinents, s’han adonat que poden triar entre tres alternatives de projectes d’inversió (X, Y o Z), en funció del nivell de producció que pretenguin assolir. En la taula següent es recullen les dades relatives al desemborsament inicial de cada inversió i els fluxos de caixa nets per a la durada prevista de la inversió, que és de quatre anys. (Els valors estan expressats en milions d’euros.)\n\n| Concepte | Projecte X | Projecte Y | Projecte Z |\n|---|---:|---:|---:|\n| Desemborsament inicial | 30 | 45 | 40 |\n| Flux de caixa net (any 1) | 6 | 11,5 | 9,5 |\n| Flux de caixa net (any 2) | 8 | 13 | 12 |\n| Flux de caixa net (any 3) | 16 | 14,5 | 12 |\n| Flux de caixa net (any 4) | 3 | 8 | 6 |\n\nEls valors residuals dels projectes X, Y i Z són, respectivament, d’1, 6 i 7 milions d’euros.",
+      "enunciat": "Responeu els apartats 2.1, 2.2 i 2.3 (l’apartat 2.4, amb opcions A i B, es tracta per separat).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "punts": 1,
+          "enunciat": "Expliqueu què és el VAN d’un projecte d’inversió. Seguidament, calculeu el VAN de cadascun dels tres projectes d’inversió (X, Y i Z) sabent que el cost del capital és del 6 % i raoneu quin hauria de triar l’empresa segons aquest criteri.\n\n*Nota*: Escriviu la fórmula de càlcul del VAN de cada projecte, a més de l’obtenció del resultat."
+        },
+        {
+          "id": "2.2",
+          "punts": 0.4,
+          "enunciat": "Expliqueu breument amb les vostres paraules en què consisteixen les 4P del màrqueting digital i identifiqueu quina es veu reflectida en el text de l’enunciat quan es parla d’«adaptar-se més a cada client deixant de banda el màrqueting massiu»."
+        },
+        {
+          "id": "2.3",
+          "punts": 0.6,
+          "enunciat": "Raoneu, sense fer cap càlcul, quin seria el valor aproximat de la TIR per als tres projectes d’inversió i trieu el que considereu millor segons aquest criteri. Justifiqueu la resposta comparant els tres projectes."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "El nucli és el **VAN** (1 punt): definició + fórmula de **cada** projecte (l’enunciat ho exigeix explícitament) + resultat + decisió. El parany és el **valor residual**: és un cobrament que l’empresa obté en vendre els actius al final de la vida de la inversió, i s’ha de sumar al flux de caixa de l’**any 4**. Així, els fluxos de l’any 4 són X: 3 + 1 = 4; Y: 8 + 6 = 14; Z: 6 + 7 = 13.\n\nL’apartat 2.3 es respon **sense calcular** la TIR, aprofitant el signe del VAN de l’apartat 2.1. L’apartat 2.2 és teoria breu. Dedica-hi uns 20 minuts; fes servir la memòria de la calculadora per no arrossegar errors d’arrodoniment."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "El VAN actualitza al moment 0 tots els fluxos futurs amb el cost del capital ($k = 0{,}06$) i hi resta el desemborsament inicial:\n\n$$VAN = -D + \\frac{F_1}{(1+k)} + \\frac{F_2}{(1+k)^2} + \\frac{F_3}{(1+k)^3} + \\frac{F_4 + VR}{(1+k)^4}$$\n\n**Projecte X** (any 4: 3 + 1 = 4):\n\n$$VAN_X = -30 + \\frac{6}{1{,}06} + \\frac{8}{1{,}06^2} + \\frac{16}{1{,}06^3} + \\frac{4}{1{,}06^4}$$\n\n$$VAN_X = -30 + 5{,}660 + 7{,}120 + 13{,}434 + 3{,}168 = -0{,}62$$\n\n**Projecte Y** (any 4: 8 + 6 = 14):\n\n$$VAN_Y = -45 + \\frac{11{,}5}{1{,}06} + \\frac{13}{1{,}06^2} + \\frac{14{,}5}{1{,}06^3} + \\frac{14}{1{,}06^4}$$\n\n$$VAN_Y = -45 + 10{,}849 + 11{,}570 + 12{,}175 + 11{,}089 = 0{,}68$$\n\n**Projecte Z** (any 4: 6 + 7 = 13):\n\n$$VAN_Z = -40 + \\frac{9{,}5}{1{,}06} + \\frac{12}{1{,}06^2} + \\frac{12}{1{,}06^3} + \\frac{13}{1{,}06^4}$$\n\n$$VAN_Z = -40 + 8{,}962 + 10{,}680 + 10{,}075 + 10{,}297 = 0{,}015$$\n\nRegla de decisió: només són acceptables els projectes amb VAN > 0, i entre aquests es tria el de VAN més alt."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "El **VAN** (valor actual net) d’un projecte d’inversió és la diferència entre el valor actualitzat, en el moment inicial, de tots els fluxos nets de caixa que generarà el projecte i el desemborsament inicial. Actualitzem els fluxos amb el cost del capital perquè els diners de diferents anys no tenen el mateix valor. Si el VAN és positiu, el projecte recupera la inversió, cobreix el cost del capital i encara genera una riquesa addicional.\n\n(Imports en milions d’euros; el valor residual s’afegeix al flux de l’any 4.)\n\n- $VAN_X = -30 + \\frac{6}{1{,}06} + \\frac{8}{1{,}06^2} + \\frac{16}{1{,}06^3} + \\frac{4}{1{,}06^4} = -0{,}62$ milions d’€\n- $VAN_Y = -45 + \\frac{11{,}5}{1{,}06} + \\frac{13}{1{,}06^2} + \\frac{14{,}5}{1{,}06^3} + \\frac{14}{1{,}06^4} = 0{,}68$ milions d’€\n- $VAN_Z = -40 + \\frac{9{,}5}{1{,}06} + \\frac{12}{1{,}06^2} + \\frac{12}{1{,}06^3} + \\frac{13}{1{,}06^4} = 0{,}015$ milions d’€\n\n**Decisió**: el projecte X no és viable, perquè té un VAN negatiu (destrueix valor). El projecte Z té un VAN positiu però pràcticament nul (uns 15.000 €). L’empresa hauria de triar el **projecte Y**, que és el que té el VAN positiu més elevat (0,68 milions d’euros)."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Les **4P del màrqueting digital** substitueixen les 4P clàssiques (producte, preu, distribució i promoció): **personalització, participació, persona a persona (*peer to peer*) i prediccions en models**. Explica-les en una frase cadascuna i, després, relaciona la frase de l’enunciat («adaptar-se més a cada client») amb la **personalització**."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "1. **Personalització**: adaptar el producte i la comunicació a les necessitats i preferències de cada client, gràcies a la gran quantitat d’informació que avui les empreses tenen dels compradors.\n2. **Participació**: implicar els consumidors amb l’empresa creant comunitats on puguin opinar, recomanar o suggerir millores del producte.\n3. **Persona a persona (*peer to peer*)**: aprofitar les relacions entre clients a les xarxes socials i les recomanacions en línia; el client confia més en coneguts, *influencers* o el boca-orella que en la publicitat tradicional.\n4. **Prediccions en models**: analitzar dades (*big data*) per preveure el comportament futur dels consumidors i les tendències del mercat, per incrementar les vendes.\n\nEn el text es reflecteix la **personalització**, perquè l’empresa vol deixar el màrqueting massiu i adaptar el màrqueting a cada client."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Com plantejar-ho",
+            "cos": "La **TIR** és el tipus d’actualització que fa que el VAN sigui zero. Com que el VAN disminueix quan augmenta el tipus d’actualització:\n\n- si $VAN(6\\%) < 0$ → la TIR és **inferior** al 6 %;\n- si $VAN(6\\%) > 0$ → la TIR és **superior** al 6 %;\n- si $VAN(6\\%) \\approx 0$ → la TIR és **pràcticament igual** al 6 %.\n\nUn projecte és acceptable si la TIR supera el cost del capital (6 %)."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Resposta model",
+            "cos": "La TIR és la taxa d’actualització que anul·la el VAN. Fent servir els resultats de l’apartat 2.1 (calculats al 6 %):\n\n- **Projecte X**: VAN = −0,62 < 0 al 6 %; per tant, la seva TIR és **inferior al 6 %** (inferior al cost del capital) i el projecte no és viable segons aquest criteri.\n- **Projecte Y**: VAN = 0,68 > 0 al 6 %; la seva TIR és **superior al 6 %**.\n- **Projecte Z**: VAN = 0,015, pràcticament 0; la seva TIR és **lleugerament superior al 6 %**, gairebé igual al cost del capital.\n\nComparant-los, l’empresa hauria de triar el **projecte Y**, ja que és el que presenta la TIR més elevada i clarament superior al cost del capital."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "Definició de VAN. VAN X = −0,62; VAN Y = 0,68; VAN Z = 0,015 (milions d’euros), sumant el valor residual al flux de l’any 4. Es tria Y (VAN positiu i més alt); X no és viable."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "Personalització, participació, persona a persona (peer to peer) i prediccions en models. Al text: personalització."
+          },
+          {
+            "apartat": "2.3",
+            "valor": "TIR X < 6 % (no viable); TIR Y > 6 %; TIR Z ≈ 6 % (lleugerament superior). Es tria Y."
+          }
+        ],
+        "nota": "Comprovació amb Python: VAN X = −0,6174; VAN Y = 0,6828; VAN Z = 0,0149 milions d’euros, iguals als dels criteris oficials. Com a referència (no es demana calcular-la), la TIR exacta és X ≈ 5,1 %, Y ≈ 6,6 % i Z ≈ 6,0 %, cosa que confirma el raonament de l’apartat 2.3. Error típic: oblidar el valor residual; sense sumar-lo, els tres VAN surten negatius (X −1,41; Y −4,07; Z −5,53) i la conclusió canvia. Una altra errada habitual és calcular la TIR a l’apartat 2.3: l’enunciat diu «sense fer cap càlcul», i el que es puntua és el raonament a partir del signe del VAN."
+      }
+    },
+    {
+      "id": "empresa-2025-J-e2-q4-A",
+      "exercici": 2,
+      "questio": 4,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 0.5,
+      "titol": "Semprequalitat, SA: termini de recuperació (payback) dels projectes X, Y i Z",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "termini de recuperació",
+        "payback",
+        "fluxos de caixa acumulats",
+        "mètodes estàtics de selecció d’inversions"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4,
+        7
+      ],
+      "text": "El consell d’administració de l’empresa Semprequalitat, SA s’està plantejant els nous objectius de la societat per al període 2025-2028.\n\nUn d’ells és assegurar la futura competitivitat de l’empresa. Per assolir-ho, es planteja, entre altres opcions, fer canvis en les variables del màrqueting *mix* cap a un sistema digital que li permeti adaptar-se més a cada client deixant de banda el màrqueting massiu.\n\nTambé s’ha plantejat la robotització del procés productiu, ja que la maquinària actual està obsoleta i s’ha detectat que els competidors poden produir amb costos més baixos.\n\nFent els estudis pertinents, s’han adonat que poden triar entre tres alternatives de projectes d’inversió (X, Y o Z), en funció del nivell de producció que pretenguin assolir. En la taula següent es recullen les dades relatives al desemborsament inicial de cada inversió i els fluxos de caixa nets per a la durada prevista de la inversió, que és de quatre anys. (Els valors estan expressats en milions d’euros.)\n\n| Concepte | Projecte X | Projecte Y | Projecte Z |\n|---|---:|---:|---:|\n| Desemborsament inicial | 30 | 45 | 40 |\n| Flux de caixa net (any 1) | 6 | 11,5 | 9,5 |\n| Flux de caixa net (any 2) | 8 | 13 | 12 |\n| Flux de caixa net (any 3) | 16 | 14,5 | 12 |\n| Flux de caixa net (any 4) | 3 | 8 | 6 |\n\nEls valors residuals dels projectes X, Y i Z són, respectivament, d’1, 6 i 7 milions d’euros.",
+      "enunciat": "Trieu UNA de les dues opcions, A o B (apartat 2.4). Si responeu a les dues opcions, només es corregirà la primera (opció A).\n\n**Opció A.** Calculeu el termini de recuperació (*payback*) dels tres projectes d’inversió i raoneu quin és el més recomanable segons aquest mètode. Indiqueu el resultat en anys i, si escau, en mesos (en el cas de fracció d’any).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "El *payback* és el temps que triga un projecte a recuperar el desemborsament inicial amb els fluxos de caixa **sense actualitzar**. Es fan els fluxos **acumulats** any a any fins que igualen o superen el desemborsament; si la recuperació cau dins d’un any, es fa una regla de tres suposant que el flux es genera de manera uniforme durant l’any. Uns 5-7 minuts. Seguint els criteris oficials, **no** s’hi suma el valor residual (vegeu la nota)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "**Projecte X** (D = 30): any 1: 6; any 2: 6 + 8 = 14; any 3: 14 + 16 = **30** → es recupera just al final del 3r any.\n\n**Projecte Y** (D = 45): any 1: 11,5; any 2: 24,5; any 3: 39. Falten 45 − 39 = 6 milions, i l’any 4 genera 8 milions:\n\n$$\\text{mesos} = \\frac{6}{8} \\times 12 = 9 \\text{ mesos}$$\n\n**Projecte Z** (D = 40): any 1: 9,5; any 2: 21,5; any 3: 33,5; any 4: 33,5 + 6 = 39,5 < 40 → amb els fluxos de caixa no es recupera la inversió dins de la vida del projecte."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Fluxos de caixa acumulats (milions d’euros):\n\n| Any | X | Y | Z |\n|---|---:|---:|---:|\n| 1 | 6 | 11,5 | 9,5 |\n| 2 | 14 | 24,5 | 21,5 |\n| 3 | **30** | 39 | 33,5 |\n| 4 | 33 | 47 | 39,5 |\n\n- **Projecte X**: recupera els 30 milions exactament al cap de **3 anys**.\n- **Projecte Y**: als 3 anys ha recuperat 39 milions; falten 6, que es generen en $\\frac{6}{8} \\times 12 = 9$ mesos → **3 anys i 9 mesos**.\n- **Projecte Z**: en els quatre anys només genera 39,5 milions, menys que el desemborsament de 40 → **no es recupera** la inversió.\n\nSegons el criteri del termini de recuperació, el projecte més recomanable és l’**X**, perquè és el que recupera abans la inversió inicial. Cal tenir en compte, però, que aquest mètode no considera el valor temporal dels diners ni els fluxos posteriors a la recuperació: per això el VAN (apartat 2.1) recomana Y."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "X: 3 anys; Y: 3 anys i 9 mesos (6/8 × 12); Z: no es recupera (acumula 39,5 < 40). El més recomanable és X."
+          }
+        ],
+        "nota": "Discrepància de criteri: els criteris oficials calculen el payback **sense** el valor residual, tot i que al VAN el sumen al flux de l’any 4. Si s’inclogués (any 4: X 4, Y 14, Z 13), X continuaria recuperant-se en 3 anys, Y en 3 anys i 5 mesos (6/14 × 12 = 5,1) i Z en 3 anys i 6 mesos (6,5/13 × 12 = 6); la conclusió (X és el millor) no canvia. Comprovat amb Python. Error típic: actualitzar els fluxos (això seria el payback descomptat, que no es demana) o donar «3,75 anys» sense passar-ho a mesos."
+      }
+    },
+    {
+      "id": "empresa-2025-J-e2-q4-B",
+      "exercici": 2,
+      "questio": 4,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 0.5,
+      "titol": "Semprequalitat, SA: productivitat global del 2024 i taxa de variació",
+      "tema": "produccio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "productivitat global",
+        "taxa de variació",
+        "eficiència",
+        "factors de producció"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        7
+      ],
+      "text": "A la taula següent es mostren les quantitats i els preus de la producció obtinguda (producte 1 i producte 2), i les quantitats i els preus dels costos suportats (hores de treball, matèria primera i hores de maquinària) corresponents a l’any 2024.\n\n| | *Quantitat* | *Preu unitari (en euros)* |\n|---|---:|---:|\n| Hores de treball | 80.000 hores | 30 |\n| Matèria primera | 1.000.000 kg | 8 |\n| Hores de maquinària | 60.000 hores | 15 |\n| Producte 1 | 15.000 unitats | 600 |\n| Producte 2 | 22.000 unitats | 300 |",
+      "enunciat": "Trieu UNA de les dues opcions, A o B (apartat 2.4). Si responeu a les dues opcions, només es corregirà la primera (opció A).\n\n**Opció B.** Calculeu la productivitat global de l’empresa d’aquest any (2024) i la taxa de variació respecte a l’any anterior, sabent que el valor de la productivitat de l’any 2023 va ser d’1,3. Interpreteu el resultat obtingut.\n\n*Nota*: Escriviu la fórmula de càlcul de la productivitat global i de la taxa de variació, a més de l’obtenció dels dos resultats.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dos càlculs breus amb **fórmula obligatòria** (ho diu la nota de l’enunciat) i una interpretació. La productivitat global compara el **valor** de la producció amb el **cost** de tots els factors, tots dos en euros. Uns 5 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Valor de la producció = 15.000 × 600 + 22.000 × 300 = 9.000.000 + 6.600.000 = 15.600.000 €.\n\nCost dels factors = 80.000 × 30 + 1.000.000 × 8 + 60.000 × 15 = 2.400.000 + 8.000.000 + 900.000 = 11.300.000 €.\n\n$$PG = \\frac{\\text{valor de la producció}}{\\text{cost dels factors}} = \\frac{15600000}{11300000} = 1{,}3805$$\n\n$$TV = \\frac{PG_{2024} - PG_{2023}}{PG_{2023}} \\times 100 = \\frac{1{,}3805 - 1{,}3}{1{,}3} \\times 100 = 6{,}19\\%$$"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Productivitat global 2024**:\n\n$PG = \\frac{15000 \\cdot 600 + 22000 \\cdot 300}{80000 \\cdot 30 + 1000000 \\cdot 8 + 60000 \\cdot 15} = \\frac{15600000}{11300000} = 1{,}38$\n\nPer cada euro gastat en factors de producció, l’empresa obté 1,38 € de valor de producció.\n\n**Taxa de variació**:\n\n$TV = \\frac{1{,}38 - 1{,}3}{1{,}3} \\times 100 = 6{,}15\\%$ (amb quatre decimals, $\\frac{1{,}3805 - 1{,}3}{1{,}3} \\times 100 = 6{,}19\\%$)\n\n**Interpretació**: la productivitat global de l’empresa ha augmentat un 6,15 % (6,19 %) respecte al 2023; l’empresa és més eficient, perquè ara obté més valor de producció per cada euro invertit en factors."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "PG 2024 = 15.600.000 / 11.300.000 = 1,3805 ≈ 1,38. TV = (1,38 − 1,3) / 1,3 × 100 = 6,15 % (o 6,19 % amb quatre decimals; tots dos acceptats). La productivitat ha augmentat."
+          }
+        ],
+        "nota": "Comprovat amb Python: PG = 1,38053; TV = 6,19 % (6,15 % si s’arrodoneix PG a 1,38). Els criteris oficials accepten les dues xifres. Errors típics: oblidar la matèria primera en el denominador, dividir unitats físiques en lloc de valors monetaris o no interpretar el signe de la taxa."
+      }
+    },
+    {
+      "id": "empresa-2025-J-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "AnemEsquí, SL: balanç de situació, fons de maniobra i ràtio de liquiditat",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "balanç de situació",
+        "masses patrimonials",
+        "inversions immobiliàries",
+        "fons de maniobra",
+        "ràtio de liquiditat",
+        "equilibri financer"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8,
+        10
+      ],
+      "text": "Disposem de les dades d’informació comptable de l’empresa AnemEsquí, SL, que es dedica al sector dels esports d’hivern. Com a professional del sector de l’administració i direcció d’empreses us demanen si podeu aportar un seguit de resultats i una interpretació de les dades que els pugui ser d’utilitat. La informació comptable que presenta l’empresa AnemEsquí, SL a 31 de desembre de 2024 és la següent:\n\n| *Concepte* | *Import (en euros)* |\n|---|---:|\n| Capital social | 23.000 |\n| Caixa | 12.700 |\n| Inversions financeres a llarg termini | 22.000 |\n| Inversions en construccions | 5.500 |\n| Maquinària | 7.500 |\n| Construccions | 17.600 |\n| Resultat de l’exercici | 7.000 |\n| Aplicacions informàtiques | 6.000 |\n| Mobiliari | 8.200 |\n| Matèries primeres | 2.200 |\n| Existències comercials | 4.100 |\n| Equip per a processar informació | 1.200 |\n| Elements de transport | 2.500 |\n| Bancs i institucions de crèdit | 10.000 |\n| Clients | 750 |\n| Creditors per prestació de serveis | 2.500 |\n| Proveïdors de l’immobilitzat a curt termini | 12.500 |\n| Proveïdors de l’immobilitzat a llarg termini | 35.000 |\n| Hisenda pública creditora per conceptes fiscals | 800 |\n| Organismes de la Seguretat Social creditors | 600 |\n| Organismes de la Seguretat Social deutors | 1.000 |\n| Proveïdors | 8.250 |\n| Deutes a curt termini amb entitats de crèdit | 4.000 |\n| Deutes a llarg termini amb entitats de crèdit | 6.850 |\n| Utillatge | 5.000 |\n| Reserves | 6.250 |\n| Instal·lacions | 500 |\n\n*Nota*: Tots els comptes de l’immobilitzat es presenten amb el valor net comptable (cost d’adquisició o cost de producció menys amortització acumulada).",
+      "enunciat": "Responeu els apartats 3.1 i 3.2.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "3.1",
+          "punts": 1.5,
+          "enunciat": "A partir d’aquestes dades, elaboreu el balanç de situació de l’empresa AnemEsquí, SL a 31 de desembre de 2024. Per fer-ho, tingueu en compte el següent:\n\n- Recordeu que sempre s’ha de complir la igualtat «total actiu = patrimoni net + passiu».\n- Si, en algun cas, dins d’una massa patrimonial hi ha diferents elements patrimonials, cal que detalleu aquests elements; és a dir, no us limiteu a agrupar i a escriure directament el valor total de la massa patrimonial: heu d’especificar els elements patrimonials que la integren i detallar l’import tant dels elements com de les masses patrimonials.\n- Només heu d’incloure en el balanç de situació aquelles masses o elements patrimonials que formen part de l’enunciat de l’exercici."
+        },
+        {
+          "id": "3.2",
+          "punts": 1,
+          "enunciat": "Completeu la taula següent a partir de les dades obtingudes en l’apartat 3.1. Per fer-ho, calculeu el fons de maniobra i la ràtio de liquiditat (indicant, en cada cas, la fórmula de càlcul i el càlcul del resultat) i interpreteu els resultats obtinguts a partir dels valors de referència.\n\n| | Fórmula i càlcul dels resultats | Interpretació dels resultats obtinguts |\n|---|---|---|\n| Fons de maniobra | | |\n| Ràtio de liquiditat | | |"
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de balanç amb 27 comptes: la clau és **classificar-los bé** i **detallar** cada element dins de la seva massa amb subtotals (si només poses els totals, perds punts). Fes primer una llista ràpida amb una etiqueta (ANC, AC, PN, PNC, PC) al costat de cada compte, suma i comprova que actiu = PN + passiu abans de passar-ho a net. Dedica-hi uns 20 minuts al balanç i 8-10 a les ràtios. A l’apartat 3.2 cal fórmula, càlcul **i** interpretació comparant amb els valors de referència."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Actiu no corrent** (76.000):\n   - Immobilitzat intangible: aplicacions informàtiques 6.000.\n   - Immobilitzat material: construccions 17.600 + instal·lacions 500 + maquinària 7.500 + utillatge 5.000 + mobiliari 8.200 + elements de transport 2.500 + equip per a processar informació 1.200 = 42.500.\n   - Inversions immobiliàries: inversions en construccions 5.500 (immobles que no s’usen en l’activitat, sinó per obtenir rendes o plusvàlues).\n   - Inversions financeres a llarg termini: 22.000.\n2. **Actiu corrent** (30.750): existències (matèries primeres 2.200 + existències comercials 4.100 = 6.300); deutors (clients 750 + Seguretat Social deutora 1.000 = 1.750); efectiu (caixa 12.700 + bancs 10.000 = 22.700).\n3. **Patrimoni net** (36.250): capital social 23.000 + reserves 6.250 + resultat de l’exercici 7.000.\n4. **Passiu no corrent** (41.850): proveïdors de l’immobilitzat a llarg termini 35.000 + deutes a llarg termini amb entitats de crèdit 6.850.\n5. **Passiu corrent** (28.650): proveïdors 8.250 + creditors per prestació de serveis 2.500 + proveïdors de l’immobilitzat a curt termini 12.500 + deutes a curt termini amb entitats de crèdit 4.000 + Hisenda pública creditora 800 + Seguretat Social creditora 600.\n\nComprovació: $76000 + 30750 = 106750$ i $36250 + 41850 + 28650 = 106750$.\n\nParanys: «Organismes de la Seguretat Social **deutors**» és un dret (actiu corrent) i els **creditors** són un deute (passiu corrent); «Inversions en construccions» no és immobilitzat material sinó **inversions immobiliàries**; els «proveïdors de l’immobilitzat» són deutes no comercials i el termini decideix si són corrents o no corrents."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Resposta model",
+            "cos": "**Balanç de situació d’AnemEsquí, SL a 31-12-2024 (euros)**\n\n| ACTIU | | PATRIMONI NET I PASSIU | |\n|---|---:|---|---:|\n| **ACTIU NO CORRENT** | **76.000** | **PATRIMONI NET** | **36.250** |\n| *Immobilitzat intangible* | 6.000 | Capital social | 23.000 |\n| Aplicacions informàtiques | 6.000 | Reserves | 6.250 |\n| *Immobilitzat material* | 42.500 | Resultat de l’exercici | 7.000 |\n| Construccions | 17.600 | **PASSIU NO CORRENT** | **41.850** |\n| Instal·lacions | 500 | Proveïdors de l’immobilitzat a llarg termini | 35.000 |\n| Maquinària | 7.500 | Deutes a llarg termini amb entitats de crèdit | 6.850 |\n| Utillatge | 5.000 | **PASSIU CORRENT** | **28.650** |\n| Mobiliari | 8.200 | Proveïdors | 8.250 |\n| Elements de transport | 2.500 | Creditors per prestació de serveis | 2.500 |\n| Equip per a processar informació | 1.200 | Proveïdors de l’immobilitzat a curt termini | 12.500 |\n| *Inversions immobiliàries* | 5.500 | Deutes a curt termini amb entitats de crèdit | 4.000 |\n| Inversions en construccions | 5.500 | Hisenda pública creditora per conceptes fiscals | 800 |\n| *Inversions financeres a llarg termini* | 22.000 | Organismes de la Seguretat Social creditors | 600 |\n| Inversions financeres a llarg termini | 22.000 | | |\n| **ACTIU CORRENT** | **30.750** | | |\n| *Existències* | 6.300 | | |\n| Matèries primeres | 2.200 | | |\n| Existències comercials | 4.100 | | |\n| *Deutors comercials i altres comptes a cobrar* | 1.750 | | |\n| Clients | 750 | | |\n| Organismes de la Seguretat Social deutors | 1.000 | | |\n| *Efectiu i altres actius líquids* | 22.700 | | |\n| Caixa | 12.700 | | |\n| Bancs i institucions de crèdit | 10.000 | | |\n| **TOTAL ACTIU** | **106.750** | **TOTAL PATRIMONI NET I PASSIU** | **106.750** |\n\nEs compleix la igualtat: total actiu (106.750) = patrimoni net (36.250) + passiu (41.850 + 28.650 = 70.500)."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Fons de maniobra**: $FM = AC - PC$ (o $FM = (PN + PNC) - ANC$). Si és positiu, una part de l’actiu corrent es finança amb recursos permanents.\n- **Ràtio de liquiditat**: $\\frac{AC}{PC}$. Valor de referència: entre 1,5 i 2. Per sota d’1,5 (i sobretot prop d’1) hi ha risc de tensions per pagar els deutes a curt termini; per sobre de 2, recursos ociosos.\n\nComprova el fons de maniobra per les dues vies: $30750 - 28650 = 2100$ i $(36250 + 41850) - 76000 = 2100$."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Resposta model",
+            "cos": "| | Fórmula i càlcul dels resultats | Interpretació dels resultats obtinguts |\n|---|---|---|\n| Fons de maniobra | $FM = AC - PC = 30750 - 28650 = 2100$ € (o $(PN + PNC) - ANC = 78100 - 76000 = 2100$ €) | És la part de l’actiu corrent finançada amb recursos permanents (patrimoni net i passiu no corrent). FM > 0: l’actiu corrent supera el passiu corrent, de manera que en principi l’empresa pot atendre els deutes a curt termini i està en equilibri financer. Tot i així, és un marge molt petit (2.100 € sobre un actiu corrent de 30.750 €). |\n| Ràtio de liquiditat | $\\frac{AC}{PC} = \\frac{30750}{28650} = 1{,}07$ | Per cada euro de deute a curt termini l’empresa té 1,07 € d’actiu corrent. És superior a 1, però queda per sota de l’interval de referència (1,5-2): la liquiditat és justa i l’empresa podria tenir dificultats per pagar puntualment els deutes a curt termini (risc de suspensió de pagaments) si algun client no paga o les existències no es venen. Li convindria augmentar l’actiu corrent o convertir deute a curt en deute a llarg termini. |"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "3.1",
+            "valor": "ANC 76.000 (intangible 6.000; material 42.500; inversions immobiliàries 5.500; inversions financeres a llarg termini 22.000); AC 30.750 (existències 6.300; deutors 1.750; efectiu 22.700); PN 36.250; PNC 41.850; PC 28.650. Total 106.750 = 106.750."
+          },
+          {
+            "apartat": "3.2",
+            "valor": "FM = 30.750 − 28.650 = 2.100 € > 0 (l’actiu corrent cobreix el passiu corrent). Liquiditat = 30.750 / 28.650 = 1,07: superior a 1 però per sota de 1,5-2, a prop del risc de suspensió de pagaments."
+          }
+        ],
+        "nota": "Comprovat amb Python: tots els subtotals i el total (106.750 €) coincideixen amb els criteris oficials; la ràtio de liquiditat és 1,0733 (l’oficial escriu 1,0732, truncant). Errors típics: posar «Inversions en construccions» dins de les construccions de l’immobilitzat material, classificar la Seguretat Social deutora al passiu, o donar la ràtio sense comparar-la amb el valor de referència."
+      }
+    },
+    {
+      "id": "empresa-2025-J-e4-q1",
+      "exercici": 4,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Sostre de vidre",
+      "tema": "recursos-humans",
+      "temes_secundaris": [],
+      "conceptes": [
+        "sostre de vidre",
+        "igualtat de gènere",
+        "conveni col·lectiu",
+        "knowmad"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "A quin concepte fa referència la frase següent: «Són barreres invisibles que dificulten a les dones accedir a càrrecs directius o emprendre negocis, tot i estar en igualtat de condicions quant a formació i experiència laboral amb els homes.»?",
+      "figures": [],
+      "opcions": {
+        "a": "Conveni col·lectiu.",
+        "b": "Contracte de treball.",
+        "c": "Knowmad (o nòmades del coneixement).",
+        "d": "Sostre de vidre."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten). Amb la penalització d’un 30 %, val la pena respondre si pots descartar almenys una opció amb seguretat."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. El **sostre de vidre** és la metàfora de les barreres invisibles (estereotips, cultura empresarial, dificultats de conciliació) que frenen l’accés de les dones als llocs directius tot i tenir la mateixa preparació. El conveni col·lectiu és un acord entre empresa i representants dels treballadors sobre condicions laborals; el contracte de treball és l’acord individual; i un *knowmad* és un professional del coneixement que pot treballar en qualsevol lloc i moment."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2025-J-e4-q2",
+      "exercici": 4,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Destinataris de l’elevator pitch",
+      "tema": "emprenedoria",
+      "temes_secundaris": [],
+      "conceptes": [
+        "elevator pitch",
+        "inversors",
+        "presentació del projecte"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "A quin tipus d’audiència va dirigit principalment un elevator pitch (o discurs de l’ascensor)?",
+      "figures": [],
+      "opcions": {
+        "a": "Als possibles inversors i col·laboradors.",
+        "b": "Als clients i consumidors.",
+        "c": "Als empleats de l’organització.",
+        "d": "Als competidors de l’empresa."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten). Amb la penalització d’un 30 %, val la pena respondre si pots descartar almenys una opció amb seguretat."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. L’*elevator pitch* és una presentació molt breu (el temps d’un trajecte d’ascensor, 1-2 minuts) per despertar l’interès d’un **possible inversor, soci o col·laborador** i aconseguir una segona reunió. No és publicitat per als clients ni una comunicació interna, i no té cap sentit adreçar-lo als competidors."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2025-J-e4-q3",
+      "exercici": 4,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Model Canvas: com es desenvolupa la proposta de valor",
+      "tema": "models-negoci",
+      "temes_secundaris": [],
+      "conceptes": [
+        "model canvas",
+        "recursos clau",
+        "activitats clau",
+        "aliances clau",
+        "proposta de valor"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Els apartats del model canvas que donen resposta a la pregunta «Com es desenvolupa la proposta de valor?» són:",
+      "figures": [],
+      "opcions": {
+        "a": "recursos clau, activitats clau i aliances clau.",
+        "b": "recursos clau, activitats clau, segments de clients i fonts d’ingressos.",
+        "c": "estructura de costos i fonts d’ingressos.",
+        "d": "aliances clau, segments de clients i canals."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten). Amb la penalització d’un 30 %, val la pena respondre si pots descartar almenys una opció amb seguretat."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. El Canvas s’organitza en quatre preguntes: **què** (proposta de valor), **a qui** (segments de clients, canals i relacions), **com** (recursos clau, activitats clau i aliances clau: la part esquerra del llenç, la infraestructura per crear la proposta de valor) i **quant** (estructura de costos i fonts d’ingressos). Les opcions b) i d) barregen blocs del «com» amb blocs del «a qui», i la c) correspon a la viabilitat econòmica."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2025-J-e4-q4",
+      "exercici": 4,
+      "questio": 4,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Codi de conducta i responsabilitat social corporativa",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "responsabilitat social corporativa",
+        "codi de conducta",
+        "codi ètic",
+        "mapa d’empatia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Quin dels documents següents ajuda a avaluar algun aspecte de la responsabilitat social corporativa de les empreses?",
+      "figures": [],
+      "opcions": {
+        "a": "El mapa d’empatia dels clients.",
+        "b": "El balanç de situació.",
+        "c": "El codi de conducta intern.",
+        "d": "El conveni col·lectiu."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten). Amb la penalització d’un 30 %, val la pena respondre si pots descartar almenys una opció amb seguretat."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. El **codi de conducta** (o codi ètic) recull els valors i compromisos de comportament de l’empresa amb treballadors, clients, societat i medi ambient, i és una de les eines de la RSC. El mapa d’empatia serveix per conèixer el client; el balanç de situació mostra el patrimoni (no confondre’l amb el **balanç social**, que sí que és un document de RSC); el conveni col·lectiu regula condicions laborals."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2025-J-e4-q5",
+      "exercici": 4,
+      "questio": 5,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Model PESTEL: entorn genèric",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pestel",
+        "entorn genèric",
+        "entorn específic",
+        "anàlisi de l’entorn"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "El model PESTEL ens permet fer una anàlisi de",
+      "figures": [],
+      "opcions": {
+        "a": "l’entorn específic.",
+        "b": "l’entorn genèric.",
+        "c": "l’estructura organitzativa.",
+        "d": "la competència."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten). Amb la penalització d’un 30 %, val la pena respondre si pots descartar almenys una opció amb seguretat."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. L’anàlisi PESTEL estudia els factors **P**olítics, **E**conòmics, **S**ocioculturals, **T**ecnològics, **E**cològics i **L**egals, que afecten totes les empreses d’un territori: és l’**entorn genèric** (o general). L’entorn específic (clients, proveïdors, competidors...) s’analitza amb les cinc forces de Porter; l’estructura organitzativa és interna."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": ""
+      }
+    }
+  ]
+}

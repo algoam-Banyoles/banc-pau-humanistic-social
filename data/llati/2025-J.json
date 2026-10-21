@@ -1,0 +1,807 @@
+{
+  "examen": {
+    "id": "llati-2025-J",
+    "assignatura": "llati",
+    "materia": "Llengua i cultura llatines",
+    "any": 2025,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/llati/2025-J-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2025-J-solucio.pdf",
+    "estructura": "Quatre exercicis obligatoris (10 punts), amb diccionari i apèndix gramatical: 1. Traducció d'un fragment de Cèsar, *Guerra de les Gàl·lies* (4 punts); 2. Morfosintaxi (1 punt, tres qüestions) i etimologia (1 punt) sobre el mateix text; 3. Cultura llatina i el seu llegat (2 punts): cal triar l'opció A (completar quatre frases amb llatinismes d'una llista; 0,5 per encert, els errors no resten) o la B (quatre preguntes d'opció múltiple de literatura llatina; 0,5 per encert, −0,16 per error, les no contestades no resten); 4. Exposició (mínim 15 línies, unes 150 paraules) sobre la ciutat de Tàrraco a partir d'un text de Florus i d'un plànol (2 punts; es pot descomptar fins a 1 punt per errors de redacció, gramaticals, ortogràfics o lèxics)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2025-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 4,
+      "titol": "Traducció de Cèsar: matança de ciutadans romans a Cènabum (Guerra de les Gàl·lies, VII)",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "cèsar",
+        "de bello gallico",
+        "ablatiu absolut",
+        "oració de relatiu",
+        "oració temporal",
+        "present històric",
+        "veu passiva"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Els carnuts reprenen les hostilitats a la Gàl·lia amb una matança a Cènabum**\n\nVbi id tempus uenit, Carnutes Cenabum, signo dato, concurrunt ciuesque Romanos, qui negotii causa ibi constiterant, interficiunt bonaque eorum diripiunt; in iis hominibus C. Fufius Cita, honestus eques Romanus, qui rei frumentariae iussu Caesaris praeerat, interfectus est.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, VII, 3, 1\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *bona, -orum* (n. pl.): béns, possessions.\n- *Carnutes, -um* (m. pl.): els carnuts (poble de la Gàl·lia).\n- *Cenabum, -i* (n.): Cènabum (ciutat de la Gàl·lia; avui, Orleans).\n- *C. Fufius Cita* (m.): Gai Fufi Cita (ciutadà romà).\n- *concurro, concurri, concursum* (3a, intr.): (mil.) llançar-se a l'atac contra.\n- *consisto, constiti, —* (3a, intr.): establir-se, instal·lar-se.\n- *eques, -itis* (m.): cavaller.\n- *frumentarius, -a, -um*: relatiu al blat; *res frumentaria*, provisió de blat.\n- *praesum, praefui, —* (irr., intr.): (amb dat.) ser al capdavant de, encarregar-se de.\n- *ubi* (conj.): quan.",
+      "enunciat": "Feu la versió del text següent (4 punts). Podeu utilitzar el diccionari i l'apèndix gramatical.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És un sol període llarg de Cèsar, dividit per un punt i coma en dues parts: (1) què fan els carnuts a Cènabum i (2) qui hi mor. Val **4 punts**, la meitat de l'examen: dedica-hi uns 35-40 minuts.\n\nMètode: (1) llegeix el títol, que ja resumeix el contingut (els carnuts ataquen Cènabum i fan una matança); (2) localitza els **verbs conjugats** (*uenit, concurrunt, constiterant, interficiunt, diripiunt, praeerat, interfectus est*) i separa les oracions: principals coordinades i subordinades (temporal amb *ubi*, dues relatives amb *qui*); (3) aïlla l'**ablatiu absolut** *signo dato*; (4) fes una traducció literal i, al final, poleix-la en bon català.\n\nParanys: *concurrunt, interficiunt, diripiunt* són **presents històrics** (es poden traduir en present o en passat, però de manera coherent); *-que* (*ciuesque*, *bonaque*) és la conjunció «i»; *rei frumentariae* és datiu regit per *praeerat*; *eorum* es refereix als ciutadans romans. La versió final ha d'estar redactada amb correcció gramatical, lèxica i ortogràfica."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: subordinada temporal i ablatiu absolut",
+            "cos": "*Vbi id tempus uenit, ... signo dato, ...*\n\n- *Vbi*: conjunció temporal «quan», introdueix una **subordinada adverbial temporal**.\n- *id tempus*: nominatiu sg. neutre (*id*, demostratiu en funció d'adjectiu; *tempus, -oris* «moment, temps»): subjecte de *uenit*.\n- *uenit*: 3a sg. del perfet d'indicatiu de *uenio* («arribà»; la forma coincideix amb el present, però el context demana el perfet).\n- *signo dato*: **ablatiu absolut** (substantiu *signum, -i* en ablatiu sg. neutre + participi de perfet *datus, -a, -um* de *do* en ablatiu sg. neutre): «donat el senyal», «un cop donat el senyal» (valor temporal)."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: oracions principals (els carnuts)",
+            "cos": "*Carnutes Cenabum ... concurrunt ciuesque Romanos ... interficiunt bonaque eorum diripiunt;*\n\n- Subjecte comú dels tres verbs: *Carnutes* (nominatiu pl. m.).\n- *concurrunt*: 3a pl. present d'indicatiu de *concurro* (present històric), «es llancen a l'atac»; *Cenabum*: acusatiu de direcció sense preposició (nom de ciutat): «contra Cènabum».\n- *ciuesque Romanos*: acusatiu pl. m. (*ciuis* + adjectiu *Romanus*), CD de *interficiunt* (3a pl. present de *interficio* «matar»); *-que* coordina aquesta oració amb l'anterior.\n- *bonaque eorum*: *bona* (acusatiu pl. n., «els béns»), CD de *diripiunt* (3a pl. present de *diripio* «saquejar»), amb el CN *eorum* (genitiu pl. m. del pronom *is*, referit als ciutadans romans): «i en saquegen els béns»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració de relatiu",
+            "cos": "*qui negotii causa ibi constiterant*\n\n- *qui*: pronom relatiu, nominatiu pl. m.; antecedent *ciues Romanos*; subjecte de *constiterant*.\n- *negotii causa*: *causa* (ablatiu) + genitiu *negotii* = «per raó de negocis, per fer negocis» (CC de finalitat/causa).\n- *ibi*: adverbi de lloc «allà» (a Cènabum).\n- *constiterant*: 3a pl. plusquamperfet d'indicatiu de *consisto* «s'havien establert»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona part (Gai Fufi Cita)",
+            "cos": "*in iis hominibus C. Fufius Cita, honestus eques Romanus, qui rei frumentariae iussu Caesaris praeerat, interfectus est.*\n\n- *in iis hominibus*: *in* + ablatiu pl. (demostratiu *iis* + *hominibus*): «entre aquests homes».\n- Subjecte: *C. Fufius Cita* (nominatiu sg.), amb l'aposició *honestus eques Romanus* (nominatiu sg.): «honorable cavaller romà».\n- Verb principal: *interfectus est*, 3a sg. perfet d'indicatiu **passiu** de *interficio*: «fou mort».\n- Subordinada de relatiu: *qui* (nominatiu sg. m., antecedent *C. Fufius Cita*), subjecte de *praeerat* (3a sg. imperfet d'indicatiu de *praesum*); *rei frumentariae* (datiu sg. f.) és el complement regit per *praeesse*: «era al capdavant de la provisió de blat»; *iussu Caesaris*: ablatiu *iussu* + genitiu *Caesaris*, «per ordre de Cèsar»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Quan aquell moment arribà, els carnuts contra Cènabum, donat el senyal, es llancen a l'atac i els ciutadans romans, que per raó de negocis allà s'havien establert, maten i els béns d'ells saquegen; entre aquests homes Gai Fufi Cita, honorable cavaller romà, el qual de la provisió de blat per ordre de Cèsar era al capdavant, fou mort."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Quan va arribar el moment, un cop donat el senyal, els carnuts es llancen a l'atac contra Cènabum, maten els ciutadans romans que s'hi havien establert per fer negocis i en saquegen els béns; entre aquests homes va morir Gai Fufi Cita, un honorable cavaller romà que, per ordre de Cèsar, era al capdavant de la provisió de blat.\n\nTraducció orientativa oficial: «Quan arribà el moment, donat el senyal, els carnuts es llancen a l'atac contra Cènabum i maten els ciutadans romans que s'hi havien establert per negocis, i en saquegen els béns; entre els homes fou mort Gai Fufi Cita, honorable cavaller romà, el qual era al capdavant de la provisió de blat per ordre de Cèsar.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Quan arribà el moment, donat el senyal, els carnuts es llancen a l'atac contra Cènabum i maten els ciutadans romans que s'hi havien establert per negocis, i en saquegen els béns; entre els homes fou mort Gai Fufi Cita, honorable cavaller romà, el qual era al capdavant de la provisió de blat per ordre de Cèsar.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: *Vbi* temporal; *signo dato* ablatiu absolut; *Cenabum* acusatiu de direcció; presents històrics coordinats amb *-que*; relativa *qui ... constiterant* (antecedent *ciues Romanos*); *negotii causa* «per negocis»; *eorum* = els ciutadans romans; aposició *honestus eques Romanus*; *rei frumentariae* datiu regit per *praeerat*; *iussu Caesaris* «per ordre de Cèsar»; *interfectus est* perfet passiu."
+          }
+        ],
+        "nota": "Errors típics: traduir *signo dato* com si *signo* fos un verb («assenyalo»); no veure que *ciues Romanos* és el CD de *interficiunt* (i no de *concurrunt*, que és intransitiu); fer *eorum* referit als carnuts; traduir *negotii causa* com «la causa del negoci»; confondre *praeerat* (de *praesum*, imperfet) amb una forma de *praeeo*; traduir *interfectus est* com a present («és mort»). Es pot mantenir el present històric o passar-ho tot a passat, però sense barrejar temps sense motiu. Revisa l'ortografia de la versió final."
+      }
+    },
+    {
+      "id": "llati-2025-J-e2-q1",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": null,
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: ablatiu absolut signo dato, subjecte i CD de diripiunt, relativa qui ... praeerat",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi",
+        "subjecte",
+        "complement directe",
+        "oració de relatiu",
+        "antecedent"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "**Els carnuts reprenen les hostilitats a la Gàl·lia amb una matança a Cènabum**\n\nVbi id tempus uenit, Carnutes Cenabum, signo dato, concurrunt ciuesque Romanos, qui negotii causa ibi constiterant, interficiunt bonaque eorum diripiunt; in iis hominibus C. Fufius Cita, honestus eques Romanus, qui rei frumentariae iussu Caesaris praeerat, interfectus est.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, VII, 3, 1\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *bona, -orum* (n. pl.): béns, possessions.\n- *Carnutes, -um* (m. pl.): els carnuts (poble de la Gàl·lia).\n- *Cenabum, -i* (n.): Cènabum (ciutat de la Gàl·lia; avui, Orleans).\n- *C. Fufius Cita* (m.): Gai Fufi Cita (ciutadà romà).\n- *concurro, concurri, concursum* (3a, intr.): (mil.) llançar-se a l'atac contra.\n- *consisto, constiti, —* (3a, intr.): establir-se, instal·lar-se.\n- *eques, -itis* (m.): cavaller.\n- *frumentarius, -a, -um*: relatiu al blat; *res frumentaria*, provisió de blat.\n- *praesum, praefui, —* (irr., intr.): (amb dat.) ser al capdavant de, encarregar-se de.\n- *ubi* (conj.): quan.",
+      "enunciat": "2.1. Morfosintaxi [1 punt]. Responeu a les qüestions següents sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Digueu com s'anomena la construcció formada per *signo dato*; analitzeu morfològicament els elements que la constitueixen i especifiqueu la relació sintàctica existent entre ells.",
+          "punts": null
+        },
+        {
+          "id": "b",
+          "enunciat": "Indiqueu el subjecte i el complement directe del verb *diripiunt*.",
+          "punts": null
+        },
+        {
+          "id": "c",
+          "enunciat": "En la construcció *qui rei frumentariae iussu Caesaris praeerat* (amb **qui** i **praeerat** subratllats), digueu quin tipus d'oració introdueix *qui*, quin és el seu antecedent i quina funció sintàctica fa respecte al verb *praeerat*.",
+          "punts": null
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Tres preguntes curtes (1 punt en total, uns 10 minuts; l'examen no especifica el valor de cada apartat). «Analitzar morfològicament» vol dir donar, per a cada mot, la categoria, el cas, el nombre i el gènere (i, per al participi, el temps i la veu). Respon amb frases completes: forma → anàlisi → funció → respecte a quin verb."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Dos mots en ablatiu, un substantiu i un participi concordats, sense connexió sintàctica amb la resta de l'oració: és un **ablatiu absolut**. El participi fa de predicat (equival a un verb: «quan el senyal fou donat») i el substantiu, de subjecte d'aquest participi."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "*signo dato* és un **ablatiu absolut**. *signo* és el substantiu *signum, -i* (2a declinació), en ablatiu singular neutre; *dato* és el participi de perfet passiu de *do, dare*, també en ablatiu singular neutre. Tots dos concorden en cas, gènere i nombre: el participi *dato* és el predicat verbal de la construcció i el substantiu *signo* n'és el subjecte («donat el senyal»)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*diripiunt* és 3a persona del plural i forma part d'una sèrie de verbs coordinats amb el mateix subjecte: el nominatiu plural *Carnutes*. El CD és l'acusatiu que el precedeix: *bona* (neutre plural, «els béns»), amb el genitiu *eorum* com a complement del nom."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El subjecte de *diripiunt* és el substantiu *Carnutes* (nominatiu plural masculí), compartit amb *concurrunt* i *interficiunt*. El complement directe és el sintagma *bona eorum*: *bona* (acusatiu plural neutre) n'és el nucli i el genitiu plural masculí *eorum* li fa de complement del nom («els seus béns», és a dir, els dels ciutadans romans)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "*qui* és el nominatiu (sg. o pl.) masculí del relatiu *qui, quae, quod*: introdueix una subordinada adjectiva. Busca el nom masculí que hi ha just abans i que concorda amb el verb en singular (*praeerat*): *C. Fufius Cita* (amb l'aposició *honestus eques Romanus*). En nominatiu, fa de subjecte."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "El pronom *qui* introdueix una **oració subordinada de relatiu** (adjectiva). El seu antecedent és *C. Fufius Cita* (amb l'aposició *honestus eques Romanus*). Està en nominatiu singular masculí i fa la funció de **subjecte** del verb *praeerat*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Ablatiu absolut: *signo*, substantiu neutre en ablatiu sg., concorda amb el participi *dato*, ablatiu sg. neutre; *dato* és el predicat i *signo* n'és el subjecte."
+          },
+          {
+            "apartat": "b",
+            "valor": "Subjecte: *Carnutes*. CD: *bona eorum* (opcional: *bona* nucli; *eorum*, genitiu pl. m., CN)."
+          },
+          {
+            "apartat": "c",
+            "valor": "Subordinada de relatiu (adjectiva); antecedent *C. Fufius Cita*; *qui* és el subjecte de *praeerat*."
+          }
+        ],
+        "nota": "Errada a la pauta oficial: a l'apartat b diu que *bona eorum* fa de complement directe «del verb *reliquit*», un verb que no surt al text; és evident que es refereix a *diripiunt*. Errors típics: dir que el subjecte de *diripiunt* és *ciues Romanos* (és el CD de *interficiunt*); confondre l'ablatiu absolut amb un complement circumstancial qualsevol; donar com a antecedent de *qui* el substantiu *Caesaris*, que és genitiu."
+      }
+    },
+    {
+      "id": "llati-2025-J-e2-q2",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": null,
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Etimologia: cultismes de hominibus i uenit; contemporani i signatura",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "cultisme",
+        "derivat",
+        "compost",
+        "etimologia",
+        "homo",
+        "uenio",
+        "tempus",
+        "signum"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Els carnuts reprenen les hostilitats a la Gàl·lia amb una matança a Cènabum**\n\nVbi id tempus uenit, Carnutes Cenabum, signo dato, concurrunt ciuesque Romanos, qui negotii causa ibi constiterant, interficiunt bonaque eorum diripiunt; in iis hominibus C. Fufius Cita, honestus eques Romanus, qui rei frumentariae iussu Caesaris praeerat, interfectus est.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, VII, 3, 1\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *bona, -orum* (n. pl.): béns, possessions.\n- *Carnutes, -um* (m. pl.): els carnuts (poble de la Gàl·lia).\n- *Cenabum, -i* (n.): Cènabum (ciutat de la Gàl·lia; avui, Orleans).\n- *C. Fufius Cita* (m.): Gai Fufi Cita (ciutadà romà).\n- *concurro, concurri, concursum* (3a, intr.): (mil.) llançar-se a l'atac contra.\n- *consisto, constiti, —* (3a, intr.): establir-se, instal·lar-se.\n- *eques, -itis* (m.): cavaller.\n- *frumentarius, -a, -um*: relatiu al blat; *res frumentaria*, provisió de blat.\n- *praesum, praefui, —* (irr., intr.): (amb dat.) ser al capdavant de, encarregar-se de.\n- *ubi* (conj.): quan.",
+      "enunciat": "2.2. Etimologia [1 punt]. Responeu a les qüestions següents sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Esmenteu, per a cadascun dels següents mots llatins del text, dos cultismes, derivats o compostos, amb els quals estiguin relacionats etimològicament: — *hominibus*: — *uenit*:",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Indiqueu amb quin mot llatí del text estan relacionades etimològicament les paraules: — contemporani, -ània: — signatura:",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta ràpida (5-8 minuts). Un **cultisme** és un mot pres directament del llatí escrit, que conserva la forma llatina gairebé intacta (*homicidi*, no *home*, que és patrimonial). Parteix del **tema** del mot: *homo, hominis* → *homin-*; *uenio, ueni, uentum* → *uen-/uent-*. Aquí se'n demanen **dos** per a cada mot."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "- *hominibus* (de *homo, hominis* «ésser humà») → tema *homin-*: *homínid*, *hominització*; compost amb *caedo* «matar»: *homicidi*.\n- *uenit* (de *uenio, ueni, uentum* «venir») → amb prefixos: *convent*, *convenció*, *eventual*, *invenció*, *advent*, *intervenció*, *prevenció*."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "- *hominibus*: homicidi, homínid (també hominització).\n- *uenit*: convent, eventual (també convenció, invenció, advent)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Contemporani* (llatí *contemporaneus*) està format per *con-* «amb» + *tempus, -oris* «temps»: «del mateix temps». Al text: *tempus*. *Signatura* ve de *signo, -are* «marcar, signar», derivat de *signum* «senyal»: al text, *signo* (de *signum*, a l'ablatiu absolut *signo dato*)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "- contemporani, -ània: *tempus*.\n- signatura: *signo* (de *signum, -i*, «senyal»)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "*hominibus* → homicidi, homínid, etc.; *uenit* → convent, eventual, etc."
+          },
+          {
+            "apartat": "b",
+            "valor": "contemporani → *tempus*; signatura → *signo*."
+          }
+        ],
+        "nota": "Errors típics: donar mots patrimonials (*home*, *venir*, *avenir*) quan es demana un cultisme o derivat culte; o mots d'una altra arrel (*humà* ve de *humanus*, no del tema *homin-*). A l'apartat b cal copiar el mot tal com surt al text (*tempus*, *signo*)."
+      }
+    },
+    {
+      "id": "llati-2025-J-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «in albis»: quedar-se sense entendre res",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "in albis",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació i que no en podeu repetir cap.\n\n3.1. El mossèn ens deia coses en llatí i jo em quedava molt sovint __________________.\n\nLlatinismes: *motu proprio*, *sui generis*, *maremàgnum*, *rictus*, *coitus interruptus*, *in albis*, *placebo*, *alter ego*, *súmmum*, *vox populi*, *beatus ille*, *in fraganti*, *quòrum*, *lapsus*, *in extenso*, *referèndum*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit; després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*In albis* (literalment «en blanc») vol dir «sense entendre res, sense saber res». Quedar-se *in albis* és el que li passa a qui escolta el mossèn en llatí sense entendre'l. Cap altre llatinisme de la llista no encaixa amb el verb *quedar-se*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "3.1. El mossèn ens deia coses en llatí i jo em quedava molt sovint **in albis**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*in albis*"
+          }
+        ],
+        "nota": "Els llatinismes de la llista que no surten: *sui generis* (peculiar, singular), *maremàgnum* (confusió, munió desordenada), *rictus* (contracció dels llavis), *coitus interruptus*, *placebo* (substància sense efecte terapèutic), *súmmum* (el màxim), *vox populi* (cosa sabuda per tothom), *beatus ille* (elogi de la vida retirada al camp), *in fraganti* (en el moment de cometre la falta), *lapsus* (error per distracció), *in extenso* (per extens, completament), *referèndum* (votació popular)."
+      }
+    },
+    {
+      "id": "llati-2025-J-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «motu proprio»: per iniciativa pròpia",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "motu proprio",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació i que no en podeu repetir cap.\n\n3.2. La pintura li havia estat tramesa per l'ambaixador de França, el qual __________________ havia aprofitat per a afegir-li un petit marc.\n\nLlatinismes: *motu proprio*, *sui generis*, *maremàgnum*, *rictus*, *coitus interruptus*, *in albis*, *placebo*, *alter ego*, *súmmum*, *vox populi*, *beatus ille*, *in fraganti*, *quòrum*, *lapsus*, *in extenso*, *referèndum*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit; després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Motu proprio* (literalment «per moviment propi») vol dir «per iniciativa pròpia, voluntàriament, sense que ningú ho demani». L'ambaixador afegeix el marc per decisió seva."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "3.2. La pintura li havia estat tramesa per l'ambaixador de França, el qual **motu proprio** havia aprofitat per a afegir-li un petit marc."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*motu proprio*"
+          }
+        ],
+        "nota": "Els llatinismes de la llista que no surten: *sui generis* (peculiar, singular), *maremàgnum* (confusió, munió desordenada), *rictus* (contracció dels llavis), *coitus interruptus*, *placebo* (substància sense efecte terapèutic), *súmmum* (el màxim), *vox populi* (cosa sabuda per tothom), *beatus ille* (elogi de la vida retirada al camp), *in fraganti* (en el moment de cometre la falta), *lapsus* (error per distracció), *in extenso* (per extens, completament), *referèndum* (votació popular)."
+      }
+    },
+    {
+      "id": "llati-2025-J-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «quòrum»: nombre mínim de participants",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "quòrum",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació i que no en podeu repetir cap.\n\n3.3. L'excursió s'havia anul·lat per manca de __________________.\n\nLlatinismes: *motu proprio*, *sui generis*, *maremàgnum*, *rictus*, *coitus interruptus*, *in albis*, *placebo*, *alter ego*, *súmmum*, *vox populi*, *beatus ille*, *in fraganti*, *quòrum*, *lapsus*, *in extenso*, *referèndum*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit; després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Quòrum* (genitiu plural del relatiu *qui*, «dels quals») és el nombre mínim de persones necessari perquè una assemblea o una activitat es pugui fer. Una excursió s'anul·la per manca de quòrum quan no s'hi apunta prou gent."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "3.3. L'excursió s'havia anul·lat per manca de **quòrum**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*quòrum*"
+          }
+        ],
+        "nota": "Els llatinismes de la llista que no surten: *sui generis* (peculiar, singular), *maremàgnum* (confusió, munió desordenada), *rictus* (contracció dels llavis), *coitus interruptus*, *placebo* (substància sense efecte terapèutic), *súmmum* (el màxim), *vox populi* (cosa sabuda per tothom), *beatus ille* (elogi de la vida retirada al camp), *in fraganti* (en el moment de cometre la falta), *lapsus* (error per distracció), *in extenso* (per extens, completament), *referèndum* (votació popular)."
+      }
+    },
+    {
+      "id": "llati-2025-J-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «alter ego»: personatge que representa l'autor",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "alter ego",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació i que no en podeu repetir cap.\n\n3.4. Amb la publicació d'aquest llibre, Eduardo Mendoza va iniciar un cicle de novel·les protagonitzades per un __________________ seu, Rufo Batalla.\n\nLlatinismes: *motu proprio*, *sui generis*, *maremàgnum*, *rictus*, *coitus interruptus*, *in albis*, *placebo*, *alter ego*, *súmmum*, *vox populi*, *beatus ille*, *in fraganti*, *quòrum*, *lapsus*, *in extenso*, *referèndum*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit; després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Alter ego* («un altre jo») és una persona o un personatge en qui algú es veu reflectit; en literatura, el personatge que representa l'autor o que n'és el doble. Rufo Batalla, protagonista de la sèrie de novel·les que Eduardo Mendoza va iniciar amb *El rey recibe* (2018), és presentat com un alter ego de l'autor. L'article *un* i el possessiu *seu* encaixen amb un substantiu masculí."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "3.4. Amb la publicació d'aquest llibre, Eduardo Mendoza va iniciar un cicle de novel·les protagonitzades per un **alter ego** seu, Rufo Batalla."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*alter ego*"
+          }
+        ],
+        "nota": "Els llatinismes de la llista que no surten: *sui generis* (peculiar, singular), *maremàgnum* (confusió, munió desordenada), *rictus* (contracció dels llavis), *coitus interruptus*, *placebo* (substància sense efecte terapèutic), *súmmum* (el màxim), *vox populi* (cosa sabuda per tothom), *beatus ille* (elogi de la vida retirada al camp), *in fraganti* (en el moment de cometre la falta), *lapsus* (error per distracció), *in extenso* (per extens, completament), *referèndum* (votació popular)."
+      }
+    },
+    {
+      "id": "llati-2025-J-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ciceró i Livi: cap dels dos no va néixer a Roma",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ciceró",
+        "livi",
+        "prosa llatina",
+        "biografia d'autors"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta.\n\n3.1. Ciceró i Livi tenien en comú el fet que",
+      "figures": [],
+      "opcions": {
+        "a": "eren poetes.",
+        "b": "no havien sortit mai de Roma.",
+        "c": "eren molt amics de l'emperador August.",
+        "d": "no havien nascut a Roma."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps que són falses (autors, obres o conceptes d'un altre àmbit) i respon només si tens algun indici: amb quatre opcions i −0,16 per error, endevinar a l'atzar gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Ciceró va néixer a **Arpinum** (Arpino, al Laci) el 106 aC i Livi a **Patavium** (Pàdua) cap al 59 aC: cap dels dos no era nascut a Roma. Les altres opcions són falses: tots dos són prosistes (oratòria i filosofia Ciceró; historiografia Livi); Ciceró va estudiar a Grècia i va governar la Cilícia; i Ciceró va morir el 43 aC, assassinat per ordre dels triumvirs, abans que Octavi rebés el títol d'August."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) no havien nascut a Roma."
+          }
+        ],
+        "nota": "Repassa la història de la literatura llatina: autors (Plaute, Terenci, Ciceró, Cèsar, Virgili, Horaci, Ovidi, Livi, Sèneca...), lloc d'origen, obres principals i tòpics literaris (*carpe diem*, *aurea mediocritas*, *beatus ille*, *tempus fugit*, *locus amoenus*...)."
+      }
+    },
+    {
+      "id": "llati-2025-J-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Obres de Plaute: Amphitruo",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "plaute",
+        "amphitruo",
+        "comèdia",
+        "terenci",
+        "sèneca"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta.\n\n3.2. Plaute fou autor d'una obra titulada",
+      "figures": [],
+      "opcions": {
+        "a": "*Agamemnon*.",
+        "b": "*Adelphoe*.",
+        "c": "*Amphitruo*.",
+        "d": "*Alcestis*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps que són falses (autors, obres o conceptes d'un altre àmbit) i respon només si tens algun indici: amb quatre opcions i −0,16 per error, endevinar a l'atzar gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Amphitruo* és una comèdia de **Plaute** sobre Júpiter, que pren la figura d'Amfitrió per seduir-ne l'esposa, Alcmena (d'aquí ve el mot *amfitrió*). Els distractors: *Agamemnon* és una tragèdia de Sèneca; *Adelphoe* («Els germans») és una comèdia de Terenci; *Alcestis* és una tragèdia grega d'Eurípides."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) *Amphitruo*."
+          }
+        ],
+        "nota": "Repassa la història de la literatura llatina: autors (Plaute, Terenci, Ciceró, Cèsar, Virgili, Horaci, Ovidi, Livi, Sèneca...), lloc d'origen, obres principals i tòpics literaris (*carpe diem*, *aurea mediocritas*, *beatus ille*, *tempus fugit*, *locus amoenus*...)."
+      }
+    },
+    {
+      "id": "llati-2025-J-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Horaci: el tòpic de l'aurea mediocritas",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "horaci",
+        "aurea mediocritas",
+        "tòpics literaris",
+        "odes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta.\n\n3.3. El poeta Horaci va formular un elogi de la moderació com a norma de vida en el tòpic:",
+      "figures": [],
+      "opcions": {
+        "a": "*tempus fugit*.",
+        "b": "*carpe diem*.",
+        "c": "*in vino veritas*.",
+        "d": "*aurea mediocritas*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps que són falses (autors, obres o conceptes d'un altre àmbit) i respon només si tens algun indici: amb quatre opcions i −0,16 per error, endevinar a l'atzar gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "L'*aurea mediocritas* («daurada mesura, el just mig») és el tòpic horacià que elogia la moderació, allunyada dels excessos de riquesa i de pobresa (*Odes*, II, 10). *Carpe diem* també és d'Horaci (*Odes*, I, 11), però és una invitació a gaudir del present, no un elogi de la moderació. *Tempus fugit* prové de Virgili (*fugit irreparabile tempus*, *Geòrgiques*), i *in vino veritas* és un proverbi."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) *aurea mediocritas*."
+          }
+        ],
+        "nota": "Repassa la història de la literatura llatina: autors (Plaute, Terenci, Ciceró, Cèsar, Virgili, Horaci, Ovidi, Livi, Sèneca...), lloc d'origen, obres principals i tòpics literaris (*carpe diem*, *aurea mediocritas*, *beatus ille*, *tempus fugit*, *locus amoenus*...)."
+      }
+    },
+    {
+      "id": "llati-2025-J-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Comèdia llatina: la contaminatio",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "contaminatio",
+        "comèdia",
+        "plaute",
+        "terenci",
+        "fabula palliata"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta.\n\n3.4. La tècnica compositiva de fusionar dos o més models grecs en l'argument d'una comèdia llatina s'anomena",
+      "figures": [],
+      "opcions": {
+        "a": "*inuentio*.",
+        "b": "*contaminatio*.",
+        "c": "*actio*.",
+        "d": "*fabula palliata*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps que són falses (autors, obres o conceptes d'un altre àmbit) i respon només si tens algun indici: amb quatre opcions i −0,16 per error, endevinar a l'atzar gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "La ***contaminatio*** és la fusió d'escenes o arguments de dues o més comèdies gregues (de la Comèdia Nova: Menandre, Filèmon...) en una sola obra llatina; la practicaven Plaute i Terenci, que va haver de defensar-se'n en els seus pròlegs. *Inuentio* i *actio* són parts de la retòrica (trobar els arguments i pronunciar el discurs); la *fabula palliata* és el subgènere de comèdia d'ambientació grega, no una tècnica compositiva."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) *contaminatio*."
+          }
+        ],
+        "nota": "Repassa la història de la literatura llatina: autors (Plaute, Terenci, Ciceró, Cèsar, Virgili, Horaci, Ovidi, Livi, Sèneca...), lloc d'origen, obres principals i tòpics literaris (*carpe diem*, *aurea mediocritas*, *beatus ille*, *tempus fugit*, *locus amoenus*...)."
+      }
+    },
+    {
+      "id": "llati-2025-J-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Tàrraco: fundació, estatus, rellevància, urbanisme i conjunt arqueològic (text de Florus i plànol)",
+      "tema": "cultura",
+      "temes_secundaris": [
+        "literatura"
+      ],
+      "conceptes": [
+        "tàrraco",
+        "hispània romana",
+        "florus",
+        "escipions",
+        "colònia romana",
+        "urbanisme romà",
+        "hispania citerior tarraconensis",
+        "conjunt arqueològic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "Si els fats em neguen Roma com a pàtria, que pugui, almenys, romandre ací. ¿Què et diré, sinó que l'habitud és una força poderosa? Mira! Amb el tracte continu, la ciutat ja se m'ha fet agradable, perquè, si em creus, a mi que he vist tantes coses, és la més plaent de totes les que hom tria per al descans. Hi veus, oh foraster i amic, una gent honrada, sòbria, tranquil·la, que, si bé no s'apressa a ésser hospitalària, ho és amb reflexió. Un clima peculiarment temperat suavitza el canvi de les estacions, i tot l'any és com una primavera. La terra, fèrtil als plans i sobretot als pujols —car mira d'assemblar-se a les vinyes d'Itàlia i li compara els seus bancals—, no s'avergonyeix d'una llarga tardor. I per si encara això no és prou, la mateixa ciutat fou fundada sota els més nobles auspicis, car a més dels estendards de Cèsar, que ostenta, triomfs als quals deu el seu nom, la seva noblesa té també un origen estranger.\n\nFlorus, *Virgili, orador o poeta?*, II, 6-8 (Traducció de Joaquim Icart)",
+      "enunciat": "Llegiu el text precedent, en què el rètor Florus (*ca.* 70-140 dC) es refereix de manera elogiosa a la ciutat de la Hispània romana de la imatge adjunta, on, durant uns anys, va exercir de mestre. A partir del testimoni de Florus i del plànol, identifiqueu la ciutat i elaboreu un text expositiu, de quinze línies com a mínim (unes cent cinquanta paraules), que contingui les informacions següents:\n\n- El context i la cronologia de la seva fundació.\n- El nom de la població ibera que habitava la zona abans de l'arribada dels romans.\n- L'estatus que va obtenir la ciutat i el seu nom oficial complet.\n- La rellevància històrica de la ciutat a la Hispània romana.\n- La seva estructura urbanística, amb els espais i edificis més importants dins i fora de les muralles (heu d'identificar els elements etiquetats al plànol).\n- El conjunt arqueològic.\n\n(2 punts: es podrà descomptar fins a 1 punt per errors de redacció, gramaticals, ortogràfics o lèxics.)",
+      "figures": [
+        {
+          "src": "img/llati/2025-J/e4.png",
+          "peu": "Recreació de la ciutat romana amb els elements numerats de l'1 al 8 (l'1, la muralla, surt en dos punts) que cal identificar."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val 2 punts (uns 20-25 minuts) i **es pot descomptar fins a 1 punt per errors de redacció**: la forma compta molt. És un **text expositiu** continu, no una llista: mínim 15 línies (~150 paraules), però per cobrir els sis punts i els vuit elements del plànol calen unes 250-300 paraules. Segueix l'ordre de la consigna (un paràgraf per bloc) i, quan identifiquis els elements del plànol, posa'n el número entre parèntesis perquè el corrector ho vegi d'un cop d'ull."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificar la ciutat**: Florus parla d'una ciutat de clima suau, amb vinyes en terrasses, fundada «sota els estendards de Cèsar» i que «deu el seu nom als triomfs» (*Triumphalis*); el plànol mostra una ciutat costanera amb un gran recinte en terrasses, un circ i un amfiteatre vora el mar → **Tàrraco**.\n2. **Fundació**: 218 aC, segona guerra púnica, *praesidium* dels germans Escipió després del desembarcament a Empúries.\n3. **Població ibera**: els cessetans (Cesse/Kese).\n4. **Estatus i nom**: colònia (Cèsar, confirmat per August): *Colonia Iulia Vrbs Triumphalis Tarraco*.\n5. **Rellevància**: capital de la *Hispania Citerior* i després de la *Tarraconensis*; residència d'August.\n6. **Urbanisme** (plànol): 1 muralla, 2 temple del culte imperial, 3 fòrum provincial, 4 circ, 5 fòrum local, 6 teatre, 7 port, 8 amfiteatre; tres terrasses; teatre i amfiteatre extramurs.\n7. **Conjunt arqueològic**: restes conservades a la ciutat i als voltants (Torre dels Escipions, arc de Berà, el Mèdol, aqüeducte de les Ferreres, vil·la dels Munts, Centcelles, necròpolis paleocristiana)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El text de Florus i el plànol corresponen a **Tàrraco**, l'actual Tarragona.\n\nLa ciutat va néixer l'any 218 aC, durant la segona guerra púnica. Després del desembarcament romà a Empúries, els germans Gneu i Publi Corneli Escipió hi van establir un campament militar (*praesidium*) per tallar els subministraments als cartaginesos. Abans, la zona era habitada pels **cessetans**, una tribu ibera, i el seu nucli s'anomenava probablement **Cesse** (o Kese).\n\nAl segle I aC, Juli Cèsar li va concedir l'estatus de **colònia**, confirmat per August, que li va donar el nom oficial de ***Colonia Iulia Vrbs Triumphalis Tarraco***: els «triomfs» de Cèsar dels quals parla Florus. Des d'època republicana va ser la capital de la *Hispania Citerior*, que August va convertir en la província *Hispania Citerior Tarraconensis*, la més gran d'Hispània; el mateix August hi va residir.\n\nLa ciutat, envoltada per una **muralla** (1), s'organitzava en terrasses: a la superior, el **temple de culte imperial** (2) i el **fòrum provincial** (3), seu del govern de la província; al mig, el **circ** (4), que ocupava tota l'amplada de la muralla; i a la inferior, a prop del **port** (7), la ciutat residencial amb el **fòrum local** (5) i les *insulae*. Extramurs hi havia el **teatre** (6) i l'**amfiteatre** (8), a tocar del mar.\n\nAvui el conjunt arqueològic de Tàrraco, Patrimoni Mundial de la UNESCO des del 2000, conserva gran part de la muralla, restes del fòrum provincial, del circ, del fòrum local i del teatre, l'amfiteatre gairebé sencer i, als voltants, la Torre dels Escipions, l'arc de Berà, la pedrera del Mèdol, l'aqüeducte de les Ferreres, la vil·la dels Munts, Centcelles i la necròpolis paleocristiana."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Identificació: Tàrraco."
+          },
+          {
+            "apartat": null,
+            "valor": "Fundació: 218 aC, segona guerra púnica; *praesidium* dels germans Escipió després del desembarcament a Empúries per tallar els subministraments als cartaginesos."
+          },
+          {
+            "apartat": null,
+            "valor": "Població ibera: territori dels cessetans, probablement amb el nom de Cesse."
+          },
+          {
+            "apartat": null,
+            "valor": "Estatus: colònia (Juli Cèsar, corroborat per August); nom oficial *Colonia Iulia Vrbs Triumphalis Tarraco*."
+          },
+          {
+            "apartat": null,
+            "valor": "Rellevància: capital de la *Hispania Citerior* des d'època republicana, i després de la *Hispania Citerior Tarraconensis*."
+          },
+          {
+            "apartat": null,
+            "valor": "Urbanisme: muralla (1); tres terrasses: temple de culte imperial (2) i fòrum provincial (3); circ (4); fòrum local (5) i *insulae* fins al port (7); extramurs, teatre (6) i amfiteatre (8)."
+          },
+          {
+            "apartat": null,
+            "valor": "Conjunt arqueològic: muralla, pòrtic del fòrum provincial, circ, fòrum local, teatre, amfiteatre; als voltants, Torre dels Escipions, arc de Berà, el Mèdol, aqüeducte de les Ferreres, vil·la dels Munts, Centcelles, necròpolis paleocristiana."
+          }
+        ],
+        "nota": "La resposta model té unes 264 paraules (per sobre del mínim orientatiu de 150). Errors típics: confondre els fòrums (el provincial és a la part alta, el local a la part baixa, vora el port); situar el teatre o l'amfiteatre dins de la muralla; atribuir la fundació a August (va ser el 218 aC, amb els Escipions); oblidar l'adjectiu *Triumphalis* del nom oficial. Atenció a la redacció i l'ortografia: s'hi pot perdre fins a 1 punt."
+      }
+    }
+  ]
+}

@@ -1,0 +1,849 @@
+{
+  "examen": {
+    "id": "empresa-2023-S",
+    "assignatura": "empresa",
+    "materia": "Economia de l’empresa",
+    "any": 2023,
+    "convocatoria": "setembre",
+    "serie": "2",
+    "pdf_examen": "pdfs/empresa/2023-S-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2023-S-solucio.pdf",
+    "estructura": "Sèrie 2, convocatòria extraordinària (setembre) de 2023. Cal respondre QUATRE dels sis exercicis; cada exercici val 2,5 punts i, si se’n responen més, només es valoren els quatre primers. Exercici 1: balanç de situació, ràtios i fons de maniobra (Sol i Vent, SL). Exercici 2: VAN, termini de recuperació, TIR i fonts de finançament a curt termini (Slomo, SL). Exercici 3: rendibilitat econòmica, comptes anuals i PGC, i definicions correctes/incorrectes (M&C, SL). Exercici 4: cinc forces de Porter, barreres d’entrada i sortida i nivells d’estratègia (INFOSERV, SL). Exercici 5: llindar de rendibilitat, DAFO, forma jurídica i estratègies de preu (Mobildur). Exercici 6: cinc preguntes de test (0,5 punts per encert, −0,15 per error, les no contestades no resten). Els errors de càlcul només es descompten una vegada."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2023-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Sol i Vent, SL: balanç de situació, ràtios de disponibilitat, tresoreria i estructura del deute, i fons de maniobra",
+      "tema": "comptabilitat",
+      "temes_secundaris": [
+        "financament"
+      ],
+      "conceptes": [
+        "balanç de situació",
+        "masses patrimonials",
+        "ràtio de disponibilitat",
+        "ràtio de tresoreria",
+        "estructura del deute",
+        "fons de maniobra",
+        "estabilitat financera"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "text": "L’empresa Sol i Vent, SL està situada a l’Empordà i duu a terme una activitat basada en la comercialització i venda de petits electrodomèstics com aspiradores, planxes de vapor, màquines de cosir, aparells de massatge, etc. Aquesta pime ofereix els seus productes a botigues petites de barri i, també, en línia mitjançant la seva pàgina web. La informació comptable de l’empresa a 31 de desembre de 2022 és la següent (imports expressats en euros):\n\n| Concepte | Import (€) |\n|---|---:|\n| Concessions administratives, propietat industrial i drets de traspàs | 900.000 |\n| Instal·lacions tècniques | 2.000.000 |\n| Inversions financeres a llarg termini | 150.000 |\n| Resultat de l’exercici | 530.700 |\n| Existències comercials | 270.000 |\n| Clients | 100.000 |\n| Equips per a processos d’informació | 3.000.000 |\n| Deutors | 50.300 |\n| Organismes de la Seguretat Social deutors | 100.000 |\n| Capital / Capital social | 4.000.000 |\n| Hisenda pública creditora per conceptes fiscals | 1.000.000 |\n| Aplicacions informàtiques | 70.850 |\n| Existències de productes acabats | 300.000 |\n| Elements de transport | 2.000.000 |\n| Bancs i institucions de crèdit | 1.865.450 |\n| Reserves | 2.000.000 |\n| Deutes a llarg termini amb entitats de crèdit | 45.500 |\n| Proveïdors | 2.000.000 |\n| Deutes a curt termini amb entitats de crèdit | 230.400 |\n| Creditors per prestació de serveis | 1.000.000 |\n\n*Nota*: Tots els comptes de l’immobilitzat es presenten amb el valor net comptable (cost d’adquisició o cost de producció menys amortització).",
+      "enunciat": "Exercici 1 (un dels sis exercicis, dels quals cal triar-ne quatre). Llegiu les dades de Sol i Vent, SL i responeu les qüestions següents.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1.1",
+          "punts": 0.6,
+          "enunciat": "Elaboreu el balanç de situació d’aquesta empresa, a 31 de desembre de 2022, a partir de les dades de l’enunciat. Només hi heu d’incloure aquelles masses o elements patrimonials que figuren en la taula. Si, en algun cas, dins d’una massa patrimonial hi ha diferents elements patrimonials, cal que detalleu aquests elements; és a dir, no us limiteu a agrupar i a escriure directament el valor total de la massa patrimonial: heu d’especificar quines partides la integren."
+        },
+        {
+          "id": "1.2",
+          "punts": 0.6,
+          "enunciat": "Completeu la taula següent a partir de les dades obtingudes en l’apartat 1.1. Per fer-ho, calculeu el valor de cada ràtio (detallant-ne els càlculs). A continuació, per a cada ràtio, digueu quin hauria de ser el valor orientatiu o òptim, compareu-lo amb el valor obtingut i interpreteu la situació financera d’aquesta empresa.\n\n| Nom | Càlcul de la ràtio (amb els càlculs detallats) | Valor orientatiu o òptim, comparació de la ràtio amb el valor obtingut i interpretació del resultat |\n|---|---|---|\n| Disponibilitat | | |\n| Tresoreria | | |\n| Estructura del deute | | |"
+        },
+        {
+          "id": "1.3",
+          "punts": 0.7,
+          "enunciat": "Expliqueu, des d’un punt de vista teòric, el paper que té el fons de maniobra com a indicador de la situació financera de l’empresa. A continuació, calculeu el fons de maniobra de l’empresa Sol i Vent, SL i expliqueu si aquesta empresa té problemes d’estabilitat financera."
+        },
+        {
+          "id": "1.4",
+          "punts": 0.6,
+          "enunciat": "Expliqueu breument tres possibles accions per a millorar la situació financera d’aquesta empresa."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici clàssic d’anàlisi patrimonial: **primer el balanç ben fet**, perquè tots els apartats següents en depenen (si t’equivoques en una massa, arrossegues l’error, tot i que els criteris només el descompten una vegada).\n\nOrdre de treball: classifica cada partida (ANC, AC i, dins de l’AC, existències / realitzable / disponible; PN, PNC, PC), suma i **comprova que Actiu = PN + Passiu** abans de seguir. L’enunciat exigeix **detallar les partides** de cada massa: si només poses el total, perds punts.\n\nA les ràtios, la consigna demana tres coses per a cadascuna: fórmula amb càlculs, valor orientatiu i interpretació. Temps orientatiu: 25-30 minuts."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Immobilitzat intangible**: concessions administratives, propietat industrial i drets de traspàs + aplicacions informàtiques.\n- **Immobilitzat material**: instal·lacions tècniques, elements de transport, equips per a processos d’informació.\n- **Inversions financeres a llarg termini** també és actiu no corrent.\n- **Existències**: comercials i productes acabats. **Realitzable**: clients, deutors i organismes de la Seguretat Social deutors. **Disponible**: bancs.\n- **Patrimoni net**: capital, reserves i resultat de l’exercici (positiu, suma).\n- **Passiu no corrent**: deutes a llarg termini amb entitats de crèdit. **Passiu corrent**: proveïdors, creditors per prestació de serveis, deutes a curt termini amb entitats de crèdit i Hisenda pública creditora.\n\nCompte amb les partides «paranys»: *Organismes de la Seguretat Social deutors* és un dret de cobrament (actiu), mentre que *Hisenda pública creditora* és un deute (passiu)."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Resposta model",
+            "cos": "Balanç de situació de Sol i Vent, SL a 31-12-2022 (en euros):\n\n| ACTIU | € | PATRIMONI NET I PASSIU | € |\n|---|---:|---|---:|\n| **ACTIU NO CORRENT** | **8.120.850** | **PATRIMONI NET** | **6.530.700** |\n| *Immobilitzat intangible* | *970.850* | Capital social | 4.000.000 |\n| Concessions administratives, propietat industrial i drets de traspàs | 900.000 | Reserves | 2.000.000 |\n| Aplicacions informàtiques | 70.850 | Resultat de l’exercici | 530.700 |\n| *Immobilitzat material* | *7.000.000* | **PASSIU NO CORRENT** | **45.500** |\n| Instal·lacions tècniques | 2.000.000 | Deutes a llarg termini amb entitats de crèdit | 45.500 |\n| Elements de transport | 2.000.000 | **PASSIU CORRENT** | **4.230.400** |\n| Equips per a processos d’informació | 3.000.000 | Proveïdors | 2.000.000 |\n| *Inversions financeres a llarg termini* | *150.000* | Creditors per prestació de serveis | 1.000.000 |\n| **ACTIU CORRENT** | **2.685.750** | Deutes a curt termini amb entitats de crèdit | 230.400 |\n| *Existències* | *570.000* | Hisenda pública creditora per conceptes fiscals | 1.000.000 |\n| Existències comercials | 270.000 | | |\n| Existències de productes acabats | 300.000 | | |\n| *Realitzable* | *250.300* | | |\n| Clients | 100.000 | | |\n| Deutors | 50.300 | | |\n| Organismes de la Seguretat Social deutors | 100.000 | | |\n| *Disponible* | *1.865.450* | | |\n| Bancs i institucions de crèdit | 1.865.450 | | |\n| **TOTAL ACTIU** | **10.806.600** | **TOTAL PATRIMONI NET I PASSIU** | **10.806.600** |\n\nComprovació: 8.120.850 + 2.685.750 = 10.806.600 € = 6.530.700 + 45.500 + 4.230.400."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Com plantejar-ho",
+            "cos": "- Disponibilitat: $\\dfrac{\\text{Disponible}}{\\text{Passiu corrent}}$, valor orientatiu ≈ 0,3 (entre 0,3 i 0,4).\n- Tresoreria: $\\dfrac{\\text{Realitzable} + \\text{Disponible}}{\\text{Passiu corrent}}$, valor orientatiu ≈ 1 (entre 0,8 i 1,2 segons alguns manuals).\n- Estructura del deute (qualitat del deute): $\\dfrac{\\text{Passiu corrent}}{\\text{Passiu corrent} + \\text{Passiu no corrent}}$, com més a prop de 0, millor.\n\nPer a cada ràtio: valor obtingut → comparació amb l’orientatiu → què vol dir per a l’empresa."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Resposta model",
+            "cos": "| Nom | Càlcul | Valor orientatiu i interpretació |\n|---|---|---|\n| Disponibilitat | 1.865.450 / 4.230.400 = **0,44** | El valor orientatiu és d’uns 0,3 (òptim entre 0,3 i 0,4). L’empresa està lleugerament per sobre: té prou diners líquids per als pagaments immediats, però un excés de tresoreria ociosa li fa perdre rendibilitat; no li convé augmentar-la. |\n| Tresoreria | (250.300 + 1.865.450) / 4.230.400 = 2.115.750 / 4.230.400 = **0,50** | Hauria de ser propera a 1. Amb 0,50 l’empresa, sense vendre existències, només pot cobrir la meitat dels deutes a curt termini: té problemes per pagar el passiu corrent amb el realitzable i el disponible. |\n| Estructura del deute | 4.230.400 / (4.230.400 + 45.500) = 4.230.400 / 4.275.900 = **0,99** | Hauria de ser com més petita millor (propera a 0). Un 99 % dels deutes són a curt termini: el deute és de molt mala qualitat i l’empresa té molta pressió de pagaments a curt termini. |"
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Primer la teoria: definició del fons de maniobra (FM = AC − PC = Recursos permanents − ANC), què indica (part de l’actiu corrent finançada amb recursos permanents, «coixí» de seguretat) i per què ha de ser positiu, amb l’excepció dels negocis que cobren al comptat i paguen ajornat (supermercats). Després el càlcul i la conclusió per a aquesta empresa."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Resposta model",
+            "cos": "El **fons de maniobra** és la part de l’actiu corrent que es finança amb recursos permanents (patrimoni net i passiu no corrent). Indica la capacitat de l’empresa per complir els pagaments i obligacions a curt termini i, alhora, continuar fent les compres i inversions pròpies de l’activitat; per això és una garantia d’estabilitat financera. En general ha de ser **positiu**: si és negatiu, part de l’actiu no corrent està finançat amb deutes a curt termini i l’empresa pot arribar a la suspensió de pagaments (concurs de creditors). Hi ha excepcions, com els hipermercats i les grans superfícies, que cobren al comptat i paguen als proveïdors a 60, 90 o més dies: en aquests negocis un FM negatiu és normal.\n\nCàlcul: $FM = AC - PC = 2685750 - 4230400 = -1544650$ €.\n\nEl fons de maniobra de Sol i Vent, SL és **negatiu (−1.544.650 €)**: l’actiu corrent no és suficient per fer front al passiu corrent. L’empresa és en una situació d’**inestabilitat financera a curt termini**; si no ho corregeix, corre el risc de no poder pagar els deutes i acabar en concurs de creditors, sobretot en una època de restricció del crèdit. Com que no és una gran superfície que cobri al comptat (ven a botigues de barri), aquest FM negatiu és un problema real."
+          },
+          {
+            "apartat": "1.4",
+            "titol": "Com plantejar-ho",
+            "cos": "Pensa en accions que **augmentin l’actiu corrent** o **redueixin el passiu corrent** (o augmentin els recursos permanents). N’hi ha prou amb tres, cadascuna amb una frase d’explicació."
+          },
+          {
+            "apartat": "1.4",
+            "titol": "Resposta model",
+            "cos": "1. **Renegociar els deutes bancaris a curt termini** i convertir-los en deutes a llarg termini: el passiu corrent baixa i el fons de maniobra millora.\n2. **Ampliar capital o fer aportacions dels socis**: entren diners (augmenta el disponible) finançats amb recursos propis, que no s’han de tornar.\n3. **Vendre actius no corrents ociosos** (per exemple, part dels equips o elements de transport que no s’utilitzin) i, si cal, substituir-los per *renting* o *leasing*: s’obté liquiditat sense reduir la capacitat de treballar.\n\n(Altres vàlides: negociar terminis de pagament més llargs amb proveïdors, millorar la gestió del cobrament de clients, demanar una línia de crèdit, millorar la rendibilitat amb més preu o menys costos.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1.1",
+            "valor": "ANC 8.120.850 € (intangible 970.850; material 7.000.000; inversions financeres a llarg termini 150.000); AC 2.685.750 € (existències 570.000; realitzable 250.300; disponible 1.865.450); PN 6.530.700 €; PNC 45.500 €; PC 4.230.400 €; total 10.806.600 €."
+          },
+          {
+            "apartat": "1.2",
+            "valor": "Disponibilitat 0,44 (orientatiu 0,3-0,4: lleugerament alta, risc de perdre rendibilitat); tresoreria 0,50 (orientatiu ≈ 1: no pot pagar els deutes a curt termini); estructura del deute 0,99 (com més prop de 0 millor: deute de mala qualitat)."
+          },
+          {
+            "apartat": "1.3",
+            "valor": "Paper teòric de l’FM (garantia d’estabilitat, ha de ser positiu, excepció de les grans superfícies); FM = −1.544.650 €: inestabilitat financera a curt termini, risc de concurs de creditors."
+          },
+          {
+            "apartat": "1.4",
+            "valor": "Tres accions explicades: millorar el cobrament de clients, vendre actiu fix ociós, renegociar deutes a llarg termini, negociar amb proveïdors, línia de crèdit, ampliació de capital, augmentar la rendibilitat..."
+          }
+        ],
+        "nota": "Errors típics: posar *Organismes de la Seguretat Social deutors* al passiu o *Hisenda pública creditora* a l’actiu; oblidar les inversions financeres a llarg termini a l’ANC; no detallar les partides de cada massa. A la ràtio de tresoreria, recorda que **no** inclou les existències. Pel que fa a l’estructura del deute, l’oficial dona 0,989 ≈ 0,99. Totes les xifres de l’oficial s’han verificat i coincideixen."
+      }
+    },
+    {
+      "id": "empresa-2023-S-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Restaurant Slomo, SL: VAN, termini de recuperació i TIR de dos projectes; facturatge i crèdit comercial",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "van",
+        "termini de recuperació",
+        "payback",
+        "tir",
+        "facturatge",
+        "crèdit comercial",
+        "finançament a curt termini"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5,
+        6,
+        7
+      ],
+      "text": "La Marta, la propietària del restaurant Slomo, SL, s’està plantejant canviar el local per un de més gran. Per aquest motiu, té sobre la taula dos projectes d’inversió per als propers cinc anys i vol analitzar-los per a poder prendre la millor decisió. Les característiques dels projectes es mostren en la taula següent:\n\n| | Projecte A | Projecte B |\n|---|---:|---:|\n| Desemborsament inicial | 14.000 € | 17.000 € |\n| Flux de caixa net (any 1) | 2.000 € | 2.500 € |\n| Flux de caixa net (any 2) | 3.000 € | 3.000 € |\n| Flux de caixa net (any 3) | 3.500 € | 4.000 € |\n| Flux de caixa net (any 4) | 4.000 € | 4.500 € |\n| Flux de caixa net (any 5) | 4.500 € | 5.000 € |",
+      "enunciat": "Exercici 2 (un dels sis exercicis, dels quals cal triar-ne quatre). Llegiu el cas i responeu les qüestions següents.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "punts": 0.75,
+          "enunciat": "Calculeu el valor actual net (VAN) de cada projecte, sabent que la taxa d’actualització o de descompte és del 4 %. Expliqueu raonadament quin projecte és el més recomanable segons aquest criteri. No us limiteu a dir si el valor obtingut és positiu o negatiu; expliqueu què significa que, un cop calculat el VAN per a cada projecte, el valor obtingut sigui més gran o més petit que zero."
+        },
+        {
+          "id": "2.2",
+          "punts": 1,
+          "enunciat": "Calculeu el termini de recuperació (o *payback*) de cada projecte i argumenteu quin és el projecte més recomanable segons aquest criteri. A continuació, expliqueu per què a la Marta li hauria estat útil calcular la taxa interna de rendibilitat (TIR) de cada projecte. Justifiqueu la resposta sense fer cap càlcul."
+        },
+        {
+          "id": "2.3",
+          "punts": 0.75,
+          "enunciat": "La Marta necessita decantar-se per una font de finançament extern i a curt termini. Està indecisa entre el facturatge (també anomenat *factoring*) i el crèdit comercial. Expliqueu aquests dos conceptes. A continuació, argumenteu quina de les dues fonts proposades tindria poca utilitat per a la seva activitat empresarial, en cas de sol·licitar-la, tenint en compte que en el seu negoci es ven tot al comptat."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de selecció d’inversions. Escriu sempre la **fórmula** abans de substituir i treballa amb dos decimals. Els dos criteris (VAN i *payback*) aquí coincideixen, però cal interpretar cada resultat: la consigna demana explícitament explicar què vol dir un VAN positiu o negatiu. A la TIR **no** s’ha de calcular res, només justificar-ne la utilitat. El 2.3 és teoria de finançament a curt termini lligada al cas (un restaurant que cobra al comptat). Temps: uns 25 minuts."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "$VAN = -D_0 + \\dfrac{F_1}{(1+k)} + \\dfrac{F_2}{(1+k)^2} + \\dots + \\dfrac{F_n}{(1+k)^n}$, amb $k = 0{,}04$.\n\nActualitza cada flux, suma’ls i resta el desemborsament inicial. Després compara els VAN: es tria el projecte amb VAN positiu (i, si tots dos ho fossin, el més alt)."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "**Projecte A**: $VAN_A = -14000 + \\dfrac{2000}{1{,}04} + \\dfrac{3000}{1{,}04^2} + \\dfrac{3500}{1{,}04^3} + \\dfrac{4000}{1{,}04^4} + \\dfrac{4500}{1{,}04^5}$\n\n$VAN_A = -14000 + 1923{,}08 + 2773{,}67 + 3111{,}49 + 3419{,}22 + 3698{,}67 = 926{,}12$ € (positiu).\n\n**Projecte B**: $VAN_B = -17000 + \\dfrac{2500}{1{,}04} + \\dfrac{3000}{1{,}04^2} + \\dfrac{4000}{1{,}04^3} + \\dfrac{4500}{1{,}04^4} + \\dfrac{5000}{1{,}04^5}$\n\n$VAN_B = -17000 + 2403{,}85 + 2773{,}67 + 3555{,}99 + 3846{,}62 + 4109{,}64 = -310{,}25$ € (negatiu).\n\nSegons el VAN, és més recomanable el **projecte A**, perquè és l’únic amb VAN positiu. Un **VAN positiu** vol dir que la suma dels fluxos de caixa actualitzats al moment inicial supera el desemborsament: es recupera la inversió, es cobreix la rendibilitat mínima exigida (el 4 %, que reflecteix el cost del finançament o d’oportunitat) i encara queda un guany extra de 926,12 € en valor d’avui. Un **VAN negatiu**, com el del projecte B, indica que els fluxos actualitzats no arriben a cobrir el desemborsament: el projecte no assoleix la rendibilitat mínima exigida i no s’hauria de fer."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "*Payback*: suma els fluxos (sense actualitzar) fins a recuperar el desemborsament. Si s’hi arriba dins d’un any, calcula la fracció: $\\dfrac{\\text{import que falta}}{\\text{flux d’aquell any}} \\times 12$ mesos.\n\nTIR: és la taxa de descompte que fa el VAN igual a zero; es compara amb el cost d’oportunitat (r)."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "**Projecte A**: anys 1 a 4: 2.000 + 3.000 + 3.500 + 4.000 = 12.500 €. Falten 14.000 − 12.500 = 1.500 €, que es recuperen durant l’any 5: 1.500 / 4.500 = 0,333 anys × 12 = 4 mesos. *Payback* A = **4 anys i 4 mesos**.\n\n**Projecte B**: anys 1 a 4: 2.500 + 3.000 + 4.000 + 4.500 = 14.000 €. Falten 17.000 − 14.000 = 3.000 €: 3.000 / 5.000 = 0,6 anys × 12 = 7,2 mesos. *Payback* B = **4 anys i 7,2 mesos** (uns 4 anys, 7 mesos i 6 dies).\n\nSegons aquest criteri és millor el **projecte A**, perquè recupera la inversió abans.\n\n**Utilitat de la TIR**: la TIR és la taxa de descompte que fa que el VAN sigui zero, és a dir, la rendibilitat (en %) que genera el projecte. Li hauria estat útil a la Marta perquè, a diferència del *payback*, té en compte el valor del diner en el temps i tots els fluxos, i li permetria comparar directament la rendibilitat de cada projecte amb el cost d’oportunitat o el tipus d’interès del finançament (r): si TIR > r, el projecte és viable; si TIR < r, s’ha de rebutjar. A més, expressada en percentatge, és fàcil de comparar entre projectes de mida diferent."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Defineix cada font (què és, qui la proporciona, curt termini) i relaciona-la amb el negoci: el *factoring* serveix per avançar el cobrament de **factures pendents de clients**; si el restaurant cobra tot al comptat, no té factures pendents."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Resposta model",
+            "cos": "El **facturatge** (*factoring*) és un contracte pel qual una empresa cedeix a una entitat financera les factures pendents de cobrar dels seus clients; l’entitat n’avança l’import i se’n gestiona el cobrament al venciment a canvi d’una comissió (i interessos). És una font de finançament externa a curt termini.\n\nEl **crèdit comercial** és el finançament que obté l’empresa quan els proveïdors li permeten pagar les compres (matèries primeres, mercaderies) més tard. És una font externa, a curt termini i automàtica (espontània). Si el proveïdor no cobra recàrrec per l’ajornament ni ofereix descompte per pagament al comptat, és gratuïta; si n’hi ha, té un cost d’oportunitat (el descompte que es perd).\n\nPer al restaurant de la Marta, que **ven tot al comptat**, el **facturatge tindria poca utilitat**: no té factures pendents de cobrament per cedir. En canvi, el crèdit comercial sí que li seria útil, perquè pot ajornar el pagament als seus proveïdors d’aliments i begudes."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "VAN A = 926,12 € (positiu); VAN B = −310,25 € (negatiu). Es tria A. Explicar el significat de VAN > 0 (es supera la rendibilitat mínima exigida) i VAN < 0."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "Payback A = 4 anys i 4 mesos; payback B = 4 anys i 7,2 mesos; millor A. TIR: taxa que anul·la el VAN, es compara amb el cost d’oportunitat (TIR > r viable; TIR < r rebutjar)."
+          },
+          {
+            "apartat": "2.3",
+            "valor": "Factoring: cessió de factures de clients a una entitat financera a canvi de comissió (curt termini). Crèdit comercial: ajornament del pagament als proveïdors. El factoring té poca utilitat perquè el restaurant cobra al comptat."
+          }
+        ],
+        "nota": "Comprovació amb Python: VAN A = 926,12 € i VAN B = −310,25 €, iguals que l’oficial. Com a curiositat, la TIR seria aproximadament del 6,06 % per a A i del 3,42 % per a B (coherent: B queda per sota del 4 %), però l’enunciat diu explícitament que no cal calcular-la. Error típic: actualitzar els fluxos en el càlcul del *payback* (el criteri estàtic no ho fa) o expressar 0,6 anys com a «6 mesos»."
+      }
+    },
+    {
+      "id": "empresa-2023-S-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "M&C, SL: rendibilitat econòmica de dos anys, comptes anuals i PGC, i definicions de finançament i inversió",
+      "tema": "comptabilitat",
+      "temes_secundaris": [
+        "financament"
+      ],
+      "conceptes": [
+        "rendibilitat econòmica",
+        "baii",
+        "comptes anuals",
+        "pla general de comptabilitat",
+        "reserves",
+        "préstec",
+        "leasing",
+        "rènting"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7,
+        8,
+        9
+      ],
+      "text": "La Mirèlha i en Cristòl són la quarta generació de propietaris d’M&C, SL, una empresa familiar aranesa dedicada a la producció de patés i formatges de muntanya. Ambdós s’esforcen perquè l’empresa continuï endavant malgrat la situació econòmica i tenen molta empenta per a fer noves inversions. A continuació, es presenten algunes dades comptables de l’empresa:\n\n**Taula 1**\n\n| | Any 1 | Any 2 |\n|---|---:|---:|\n| Ingressos d’explotació | 240.000 € | 425.000 € |\n| Despeses d’explotació | 110.000 € | 210.000 € |\n| **BAII (benefici abans d’interessos i impostos)** | **130.000 €** | **215.000 €** |\n| Despeses financeres | 5.000 € | 6.000 € |\n| **BAI (benefici abans d’impostos)** | **125.000 €** | **209.000 €** |\n| Impost sobre beneficis del 25 % | 31.250 € | 52.250 € |\n| **Benefici net** | **93.750 €** | **156.750 €** |\n\n**Taula 2**\n\n| | Any 1 | Any 2 |\n|---|---:|---:|\n| Actiu no corrent | 280.000 € | –5 % respecte de l’any 1 |\n| Actiu corrent | 172.000 € | +15 % respecte de l’any 1 |\n| Patrimoni net | 190.000 € | 200.000 € |\n| Passiu no corrent | 158.000 € | 100.000 € |\n| Passiu corrent | 104.000 € | 163.800 € |",
+      "enunciat": "Exercici 3 (un dels sis exercicis, dels quals cal triar-ne quatre). Llegiu el cas i responeu les qüestions següents.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "3.1",
+          "punts": 1,
+          "enunciat": "Expliqueu el concepte *rendibilitat econòmica*. Calculeu la rendibilitat econòmica de l’any 1 i de l’any 2 i expresseu el resultat final en percentatge. Per al càlcul de l’any 2, fixeu-vos que l’actiu no corrent ha disminuït un 5 % i l’actiu corrent ha augmentat un 15 % respecte de l’any anterior. Seguidament, argumenteu si l’any 2 la rendibilitat econòmica d’aquesta empresa ha millorat o ha empitjorat respecte de l’any 1."
+        },
+        {
+          "id": "3.2",
+          "punts": 0.5,
+          "enunciat": "Les dades que han facilitat la Mirèlha i en Cristòl formen part dels comptes anuals que han de fer obligatòriament les pimes segons el que indica el Pla General de Comptabilitat. Expliqueu què entenem per *compte anual* i per *Pla General de Comptabilitat*."
+        },
+        {
+          "id": "3.3",
+          "punts": 1,
+          "enunciat": "La filla de la Mirèlha us ha demanat ajut, ja que s’ha de presentar a l’examen de selectivitat i no té clar quines de les definicions de la taula següent són correctes i quines són incorrectes. En el cas de les incorrectes, digueu a quin terme corresponen.\n\n| Definició | Correcta o incorrecta? | En cas de ser incorrecta, a quin terme correspon? |\n|---|---|---|\n| Els *descomptes d’efectes* són els beneficis no distribuïts per l’empresa. Els beneficis s’obtenen a partir del resultat, el qual s’aconsegueix com a conseqüència del desenvolupament de la seva activitat. | | |\n| Els *préstecs* són recursos que s’han de tornar i remunerar en uns terminis pactats. Es tracta d’un contracte mitjançant el qual generalment una entitat de crèdit lliura un import prèviament pactat a una empresa o a un individu, amb un venciment i un pla d’amortització establerts, i amb uns interessos pactats. | | |\n| Les *tipologies d’inversió*, segons la finalitat de la inversió dins de l’empresa, poden ser de reposició, expansiva i estratègica. | | |\n| El *rènting* és un sistema de finançament mitjançant el qual l’empresa incorpora algun element de l’actiu fix a canvi d’una quota d’arrendament. En definitiva, és una forma de finançament que permet el lloguer d’un bé i la possibilitat d’adquirir-lo en finalitzar el contracte. | | |"
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "El 3.1 és l’únic càlcul: compte a fer servir el **BAII** (no el benefici net) i el **total actiu** de cada any; per a l’any 2 primer cal aplicar els percentatges a l’actiu. La Taula 1 té dades que no necessites (despeses financeres, impost, benefici net): no et distreguis. El 3.2 i el 3.3 són teoria breu. Temps: uns 20 minuts."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Com plantejar-ho",
+            "cos": "$RE = \\dfrac{BAII}{\\text{Actiu total}} \\times 100$\n\n- Any 2: $ANC_2 = 280000 \\cdot 0{,}95$ i $AC_2 = 172000 \\cdot 1{,}15$.\n- Interpreta: euros de BAII que genera cada 100 € invertits en actiu."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Resposta model",
+            "cos": "La **rendibilitat econòmica** mesura el benefici que generen els actius de l’empresa sense tenir en compte com s’han finançat (abans d’interessos i impostos). Indica l’eficàcia de la gestió i la capacitat dels actius per generar valor: quant guanya l’empresa per cada 100 € invertits en actiu. Com més alta, millor.\n\n**Any 1**: Actiu total = 280.000 + 172.000 = 452.000 €.\n\n$RE_1 = \\dfrac{130000}{452000} \\times 100 = 28{,}76\\ \\%$. Cada 100 € invertits en actiu generen 28,76 € de BAII.\n\n**Any 2**: ANC = 280.000 × 0,95 = 266.000 €; AC = 172.000 × 1,15 = 197.800 €; Actiu total = 463.800 €.\n\n$RE_2 = \\dfrac{215000}{463800} \\times 100 = 46{,}36\\ \\%$. Cada 100 € invertits en actiu generen 46,36 € de BAII.\n\nLa rendibilitat econòmica **ha millorat** l’any 2 (de 28,76 % a 46,36 %): amb pràcticament el mateix actiu, l’empresa ha obtingut un BAII molt més alt, és a dir, la gestió ha estat més eficaç i els actius han generat més valor que l’any anterior."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues definicions curtes: què són els comptes anuals (documents, finalitat d’imatge fidel, quins són obligatoris per a les pimes) i què és el PGC (norma comptable bàsica, per què existeix: homogeneïtat i comparabilitat)."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Resposta model",
+            "cos": "Els **comptes anuals** són els estats financers que l’empresa ha d’elaborar al final de cada exercici per mostrar la **imatge fidel** del seu patrimoni, de la seva situació financera i dels seus resultats. Per a les pimes, els obligatoris són el balanç de situació, el compte de pèrdues i guanys i la memòria.\n\nEl **Pla General de Comptabilitat (PGC)** és la norma comptable bàsica d’aplicació obligatòria per a les empreses: conté els principis, les normes, els procediments i els mètodes que s’han de seguir per comptabilitzar. Es va crear perquè la informació comptable de totes les empreses fos **homogènia** i, per tant, comparable; n’hi ha una versió específica per a les pimes."
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Llegeix cada definició i pregunta’t si encaixa amb el terme en cursiva. Fixa’t en els detalls clau: «beneficis no distribuïts» → reserves; «possibilitat d’adquirir-lo en finalitzar el contracte» (opció de compra) → *leasing*, no *rènting*."
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Resposta model",
+            "cos": "| Definició | Correcta o incorrecta? | Terme correcte |\n|---|---|---|\n| Descomptes d’efectes (beneficis no distribuïts) | **Incorrecta** | **Reserves** |\n| Préstecs | **Correcta** | — |\n| Tipologies d’inversió segons la finalitat (reposició, expansiva, estratègica) | **Correcta** | — |\n| Rènting (lloguer amb possibilitat d’adquirir el bé al final) | **Incorrecta** | ***Leasing*** (arrendament financer) |\n\nEl descompte d’efectes és una font de finançament a curt termini (el banc avança l’import de les lletres de canvi pendents de cobrament). El rènting és un lloguer a mitjà o llarg termini que inclou manteniment i assegurança, **sense opció de compra**; la possibilitat d’adquirir el bé al final és pròpia del *leasing*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "3.1",
+            "valor": "Definició de rendibilitat econòmica (BAII / actiu total); RE any 1 = 28,76 %; any 2: actiu 266.000 + 197.800 = 463.800 €, RE = 46,35 % (oficial); ha millorat."
+          },
+          {
+            "apartat": "3.2",
+            "valor": "Comptes anuals: estats financers que mostren la imatge fidel (balanç, compte de PiG i memòria per a pimes). PGC: norma comptable obligatòria que homogeneïtza la informació comptable."
+          },
+          {
+            "apartat": "3.3",
+            "valor": "1: incorrecta (reserves); 2: correcta; 3: correcta; 4: incorrecta (leasing)."
+          }
+        ],
+        "nota": "Discrepància menor amb l’oficial: 215.000 / 463.800 = 0,46356, és a dir, **46,36 %** arrodonint (l’oficial escriu 46,35 %, truncant, i a la interpretació hi posa per error «46,86 €»). Qualsevol de les dues xifres és correcta. Error típic: calcular la rendibilitat econòmica amb el benefici net (això seria una aproximació a la financera, que es calcula sobre el patrimoni net) o oblidar actualitzar l’actiu de l’any 2."
+      }
+    },
+    {
+      "id": "empresa-2023-S-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "INFOSERV, SL: cinc forces de Porter, barreres d’entrada i de sortida, i nivells d’estratègia",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "organitzacio"
+      ],
+      "conceptes": [
+        "cinc forces de porter",
+        "barreres d'entrada",
+        "barreres de sortida",
+        "estratègia corporativa",
+        "estratègia de negoci",
+        "estratègia operativa",
+        "rivalitat competitiva"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        9,
+        10,
+        11
+      ],
+      "text": "L’empresa de consultoria INFOSERV, SL ha de dur a terme l’anàlisi de la situació competitiva d’una empresa a través del model de les cinc forces competitives de Michael E. Porter.\n\n*Nota 1*: Els proveïdors imposen condicions de preu, de data de lliurament dels productes i de termini de pagament.\n\n*Nota 2*: Les condicions del mercat faran que augmenti l’entrada d’empreses i, per tant, de nous competidors que oferiran el mateix producte.\n\n*Nota 3*: Donat que al mercat tots els competidors són de poca dimensió, hi ha un alt grau de rivalitat.\n\n*Nota 4*: En un termini de sis mesos poden aparèixer al mercat productes nous que facin la competència als actuals.\n\n*Nota 5*: Hi ha dos grups d’empreses: unes amb uns costos fixos alts i unes altres amb uns costos fixos baixos. Això comporta molta rivalitat entre elles.\n\n*Nota 6*: Els clients no tenen cap força per a imposar condicions sobre les característiques del producte ni sobre el seu preu.\n\n*Nota 7*: La falta de barreres d’entrada provocarà l’aparició de noves empreses en aquest mercat.\n\n*Nota 8*: S’han detectat una sèrie de productes nous molt similars als existents que entraran al mercat amb un preu baix.\n\n*Nota 9*: Que hi hagi un excés d’oferta en relació amb la demanda significa que hi ha una gran quantitat de venedors en la mateixa indústria i, per això, el client pot escollir entre les diferents opcions. Així, el client escollirà l’empresa que li proporciona un millor producte, un millor servei i un millor preu, i d’aquí la seva fortalesa.",
+      "enunciat": "Exercici 4 (un dels sis exercicis, dels quals cal triar-ne quatre). Llegiu el cas i responeu les qüestions següents.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "4.1",
+          "punts": 0.9,
+          "enunciat": "Classifiqueu segons el model de les cinc forces competitives cadascuna de les nou notes que han elaborat els analistes d’estratègia d’INFOSERV, SL, escrivint-les dins de la casella corresponent de la taula. No cal copiar tota la frase de la nota; podeu escriure’n només el número. Tingueu en compte que a cada nota només li podeu assignar una força competitiva.\n\n| Força competitiva | Notes elaborades pels analistes (escriviu només el número de la nota) |\n|---|---|\n| Poder de negociació dels clients | |\n| Poder de negociació dels proveïdors | |\n| Amenaces de productes substitutius | |\n| Amenaces de nous competidors (entrada de noves empreses) | |\n| Grau de rivalitat entre els competidors | |"
+        },
+        {
+          "id": "4.2",
+          "punts": 0.6,
+          "enunciat": "Expliqueu, seguint el model de les cinc forces competitives, els conceptes *barrera d’entrada* i *barrera de sortida*, i poseu un parell d’exemples de cadascun."
+        },
+        {
+          "id": "4.3",
+          "punts": 1,
+          "enunciat": "Després d’analitzar la situació de l’empresa, la consultoria INFOSERV, SL ha proposat deu decisions estratègiques. Classifiqueu-les en la taula que trobareu a continuació anotant cadascuna a la casella corresponent (estratègia corporativa, estratègia de negoci o estratègia operativa). No cal que copieu tota la frase; poseu-ne només els números. Tingueu en compte que cada decisió pot anar només en una casella.\n\n*Decisió 1*: Cal determinar quina dimensió o grandària ha d’arribar a tenir en un futur l’empresa per a poder potenciar la seva projecció internacional.\n\n*Decisió 2*: Un departament en concret de l’empresa ha de decidir com gestionar d’una manera eficient els seus recursos en el seu dia a dia.\n\n*Decisió 3*: Cal establir estratègicament en quin sector o en quins sectors es vol produir. Aquesta decisió està relacionada amb l’objectiu o abast global de l’empresa i l’haurà de prendre l’alta direcció de l’empresa.\n\n*Decisió 4*: Cal optar per una estratègia de preus baixos, ja que l’empresa vol tenir un avantatge competitiu envers els seus competidors.\n\n*Decisió 5*: El departament o àrea de producció ha de contribuir a l’estalvi en els costos de producció, de manera que es pugui sostenir la política de reducció de preus de l’empresa, per exemple, reorganitzant els processos productius.\n\n*Decisió 6*: El consell d’administració de l’empresa ha d’establir quins tipus de productes vol vendre i en quins mercats d’arreu del món.\n\n*Decisió 7*: El departament o àrea de màrqueting ha de dissenyar una campanya de promoció per a informar els clients sobre la reducció de preus dels productes.\n\n*Decisió 8*: Cal planificar el creixement a llarg termini de l’empresa, amb la intenció de satisfer les expectatives dels propietaris o dels gestors i afegir valor a les diferents àrees de l’empresa.\n\n*Decisió 9*: Cal decantar-se per una estratègia de diferenciació de producte o per una de preus baixos.\n\n*Decisió 10*: El departament o àrea de Recursos Humans ha de contractar un especialista per a millorar el procés productiu.\n\n| Estratègia corporativa (escriviu el número de la decisió) | Estratègia de negoci (escriviu el número de la decisió) | Estratègia operativa (escriviu el número de la decisió) |\n|---|---|---|\n| | | |"
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici sense càlculs, molt «agraït» si domines la teoria de Porter i els nivells d’estratègia. A 4.1 i 4.3 n’hi ha prou amb els números, però fes-ho en una taula clara (cada nota o decisió en una sola casella). Busca les **paraules clau** de cada frase: proveïdors, clients, productes nous/similars (substitutius), entrada de noves empreses, rivalitat. A 4.2 cal definició + **dos exemples** de cada barrera. Temps: 15-20 minuts."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Clients**: notes que parlen de la capacitat dels clients d’imposar condicions (6 i 9: amb excés d’oferta el client pot triar).\n- **Proveïdors**: nota 1.\n- **Substitutius**: productes nous que fan la competència als actuals (4 i 8).\n- **Nous competidors**: entrada d’empreses, falta de barreres d’entrada (2 i 7).\n- **Rivalitat**: competidors petits, estructures de costos diferents (3 i 5)."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Resposta model",
+            "cos": "| Força competitiva | Notes |\n|---|---|\n| Poder de negociació dels clients | 6, 9 |\n| Poder de negociació dels proveïdors | 1 |\n| Amenaces de productes substitutius | 4, 8 |\n| Amenaces de nous competidors (entrada de noves empreses) | 2, 7 |\n| Grau de rivalitat entre els competidors | 3, 5 |"
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Barrera d’entrada: dificulta **entrar** al mercat (protegeix les empreses que ja hi són i redueix l’amenaça de nous competidors). Barrera de sortida: dificulta **abandonar** el mercat (augmenta la rivalitat, perquè les empreses es queden encara que guanyin poc)."
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Resposta model",
+            "cos": "Les **barreres d’entrada** són els factors que dificulten, o fins i tot impedeixen, que una empresa nova entri i es posicioni en un mercat, de manera que la inversió hi resulta poc atractiva. Com més altes són, menor és l’amenaça de nous competidors. Exemples: la necessitat d’una **inversió inicial molt elevada**; una forta **fidelitat dels clients** a les marques ja establertes; **restriccions normatives** o llicències difícils d’obtenir.\n\nLes **barreres de sortida** són els factors que fan difícil o impossible que una empresa que ja és en un mercat en pugui sortir, encara que hi obtingui pocs beneficis; per això augmenten la rivalitat. Exemples: les **indemnitzacions** que caldria pagar als treballadors i les penalitzacions per trencar contractes amb proveïdors o clients; actius molt **específics** (maquinària) que no es poden vendre ni recuperar; **contractes a llarg termini** que obliguen a quedar-se fins a acabar el projecte."
+          },
+          {
+            "apartat": "4.3",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Corporativa**: alta direcció, decisions globals de tota l’empresa (en quins sectors i mercats ser, mida, creixement a llarg termini): 1, 3, 6, 8.\n- **De negoci** (competitiva): com competir en un sector, l’avantatge competitiu (lideratge en costos/preus baixos o diferenciació): 4, 9.\n- **Operativa** (funcional): cada departament o àrea (producció, màrqueting, RH), gestió del dia a dia per donar suport a l’estratègia de negoci: 2, 5, 7, 10."
+          },
+          {
+            "apartat": "4.3",
+            "titol": "Resposta model",
+            "cos": "| Estratègia corporativa | Estratègia de negoci | Estratègia operativa |\n|---|---|---|\n| 1, 3, 6, 8 | 4, 9 | 2, 5, 7, 10 |"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "4.1",
+            "valor": "Clients: 6 i 9; proveïdors: 1; substitutius: 4 i 8; nous competidors: 2 i 7; rivalitat: 3 i 5."
+          },
+          {
+            "apartat": "4.2",
+            "valor": "Barrera d’entrada: factors que dificulten entrar en un mercat (fidelitat de clients, inversió alta, regulació). Barrera de sortida: factors que dificulten sortir-ne (indemnitzacions i penalitzacions, rendibilitat no recuperada, contractes a llarg termini). Qualsevol exemple correcte és vàlid."
+          },
+          {
+            "apartat": "4.3",
+            "valor": "Corporativa: 1, 3, 6, 8; de negoci: 4, 9; operativa: 2, 5, 7, 10."
+          }
+        ],
+        "nota": "Error típic a 4.1: posar la nota 9 a la rivalitat (parla de molts venedors, però la conseqüència que destaca és la **força del client**). A 4.3, la decisió 6 és corporativa encara que parli de productes, perquè la pren el consell d’administració i defineix en quins mercats ha de ser l’empresa; la decisió 7 és operativa (l’àrea de màrqueting), no de negoci."
+      }
+    },
+    {
+      "id": "empresa-2023-S-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Mobildur: llindar de rendibilitat 2023, anàlisi DAFO, societat anònima i estratègies de preus",
+      "tema": "produccio",
+      "temes_secundaris": [
+        "marqueting",
+        "empresa-entorn"
+      ],
+      "conceptes": [
+        "llindar de rendibilitat",
+        "punt mort",
+        "viabilitat econòmica",
+        "anàlisi dafo",
+        "societat anònima",
+        "preus de penetració",
+        "preus psicològics"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        12,
+        13,
+        14
+      ],
+      "text": "Mobildur és una empresa que cotitza en borsa i el seu capital social està format per accions. Aquesta empresa es dedica a fabricar fundes per a mòbils de gran resistència i elasticitat, que estan molt ben valorades pels clients. L’any 2022, el gerent de l’empresa va decidir ampliar mercats i internacionalitzar-la. Per acompanyar aquest projecte, va decidir vendre el seu producte a un preu excepcional de 0,6 €/unitat, amb un marge de contribució de 0,4 €/unitat. Aquest preu de 0,6 €/unitat permetria a l’empresa introduir el producte en el mercat a un preu més baix que el de la competència. Addicionalment, sabem que l’empresa presentava uns costos fixos totals anuals formats per dues partides: uns costos fixos totals anuals de personal de 5.000.000 € i unes amortitzacions de l’immobilitzat totals anuals fixes de 10.000.000 €, que el gerent estimava molt elevades (massa immobilitzat) en relació amb els seus competidors.\n\nPel que fa a l’any 2023, l’entorn es presenta molt complicat per l’efecte que la inflació creixent està provocant a empreses i famílies. Pel que fa als costos, l’empresa estima que els costos fixos totals anuals creixeran un 5 % respecte del total de costos fixos anuals de l’any 2022, per sobre de la competència. Els costos variables totals anuals creixeran un 20 %, per sobre de la competència, tot i que hi ha un aspecte favorable: els descomptes que el Govern ha proposat aplicar en el preu de la llum i els combustibles. Per tot això, el 2023 Mobildur canviarà el seu baix preu de venda inicial per un altre de 0,99 €/unitat, la qual cosa permetrà la recuperació dels marges comercials. Els costos variables unitaris de l’empresa per a l’any 2023 seran de 0,24 €/unitat de producte.",
+      "enunciat": "Exercici 5 (un dels sis exercicis, dels quals cal triar-ne quatre). Llegiu el cas i responeu les qüestions següents.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "5.1",
+          "punts": 0.8,
+          "enunciat": "Calculeu el llindar de rendibilitat (o punt mort) de Mobildur per a l’any 2023 i argumenteu-ne la viabilitat econòmica, si l’empresa té una capacitat productiva màxima de 50.000.000 d’unitats anuals."
+        },
+        {
+          "id": "5.2",
+          "punts": 0.8,
+          "enunciat": "Expliqueu en què consisteix cada una de les variables internes (fortaleses i debilitats) i externes (oportunitats i amenaces) de l’anàlisi DAFO i, a continuació, escriviu en la taula un sol exemple de cadascuna (que pot ser del 2022 o del 2023) extret de l’enunciat.\n\n| Anàlisi de l’empresa | |\n|---|---|\n| Fortaleses (escriviu un exemple extret de l’enunciat) | Debilitats (escriviu un exemple extret de l’enunciat) |\n| | |\n| **Anàlisi de l’entorn** | |\n| Oportunitats (escriviu un exemple extret de l’enunciat) | Amenaces (escriviu un exemple extret de l’enunciat) |\n| | |"
+        },
+        {
+          "id": "5.3",
+          "punts": 0.6,
+          "enunciat": "A partir de les dades que aporta l’enunciat d’aquest exercici, argumenteu quina és la forma jurídica de l’empresa i indiqueu la responsabilitat que tindrien els socis davant els deutes de la companyia i el capital social mínim d’aquest tipus de societat."
+        },
+        {
+          "id": "5.4",
+          "punts": 0.3,
+          "enunciat": "Dues de les estratègies de la variable preu del màrqueting mix són l’estratègia de penetració i l’estratègia de preus psicològics. En el text de l’enunciat s’esmenten dos preus: 0,6 €/u i 0,99 €/u. Decidiu quin forma part de l’estratègia de penetració i quin podem considerar que pertany a l’estratègia de preus psicològics. Argumenteu la resposta."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text llarg amb moltes dades «de 2022» que serveixen de context: per al punt mort del 2023 només necessites els **costos fixos del 2022 incrementats un 5 %**, el **preu de 2023 (0,99 €)** i el **cost variable unitari de 2023 (0,24 €)**. No et confonguis amb el +20 % dels costos variables totals: el cost variable unitari ja te’l donen. Els apartats 5.2-5.4 són teoria aplicada al text: cita frases de l’enunciat. Temps: 20 minuts."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Com plantejar-ho",
+            "cos": "- $CF_{2022} = 5000000 + 10000000 = 15000000$ €\n- $CF_{2023} = 15000000 \\cdot 1{,}05 = 15750000$ €\n- $Q^* = \\dfrac{CF}{p - cvu}$\n- Viabilitat: compara $Q^*$ amb la capacitat màxima (50 milions d’unitats)."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Resposta model",
+            "cos": "Costos fixos 2022 = 5.000.000 + 10.000.000 = 15.000.000 €. Costos fixos 2023 = 15.000.000 × 1,05 = **15.750.000 €**.\n\n$Q^* = \\dfrac{CF}{p - cvu} = \\dfrac{15750000}{0{,}99 - 0{,}24} = \\dfrac{15750000}{0{,}75} = 21000000$ unitats.\n\nEl llindar de rendibilitat del 2023 és de **21.000.000 d’unitats**: és la quantitat que l’empresa ha de produir i vendre perquè els ingressos cobreixin tots els costos (ni beneficis ni pèrdues).\n\n**Viabilitat econòmica**: la viabilitat econòmica consisteix a comprovar si l’activitat generarà beneficis. Com que la capacitat màxima és de 50.000.000 d’unitats, molt per sobre del punt mort, l’empresa **pot ser viable**: si ven més de 21 milions d’unitats obtindrà beneficis (a plena capacitat, el benefici seria (50.000.000 − 21.000.000) × 0,75 = 21.750.000 €). La viabilitat dependrà, doncs, que la demanda superi els 21 milions d’unitats."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Primer defineix les quatre variables (internes: depenen de l’empresa; externes: de l’entorn). Després busca al text una frase per a cada casella: positiu intern (fortalesa), negatiu intern (debilitat), positiu extern (oportunitat), negatiu extern (amenaça)."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Resposta model",
+            "cos": "- **Fortaleses** (internes, positives): característiques pròpies de l’empresa que la situen per sobre dels competidors per assolir els seus objectius.\n- **Debilitats** (internes, negatives): característiques pròpies que la deixen en desavantatge respecte dels competidors.\n- **Oportunitats** (externes, positives): elements de l’entorn que afavoreixen l’empresa.\n- **Amenaces** (externes, negatives): elements de l’entorn que la poden perjudicar.\n\n| Anàlisi de l’empresa | |\n|---|---|\n| **Fortalesa**: fundes per a mòbils de gran resistència i elasticitat, molt ben valorades pels clients. | **Debilitat**: amortitzacions molt elevades (massa immobilitzat) en relació amb els competidors. |\n| **Anàlisi de l’entorn** | |\n| **Oportunitat**: els descomptes que el Govern ha proposat aplicar en el preu de la llum i els combustibles. | **Amenaça**: l’entorn complicat per l’efecte que la inflació creixent està provocant a empreses i famílies. |"
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Com plantejar-ho",
+            "cos": "La pista és «cotitza en borsa» i «capital social format per accions»: només les societats anònimes cotitzen en borsa. Després, responsabilitat i capital mínim."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Resposta model",
+            "cos": "Mobildur és una **societat anònima (SA)**: l’enunciat diu que cotitza en borsa i que el seu capital social està format per accions, i a la borsa només hi cotitzen accions de societats anònimes. Els socis (accionistes) tenen **responsabilitat limitada al capital aportat**: no responen dels deutes de la societat amb el seu patrimoni personal. El **capital social mínim** d’una SA és de **60.000 €**."
+          },
+          {
+            "apartat": "5.4",
+            "titol": "Com plantejar-ho",
+            "cos": "Penetració: preu baix (inferior a la competència) per entrar en un mercat nou i guanyar quota. Psicològic: preus acabats en 9 o 99 que el client percep més baixos del que són."
+          },
+          {
+            "apartat": "5.4",
+            "titol": "Resposta model",
+            "cos": "El preu de **0,6 €/u** correspon a l’**estratègia de penetració**: és un preu baix, inferior al de la competència, fixat per introduir el producte en els nous mercats internacionals i aconseguir que els consumidors el comprin en començar-lo a comercialitzar.\n\nEl preu de **0,99 €/u** és un **preu psicològic**: el client el percep com «menys d’un euro» perquè llegim els preus d’esquerra a dreta i donem menys importància als darrers dígits, tot i que és pràcticament 1 €."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "5.1",
+            "valor": "CF 2023 = 15.750.000 €; punt mort = 15.750.000 / (0,99 − 0,24) = 21.000.000 unitats; amb una capacitat de 50 milions d’unitats l’empresa pot ser viable econòmicament."
+          },
+          {
+            "apartat": "5.2",
+            "valor": "Definició de les quatre variables. Exemples: F = fundes de gran resistència i ben valorades (o internacionalització, preu baix); D = amortitzacions massa elevades (o costos que creixen per sobre de la competència); O = descomptes del Govern en llum i combustibles; A = inflació creixent. Qualsevol frase correcta del text és vàlida."
+          },
+          {
+            "apartat": "5.3",
+            "valor": "Societat anònima (cotitza en borsa, capital en accions); responsabilitat limitada al capital aportat; capital mínim 60.000 €."
+          },
+          {
+            "apartat": "5.4",
+            "valor": "0,6 €/u: penetració (preu inferior a la competència per entrar al mercat); 0,99 €/u: preu psicològic (es percep com a inferior a 1 €)."
+          }
+        ],
+        "nota": "Resultats de l’oficial verificats (21.000.000 d’unitats). Coherència de les dades: el 2022 el cost variable unitari era 0,6 − 0,4 = 0,2 €/u, i amb el +20 % passa a 0,24 €/u, la dada que dona l’enunciat. Errors típics: aplicar el 5 % només a una partida dels costos fixos, fer servir el preu de 0,6 €, o tornar a augmentar un 20 % el cost variable unitari de 0,24 €. A 5.2, cal posar **un sol** exemple per casella."
+      }
+    },
+    {
+      "id": "empresa-2023-S-e6-q1",
+      "exercici": 6,
+      "questio": 1,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Període mitjà de maduració i necessitats de fons de maniobra",
+      "tema": "financament",
+      "temes_secundaris": [
+        "comptabilitat"
+      ],
+      "conceptes": [
+        "període mitjà de maduració",
+        "fons de maniobra",
+        "cicle d'explotació"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Normalment, com més curt sigui el període mitjà de maduració financer d’una empresa, les necessitats de fons de maniobra seran",
+      "figures": [],
+      "opcions": {
+        "a": "més petites.",
+        "b": "més grans.",
+        "c": "independents del període mitjà de maduració financer.",
+        "d": "constants."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (que només compta si és un dels quatre exercicis triats): cada encert val 0,5 punts i cada error resta 0,15 punts (les no contestades no resten). Si pots descartar dues opcions amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. El període mitjà de maduració financer és el temps que passa des que l’empresa paga als proveïdors fins que cobra dels clients. Durant aquest temps ha de finançar el cicle d’explotació; com més curt sigui, menys recursos queden immobilitzats en existències i clients i, per tant, menors són les necessitats de fons de maniobra. Les opcions c) i d) són falses perquè hi ha una relació directa entre les dues magnituds, i la b) diu el contrari."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2023-S-e6-q2",
+      "exercici": 6,
+      "questio": 2,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Anàlisi de la cadena de valor: fortaleses i debilitats",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "cadena de valor",
+        "anàlisi interna",
+        "dafo"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "L’anàlisi de la cadena de valor permet a l’empresa detectar",
+      "figures": [],
+      "opcions": {
+        "a": "fortaleses i oportunitats.",
+        "b": "debilitats i amenaces.",
+        "c": "fortaleses i debilitats.",
+        "d": "amenaces i oportunitats."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (que només compta si és un dels quatre exercicis triats): cada encert val 0,5 punts i cada error resta 0,15 punts (les no contestades no resten). Si pots descartar dues opcions amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. La cadena de valor (Porter) analitza les activitats **internes** de l’empresa (primàries i de suport) per veure on es crea valor; per tant, és una eina d’anàlisi interna que detecta **fortaleses i debilitats**. Les oportunitats i amenaces provenen de l’entorn (anàlisi externa), així que totes les opcions que les inclouen són incorrectes."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2023-S-e6-q3",
+      "exercici": 6,
+      "questio": 3,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Classificació de les inversions segons el suport",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "tipus d'inversions",
+        "inversions físiques",
+        "inversions immaterials",
+        "inversions financeres"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Les inversions es poden classificar tenint en compte diferents criteris. Segons el suport de la inversió, poden ser",
+      "figures": [],
+      "opcions": {
+        "a": "inversions a llarg i a curt termini.",
+        "b": "inversions en béns reals i inversions en béns financers.",
+        "c": "inversions físiques, immaterials o financeres.",
+        "d": "inversions substitutives, complementàries o independents."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (que només compta si és un dels quatre exercicis triats): cada encert val 0,5 punts i cada error resta 0,15 punts (les no contestades no resten). Si pots descartar dues opcions amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta oficial és la **c)**: segons el suport (l’element en què es materialitza la inversió) es distingeixen inversions **físiques** (béns materials: maquinària, edificis), **immaterials** (patents, programari, formació) i **financeres** (accions, bons). La a) classifica segons la durada; la d), segons la relació entre projectes. La b) s’hi assembla però és una classificació més genèrica (segons la naturalesa del bé) i no inclou els intangibles com a categoria pròpia; per això els criteris donen la c)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2023-S-e6-q4",
+      "exercici": 6,
+      "questio": 4,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Pla d’empresa: presentació del projecte i dels promotors",
+      "tema": "emprenedoria",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pla d'empresa",
+        "presentació del projecte",
+        "promotors",
+        "idea de negoci"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "El primer punt que cal tenir en compte en l’elaboració d’un pla d’empresa és la presentació del projecte i dels promotors, que inclou els elements següents:",
+      "figures": [],
+      "opcions": {
+        "a": "l’anàlisi de l’entorn general, l’anàlisi de la competència, l’anàlisi dels consumidors i l’estudi de la localització.",
+        "b": "la idea de negoci, la descripció de l’empresa, el nom de l’empresa i les dades personals de les persones que emprenen i promouen l’empresa.",
+        "c": "les aptituds, les relacions i les característiques de les persones que treballaran a l’empresa i el pla d’inversions.",
+        "d": "els processos productius, els recursos materials, les existències, els costos i els recursos humans."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (que només compta si és un dels quatre exercicis triats): cada encert val 0,5 punts i cada error resta 0,15 punts (les no contestades no resten). Si pots descartar dues opcions amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. La presentació del projecte i dels promotors explica **què** es vol fer (idea de negoci, descripció i nom de l’empresa) i **qui** ho fa (dades de les persones emprenedores). L’opció a) correspon a l’anàlisi de l’entorn i el pla de màrqueting; la c) barreja recursos humans i pla economicofinancer; la d) és el pla de producció/operacions."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2023-S-e6-q5",
+      "exercici": 6,
+      "questio": 5,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Màrqueting mix: la comunicació forma part de la promoció",
+      "tema": "marqueting",
+      "temes_secundaris": [],
+      "conceptes": [
+        "màrqueting mix",
+        "4p",
+        "promoció",
+        "comunicació"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "En relació amb el màrqueting mix, les accions de comunicació que fan les empreses formen part de l’estratègia de",
+      "figures": [],
+      "opcions": {
+        "a": "producte.",
+        "b": "preu.",
+        "c": "promoció.",
+        "d": "distribució."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (que només compta si és un dels quatre exercicis triats): cada encert val 0,5 punts i cada error resta 0,15 punts (les no contestades no resten). Si pots descartar dues opcions amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. De les quatre P del màrqueting mix, la **promoció** (o comunicació) agrupa totes les accions per informar i persuadir els clients: publicitat, promoció de vendes, relacions públiques, venda personal i màrqueting digital. Producte, preu i distribució són les altres tres variables."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    }
+  ]
+}
