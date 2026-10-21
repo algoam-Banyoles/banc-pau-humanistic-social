@@ -1,0 +1,802 @@
+{
+  "examen": {
+    "id": "empresa-2020-J",
+    "assignatura": "empresa",
+    "materia": "Economia de l’empresa",
+    "any": 2020,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/empresa/2020-J-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2020-J-solucio.pdf",
+    "estructura": "Sèrie 1. Cal respondre QUATRE dels sis exercicis (2,5 punts cadascun); si se’n responen més, només es valoren els quatre primers. Exercici 1: compte de pèrdues i guanys, rendibilitat econòmica i diferència amb la financera. Exercici 2: VAN, decisió segons la TIR i termini de recuperació de dos hivernacles. Exercici 3: balanç de situació i definició de quatre fonts de finançament. Exercici 4: pimes, formes de creixement i estratègies d’internacionalització (teoria). Exercici 5: marge de contribució, punt mort i benefici d’una cooperativa, i característiques de les cooperatives. Exercici 6: 5 preguntes de test (0,5 punts per encert, −0,1 per error, les no contestades no resten; l’exercici no pot ser negatiu). Les pautes valoren la correcció del vocabulari econòmic i els errors de càlcul només es descompten una vegada."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2020-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Cosbra, SL: compte de pèrdues i guanys, rendibilitat econòmica i diferència amb la rendibilitat financera",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "compte de pèrdues i guanys",
+        "impost sobre beneficis",
+        "baii",
+        "rendibilitat econòmica",
+        "rendibilitat financera",
+        "ràtios"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "L’empresa Cosbra, SL presenta, a 31 de desembre de 2019, una llista amb les dades comptables següents:\n\n| Concepte | Import (milers de €) |\n|---|---:|\n| Despeses de personal | 900 |\n| Altres ingressos d’explotació | 100 |\n| Despeses financeres | 50 |\n| Proveïments | 1.300 |\n| Amortització de l’immobilitzat | 700 |\n| Altres despeses d’explotació | 300 |\n| Import net de la xifra de negocis | 3.300 |\n| Ingressos financers | 150 |",
+      "enunciat": "Llegiu les dades i responeu els apartats 1.1, 1.2 i 1.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1.1",
+          "punts": 1,
+          "enunciat": "A partir d’aquestes dades, elaboreu el compte de pèrdues i guanys de l’empresa Cosbra, SL tenint en compte que l’impost sobre beneficis és del 30 %."
+        },
+        {
+          "id": "1.2",
+          "punts": 1,
+          "enunciat": "Sabent que el total de l’actiu té un valor de 4.000 €, calculeu la rendibilitat econòmica abans d’interessos i d’impostos i interpreteu la xifra obtinguda."
+        },
+        {
+          "id": "1.3",
+          "punts": 0.5,
+          "enunciat": "Expliqueu la diferència que hi ha entre la rendibilitat econòmica i la rendibilitat financera sense fer cap càlcul."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici clàssic de **comptabilitat** (uns 20-25 minuts). Totes les partides de la taula són d’ingressos o de despeses, i estan en **milers d’euros**: indica-ho a la capçalera del compte. A l’1.1 cal ordenar les partides en resultat d’explotació, resultat financer, BAI i resultat net. A l’1.2 només necessites el BAII de l’1.1. L’1.3 és teòrica: no facis càlculs. Les pautes diuen que només puntuen els encerts (els errors no resten), que no s’hi han d’afegir partides que no surtin a l’enunciat (excepte l’impost) i que un error de càlcul només es descompta una vegada."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Ingressos d’explotació** = import net de la xifra de negocis + altres ingressos d’explotació $= 3.300 + 100 = 3.400$.\n2. **Despeses d’explotació** = proveïments + personal + amortització + altres despeses $= 1.300 + 900 + 700 + 300 = 3.200$.\n3. **Resultat d’explotació (BAII)** $= 3.400 - 3.200 = 200$.\n4. **Resultat financer** $= 150 - 50 = 100$.\n5. **BAI** $= 200 + 100 = 300$.\n6. **Impost sobre beneficis** $= 0{,}30 \\cdot 300 = 90$; **resultat net** $= 300 - 90 = 210$.\n\nL’impost es calcula sempre sobre el **BAI** (no sobre el BAII)."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Resposta model",
+            "cos": "**Compte de pèrdues i guanys de Cosbra, SL a 31-12-2019 (milers de €)**\n\n| Concepte | Import (milers de €) |\n|---|---:|\n| Import net de la xifra de negocis | 3.300 |\n| Altres ingressos d’explotació | 100 |\n| **Total ingressos d’explotació** | **3.400** |\n| − Proveïments | −1.300 |\n| − Despeses de personal | −900 |\n| − Amortització de l’immobilitzat | −700 |\n| − Altres despeses d’explotació | −300 |\n| **Total despeses d’explotació** | **−3.200** |\n| **= Resultat d’explotació (BAII)** | **200** |\n| + Ingressos financers | 150 |\n| − Despeses financeres | −50 |\n| **Resultat financer** | **100** |\n| **= Resultat abans d’impostos (BAI)** | **300** |\n| − Impost sobre beneficis (30 %) | −90 |\n| **= Resultat net de l’exercici** | **210** |"
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Com plantejar-ho",
+            "cos": "$$\\text{RE} = \\frac{\\text{BAII}}{\\text{Actiu total}} \\cdot 100$$\n\nL’enunciat diu «4.000 €», però totes les dades de l’exercici són en milers d’euros. Les pautes **accepten les dues interpretacions**:\n\n- **Opció 1** (la més raonable): l’actiu és de 4.000 milers de € → $\\text{RE} = \\frac{200}{4.000} \\cdot 100 = 5\\ \\%$.\n- **Opció 2**: l’actiu és de 4.000 € i el BAII de 200.000 € → $\\text{RE} = \\frac{200.000}{4.000} \\cdot 100 = 5.000\\ \\%$.\n\nEscull-ne una, digues quina hipòtesi fas i, sobretot, **interpreta** el resultat (és la meitat de la puntuació)."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Resposta model",
+            "cos": "Considerant que l’actiu total és de 4.000 milers de € (com la resta de dades de l’exercici):\n\n$$\\text{RE} = \\frac{\\text{BAII}}{\\text{Actiu total}} \\cdot 100 = \\frac{200}{4.000} \\cdot 100 = 5\\ \\%$$\n\n**Interpretació**: la rendibilitat econòmica relaciona el benefici abans d’interessos i impostos generat per l’activitat de l’empresa amb el total de la inversió (actiu) necessària per obtenir-lo. Un 5 % vol dir que, per cada 100 € invertits en l’actiu, Cosbra obté 5 € de BAII (5 cèntims per euro invertit). Com més alta és aquesta ràtio, més productiu és l’actiu de l’empresa.\n\n(Si s’interpreta que l’actiu és de 4.000 € literals, la RE seria $200.000 / 4.000 \\cdot 100 = 5.000\\ \\%$: per cada euro invertit s’obtindrien 50 € de BAII. Les pautes també la donen per bona.)"
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Compara les dues ràtios en tres eixos: **quin benefici** fan servir (BAII vs. benefici net), **amb què el relacionen** (actiu total = inversió vs. patrimoni net = finançament dels propietaris) i **què mesuren** (rendiment de la inversió vs. remuneració dels socis). No cal definir-les per separat si expliques bé la diferència."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Resposta model",
+            "cos": "La **rendibilitat econòmica** relaciona el benefici amb la **inversió**: compara el benefici abans d’interessos i impostos (BAII) amb el total de l’actiu, és a dir, amb tots els recursos invertits per obtenir-lo, independentment de com s’hagin finançat ($\\text{BAII}/\\text{Actiu total}$). Mesura el rendiment dels actius de l’empresa.\n\nLa **rendibilitat financera** relaciona el benefici amb el **finançament propi**: compara el benefici net (després d’interessos i impostos) amb el patrimoni net, és a dir, amb els recursos aportats pels propietaris ($\\text{BN}/\\text{Patrimoni net}$). Mesura la remuneració que obtenen els socis o accionistes pel capital que hi tenen invertit.\n\nEn definitiva, la primera informa de la rendibilitat de la inversió total de l’empresa i la segona, de la rendibilitat per als propietaris."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1.1",
+            "valor": "Ingressos d’explotació 3.400, despeses d’explotació 3.200, BAII 200, resultat financer 100, BAI 300, impost 90, resultat net 210 (milers de €)."
+          },
+          {
+            "apartat": "1.2",
+            "valor": "RE = BAII / actiu total = 200 / 4.000 = 5 % (s’accepta també 200.000 / 4.000 = 5.000 % si es pren l’actiu en euros) + interpretació: benefici obtingut per cada euro invertit en l’actiu."
+          },
+          {
+            "apartat": "1.3",
+            "valor": "RE: BAII / actiu total, rendibilitat de la inversió. RF: benefici net / patrimoni net, remuneració dels propietaris."
+          }
+        ],
+        "nota": "Errors típics: calcular l’impost sobre el BAII (300 és la base, no 200); posar l’amortització com a despesa financera; oblidar indicar que les xifres són en milers d’euros. A l’1.2, l’enunciat barreja unitats (actiu «4.000 €» i dades en milers de €): les pautes accepten tant el 5 % com el 5.000 %, però cal ser coherent i interpretar el resultat. Hem verificat amb Python tots els imports de l’oficial (coincideixen)."
+      }
+    },
+    {
+      "id": "empresa-2020-J-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Hivernacle al terrat: VAN de dos models, decisió segons la TIR i termini de recuperació",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "valor actual net",
+        "van",
+        "taxa interna de rendibilitat",
+        "tir",
+        "termini de recuperació",
+        "payback",
+        "selecció d’inversions"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "La Laia està decidida a instal·lar un modern hivernacle al terrat de l’edifici d’habitatges on viu per a cultivar-hi verdures i aconseguir ingressos per a la comunitat de veïns venent-les. Ha recollit la informació de dos models d’hivernacle i vol saber quin seria el més aconsellable econòmicament per a presentar la proposta a la propera reunió de veïns.\n\nEn la taula següent es mostra la inversió o desemborsament inicial, l’estimació dels fluxos de caixa nets (FCN) per a cada projecte i el valor residual al final de la seva vida. Els imports s’expressen en euros.\n\n| Projecte | Inversió o desemborsament inicial | Any 1 FCN | Any 2 FCN | Any 3 FCN | Any 4 FCN | Any 5 FCN | Any 5 Valor residual |\n|---|---:|---:|---:|---:|---:|---:|---:|\n| Model 1 | 20.000 | 5.000 | 5.000 | 5.000 | 5.000 | 5.000 | 0 |\n| Model 2 | 15.000 | 4.000 | 4.000 | 4.000 | 4.000 | 4.000 | 0 |\n\nNota: Cost de capital (o taxa d’actualització o de descompte): 4 %.",
+      "enunciat": "Llegiu l’enunciat i responeu els apartats 2.1, 2.2 i 2.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "punts": 1,
+          "enunciat": "Expliqueu què és el criteri del valor actual net (VAN). Calculeu el VAN de cada projecte i digueu quin dels dos models d’hivernacle recomanaríeu tenint en compte aquest criteri. Justifiqueu la resposta."
+        },
+        {
+          "id": "2.2",
+          "punts": 0.5,
+          "enunciat": "Quina decisió prendríeu davant de cadascun dels dos projectes d’inversió amb els valors de la TIR següents, sabent que la taxa d’actualització del mercat és del 4 %? Justifiqueu les respostes per a cadascuna de les TIR proposades a continuació, sense fer cap càlcul.\n\n*a*) TIR1 = 8 %.\n\n*b*) TIR2 = 3 %."
+        },
+        {
+          "id": "2.3",
+          "punts": 1,
+          "enunciat": "Calculeu el termini de recuperació (o payback) per a cadascun dels dos projectes. Quin projecte és més recomanable segons aquest criteri? Raoneu la resposta."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de **selecció d’inversions** (uns 25 minuts) amb tres criteris: un de dinàmic (VAN), la interpretació de la TIR i un d’estàtic (payback). Escriu sempre la fórmula, la substitució i el resultat amb unitats (€, anys i mesos), i acaba cada apartat amb una **decisió justificada**. Fes servir 2 decimals. El valor residual és 0, així que no altera els càlculs."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "$$\\text{VAN} = -A + \\sum_{t=1}^{n} \\frac{\\text{FCN}_t}{(1+k)^t}$$\n\namb $A$ el desemborsament inicial i $k = 0{,}04$. Actualitza cada flux per separat (o fes servir la suma) i resta la inversió. Criteri: s’accepta si $\\text{VAN} > 0$ i, entre dos projectes, es tria el de **VAN més alt**."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "**Definició**: el VAN és la diferència entre el valor actual dels fluxos de caixa nets que generarà una inversió, actualitzats a una taxa de descompte, i el desemborsament inicial. Si és positiu, la inversió genera riquesa (recupera el desemborsament i encara aporta un excedent) i és aconsellable.\n\n**Model 1**\n\n$$\\text{VAN}_1 = -20.000 + \\frac{5.000}{1{,}04} + \\frac{5.000}{1{,}04^2} + \\frac{5.000}{1{,}04^3} + \\frac{5.000}{1{,}04^4} + \\frac{5.000 + 0}{1{,}04^5}$$\n\n$$\\text{VAN}_1 = -20.000 + (4.807{,}69 + 4.622{,}78 + 4.444{,}98 + 4.274{,}02 + 4.109{,}64) = -20.000 + 22.259{,}11 = 2.259{,}11$$ €\n\n**Model 2**\n\n$$\\text{VAN}_2 = -15.000 + \\frac{4.000}{1{,}04} + \\frac{4.000}{1{,}04^2} + \\frac{4.000}{1{,}04^3} + \\frac{4.000}{1{,}04^4} + \\frac{4.000 + 0}{1{,}04^5}$$\n\n$$\\text{VAN}_2 = -15.000 + (3.846{,}15 + 3.698{,}22 + 3.555{,}99 + 3.419{,}22 + 3.287{,}71) = -15.000 + 17.807{,}29 = 2.807{,}29$$ €\n\n**Decisió**: tots dos projectes són efectuables, perquè tenen un VAN positiu (recuperen el desemborsament i generen riquesa). Recomanaria el **model 2**, perquè el seu VAN (2.807,29 €) és superior al del model 1 (2.259,11 €): aporta més valor actual net a la comunitat de veïns, i a més amb una inversió inicial més petita."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "La TIR és la taxa de descompte que fa el VAN igual a zero, és a dir, la rendibilitat del projecte. Regla: si $\\text{TIR} > k$ s’accepta (VAN positiu); si $\\text{TIR} < k$ es rebutja (VAN negatiu). Compara cada TIR amb el 4 % i justifica-ho."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "*a*) **TIR1 = 8 %**: **acceptaria** el projecte. La seva rendibilitat (8 %) és superior a la taxa d’actualització del mercat (4 %); per tant, el VAN calculat al 4 % seria positiu i la inversió generaria guanys.\n\n*b*) **TIR2 = 3 %**: **rebutjaria** el projecte. El rendiment de la inversió (3 %) és inferior al cost del capital o taxa del mercat (4 %); el VAN al 4 % seria negatiu i seria preferible col·locar els diners al mercat."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Com plantejar-ho",
+            "cos": "El payback és el temps que es triga a recuperar el desemborsament inicial amb els FCN **sense actualitzar**. Ves acumulant fluxos fins arribar a la inversió; si s’hi arriba a mig any, fes una regla de tres (suposant fluxos uniformes dins l’any): $\\text{mesos} = \\frac{\\text{import pendent}}{\\text{FCN de l’any}} \\cdot 12$. Es prefereix el projecte que es recupera **abans**."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Resposta model",
+            "cos": "**Model 1** (inversió 20.000 €): $5.000 + 5.000 + 5.000 + 5.000 = 20.000$ € → es recupera exactament en **4 anys**.\n\n**Model 2** (inversió 15.000 €): en tres anys es recuperen $4.000 \\cdot 3 = 12.000$ €; en falten 3.000. El quart any genera 4.000 €:\n\n$$x = \\frac{3.000}{4.000} \\cdot 12 = 9 \\text{ mesos}$$\n\n→ es recupera en **3 anys i 9 mesos** (3,75 anys).\n\n**Decisió**: segons el termini de recuperació és més recomanable el **model 2**, perquè es recupera la inversió en menys temps (3 anys i 9 mesos davant de 4 anys) i, per tant, té menys risc. Coincideix amb la recomanació del VAN."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "Definició del VAN. VAN1 = 2.259,11 €; VAN2 = 2.807,29 €. Tots dos efectuables (VAN > 0); es recomana el model 2 (VAN més alt)."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "a) TIR 8 % > 4 %: s’accepta (VAN positiu). b) TIR 3 % < 4 %: es rebutja (rendiment inferior al del mercat)."
+          },
+          {
+            "apartat": "2.3",
+            "valor": "Payback model 1 = 4 anys; model 2 = 3 anys i 9 mesos. Més recomanable el model 2 (es recupera abans)."
+          }
+        ],
+        "nota": "Comprovat amb Python: els VAN coincideixen amb l’oficial (2.259,11 € i 2.807,29 €). A tall d’informació, les TIR reals dels projectes són aproximadament un 7,9 % (model 1) i un 10,4 % (model 2); les TIR de l’apartat 2.2 són hipotètiques i no cal calcular-les. Errors típics: actualitzar el payback (és un criteri estàtic), oblidar restar el desemborsament al VAN, o recomanar un projecte sense justificar-ho."
+      }
+    },
+    {
+      "id": "empresa-2020-J-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "TuTu, SA: balanç de situació per masses patrimonials i fonts de finançament (lísing, préstec, descompte d’efectes, pòlissa)",
+      "tema": "comptabilitat",
+      "temes_secundaris": [
+        "financament"
+      ],
+      "conceptes": [
+        "balanç de situació",
+        "masses patrimonials",
+        "lísing",
+        "préstec a llarg termini",
+        "descompte d’efectes",
+        "pòlissa de crèdit",
+        "finançament aliè"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "L’empresa TuTu, SA presenta la informació comptable següent a 31 de desembre de 2019:\n\n| Concepte | Import (€) |\n|---|---:|\n| Mobiliari | 4.000 |\n| Elements de transport | 20.000 |\n| Equips per a processos d’informació | 3.000 |\n| Proveïdors | 15.000 |\n| Creditors per prestació de serveis | 10.000 |\n| Proveïdors de l’immobilitzat a curt termini | 5.000 |\n| Deutes a curt termini amb entitats de crèdit | 3.000 |\n| Concessions administratives, propietat industrial i drets de traspàs | 47.000 |\n| Aplicacions informàtiques | 3.000 |\n| Proveïdors de l’immobilitzat a llarg termini | 20.000 |\n| Deutes a llarg termini amb entitats de crèdit | 40.000 |\n| Bancs i institucions de crèdit | 9.000 |\n| Caixa | 1.000 |\n| Terrenys i béns naturals | 73.000 |\n| Construccions | 290.000 |\n| Capital / capital social | 340.000 |\n| Reserves | 50.000 |\n| Resultat de l’exercici | 10.000 |\n| Clients | 50.000 |\n| Hisenda pública creditora per conceptes fiscals | 4.000 |\n| Organismes de la Seguretat Social creditors | 3.000 |\n\nNota: Tots els comptes de l’immobilitzat es presenten amb el valor comptable net.",
+      "enunciat": "Llegiu les dades i responeu els apartats 3.1 i 3.2.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "3.1",
+          "punts": 1.5,
+          "enunciat": "A partir de les dades proporcionades, elaboreu el balanç de situació d’aquesta empresa, degudament classificat per masses patrimonials, en data 31 de desembre de 2019. Només hi heu d’incloure aquelles masses o elements patrimonials que figurin en la taula."
+        },
+        {
+          "id": "3.2",
+          "punts": 1,
+          "enunciat": "Definiu les quatre fonts de finançament següents [0,25 punts per cada definició]:\n\n*a*) Lísing.\n\n*b*) Préstec a llarg termini.\n\n*c*) Descompte d’efectes.\n\n*d*) Pòlissa de crèdit."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Una part pràctica (balanç, 1,5 punts, uns 15-20 minuts) i una de teoria (quatre definicions de 0,25 punts). Al balanç, classifica cada compte en la seva massa i submassa i comprova que **actiu = patrimoni net + passiu**. Segons les pautes, cada element mal ubicat val zero (no resta), l’ordre dins d’una mateixa massa no importa i no s’hi han d’afegir comptes que no surtin a l’enunciat."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Immobilitzat intangible** (drets i programes): concessions, propietat industrial i drets de traspàs + aplicacions informàtiques $= 47.000 + 3.000 = 50.000$ €.\n2. **Immobilitzat material** (béns físics duradors): terrenys, construccions, mobiliari, elements de transport i equips informàtics $= 73.000 + 290.000 + 4.000 + 20.000 + 3.000 = 390.000$ €.\n3. **Actiu corrent**: realitzable (clients 50.000 €) i disponible (bancs 9.000 + caixa 1.000 = 10.000 €) → 60.000 €.\n4. **Patrimoni net**: capital + reserves + resultat $= 340.000 + 50.000 + 10.000 = 400.000$ €.\n5. **Passiu no corrent** (venciment > 1 any): proveïdors d’immobilitzat a l.t. + deutes a l.t. amb entitats de crèdit $= 20.000 + 40.000 = 60.000$ €.\n6. **Passiu corrent**: proveïdors, creditors, proveïdors d’immobilitzat a c.t., deutes a c.t., Hisenda creditora i Seguretat Social creditora $= 15.000 + 10.000 + 5.000 + 3.000 + 4.000 + 3.000 = 40.000$ €.\n\nComprovació: $440.000 + 60.000 = 500.000 = 400.000 + 60.000 + 40.000$. Compte: els **proveïdors d’immobilitzat** són deutes per la compra d’actius fixos, no proveïdors de mercaderies, però van igualment al passiu (corrent o no corrent segons el termini)."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Resposta model",
+            "cos": "**Balanç de situació de TuTu, SA a 31-12-2019 (€)**\n\n| ACTIU | € |\n|---|---:|\n| **ACTIU NO CORRENT** | **440.000** |\n| **Immobilitzat intangible** | **50.000** |\n| Concessions administratives, propietat industrial i drets de traspàs | 47.000 |\n| Aplicacions informàtiques | 3.000 |\n| **Immobilitzat material** | **390.000** |\n| Terrenys i béns naturals | 73.000 |\n| Construccions | 290.000 |\n| Mobiliari | 4.000 |\n| Elements de transport | 20.000 |\n| Equips per a processos d’informació | 3.000 |\n| **ACTIU CORRENT** | **60.000** |\n| **Realitzable** | **50.000** |\n| Clients | 50.000 |\n| **Disponible** | **10.000** |\n| Bancs i institucions de crèdit | 9.000 |\n| Caixa | 1.000 |\n| **TOTAL ACTIU** | **500.000** |\n\n| PATRIMONI NET I PASSIU | € |\n|---|---:|\n| **PATRIMONI NET** | **400.000** |\n| Capital / capital social | 340.000 |\n| Reserves | 50.000 |\n| Resultat de l’exercici | 10.000 |\n| **PASSIU NO CORRENT** | **60.000** |\n| Proveïdors de l’immobilitzat a llarg termini | 20.000 |\n| Deutes a llarg termini amb entitats de crèdit | 40.000 |\n| **PASSIU CORRENT** | **40.000** |\n| Proveïdors | 15.000 |\n| Creditors per prestació de serveis | 10.000 |\n| Proveïdors de l’immobilitzat a curt termini | 5.000 |\n| Deutes a curt termini amb entitats de crèdit | 3.000 |\n| Hisenda pública creditora per conceptes fiscals | 4.000 |\n| Organismes de la Seguretat Social creditors | 3.000 |\n| **TOTAL PATRIMONI NET I PASSIU** | **500.000** |\n\nL’actiu total (500.000 €) coincideix amb la suma del patrimoni net i el passiu (400.000 + 60.000 + 40.000 = 500.000 €), de manera que el balanç quadra."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Per a cada font, digues **què és** (tipus de contracte o operació), **qui hi intervé** i **per a què serveix** o quin cost té. Recorda: lísing i préstec a llarg termini són finançament aliè a llarg termini; descompte d’efectes i pòlissa de crèdit, finançament aliè a curt termini."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Resposta model",
+            "cos": "*a*) **Lísing**: contracte d’arrendament d’un bé (normalment immobilitzat) que incorpora una **opció de compra** a favor de l’arrendatari, exercible al final del contracte. Per les seves característiques no hi ha dubte que l’opció s’exercirà, perquè el seu import és molt inferior al valor del bé en aquell moment.\n\n*b*) **Préstec a llarg termini**: contracte pel qual una entitat de crèdit lliura a l’empresa un import pactat, que l’empresa ha de tornar en un termini superior a un any segons un pla d’amortització establert, pagant-ne els interessos acordats.\n\n*c*) **Descompte d’efectes**: operació en què l’empresa cedeix a una entitat financera un efecte comercial (lletra de canvi, pagaré...) encara no vençut perquè n’**avanci l’import** i en gestioni el cobrament; el banc li abona l’import descomptant-hi els interessos i les comissions pel servei.\n\n*d*) **Pòlissa de crèdit**: contracte pel qual una entitat financera posa a disposició de l’empresa una quantitat màxima de diners durant un període, de la qual l’empresa disposa segons les necessitats, per cobrir desfasaments entre cobraments i pagaments. Paga interessos només sobre la quantitat disposada, a més d’una comissió d’obertura i, de vegades, una comissió per la part no disposada."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "3.1",
+            "valor": "Actiu no corrent 440.000 € (intangible 50.000; material 390.000); actiu corrent 60.000 € (realitzable 50.000; disponible 10.000); total actiu 500.000 €. Patrimoni net 400.000 €; passiu no corrent 60.000 €; passiu corrent 40.000 €; total 500.000 €."
+          },
+          {
+            "apartat": "3.2",
+            "valor": "Lísing: lloguer amb opció de compra. Préstec a l.t.: import lliurat per una entitat de crèdit que es retorna amb interessos segons un pla d’amortització. Descompte d’efectes: el banc avança l’import d’efectes no vençuts descomptant-ne interessos i comissions. Pòlissa de crèdit: disponibilitat de diners fins a un límit; interessos sobre el disposat i comissions."
+          }
+        ],
+        "nota": "La solució oficial té una errada tipogràfica: escriu «Construccions 290.0000»; l’import correcte és 290.000 € (els totals de l’oficial, 390.000 i 500.000, ho confirmen). Errors típics: posar les aplicacions informàtiques a l’immobilitzat material (són intangible) i confondre-les amb els equips per a processos d’informació (material); posar els proveïdors d’immobilitzat a l.t. al passiu corrent; oblidar el resultat de l’exercici al patrimoni net. A les definicions, no cal que el text sigui exacte a l’oficial."
+      }
+    },
+    {
+      "id": "empresa-2020-J-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Pimes: avantatges i inconvenients, creixement intern i extern, i estratègies d’internacionalització",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pimes",
+        "creixement intern",
+        "creixement extern",
+        "internacionalització",
+        "estratègia multidomèstica",
+        "estratègia global",
+        "estratègia transnacional"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        8,
+        9
+      ],
+      "text": "",
+      "enunciat": "Responeu els apartats 4.1, 4.2 i 4.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "4.1",
+          "punts": 0.8,
+          "enunciat": "Les petites i mitjanes empreses (pimes) tenen avantatges i inconvenients. Empleneu la taula següent amb dues característiques de cada tipus (sense explicar-les).\n\n| Avantatges de les pimes | Inconvenients de les pimes |\n|---|---|\n| 1. | 1. |\n| 2. | 2. |"
+        },
+        {
+          "id": "4.2",
+          "punts": 0.8,
+          "enunciat": "Sempre s’ha comentat que un dels sistemes que tenen les pimes per a sobreviure en un entorn fortament competitiu és créixer. Expliqueu quines formes de creixement empresarial existeixen i esmenteu dos avantatges de cadascuna."
+        },
+        {
+          "id": "4.3",
+          "punts": 0.9,
+          "enunciat": "Si una pime es vol obrir als mercats internacionals pot optar per tres estratègies d’internacionalització. Esmenteu aquestes tres estratègies i expliqueu-ne només una."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici totalment teòric (uns 20 minuts) sobre dimensió i estratègia de l’empresa. Ajusta’t a allò que es demana: al 4.1, **només citar** dues característiques de cada columna (sense explicar); al 4.2, explicar les dues formes de creixement i **dos** avantatges de cadascuna; al 4.3, **anomenar les tres** estratègies i **explicar-ne només una**. Explicar-ne més no suma punts i fa perdre temps."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Pensa en el que dona i el que treu la mida petita: flexibilitat i proximitat (avantatges) davant de pocs recursos financers, tècnics i de formació (inconvenients)."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Resposta model",
+            "cos": "| Avantatges de les pimes | Inconvenients de les pimes |\n|---|---|\n| 1. Organització flexible | 1. Poca capacitat financera |\n| 2. Integració del personal | 2. Obsolescència tecnològica |\n\n(També són vàlids: desenvolupament en mercats intersticials, creació d’ocupació; poca formació empresarial, baix nivell de qualificació i formació tècnica del personal.)"
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Defineix el **creixement intern** (inversions en la pròpia estructura) i el **creixement extern** (adquisició, participació o control d’altres empreses), i dona dos avantatges de cadascun. Un truc: l’intern és **gradual i ordenat**; l’extern és **ràpid** i permet **saltar barreres d’entrada**."
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Resposta model",
+            "cos": "Hi ha dues formes de creixement empresarial:\n\n**Creixement intern** (natural o orgànic): l’empresa augmenta la seva dimensió mitjançant inversions en la seva pròpia estructura (noves instal·lacions, maquinària, més personal, nous productes). Avantatges:\n- Permet incorporar factors de producció més actuals (personal amb formació més actualitzada, maquinària i tecnologia d’última generació).\n- És un creixement més organitzat i gradual, que permet adaptar progressivament l’estructura organitzativa a la nova dimensió.\n\n**Creixement extern**: l’empresa creix mitjançant l’adquisició, la participació o el control d’altres empreses (fusions, absorcions, compres de participacions...). Avantatges:\n- Estalvi de temps: és molt més ràpid, perquè la dimensió augmenta des del moment en què es tanca l’operació.\n- Permet superar les barreres d’entrada a un sector o a un mercat geogràfic on créixer internament seria molt difícil, i entrar en mercats madurs sense augmentar-hi la sobrecapacitat."
+          },
+          {
+            "apartat": "4.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Les tres estratègies es diferencien pel grau de **centralització** i d’**adaptació local**: multidomèstica (molta adaptació, filials autònomes), global (producte estàndard, decisions centralitzades) i transnacional (visió global, actuació local; intermèdia). Tria la que expliquis amb més seguretat."
+          },
+          {
+            "apartat": "4.3",
+            "titol": "Resposta model",
+            "cos": "Les tres estratègies d’internacionalització són l’**estratègia multidomèstica**, l’**estratègia global** i l’**estratègia transnacional**.\n\n**Estratègia multidomèstica**: l’empresa descentralitza la seva organització i les decisions de producció i de comerç en cada país on opera. Cada filial té una certa independència respecte de la seu central i dona una resposta adaptada a les característiques, els recursos i les necessitats locals: contracta treballadors del país, s’adapta a les seves normatives i planifica el producte i el màrqueting d’acord amb els gustos i requeriments dels consumidors de cada mercat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "4.1",
+            "valor": "Avantatges (dos): organització flexible, integració del personal, desenvolupament en mercats intersticials, creació d’ocupació. Inconvenients (dos): poca formació empresarial, poca capacitat financera, baixa qualificació tècnica del personal, obsolescència tecnològica."
+          },
+          {
+            "apartat": "4.2",
+            "valor": "Creixement intern (inversions pròpies): factors de producció més actuals, creixement organitzat i gradual. Creixement extern (adquisició o control d’altres empreses): rapidesa, superar barreres d’entrada, entrada en mercats madurs."
+          },
+          {
+            "apartat": "4.3",
+            "valor": "Multidomèstica, global i transnacional; explicació correcta d’una sola (descentralització i adaptació local / centralització i producte estàndard / visió global i actuació local)."
+          }
+        ],
+        "nota": "Errors típics: explicar les característiques del 4.1 quan només es demana citar-les; confondre creixement extern amb internacionalització; explicar les tres estratègies al 3 (només en puntua una). Les pautes no busquen la perfecció: qualsevol explicació que argumenti correctament es dona per bona."
+      }
+    },
+    {
+      "id": "empresa-2020-J-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Cooperativa Bonaapp: marge de contribució, punt mort, benefici i característiques de les cooperatives",
+      "tema": "produccio",
+      "temes_secundaris": [
+        "empresa-entorn"
+      ],
+      "conceptes": [
+        "marge de contribució",
+        "punt mort",
+        "llindar de rendibilitat",
+        "costos fixos",
+        "costos variables",
+        "cooperatives",
+        "forma jurídica"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        9,
+        10
+      ],
+      "text": "La societat cooperativa Bonaapp es dedica a la investigació i venda de diverses aplicacions per a dispositius mòbils, amb els costos següents:\n\n- Lloguer fix anual del local: 30.000 €.\n- Cost fix anual dels socis treballadors de l’empresa: 250.000 €.\n- Cost fix total per la compra dels ordinadors al llarg de cinc anys: 80.000 €.\n- Comissió de distribució de les aplicacions: 0,2 € la unitat.\n\nEl preu unitari de cada descàrrega és d’1 €.",
+      "enunciat": "Llegiu l’enunciat i responeu els apartats 5.1, 5.2, 5.3 i 5.4.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "5.1",
+          "punts": 0.6,
+          "enunciat": "Calculeu el marge de contribució unitari per descàrrega de les aplicacions que comercialitza la cooperativa."
+        },
+        {
+          "id": "5.2",
+          "punts": 0.6,
+          "enunciat": "Calculeu el punt mort, és a dir, quantes descàrregues anuals seran necessàries perquè l’empresa pugui començar a tenir beneficis. Interpreteu el resultat obtingut."
+        },
+        {
+          "id": "5.3",
+          "punts": 0.6,
+          "enunciat": "Si el nombre de descàrregues anual fos d’1.000.000, quin benefici o pèrdua tindria la cooperativa?"
+        },
+        {
+          "id": "5.4",
+          "punts": 0.7,
+          "enunciat": "Digueu quin és l’objectiu principal de les cooperatives, quina responsabilitat tenen els socis davant els deutes de la societat i quin és el nombre mínim de socis que han de tenir les cooperatives de primer i segon grau."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de **llindar de rendibilitat** (uns 20 minuts) més una pregunta teòrica sobre cooperatives. La clau és classificar bé els costos i treballar amb **dades anuals**: el lloguer i el cost dels socis ja són anuals, però els ordinadors (80.000 €) són un cost **per a cinc anys**, i cal repartir-lo: $80.000/5 = 16.000$ € l’any. La comissió de 0,2 € per descàrrega és l’únic cost variable."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Com plantejar-ho",
+            "cos": "$$\\text{MC}_u = p - \\text{CV}_u$$\n\nEl marge de contribució és el que aporta cada unitat venuda a cobrir els costos fixos (i, un cop coberts, a generar benefici)."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Resposta model",
+            "cos": "Preu unitari $p = 1$ €; cost variable unitari (comissió de distribució) $\\text{CV}_u = 0{,}2$ €.\n\n$$\\text{MC}_u = p - \\text{CV}_u = 1 - 0{,}2 = 0{,}8 \\text{ €/descàrrega}$$\n\nCada descàrrega aporta 0,80 € per cobrir els costos fixos de la cooperativa."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Costos fixos anuals: $\\text{CF} = 30.000 + 250.000 + \\frac{80.000}{5} = 296.000$ €. Llavors:\n\n$$Q^* = \\frac{\\text{CF}}{p - \\text{CV}_u}$$"
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Resposta model",
+            "cos": "$$\\text{CF} = 30.000 + 250.000 + \\frac{80.000}{5} = 30.000 + 250.000 + 16.000 = 296.000 \\text{ €}$$\n\n$$Q^* = \\frac{\\text{CF}}{p - \\text{CV}_u} = \\frac{296.000}{1 - 0{,}2} = \\frac{296.000}{0{,}8} = 370.000 \\text{ descàrregues anuals}$$\n\n**Interpretació**: amb 370.000 descàrregues anuals, els ingressos (370.000 €) igualen els costos totals (296.000 + 0,2 · 370.000 = 370.000 €) i el benefici és zero. Per sobre d’aquesta xifra la cooperativa obté beneficis; per sota, té pèrdues."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Com plantejar-ho",
+            "cos": "$$B = \\text{IT} - \\text{CT} = p \\cdot q - (\\text{CF} + \\text{CV}_u \\cdot q)$$\n\nTambé es pot fer més ràpid: $B = \\text{MC}_u \\cdot q - \\text{CF}$."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Resposta model",
+            "cos": "$$B = 1 \\cdot 1.000.000 - (296.000 + 0{,}2 \\cdot 1.000.000) = 1.000.000 - 496.000 = 504.000 \\text{ €}$$\n\nAmb 1.000.000 de descàrregues la cooperativa obtindria un **benefici de 504.000 €**. És lògic, perquè supera el punt mort en 630.000 descàrregues i cadascuna aporta 0,8 €: $630.000 \\cdot 0{,}8 = 504.000$ €."
+          },
+          {
+            "apartat": "5.4",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres dades concretes: **objectiu** (satisfer l’interès comú dels socis, no maximitzar el benefici del capital), **responsabilitat** (limitada al capital aportat) i **nombre mínim de socis** (3 a les de primer grau; 2 a les de segon grau, que estan formades per cooperatives)."
+          },
+          {
+            "apartat": "5.4",
+            "titol": "Resposta model",
+            "cos": "L’objectiu principal de les cooperatives és **satisfer les necessitats i l’interès comú dels seus socis** (per exemple, oferir-los feina en una cooperativa de treball associat com Bonaapp), i no pas remunerar el capital invertit.\n\nEls socis tenen **responsabilitat limitada** al capital que han aportat a la cooperativa: no responen dels deutes socials amb el seu patrimoni personal.\n\nLes cooperatives de **primer grau** han de tenir un mínim de **3 socis**, i les de **segon grau** (formades per cooperatives), un mínim de **2 socis**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "5.1",
+            "valor": "MCu = 1 − 0,2 = 0,8 € per descàrrega."
+          },
+          {
+            "apartat": "5.2",
+            "valor": "CF = 30.000 + 250.000 + 80.000/5 = 296.000 €; Q* = 296.000 / 0,8 = 370.000 descàrregues anuals. Amb aquesta xifra el benefici és zero; per sobre, beneficis."
+          },
+          {
+            "apartat": "5.3",
+            "valor": "B = 1.000.000 − (296.000 + 200.000) = 504.000 € de benefici."
+          },
+          {
+            "apartat": "5.4",
+            "valor": "Objectiu: satisfer l’interès comú dels socis. Responsabilitat limitada al capital aportat. Mínim 3 socis (primer grau) i 2 (segon grau)."
+          }
+        ],
+        "nota": "Error típic (i molt car): sumar els 80.000 € dels ordinadors sencers als costos fixos anuals; cal dividir-los entre els cinc anys (16.000 €/any). Si ho fas malament, Q* = 360.000/0,8 = 450.000 i B = 440.000 €; les pautes només descompten l’error una vegada. Comprovat amb Python: CF = 296.000 €, Q* = 370.000 descàrregues, B = 504.000 € (coincideix amb l’oficial). La interpretació de l’oficial a 5.2 diu «obtindrà beneficis i menys pèrdues»; el sentit correcte és: per sobre de 370.000, beneficis; per sota, pèrdues."
+      }
+    },
+    {
+      "id": "empresa-2020-J-e6-q1",
+      "exercici": 6,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "El mètode de la partida doble",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "partida doble",
+        "comptabilitat",
+        "fet comptable",
+        "deure i haver"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Seguint la normativa comptable, el mètode de la partida doble",
+      "figures": [],
+      "opcions": {
+        "a": "no s’utilitza quan es registra una operació (o fet comptable) en què intervenen comptes de balanç.",
+        "b": "no s’utilitza quan es registra una operació (o fet comptable) en què intervenen comptes de gestió.",
+        "c": "s’utilitza en cada operació (o fet comptable) que es registra.",
+        "d": "no s’utilitza quan es registra una operació en què intervenen comptes d’ingressos i de despeses."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten, i l’exercici no pot donar nota negativa. Amb quatre opcions i una penalització tan petita, si en pots descartar una o dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. La partida doble és el mètode que exigeix la normativa comptable per registrar **tots** els fets comptables, sense excepció: en cada assentament hi ha almenys un compte que es carrega (deure) i un que s’abona (haver), per imports iguals. Les altres tres opcions plantegen excepcions (comptes de balanç, de gestió, d’ingressos i despeses) que no existeixen."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": "Les tres opcions incorrectes tenen la mateixa estructura («no s’utilitza quan...»): quan un mètode és general, desconfia de les opcions que hi posen excepcions."
+      }
+    },
+    {
+      "id": "empresa-2020-J-e6-q2",
+      "exercici": 6,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Fases del cicle comptable",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "cicle comptable",
+        "llibre diari",
+        "balanç de comprovació",
+        "regularització",
+        "assentament de tancament"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "El cicle comptable està format per les fases que s’exposen a continuació:",
+      "figures": [],
+      "opcions": {
+        "a": "llibre diari i assentament final i tancament de comptes.",
+        "b": "balanç de situació inicial, llibre diari, correccions de final de l’exercici, balanç de comprovació de sumes i saldos final, compte de pèrdues i guanys, assentaments de regularització i tancament de comptes de resultats i assentament final i tancament de comptes.",
+        "c": "balanç de situació inicial, llibre diari, correccions de final de l’exercici, balanç de comprovació de sumes i saldos final, compte de pèrdues i guanys, assentaments de regularització i tancament de comptes de resultats, balanç de situació final (o balanç de tancament) i assentament final i tancament de comptes.",
+        "d": "balanç de situació inicial, llibre diari, correccions de final de l’exercici, balanç de comprovació de sumes i saldos final, compte de pèrdues i guanys, assentaments de regularització i tancament de comptes de resultats i balanç de situació final (o balanç de tancament)."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten, i l’exercici no pot donar nota negativa. Amb quatre opcions i una penalització tan petita, si en pots descartar una o dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**, l’única que inclou **totes** les fases en l’ordre correcte: balanç inicial (obertura), registre al llibre diari, correccions de final d’exercici, balanç de comprovació de sumes i saldos, compte de pèrdues i guanys amb la regularització dels comptes de resultats, **balanç de situació final** i, per acabar, **assentament de tancament**. L’opció a) és molt incompleta; la b) oblida el balanç de situació final, i la d) oblida l’assentament final de tancament."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": "Quan les opcions són llistes llargues gairebé iguals, compara-les fragment a fragment per veure què falta a cadascuna."
+      }
+    },
+    {
+      "id": "empresa-2020-J-e6-q3",
+      "exercici": 6,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Holding: empresa matriu que controla altres empreses",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "hòlding",
+        "creixement extern",
+        "grups d’empreses",
+        "empresa matriu"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "La forma d’organització empresarial en què una empresa matriu posseeix accions de terceres empreses que controla s’anomena",
+      "figures": [],
+      "opcions": {
+        "a": "*penetració de mercat*.",
+        "b": "*diversificació*.",
+        "c": "*deslocalització*.",
+        "d": "*hòlding*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten, i l’exercici no pot donar nota negativa. Amb quatre opcions i una penalització tan petita, si en pots descartar una o dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. Un **hòlding** és una societat matriu que posseeix accions (participacions majoritàries) d’altres empreses i en controla la gestió; és una forma de creixement extern. La penetració de mercat i la diversificació són estratègies de creixement (vendre més dels productes actuals en el mercat actual, o nous productes en nous mercats), i la deslocalització és traslladar activitats productives a un altre país."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": "Pregunta de vocabulari: totes les opcions són conceptes reals, però només una és una forma d’organització empresarial basada en la propietat d’accions."
+      }
+    },
+    {
+      "id": "empresa-2020-J-e6-q4",
+      "exercici": 6,
+      "questio": 4,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Direcció estratègica: anàlisi, elecció i implantació",
+      "tema": "organitzacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "direcció estratègica",
+        "anàlisi estratègica",
+        "avantatge competitiu",
+        "estratègia d’enfocament"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Digueu quina de les afirmacions següents sobre el procés de la direcció estratègica, l’avantatge competitiu i la generació de valor a les empreses és vertadera.",
+      "figures": [],
+      "opcions": {
+        "a": "Una estratègia empresarial ha d’estar enfocada a curt termini i no ha d’establir els recursos humans necessaris sinó l’immobilitzat.",
+        "b": "Els tres elements fonamentals de la direcció estratègica són: l’anàlisi estratègica; l’elecció estratègica, i la implantació de l’estratègia.",
+        "c": "Analitzar els entorns econòmic, mediambiental, demogràfic, politicolegal, sociocultural i tecnològic és una fase de la implementació estratègica.",
+        "d": "L’estratègia d’enfocament o alta segmentació consisteix a buscar un producte significativament diferent al de la competència o fins i tot únic."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten, i l’exercici no pot donar nota negativa. Amb quatre opcions i una penalització tan petita, si en pots descartar una o dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**: el procés de direcció estratègica consta d’**anàlisi** estratègica (entorn i empresa), **elecció** de l’estratègia i **implantació**. L’a) és falsa perquè l’estratègia és a **llarg** termini i inclou tots els recursos, també els humans. La c) és falsa perquè l’anàlisi de l’entorn (PESTEL) forma part de l’**anàlisi** estratègica, no de la implementació. La d) descriu l’estratègia de **diferenciació**; l’enfocament consisteix a concentrar-se en un segment concret del mercat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Error típic: confondre diferenciació (producte únic) amb enfocament o segmentació (un nínxol de mercat)."
+      }
+    },
+    {
+      "id": "empresa-2020-J-e6-q5",
+      "exercici": 6,
+      "questio": 5,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Afirmació falsa sobre creixement i fonts de finançament",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "financament"
+      ],
+      "conceptes": [
+        "joint venture",
+        "fusió per absorció",
+        "creixement extern",
+        "lísing",
+        "mercat primari"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Quina de les afirmacions següents és falsa?",
+      "figures": [],
+      "opcions": {
+        "a": "Una *joint venture* i una fusió per absorció entre dues empreses són exemples d’estratègies de creixement intern.",
+        "b": "Una empresa de lísing finança l’adquisició d’un bé i l’entrega d’aquest a l’empresa client a canvi d’un lloguer amb opció de compra.",
+        "c": "El descobert en compte i el descompte d’efectes són exemples de recursos aliens de finançament a curt termini.",
+        "d": "Quan una empresa, l’Estat o una comunitat autònoma emeten valors perquè puguin ser subscrits per inversors, entren dins el mercat primari o d’emissió."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten, i l’exercici no pot donar nota negativa. Amb quatre opcions i una penalització tan petita, si en pots descartar una o dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "Es demana l’afirmació **falsa**: és la **a)**. Tant la *joint venture* (empresa conjunta creada per dues o més empreses) com la fusió per absorció (una empresa n’absorbeix una altra) són formes de **creixement extern**, perquè impliquen altres empreses; el creixement intern es fa amb inversions en la pròpia estructura. Les altres tres són certes: el lísing és un lloguer amb opció de compra (b); el descobert i el descompte d’efectes són finançament aliè a curt termini (c), i l’emissió de nous valors es fa al mercat primari (d)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": "Llegeix bé si la pregunta demana la vertadera o la falsa: és l’error més comú en aquest tipus de pregunta."
+      }
+    }
+  ]
+}
