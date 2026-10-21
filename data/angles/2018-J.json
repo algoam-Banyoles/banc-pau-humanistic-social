@@ -1,0 +1,1095 @@
+{
+  "examen": {
+    "id": "angles-2018-J",
+    "assignatura": "angles",
+    "materia": "Llengua estrangera Anglès",
+    "any": 2018,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/angles/2018-J-examen.pdf",
+    "pdf_solucio": "pdfs/angles/2018-J-solucio.pdf",
+    "estructura": "Convocatòria 2018 (juny), Sèrie 1 - A. Tres parts obligatòries (10 punts). **Part 1, Reading comprehension** (3 punts): article de *The Guardian* d'Olivia Solon sobre el futur de les notícies falses i la manipulació de vídeo i veu (*The future of fake news: don’t believe everything you read, see or hear*) i 8 preguntes de test de resposta única (0,375 per encert, −0,125 per error, 0 si es deixa en blanc). **Part 2, Writing** (4 punts): cal triar UN dels dos temes (essay sobre les conseqüències del *morphing* per als mitjans o essay sobre les compres en línia), mínim 100 paraules; la plantilla de correcció avalua Grammar, Vocabulary, Text i Maturity. **Part 3, Listening comprehension** (3 punts): entrevista amb la ballarina Claire Petty (*An interview with a dancer*) i 8 preguntes de test amb la mateixa puntuació."
+  },
+  "problemes": [
+    {
+      "id": "angles-2018-J-e1-q1",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Què permeten la intel·ligència artificial i els gràfics per ordinador",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "intel·ligència artificial",
+        "manipulació de vídeo",
+        "idea principal"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**THE FUTURE OF FAKE NEWS: DON’T BELIEVE EVERYTHING YOU READ, SEE OR HEAR**\n\nIn an age of Photoshop, filters and social media, many of us are used to seeing manipulated pictures—subjects become slimmer and smoother or, in the case of Snapchat, transformed into puppies. However, there’s a new breed of video and audio manipulation tools, made possible by advances in artificial intelligence and computer graphics, that will allow for the creation of realistic looking **footage** of public figures appearing to say anything: Queen Elisabeth declaring her desire to fly to the moon, or Hillary Clinton describing how she climbed Mount Everest without oxygen. This is the future of fake news. We’ve long been told not to believe everything we read, but soon we’ll have to question everything we see and hear as well.\n\nFor now, there are several research teams working on capturing and synthesizing different visual and audio elements of human behaviour. Software developed at Stanford University called Face2Face is able to manipulate video footage of public figures to allow a second person to put words in their mouth—in real time. Face2Face captures the second person’s facial expressions as they talk into a webcam and then **morphs** those movements directly onto the face of the person in the original video. On its own, Face2Face is a fun plaything for creating memes and entertaining late-night talk show hosts. However, with the addition of a synthesized voice, it becomes more convincing—not only does the digital puppet look like the politician, but it can sound like the politician, too.\n\nA research team at the University of Alabama at Birmingham has been working on voice impersonation. With 3-5 minutes of audio of a victim’s voice—taken live or from YouTube videos or radio shows—an attacker can create a synthesized voice that can **fool** both humans and voice biometric security systems used by some banks and smartphones. The attacker can then talk into a microphone and the software will convert it so that the words sound like they are being spoken by the victim—whether over the phone or on a radio show.\n\nAlthough their intentions may be well-meaning, voice-morphing technology could be combined with face-morphing technology to create convincing fake statements by public figures. However, these morphing technologies still aren’t perfect. The facial expressions in the videos can seem a little distorted or unnatural, and the voices can sound a little robotic. But given time, they will be able to faithfully recreate the sound or appearance of a person, to the point where it might be very difficult for humans to detect the fraud.\n\nGiven the erosion of trust in the media and the **rampant** spread of **hoaxes** via social media, it will become even more important for news organizations to **scrutinize** content that looks and sounds like the real deal. People should be looking at the lighting and shadows in the video, whether all the elements featured in the frame are the right size, and whether the audio is **synced** perfectly. **Doctored** content might not pass the scrutiny of a rigorous newsroom, but if posted as a **grainy** video to social media it could spread virally and trigger a political, diplomatic, or public relations disaster, or even start a war.\n\n*Text adapted from an article by Olivia Solon. The Guardian [online] (July 26, 2017)*\n\n- **footage**: filmació / filmación\n- **to morph**: aplicar canvis / aplicar cambios\n- **to fool**: enganyar / engañar\n- **rampant**: sense restriccions / sin restricciones\n- **hoax**: engany, trampa / engaño, fraude\n- **to scrutinize**: examinar detalladament / examinar detalladamente\n- **synced**: sincronitzat / sincronizado\n- **doctored**: manipulat / manipulado\n- **grainy**: granulat / granulado",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**1.** Artificial intelligence and computer graphics",
+      "figures": [],
+      "opcions": {
+        "A": "are the future of social media sites.",
+        "B": "are creating new types of video and audio manipulation tools.",
+        "C": "will benefit public figures such as Donald Trump.",
+        "D": "enable readers to spot fake news."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Localitza el paràgraf on se'n parla i compara cada opció amb el que diu **exactament** el text. Les opcions incorrectes solen exagerar (*only*, *never*), dir una cosa que el text no diu o barrejar dades de paràgrafs diferents. Calcula uns 3-4 minuts per pregunta, comptant la relectura."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "La resposta és al paràgraf 1: *“there’s a new breed of video and audio manipulation tools, made possible by advances in artificial intelligence and computer graphics”*.\n\n- A: el text no diu que siguin el futur de les xarxes socials, sinó *the future of fake news*.\n- C: les figures públiques (el text esmenta la reina Elisabet i Hillary Clinton) en seran **víctimes**, no beneficiàries.\n- D: és just el contrari: faran més difícil detectar les notícies falses."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**B. are creating new types of video and audio manipulation tools.** The text says that “a new breed of video and audio manipulation tools” has been “made possible by advances in artificial intelligence and computer graphics”."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **B** (are creating new types of video and audio manipulation tools.)"
+          }
+        ],
+        "nota": "Discrepància menor: a l'examen l'opció C diu *Donald Trump*, mentre que als criteris oficials diu *Queen Elisabeth*. No afecta la resposta: en tots dos casos és falsa. Error típic: triar A perquè el text comença parlant de xarxes socials."
+      }
+    },
+    {
+      "id": "angles-2018-J-e1-q2",
+      "exercici": 1,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Per què les notícies falses seran més convincents",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "fake news",
+        "tecnologia d'imatge i veu",
+        "causa"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**THE FUTURE OF FAKE NEWS: DON’T BELIEVE EVERYTHING YOU READ, SEE OR HEAR**\n\nIn an age of Photoshop, filters and social media, many of us are used to seeing manipulated pictures—subjects become slimmer and smoother or, in the case of Snapchat, transformed into puppies. However, there’s a new breed of video and audio manipulation tools, made possible by advances in artificial intelligence and computer graphics, that will allow for the creation of realistic looking **footage** of public figures appearing to say anything: Queen Elisabeth declaring her desire to fly to the moon, or Hillary Clinton describing how she climbed Mount Everest without oxygen. This is the future of fake news. We’ve long been told not to believe everything we read, but soon we’ll have to question everything we see and hear as well.\n\nFor now, there are several research teams working on capturing and synthesizing different visual and audio elements of human behaviour. Software developed at Stanford University called Face2Face is able to manipulate video footage of public figures to allow a second person to put words in their mouth—in real time. Face2Face captures the second person’s facial expressions as they talk into a webcam and then **morphs** those movements directly onto the face of the person in the original video. On its own, Face2Face is a fun plaything for creating memes and entertaining late-night talk show hosts. However, with the addition of a synthesized voice, it becomes more convincing—not only does the digital puppet look like the politician, but it can sound like the politician, too.\n\nA research team at the University of Alabama at Birmingham has been working on voice impersonation. With 3-5 minutes of audio of a victim’s voice—taken live or from YouTube videos or radio shows—an attacker can create a synthesized voice that can **fool** both humans and voice biometric security systems used by some banks and smartphones. The attacker can then talk into a microphone and the software will convert it so that the words sound like they are being spoken by the victim—whether over the phone or on a radio show.\n\nAlthough their intentions may be well-meaning, voice-morphing technology could be combined with face-morphing technology to create convincing fake statements by public figures. However, these morphing technologies still aren’t perfect. The facial expressions in the videos can seem a little distorted or unnatural, and the voices can sound a little robotic. But given time, they will be able to faithfully recreate the sound or appearance of a person, to the point where it might be very difficult for humans to detect the fraud.\n\nGiven the erosion of trust in the media and the **rampant** spread of **hoaxes** via social media, it will become even more important for news organizations to **scrutinize** content that looks and sounds like the real deal. People should be looking at the lighting and shadows in the video, whether all the elements featured in the frame are the right size, and whether the audio is **synced** perfectly. **Doctored** content might not pass the scrutiny of a rigorous newsroom, but if posted as a **grainy** video to social media it could spread virally and trigger a political, diplomatic, or public relations disaster, or even start a war.\n\n*Text adapted from an article by Olivia Solon. The Guardian [online] (July 26, 2017)*\n\n- **footage**: filmació / filmación\n- **to morph**: aplicar canvis / aplicar cambios\n- **to fool**: enganyar / engañar\n- **rampant**: sense restriccions / sin restricciones\n- **hoax**: engany, trampa / engaño, fraude\n- **to scrutinize**: examinar detalladament / examinar detalladamente\n- **synced**: sincronitzat / sincronizado\n- **doctored**: manipulat / manipulado\n- **grainy**: granulat / granulado",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**2.** Fake news will be more convincing in the future because",
+      "figures": [],
+      "opcions": {
+        "A": "people tend to have less critical thinking skills.",
+        "B": "people will be more familiar with image technology.",
+        "C": "it will incorporate improved image and voice technology.",
+        "D": "human behaviour is easy to imitate."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Localitza el paràgraf on se'n parla i compara cada opció amb el que diu **exactament** el text. Les opcions incorrectes solen exagerar (*only*, *never*), dir una cosa que el text no diu o barrejar dades de paràgrafs diferents. Calcula uns 3-4 minuts per pregunta, comptant la relectura."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Els paràgrafs 2 i 4 ho expliquen: Face2Face, *“with the addition of a synthesized voice, it becomes more convincing”*, i *“voice-morphing technology could be combined with face-morphing technology to create convincing fake statements”*.\n\n- A: el text no parla de la capacitat crítica de la gent.\n- B: no es diu que la gent coneixerà millor la tecnologia.\n- D: el text diu que els equips treballen per sintetitzar el comportament humà, però no que sigui *fàcil* d'imitar (de fet, encara no és perfecte)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**C. it will incorporate improved image and voice technology.** When Face2Face is combined “with the addition of a synthesized voice, it becomes more convincing”, and voice-morphing and face-morphing technology together can “create convincing fake statements by public figures”."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **C** (it will incorporate improved image and voice technology.)"
+          }
+        ],
+        "nota": "Error típic: triar D perquè el text parla de *human behaviour*; però no diu enlloc que sigui fàcil d'imitar."
+      }
+    },
+    {
+      "id": "angles-2018-J-e1-q3",
+      "exercici": 1,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Què pot fer actualment Face2Face",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "face2face",
+        "morphing",
+        "detall del text"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**THE FUTURE OF FAKE NEWS: DON’T BELIEVE EVERYTHING YOU READ, SEE OR HEAR**\n\nIn an age of Photoshop, filters and social media, many of us are used to seeing manipulated pictures—subjects become slimmer and smoother or, in the case of Snapchat, transformed into puppies. However, there’s a new breed of video and audio manipulation tools, made possible by advances in artificial intelligence and computer graphics, that will allow for the creation of realistic looking **footage** of public figures appearing to say anything: Queen Elisabeth declaring her desire to fly to the moon, or Hillary Clinton describing how she climbed Mount Everest without oxygen. This is the future of fake news. We’ve long been told not to believe everything we read, but soon we’ll have to question everything we see and hear as well.\n\nFor now, there are several research teams working on capturing and synthesizing different visual and audio elements of human behaviour. Software developed at Stanford University called Face2Face is able to manipulate video footage of public figures to allow a second person to put words in their mouth—in real time. Face2Face captures the second person’s facial expressions as they talk into a webcam and then **morphs** those movements directly onto the face of the person in the original video. On its own, Face2Face is a fun plaything for creating memes and entertaining late-night talk show hosts. However, with the addition of a synthesized voice, it becomes more convincing—not only does the digital puppet look like the politician, but it can sound like the politician, too.\n\nA research team at the University of Alabama at Birmingham has been working on voice impersonation. With 3-5 minutes of audio of a victim’s voice—taken live or from YouTube videos or radio shows—an attacker can create a synthesized voice that can **fool** both humans and voice biometric security systems used by some banks and smartphones. The attacker can then talk into a microphone and the software will convert it so that the words sound like they are being spoken by the victim—whether over the phone or on a radio show.\n\nAlthough their intentions may be well-meaning, voice-morphing technology could be combined with face-morphing technology to create convincing fake statements by public figures. However, these morphing technologies still aren’t perfect. The facial expressions in the videos can seem a little distorted or unnatural, and the voices can sound a little robotic. But given time, they will be able to faithfully recreate the sound or appearance of a person, to the point where it might be very difficult for humans to detect the fraud.\n\nGiven the erosion of trust in the media and the **rampant** spread of **hoaxes** via social media, it will become even more important for news organizations to **scrutinize** content that looks and sounds like the real deal. People should be looking at the lighting and shadows in the video, whether all the elements featured in the frame are the right size, and whether the audio is **synced** perfectly. **Doctored** content might not pass the scrutiny of a rigorous newsroom, but if posted as a **grainy** video to social media it could spread virally and trigger a political, diplomatic, or public relations disaster, or even start a war.\n\n*Text adapted from an article by Olivia Solon. The Guardian [online] (July 26, 2017)*\n\n- **footage**: filmació / filmación\n- **to morph**: aplicar canvis / aplicar cambios\n- **to fool**: enganyar / engañar\n- **rampant**: sense restriccions / sin restricciones\n- **hoax**: engany, trampa / engaño, fraude\n- **to scrutinize**: examinar detalladament / examinar detalladamente\n- **synced**: sincronitzat / sincronizado\n- **doctored**: manipulat / manipulado\n- **grainy**: granulat / granulado",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**3.** Face2Face can currently",
+      "figures": [],
+      "opcions": {
+        "A": "capture someone’s facial expressions and map them onto someone else’s face.",
+        "B": "imitate someone’s facial expressions.",
+        "C": "synthesize voice and incorporate it onto someone’s image.",
+        "D": "capture someone’s physical appearance."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Localitza el paràgraf on se'n parla i compara cada opció amb el que diu **exactament** el text. Les opcions incorrectes solen exagerar (*only*, *never*), dir una cosa que el text no diu o barrejar dades de paràgrafs diferents. Calcula uns 3-4 minuts per pregunta, comptant la relectura."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Paràgraf 2: *“Face2Face captures the second person’s facial expressions as they talk into a webcam and then morphs those movements directly onto the face of the person in the original video.”*\n\n- B: és incompleta: no només *imita* expressions, sinó que les captura d'una persona i les **trasllada** a la cara d'una altra.\n- C: la veu sintetitzada és una **addició** externa (*with the addition of a synthesized voice*); Face2Face sol no la genera.\n- D: captura expressions i moviments, no l'aparença física."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**A. capture someone’s facial expressions and map them onto someone else’s face.** Face2Face “captures the second person’s facial expressions” and “morphs those movements directly onto the face of the person in the original video”."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **A** (capture someone’s facial expressions and map them onto someone else’s face.)"
+          }
+        ],
+        "nota": "Error típic: triar B, que és parcialment cert però incomplet. Quan dues opcions semblen correctes, tria la que recull **tota** la informació del text."
+      }
+    },
+    {
+      "id": "angles-2018-J-e1-q4",
+      "exercici": 1,
+      "questio": 4,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Què permet la recerca sobre suplantació de veu",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "suplantació de veu",
+        "veu sintetitzada",
+        "detall del text"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**THE FUTURE OF FAKE NEWS: DON’T BELIEVE EVERYTHING YOU READ, SEE OR HEAR**\n\nIn an age of Photoshop, filters and social media, many of us are used to seeing manipulated pictures—subjects become slimmer and smoother or, in the case of Snapchat, transformed into puppies. However, there’s a new breed of video and audio manipulation tools, made possible by advances in artificial intelligence and computer graphics, that will allow for the creation of realistic looking **footage** of public figures appearing to say anything: Queen Elisabeth declaring her desire to fly to the moon, or Hillary Clinton describing how she climbed Mount Everest without oxygen. This is the future of fake news. We’ve long been told not to believe everything we read, but soon we’ll have to question everything we see and hear as well.\n\nFor now, there are several research teams working on capturing and synthesizing different visual and audio elements of human behaviour. Software developed at Stanford University called Face2Face is able to manipulate video footage of public figures to allow a second person to put words in their mouth—in real time. Face2Face captures the second person’s facial expressions as they talk into a webcam and then **morphs** those movements directly onto the face of the person in the original video. On its own, Face2Face is a fun plaything for creating memes and entertaining late-night talk show hosts. However, with the addition of a synthesized voice, it becomes more convincing—not only does the digital puppet look like the politician, but it can sound like the politician, too.\n\nA research team at the University of Alabama at Birmingham has been working on voice impersonation. With 3-5 minutes of audio of a victim’s voice—taken live or from YouTube videos or radio shows—an attacker can create a synthesized voice that can **fool** both humans and voice biometric security systems used by some banks and smartphones. The attacker can then talk into a microphone and the software will convert it so that the words sound like they are being spoken by the victim—whether over the phone or on a radio show.\n\nAlthough their intentions may be well-meaning, voice-morphing technology could be combined with face-morphing technology to create convincing fake statements by public figures. However, these morphing technologies still aren’t perfect. The facial expressions in the videos can seem a little distorted or unnatural, and the voices can sound a little robotic. But given time, they will be able to faithfully recreate the sound or appearance of a person, to the point where it might be very difficult for humans to detect the fraud.\n\nGiven the erosion of trust in the media and the **rampant** spread of **hoaxes** via social media, it will become even more important for news organizations to **scrutinize** content that looks and sounds like the real deal. People should be looking at the lighting and shadows in the video, whether all the elements featured in the frame are the right size, and whether the audio is **synced** perfectly. **Doctored** content might not pass the scrutiny of a rigorous newsroom, but if posted as a **grainy** video to social media it could spread virally and trigger a political, diplomatic, or public relations disaster, or even start a war.\n\n*Text adapted from an article by Olivia Solon. The Guardian [online] (July 26, 2017)*\n\n- **footage**: filmació / filmación\n- **to morph**: aplicar canvis / aplicar cambios\n- **to fool**: enganyar / engañar\n- **rampant**: sense restriccions / sin restricciones\n- **hoax**: engany, trampa / engaño, fraude\n- **to scrutinize**: examinar detalladament / examinar detalladamente\n- **synced**: sincronitzat / sincronizado\n- **doctored**: manipulat / manipulado\n- **grainy**: granulat / granulado",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**4.** Recent research allows",
+      "figures": [],
+      "opcions": {
+        "A": "smartphones to synthesize voice.",
+        "B": "the creation of software to convert real voice into a synthesized one.",
+        "C": "the creation of microphones that synthesize voice.",
+        "D": "the creation of 3-5 minute audios."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Localitza el paràgraf on se'n parla i compara cada opció amb el que diu **exactament** el text. Les opcions incorrectes solen exagerar (*only*, *never*), dir una cosa que el text no diu o barrejar dades de paràgrafs diferents. Calcula uns 3-4 minuts per pregunta, comptant la relectura."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Paràgraf 3 (Universitat d'Alabama a Birmingham): *“The attacker can then talk into a microphone and the software will convert it so that the words sound like they are being spoken by the victim.”*\n\n- A: els *smartphones* surten com a sistemes que la veu falsa pot **enganyar**, no com a eines que la sintetitzen.\n- C: el micròfon només capta la veu de l'atacant; qui la converteix és el programari.\n- D: els 3-5 minuts d'àudio són el **material de partida** que cal per crear la veu, no el resultat."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**B. the creation of software to convert real voice into a synthesized one.** The attacker “can then talk into a microphone and the software will convert it so that the words sound like they are being spoken by the victim”."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **B** (the creation of software to convert real voice into a synthesized one.)"
+          }
+        ],
+        "nota": "Totes les opcions incorrectes contenen paraules del paràgraf (*smartphones*, *microphone*, *3-5 minutes*): és un bon exemple de distractors que copien el text."
+      }
+    },
+    {
+      "id": "angles-2018-J-e1-q5",
+      "exercici": 1,
+      "questio": 5,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Quina afirmació NO és certa sobre la tecnologia de morphing",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "pregunta negativa",
+        "veu sintetitzada",
+        "seguretat biomètrica"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**THE FUTURE OF FAKE NEWS: DON’T BELIEVE EVERYTHING YOU READ, SEE OR HEAR**\n\nIn an age of Photoshop, filters and social media, many of us are used to seeing manipulated pictures—subjects become slimmer and smoother or, in the case of Snapchat, transformed into puppies. However, there’s a new breed of video and audio manipulation tools, made possible by advances in artificial intelligence and computer graphics, that will allow for the creation of realistic looking **footage** of public figures appearing to say anything: Queen Elisabeth declaring her desire to fly to the moon, or Hillary Clinton describing how she climbed Mount Everest without oxygen. This is the future of fake news. We’ve long been told not to believe everything we read, but soon we’ll have to question everything we see and hear as well.\n\nFor now, there are several research teams working on capturing and synthesizing different visual and audio elements of human behaviour. Software developed at Stanford University called Face2Face is able to manipulate video footage of public figures to allow a second person to put words in their mouth—in real time. Face2Face captures the second person’s facial expressions as they talk into a webcam and then **morphs** those movements directly onto the face of the person in the original video. On its own, Face2Face is a fun plaything for creating memes and entertaining late-night talk show hosts. However, with the addition of a synthesized voice, it becomes more convincing—not only does the digital puppet look like the politician, but it can sound like the politician, too.\n\nA research team at the University of Alabama at Birmingham has been working on voice impersonation. With 3-5 minutes of audio of a victim’s voice—taken live or from YouTube videos or radio shows—an attacker can create a synthesized voice that can **fool** both humans and voice biometric security systems used by some banks and smartphones. The attacker can then talk into a microphone and the software will convert it so that the words sound like they are being spoken by the victim—whether over the phone or on a radio show.\n\nAlthough their intentions may be well-meaning, voice-morphing technology could be combined with face-morphing technology to create convincing fake statements by public figures. However, these morphing technologies still aren’t perfect. The facial expressions in the videos can seem a little distorted or unnatural, and the voices can sound a little robotic. But given time, they will be able to faithfully recreate the sound or appearance of a person, to the point where it might be very difficult for humans to detect the fraud.\n\nGiven the erosion of trust in the media and the **rampant** spread of **hoaxes** via social media, it will become even more important for news organizations to **scrutinize** content that looks and sounds like the real deal. People should be looking at the lighting and shadows in the video, whether all the elements featured in the frame are the right size, and whether the audio is **synced** perfectly. **Doctored** content might not pass the scrutiny of a rigorous newsroom, but if posted as a **grainy** video to social media it could spread virally and trigger a political, diplomatic, or public relations disaster, or even start a war.\n\n*Text adapted from an article by Olivia Solon. The Guardian [online] (July 26, 2017)*\n\n- **footage**: filmació / filmación\n- **to morph**: aplicar canvis / aplicar cambios\n- **to fool**: enganyar / engañar\n- **rampant**: sense restriccions / sin restricciones\n- **hoax**: engany, trampa / engaño, fraude\n- **to scrutinize**: examinar detalladament / examinar detalladamente\n- **synced**: sincronitzat / sincronizado\n- **doctored**: manipulat / manipulado\n- **grainy**: granulat / granulado",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**5.** Which of the following statements is NOT true?",
+      "figures": [],
+      "opcions": {
+        "A": "Digital puppets will look and sound like real people.",
+        "B": "Face and voice-morphing technology will create more convincing fake news.",
+        "C": "Synthesized voice may deceive some security systems.",
+        "D": "Current software only works with live voice."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Localitza el paràgraf on se'n parla i compara cada opció amb el que diu **exactament** el text. Les opcions incorrectes solen exagerar (*only*, *never*), dir una cosa que el text no diu o barrejar dades de paràgrafs diferents. Calcula uns 3-4 minuts per pregunta, comptant la relectura."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Pregunta **negativa**: cal trobar l'única afirmació falsa. El paràgraf 3 diu que l'àudio de la víctima pot ser *“taken live or from YouTube videos or radio shows”*: per tant, el programari **no** funciona només amb veu en directe.\n\n- A és certa: *“not only does the digital puppet look like the politician, but it can sound like the politician, too.”*\n- B és certa: es poden combinar *to create convincing fake statements*.\n- C és certa: la veu pot *fool ... voice biometric security systems used by some banks and smartphones*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**D. Current software only works with live voice.** This is not true: the audio of the victim’s voice can be “taken live or from YouTube videos or radio shows”."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **D** (Current software only works with live voice.)"
+          }
+        ],
+        "nota": "Error típic a les preguntes NOT true: oblidar la negació i marcar la primera opció certa. Marca la paraula *NOT* a l'enunciat i comprova les quatre opcions una per una. La paraula *only* de D ja és un senyal d'alerta."
+      }
+    },
+    {
+      "id": "angles-2018-J-e1-q6",
+      "exercici": 1,
+      "questio": 6,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Per què la tecnologia de morphing encara pot millorar",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "limitacions tecnològiques",
+        "room for improvement",
+        "paràfrasi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**THE FUTURE OF FAKE NEWS: DON’T BELIEVE EVERYTHING YOU READ, SEE OR HEAR**\n\nIn an age of Photoshop, filters and social media, many of us are used to seeing manipulated pictures—subjects become slimmer and smoother or, in the case of Snapchat, transformed into puppies. However, there’s a new breed of video and audio manipulation tools, made possible by advances in artificial intelligence and computer graphics, that will allow for the creation of realistic looking **footage** of public figures appearing to say anything: Queen Elisabeth declaring her desire to fly to the moon, or Hillary Clinton describing how she climbed Mount Everest without oxygen. This is the future of fake news. We’ve long been told not to believe everything we read, but soon we’ll have to question everything we see and hear as well.\n\nFor now, there are several research teams working on capturing and synthesizing different visual and audio elements of human behaviour. Software developed at Stanford University called Face2Face is able to manipulate video footage of public figures to allow a second person to put words in their mouth—in real time. Face2Face captures the second person’s facial expressions as they talk into a webcam and then **morphs** those movements directly onto the face of the person in the original video. On its own, Face2Face is a fun plaything for creating memes and entertaining late-night talk show hosts. However, with the addition of a synthesized voice, it becomes more convincing—not only does the digital puppet look like the politician, but it can sound like the politician, too.\n\nA research team at the University of Alabama at Birmingham has been working on voice impersonation. With 3-5 minutes of audio of a victim’s voice—taken live or from YouTube videos or radio shows—an attacker can create a synthesized voice that can **fool** both humans and voice biometric security systems used by some banks and smartphones. The attacker can then talk into a microphone and the software will convert it so that the words sound like they are being spoken by the victim—whether over the phone or on a radio show.\n\nAlthough their intentions may be well-meaning, voice-morphing technology could be combined with face-morphing technology to create convincing fake statements by public figures. However, these morphing technologies still aren’t perfect. The facial expressions in the videos can seem a little distorted or unnatural, and the voices can sound a little robotic. But given time, they will be able to faithfully recreate the sound or appearance of a person, to the point where it might be very difficult for humans to detect the fraud.\n\nGiven the erosion of trust in the media and the **rampant** spread of **hoaxes** via social media, it will become even more important for news organizations to **scrutinize** content that looks and sounds like the real deal. People should be looking at the lighting and shadows in the video, whether all the elements featured in the frame are the right size, and whether the audio is **synced** perfectly. **Doctored** content might not pass the scrutiny of a rigorous newsroom, but if posted as a **grainy** video to social media it could spread virally and trigger a political, diplomatic, or public relations disaster, or even start a war.\n\n*Text adapted from an article by Olivia Solon. The Guardian [online] (July 26, 2017)*\n\n- **footage**: filmació / filmación\n- **to morph**: aplicar canvis / aplicar cambios\n- **to fool**: enganyar / engañar\n- **rampant**: sense restriccions / sin restricciones\n- **hoax**: engany, trampa / engaño, fraude\n- **to scrutinize**: examinar detalladament / examinar detalladamente\n- **synced**: sincronitzat / sincronizado\n- **doctored**: manipulat / manipulado\n- **grainy**: granulat / granulado",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**6.** There is certainly room for improvement in morphing technologies",
+      "figures": [],
+      "opcions": {
+        "A": "since they are able to exactly reproduce voice and image.",
+        "B": "since there are often sound delays in the videos.",
+        "C": "since facial expressions and voices may appear unreal.",
+        "D": "since humans can never detect fake videos."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Localitza el paràgraf on se'n parla i compara cada opció amb el que diu **exactament** el text. Les opcions incorrectes solen exagerar (*only*, *never*), dir una cosa que el text no diu o barrejar dades de paràgrafs diferents. Calcula uns 3-4 minuts per pregunta, comptant la relectura."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Paràgraf 4: *“these morphing technologies still aren’t perfect. The facial expressions in the videos can seem a little distorted or unnatural, and the voices can sound a little robotic.”* L'opció C n'és la paràfrasi (*unnatural / robotic* → *unreal*).\n\n- A: és al revés; encara **no** les reprodueixen exactament.\n- B: la sincronització de l'àudio surt al paràgraf 5 com una cosa que cal revisar, no com un defecte habitual de la tecnologia.\n- D: el text diu que *in the future* podria ser *very difficult* detectar-ho, no que no es pugui fer *never*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**C. since facial expressions and voices may appear unreal.** The text says that “the facial expressions in the videos can seem a little distorted or unnatural, and the voices can sound a little robotic”."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **C** (since facial expressions and voices may appear unreal.)"
+          }
+        ],
+        "nota": "*Room for improvement* = marge de millora. Fixa't en els absoluts (*exactly*, *never*): gairebé sempre indiquen una opció incorrecta."
+      }
+    },
+    {
+      "id": "angles-2018-J-e1-q7",
+      "exercici": 1,
+      "questio": 7,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Què haurien de fer a partir d'ara els mitjans de comunicació",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "mitjans de comunicació",
+        "verificació",
+        "resposta doble als criteris"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**THE FUTURE OF FAKE NEWS: DON’T BELIEVE EVERYTHING YOU READ, SEE OR HEAR**\n\nIn an age of Photoshop, filters and social media, many of us are used to seeing manipulated pictures—subjects become slimmer and smoother or, in the case of Snapchat, transformed into puppies. However, there’s a new breed of video and audio manipulation tools, made possible by advances in artificial intelligence and computer graphics, that will allow for the creation of realistic looking **footage** of public figures appearing to say anything: Queen Elisabeth declaring her desire to fly to the moon, or Hillary Clinton describing how she climbed Mount Everest without oxygen. This is the future of fake news. We’ve long been told not to believe everything we read, but soon we’ll have to question everything we see and hear as well.\n\nFor now, there are several research teams working on capturing and synthesizing different visual and audio elements of human behaviour. Software developed at Stanford University called Face2Face is able to manipulate video footage of public figures to allow a second person to put words in their mouth—in real time. Face2Face captures the second person’s facial expressions as they talk into a webcam and then **morphs** those movements directly onto the face of the person in the original video. On its own, Face2Face is a fun plaything for creating memes and entertaining late-night talk show hosts. However, with the addition of a synthesized voice, it becomes more convincing—not only does the digital puppet look like the politician, but it can sound like the politician, too.\n\nA research team at the University of Alabama at Birmingham has been working on voice impersonation. With 3-5 minutes of audio of a victim’s voice—taken live or from YouTube videos or radio shows—an attacker can create a synthesized voice that can **fool** both humans and voice biometric security systems used by some banks and smartphones. The attacker can then talk into a microphone and the software will convert it so that the words sound like they are being spoken by the victim—whether over the phone or on a radio show.\n\nAlthough their intentions may be well-meaning, voice-morphing technology could be combined with face-morphing technology to create convincing fake statements by public figures. However, these morphing technologies still aren’t perfect. The facial expressions in the videos can seem a little distorted or unnatural, and the voices can sound a little robotic. But given time, they will be able to faithfully recreate the sound or appearance of a person, to the point where it might be very difficult for humans to detect the fraud.\n\nGiven the erosion of trust in the media and the **rampant** spread of **hoaxes** via social media, it will become even more important for news organizations to **scrutinize** content that looks and sounds like the real deal. People should be looking at the lighting and shadows in the video, whether all the elements featured in the frame are the right size, and whether the audio is **synced** perfectly. **Doctored** content might not pass the scrutiny of a rigorous newsroom, but if posted as a **grainy** video to social media it could spread virally and trigger a political, diplomatic, or public relations disaster, or even start a war.\n\n*Text adapted from an article by Olivia Solon. The Guardian [online] (July 26, 2017)*\n\n- **footage**: filmació / filmación\n- **to morph**: aplicar canvis / aplicar cambios\n- **to fool**: enganyar / engañar\n- **rampant**: sense restriccions / sin restricciones\n- **hoax**: engany, trampa / engaño, fraude\n- **to scrutinize**: examinar detalladament / examinar detalladamente\n- **synced**: sincronitzat / sincronizado\n- **doctored**: manipulat / manipulado\n- **grainy**: granulat / granulado",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**7.** From now on, news organisations should",
+      "figures": [],
+      "opcions": {
+        "A": "manipulate news more often.",
+        "B": "not trust any information on social media.",
+        "C": "be more critical with their sources.",
+        "D": "pay particular attention to the features of videos."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Localitza el paràgraf on se'n parla i compara cada opció amb el que diu **exactament** el text. Les opcions incorrectes solen exagerar (*only*, *never*), dir una cosa que el text no diu o barrejar dades de paràgrafs diferents. Calcula uns 3-4 minuts per pregunta, comptant la relectura."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Paràgraf 5: *“it will become even more important for news organizations to scrutinize content that looks and sounds like the real deal. People should be looking at the lighting and shadows in the video, whether all the elements featured in the frame are the right size, and whether the audio is synced perfectly.”*\n\n- D és la paràfrasi més directa: fixar-se en les característiques dels vídeos (llum, ombres, mida dels elements, so).\n- C també és acceptable: *scrutinize content* = examinar amb esperit crític el que reben. **Els criteris oficials marquen C i D com a correctes.**\n- A: és absurd; els mitjans no han de manipular.\n- B: és una exageració (*not trust any*); el text demana examinar, no rebutjar-ho tot."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**D. pay particular attention to the features of videos.** News organizations should “scrutinize content”, looking at “the lighting and shadows in the video, whether all the elements featured in the frame are the right size, and whether the audio is synced perfectly”. (Option C, “be more critical with their sources”, is also accepted by the official key.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **C i D** (els criteris marquen totes dues: *be more critical with their sources* i *pay particular attention to the features of videos*)."
+          }
+        ],
+        "nota": "Els criteris oficials donen per bones **dues** respostes (C i D, totes dues en negreta), tot i que l'enunciat diu *Only ONE answer is correct*. L'app pren D com a resposta, perquè és la que reprodueix més fidelment el text; si has marcat C, també puntua. (Als criteris l'opció D diu *pay particular attention on*, errata per *to*.)"
+      }
+    },
+    {
+      "id": "angles-2018-J-e1-q8",
+      "exercici": 1,
+      "questio": 8,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "El perill de les notícies falses segons l'autora",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "fake news",
+        "viralitat",
+        "conclusió del text"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**THE FUTURE OF FAKE NEWS: DON’T BELIEVE EVERYTHING YOU READ, SEE OR HEAR**\n\nIn an age of Photoshop, filters and social media, many of us are used to seeing manipulated pictures—subjects become slimmer and smoother or, in the case of Snapchat, transformed into puppies. However, there’s a new breed of video and audio manipulation tools, made possible by advances in artificial intelligence and computer graphics, that will allow for the creation of realistic looking **footage** of public figures appearing to say anything: Queen Elisabeth declaring her desire to fly to the moon, or Hillary Clinton describing how she climbed Mount Everest without oxygen. This is the future of fake news. We’ve long been told not to believe everything we read, but soon we’ll have to question everything we see and hear as well.\n\nFor now, there are several research teams working on capturing and synthesizing different visual and audio elements of human behaviour. Software developed at Stanford University called Face2Face is able to manipulate video footage of public figures to allow a second person to put words in their mouth—in real time. Face2Face captures the second person’s facial expressions as they talk into a webcam and then **morphs** those movements directly onto the face of the person in the original video. On its own, Face2Face is a fun plaything for creating memes and entertaining late-night talk show hosts. However, with the addition of a synthesized voice, it becomes more convincing—not only does the digital puppet look like the politician, but it can sound like the politician, too.\n\nA research team at the University of Alabama at Birmingham has been working on voice impersonation. With 3-5 minutes of audio of a victim’s voice—taken live or from YouTube videos or radio shows—an attacker can create a synthesized voice that can **fool** both humans and voice biometric security systems used by some banks and smartphones. The attacker can then talk into a microphone and the software will convert it so that the words sound like they are being spoken by the victim—whether over the phone or on a radio show.\n\nAlthough their intentions may be well-meaning, voice-morphing technology could be combined with face-morphing technology to create convincing fake statements by public figures. However, these morphing technologies still aren’t perfect. The facial expressions in the videos can seem a little distorted or unnatural, and the voices can sound a little robotic. But given time, they will be able to faithfully recreate the sound or appearance of a person, to the point where it might be very difficult for humans to detect the fraud.\n\nGiven the erosion of trust in the media and the **rampant** spread of **hoaxes** via social media, it will become even more important for news organizations to **scrutinize** content that looks and sounds like the real deal. People should be looking at the lighting and shadows in the video, whether all the elements featured in the frame are the right size, and whether the audio is **synced** perfectly. **Doctored** content might not pass the scrutiny of a rigorous newsroom, but if posted as a **grainy** video to social media it could spread virally and trigger a political, diplomatic, or public relations disaster, or even start a war.\n\n*Text adapted from an article by Olivia Solon. The Guardian [online] (July 26, 2017)*\n\n- **footage**: filmació / filmación\n- **to morph**: aplicar canvis / aplicar cambios\n- **to fool**: enganyar / engañar\n- **rampant**: sense restriccions / sin restricciones\n- **hoax**: engany, trampa / engaño, fraude\n- **to scrutinize**: examinar detalladament / examinar detalladamente\n- **synced**: sincronitzat / sincronizado\n- **doctored**: manipulat / manipulado\n- **grainy**: granulat / granulado",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**8.** What is the danger of fake news, according to the author of the text?",
+      "figures": [],
+      "opcions": {
+        "A": "News agencies will never be able to detect fake news.",
+        "B": "Fake news will go viral on social media and create family conflicts.",
+        "C": "News agencies will spread fake news and create political conflicts.",
+        "D": "The viral presence of fake news on social media could create serious conflicts."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Localitza el paràgraf on se'n parla i compara cada opció amb el que diu **exactament** el text. Les opcions incorrectes solen exagerar (*only*, *never*), dir una cosa que el text no diu o barrejar dades de paràgrafs diferents. Calcula uns 3-4 minuts per pregunta, comptant la relectura."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Última frase del text: *“if posted as a grainy video to social media it could spread virally and trigger a political, diplomatic, or public relations disaster, or even start a war.”*\n\n- A: el text diu el contrari: *Doctored content might not pass the scrutiny of a rigorous newsroom*.\n- B: parla de conflictes polítics i diplomàtics, no familiars.\n- C: no són les agències les que difonen les falsedats, sinó les **xarxes socials**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**D. The viral presence of fake news on social media could create serious conflicts.** According to the author, doctored content “could spread virally and trigger a political, diplomatic, or public relations disaster, or even start a war”."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **D** (The viral presence of fake news on social media could create serious conflicts.)"
+          }
+        ],
+        "nota": "Error típic: triar C perquè conté *political conflicts*; però el subjecte (*News agencies*) és incorrecte. Llegeix sempre l'opció sencera."
+      }
+    },
+    {
+      "id": "angles-2018-J-e2-A",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "redaccio",
+      "punts": 4,
+      "titol": "Essay: conseqüències de la tecnologia de morphing per als mitjans de comunicació",
+      "tema": "writing",
+      "temes_secundaris": [],
+      "conceptes": [
+        "writing",
+        "essay",
+        "fake news",
+        "mitjans de comunicació",
+        "conseqüències",
+        "connectors"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Choose ONE topic. Write about number 1 or 2. Minimum length: 100 words.\n\n[4 points]\n\n**Topic 1.** **Write an essay** on the consequences that the use of the latest morphing technology might have for news agencies and the lack of trust in the media.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Opció 1 del writing: **essay** sobre les **conseqüències** de la tecnologia de *morphing* per a les agències de notícies i per a la confiança en els mitjans (mínim 100 paraules; uns 25-30 minuts). Cal tractar **els dos aspectes** que diu la consigna (agències de notícies + pèrdua de confiança). Està lligat al reading: pots aprofitar-ne les idees (verificar llum, ombres i so; viralitat a les xarxes), però **amb les teves paraules**: copiar frases del text es penalitza a *Vocabulary* i *Maturity*. Registre formal, sense contraccions."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Estructura en 5 paràgrafs:\n\n1. **Introducció**: presenta la tecnologia i anuncia que tindrà conseqüències greus.\n2. **Conseqüència 1** (*Firstly*): les agències hauran de verificar molt més (més lent, més car).\n3. **Conseqüència 2** (*Secondly*): la confiança cau encara més; fins i tot els vídeos reals es posaran en dubte.\n4. **Matís** (*However*): oportunitat per al periodisme rigorós.\n5. **Conclusió** (*In conclusion*): valoració final.\n\n**Estructures i connectors útils**\n\n- Conseqüència: *As a result, Therefore, Consequently, This will lead to*\n- Ordenar: *Firstly, Secondly, Finally*\n- Afegir: *Moreover, Furthermore, What is more*\n- Contrast: *However, Although, On the other hand*\n- Conclusió: *In conclusion, To sum up, All in all*\n- Gramàtica que llueix: futur i modals d'especulació (*will have to, may, could*), relatives no especificatives (*which is already low*), condicionals (*If people know..., they may stop...*), passiva (*videos can be manipulated*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model (~160 paraules)",
+            "cos": "**Can we still trust the news?**\n\nThe latest morphing technology, which can make anyone appear to say anything, may have serious consequences for news agencies and for public trust in the media.\n\nFirstly, news agencies will have to work much harder. Before publishing a video, journalists will need to check the lighting, the shadows and the sound carefully, and they will probably need expert software to detect fakes. This will make reporting slower and more expensive.\n\nSecondly, trust in the media, which is already low, could fall even further. If people know that videos can be manipulated so easily, they may stop believing real recordings too. As a result, a politician caught saying something embarrassing could simply claim that the video is fake.\n\nHowever, this situation could also be an opportunity. Serious newspapers that verify their content rigorously may become more valuable than ever.\n\nIn conclusion, morphing technology is a real threat, but if news agencies become more careful, they can win back the public’s trust."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "La plantilla de correcció de l'examen té quatre caselles: **Grammar** (varietat i correcció de les estructures), **Vocabulary** (lèxic precís i variat, ortografia), **Text** (organització en paràgrafs, cohesió, connectors i puntuació) i **Maturity** (adequació a la consigna i al tipus de text, maduresa i qualitat de les idees), sobre 4 punts en total. Extensió mínima: 100 paraules (no hi ha màxim). Els criteris oficials d'aquesta convocatòria no donen cap pauta específica ni resposta model per al writing."
+          }
+        ],
+        "nota": "La resposta model té 160 paraules (sense el títol, que és opcional); el mínim és 100 i no hi ha límit màxim, però escriure'n 150-180 és suficient per mostrar varietat sense multiplicar els errors. Consells: dedica 2-3 minuts a fer un esquema i reserva'n 3 per revisar (concordança subjecte-verb, -s de tercera persona, temps verbals, ortografia). Error típic en aquest tema: resumir el text del reading en lloc de parlar de les **conseqüències**. La resposta model és de redacció pròpia (les pautes oficials no en donen)."
+      }
+    },
+    {
+      "id": "angles-2018-J-e2-B",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "redaccio",
+      "punts": 4,
+      "titol": "Essay: avantatges i inconvenients de comprar per internet",
+      "tema": "writing",
+      "temes_secundaris": [],
+      "conceptes": [
+        "writing",
+        "essay",
+        "for and against",
+        "compres en línia",
+        "comerç local",
+        "connectors"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Choose ONE topic. Write about number 1 or 2. Minimum length: 100 words.\n\n[4 points]\n\n**Topic 2.** Do you shop online, or do you like to go to stores? Does the type of product you are looking for make a difference in your decision? Are online stores fair competition for “real” stores? **Write an essay** in which you discuss some of the advantages and disadvantages of online shopping.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Opció 2 del writing: **essay d'avantatges i inconvenients** (*for and against*) sobre les compres en línia (mínim 100 paraules; uns 25-30 minuts). La consigna fa **tres preguntes** que val la pena respondre totes: si compres en línia o a botigues, si el tipus de producte hi influeix i si la competència és justa; i finalment demana avantatges i desavantatges. Pots incloure experiència personal, però l'estructura ha de ser d'assaig, no de carta. Registre neutre-formal."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Estructura en 5 paràgrafs:\n\n1. **Introducció**: respon la primera pregunta (com compres tu) i avança que depèn del producte.\n2. **Avantatges** (*On the one hand*): comoditat, preu, comparar i opinions; exemples de productes.\n3. **Inconvenients** (*On the other hand*): no es pot tocar ni emprovar, devolucions, embalatges.\n4. **Competència justa?**: opinió raonada (lloguers, preus, tancament de botigues).\n5. **Conclusió** (*To sum up*): balanç i opinió final.\n\n**Estructures i connectors útils**\n\n- Avantatges/inconvenients: *One of the main advantages is..., A major drawback is...*\n- Contrast: *On the one hand ... On the other hand, However, Whereas*\n- Afegir: *Moreover, What is more, In addition*\n- Causa i conseqüència: *since, so, As a result*\n- Opinió: *In my opinion, I do not think that..., As for...*\n- Gramàtica que llueix: passiva (*are forced to close*), modals (*cannot, have to, should*), condicional (*if we want...*), comparatives (*lower, more cheaply*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model (~166 paraules)",
+            "cos": "**Online shopping: convenience or threat?**\n\nNowadays I buy many things online, but I still enjoy going to real stores. In my opinion, the type of product makes a big difference.\n\nOn the one hand, online shopping has clear advantages. It is fast and convenient, since we can buy at any time without leaving home. Moreover, prices are often lower and it is easy to compare products and read other customers’ reviews. For books, electronics or train tickets, I almost always shop online.\n\nOn the other hand, there are some disadvantages. We cannot touch or try on the products, so clothes and shoes often have to be returned. What is more, delivery creates a lot of packaging and traffic.\n\nAs for competition, I do not think it is completely fair. Big online companies pay lower rents and can sell more cheaply, so many small local shops are forced to close.\n\nTo sum up, online shopping is very practical, but we should support local stores if we want our streets to stay alive."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "La plantilla de correcció de l'examen té quatre caselles: **Grammar** (varietat i correcció de les estructures), **Vocabulary** (lèxic precís i variat, ortografia), **Text** (organització en paràgrafs, cohesió, connectors i puntuació) i **Maturity** (adequació a la consigna i al tipus de text, maduresa i qualitat de les idees), sobre 4 punts en total. Extensió mínima: 100 paraules (no hi ha màxim). Els criteris oficials d'aquesta convocatòria no donen cap pauta específica ni resposta model per al writing."
+          }
+        ],
+        "nota": "La resposta model té 166 paraules (sense el títol, que és opcional); el mínim és 100 i no hi ha límit màxim, però escriure'n 150-180 és suficient per mostrar varietat sense multiplicar els errors. Consells: dedica 2-3 minuts a fer un esquema i reserva'n 3 per revisar (concordança subjecte-verb, -s de tercera persona, temps verbals, ortografia). Error típic en aquest tema: fer només una llista d'avantatges i oblidar respondre si la competència és justa. La resposta model és de redacció pròpia (les pautes oficials no en donen)."
+      }
+    },
+    {
+      "id": "angles-2018-J-e3-q1",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Per què va començar a fer ballet",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "ballet",
+        "infància",
+        "motius"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "**AN INTERVIEW WITH A DANCER**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *channel*: conduir / conducir\n- *put so much into something*: esforçar-se molt / esforzarse mucho\n- *demanding*: exigent / exigente\n- *rehearsal*: assaig / ensayo\n- *chill out*: descansar, relaxar-se / descansar, relajarse\n- *icon*: icona / icono\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n**Presenter:** You have probably seen our guest on ITV’s new show *Dance* or maybe you have been to the theater where she is now performing *Aladdin*. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**1.** Why did Claire start doing ballet?",
+      "figures": [],
+      "opcions": {
+        "A": "A teacher told her she was good at it.",
+        "B": "She was a very active child.",
+        "C": "Her mother was a ballet producer.",
+        "D": "She was forced by the head teacher."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però referides a una altra cosa."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Claire diu: *“I started dancing at the age of four, doing ballet, because I had a lot of energy and my mum needed to channel it into something productive!”*\n\n- A: el professor que surt (als 12 anys) la va orientar cap al clàssic, però no és el motiu pel qual va començar.\n- C: la mare no era productora de ballet; només volia canalitzar-li l'energia.\n- D: el *head teacher* surt més tard, quan li comunica que té feina al Boston Ballet."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**B. She was a very active child.** Claire explains that she started ballet at four “because I had a lot of energy and my mum needed to channel it into something productive”."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **B** (She was a very active child.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites d'aquesta solució en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta abans de mirar-la."
+      },
+      "transcripcio": "**PRESENTER (REPORTER):** You have probably seen our guest on ITV’s new show “Dance” or maybe you have been to the theater where she is now performing ‘Aladdin’. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n**REPORTER:** Hi, Anne. Welcome to our programme.\n\n**CLAIRE:** My pleasure.\n\n**REPORTER:** To start, tell us a little about yourself.\n\n**CLAIRE:** I started dancing at the age of four, doing ballet, because I had a lot of energy and my mum needed to channel it into something productive! I was very lucky that at the age of 12 I had a teacher that guided me more towards the classical route, and I joined the School of American Ballet in New York when I was 14. I worked with the New York City Ballet my last year at school, and we performed ‘Nutcracker’ that year, which was an amazing experience. I went back to school that January and on the first day back my head teacher told me I had a job at the Boston Ballet and that I started work the next day—I literally re-packed all my things and hopped on the plane straightaway!\n\n**REPORTER:** What advice do you wish someone had given you at 15?\n\n**CLAIRE:** I wish someone had told me not to let people tell me that I can’t do something. At school most of my teachers told me dance was a waste of time and that I couldn’t make a career out of it. That really upset me because I had put so much into it and my family made a lot of sacrifices. But as I got older, I realised that those people motivated me to prove them wrong and I guess they will always motivate me, because now when people tell me I can’t do something, I make sure I DO do it.\n\n**REPORTER:** Ballet is a pretty demanding profession: there are long hours, it’s very physical, you have to travel a lot. What motivates you?\n\n**CLAIRE:** It’s just those times on stage where you’re either doing a role you love, or you’re in a really beautiful theatre, and sometimes you just realise how lucky you are to be doing a job where you absolutely love it, and you’re doing your hobby as a career. Those moments push you through. You’ve done all that hard work in the studio, you’ve tried to get your technique to the highest standard it can be, and then you just need to enjoy that moment on stage.\n\n**REPORTER:** There must be a fine balance between relaxing after a long day of rehearsals and thinking over the work you’ve done that day. How do you manage that?\n\n**CLAIRE:** Immediately after rehearsal, I like to reflect a little bit on the positive things. There’s always going to be something that’s gone wrong—I don’t think you ever walk away thinking ‘well, that was perfect’—but that’s the beauty of performing a character role because every day can be different. The way we perform ‘Aladdin’ in our first show will be different from the way we play it in our second show. That’s what’s exciting – the growth, and the change, and responding to each other.\n\n**REPORTER:** You’re super busy! What do you do to relax and chill out?\n\n**CLAIRE:** Ha ha. I have very little free time, which is how I like it—I hate being bored. I go to the movies, hang out with my dance friends, watch TV, listen to music, do all those normal things. It’s good to chill out and remind yourself that, as brilliant as ballet is, there’s a big world out there.\n\n**REPORTER:** You’ve already danced with Justin Bieber and Jennifer Lopez. What has been your career highlight so far?\n\n**CLAIRE:** Dancing for Justin Bieber and definitely Jennifer Lopez have been major highlights but I’m excited about working with Lady Gaga on her dancing videos for her new album. That’s been really cool, and I can’t wait for everyone to see what she’s been working on!\n\n**REPORTER:** Which musical icons do you dream about working or dancing with one day?\n\n**CLAIRE:** I’ve always wanted to dance for Beyoncé. She’s a very talented dancer herself, with so much energy. It’s definitely something I would love to do. Being involved with Lady Gaga’s music clips and seeing what is involved in the process has opened my eyes to professional dancing outside ballet and I’ve loved it, so I hope dancing for other musical icons is just as fun. It’s lot of hard work but rewarding for sure.\n\n**REPORTER:** I was following you on Instagram earlier and there’s a fan page for you! What’s it like going from living a normal life to dealing with the fame that comes with your profile now?\n\n**CLAIRE:** Ha ha. It’s no different, to be honest! Most of the fans are from overseas, so my life here hasn’t changed all that much in the past five years. When I go out, a few people recognize me and it’s nice, but I’m not that famous.\n\n**REPORTER:** What’s next for you?\n\n**CLAIRE:** I’m going to the Dominican Republic in August for the World Latin Dance Championship to perform in Jennifer Lopez’s show there – I’m very excited about that! We also have stuff happening in Australia after and possibly Switzerland. Then I’m filming the rest of the episodes for “Dance”, which I’m looking forward to.\n\n**REPORTER:** Finally, if you weren’t a dancer, what would you be doing?\n\n**CLAIRE:** I’d quite like to learn something about architecture and interior design because I’ve always liked drawing, but I’ve never had time to work on it properly. I’ve always loved walking into a stylish home. It’s my dream to build my own house and decorate it with things from all around the world.\n\n**REPORTER:** Well, Claire, it’s been a pleasure having you here tonight.\n\n**CLAIRE:** Thank you for inviting me.\n\n*Adapted from: https://www.fq.co.nz/missfq/celeb/entertainment/dancer-kaea-pearce-interview-grid [30th November 2017]*"
+    },
+    {
+      "id": "angles-2018-J-e3-q2",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Quina afirmació NO és certa sobre els seus inicis",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "pregunta negativa",
+        "motivació",
+        "família"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "**AN INTERVIEW WITH A DANCER**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *channel*: conduir / conducir\n- *put so much into something*: esforçar-se molt / esforzarse mucho\n- *demanding*: exigent / exigente\n- *rehearsal*: assaig / ensayo\n- *chill out*: descansar, relaxar-se / descansar, relajarse\n- *icon*: icona / icono\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n**Presenter:** You have probably seen our guest on ITV’s new show *Dance* or maybe you have been to the theater where she is now performing *Aladdin*. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**2.** Which of these sentences is NOT true according to the interview?",
+      "figures": [],
+      "opcions": {
+        "A": "Most of Claire’s teachers thought that she would not succeed in dancing.",
+        "B": "Her family supported her decision and helped her.",
+        "C": "She is motivated to do the things others think she cannot do.",
+        "D": "She liked people to tell her that she couldn’t make a career out of dancing."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però referides a una altra cosa."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Pregunta **negativa**. Claire diu: *“At school most of my teachers told me dance was a waste of time and that I couldn’t make a career out of it. That really upset me...”* Per tant, **no li agradava** que l'hi diguessin: D és falsa.\n\n- A és certa: *most of my teachers told me ... I couldn’t make a career out of it*.\n- B és certa: *my family made a lot of sacrifices*.\n- C és certa: *now when people tell me I can’t do something, I make sure I DO do it.*"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**D. She liked people to tell her that she couldn’t make a career out of dancing.** This is not true: when her teachers said so, “that really upset me”."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **D** (She liked people to tell her that she couldn’t make a career out of dancing.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites d'aquesta solució en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta abans de mirar-la."
+      },
+      "transcripcio": "**PRESENTER (REPORTER):** You have probably seen our guest on ITV’s new show “Dance” or maybe you have been to the theater where she is now performing ‘Aladdin’. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n**REPORTER:** Hi, Anne. Welcome to our programme.\n\n**CLAIRE:** My pleasure.\n\n**REPORTER:** To start, tell us a little about yourself.\n\n**CLAIRE:** I started dancing at the age of four, doing ballet, because I had a lot of energy and my mum needed to channel it into something productive! I was very lucky that at the age of 12 I had a teacher that guided me more towards the classical route, and I joined the School of American Ballet in New York when I was 14. I worked with the New York City Ballet my last year at school, and we performed ‘Nutcracker’ that year, which was an amazing experience. I went back to school that January and on the first day back my head teacher told me I had a job at the Boston Ballet and that I started work the next day—I literally re-packed all my things and hopped on the plane straightaway!\n\n**REPORTER:** What advice do you wish someone had given you at 15?\n\n**CLAIRE:** I wish someone had told me not to let people tell me that I can’t do something. At school most of my teachers told me dance was a waste of time and that I couldn’t make a career out of it. That really upset me because I had put so much into it and my family made a lot of sacrifices. But as I got older, I realised that those people motivated me to prove them wrong and I guess they will always motivate me, because now when people tell me I can’t do something, I make sure I DO do it.\n\n**REPORTER:** Ballet is a pretty demanding profession: there are long hours, it’s very physical, you have to travel a lot. What motivates you?\n\n**CLAIRE:** It’s just those times on stage where you’re either doing a role you love, or you’re in a really beautiful theatre, and sometimes you just realise how lucky you are to be doing a job where you absolutely love it, and you’re doing your hobby as a career. Those moments push you through. You’ve done all that hard work in the studio, you’ve tried to get your technique to the highest standard it can be, and then you just need to enjoy that moment on stage.\n\n**REPORTER:** There must be a fine balance between relaxing after a long day of rehearsals and thinking over the work you’ve done that day. How do you manage that?\n\n**CLAIRE:** Immediately after rehearsal, I like to reflect a little bit on the positive things. There’s always going to be something that’s gone wrong—I don’t think you ever walk away thinking ‘well, that was perfect’—but that’s the beauty of performing a character role because every day can be different. The way we perform ‘Aladdin’ in our first show will be different from the way we play it in our second show. That’s what’s exciting – the growth, and the change, and responding to each other.\n\n**REPORTER:** You’re super busy! What do you do to relax and chill out?\n\n**CLAIRE:** Ha ha. I have very little free time, which is how I like it—I hate being bored. I go to the movies, hang out with my dance friends, watch TV, listen to music, do all those normal things. It’s good to chill out and remind yourself that, as brilliant as ballet is, there’s a big world out there.\n\n**REPORTER:** You’ve already danced with Justin Bieber and Jennifer Lopez. What has been your career highlight so far?\n\n**CLAIRE:** Dancing for Justin Bieber and definitely Jennifer Lopez have been major highlights but I’m excited about working with Lady Gaga on her dancing videos for her new album. That’s been really cool, and I can’t wait for everyone to see what she’s been working on!\n\n**REPORTER:** Which musical icons do you dream about working or dancing with one day?\n\n**CLAIRE:** I’ve always wanted to dance for Beyoncé. She’s a very talented dancer herself, with so much energy. It’s definitely something I would love to do. Being involved with Lady Gaga’s music clips and seeing what is involved in the process has opened my eyes to professional dancing outside ballet and I’ve loved it, so I hope dancing for other musical icons is just as fun. It’s lot of hard work but rewarding for sure.\n\n**REPORTER:** I was following you on Instagram earlier and there’s a fan page for you! What’s it like going from living a normal life to dealing with the fame that comes with your profile now?\n\n**CLAIRE:** Ha ha. It’s no different, to be honest! Most of the fans are from overseas, so my life here hasn’t changed all that much in the past five years. When I go out, a few people recognize me and it’s nice, but I’m not that famous.\n\n**REPORTER:** What’s next for you?\n\n**CLAIRE:** I’m going to the Dominican Republic in August for the World Latin Dance Championship to perform in Jennifer Lopez’s show there – I’m very excited about that! We also have stuff happening in Australia after and possibly Switzerland. Then I’m filming the rest of the episodes for “Dance”, which I’m looking forward to.\n\n**REPORTER:** Finally, if you weren’t a dancer, what would you be doing?\n\n**CLAIRE:** I’d quite like to learn something about architecture and interior design because I’ve always liked drawing, but I’ve never had time to work on it properly. I’ve always loved walking into a stylish home. It’s my dream to build my own house and decorate it with things from all around the world.\n\n**REPORTER:** Well, Claire, it’s been a pleasure having you here tonight.\n\n**CLAIRE:** Thank you for inviting me.\n\n*Adapted from: https://www.fq.co.nz/missfq/celeb/entertainment/dancer-kaea-pearce-interview-grid [30th November 2017]*"
+    },
+    {
+      "id": "angles-2018-J-e3-q3",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Què la motiva a ballar",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "motivació",
+        "escenari",
+        "demanding"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "**AN INTERVIEW WITH A DANCER**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *channel*: conduir / conducir\n- *put so much into something*: esforçar-se molt / esforzarse mucho\n- *demanding*: exigent / exigente\n- *rehearsal*: assaig / ensayo\n- *chill out*: descansar, relaxar-se / descansar, relajarse\n- *icon*: icona / icono\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n**Presenter:** You have probably seen our guest on ITV’s new show *Dance* or maybe you have been to the theater where she is now performing *Aladdin*. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**3.** What motivates Claire to dance?",
+      "figures": [],
+      "opcions": {
+        "A": "The fact that it is a very demanding job.",
+        "B": "The joy she has when she is in the studio.",
+        "C": "The happiness she feels when she is on stage.",
+        "D": "The hobbies she is able to keep thanks to ballet."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però referides a una altra cosa."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Claire respon: *“It’s just those times on stage where you’re either doing a role you love, or you’re in a really beautiful theatre ... Those moments push you through.”*\n\n- A: *demanding* surt a la pregunta del periodista com una dificultat, no com a motivació.\n- B: l'estudi és on fa *all that hard work*; el moment que gaudeix és a l'escenari.\n- D: diu que fa del seu *hobby* una professió (*doing your hobby as a career*), no que el ballet li permeti tenir altres aficions."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**C. The happiness she feels when she is on stage.** She says that “those times on stage” are what motivate her: “Those moments push you through.”"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **C** (The happiness she feels when she is on stage.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites d'aquesta solució en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta abans de mirar-la."
+      },
+      "transcripcio": "**PRESENTER (REPORTER):** You have probably seen our guest on ITV’s new show “Dance” or maybe you have been to the theater where she is now performing ‘Aladdin’. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n**REPORTER:** Hi, Anne. Welcome to our programme.\n\n**CLAIRE:** My pleasure.\n\n**REPORTER:** To start, tell us a little about yourself.\n\n**CLAIRE:** I started dancing at the age of four, doing ballet, because I had a lot of energy and my mum needed to channel it into something productive! I was very lucky that at the age of 12 I had a teacher that guided me more towards the classical route, and I joined the School of American Ballet in New York when I was 14. I worked with the New York City Ballet my last year at school, and we performed ‘Nutcracker’ that year, which was an amazing experience. I went back to school that January and on the first day back my head teacher told me I had a job at the Boston Ballet and that I started work the next day—I literally re-packed all my things and hopped on the plane straightaway!\n\n**REPORTER:** What advice do you wish someone had given you at 15?\n\n**CLAIRE:** I wish someone had told me not to let people tell me that I can’t do something. At school most of my teachers told me dance was a waste of time and that I couldn’t make a career out of it. That really upset me because I had put so much into it and my family made a lot of sacrifices. But as I got older, I realised that those people motivated me to prove them wrong and I guess they will always motivate me, because now when people tell me I can’t do something, I make sure I DO do it.\n\n**REPORTER:** Ballet is a pretty demanding profession: there are long hours, it’s very physical, you have to travel a lot. What motivates you?\n\n**CLAIRE:** It’s just those times on stage where you’re either doing a role you love, or you’re in a really beautiful theatre, and sometimes you just realise how lucky you are to be doing a job where you absolutely love it, and you’re doing your hobby as a career. Those moments push you through. You’ve done all that hard work in the studio, you’ve tried to get your technique to the highest standard it can be, and then you just need to enjoy that moment on stage.\n\n**REPORTER:** There must be a fine balance between relaxing after a long day of rehearsals and thinking over the work you’ve done that day. How do you manage that?\n\n**CLAIRE:** Immediately after rehearsal, I like to reflect a little bit on the positive things. There’s always going to be something that’s gone wrong—I don’t think you ever walk away thinking ‘well, that was perfect’—but that’s the beauty of performing a character role because every day can be different. The way we perform ‘Aladdin’ in our first show will be different from the way we play it in our second show. That’s what’s exciting – the growth, and the change, and responding to each other.\n\n**REPORTER:** You’re super busy! What do you do to relax and chill out?\n\n**CLAIRE:** Ha ha. I have very little free time, which is how I like it—I hate being bored. I go to the movies, hang out with my dance friends, watch TV, listen to music, do all those normal things. It’s good to chill out and remind yourself that, as brilliant as ballet is, there’s a big world out there.\n\n**REPORTER:** You’ve already danced with Justin Bieber and Jennifer Lopez. What has been your career highlight so far?\n\n**CLAIRE:** Dancing for Justin Bieber and definitely Jennifer Lopez have been major highlights but I’m excited about working with Lady Gaga on her dancing videos for her new album. That’s been really cool, and I can’t wait for everyone to see what she’s been working on!\n\n**REPORTER:** Which musical icons do you dream about working or dancing with one day?\n\n**CLAIRE:** I’ve always wanted to dance for Beyoncé. She’s a very talented dancer herself, with so much energy. It’s definitely something I would love to do. Being involved with Lady Gaga’s music clips and seeing what is involved in the process has opened my eyes to professional dancing outside ballet and I’ve loved it, so I hope dancing for other musical icons is just as fun. It’s lot of hard work but rewarding for sure.\n\n**REPORTER:** I was following you on Instagram earlier and there’s a fan page for you! What’s it like going from living a normal life to dealing with the fame that comes with your profile now?\n\n**CLAIRE:** Ha ha. It’s no different, to be honest! Most of the fans are from overseas, so my life here hasn’t changed all that much in the past five years. When I go out, a few people recognize me and it’s nice, but I’m not that famous.\n\n**REPORTER:** What’s next for you?\n\n**CLAIRE:** I’m going to the Dominican Republic in August for the World Latin Dance Championship to perform in Jennifer Lopez’s show there – I’m very excited about that! We also have stuff happening in Australia after and possibly Switzerland. Then I’m filming the rest of the episodes for “Dance”, which I’m looking forward to.\n\n**REPORTER:** Finally, if you weren’t a dancer, what would you be doing?\n\n**CLAIRE:** I’d quite like to learn something about architecture and interior design because I’ve always liked drawing, but I’ve never had time to work on it properly. I’ve always loved walking into a stylish home. It’s my dream to build my own house and decorate it with things from all around the world.\n\n**REPORTER:** Well, Claire, it’s been a pleasure having you here tonight.\n\n**CLAIRE:** Thank you for inviting me.\n\n*Adapted from: https://www.fq.co.nz/missfq/celeb/entertainment/dancer-kaea-pearce-interview-grid [30th November 2017]*"
+    },
+    {
+      "id": "angles-2018-J-e3-q4",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Què fa després dels assajos",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "rehearsal",
+        "reflexió",
+        "detall"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "**AN INTERVIEW WITH A DANCER**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *channel*: conduir / conducir\n- *put so much into something*: esforçar-se molt / esforzarse mucho\n- *demanding*: exigent / exigente\n- *rehearsal*: assaig / ensayo\n- *chill out*: descansar, relaxar-se / descansar, relajarse\n- *icon*: icona / icono\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n**Presenter:** You have probably seen our guest on ITV’s new show *Dance* or maybe you have been to the theater where she is now performing *Aladdin*. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**4.** How does Claire feel after rehearsals?",
+      "figures": [],
+      "opcions": {
+        "A": "She thinks about the following day’s performance.",
+        "B": "She thinks of all the positive things in the performance.",
+        "C": "She is excited about the things that may go wrong.",
+        "D": "She reflects on the beauty of the performance."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però referides a una altra cosa."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*“Immediately after rehearsal, I like to reflect a little bit on the positive things.”*\n\n- A: no parla de l'actuació de l'endemà; diu que cada dia pot ser diferent.\n- C: reconeix que sempre hi ha alguna cosa que surt malament, però el que l'entusiasma és *the growth, and the change*, no els errors.\n- D: *beauty* surt a *that’s the beauty of performing a character role*, que és una altra idea."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**B. She thinks of all the positive things in the performance.** Claire says: “Immediately after rehearsal, I like to reflect a little bit on the positive things.”"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **B** (She thinks of all the positive things in the performance.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites d'aquesta solució en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta abans de mirar-la."
+      },
+      "transcripcio": "**PRESENTER (REPORTER):** You have probably seen our guest on ITV’s new show “Dance” or maybe you have been to the theater where she is now performing ‘Aladdin’. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n**REPORTER:** Hi, Anne. Welcome to our programme.\n\n**CLAIRE:** My pleasure.\n\n**REPORTER:** To start, tell us a little about yourself.\n\n**CLAIRE:** I started dancing at the age of four, doing ballet, because I had a lot of energy and my mum needed to channel it into something productive! I was very lucky that at the age of 12 I had a teacher that guided me more towards the classical route, and I joined the School of American Ballet in New York when I was 14. I worked with the New York City Ballet my last year at school, and we performed ‘Nutcracker’ that year, which was an amazing experience. I went back to school that January and on the first day back my head teacher told me I had a job at the Boston Ballet and that I started work the next day—I literally re-packed all my things and hopped on the plane straightaway!\n\n**REPORTER:** What advice do you wish someone had given you at 15?\n\n**CLAIRE:** I wish someone had told me not to let people tell me that I can’t do something. At school most of my teachers told me dance was a waste of time and that I couldn’t make a career out of it. That really upset me because I had put so much into it and my family made a lot of sacrifices. But as I got older, I realised that those people motivated me to prove them wrong and I guess they will always motivate me, because now when people tell me I can’t do something, I make sure I DO do it.\n\n**REPORTER:** Ballet is a pretty demanding profession: there are long hours, it’s very physical, you have to travel a lot. What motivates you?\n\n**CLAIRE:** It’s just those times on stage where you’re either doing a role you love, or you’re in a really beautiful theatre, and sometimes you just realise how lucky you are to be doing a job where you absolutely love it, and you’re doing your hobby as a career. Those moments push you through. You’ve done all that hard work in the studio, you’ve tried to get your technique to the highest standard it can be, and then you just need to enjoy that moment on stage.\n\n**REPORTER:** There must be a fine balance between relaxing after a long day of rehearsals and thinking over the work you’ve done that day. How do you manage that?\n\n**CLAIRE:** Immediately after rehearsal, I like to reflect a little bit on the positive things. There’s always going to be something that’s gone wrong—I don’t think you ever walk away thinking ‘well, that was perfect’—but that’s the beauty of performing a character role because every day can be different. The way we perform ‘Aladdin’ in our first show will be different from the way we play it in our second show. That’s what’s exciting – the growth, and the change, and responding to each other.\n\n**REPORTER:** You’re super busy! What do you do to relax and chill out?\n\n**CLAIRE:** Ha ha. I have very little free time, which is how I like it—I hate being bored. I go to the movies, hang out with my dance friends, watch TV, listen to music, do all those normal things. It’s good to chill out and remind yourself that, as brilliant as ballet is, there’s a big world out there.\n\n**REPORTER:** You’ve already danced with Justin Bieber and Jennifer Lopez. What has been your career highlight so far?\n\n**CLAIRE:** Dancing for Justin Bieber and definitely Jennifer Lopez have been major highlights but I’m excited about working with Lady Gaga on her dancing videos for her new album. That’s been really cool, and I can’t wait for everyone to see what she’s been working on!\n\n**REPORTER:** Which musical icons do you dream about working or dancing with one day?\n\n**CLAIRE:** I’ve always wanted to dance for Beyoncé. She’s a very talented dancer herself, with so much energy. It’s definitely something I would love to do. Being involved with Lady Gaga’s music clips and seeing what is involved in the process has opened my eyes to professional dancing outside ballet and I’ve loved it, so I hope dancing for other musical icons is just as fun. It’s lot of hard work but rewarding for sure.\n\n**REPORTER:** I was following you on Instagram earlier and there’s a fan page for you! What’s it like going from living a normal life to dealing with the fame that comes with your profile now?\n\n**CLAIRE:** Ha ha. It’s no different, to be honest! Most of the fans are from overseas, so my life here hasn’t changed all that much in the past five years. When I go out, a few people recognize me and it’s nice, but I’m not that famous.\n\n**REPORTER:** What’s next for you?\n\n**CLAIRE:** I’m going to the Dominican Republic in August for the World Latin Dance Championship to perform in Jennifer Lopez’s show there – I’m very excited about that! We also have stuff happening in Australia after and possibly Switzerland. Then I’m filming the rest of the episodes for “Dance”, which I’m looking forward to.\n\n**REPORTER:** Finally, if you weren’t a dancer, what would you be doing?\n\n**CLAIRE:** I’d quite like to learn something about architecture and interior design because I’ve always liked drawing, but I’ve never had time to work on it properly. I’ve always loved walking into a stylish home. It’s my dream to build my own house and decorate it with things from all around the world.\n\n**REPORTER:** Well, Claire, it’s been a pleasure having you here tonight.\n\n**CLAIRE:** Thank you for inviting me.\n\n*Adapted from: https://www.fq.co.nz/missfq/celeb/entertainment/dancer-kaea-pearce-interview-grid [30th November 2017]*"
+    },
+    {
+      "id": "angles-2018-J-e3-q5",
+      "exercici": 3,
+      "questio": 5,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Què NO fa per relaxar-se",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "pregunta negativa",
+        "temps lliure",
+        "chill out"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "**AN INTERVIEW WITH A DANCER**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *channel*: conduir / conducir\n- *put so much into something*: esforçar-se molt / esforzarse mucho\n- *demanding*: exigent / exigente\n- *rehearsal*: assaig / ensayo\n- *chill out*: descansar, relaxar-se / descansar, relajarse\n- *icon*: icona / icono\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n**Presenter:** You have probably seen our guest on ITV’s new show *Dance* or maybe you have been to the theater where she is now performing *Aladdin*. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**5.** Which of these things does she NOT do to relax?",
+      "figures": [],
+      "opcions": {
+        "A": "She watches movies.",
+        "B": "She goes out with her friends.",
+        "C": "She dances ballet.",
+        "D": "She listens to music."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però referides a una altra cosa."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Pregunta **negativa**. Claire enumera: *“I go to the movies, hang out with my dance friends, watch TV, listen to music, do all those normal things. It’s good to chill out and remind yourself that, as brilliant as ballet is, there’s a big world out there.”* El ballet és la feina, no el que fa per relaxar-se.\n\n- A (*go to the movies*), B (*hang out with my dance friends*) i D (*listen to music*) sí que les fa."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**C. She dances ballet.** To relax she goes “to the movies, hang[s] out with [her] dance friends, watch[es] TV, listen[s] to music”; relaxing means remembering that “there’s a big world out there” beyond ballet."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **C** (She dances ballet.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites d'aquesta solució en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta abans de mirar-la."
+      },
+      "transcripcio": "**PRESENTER (REPORTER):** You have probably seen our guest on ITV’s new show “Dance” or maybe you have been to the theater where she is now performing ‘Aladdin’. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n**REPORTER:** Hi, Anne. Welcome to our programme.\n\n**CLAIRE:** My pleasure.\n\n**REPORTER:** To start, tell us a little about yourself.\n\n**CLAIRE:** I started dancing at the age of four, doing ballet, because I had a lot of energy and my mum needed to channel it into something productive! I was very lucky that at the age of 12 I had a teacher that guided me more towards the classical route, and I joined the School of American Ballet in New York when I was 14. I worked with the New York City Ballet my last year at school, and we performed ‘Nutcracker’ that year, which was an amazing experience. I went back to school that January and on the first day back my head teacher told me I had a job at the Boston Ballet and that I started work the next day—I literally re-packed all my things and hopped on the plane straightaway!\n\n**REPORTER:** What advice do you wish someone had given you at 15?\n\n**CLAIRE:** I wish someone had told me not to let people tell me that I can’t do something. At school most of my teachers told me dance was a waste of time and that I couldn’t make a career out of it. That really upset me because I had put so much into it and my family made a lot of sacrifices. But as I got older, I realised that those people motivated me to prove them wrong and I guess they will always motivate me, because now when people tell me I can’t do something, I make sure I DO do it.\n\n**REPORTER:** Ballet is a pretty demanding profession: there are long hours, it’s very physical, you have to travel a lot. What motivates you?\n\n**CLAIRE:** It’s just those times on stage where you’re either doing a role you love, or you’re in a really beautiful theatre, and sometimes you just realise how lucky you are to be doing a job where you absolutely love it, and you’re doing your hobby as a career. Those moments push you through. You’ve done all that hard work in the studio, you’ve tried to get your technique to the highest standard it can be, and then you just need to enjoy that moment on stage.\n\n**REPORTER:** There must be a fine balance between relaxing after a long day of rehearsals and thinking over the work you’ve done that day. How do you manage that?\n\n**CLAIRE:** Immediately after rehearsal, I like to reflect a little bit on the positive things. There’s always going to be something that’s gone wrong—I don’t think you ever walk away thinking ‘well, that was perfect’—but that’s the beauty of performing a character role because every day can be different. The way we perform ‘Aladdin’ in our first show will be different from the way we play it in our second show. That’s what’s exciting – the growth, and the change, and responding to each other.\n\n**REPORTER:** You’re super busy! What do you do to relax and chill out?\n\n**CLAIRE:** Ha ha. I have very little free time, which is how I like it—I hate being bored. I go to the movies, hang out with my dance friends, watch TV, listen to music, do all those normal things. It’s good to chill out and remind yourself that, as brilliant as ballet is, there’s a big world out there.\n\n**REPORTER:** You’ve already danced with Justin Bieber and Jennifer Lopez. What has been your career highlight so far?\n\n**CLAIRE:** Dancing for Justin Bieber and definitely Jennifer Lopez have been major highlights but I’m excited about working with Lady Gaga on her dancing videos for her new album. That’s been really cool, and I can’t wait for everyone to see what she’s been working on!\n\n**REPORTER:** Which musical icons do you dream about working or dancing with one day?\n\n**CLAIRE:** I’ve always wanted to dance for Beyoncé. She’s a very talented dancer herself, with so much energy. It’s definitely something I would love to do. Being involved with Lady Gaga’s music clips and seeing what is involved in the process has opened my eyes to professional dancing outside ballet and I’ve loved it, so I hope dancing for other musical icons is just as fun. It’s lot of hard work but rewarding for sure.\n\n**REPORTER:** I was following you on Instagram earlier and there’s a fan page for you! What’s it like going from living a normal life to dealing with the fame that comes with your profile now?\n\n**CLAIRE:** Ha ha. It’s no different, to be honest! Most of the fans are from overseas, so my life here hasn’t changed all that much in the past five years. When I go out, a few people recognize me and it’s nice, but I’m not that famous.\n\n**REPORTER:** What’s next for you?\n\n**CLAIRE:** I’m going to the Dominican Republic in August for the World Latin Dance Championship to perform in Jennifer Lopez’s show there – I’m very excited about that! We also have stuff happening in Australia after and possibly Switzerland. Then I’m filming the rest of the episodes for “Dance”, which I’m looking forward to.\n\n**REPORTER:** Finally, if you weren’t a dancer, what would you be doing?\n\n**CLAIRE:** I’d quite like to learn something about architecture and interior design because I’ve always liked drawing, but I’ve never had time to work on it properly. I’ve always loved walking into a stylish home. It’s my dream to build my own house and decorate it with things from all around the world.\n\n**REPORTER:** Well, Claire, it’s been a pleasure having you here tonight.\n\n**CLAIRE:** Thank you for inviting me.\n\n*Adapted from: https://www.fq.co.nz/missfq/celeb/entertainment/dancer-kaea-pearce-interview-grid [30th November 2017]*"
+    },
+    {
+      "id": "angles-2018-J-e3-q6",
+      "exercici": 3,
+      "questio": 6,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "La seva opinió sobre treballar amb estrelles musicals",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "estrelles musicals",
+        "hard work but rewarding",
+        "sinònims"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "**AN INTERVIEW WITH A DANCER**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *channel*: conduir / conducir\n- *put so much into something*: esforçar-se molt / esforzarse mucho\n- *demanding*: exigent / exigente\n- *rehearsal*: assaig / ensayo\n- *chill out*: descansar, relaxar-se / descansar, relajarse\n- *icon*: icona / icono\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n**Presenter:** You have probably seen our guest on ITV’s new show *Dance* or maybe you have been to the theater where she is now performing *Aladdin*. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**6.** What’s her opinion on musical stars?",
+      "figures": [],
+      "opcions": {
+        "A": "She would only like to work with Justin Bieber and Jennifer Lopez.",
+        "B": "She thinks dancing for them is hard work but gratifying.",
+        "C": "She can’t wait to work with them as she has not worked with any yet.",
+        "D": "She has worked with Beyoncé and that was a dream came true."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però referides a una altra cosa."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Al final de la resposta sobre les icones musicals: *“I hope dancing for other musical icons is just as fun. It’s lot of hard work but rewarding for sure.”* *Rewarding* = *gratifying*.\n\n- A: ja ha ballat per a Bieber i Lopez i vol treballar amb altres (Beyoncé).\n- C: sí que hi ha treballat (Bieber, Lopez, Lady Gaga).\n- D: amb Beyoncé encara **no** hi ha treballat: *I’ve always wanted to dance for Beyoncé*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**B. She thinks dancing for them is hard work but gratifying.** Claire says that dancing for musical icons is “lot of hard work but rewarding for sure”."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **B** (She thinks dancing for them is hard work but gratifying.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites d'aquesta solució en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta abans de mirar-la."
+      },
+      "transcripcio": "**PRESENTER (REPORTER):** You have probably seen our guest on ITV’s new show “Dance” or maybe you have been to the theater where she is now performing ‘Aladdin’. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n**REPORTER:** Hi, Anne. Welcome to our programme.\n\n**CLAIRE:** My pleasure.\n\n**REPORTER:** To start, tell us a little about yourself.\n\n**CLAIRE:** I started dancing at the age of four, doing ballet, because I had a lot of energy and my mum needed to channel it into something productive! I was very lucky that at the age of 12 I had a teacher that guided me more towards the classical route, and I joined the School of American Ballet in New York when I was 14. I worked with the New York City Ballet my last year at school, and we performed ‘Nutcracker’ that year, which was an amazing experience. I went back to school that January and on the first day back my head teacher told me I had a job at the Boston Ballet and that I started work the next day—I literally re-packed all my things and hopped on the plane straightaway!\n\n**REPORTER:** What advice do you wish someone had given you at 15?\n\n**CLAIRE:** I wish someone had told me not to let people tell me that I can’t do something. At school most of my teachers told me dance was a waste of time and that I couldn’t make a career out of it. That really upset me because I had put so much into it and my family made a lot of sacrifices. But as I got older, I realised that those people motivated me to prove them wrong and I guess they will always motivate me, because now when people tell me I can’t do something, I make sure I DO do it.\n\n**REPORTER:** Ballet is a pretty demanding profession: there are long hours, it’s very physical, you have to travel a lot. What motivates you?\n\n**CLAIRE:** It’s just those times on stage where you’re either doing a role you love, or you’re in a really beautiful theatre, and sometimes you just realise how lucky you are to be doing a job where you absolutely love it, and you’re doing your hobby as a career. Those moments push you through. You’ve done all that hard work in the studio, you’ve tried to get your technique to the highest standard it can be, and then you just need to enjoy that moment on stage.\n\n**REPORTER:** There must be a fine balance between relaxing after a long day of rehearsals and thinking over the work you’ve done that day. How do you manage that?\n\n**CLAIRE:** Immediately after rehearsal, I like to reflect a little bit on the positive things. There’s always going to be something that’s gone wrong—I don’t think you ever walk away thinking ‘well, that was perfect’—but that’s the beauty of performing a character role because every day can be different. The way we perform ‘Aladdin’ in our first show will be different from the way we play it in our second show. That’s what’s exciting – the growth, and the change, and responding to each other.\n\n**REPORTER:** You’re super busy! What do you do to relax and chill out?\n\n**CLAIRE:** Ha ha. I have very little free time, which is how I like it—I hate being bored. I go to the movies, hang out with my dance friends, watch TV, listen to music, do all those normal things. It’s good to chill out and remind yourself that, as brilliant as ballet is, there’s a big world out there.\n\n**REPORTER:** You’ve already danced with Justin Bieber and Jennifer Lopez. What has been your career highlight so far?\n\n**CLAIRE:** Dancing for Justin Bieber and definitely Jennifer Lopez have been major highlights but I’m excited about working with Lady Gaga on her dancing videos for her new album. That’s been really cool, and I can’t wait for everyone to see what she’s been working on!\n\n**REPORTER:** Which musical icons do you dream about working or dancing with one day?\n\n**CLAIRE:** I’ve always wanted to dance for Beyoncé. She’s a very talented dancer herself, with so much energy. It’s definitely something I would love to do. Being involved with Lady Gaga’s music clips and seeing what is involved in the process has opened my eyes to professional dancing outside ballet and I’ve loved it, so I hope dancing for other musical icons is just as fun. It’s lot of hard work but rewarding for sure.\n\n**REPORTER:** I was following you on Instagram earlier and there’s a fan page for you! What’s it like going from living a normal life to dealing with the fame that comes with your profile now?\n\n**CLAIRE:** Ha ha. It’s no different, to be honest! Most of the fans are from overseas, so my life here hasn’t changed all that much in the past five years. When I go out, a few people recognize me and it’s nice, but I’m not that famous.\n\n**REPORTER:** What’s next for you?\n\n**CLAIRE:** I’m going to the Dominican Republic in August for the World Latin Dance Championship to perform in Jennifer Lopez’s show there – I’m very excited about that! We also have stuff happening in Australia after and possibly Switzerland. Then I’m filming the rest of the episodes for “Dance”, which I’m looking forward to.\n\n**REPORTER:** Finally, if you weren’t a dancer, what would you be doing?\n\n**CLAIRE:** I’d quite like to learn something about architecture and interior design because I’ve always liked drawing, but I’ve never had time to work on it properly. I’ve always loved walking into a stylish home. It’s my dream to build my own house and decorate it with things from all around the world.\n\n**REPORTER:** Well, Claire, it’s been a pleasure having you here tonight.\n\n**CLAIRE:** Thank you for inviting me.\n\n*Adapted from: https://www.fq.co.nz/missfq/celeb/entertainment/dancer-kaea-pearce-interview-grid [30th November 2017]*"
+    },
+    {
+      "id": "angles-2018-J-e3-q7",
+      "exercici": 3,
+      "questio": 7,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Per què no es considera famosa",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "fama",
+        "instagram",
+        "detall"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "**AN INTERVIEW WITH A DANCER**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *channel*: conduir / conducir\n- *put so much into something*: esforçar-se molt / esforzarse mucho\n- *demanding*: exigent / exigente\n- *rehearsal*: assaig / ensayo\n- *chill out*: descansar, relaxar-se / descansar, relajarse\n- *icon*: icona / icono\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n**Presenter:** You have probably seen our guest on ITV’s new show *Dance* or maybe you have been to the theater where she is now performing *Aladdin*. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**7.** Why does Claire not consider herself famous now?",
+      "figures": [],
+      "opcions": {
+        "A": "Because only some people recognize her.",
+        "B": "Because most of her fans are five years old.",
+        "C": "Because her fan page on Instagram is new.",
+        "D": "Because five years ago she was very famous."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però referides a una altra cosa."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*“When I go out, a few people recognize me and it’s nice, but I’m not that famous.”* També diu que la majoria de fans són de l'estranger (*from overseas*).\n\n- B: *five years* surt referit al temps (*in the past five years*), no a l'edat dels fans.\n- C: no diu que la pàgina de fans sigui nova.\n- D: no diu que fa cinc anys fos famosa; diu que la seva vida no ha canviat gaire en cinc anys."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**A. Because only some people recognize her.** She says: “When I go out, a few people recognize me and it’s nice, but I’m not that famous.”"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **A** (Because only some people recognize her.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites d'aquesta solució en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta abans de mirar-la."
+      },
+      "transcripcio": "**PRESENTER (REPORTER):** You have probably seen our guest on ITV’s new show “Dance” or maybe you have been to the theater where she is now performing ‘Aladdin’. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n**REPORTER:** Hi, Anne. Welcome to our programme.\n\n**CLAIRE:** My pleasure.\n\n**REPORTER:** To start, tell us a little about yourself.\n\n**CLAIRE:** I started dancing at the age of four, doing ballet, because I had a lot of energy and my mum needed to channel it into something productive! I was very lucky that at the age of 12 I had a teacher that guided me more towards the classical route, and I joined the School of American Ballet in New York when I was 14. I worked with the New York City Ballet my last year at school, and we performed ‘Nutcracker’ that year, which was an amazing experience. I went back to school that January and on the first day back my head teacher told me I had a job at the Boston Ballet and that I started work the next day—I literally re-packed all my things and hopped on the plane straightaway!\n\n**REPORTER:** What advice do you wish someone had given you at 15?\n\n**CLAIRE:** I wish someone had told me not to let people tell me that I can’t do something. At school most of my teachers told me dance was a waste of time and that I couldn’t make a career out of it. That really upset me because I had put so much into it and my family made a lot of sacrifices. But as I got older, I realised that those people motivated me to prove them wrong and I guess they will always motivate me, because now when people tell me I can’t do something, I make sure I DO do it.\n\n**REPORTER:** Ballet is a pretty demanding profession: there are long hours, it’s very physical, you have to travel a lot. What motivates you?\n\n**CLAIRE:** It’s just those times on stage where you’re either doing a role you love, or you’re in a really beautiful theatre, and sometimes you just realise how lucky you are to be doing a job where you absolutely love it, and you’re doing your hobby as a career. Those moments push you through. You’ve done all that hard work in the studio, you’ve tried to get your technique to the highest standard it can be, and then you just need to enjoy that moment on stage.\n\n**REPORTER:** There must be a fine balance between relaxing after a long day of rehearsals and thinking over the work you’ve done that day. How do you manage that?\n\n**CLAIRE:** Immediately after rehearsal, I like to reflect a little bit on the positive things. There’s always going to be something that’s gone wrong—I don’t think you ever walk away thinking ‘well, that was perfect’—but that’s the beauty of performing a character role because every day can be different. The way we perform ‘Aladdin’ in our first show will be different from the way we play it in our second show. That’s what’s exciting – the growth, and the change, and responding to each other.\n\n**REPORTER:** You’re super busy! What do you do to relax and chill out?\n\n**CLAIRE:** Ha ha. I have very little free time, which is how I like it—I hate being bored. I go to the movies, hang out with my dance friends, watch TV, listen to music, do all those normal things. It’s good to chill out and remind yourself that, as brilliant as ballet is, there’s a big world out there.\n\n**REPORTER:** You’ve already danced with Justin Bieber and Jennifer Lopez. What has been your career highlight so far?\n\n**CLAIRE:** Dancing for Justin Bieber and definitely Jennifer Lopez have been major highlights but I’m excited about working with Lady Gaga on her dancing videos for her new album. That’s been really cool, and I can’t wait for everyone to see what she’s been working on!\n\n**REPORTER:** Which musical icons do you dream about working or dancing with one day?\n\n**CLAIRE:** I’ve always wanted to dance for Beyoncé. She’s a very talented dancer herself, with so much energy. It’s definitely something I would love to do. Being involved with Lady Gaga’s music clips and seeing what is involved in the process has opened my eyes to professional dancing outside ballet and I’ve loved it, so I hope dancing for other musical icons is just as fun. It’s lot of hard work but rewarding for sure.\n\n**REPORTER:** I was following you on Instagram earlier and there’s a fan page for you! What’s it like going from living a normal life to dealing with the fame that comes with your profile now?\n\n**CLAIRE:** Ha ha. It’s no different, to be honest! Most of the fans are from overseas, so my life here hasn’t changed all that much in the past five years. When I go out, a few people recognize me and it’s nice, but I’m not that famous.\n\n**REPORTER:** What’s next for you?\n\n**CLAIRE:** I’m going to the Dominican Republic in August for the World Latin Dance Championship to perform in Jennifer Lopez’s show there – I’m very excited about that! We also have stuff happening in Australia after and possibly Switzerland. Then I’m filming the rest of the episodes for “Dance”, which I’m looking forward to.\n\n**REPORTER:** Finally, if you weren’t a dancer, what would you be doing?\n\n**CLAIRE:** I’d quite like to learn something about architecture and interior design because I’ve always liked drawing, but I’ve never had time to work on it properly. I’ve always loved walking into a stylish home. It’s my dream to build my own house and decorate it with things from all around the world.\n\n**REPORTER:** Well, Claire, it’s been a pleasure having you here tonight.\n\n**CLAIRE:** Thank you for inviting me.\n\n*Adapted from: https://www.fq.co.nz/missfq/celeb/entertainment/dancer-kaea-pearce-interview-grid [30th November 2017]*"
+    },
+    {
+      "id": "angles-2018-J-e3-q8",
+      "exercici": 3,
+      "questio": 8,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Què li agradaria fer si no fos ballarina",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "condicional",
+        "arquitectura",
+        "interiorisme"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "**AN INTERVIEW WITH A DANCER**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *channel*: conduir / conducir\n- *put so much into something*: esforçar-se molt / esforzarse mucho\n- *demanding*: exigent / exigente\n- *rehearsal*: assaig / ensayo\n- *chill out*: descansar, relaxar-se / descansar, relajarse\n- *icon*: icona / icono\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n**Presenter:** You have probably seen our guest on ITV’s new show *Dance* or maybe you have been to the theater where she is now performing *Aladdin*. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**8.** What would Claire like to do if she were not a dancer?",
+      "figures": [],
+      "opcions": {
+        "A": "She would like to go to Australia to film a movie.",
+        "B": "She would like to study art and become a painter.",
+        "C": "She would like to design houses and especially her own.",
+        "D": "She would like to be an actress on a television show."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única (0,375 punts; **−0,125 si falles**, 0 si la deixes en blanc). Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però referides a una altra cosa."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*“I’d quite like to learn something about architecture and interior design ... It’s my dream to build my own house and decorate it with things from all around the world.”*\n\n- A: Austràlia surt als plans de feina (*stuff happening in Australia*), no com a alternativa.\n- B: li agrada dibuixar (*I’ve always liked drawing*), però no diu que vulgui ser pintora.\n- D: ja treballa al programa *Dance*, però com a ballarina."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**C. She would like to design houses and especially her own.** She would “like to learn something about architecture and interior design”, and her dream is “to build my own house and decorate it”."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **C** (She would like to design houses and especially her own.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites d'aquesta solució en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta abans de mirar-la."
+      },
+      "transcripcio": "**PRESENTER (REPORTER):** You have probably seen our guest on ITV’s new show “Dance” or maybe you have been to the theater where she is now performing ‘Aladdin’. After dancing with the ballet company for five years, she is starting to break into principal roles and discover what it means to be at the top of their profession. Otherwise the chances are that you follow her on Instagram… after all, she boasts over 100,000 followers. In today’s program, I’m going to interview Claire Petty.\n\n**REPORTER:** Hi, Anne. Welcome to our programme.\n\n**CLAIRE:** My pleasure.\n\n**REPORTER:** To start, tell us a little about yourself.\n\n**CLAIRE:** I started dancing at the age of four, doing ballet, because I had a lot of energy and my mum needed to channel it into something productive! I was very lucky that at the age of 12 I had a teacher that guided me more towards the classical route, and I joined the School of American Ballet in New York when I was 14. I worked with the New York City Ballet my last year at school, and we performed ‘Nutcracker’ that year, which was an amazing experience. I went back to school that January and on the first day back my head teacher told me I had a job at the Boston Ballet and that I started work the next day—I literally re-packed all my things and hopped on the plane straightaway!\n\n**REPORTER:** What advice do you wish someone had given you at 15?\n\n**CLAIRE:** I wish someone had told me not to let people tell me that I can’t do something. At school most of my teachers told me dance was a waste of time and that I couldn’t make a career out of it. That really upset me because I had put so much into it and my family made a lot of sacrifices. But as I got older, I realised that those people motivated me to prove them wrong and I guess they will always motivate me, because now when people tell me I can’t do something, I make sure I DO do it.\n\n**REPORTER:** Ballet is a pretty demanding profession: there are long hours, it’s very physical, you have to travel a lot. What motivates you?\n\n**CLAIRE:** It’s just those times on stage where you’re either doing a role you love, or you’re in a really beautiful theatre, and sometimes you just realise how lucky you are to be doing a job where you absolutely love it, and you’re doing your hobby as a career. Those moments push you through. You’ve done all that hard work in the studio, you’ve tried to get your technique to the highest standard it can be, and then you just need to enjoy that moment on stage.\n\n**REPORTER:** There must be a fine balance between relaxing after a long day of rehearsals and thinking over the work you’ve done that day. How do you manage that?\n\n**CLAIRE:** Immediately after rehearsal, I like to reflect a little bit on the positive things. There’s always going to be something that’s gone wrong—I don’t think you ever walk away thinking ‘well, that was perfect’—but that’s the beauty of performing a character role because every day can be different. The way we perform ‘Aladdin’ in our first show will be different from the way we play it in our second show. That’s what’s exciting – the growth, and the change, and responding to each other.\n\n**REPORTER:** You’re super busy! What do you do to relax and chill out?\n\n**CLAIRE:** Ha ha. I have very little free time, which is how I like it—I hate being bored. I go to the movies, hang out with my dance friends, watch TV, listen to music, do all those normal things. It’s good to chill out and remind yourself that, as brilliant as ballet is, there’s a big world out there.\n\n**REPORTER:** You’ve already danced with Justin Bieber and Jennifer Lopez. What has been your career highlight so far?\n\n**CLAIRE:** Dancing for Justin Bieber and definitely Jennifer Lopez have been major highlights but I’m excited about working with Lady Gaga on her dancing videos for her new album. That’s been really cool, and I can’t wait for everyone to see what she’s been working on!\n\n**REPORTER:** Which musical icons do you dream about working or dancing with one day?\n\n**CLAIRE:** I’ve always wanted to dance for Beyoncé. She’s a very talented dancer herself, with so much energy. It’s definitely something I would love to do. Being involved with Lady Gaga’s music clips and seeing what is involved in the process has opened my eyes to professional dancing outside ballet and I’ve loved it, so I hope dancing for other musical icons is just as fun. It’s lot of hard work but rewarding for sure.\n\n**REPORTER:** I was following you on Instagram earlier and there’s a fan page for you! What’s it like going from living a normal life to dealing with the fame that comes with your profile now?\n\n**CLAIRE:** Ha ha. It’s no different, to be honest! Most of the fans are from overseas, so my life here hasn’t changed all that much in the past five years. When I go out, a few people recognize me and it’s nice, but I’m not that famous.\n\n**REPORTER:** What’s next for you?\n\n**CLAIRE:** I’m going to the Dominican Republic in August for the World Latin Dance Championship to perform in Jennifer Lopez’s show there – I’m very excited about that! We also have stuff happening in Australia after and possibly Switzerland. Then I’m filming the rest of the episodes for “Dance”, which I’m looking forward to.\n\n**REPORTER:** Finally, if you weren’t a dancer, what would you be doing?\n\n**CLAIRE:** I’d quite like to learn something about architecture and interior design because I’ve always liked drawing, but I’ve never had time to work on it properly. I’ve always loved walking into a stylish home. It’s my dream to build my own house and decorate it with things from all around the world.\n\n**REPORTER:** Well, Claire, it’s been a pleasure having you here tonight.\n\n**CLAIRE:** Thank you for inviting me.\n\n*Adapted from: https://www.fq.co.nz/missfq/celeb/entertainment/dancer-kaea-pearce-interview-grid [30th November 2017]*"
+    }
+  ]
+}

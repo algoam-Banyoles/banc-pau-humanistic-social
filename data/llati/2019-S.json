@@ -1,0 +1,794 @@
+{
+  "examen": {
+    "id": "llati-2019-S",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2019,
+    "convocatoria": "setembre",
+    "serie": "5",
+    "pdf_examen": "pdfs/llati/2019-S-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2019-S-solucio.pdf",
+    "estructura": "Sèrie 5, convocatòria de setembre. Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un text de Cèsar (*Guerra de les Gàl·lies*, II, 5; 5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B). Opció A: 2. morfosintaxi sobre el text (oració d'infinitiu, 1 punt); 3. completar quatre frases amb el nom de ciutats antigues de la península Ibèrica (2 punts, 0,5 per encert, sense penalització); 4. exposició sobre un fragment d'*Els germans* de Terenci i la comèdia *palliata* (2 punts, mínim 15 línies, ~150 paraules). Opció B: 2. morfosintaxi (el relatiu *quod*, 1 punt); 3. quatre preguntes d'opció múltiple sobre personatges de les *Metamorfosis* d'Ovidi (2 punts, 0,5 per encert, −0,16 per error, les no contestades no descompten); 4. exposició sobre els aqüeductes romans (2 punts, mínim 15 línies, ~150 paraules)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2019-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Cèsar: Cèsar travessa l'Àxona i fortifica el campament davant els belgues",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "cèsar",
+        "de bello gallico",
+        "oració d'infinitiu",
+        "postquam temporal",
+        "oració de relatiu",
+        "ablatiu absolut",
+        "belgues"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Davant l'amenaça dels belgues, Cèsar instal·la el campament a l'altra banda del riu Àxona**\n\nCaesar, postquam omnes Belgarum copias ad se uenire uidit, flumen Axonam, quod est in extremis Remorum finibus, traducere maturauit. In eo flumine pons erat; ibi Q. Titurio legato cum sex cohortibus relicto, [Caesar] in altera parte fluminis castra posuit atque uallo fossaque muniri iussit.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, II, 5, 4-6\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Axona, -ae* (m.): Àxona (nom de riu).\n- *copiae, -arum* (f. pl.): tropes.\n- *finis, -is* (m. i f., sovint en plural): territori.\n- *iubeo, iussi, iussum* (2a, tr.): manar.\n- *maturo* (1a, tr.): afanyar-se.\n- *munio* (4a, tr.): fortificar.\n- *pono, posui, positum* (3a, tr.): instal·lar.\n- *relinquo, reliqui, relictum* (3a, tr.): deixar.\n- *Remus, -i* (m.): rem (habitant del nord de la Gàl·lia).\n- *traduco, traduxi, traductum* (3a, tr.): fer travessar.",
+      "enunciat": "Feu la versió del text següent (5 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de Cèsar (*De bello Gallico*, II, 5) de tres oracions separades per punt i punt i coma. Val **5 punts**, la meitat de l'examen: dedica-hi uns 40-45 minuts.\n\nMètode: (1) llegeix el títol, que ja dona el context (Cèsar, amenaçat pels belgues, passa a l'altra riba de l'Àxona i hi instal·la el campament); (2) localitza els **verbs conjugats**: *uidit*, *est*, *maturauit*, *erat*, *posuit*, *iussit*; (3) identifica els nexes (*postquam*, *quod*, *atque*, *-que*) i les formes no personals: els infinitius *uenire*, *traducere*, *muniri* i el participi *relicto*; (4) fes una traducció literal i després poleix-la.\n\nParanys: l'**oració d'infinitiu** *omnes Belgarum copias ad se uenire* (subjecte en acusatiu) que depèn de *uidit*; *ad se* (reflexiu: es refereix a Cèsar, «cap a ell»); *traducere* depèn de *maturauit* («s'afanyà a fer travessar»); *quod* és relatiu neutre amb antecedent *flumen*; *in extremis ... finibus* (*finis* en plural = «territori»); l'**ablatiu absolut** *Q. Titurio legato ... relicto*; *castra* és plural però vol dir «campament»; *muniri* és infinitiu **passiu** («ser fortificat»); *uallo fossaque*, ablatius instrumentals coordinats amb *-que*."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Caesar, postquam omnes Belgarum copias ad se uenire uidit, flumen Axonam, quod est in extremis Remorum finibus, traducere maturauit.*\n\n- Oració principal: verb ***maturauit*** (3a sg. perfet d'indicatiu actiu de *maturo*, «s'afanyà»); subjecte ***Caesar*** (nominatiu sg.). Complement de *maturauit*: l'infinitiu ***traducere*** («fer travessar»), que té com a CD ***flumen Axonam*** (acusatiu: *flumen*, neutre de la 3a, i *Axonam*, en aposició): «s'afanyà a fer travessar el riu Àxona» (s'entén, a l'exèrcit).\n- ***postquam ... uidit***: subordinada adverbial **temporal** (*postquam* + perfet d'indicatiu: «després que veié / després de veure»). Verb *uidit* (3a sg. perfet d'indicatiu de *uideo*); subjecte implícit, Cèsar.\n- CD de *uidit*: l'**oració d'infinitiu** *omnes Belgarum copias ad se uenire*: subjecte en acusatiu *copias* (acusatiu pl. de *copiae*) amb l'adjectiu *omnes*; *Belgarum* (genitiu pl.) és CN de *copias*; *ad se* (preposició + acusatiu del reflexiu, que remet al subjecte de la principal, Cèsar), CC de direcció; verb *uenire* (infinitiu present: simultaneïtat): «que totes les tropes dels belgues venien cap a ell».\n- ***quod est in extremis Remorum finibus***: subordinada **adjectiva de relatiu**; *quod* (nominatiu neutre sg.) en fa de subjecte i té per antecedent *flumen*; verb *est*; *in extremis finibus*: *in* + ablatiu pl., CC de lloc on, amb l'adjectiu *extremis*; *Remorum* (genitiu pl. de *Remus*), CN: «que és a l'extrem del territori dels rems»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*In eo flumine pons erat;*\n\n- Verb ***erat*** (3a sg. imperfet d'indicatiu de *sum*), amb valor existencial: «hi havia».\n- Subjecte ***pons*** (nominatiu sg., 3a declinació): «un pont».\n- ***In eo flumine***: *in* + ablatiu (*eo*, demostratiu *is, ea, id*, concordat amb *flumine*), CC de lloc: «en aquest riu»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*ibi Q. Titurio legato cum sex cohortibus relicto, [Caesar] in altera parte fluminis castra posuit atque uallo fossaque muniri iussit.*\n\n- ***ibi***: adverbi de lloc («allà», és a dir, al pont).\n- ***Q. Titurio legato ... relicto***: **ablatiu absolut** (participi perfet passiu *relicto*, de *relinquo*, concordat amb *Titurio*; *legato* n'és l'aposició): «un cop deixat allà el llegat Quint Tituri»; *cum sex cohortibus*: *cum* + ablatiu, CC de companyia («amb sis cohorts»).\n- Primera principal: verb ***posuit*** (3a sg. perfet d'indicatiu de *pono*, «instal·là»); subjecte *[Caesar]*; CD ***castra*** (acusatiu neutre pl. amb significat singular: «el campament»); ***in altera parte fluminis***: *in* + ablatiu, CC de lloc, amb el CN *fluminis* (genitiu sg.): «a l'altra banda del riu».\n- ***atque***: conjunció copulativa.\n- Segona principal: verb ***iussit*** (3a sg. perfet d'indicatiu de *iubeo*, «manà»); el seu CD és una **oració d'infinitiu** amb el verb ***muniri*** (infinitiu present **passiu** de *munio*) i el subjecte en acusatiu sobreentès (*castra*): «manà que (el campament) fos fortificat»; ***uallo fossaque*** (ablatius sg. coordinats per l'enclític *-que*): CC d'instrument, «amb una estacada i un fossat»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Cèsar, després que totes les tropes dels belgues cap a ell venir veié, el riu Àxona, que és en els extrems territoris dels rems, fer travessar s'afanyà. En aquest riu un pont hi havia; allà, Quint Tituri llegat amb sis cohorts deixat, [Cèsar] a l'altra part del riu el campament instal·là i amb una estacada i un fossat ser fortificat manà."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Cèsar, quan veié que totes les tropes dels belgues avançaven cap a ell, s'afanyà a fer travessar a l'exèrcit el riu Àxona, que és a l'extrem del territori dels rems. En aquest riu hi havia un pont; després de deixar-hi el llegat Quint Tituri amb sis cohorts, Cèsar instal·là el campament a l'altra banda del riu i manà que el fortifiquessin amb una estacada i un fossat.\n\nTraducció orientativa oficial: «Cèsar, després de veure que totes les tropes dels belgues es dirigien cap a ell, s'afanyà a fer travessar el riu Àxona, que és en el territori extrem dels rems. En aquest riu hi havia un pont; un cop deixat allà el seu lloctinent Q. Tituri amb sis cohorts, va instal·lar el campament a l'altra banda del riu i manà fortificar-lo amb una estacada i un fossat.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Cèsar, després de veure que totes les tropes dels belgues es dirigien cap a ell, s'afanyà a fer travessar el riu Àxona, que és en el territori extrem dels rems. En aquest riu hi havia un pont; un cop deixat allà el seu lloctinent Q. Tituri amb sis cohorts, va instal·lar el campament a l'altra banda del riu i manà fortificar-lo amb una estacada i un fossat.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: *postquam* temporal amb *uidit*; oració d'infinitiu *omnes Belgarum copias ad se uenire* (CD de *uidit*; *se* = Cèsar); *traducere* complement de *maturauit* amb CD *flumen Axonam*; relativa *quod* (antecedent *flumen*); *pons* subjecte d'*erat* («hi havia»); ablatiu absolut *Q. Titurio legato cum sex cohortibus relicto*; *castra* CD de *posuit*; *muniri* infinitiu passiu depenent d'*iussit*; *uallo fossaque* ablatius instrumentals."
+          }
+        ],
+        "nota": "Errors típics: fer *copias* CD de *uidit* i deixar *uenire* sense subjecte (és una oració d'infinitiu: «veié que les tropes venien»); traduir *ad se* com «cap a si mateixes» (el reflexiu remet a Cèsar, subjecte de la principal); fer *Caesar* subjecte de *traducere* com si fos «travessar» (el lèxic diu «fer travessar»; també s'accepta «travessar el riu»); traduir *finibus* com «fronteres» en lloc de «territori»; no reconèixer l'ablatiu absolut i fer *Titurio* CI; traduir *castra* en plural («els campaments»); traduir *muniri* com a actiu sense adaptar-ho («manà fortificar-lo» és correcte en català, però cal saber que és passiu). Context: any 57 aC, campanya contra els belgues; els rems eren aliats de Cèsar."
+      }
+    },
+    {
+      "id": "llati-2019-S-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: l'oració d'infinitiu omnes Belgarum copias ad se uenire, CD de uidit",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "oració d'infinitiu",
+        "subjecte en acusatiu",
+        "complement directe",
+        "verbs de percepció",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Davant l'amenaça dels belgues, Cèsar instal·la el campament a l'altra banda del riu Àxona**\n\nCaesar, postquam omnes Belgarum copias ad se uenire uidit, flumen Axonam, quod est in extremis Remorum finibus, traducere maturauit. In eo flumine pons erat; ibi Q. Titurio legato cum sex cohortibus relicto, [Caesar] in altera parte fluminis castra posuit atque uallo fossaque muniri iussit.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, II, 5, 4-6\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Axona, -ae* (m.): Àxona (nom de riu).\n- *copiae, -arum* (f. pl.): tropes.\n- *finis, -is* (m. i f., sovint en plural): territori.\n- *iubeo, iussi, iussum* (2a, tr.): manar.\n- *maturo* (1a, tr.): afanyar-se.\n- *munio* (4a, tr.): fortificar.\n- *pono, posui, positum* (3a, tr.): instal·lar.\n- *relinquo, reliqui, relictum* (3a, tr.): deixar.\n- *Remus, -i* (m.): rem (habitant del nord de la Gàl·lia).\n- *traduco, traduxi, traductum* (3a, tr.): fer travessar.",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). Digueu com s'anomena l'estructura *omnes Belgarum copias ad se uenire* i quina funció sintàctica fa respecte a *uidit*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta curta d'1 punt (5-10 minuts). Cal dir dues coses: el **nom de l'estructura** i la seva **funció** respecte a *uidit*. Respon amb una frase completa i justifica-ho breument (verb en infinitiu + subjecte en acusatiu)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Busca el verb de l'estructura: *uenire*, infinitiu present.\n2. Busca el seu subjecte: *copias* (amb *omnes* i el CN *Belgarum*), en **acusatiu**. Infinitiu + subjecte en acusatiu = **oració subordinada substantiva d'infinitiu** (construcció d'acusatiu i infinitiu).\n3. *uidit* (veié) és un verb de percepció i necessita un CD: què veié? «que les tropes venien» → l'oració d'infinitiu és el **CD**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'estructura *omnes Belgarum copias ad se uenire* és una **oració subordinada substantiva d'infinitiu** (construcció d'acusatiu i infinitiu): el verb és l'infinitiu present *uenire* i el seu subjecte és l'acusatiu *copias* (amb l'adjectiu *omnes* i el genitiu *Belgarum* com a CN). Respecte al verb de percepció *uidit* fa la funció de **complement directe**: «(Cèsar) veié que totes les tropes dels belgues venien cap a ell»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Oració subordinada substantiva d'infinitiu; fa de complement directe de *uidit*."
+          }
+        ],
+        "nota": "Error típic: dir només «infinitiu» o «complement» sense precisar; o considerar *copias* CD de *uidit* i *uenire* un infinitiu aïllat. Recorda que l'infinitiu present indica simultaneïtat amb el verb principal («venien»)."
+      }
+    },
+    {
+      "id": "llati-2019-S-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: el relatiu quod, el seu antecedent flumen i l'oració de relatiu",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "pronom relatiu",
+        "antecedent",
+        "concordança",
+        "oració de relatiu",
+        "subordinada adjectiva",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Davant l'amenaça dels belgues, Cèsar instal·la el campament a l'altra banda del riu Àxona**\n\nCaesar, postquam omnes Belgarum copias ad se uenire uidit, flumen Axonam, quod est in extremis Remorum finibus, traducere maturauit. In eo flumine pons erat; ibi Q. Titurio legato cum sex cohortibus relicto, [Caesar] in altera parte fluminis castra posuit atque uallo fossaque muniri iussit.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, II, 5, 4-6\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Axona, -ae* (m.): Àxona (nom de riu).\n- *copiae, -arum* (f. pl.): tropes.\n- *finis, -is* (m. i f., sovint en plural): territori.\n- *iubeo, iussi, iussum* (2a, tr.): manar.\n- *maturo* (1a, tr.): afanyar-se.\n- *munio* (4a, tr.): fortificar.\n- *pono, posui, positum* (3a, tr.): instal·lar.\n- *relinquo, reliqui, relictum* (3a, tr.): deixar.\n- *Remus, -i* (m.): rem (habitant del nord de la Gàl·lia).\n- *traduco, traduxi, traductum* (3a, tr.): fer travessar.",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase ***quod** est in extremis Remorum finibus* (*quod* subratllat), digueu quin és l'antecedent de *quod* i indiqueu com hi concorda. Digueu també quin tipus d'oració subordinada introdueix.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta curta d'1 punt (5-10 minuts) amb tres peces: **antecedent**, **com hi concorda** (gènere i nombre) i **tipus d'oració**. No t'oblidis de cap de les tres."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *quod* és el pronom relatiu *qui, quae, quod* en **neutre singular** (nominatiu o acusatiu).\n2. Busca just abans un mot neutre singular: *flumen* (neutre, 3a declinació). *Axonam* és femení en la forma i no hi pot concordar.\n3. El relatiu concorda amb l'antecedent en **gènere i nombre**, però el cas depèn de la seva funció dins la relativa: aquí és subjecte d'*est*, per tant nominatiu (mentre que *flumen* és acusatiu, CD de *traducere*).\n4. Un pronom relatiu introdueix una **oració subordinada adjectiva o de relatiu**, que fa de complement de l'antecedent."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'antecedent de *quod* és el substantiu ***flumen*** («el riu»). El relatiu *quod* hi concorda en **gènere (neutre) i nombre (singular)**; el cas no coincideix necessàriament, perquè depèn de la funció: *quod* és nominatiu (subjecte d'*est*) i *flumen* és acusatiu (CD de *traducere*). *quod* introdueix una **oració subordinada adjectiva (de relatiu)**, que complementa *flumen*: «el riu Àxona, que és a l'extrem del territori dels rems»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Antecedent: *flumen*; *quod* hi concorda en gènere (neutre) i nombre (singular); introdueix una subordinada adjectiva (de relatiu)."
+          }
+        ],
+        "nota": "Error típic: donar *Axonam* com a antecedent (és femení i no concorda amb *quod*) o dir que el relatiu concorda també en cas. Tampoc no s'ha de confondre aquest *quod* relatiu amb la conjunció causal *quod* («perquè»)."
+      }
+    },
+    {
+      "id": "llati-2019-S-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Empúries romana: planta rectangular i traçat hipodàmic",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "empúries",
+        "emporiae",
+        "urbanisme romà",
+        "traçat hipodàmic",
+        "muralles"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades). Escriviu en els espais en blanc el nom de la ciutat antiga de la península Ibèrica que correspon a cada descripció.\n\na) Una part de/d' ______________ tenia planta rectangular, traçat hipodàmic i estava envoltada de muralles.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre buits de 0,5 punts cadascun; les respostes errònies **no penalitzen**, així que cal respondre-les totes. Escriu el **nom antic** (llatí) de la ciutat, no només el modern (p. ex. *Barcino*, no «Barcelona»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Pistes: «**una part de**» (la ciutat tenia més d'un nucli), planta rectangular, traçat hipodàmic (carrers en quadrícula) i muralles. És **Empúries**: al costat de la ciutat grega (Neàpolis) els romans hi van construir, a principis del s. I aC, una ciutat nova de planta rectangular i quadrícula regular, emmurallada; en època d'August totes dues parts s'unificaren en el *Municipium Emporiae*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Emporiae** (Empúries)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Emporiae (Empúries)."
+          }
+        ],
+        "nota": "Convé saber els noms llatins de les principals ciutats romanes d'Hispània i de Catalunya: Tarraco, Barcino, Emporiae, Ilerda, Gerunda, Baetulo, Iluro, Ausa, Caesaraugusta, Emerita Augusta, Corduba, Carthago Noua, Italica..."
+      }
+    },
+    {
+      "id": "llati-2019-S-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Ilerda: la batalla entre pompeians i cesarians (49 aC)",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "ilerda",
+        "lleida",
+        "guerra civil",
+        "cèsar",
+        "pompeu"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades). Escriviu en els espais en blanc el nom de la ciutat antiga de la península Ibèrica que correspon a cada descripció.\n\nb) A ______________ els exèrcits de Pompeu i de Cèsar es van enfrontar en una batalla molt important.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre buits de 0,5 punts cadascun; les respostes errònies **no penalitzen**, així que cal respondre-les totes. Escriu el **nom antic** (llatí) de la ciutat, no només el modern (p. ex. *Barcino*, no «Barcelona»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Durant la guerra civil entre **Cèsar i Pompeu**, l'any **49 aC** Cèsar va derrotar a prop d'**Ilerda** (Lleida) els llegats de Pompeu Afrani i Petrei. Cèsar mateix ho narra a la *Guerra civil* (*De bello ciuili*, llibre I)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Ilerda** (Lleida)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Ilerda (Lleida)."
+          }
+        ],
+        "nota": "Convé saber els noms llatins de les principals ciutats romanes d'Hispània i de Catalunya: Tarraco, Barcino, Emporiae, Ilerda, Gerunda, Baetulo, Iluro, Ausa, Caesaraugusta, Emerita Augusta, Corduba, Carthago Noua, Italica..."
+      }
+    },
+    {
+      "id": "llati-2019-S-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Emerita Augusta, capital provincial d'Hispània",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "emerita augusta",
+        "mèrida",
+        "províncies d'hispània",
+        "tàrraco",
+        "lusitània"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades). Escriviu en els espais en blanc el nom de la ciutat antiga de la península Ibèrica que correspon a cada descripció.\n\nc) A Hispània hi hagué dues capitals provincials: Tàrraco i ______________.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre buits de 0,5 punts cadascun; les respostes errònies **no penalitzen**, així que cal respondre-les totes. Escriu el **nom antic** (llatí) de la ciutat, no només el modern (p. ex. *Barcino*, no «Barcelona»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Amb August, Hispània es va dividir en tres províncies: la **Tarraconense** (capital *Tarraco*), la **Lusitània** (capital *Emerita Augusta*, Mèrida, fundada el 25 aC per a veterans) i la **Bètica** (capital *Corduba*). Els criteris oficials donen ***Emerita Augusta***."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Emerita Augusta** (Mèrida)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Emerita Augusta (Mèrida)."
+          }
+        ],
+        "nota": "La frase de l'examen parla de «dues capitals provincials», però en època d'August n'hi havia tres (Tarraco, Emerita Augusta i Corduba); en època republicana, amb només dues províncies (Citerior i Ulterior), les capitals eren Carthago Noua/Tarraco i Corduba. L'oficial accepta *Emerita Augusta*; *Corduba* també seria històricament defensable, però la resposta esperada és Emerita Augusta. Convé saber els noms llatins de les principals ciutats romanes d'Hispània i de Catalunya: Tarraco, Barcino, Emporiae, Ilerda, Gerunda, Baetulo, Iluro, Ausa, Caesaraugusta, Emerita Augusta, Corduba, Carthago Noua, Italica..."
+      }
+    },
+    {
+      "id": "llati-2019-S-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Barcino: el temple d'August al mont Tàber",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "barcino",
+        "barcelona",
+        "temple d'august",
+        "mont tàber",
+        "culte imperial"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades). Escriviu en els espais en blanc el nom de la ciutat antiga de la península Ibèrica que correspon a cada descripció.\n\nd) Al cim del mont Tàber, ______________ conserva unes quantes columnes d'un temple dedicat al culte imperial d'August.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre buits de 0,5 punts cadascun; les respostes errònies **no penalitzen**, així que cal respondre-les totes. Escriu el **nom antic** (llatí) de la ciutat, no només el modern (p. ex. *Barcino*, no «Barcelona»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "El **mont Tàber** és el petit turó on es va fundar la colònia ***Barcino*** (Barcelona) en època d'August. Al carrer del Paradís s'hi conserven quatre columnes corínties del **temple d'August**, que presidia el fòrum."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Barcino** (Barcelona)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Barcino (Barcelona)."
+          }
+        ],
+        "nota": "Convé saber els noms llatins de les principals ciutats romanes d'Hispània i de Catalunya: Tarraco, Barcino, Emporiae, Ilerda, Gerunda, Baetulo, Iluro, Ausa, Caesaraugusta, Emerita Augusta, Corduba, Carthago Noua, Italica..."
+      }
+    },
+    {
+      "id": "llati-2019-S-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Deucalió parla a Pirra després del diluvi",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "deucalió",
+        "pirra",
+        "diluvi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que identifica el personatge que parla en els passatges següents de les *Metamorfosis* (traducció de Ferran Aguilera).\n\n3.1. «Oh esposa meva, oh única dona supervivent, a qui m'uneix un llinatge comú, el parentiu dels nostres pares, i després el matrimoni, ara també ens uneix el fet de compartir els mateixos perills. De totes les terres que el sol contempla, des del llevant fins al ponent, nosaltres dos en som tota la població. Tota la resta és en poder del mar.»",
+      "figures": [],
+      "opcions": {
+        "a": "Píram.",
+        "b": "Deucalió.",
+        "c": "Prometeu.",
+        "d": "Filèmon."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Busca a cada passatge les pistes que identifiquen l'episodi de les *Metamorfosis* d'Ovidi i descarta els personatges d'altres episodis."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Pistes: «única dona supervivent», «nosaltres dos en som tota la població», «tota la resta és en poder del mar»: és el **diluvi** (llibre I). Parla **Deucalió** a la seva esposa **Pirra**; eren cosins (ell, fill de Prometeu; ella, filla d'Epimeteu): d'aquí «el parentiu dels nostres pares». Prometeu és el pare de Deucalió, però no parla aquí; Píram i Filèmon són d'altres episodis."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Deucalió."
+          }
+        ],
+        "nota": "Cal conèixer bé els episodis de les *Metamorfosis* d'Ovidi que són lectura obligatòria (Deucalió i Pirra, Apol·lo i Dafne, Píram i Tisbe, Hermafrodit, Tirèsias, Filèmon i Baucis, Midas, Orfeu, Narcís...)."
+      }
+    },
+    {
+      "id": "llati-2019-S-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Júpiter i la disputa sobre el plaer (Tirèsias)",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "júpiter",
+        "juno",
+        "tirèsias"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que identifica el personatge que parla en els passatges següents de les *Metamorfosis* (traducció de Ferran Aguilera).\n\n3.2. «T'asseguro jo que el plaer que sentiu vosaltres [les dones] és molt més intens que el dels homes.»",
+      "figures": [],
+      "opcions": {
+        "a": "Bacus.",
+        "b": "Apol·lo.",
+        "c": "Mercuri.",
+        "d": "Júpiter."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Busca a cada passatge les pistes que identifiquen l'episodi de les *Metamorfosis* d'Ovidi i descarta els personatges d'altres episodis."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Episodi de **Tirèsias** (llibre III): **Júpiter**, de bon humor pel nèctar, diu en broma a **Juno** que el plaer de les dones és més gran que el dels homes. Per resoldre la disputa consulten Tirèsias, que havia estat home i dona; li dona la raó a Júpiter, Juno l'encega i Júpiter, en compensació, li concedeix el do de la profecia."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Júpiter."
+          }
+        ],
+        "nota": "Cal conèixer bé els episodis de les *Metamorfosis* d'Ovidi que són lectura obligatòria (Deucalió i Pirra, Apol·lo i Dafne, Píram i Tisbe, Hermafrodit, Tirèsias, Filèmon i Baucis, Midas, Orfeu, Narcís...)."
+      }
+    },
+    {
+      "id": "llati-2019-S-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Hermafrodit demana als pares que la font afebleixi els homes",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "hermafrodit",
+        "salmacis",
+        "hermes",
+        "afrodita"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que identifica el personatge que parla en els passatges següents de les *Metamorfosis* (traducció de Ferran Aguilera).\n\n3.3. «Atorgueu una gràcia al vostre fill, pare i mare meus, a mi que porto el nom de tots dos; que tot home que vingui a banyar-se a aquesta font en surti mig home i que perdi la fortalesa en el moment mateix de tenir contacte amb aquestes aigües.»",
+      "figures": [],
+      "opcions": {
+        "a": "Narcís.",
+        "b": "Orfeu.",
+        "c": "Hermafrodit.",
+        "d": "Midas."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Busca a cada passatge les pistes que identifiquen l'episodi de les *Metamorfosis* d'Ovidi i descarta els personatges d'altres episodis."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Pista decisiva: «a mi que porto el nom de **tots dos**» (els pares): **Hermafrodit**, fill d'**Hermes** (Mercuri) i d'**Afrodita** (Venus). La nimfa Salmacis s'hi uneix a la font i els dos cossos es fonen en un de sol (llibre IV); ell demana que la font tingui aquest efecte sobre tots els homes que s'hi banyin."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) Hermafrodit."
+          }
+        ],
+        "nota": "Cal conèixer bé els episodis de les *Metamorfosis* d'Ovidi que són lectura obligatòria (Deucalió i Pirra, Apol·lo i Dafne, Píram i Tisbe, Hermafrodit, Tirèsias, Filèmon i Baucis, Midas, Orfeu, Narcís...)."
+      }
+    },
+    {
+      "id": "llati-2019-S-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Tisbe s'adreça a la morera abans de morir",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "píram i tisbe",
+        "tisbe",
+        "morera"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que identifica el personatge que parla en els passatges següents de les *Metamorfosis* (traducció de Ferran Aguilera).\n\n3.4. «I tu, arbre, que amb les teves branques cobreixes ara un cos desventurat i aviat en cobriràs dos, conserva les marques de la sang i dona per sempre més fruits negres, vestits de dol, en record de la sang que tots dos hem vessat.»",
+      "figures": [],
+      "opcions": {
+        "a": "Tisbe.",
+        "b": "Dafne.",
+        "c": "Pirra.",
+        "d": "Baucis."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Busca a cada passatge les pistes que identifiquen l'episodi de les *Metamorfosis* d'Ovidi i descarta els personatges d'altres episodis."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Episodi de **Píram i Tisbe** (llibre IV): Tisbe troba Píram mort sota la **morera** i, abans de matar-se amb la mateixa espasa, demana a l'arbre que doni per sempre fruits foscos en record de la seva sang. Per això les mores, abans blanques, són negres. «Un cos ... aviat en cobriràs dos» = Píram i ella mateixa."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) Tisbe."
+          }
+        ],
+        "nota": "Cal conèixer bé els episodis de les *Metamorfosis* d'Ovidi que són lectura obligatòria (Deucalió i Pirra, Apol·lo i Dafne, Píram i Tisbe, Hermafrodit, Tirèsias, Filèmon i Baucis, Midas, Orfeu, Narcís...)."
+      }
+    },
+    {
+      "id": "llati-2019-S-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Els germans de Terenci: Dèmeas proposa casar Mició amb Sòstrata",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "terenci",
+        "els germans",
+        "adelphoe",
+        "comèdia palliata",
+        "menandre",
+        "contaminatio",
+        "educació",
+        "lectures obligatòries"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "**Mició**: *(Adreçant-se a Sirus, que és a dins de casa.)* Ho mana el meu germà? On és? *(Veient Dèmeas.)* Ets tu el que ho ha manat, Dèmeas?  \n**Dèmeas**: Sí, soc jo qui ordeno que en això i en tota la resta formem com més aviat millor una sola família: que la mimem, que l'ajudem i que la unim.  \n**Èsquinus**: Sí, pare, t'ho prego!  \n**Mició**: No desitjo una altra cosa.  \n**Dèmeas**: Més ben dit, per Hèrcules, és el que ens toca. De primer la dona d'Èsquinus té una mare…  \n**Mició**: Sí, i què?  \n**Dèmeas**: …honrada i virtuosa…  \n**Mició**: Això diuen.  \n**Dèmeas**: …ja grandeta…  \n**Mició**: Sí, ho sé.  \n**Dèmeas**: Ja fa temps que per edat no pot tenir fills. I no té ningú que miri per ella. Està sola…  \n**Mició**: *(A part.)* En què pensa aquest home?\n\n(Traducció de Gemma Puigvert)",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Llegiu el text següent, que pertany a una de les lectures obligatòries. En quinze línies com a mínim (unes cent cinquanta paraules), indiqueu el nom de l'obra i de l'autor i expliqueu el sentit d'aquest fragment situant-lo en la trama de l'obra. Comenteu també les característiques principals de la comèdia *palliata* (les fonts en què es va inspirar l'autor, la temàtica, l'estructura, els personatges, etc.) i esmenteu dues obres més del mateix autor.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **2 punts** (uns 20-25 minuts). És un **text expositiu** continu de mínim 15 línies (~150 paraules); per cobrir-ho tot, apunta a unes 250-300. La consigna té quatre blocs, i convé fer un paràgraf per a cadascun: (1) obra i autor; (2) sentit del fragment dins la trama; (3) característiques de la *palliata*; (4) dues obres més de l'autor. Els noms Mició, Dèmeas i Èsquinus identifiquen de seguida *Els germans* de Terenci."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Obra i autor**: *Els germans* (*Adelphoe*), de Terenci (s. II aC).\n2. **Sentit del fragment**: escena final; Dèmeas ha fet enderrocar la tàpia entre la casa de Mició i la de Sòstrata (mare de Pàmfila) i, per fer «una sola família», vol casar Mició amb la vella Sòstrata. Situa-ho a la trama: dos germans amb models educatius oposats (Dèmeas sever, Mició liberal), els fills Ctesifó i Èsquinus, el rapte de la cortesana i l'embaràs de Pàmfila.\n3. **Palliata**: nom (*pallium*), ambientació i personatges grecs, models de la Comèdia Nova (Menandre; *contaminatio* amb Dífil), estructura (pròleg, cinc actes, parts parlades i cantades, *plaudite*), personatges tipus, embolics amorosos, finalitat d'entretenir; en Terenci, psicologia i intenció moral.\n4. **Altres obres**: *Andria*, *Hecyra*, *Heautontimorumenos*, *Eunuchus*, *Phormio* (n'hi ha prou amb dues)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El fragment pertany a ***Els germans*** (*Adelphoe*) de **Publi Terenci Àfer**, comediògraf llatí del segle II aC. És una escena del final de l'obra: Dèmeas, que ha decidit canviar de caràcter, ha fet enderrocar la tàpia que separa la casa del seu germà Mició de la de la veïna Sòstrata, mare de Pàmfila, l'estimada d'Èsquinus. Ara, per formar «una sola família», proposa que Mició, solter i defensor de la bona vida, es casi amb la vella Sòstrata, cosa que Mició no s'espera gens.\n\nEls protagonistes són dos germans amb idees oposades sobre l'educació: Dèmeas, home de camp, sever i tradicional, ha educat amb rigor el seu fill Ctesifó; Mició, home de ciutat, liberal i comprensiu, ha criat Èsquinus, l'altre fill de Dèmeas. Èsquinus rapta una cortesana a l'alcavot Sannió per ajudar el seu germà Ctesifó, però ell estima Pàmfila, a qui ha deixat embarassada. Quan es descobreix tot, tots dos pares han de replantejar el seu sistema educatiu.\n\nL'obra és una comèdia ***palliata***, anomenada així pel *pallium*, el mantell grec: conserva l'ambientació grega (passa a Atenes) i els personatges grecs dels seus models de la **Comèdia Nova** àtica. Terenci s'inspira en *Els germans* de **Menandre** (*imitatio*) i hi afegeix una escena de Dífil (*contaminatio*). Les *palliatae* tenen un pròleg, cinc actes amb parts parlades, recitades i cantades i un final amb el *plaudite*; els personatges són tipus fixos (*senex*, *adulescens*, *seruus*, *leno*, *meretrix*...), tot i que Terenci en cuida molt la psicologia, i els arguments giren entorn d'embolics amorosos de joves. A més d'entretenir, Terenci té una clara intenció moralitzadora.\n\nDe Terenci en conservem sis comèdies; entre les altres, ***La noia d'Andros*** (*Andria*) i ***L'eunuc*** (*Eunuchus*)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Obra i autor: *Els germans* (*Adelphoe*) de Terenci."
+          },
+          {
+            "apartat": null,
+            "valor": "Sentit: Dèmeas ha fet enderrocar la tàpia entre les cases de Mició i Sòstrata (mare de Pàmfila) i, per formar una família unida, proposa que Mició es casi amb la vella Sòstrata."
+          },
+          {
+            "apartat": null,
+            "valor": "Trama: els germans Dèmeas (camp, sever) i Mició (ciutat, liberal) i els seus models educatius; Ctesifó educat per Dèmeas, Èsquinus per Mició; Èsquinus sostreu la cortesana Bàquides a l'alcavot Sannió per a Ctesifó i ha deixat embarassada Pàmfila; tots dos pares replantegen la seva educació."
+          },
+          {
+            "apartat": null,
+            "valor": "*Palliata*: nom del *pallium* grec; ambientació i personatges grecs; models de la Comèdia Nova (Menandre, *imitatio*; escena de Dífil, *contaminatio*); pròleg, cinc actes, escenes parlades, recitades i cantades, *plaudite*; personatges estereotipats (*senex*, *adulescens*, *seruus*, *uirgo*, *leno*, *parasitus*); embolics amorosos; entretenir (Terenci, a més, moralitza i cuida la psicologia)."
+          },
+          {
+            "apartat": null,
+            "valor": "Altres obres de Terenci: *Andria*, *Hecyra*, *Heautontimorumenos*, *Eunuchus*, *Phormio*."
+          }
+        ],
+        "nota": "La resposta model té unes 275 paraules (el mínim és ~150). Errors típics: atribuir l'obra a Plaute (també escriu *palliatae*, però Mició i Dèmeas són de Terenci); limitar-se a resumir l'obra sense explicar el fragment concret; oblidar les dues obres més; confondre *imitatio* i *contaminatio*. El model oficial és orientatiu i no s'ha de reproduir literalment."
+      }
+    },
+    {
+      "id": "llati-2019-S-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Els aqüeductes romans",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "aqüeductes",
+        "enginyeria romana",
+        "opus signinum",
+        "castellum aquae",
+        "pont del diable",
+        "tarraco",
+        "barcino"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *Els aqüeductes romans*. Expliqueu per què es construïen, per què canviaven de forma al llarg del recorregut, de quines parts constaven fins que distribuïen l'aigua a l'interior d'una ciutat, quines característiques havien de tenir per a funcionar correctament, quines parts es poden distingir en la seva arquitectura quan travessen una vall, etcètera. Finalment, esmenteu dues ciutats importants de Catalunya que conservin restes d'aqüeductes romans sobre arcs.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **2 punts** (uns 20-25 minuts). Text expositiu continu de mínim 15 línies (~150 paraules); amb sis qüestions, apunta a unes 250-300 paraules. Segueix l'ordre de la consigna: (1) per què es construïen; (2) per què canviaven de forma; (3) parts fins a la distribució; (4) condicions de funcionament (pendent, impermeabilització); (5) arquitectura sobre una vall; (6) dues ciutats catalanes."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Finalitat**: proveïment continuat d'aigua a ciutats grans (fonts, termes, cases).\n2. **Canvi de forma**: s'adapta al relleu per mantenir el pendent (rec cobert, galeria subterrània, pont).\n3. **Parts**: captació (font, resclosa, cisterna o embassament) → canalització → pous de decantació i de registre → *castellum aquae* → canonades de plom → fonts públiques, termes, cases.\n4. **Funcionament**: pendent suau i regular (ni massa ràpid ni estancat) i canal impermeabilitzat amb *opus signinum*.\n5. **Sobre una vall**: pilars, un o més pisos d'arcs i el canal a dalt; carreus sense morter; de vegades, viaducte.\n6. **Catalunya**: Tarragona (Pont del Diable) i Barcelona."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Els romans construïen **aqüeductes** per garantir el proveïment continuat d'aigua a les ciutats grans, que no podien viure només de l'aigua dels pous i de les cisternes. L'aigua es captava en una font o en un riu i es retenia en una **resclosa**, una cisterna o fins i tot un embassament, que regulava el cabal que entrava a la conducció.\n\nBàsicament, l'aqüeducte era una **canalització** (*specus*) impermeabilitzada amb un morter especial, l'***opus signinum***, que havia de baixar amb un **pendent suau i constant**: si l'aigua corria massa de pressa malmetia el canal, i si no hi havia pendent s'estancava. Per mantenir aquest pendent, la canalització canviava de forma segons el relleu: podia ser un rec superficial cobert amb lloses, una **galeria subterrània** excavada a la muntanya o un canal sobre un **pont**. Al llarg del recorregut hi havia pous de decantació on es dipositaven les impureses i pous de registre per on accedien els encarregats del manteniment.\n\nEn arribar a la ciutat, l'aigua desguassava en un ***castellum aquae***, un dipòsit distribuïdor des d'on, amb canonades de plom, anava a les **fonts públiques**, a les **termes** i, finalment, a les cases particulars.\n\nQuan calia travessar una vall, els enginyers elevaven el canal sobre un pont de **pilars** i un o més **pisos d'arcs**, segons el desnivell; a dalt hi passava el canal (*specus*). Sovint es construïa amb **carreus** encaixats sense morter, i de vegades servia també de pont per passar (viaducte).\n\nA Catalunya en conserven restes sobre arcs **Tarragona** (el Pont del Diable o aqüeducte de les Ferreres) i **Barcelona** (restes al costat de les torres de la plaça Nova)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Finalitat: garantir el proveïment continuat d'aigua a una gran població que no en tenia prou amb els pous."
+          },
+          {
+            "apartat": null,
+            "valor": "Forma: canalització impermeabilitzada (*opus signinum*) amb pendent progressiu i regular (flux suau); s'adapta a la topografia com a rec superficial cobert, galeria subterrània o canal sobre un pont."
+          },
+          {
+            "apartat": null,
+            "valor": "Parts: resclosa, cisterna o embassament que regula el flux; canalització; pous (sifons) de sedimentació i pous d'accés per al manteniment; *castellum aquae*; canonades de plom fins a fonts públiques, termes i cases."
+          },
+          {
+            "apartat": null,
+            "valor": "Sobre una vall: pont de pilars amb un o més pisos d'arcs segons el desnivell; carreus encaixats sense morter; de vegades també viaducte."
+          },
+          {
+            "apartat": null,
+            "valor": "Ciutats de Catalunya amb restes sobre arcs: Tarragona i Barcelona."
+          }
+        ],
+        "nota": "La resposta model té unes 270 paraules (el mínim és ~150). Errors típics: limitar-se a descriure el pont d'arcs i oblidar el recorregut sencer i la distribució (*castellum aquae*); no explicar per què el pendent ha de ser suau i constant; citar ciutats de fora de Catalunya (Segòvia, Mèrida) quan es demanen ciutats catalanes. El model oficial és orientatiu."
+      }
+    }
+  ]
+}

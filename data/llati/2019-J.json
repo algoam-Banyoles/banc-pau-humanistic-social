@@ -1,0 +1,857 @@
+{
+  "examen": {
+    "id": "llati-2019-J",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2019,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/llati/2019-J-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2019-J-solucio.pdf",
+    "estructura": "Sèrie 1, convocatòria ordinària (juny). Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un fragment de Cèsar, *Guerra de les Gàl·lies* (5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions (A i B) i cal triar-ne UNA i fer-ne els tres exercicis. Opció A: 2. morfosintaxi sobre el text (1 punt, dos apartats); 3. completar quatre frases amb llatinismes d'una llista (2 punts; 0,5 per encert, els errors no resten); 4. exposició sobre un passatge de les *Metamorfosis* d'Ovidi (l'edat d'or) i l'exili de l'autor (2 punts, mínim 15 línies, unes 150 paraules). Opció B: 2. morfosintaxi sobre el text (1 punt, dos apartats); 3. quatre preguntes d'opció múltiple de literatura llatina (2 punts; 0,5 per encert, −0,16 per error, les no contestades no resten); 4. exposició sobre la Barcelona romana a partir d'un plànol (2 punts, mínim 15 línies, unes 150 paraules)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2019-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Cèsar: els trèvers es disposen a atacar Labiè, però arriben dues legions",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "cèsar",
+        "de bello gallico",
+        "ablatiu absolut",
+        "dum temporal",
+        "cum inversum",
+        "oració d'infinitiu",
+        "oració de relatiu",
+        "verb deponent"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**L'arribada de dues legions enviades per Cèsar desmunta els plans d'atac dels trèvers**\n\nDum haec a Caesare geruntur, **Treueri**, magnis peditatus equitatusque copiis coactis, **Labienum** **cum** una legione, quae in eorum **finibus** hiemauerat, **adoriri** parabant; iamque ab eo non **longius** **bidui** uia **aberant**, cum **duas** legiones uenisse **missu** Caesaris cognoscunt.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, VI, 7, 1-2\n\n**Lèxic subratllat** (per ordre alfabètic; al text, en negreta):\n\n- *absum, abesse, afui* (irr., intr.): estar allunyat, distar. | *abesse a/ab*: estar lluny de.\n- *adorior, adoriri, adortus sum* (4a, dep. tr.): atacar.\n- *biduum, -i* (n.): dos dies. | *bidui uia*: trajecte de dos dies.\n- *cum* (prep. d'abl.): (mil.) al capdavant de.\n- *duo, -ae, -o* (adj. num.): dos.\n- *finis, -is* (m. i f., sovint en plural): territori.\n- *Labienus, -i* (m.): Labiè (lloctinent de Cèsar).\n- *longius* (adv. comp.): més lluny. | *longius abesse*: estar més lluny.\n- *missus, -us* (m.): encàrrec.\n- *Treueri, -orum* (m. pl.): els trèvers (tribu gal·la).",
+      "enunciat": "Exercici 1 (comú a les dues opcions). Feu la versió del text següent [5 punts].",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Un sol període llarg de Cèsar (*Guerra de les Gàl·lies*, llibre VI) dividit per un punt i coma en dos blocs. Val **5 punts**, la meitat de l'examen: dedica-hi uns 40-45 minuts.\n\nMètode: (1) llegeix el títol, que ja t'explica la situació (els trèvers volen atacar Labiè, però l'arribada de dues legions de Cèsar els fa canviar de plans); (2) marca els **verbs conjugats** i el nexe que els introdueix: *geruntur* (*dum*), *parabant* (principal), *hiemauerat* (*quae*), *aberant* (principal, coordinada amb *-que*), *cognoscunt* (*cum*); (3) localitza les construccions de participi i d'infinitiu: l'**ablatiu absolut** *magnis ... copiis coactis* i l'**oració d'infinitiu** *duas legiones uenisse*; (4) fes una traducció literal i després poleix-la.\n\nParanys: *cum una legione* no és «amb» sinó «al capdavant de» (ho diu el lèxic); *adoriri* és un infinitiu **deponent** (forma passiva, significat actiu: «atacar»); *bidui uia* és el segon terme de la comparació de *longius* («més lluny que el trajecte de dos dies»); el *cum* final és conjunció temporal amb indicatiu (*cum inversum*: «quan»), no la preposició; *uenisse* és infinitiu **perfet** (anterioritat: «que havien arribat»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració (subordinada temporal amb dum)",
+            "cos": "*Dum haec a Caesare geruntur*\n\n- *Dum*: conjunció temporal («mentre»), amb **present d'indicatiu** per expressar simultaneïtat amb la principal (encara que aquesta sigui en passat).\n- *geruntur*: 3a pl. present d'indicatiu **passiu** de *gero, -ere* («ser fet, ser dut a terme»).\n- *haec*: nominatiu neutre plural del demostratiu *hic, haec, hoc*: **subjecte** («aquestes coses»).\n- *a Caesare*: *a* + ablatiu: **complement agent** («per Cèsar»).\n\nLiteral: «Mentre aquestes coses són fetes per Cèsar»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració (principal amb ablatiu absolut i relativa)",
+            "cos": "*Treueri, magnis peditatus equitatusque copiis coactis, Labienum cum una legione, quae in eorum finibus hiemauerat, adoriri parabant*\n\n- Verb principal: *parabant*, 3a pl. imperfet d'indicatiu actiu de *paro, -are* («es disposaven a, preparaven»).\n- **Subjecte**: *Treueri* (nominatiu m. pl.: «els trèvers»).\n- *adoriri*: infinitiu present del verb **deponent** *adorior* («atacar»): **CD** de *parabant* (infinitiu concertat).\n- *Labienum*: acusatiu sg.: **CD** de *adoriri*.\n- *cum una legione*: *cum* + ablatiu, amb el valor militar que dona el lèxic («al capdavant d'una (sola) legió»); complement de *Labienum*. *unus* pot tenir valor de «sol, únic».\n- *quae in eorum finibus hiemauerat*: **subordinada adjectiva de relatiu**; *quae* (nominatiu f. sg.) en fa de subjecte, antecedent *legione*; *hiemauerat* és 3a sg. plusquamperfet d'indicatiu de *hiemo* («havia passat l'hivern»); *in eorum finibus*: CC de lloc on (*finibus*, ablatiu pl.; *eorum*, genitiu pl. que es refereix als trèvers: «en el territori d'ells, en el seu territori»).\n- *magnis peditatus equitatusque copiis coactis*: **ablatiu absolut**. *coactis* és el participi perfet passiu de *cogo* («reunir, aplegar») en ablatiu pl. f., concordat amb *copiis* (ablatiu pl. de *copia*, «tropes, efectius»), que porta l'adjectiu *magnis* i dos **genitius** de la 4a declinació, *peditatus* i *equitatus* («d'infanteria i de cavalleria»), coordinats per *-que*.\n\nLiteral: «els trèvers, aplegades grans tropes d'infanteria i de cavalleria, es disposaven a atacar Labiè al capdavant d'una sola legió, que havia hivernat en el territori d'ells»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració (coordinada) i subordinada temporal amb cum",
+            "cos": "*iamque ab eo non longius bidui uia aberant, cum duas legiones uenisse missu Caesaris cognoscunt.*\n\n- *-que* coordina aquesta oració amb l'anterior; *iam*: adverbi («ja»).\n- Verb: *aberant*, 3a pl. imperfet d'indicatiu de *absum* («estaven lluny»); subjecte el·líptic: els trèvers.\n- *ab eo*: *ab* + ablatiu del pronom *is* (= Labiè): «d'ell» (*abesse ab*: estar lluny de).\n- *non longius*: adverbi comparatiu negat («no més lluny»); *bidui uia*: *uia* és ablatiu sg., **segon terme de la comparació** (ablatiu de comparació), i *bidui* (genitiu de *biduum*) n'és el complement del nom: «que el trajecte de dos dies».\n- *cum ... cognoscunt*: conjunció **temporal** *cum* + indicatiu (*cum inversum*, típic després de *iam* ... : «i ja ..., quan de sobte s'assabenten»); *cognoscunt* és 3a pl. present d'indicatiu de *cognosco* (present històric); subjecte sobreentès: *Treueri*.\n- CD de *cognoscunt*: l'**oració d'infinitiu** *duas legiones uenisse*: *uenisse*, infinitiu perfet actiu de *uenio* (anterioritat: «que havien arribat»); *duas legiones*, acusatiu f. pl.: **subjecte** de l'infinitiu.\n- *missu Caesaris*: *missu*, ablatiu sg. de *missus, -us* (4a decl.), ablatiu de causa / manera («per encàrrec»); *Caesaris*, genitiu: complement del nom.\n\nLiteral: «i ja no distaven d'ell més lluny que el camí de dos dies, quan coneixen que dues legions havien arribat per encàrrec de Cèsar»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Mentre aquestes coses són fetes per Cèsar, els trèvers, aplegades grans tropes d'infanteria i de cavalleria, es disposaven a atacar Labiè al capdavant d'una sola legió, que havia hivernat en el territori d'ells; i ja no estaven d'ell més lluny que el camí de dos dies, quan coneixen que dues legions havien vingut per encàrrec de Cèsar."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Mentre Cèsar duia a terme aquestes operacions, els trèvers, després d'haver reunit grans contingents d'infanteria i de cavalleria, es disposaven a atacar Labiè, que estava al capdavant de l'única legió que havia passat l'hivern al seu territori; i ja no es trobaven a més de dos dies de camí d'ell, quan s'assabenten que, per ordre de Cèsar, hi havien arribat dues legions."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial orientativa: «Mentre aquestes coses són dutes a terme per Cèsar, un cop aplegats grans efectius d'infanteria i de cavalleria, els trèvers es disposaven a atacar Labiè, al capdavant de l'única legió que havia passat l'hivern en els seus territoris; i ja no estaven més lluny d'ell que el trajecte de dos dies, quan s'assabenten que, per encàrrec de Cèsar, havien arribat dues legions.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Punts clau: *dum* + present (simultaneïtat); ablatiu absolut *magnis ... copiis coactis*; *adoriri* deponent, CD de *parabant*; *cum una legione* = «al capdavant de»; relativa *quae ... hiemauerat* (antecedent *legione*); *bidui uia* segon terme de la comparació; *cum* temporal + indicatiu; oració d'infinitiu *duas legiones uenisse* (infinitiu perfet: anterioritat)."
+          }
+        ],
+        "nota": "La pauta admet formes diverses de traducció. Es pot mantenir el present històric (*cognoscunt* → «s'assabenten») com fa la versió oficial o passar-lo a passat («es van assabentar»), però cal ser coherent. Errors típics: traduir *cum una legione* per «amb una legió» (Labiè no és «amb», és el comandant); prendre *adoriri* com a infinitiu passiu («ser atacat»); traduir el segon *cum* com a preposició; traduir *uenisse* com a present («que arriben»); no veure que *eorum* es refereix als trèvers (el territori és dels trèvers, on hivernava la legió de Labiè)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: ablatiu absolut magnis peditatus equitatusque copiis coactis; cum temporal i subjecte de cognoscunt",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi perfet",
+        "genitiu partitiu",
+        "cum temporal",
+        "subjecte el·líptic",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**L'arribada de dues legions enviades per Cèsar desmunta els plans d'atac dels trèvers**\n\nDum haec a Caesare geruntur, **Treueri**, magnis peditatus equitatusque copiis coactis, **Labienum** **cum** una legione, quae in eorum **finibus** hiemauerat, **adoriri** parabant; iamque ab eo non **longius** **bidui** uia **aberant**, cum **duas** legiones uenisse **missu** Caesaris cognoscunt.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, VI, 7, 1-2",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de morfosintaxi [1 punt], sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Digueu com s'anomena la construcció formada per *magnis peditatus equitatusque copiis coactis*; expliqueu els elements que la constitueixen i la relació sintàctica existent entre ells.",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "En la construcció ***cum*** *duas legiones uenisse missu Caesaris* ***cognoscunt*** (amb *cum* i *cognoscunt* subratllats), digueu quin tipus d'oració introdueix *cum* i quin és el subjecte del verb *cognoscunt*.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 de l'opció A (1 punt, uns 10 minuts). Els criteris no detallen el repartiment; se suposa 0,5 punts per apartat. Respon amb frases completes: nom de la construcció → elements (forma: cas, nombre, temps) → relació o funció."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Busca el participi: *coactis* (de *cogo*, supí *coactum*), en ablatiu plural. Concorda amb *copiis*, també ablatiu plural. El sintagma no fa cap funció dins de l'oració principal (el subjecte és *Treueri* i el CD de l'infinitiu és *Labienum*): és un **ablatiu absolut**. La relació interna és de predicat (el participi) i subjecte (el substantiu)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "És un **ablatiu absolut**. Està constituït pel participi perfet passiu *coactis* (de *cogo*), en ablatiu plural femení, concordat en cas, gènere i nombre amb el substantiu *copiis* (ablatiu plural de *copia, -ae*). El participi *coactis* és el **predicat verbal** de la construcció i el substantiu *copiis* n'és el **subjecte**. El substantiu porta com a complements l'adjectiu *magnis* i els genitius partitius *peditatus* i *equitatus* (4a declinació), coordinats per *-que*. Equival a una subordinada temporal: «un cop aplegats grans efectius d'infanteria i de cavalleria»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Aquí *cum* va seguit d'un verb en **indicatiu** (*cognoscunt*), no d'un ablatiu: és la conjunció temporal («quan»), no la preposició. *cognoscunt* és 3a persona del plural: busca un nominatiu plural animat al context. No n'hi ha cap a la mateixa oració (*duas legiones* és acusatiu, subjecte de l'infinitiu): el subjecte és el de tot el període, *Treueri*, sobreentès."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El nexe subordinant *cum* introdueix una **oració subordinada adverbial temporal** (amb indicatiu, l'anomenat *cum inversum*: «quan»). El subjecte del verb *cognoscunt* és **sobreentès (el·líptic)**: *Treueri*, «els trèvers», el subjecte de les oracions principals anteriors."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Ablatiu absolut: participi *coactis* (ablatiu) concordat amb el substantiu *copiis* (ablatiu); el participi és el predicat verbal i el substantiu en fa de subjecte (opcional: *magnis* i els genitius partitius *peditatus equitatusque* complementen *copiis*)."
+          },
+          {
+            "apartat": "b",
+            "valor": "*cum* introdueix una subordinada adverbial temporal; el subjecte sobreentès de *cognoscunt* és *Treueri*."
+          }
+        ],
+        "nota": "Errors típics: dir que *duas legiones* és el subjecte de *cognoscunt* (és acusatiu: subjecte de l'infinitiu *uenisse*); confondre el *cum* conjunció amb el *cum* preposició de *cum una legione*; dir «ablatiu absolut» sense explicar quins elements el formen i quina relació tenen."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: relativa quae ... hiemauerat; oració d'infinitiu duas legiones uenisse",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "oració de relatiu",
+        "antecedent",
+        "concordança",
+        "oració d'infinitiu",
+        "subjecte en acusatiu",
+        "complement directe",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**L'arribada de dues legions enviades per Cèsar desmunta els plans d'atac dels trèvers**\n\nDum haec a Caesare geruntur, **Treueri**, magnis peditatus equitatusque copiis coactis, **Labienum** **cum** una legione, quae in eorum **finibus** hiemauerat, **adoriri** parabant; iamque ab eo non **longius** **bidui** uia **aberant**, cum **duas** legiones uenisse **missu** Caesaris cognoscunt.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, VI, 7, 1-2",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de morfosintaxi [1 punt], sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En la construcció ***quae*** *in eorum finibus hiemauerat* (amb *quae* subratllat), digueu quin tipus d'oració introdueix *quae*; indiqueu-ne l'antecedent i expliqueu com hi concorda.",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu com s'anomena l'estructura *duas legiones* ***uenisse*** *missu Caesaris* (amb *uenisse* subratllat) i quina funció sintàctica fa respecte a *cognoscunt*; indiqueu també el subjecte de *uenisse*.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 de l'opció B (1 punt, uns 10 minuts). Els criteris no detallen el repartiment; se suposa 0,5 punts per apartat. Respon amb frases completes i esmenta sempre els mots llatins exactes."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*quae* és una forma del relatiu *qui, quae, quod*: introdueix una oració adjectiva. Pot ser nominatiu f. sg., nominatiu f. pl. o nominatiu/acusatiu n. pl.; com que el verb *hiemauerat* és singular, *quae* és **femení singular**. El nom femení singular que té just al davant és *legione*. Recorda la regla: el relatiu concorda amb l'antecedent en **gènere i nombre**, però el cas depèn de la funció que fa dins la seva oració (aquí, subjecte → nominatiu; l'antecedent és ablatiu)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El pronom *quae* introdueix una **oració subordinada adjectiva o de relatiu**. El seu antecedent és *una legione*. *Quae* i *legione* concorden en **gènere (femení) i nombre (singular)**, però no en cas: *legione* és ablatiu (depèn de *cum*), mentre que *quae* és nominatiu perquè fa de subjecte de *hiemauerat*."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Un infinitiu (*uenisse*) amb un subjecte en acusatiu (*duas legiones*) que depèn d'un verb de coneixement (*cognoscunt*) és una **oració d'infinitiu** (completiva o substantiva). Pregunta't: «Què saben els trèvers?» → que han arribat dues legions: és el CD."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "L'estructura *duas legiones uenisse missu Caesaris* és una **oració subordinada substantiva (completiva) d'infinitiu**. Fa la funció de **complement directe** del verb *cognoscunt*. El subjecte de l'infinitiu *uenisse* (infinitiu perfet de *uenio*) és el sintagma en acusatiu ***duas legiones***."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Subordinada adjectiva (de relatiu); antecedent *una legione*; concorden en gènere (femení) i nombre (singular)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Subordinada completiva d'infinitiu; fa de complement directe de *cognoscunt*; subjecte de *uenisse*: el sintagma en acusatiu *duas legiones*."
+          }
+        ],
+        "nota": "Errors típics: dir que el relatiu concorda també en cas amb l'antecedent; prendre *eorum* o *finibus* com a antecedent; dir que el subjecte de *uenisse* és *Caesaris* o *Treueri*; no esmentar que el subjecte de l'infinitiu va en acusatiu."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «rigor mortis»: la rigidesa cadavèrica",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "rigor mortis",
+        "llatinismes",
+        "expressions llatines",
+        "lèxic mèdic"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\na) El personal d'infermeria ha de col·locar la persona difunta en posició de decúbit supí, amb els braços i les cames estirats, sobre el llit, abans que actuï el __________________.\n\nLlatinismes: *rictus*, *ex aequo*, *in mente*, *addenda*, *rigor mortis*, *vis còmica*, *placebo*, *sine die*, *súmmum*, *ràtio*, *superàvit*, *in extremis*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adverbi, locució); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Rigor mortis* (literalment «rigidesa de la mort») és l'enduriment dels músculs que es produeix unes hores després de la mort. Per això cal col·locar el cos estirat **abans** que aparegui. El context (persona difunta, personal d'infermeria) i l'article masculí *el* hi encaixen perfectament."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) El personal d'infermeria ha de col·locar la persona difunta en posició de decúbit supí, amb els braços i les cames estirats, sobre el llit, abans que actuï el **rigor mortis**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*rigor mortis*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *rictus* (contracció dels llavis o de la cara), *ex aequo* (amb el mateix mèrit, empatats), *addenda* (coses que cal afegir a un escrit), *vis còmica* (capacitat de fer riure), *placebo* (substància sense efecte terapèutic), *súmmum* (el màxim), *superàvit* (excés d'ingressos sobre les despeses), *in extremis* (en l'últim moment)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «in mente»: tenir una idea al cap",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "in mente",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nb) Feia temps que ho tenia __________________ i avui finalment ha publicat la primera entrada en el seu blog de viatges.\n\nLlatinismes: *rictus*, *ex aequo*, *in mente*, *addenda*, *rigor mortis*, *vis còmica*, *placebo*, *sine die*, *súmmum*, *ràtio*, *superàvit*, *in extremis*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adverbi, locució); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*In mente* vol dir «en la ment, al pensament». «Tenir una cosa *in mente*» és tenir-la pensada o projectada, que és el que diu la frase: feia temps que pensava obrir el blog."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "b) Feia temps que ho tenia **in mente** i avui finalment ha publicat la primera entrada en el seu blog de viatges."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*in mente*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *rictus* (contracció dels llavis o de la cara), *ex aequo* (amb el mateix mèrit, empatats), *addenda* (coses que cal afegir a un escrit), *vis còmica* (capacitat de fer riure), *placebo* (substància sense efecte terapèutic), *súmmum* (el màxim), *superàvit* (excés d'ingressos sobre les despeses), *in extremis* (en l'últim moment)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «sine die»: ajornament sense data",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "sine die",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nc) No se sap quan començarà l'activitat: la inauguració de l'auditori ha quedat ajornada __________________.\n\nLlatinismes: *rictus*, *ex aequo*, *in mente*, *addenda*, *rigor mortis*, *vis còmica*, *placebo*, *sine die*, *súmmum*, *ràtio*, *superàvit*, *in extremis*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adverbi, locució); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Sine die* (literalment «sense dia») significa «sense data fixada». La primera part de la frase («no se sap quan començarà») n'és la pista: un ajornament *sine die* és un ajornament indefinit."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "c) No se sap quan començarà l'activitat: la inauguració de l'auditori ha quedat ajornada **sine die**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*sine die*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *rictus* (contracció dels llavis o de la cara), *ex aequo* (amb el mateix mèrit, empatats), *addenda* (coses que cal afegir a un escrit), *vis còmica* (capacitat de fer riure), *placebo* (substància sense efecte terapèutic), *súmmum* (el màxim), *superàvit* (excés d'ingressos sobre les despeses), *in extremis* (en l'últim moment)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «ràtio»: proporció d'infants per educador",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ràtio",
+        "llatinismes",
+        "lèxic d'origen llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nd) És important assolir un bon nivell de qualitat pel que fa a la __________________ d'infants per educador en l'etapa d'educació infantil.\n\nLlatinismes: *rictus*, *ex aequo*, *in mente*, *addenda*, *rigor mortis*, *vis còmica*, *placebo*, *sine die*, *súmmum*, *ràtio*, *superàvit*, *in extremis*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adverbi, locució); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Ràtio* (del llatí *ratio*, «càlcul, compte, proporció») és la relació numèrica entre dues quantitats: aquí, el nombre d'infants per cada educador. Hi concorda l'article femení *la* i la construcció «X per Y»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "d) És important assolir un bon nivell de qualitat pel que fa a la **ràtio** d'infants per educador en l'etapa d'educació infantil."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*ràtio*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *rictus* (contracció dels llavis o de la cara), *ex aequo* (amb el mateix mèrit, empatats), *addenda* (coses que cal afegir a un escrit), *vis còmica* (capacitat de fer riure), *placebo* (substància sense efecte terapèutic), *súmmum* (el màxim), *superàvit* (excés d'ingressos sobre les despeses), *in extremis* (en l'últim moment)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Horaci i el cercle de Mecenas",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "horaci",
+        "mecenas",
+        "cercles literaris",
+        "època d'august"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B. Encercleu la lletra que correspon a l'opció correcta.\n\n3.1. El poeta Horaci fou un membre destacat del cercle literari",
+      "figures": [],
+      "opcions": {
+        "a": "dels *poetae noui*.",
+        "b": "dels Escipions.",
+        "c": "de Mecenas.",
+        "d": "de Messal·la."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps segur que són falses; respon només si tens algun indici, perquè endevinar a l'atzar entre quatre opcions gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Mecenas**, conseller i amic d'August, va reunir al seu voltant Virgili, Horaci i Properci; va ser ell qui va regalar a Horaci la finca de la Sabina. Les altres opcions: els *poetae noui* (neotèrics) són la generació de Catul·le, anterior; el cercle dels Escipions (s. II aC) és el de Terenci; el cercle de Messal·la és el de Tibul i el jove Ovidi."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) de Mecenas."
+          }
+        ],
+        "nota": "Repassa els autors de les lectures i de la història de la literatura llatina: Plaute i Terenci (comèdia), Ciceró, Cèsar, Livi (prosa), Catul·le, Virgili, Horaci, Ovidi, Tibul i Properci (poesia), amb els cercles literaris (Escipions, Mecenas, Messal·la)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Terenci, autor d'Eunuchus",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "terenci",
+        "plaute",
+        "comèdia llatina",
+        "eunuchus"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B. Encercleu la lletra que correspon a l'opció correcta.\n\n3.2. El comediògraf Terenci és l'autor de",
+      "figures": [],
+      "opcions": {
+        "a": "*Miles gloriosus*.",
+        "b": "*Eunuchus*.",
+        "c": "*Aulularia*.",
+        "d": "*Persa*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps segur que són falses; respon només si tens algun indici, perquè endevinar a l'atzar entre quatre opcions gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Terenci va escriure sis comèdies: *Andria*, *Hecyra*, *Heautontimorumenos*, ***Eunuchus***, *Phormio* i *Adelphoe*. *Miles gloriosus* (El soldat fanfarró), *Aulularia* (La comèdia de l'olla) i *Persa* (El persa) són de **Plaute**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) *Eunuchus*."
+          }
+        ],
+        "nota": "Repassa els autors de les lectures i de la història de la literatura llatina: Plaute i Terenci (comèdia), Ciceró, Cèsar, Livi (prosa), Catul·le, Virgili, Horaci, Ovidi, Tibul i Properci (poesia), amb els cercles literaris (Escipions, Mecenas, Messal·la)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ovidi, desterrat a Tomis",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "exili a tomis",
+        "august",
+        "tristes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B. Encercleu la lletra que correspon a l'opció correcta.\n\n3.3. El poeta Ovidi va morir desterrat a",
+      "figures": [],
+      "opcions": {
+        "a": "Sulmona.",
+        "b": "Atenes.",
+        "c": "Tomis.",
+        "d": "Siracusa."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps segur que són falses; respon només si tens algun indici, perquè endevinar a l'atzar entre quatre opcions gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "August va desterrar Ovidi l'any 8 dC a **Tomis** (avui Constança, Romania), a la costa del mar Negre, on va morir cap al 17-18 dC. Paranys: **Sulmona** és la seva ciutat natal; Atenes és on molts romans anaven a estudiar; Siracusa no hi té relació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) Tomis."
+          }
+        ],
+        "nota": "Repassa els autors de les lectures i de la història de la literatura llatina: Plaute i Terenci (comèdia), Ciceró, Cèsar, Livi (prosa), Catul·le, Virgili, Horaci, Ovidi, Tibul i Properci (poesia), amb els cercles literaris (Escipions, Mecenas, Messal·la)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Tit Livi, autor d'Ab urbe condita",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "tit livi",
+        "ab urbe condita",
+        "historiografia llatina"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B. Encercleu la lletra que correspon a l'opció correcta.\n\n3.4. L'autor de l'obra historiogràfica *Ab urbe condita* és",
+      "figures": [],
+      "opcions": {
+        "a": "Terenci.",
+        "b": "Ciceró.",
+        "c": "Plaute.",
+        "d": "Tit Livi."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Descarta primer les opcions que saps segur que són falses; respon només si tens algun indici, perquè endevinar a l'atzar entre quatre opcions gairebé no compensa."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Ab urbe condita* («Des de la fundació de la ciutat») és la gran història de Roma de **Tit Livi** (59 aC - 17 dC), en 142 llibres dels quals se'n conserven 35. Terenci i Plaute són comediògrafs, i Ciceró és orador i filòsof."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Tit Livi."
+          }
+        ],
+        "nota": "Repassa els autors de les lectures i de la història de la literatura llatina: Plaute i Terenci (comèdia), Ciceró, Cèsar, Livi (prosa), Catul·le, Virgili, Horaci, Ovidi, Tibul i Properci (poesia), amb els cercles literaris (Escipions, Mecenas, Messal·la)."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Ovidi, Metamorfosis: l'edat d'or i les quatre edats de la humanitat; l'exili a Tomis",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "edats de la humanitat",
+        "edat d'or",
+        "cercle de messal·la",
+        "august",
+        "ars amatoria",
+        "exili a tomis"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "La terra mateixa, lliure de tota exigència, sense ser tocada pel rascle, ni ferida per l'arada, ho donava tot espontàniament; […]. La primavera era eterna i plàcids zèfirs acariciaven amb tèbies brises les flors, que naixien sense llavor. Però, a més a més, també la terra produïa els cereals sense haver estat llaurada i el camp, sense necessitat de guaret, es tornava daurat d'espigues carregades de gra. Corrien rius de llet i rius de nèctar, i mels daurades destil·laven de l'alzina, sempre verda.\n\n(Traducció de Ferran Aguilera)",
+      "enunciat": "Opció A. Exercici d'exposició d'un tema de literatura o de civilització romanes [2 punts]. Llegiu el text següent, que pertany a una de les lectures obligatòries. En quinze línies com a mínim (unes cent cinquanta paraules), expliqueu tot el que sabeu sobre aquest passatge (a quina obra i a quin episodi concret d'aquesta obra pertany, quina edat descriu, com viu la raça d'homes que habita la terra en aquest context, quines són les generacions de mortals successives, què caracteritza cada època, etc.). Expliqueu també la relació de l'autor del text amb els cercles literaris del final de l'època d'August i el càstig que li imposà l'emperador per causa d'un dels seus poemes.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **2 punts** (uns 20-25 minuts). Text expositiu de mínim 15 línies (~150 paraules); amb tot el que demana, és millor arribar a 250-300. L'enunciat ja et dona l'esquema: segueix-lo en ordre i no et deixis cap punt. Les pistes per identificar el text: terra que ho dona tot sense conrear, primavera eterna, rius de llet i de nèctar → **edat d'or** de les *Metamorfosis* d'Ovidi."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació**: Ovidi, *Metamorfosis*, llibre I, episodi de les quatre edats (després de la creació).\n2. **Edat d'or**: sense lleis ni càstigs, sense navegació, muralles ni guerra; la terra produeix espontàniament; primavera eterna.\n3. **Les edats successives**: plata (quatre estacions, cases, agricultura i ramaderia), bronze (més cruel i bel·licosa), ferro (vicis, propietat privada, navegació per lucre, guerra).\n4. **Ovidi i els cercles literaris**: generació més jove que Virgili i Horaci; cercle de Messal·la (no el de Mecenas); amistat i admiració per Tibul; poesia no al servei del programa d'August.\n5. **El càstig**: exili (*relegatio*) a Tomis el 8 dC; *carmen et error* (*Tristes*, II): l'*Ars amatoria* i un error desconegut."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El passatge pertany a les ***Metamorfosis*** d'**Ovidi** (llibre I), concretament a l'episodi de **les quatre edats de la humanitat**, que el poeta situa just després de la creació del món i de l'home. El fragment descriu l'**edat d'or**.\n\nLa primera raça d'homes viu sense preocupacions i sense lleis ni càstigs, perquè tothom obra rectament de manera espontània. No cal navegar, ni envoltar les ciutats de muralles, ni fer la guerra: els pobles viuen en pau. La terra, sense ser treballada, ho dona tot: la primavera és eterna, el blat creix sense conrear-lo i corren rius de llet i de nèctar.\n\nDesprés ve l'**edat de plata**: Júpiter divideix l'any en quatre estacions, els homes es refugien en coves i cabanes per protegir-se del fred i de la calor i han de conrear la terra i criar bestiar. La tercera, l'**edat de bronze**, és més cruel i inclinada a les armes, però encara no criminal. L'última, l'**edat de ferro**, és la pitjor: desapareixen el pudor, la veritat i la fidelitat i hi entren l'engany, la violència i la cobdícia; els homes es reparteixen la terra, naveguen per enriquir-se i esclata la guerra.\n\nOvidi pertanyia a una generació més jove que la de Virgili i Horaci. Va formar part del **cercle de Valeri Messal·la Corví** i admirava Tibul. A diferència dels poetes del cercle de Mecenas, la seva poesia no estava al servei del programa de renovació moral d'August. L'any 8 dC l'emperador el va desterrar a **Tomis**, a la vora del mar Negre, on va morir. A les *Tristes* el poeta parla d'un **poema** i d'un **error**: el poema seria l'***Ars amatoria***, que xocava amb la moral augustal, i l'error, haver vist alguna cosa que no havia de veure."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Ovidi, *Metamorfosis*: episodi de les quatre edats de la humanitat; el passatge descriu l'edat d'or."
+          },
+          {
+            "apartat": null,
+            "valor": "Edat d'or: homes sense preocupacions, sense lleis ni càstigs, sense navegar, sense muralles ni guerres; la terra produeix espontàniament tot el necessari."
+          },
+          {
+            "apartat": null,
+            "valor": "Plata: quatre estacions, coves i cabanes, agricultura i ramaderia. Bronze: més cruel i violenta. Ferro: la pitjor; vicis, repartiment de la terra, exèrcits, guerra."
+          },
+          {
+            "apartat": null,
+            "valor": "Ovidi, més jove que Virgili i Horaci, al cercle de Valeri Messal·la Corví; admiració per Tibul; la seva poesia no serveix el projecte d'August."
+          },
+          {
+            "apartat": null,
+            "valor": "Desterrat a Tomis (entre els escites) el 8 o 9 dC; a les *Tristes* al·ludeix a un «poema» (l'*Ars amatoria*) i a un «error» (haver vist el que no havia de veure)."
+          }
+        ],
+        "nota": "La resposta model té unes 287 paraules (el mínim és ~150). Errors típics: atribuir el text a Virgili (les *Geòrgiques* també parlen de l'edat d'or) o a Hesíode; posar Ovidi al cercle de Mecenas (hi eren Virgili i Horaci); dir que va ser desterrat a Atenes o que va morir a Sulmona (on va néixer); oblidar la segona part de la pregunta (cercles literaris i exili), que també puntua."
+      },
+      "serie": "1"
+    },
+    {
+      "id": "llati-2019-J-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "La Barcelona romana (Barcino): fundació, urbanisme i restes conservades",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "barcino",
+        "hispània romana",
+        "august",
+        "urbanisme romà",
+        "cardo i decumanus",
+        "fòrum",
+        "temple d'august",
+        "muralles"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B. Exercici d'exposició d'un tema de literatura o de civilització romanes [2 punts]. La imatge mostra el plànol de la Barcelona romana. En quinze línies com a mínim (unes cent cinquanta paraules), especifiqueu-ne el nom llatí i indiqueu quan i per qui va ser fundada. Expliqueu també la seva estructura urbanística i les construccions públiques i privades que s'hi han conservat.",
+      "figures": [
+        {
+          "src": "img/llati/2019-J/e4-b.png",
+          "peu": "Plànol de la Barcelona romana sobre el barri Gòtic actual: muralles, fòrum, temple, *cardo maximus* (pl. St. Jaume), *decumanus*, conjunt episcopal, aqüeducte (av. de la Catedral) i Via Laietana."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **2 punts** (uns 20-25 minuts). Text expositiu de mínim 15 línies (~150 paraules); millor 200-300. Respon les tres preguntes en ordre: (1) **nom llatí**, (2) **quan i per qui** va ser fundada, (3) **urbanisme** i **construccions** públiques i privades conservades. Aprofita el plànol: hi surten el fòrum, el temple, el *cardo*, el *decumanus*, les muralles i l'aqüeducte."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Nom**: *Barcino* (*Colonia Iulia Augusta Paterna Faventia Barcino*).\n2. **Fundació**: August, cap al 14 aC (després de les guerres càntabres), sobre el mont Tàber, entre el Llobregat i el Besòs.\n3. **Urbanisme**: recinte rectangular emmurallat amb quatre portes; quadrícula; *decumanus maximus* (muntanya-mar) i *cardo maximus* (Besòs-Llobregat); fòrum a la cruïlla (pl. Sant Jaume).\n4. **Construccions públiques**: temple (d'August) amb quatre columnes al carrer del Paradís; termes de la pl. Sant Miquel; aqüeductes (pl. Nova); muralles (reforçades al s. IV dC).\n5. **Construccions privades**: *domus* del carrer del Bisbe Caçador i de la pl. Sant Miquel."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El plànol mostra la colònia romana de ***Barcino***, el nom oficial complet de la qual era *Colonia Iulia Augusta Paterna Faventia Barcino*. Va ser fundada per l'emperador **August** cap a l'any **14 aC**, un cop acabades les guerres càntabres, damunt d'un petit turó, el **mont Tàber**, enmig de la plana entre el Llobregat i el Besòs, i entre Collserola i el mar.\n\nSeguia l'estructura habitual de les fundacions romanes: un recinte rectangular envoltat de **muralles** amb torres i quatre portes, i un traçat de carrers en quadrícula. Els dos carrers principals partien de les portes i es creuaven: el ***decumanus maximus***, en l'eix muntanya-mar, i el ***cardo maximus***, en l'eix Besòs-Llobregat. A la seva intersecció, on avui hi ha la plaça de Sant Jaume, s'obria el **fòrum**.\n\nAl fòrum s'alçava un gran **temple**, de finals del segle I aC, probablement dedicat al culte imperial (l'anomenat Temple d'August): era hexàstil i se'n conserven quatre columnes corínties i part del podi al carrer del Paradís, 10. Sota la plaça de Sant Miquel hi ha restes d'unes **termes públiques** donades a la ciutat l'any 125 dC per una família notable de Barcino, la de Luci Minici Natal. Dos **aqüeductes** proveïen d'aigua la ciutat i en queden restes a la plaça Nova. També s'han trobat **domus** (cases privades) al carrer del Bisbe Caçador i a la plaça de Sant Miquel. Però els vestigis més rellevants són les **muralles**, reforçades al segle IV dC, de les quals encara es poden veure trams en diversos punts del barri Gòtic."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Nom: Bàrcino, *Colonia Iulia Augusta Paterna Faventia Barcino*; fundada per August cap al 14 aC, acabades les guerres càntabres, sobre el mont Tàber."
+          },
+          {
+            "apartat": null,
+            "valor": "Urbanisme: recinte rectangular amb muralles, torres i quatre portes; *decumanus maximus* (muntanya-mar) i *cardo maximus* (Besòs-Llobregat); fòrum a la intersecció (pl. Sant Jaume)."
+          },
+          {
+            "apartat": null,
+            "valor": "Públiques: temple d'August (hexàstil, quatre columnes corínties i podi al c. del Paradís, 10); termes de la pl. Sant Miquel (125 dC); dos aqüeductes (restes a la pl. Nova); muralles reforçades al s. IV dC."
+          },
+          {
+            "apartat": null,
+            "valor": "Privades: *domus* del c. del Bisbe Caçador i de la pl. Sant Miquel."
+          }
+        ],
+        "nota": "La resposta model té unes 253 paraules (el mínim és ~150). Errors típics: confondre Bàrcino amb Tàrraco (fundada molt abans, en època republicana, i capital provincial); atribuir la fundació a Juli Cèsar o als Escipions; inventar un amfiteatre o un circ a Bàrcino (no se n'han trobat); oblidar les construccions privades (*domus*). Nota: la pauta oficial fa anar el *decumanus* en l'eix muntanya-mar i el *cardo* en l'eix Besòs-Llobregat, tal com marca el plànol."
+      },
+      "serie": "1"
+    }
+  ]
+}

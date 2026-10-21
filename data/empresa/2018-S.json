@@ -1,0 +1,1012 @@
+{
+  "examen": {
+    "id": "empresa-2018-S",
+    "assignatura": "empresa",
+    "materia": "Economia de l’empresa",
+    "any": 2018,
+    "convocatoria": "setembre",
+    "serie": "3",
+    "pdf_examen": "pdfs/empresa/2018-S-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2018-S-solucio.pdf",
+    "estructura": "Sèrie 3 (convocatòria de setembre). Cal respondre CINC dels sis exercicis proposats (2 punts cadascun); si es responen tots, només es valoren els cinc primers. Exercici 1: compte de pèrdues i guanys, rendibilitats econòmica, financera i de les vendes, i tres definicions. Exercici 2: fons de maniobra, ràtios de solvència i d’estructura del deute, i termini de recuperació de tres projectes. Exercici 3: VAN de tres màquines, fórmula de la TIR, valor residual i fonts de finançament aliè. Exercici 4 (teòric): cinc parelles de conceptes d’estratègia (0,4 punts per parella). Exercici 5: punt mort i matriu DAFO. Exercici 6: 8 preguntes de test (0,25 punts per encert, −0,1 per error, les no contestades no resten)."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2018-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Infoserv, SL: compte de pèrdues i guanys, rendibilitats econòmica, financera i de les vendes, i definicions d’auditoria, liquiditat i solvència",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "compte de pèrdues i guanys",
+        "baii",
+        "rendibilitat econòmica",
+        "rendibilitat financera",
+        "rendibilitat de les vendes",
+        "auditoria",
+        "liquiditat",
+        "solvència"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "\nL’empresa de consultoria i serveis informàtics Infoserv, SL presenta, a 31 de desembre de 2017, les dades comptables següents:\n\n| Concepte | Import (€) |\n|---|---:|\n| Hisenda pública, creditora per conceptes fiscals | 10.000 |\n| Proveïdors | 24.000 |\n| Ingressos financers | 4.000 |\n| Passiu corrent | 76.000 |\n| Passiu no corrent | 170.000 |\n| Import net de la xifra de negocis | 420.000 |\n| Altres ingressos d’explotació | 20.000 |\n| Clients | 60.000 |\n| Patrimoni net | 454.000 |\n| Despeses financeres | 32.000 |\n| Despeses de personal | 200.000 |\n| Altres despeses d’explotació (incloent-hi l’amortització de l’immobilitzat) | 136.000 |\n| Inversions financeres a llarg termini | 90.000 |\n",
+      "enunciat": "Responeu els apartats 1.1, 1.2 i 1.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1.1",
+          "punts": 0.8,
+          "enunciat": "A partir d’aquestes dades, i tenint en compte que l’impost sobre beneficis és del 25 %, elaboreu el compte de pèrdues i guanys de l’empresa Infoserv, SL."
+        },
+        {
+          "id": "1.2",
+          "punts": 0.75,
+          "enunciat": "Calculeu la rendibilitat econòmica, la rendibilitat financera i la rendibilitat de les vendes de l’empresa i interpreteu-ne els resultats."
+        },
+        {
+          "id": "1.3",
+          "punts": 0.45,
+          "enunciat": "Definiu els termes següents [0,15 punts per cada definició]:\n\na) Auditoria.\n\nb) Liquiditat.\n\nc) Solvència."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de **comptabilitat** en tres parts: (1.1) construir el compte de pèrdues i guanys, (1.2) calcular i **interpretar** tres ràtios de rendibilitat i (1.3) tres definicions breus.\n\nLa dificultat principal és **triar les dades**: la taula barreja partides de balanç (proveïdors, clients, Hisenda creditora, inversions financeres...) amb partides del compte de resultats. Al compte de pèrdues i guanys només hi van els **ingressos i les despeses**. Les partides de balanç només serveixen per obtenir el **total actiu** a l’apartat 1.2 (actiu = patrimoni net + passiu).\n\nTemps orientatiu: 20-25 minuts. Cada ràtio s’ha d’escriure amb la fórmula, la substitució, el resultat i una frase d’interpretació (sense interpretació l’apartat no es puntua sencer). Els errors de càlcul arrossegats només es descompten una vegada."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Ingressos d’explotació**: import net de la xifra de negocis + altres ingressos d’explotació.\n2. **Despeses d’explotació**: despeses de personal + altres despeses d’explotació (que ja inclouen l’amortització).\n3. **Resultat d’explotació (BAII)** = ingressos d’explotació − despeses d’explotació.\n4. **Resultat financer** = ingressos financers − despeses financeres (aquí és negatiu).\n5. **BAI** = BAII + resultat financer.\n6. **Impost sobre beneficis** = 25 % del BAI; **resultat net** = BAI − impost.\n\nNo hi posis «Proveïdors», «Clients» ni «Hisenda pública, creditora»: són comptes de balanç, no ingressos ni despeses."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Resposta model",
+            "cos": "**Compte de pèrdues i guanys d’Infoserv, SL (exercici 2017)**\n\n| Partida | Import (€) |\n|---|---:|\n| Import net de la xifra de negocis | 420.000 |\n| Altres ingressos d’explotació | 20.000 |\n| **Ingressos d’explotació** | **440.000** |\n| Despeses de personal | −200.000 |\n| Altres despeses d’explotació (incl. amortització) | −136.000 |\n| **Despeses d’explotació** | **−336.000** |\n| **Resultat d’explotació (BAII)** | **104.000** |\n| Ingressos financers | 4.000 |\n| Despeses financeres | −32.000 |\n| **Resultat financer** | **−28.000** |\n| **Resultat abans d’impostos (BAI)** | **76.000** |\n| Impost sobre beneficis (25 %) | −19.000 |\n| **Resultat net de l’exercici (BN)** | **57.000** |\n\nCàlculs: $\\text{BAII} = 440000 - 336000 = 104000$ €; $\\text{BAI} = 104000 - 28000 = 76000$ €; impost $= 0{,}25 \\cdot 76000 = 19000$ €; $\\text{BN} = 76000 - 19000 = 57000$ €.\n\nL’empresa obté un benefici net de 57.000 €. El resultat financer és negatiu perquè paga més interessos (32.000 €) dels que cobra (4.000 €), però l’activitat d’explotació és clarament rendible."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Primer cal el **total actiu**, que no surt directament a la taula. Per l’equació fonamental del patrimoni:\n\n$$\\text{Actiu} = \\text{PN} + \\text{PNC} + \\text{PC} = 454000 + 170000 + 76000 = 700000 \\text{ €}$$\n\nDesprés aplica les tres fórmules:\n\n- Rendibilitat econòmica: $RE = \\dfrac{\\text{BAII}}{\\text{Actiu total}}$ (rendiment de tota la inversió, independentment de com es financi).\n- Rendibilitat financera: $RF = \\dfrac{\\text{BN}}{\\text{Patrimoni net}}$ (rendiment per als propietaris).\n- Rendibilitat de les vendes: $RV = \\dfrac{\\text{BAII}}{\\text{Vendes}}$ (marge d’explotació per cada euro venut).\n\nInterpreta-les sempre «per cada euro (o per cada 100 €)»."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Resposta model",
+            "cos": "**Rendibilitat econòmica**\n\n$$RE = \\frac{\\text{BAII}}{\\text{Actiu}} = \\frac{104000}{700000} = 0{,}149 \\;(14{,}9\\ \\%)$$\n\nPer cada 100 € invertits en l’actiu, Infoserv genera 14,9 € de benefici abans d’interessos i impostos. Mesura l’eficiència de l’empresa a l’hora de fer rendir els seus actius.\n\n**Rendibilitat financera**\n\n$$RF = \\frac{\\text{BN}}{\\text{PN}} = \\frac{57000}{454000} = 0{,}126 \\;(12{,}6\\ \\%)$$\n\nPer cada 100 € de fons propis (aportats pels socis o generats per l’empresa), s’obtenen 12,6 € de benefici net. És la rendibilitat que obtenen els propietaris.\n\n**Rendibilitat de les vendes (marge de vendes)**\n\n$$RV = \\frac{\\text{BAII}}{\\text{Vendes}} = \\frac{104000}{420000} = 0{,}248 \\;(24{,}8\\ \\%)$$\n\nPer cada 100 € de xifra de negocis, l’empresa obté 24,8 € de BAII: un marge d’explotació elevat.\n\n**Valoració global.** Les tres rendibilitats són positives i força altes, cosa que indica una empresa rendible. La rendibilitat financera (12,6 %) és inferior a l’econòmica (14,9 %) perquè l’impost (25 %) i les despeses financeres redueixen el benefici que arriba als socis."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres definicions curtes (0,15 punts cadascuna): una frase precisa i, si cal, un exemple. Distingeix bé **liquiditat** (propietat d’un bé o dret: facilitat de convertir-se en diners) de **solvència** (capacitat de l’empresa de pagar els deutes quan vencen)."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Resposta model",
+            "cos": "**a) Auditoria.** Activitat que consisteix a revisar i analitzar els estats comptables d’una empresa per part d’un expert independent (auditor) amb la finalitat d’emetre un informe o una opinió sobre si les dades reflecteixen, o no, la imatge fidel de la realitat econòmica i financera de l’empresa.\n\n**b) Liquiditat.** Capacitat que tenen els béns i els drets de convertir-se en diners. Un element és més líquid com més fàcil i ràpid sigui convertir-lo en efectiu: per exemple, els drets de cobrament sobre clients són més líquids que les existències, perquè aquestes primer s’han de vendre.\n\n**c) Solvència.** Capacitat de l’empresa per fer front a les seves obligacions de pagament (deutes) en els terminis previstos pels venciments."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1.1",
+            "valor": "Ingressos d’explotació 440.000 €; despeses d’explotació 336.000 €; BAII 104.000 €; resultat financer −28.000 €; BAI 76.000 €; impost 19.000 €; resultat net 57.000 €."
+          },
+          {
+            "apartat": "1.2",
+            "valor": "Actiu = 700.000 €. RE = 104.000/700.000 = 0,149; RF = 57.000/454.000 = 0,126; RV = 104.000/420.000 = 0,248, amb la interpretació de cada ràtio (euros de benefici per cada euro invertit / de fons propis / de vendes)."
+          },
+          {
+            "apartat": "1.3",
+            "valor": "Auditoria: revisió dels estats comptables per emetre una opinió sobre si reflecteixen la realitat econòmica i financera. Liquiditat: capacitat dels béns i drets de convertir-se en diners. Solvència: capacitat de fer front als pagaments en els terminis de venciment."
+          }
+        ],
+        "nota": "\nErrors típics: posar al compte de resultats partides de balanç (proveïdors, clients, Hisenda creditora, inversions financeres a llarg termini); restar dues vegades l’amortització (ja està inclosa a «altres despeses d’explotació»); calcular la rendibilitat econòmica amb el benefici net en lloc del BAII; no saber trobar el total actiu (és la suma de patrimoni net i passiu, 700.000 €). Tots els resultats oficials s’han comprovat amb Python i coincideixen.\n"
+      }
+    },
+    {
+      "id": "empresa-2018-S-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Quarts de 15: fons de maniobra, ràtios de solvència i d’estructura del deute, i termini de recuperació de tres projectes",
+      "tema": "comptabilitat",
+      "temes_secundaris": [
+        "financament"
+      ],
+      "conceptes": [
+        "fons de maniobra",
+        "ràtio de solvència",
+        "ràtio d’estructura del deute",
+        "termini de recuperació",
+        "payback",
+        "mètodes estàtics i dinàmics",
+        "balanç de situació"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "\nL’empresa Quarts de 15 presenta, a 31 de desembre de 2017, les dades comptables següents:\n\n| Concepte | Import (milers d’euros) | Concepte | Import (milers d’euros) |\n|---|---:|---|---:|\n| Proveïdors | 25 | Deutes a curt termini | 10 |\n| Recerca i desenvolupament | 75 | Productes en curs | 20 |\n| Caixa | 10 | Productes acabats | 7 |\n| Aplicacions informàtiques | 8 | Reserves | 10 |\n| Deutes a llarg termini amb entitats de crèdit | 50 | Utillatge | 9 |\n| Matèries primeres | 40 | Clients | 4 |\n| Maquinària | 20 | Bancs i institucions de crèdit | 10 |\n| Capital | 90 | Resultat de l’exercici | 15 |\n| Equips per a processos d’informació | 15 | **Total actiu** | **218** |\n| Proveïdors d’immobilitzat a llarg termini | 18 | **Total patrimoni net i passiu** | **218** |\n",
+      "enunciat": "Responeu els apartats 2.1, 2.2, 2.3 i 2.4.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "punts": 0.5,
+          "enunciat": "Què és el fons de maniobra d’una empresa? Calculeu-lo i interpreteu-lo per a l’empresa Quarts de 15."
+        },
+        {
+          "id": "2.2",
+          "punts": 0.5,
+          "enunciat": "Calculeu i interpreteu les ràtios de solvència i d’estructura del deute de Quarts de 15."
+        },
+        {
+          "id": "2.3",
+          "punts": 0.75,
+          "enunciat": "L’empresa Quarts de 15 analitza diverses opcions d’inversió per fer més competitiva l’empresa. Dels projectes següents (A, B i C), indiqueu quin és el millor tenint en compte un mètode de selecció d’inversions estàtic. Què diferencia un mètode de selecció d’inversions estàtic d’un de dinàmic?\n\n| Projecte | Desemborsament inicial | Flux de caixa net (any 1) | Flux de caixa net (any 2) | Flux de caixa net (any 3) | Flux de caixa net (any 4) |\n|---|---:|---:|---:|---:|---:|\n| Projecte A | 30.000 € | 10.000 € | 10.000 € | 10.000 € | 10.000 € |\n| Projecte B | 50.000 € | 15.000 € | 15.000 € | 15.000 € | 15.000 € |\n| Projecte C | 20.000 € | 3.000 € | 5.000 € | 5.000 € | 5.000 € |"
+        },
+        {
+          "id": "2.4",
+          "punts": 0.25,
+          "enunciat": "Suposeu que el flux de caixa net del projecte C corresponent al primer any augmenta fins a 13.000 €. Aquest augment us faria canviar la tria que heu fet en l’apartat anterior?"
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici mixt: anàlisi financera del balanç (2.1 i 2.2) i selecció d’inversions amb un mètode estàtic, el **termini de recuperació o payback** (2.3 i 2.4).\n\n**No cal fer el balanç sencer** (ho diuen les pautes), però sí classificar bé les partides per obtenir l’actiu corrent, el passiu corrent i el total de deutes. Els imports estan en **milers d’euros**: digues-ho als resultats.\n\nTemps orientatiu: 20-25 minuts. A cada ràtio: fórmula, substitució, resultat i interpretació. A 2.3 no oblidis la part teòrica (diferència entre mètodes estàtics i dinàmics)."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Definició: FM = actiu corrent − passiu corrent (o, equivalentment, recursos permanents − actiu no corrent).\n2. Classifica les partides:\n   - **Actiu corrent**: existències (matèries primeres 40 + productes en curs 20 + productes acabats 7 = 67), realitzable (clients 4) i disponible (bancs 10 + caixa 10 = 20). Total 91.\n   - **Passiu corrent**: proveïdors 25 + deutes a curt termini 10 = 35.\n   - Comprovació per l’altra via: PN (90 + 10 + 15 = 115) + PNC (50 + 18 = 68) − ANC (75 + 8 + 20 + 9 + 15 = 127).\n3. Interpreta el signe: positiu = marge de seguretat per pagar el curt termini.\n\nCompte: «Proveïdors d’immobilitzat a llarg termini» és **passiu no corrent**, no corrent."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "**Definició.** El fons de maniobra (o capital circulant) és la diferència entre l’actiu corrent i el passiu corrent. Des del punt de vista financer, és la part de l’actiu corrent que està finançada amb recursos permanents (patrimoni net i passiu no corrent).\n\n**Càlcul** (en milers d’euros):\n\n$$\\text{AC} = (40 + 20 + 7) + 4 + (10 + 10) = 91$$\n\n$$\\text{PC} = 25 + 10 = 35$$\n\n$$\\text{FM} = \\text{AC} - \\text{PC} = 91 - 35 = 56 \\text{ milers d’euros}$$\n\nO també: $\\text{FM} = (\\text{PN} + \\text{PNC}) - \\text{ANC} = (115 + 68) - 127 = 56$ milers d’euros.\n\n**Interpretació.** El fons de maniobra és positiu (56.000 €): l’actiu corrent supera el passiu corrent, de manera que l’empresa disposa d’un marge de seguretat per fer front als pagaments a curt termini. Quarts de 15 té un fons de maniobra saludable i no hauria de tenir problemes de liquidesa."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Ràtio de solvència (o de garantia)** = actiu total / deutes totals (passiu no corrent + passiu corrent). Mesura si, venent tot l’actiu, es podrien pagar tots els deutes. Per sota d’1 hi hauria risc de fallida.\n- **Ràtio d’estructura (o qualitat) del deute** = passiu corrent / deutes totals. Indica quina part dels deutes s’ha de retornar a curt termini; com més baixa, més «qualitat» té el deute.\n\nDeutes totals = PNC + PC = 68 + 35 = 103 milers d’euros."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "**Ràtio de solvència**\n\n$$\\text{Solvència} = \\frac{\\text{Actiu}}{\\text{PNC} + \\text{PC}} = \\frac{218}{68 + 35} = \\frac{218}{103} = 2{,}12$$\n\nL’actiu de l’empresa és 2,12 vegades el total dels seus deutes: per cada euro que deu, té 2,12 € de béns i drets per respondre’n. Com que és clarament superior a 1, Quarts de 15 és una empresa **solvent** i no presenta risc de fallida.\n\n**Ràtio d’estructura del deute**\n\n$$\\text{Estructura del deute} = \\frac{\\text{PC}}{\\text{PNC} + \\text{PC}} = \\frac{35}{103} = 0{,}34$$\n\nUn 34 % dels deutes són a curt termini i el 66 % restant, a llarg termini. Com més baixa és aquesta ràtio, de més qualitat és l’endeutament (més temps per retornar-lo). En aquest cas, la proporció es pot considerar **adequada**."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Com plantejar-ho",
+            "cos": "El mètode estàtic per excel·lència és el **termini de recuperació (payback)**: el temps que cal perquè la suma dels fluxos de caixa nets iguali el desemborsament inicial. Es tria el projecte que recupera **abans** la inversió.\n\n- Si els fluxos són constants: payback = desemborsament / flux anual.\n- Si no ho són: acumula els fluxos any a any; quan falta una part d’un any, calcula la fracció (import pendent / flux d’aquell any) i passa-la a mesos (× 12).\n\nDesprés explica la diferència teòrica: els mètodes estàtics no tenen en compte el valor del diner en el temps; els dinàmics (VAN, TIR) actualitzen els fluxos."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Resposta model",
+            "cos": "**Termini de recuperació de cada projecte**\n\n- **Projecte A**: fluxos constants de 10.000 €. $\\text{Payback}_A = \\dfrac{30000}{10000} = 3$ anys.\n- **Projecte B**: en 3 anys recupera $3 \\cdot 15000 = 45000$ €; falten 5.000 €, que es recuperen durant el quart any: $\\dfrac{5000}{15000} = 0{,}33$ anys $= 0{,}33 \\cdot 12 = 4$ mesos. $\\text{Payback}_B = 3$ anys i 4 mesos.\n- **Projecte C**: la suma de tots els fluxos és $3000 + 5000 + 5000 + 5000 = 18000$ €, inferior als 20.000 € invertits. **No es recupera la inversió** durant la vida del projecte.\n\n**Tria.** Segons el criteri del termini de recuperació, el millor projecte és l’**A**, perquè és el que recupera abans la inversió (3 anys). El C s’ha de rebutjar.\n\n**Diferència entre mètodes estàtics i dinàmics.** Els mètodes **estàtics** (com el payback) no tenen en compte el factor temps: consideren que un euro cobrat d’aquí a quatre anys val el mateix que un euro d’avui (valor del diner constant). A més, el payback no considera els fluxos posteriors a la recuperació, és a dir, no té en compte tota la vida del projecte. Els mètodes **dinàmics** (VAN i TIR) actualitzen els fluxos de caixa amb una taxa de descompte, de manera que tenen en compte el valor del diner en el temps i tota la vida del projecte."
+          },
+          {
+            "apartat": "2.4",
+            "titol": "Com plantejar-ho",
+            "cos": "Torna a calcular el payback del projecte C amb el nou primer flux (13.000 €) i compara’l amb el del projecte A (3 anys)."
+          },
+          {
+            "apartat": "2.4",
+            "titol": "Resposta model",
+            "cos": "Amb el nou flux, el projecte C acumula $13000 + 5000 = 18000$ € en dos anys. Falten 2.000 €, que es recuperen durant el tercer any:\n\n$$\\frac{2000}{5000} = 0{,}4 \\text{ anys} = 0{,}4 \\cdot 12 = 4{,}8 \\text{ mesos}$$\n\n$\\text{Payback}_C = 2$ anys i 4,8 mesos (uns 146 dies del tercer any).\n\n**Sí que canviaria la tria**: ara el projecte C recupera la inversió abans que l’A (3 anys) i el B (3 anys i 4 mesos), de manera que passaria a ser el millor projecte segons el criteri del termini de recuperació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "Definició (AC − PC; part de l’AC finançada amb recursos permanents). FM = 91 − 35 = 56 milers d’euros (o 115 + 68 − 127 = 56). Positiu: marge de seguretat, fons de maniobra saludable."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "Solvència = 218/103 = 2,12 (> 1, empresa solvent). Estructura del deute = 35/103 = 0,34 (34 % dels deutes a curt termini; adequat, com més baix més qualitat)."
+          },
+          {
+            "apartat": "2.3",
+            "valor": "Payback A = 3 anys; B = 3 anys i 4 mesos; C no recupera la inversió (18.000 € < 20.000 €). El millor és l’A. Els mètodes estàtics no tenen en compte el valor del diner en el temps (ni tota la vida del projecte en el cas del payback); els dinàmics (VAN, TIR) sí."
+          },
+          {
+            "apartat": "2.4",
+            "valor": "Payback C = 2 anys i 4,8 mesos (146 dies): passa a ser el millor projecte, la tria canvia."
+          }
+        ],
+        "nota": "\nErrors típics: posar «Proveïdors d’immobilitzat a llarg termini» al passiu corrent; oblidar que els imports són en milers d’euros; calcular la solvència amb el passiu corrent en lloc dels deutes totals; dir que el projecte C té un payback de 4 anys (en realitat no recupera mai la inversió). Tots els resultats oficials s’han comprovat amb Python i coincideixen.\n"
+      }
+    },
+    {
+      "id": "empresa-2018-S-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Fàbrica de gelats: VAN de tres màquines, fórmula i criteri de la TIR, valor residual per a un VAN objectiu i fonts de finançament aliè",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "van",
+        "tir",
+        "taxa d’actualització",
+        "valor residual",
+        "selecció d’inversions",
+        "finançament aliè"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "\nUna empresa que elabora gelats està valorant la possibilitat d’adquirir una màquina nova a fi d’ampliar la seva capacitat productiva.\n\nDesprés de fer una prospecció de la tecnologia existent al mercat, el director general ha recollit informació sobre tres màquines. Els desemborsaments inicials i els fluxos de caixa nets associats a cada màquina són els següents:\n\n| Màquina | Desemborsament inicial | Flux de caixa net (any 1) | Flux de caixa net (any 2) | Flux de caixa net (any 3) | Flux de caixa net (any 4) |\n|---|---:|---:|---:|---:|---:|\n| Màquina 1 | 60.000 € | 15.000 € | 20.000 € | 40.000 € | 45.000 € |\n| Màquina 2 | 70.000 € | 20.000 € | 25.000 € | 30.000 € | 35.000 € |\n| Màquina 3 | 50.000 € | — | 15.000 € | 30.000 € | 60.000 € |\n",
+      "enunciat": "Responeu els apartats 3.1, 3.2, 3.3 i 3.4.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "3.1",
+          "punts": 0.9,
+          "enunciat": "Si la taxa d’actualització del mercat és d’un 3 % i la vida útil de cadascun dels equips és de 4 anys, quina és la millor opció d’inversió d’acord amb el criteri del valor actual net (VAN)? Justifiqueu la resposta."
+        },
+        {
+          "id": "3.2",
+          "punts": 0.4,
+          "enunciat": "Indiqueu la fórmula que permetria calcular la taxa interna de rendibilitat (TIR) del projecte d’inversió de la màquina 2. D’acord amb la TIR, quan escolliríeu o descartaríeu un projecte?"
+        },
+        {
+          "id": "3.3",
+          "punts": 0.4,
+          "enunciat": "Calculeu quin hauria de ser el valor residual de la màquina 3, en el cas que en tingués, perquè el VAN fos de 60.000 €."
+        },
+        {
+          "id": "3.4",
+          "punts": 0.3,
+          "enunciat": "Esmenteu sis fonts de finançament aliè que pot utilitzar una empresa per a finançar les inversions."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici clàssic de **selecció d’inversions amb mètodes dinàmics**. Cal: (3.1) calcular tres VAN i triar, (3.2) escriure l’equació de la TIR (sense resoldre-la) i el criteri de decisió, (3.3) aïllar el valor residual d’una equació del VAN i (3.4) una llista de sis fonts de finançament aliè.\n\nFórmula general:\n\n$$\\text{VAN} = -D_0 + \\frac{F_1}{(1+k)} + \\frac{F_2}{(1+k)^2} + \\dots + \\frac{F_n + VR}{(1+k)^n}$$\n\nCompte amb la **màquina 3**: el guió vol dir que el flux de l’any 1 és 0, però els altres fluxos continuen en el seu any (el de 15.000 € es descompta amb $(1{,}03)^2$). Temps orientatiu: 25 minuts; fes servir la calculadora amb cura i arrodoneix només al final."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Escriu l’expressió del VAN de cada màquina amb $k = 0{,}03$, calcula-la i tria la de **VAN més alt** (sempre que sigui positiu). Un VAN positiu vol dir que el projecte, en euros d’avui, recupera la inversió i genera un excedent."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Resposta model",
+            "cos": "**Màquina 1**\n\n$$\\text{VAN}_1 = -60000 + \\frac{15000}{1{,}03} + \\frac{20000}{1{,}03^2} + \\frac{40000}{1{,}03^3} + \\frac{45000}{1{,}03^4} = 50002{,}61 \\text{ €}$$\n\n**Màquina 2**\n\n$$\\text{VAN}_2 = -70000 + \\frac{20000}{1{,}03} + \\frac{25000}{1{,}03^2} + \\frac{30000}{1{,}03^3} + \\frac{35000}{1{,}03^4} = 31533{,}67 \\text{ €}$$\n\n**Màquina 3**\n\n$$\\text{VAN}_3 = -50000 + 0 + \\frac{15000}{1{,}03^2} + \\frac{30000}{1{,}03^3} + \\frac{60000}{1{,}03^4} = 44902{,}41 \\text{ €}$$\n\n**Decisió.** Les tres inversions tenen un VAN positiu i, per tant, totes serien rendibles. La millor opció és la **màquina 1**, perquè és la que aporta un valor actual net més gran (50.002,61 €): és la que genera més riquesa, en euros d’avui, un cop recuperada la inversió. En segon lloc quedaria la màquina 3 i en tercer lloc la màquina 2."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Com plantejar-ho",
+            "cos": "La TIR és la taxa d’actualització que fa que el VAN sigui **zero**. Només cal plantejar l’equació (no resoldre-la) i comparar-la amb el tipus d’interès del mercat."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Resposta model",
+            "cos": "La TIR ($r$) de la màquina 2 és el valor que compleix:\n\n$$0 = -70000 + \\frac{20000}{1+r} + \\frac{25000}{(1+r)^2} + \\frac{30000}{(1+r)^3} + \\frac{35000}{(1+r)^4}$$\n\n**Criteri de decisió**, essent $k$ la taxa d’actualització o tipus d’interès del mercat (aquí, 3 %):\n\n- Si $r > k$: el projecte és convenient (s’escull).\n- Si $r = k$: el projecte és indiferent.\n- Si $r < k$: el projecte no interessa (es descarta).\n\nEntre diversos projectes acceptables, es prefereix el de TIR més alta. (Com a referència, la TIR de la màquina 2 és aproximadament del 18,8 %, molt superior al 3 %, de manera que seria acceptable.)"
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Com plantejar-ho",
+            "cos": "El valor residual és un cobrament addicional al final de la vida útil (any 4), i per tant es descompta amb $(1{,}03)^4$. Iguala el VAN a 60.000 € i aïlla’l:\n\n$$VR = (60000 - \\text{VAN}_3) \\cdot 1{,}03^4$$"
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Resposta model",
+            "cos": "$$60000 = -50000 + \\frac{15000}{1{,}03^2} + \\frac{30000}{1{,}03^3} + \\frac{60000}{1{,}03^4} + \\frac{VR}{1{,}03^4}$$\n\nCom que la part sense valor residual és el $\\text{VAN}_3 = 44902{,}41$ € calculat abans:\n\n$$\\frac{VR}{1{,}03^4} = 60000 - 44902{,}41 = 15097{,}59$$\n\n$$VR = 15097{,}59 \\cdot 1{,}03^4 = 15097{,}59 \\cdot 1{,}1255 = 16992{,}47 \\text{ €}$$\n\nLa màquina 3 s’hauria de poder vendre per 16.992,47 € al final del quart any perquè el seu VAN arribés a 60.000 € (i, per tant, superés el de la màquina 1)."
+          },
+          {
+            "apartat": "3.4",
+            "titol": "Resposta model",
+            "cos": "Sis fonts de finançament aliè (deutes amb tercers):\n\n1. **Préstec** bancari.\n2. **Emprèstit** (emissió d’obligacions o bons).\n3. **Lísing** (arrendament financer amb opció de compra).\n4. **Pòlissa de crèdit**.\n5. **Crèdit comercial** o de proveïdors.\n6. **Descompte d’efectes** comercials.\n\nAltres de vàlides: **facturatge** (factoring) i **rènting**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "3.1",
+            "valor": "VAN1 = 50.002,61 €; VAN2 = 31.533,67 €; VAN3 = 44.902,41 €. Millor: màquina 1 (VAN més alt); després la 3 i la 2."
+          },
+          {
+            "apartat": "3.2",
+            "valor": "0 = −70.000 + 20.000/(1 + r) + 25.000/(1 + r)² + 30.000/(1 + r)³ + 35.000/(1 + r)⁴. Si TIR > tipus de mercat (3 %), convenient; si és igual, indiferent; si és menor, es descarta."
+          },
+          {
+            "apartat": "3.3",
+            "valor": "60.000 = VAN3 + VR/1,03⁴ → VR = 16.992,47 €."
+          },
+          {
+            "apartat": "3.4",
+            "valor": "Sis d’entre: préstec, emprèstit, lísing, pòlissa de crèdit, crèdit comercial o de proveïdors, descompte d’efectes, facturatge, rènting."
+          }
+        ],
+        "nota": "\nErrors típics: actualitzar el flux de 15.000 € de la màquina 3 com si fos de l’any 1 (el guió indica flux zero el primer any); oblidar el desemborsament inicial; descomptar el valor residual amb un exponent diferent de 4; a 3.2, intentar resoldre la TIR (només es demana la fórmula). Els VAN i el valor residual s’han comprovat amb Python i coincideixen amb l’oficial. A la pauta oficial hi ha una errada tipogràfica al VAN de la màquina 2 («35.000 + (1 + 0,03)⁴» en lloc de «35.000/(1 + 0,03)⁴»), però el resultat que dona (31.533,67 €) és correcte.\n"
+      }
+    },
+    {
+      "id": "empresa-2018-S-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Parelles de conceptes d’estratègia: missió i visió, nivells d’estratègia, forces de Porter, estratègies competitives i d’internacionalització",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "organitzacio"
+      ],
+      "conceptes": [
+        "missió",
+        "visió",
+        "estratègia corporativa",
+        "estratègia funcional",
+        "cinc forces de porter",
+        "lideratge en costos",
+        "diferenciació",
+        "estratègia multidomèstica",
+        "estratègia transnacional"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7,
+        8
+      ],
+      "text": "",
+      "enunciat": "Definiu les parelles de termes següents [2 punts: 0,4 punts per cada parella de definicions]:",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "punts": 0.4,
+          "enunciat": "Missió / Visió."
+        },
+        {
+          "id": "b",
+          "punts": 0.4,
+          "enunciat": "Estratègia corporativa / Estratègia funcional."
+        },
+        {
+          "id": "c",
+          "punts": 0.4,
+          "enunciat": "Poder de negociació dels proveïdors / Poder de negociació dels clients."
+        },
+        {
+          "id": "d",
+          "punts": 0.4,
+          "enunciat": "Estratègia de lideratge en costos / Estratègia de diferenciació."
+        },
+        {
+          "id": "e",
+          "punts": 0.4,
+          "enunciat": "Estratègia multidomèstica / Estratègia transnacional."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici totalment teòric: cinc parelles de conceptes d’**estratègia empresarial** (0,4 punts per parella, és a dir, uns 0,2 punts per terme). Per a cada parella, defineix els dos termes i **remarca la diferència** entre ells; un exemple breu ajuda. Unes 3-5 línies per parella.\n\nTemps orientatiu: 15-20 minuts. Es valora la correcció del vocabulari econòmic."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "La **missió** és la raó de ser de l’empresa, el seu propòsit fonamental: respon a preguntes com «què fem?», «a què ens dediquem?» o «per a qui ho fem?». Es refereix al present.\n\nLa **visió** és la imatge de futur de l’empresa: com vol ser a llarg termini i quines metes pretén aconseguir («on volem arribar?»). Es refereix al futur i serveix per orientar i motivar."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "L’**estratègia corporativa** és el nivell més alt d’estratègia: la defineix la direcció general i decideix en quins negocis o camps d’activitat vol ser present l’empresa (perfil de la cartera de negocis, creixement, diversificació, internacionalització...). Té un horitzó a llarg termini.\n\nL’**estratègia funcional** (o operativa) és la de cada àrea funcional (producció, màrqueting, finances, recursos humans): concreta com cada departament contribueix a les estratègies superiors i es relaciona amb el dia a dia, amb un horitzó a curt termini."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "El **poder de negociació** és la capacitat d’una de les parts d’imposar les condicions d’una compravenda (preus, qualitats, terminis de lliurament, formes de cobrament i pagament). És una de les cinc forces competitives de Porter.\n\n- **Poder de negociació dels proveïdors**: quan aquesta capacitat recau en els proveïdors de l’empresa (per exemple, quan el mercat de matèries primeres està concentrat en pocs proveïdors o el que subministren és difícil de substituir), que poden apujar preus o imposar condicions.\n- **Poder de negociació dels clients**: quan recau en els compradors (per exemple, quan són pocs i compren grans volums, disposen d’informació completa o poden canviar fàcilment de proveïdor), que poden exigir preus més baixos o més qualitat."
+          },
+          {
+            "apartat": "d",
+            "titol": "Resposta model",
+            "cos": "L’**estratègia de lideratge en costos** consisteix a aprofitar avantatges competitius en costos: l’empresa produeix amb costos inferiors als dels competidors un producte de qualitat similar, de manera que pot vendre més barat o obtenir més marge (per exemple, gràcies a economies d’escala).\n\nL’**estratègia de diferenciació** consisteix a explotar les característiques diferents del producte o servei (qualitat, disseny, marca, servei...) perquè els clients el percebin com a únic i estiguin disposats a pagar-ne un preu més alt que el dels competidors."
+          },
+          {
+            "apartat": "e",
+            "titol": "Resposta model",
+            "cos": "L’**estratègia multidomèstica** parteix de la idea que cada mercat internacional és diferent: l’empresa adapta els productes i el màrqueting a cada país i a la seva diversitat cultural, actuant gairebé com una empresa local a cadascun.\n\nL’**estratègia transnacional** combina una visió global del mercat, amb una xarxa internacional de recursos i capacitats per aconseguir els avantatges de l’eficiència global (economies d’escala), amb l’adaptació a les necessitats locals de cada mercat («pensar globalment, actuar localment»)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Missió: raó de ser, propòsit fonamental («què fem?»). Visió: imatge de futur, com serà l’empresa a llarg termini i quines metes vol assolir."
+          },
+          {
+            "apartat": "b",
+            "valor": "Corporativa: nivell més alt, decisions de la direcció sobre la cartera de negocis i camps d’activitat. Funcional/operativa: relacionada amb el dia a dia, a curt termini."
+          },
+          {
+            "apartat": "c",
+            "valor": "Poder de negociació: capacitat d’imposar condicions de la compravenda (preus, qualitat, terminis, cobraments i pagaments); la diferència és si recau en els proveïdors (p. ex., mercat de matèries primeres concentrat) o en els clients (p. ex., amb informació completa)."
+          },
+          {
+            "apartat": "d",
+            "valor": "Lideratge en costos: costos inferiors als competidors amb qualitat similar. Diferenciació: característiques diferents per les quals el client paga un preu més alt."
+          },
+          {
+            "apartat": "e",
+            "valor": "Multidomèstica: mercats diferents, adaptació a cadascun. Transnacional: visió global i eficiència global sense oblidar les necessitats locals."
+          }
+        ],
+        "nota": "\nErrors típics: definir només un dels dos termes de la parella; confondre missió i visió (present / futur); confondre l’estratègia transnacional amb la global pura (la transnacional sí que s’adapta als mercats locals); no relacionar el poder de negociació amb les forces competitives de Porter.\n"
+      }
+    },
+    {
+      "id": "empresa-2018-S-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Llibretes fetes a mà: cost variable unitari, preu, punt mort i benefici; com reduir el punt mort i matriu DAFO",
+      "tema": "produccio",
+      "temes_secundaris": [
+        "emprenedoria",
+        "empresa-entorn"
+      ],
+      "conceptes": [
+        "punt mort",
+        "llindar de rendibilitat",
+        "costos fixos",
+        "costos variables",
+        "benefici",
+        "dafo"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        8,
+        9
+      ],
+      "text": "",
+      "enunciat": "Responeu els apartats 5.1, 5.2 i 5.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "5.1",
+          "punts": 0.8,
+          "enunciat": "La Sònia es dedica a fer llibretes a mà. Les ven totes al mateix preu els dissabtes, que és quan no té classe a la universitat. Dissabte passat va vendre 12 llibretes i va ingressar 72 €. Els costos totals que la Sònia va assumir amb la producció i la venda de les 12 llibretes van ser de 44 €, mentre que el dissabte anterior, que n’havia venut 15, els costos totals van pujar a 50 €. Si els costos fixos diaris que té la Sònia són de 20 €, calculeu els costos variables de cada llibreta, el preu de venda unitari, el punt mort diari en unitats físiques i el benefici que va obtenir tots dos dissabtes."
+        },
+        {
+          "id": "5.2",
+          "punts": 0.2,
+          "enunciat": "Què podria fer la Sònia per a fer baixar el punt mort? Per què seria bo aconseguir aquesta reducció?"
+        },
+        {
+          "id": "5.3",
+          "punts": 1,
+          "enunciat": "La Sònia ha comprovat que, cada cop més, els clients li sol·liciten altres estris de papereria (carpetes, llapis, estoigs, etc.) que facin joc amb les llibretes que ja elabora i ven. Per aquest motiu està valorant la possibilitat d’ampliar el catàleg de productes que ofereix. Elaboreu la matriu DAFO d’aquest negoci tenint en compte la informació següent:\n\n- Ha detectat un increment de la demanda de productes fets a mà.\n- Una empresa paperera en liquidació li ha regalat molt material per a elaborar carpetes.\n- No té prou coneixements empresarials per a gestionar el creixement del negoci.\n- Hi ha molta competència en aquest sector.\n- Ha estat finalista del Premi Artesana de l’Any de l’associació de comerços de la seva ciutat, fet que li donarà prestigi i visibilitat.\n- L’Administració local ofereix suport a dones emprenedores.\n- Una inundació en el magatzem, com a conseqüència de les últimes pluges, ha fet malbé algunes de les llibretes que tenia en estoc.\n- Té registrats els dissenys de les llibretes.\n- Acaba de fer un curs per a aprendre una nova tècnica d’estampació en cartró que li serà molt útil per a crear nous dissenys.\n- Es preveu una pujada important en el preu d’una de les matèries primeres principals que fa servir."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici senzill de **costos i punt mort** (5.1 i 5.2) més una **matriu DAFO** (5.3), que val la meitat de l’exercici.\n\nA 5.1 cal deduir el cost variable unitari a partir de la fórmula $CT = CF + CV_u \\cdot Q$, el preu a partir dels ingressos, i després aplicar $Q^* = \\dfrac{CF}{P - CV_u}$. A 5.3, classifica cada fet en **intern** (fortalesa/debilitat: depèn de la Sònia) o **extern** (oportunitat/amenaça: entorn), i en positiu o negatiu.\n\nTemps orientatiu: 15-20 minuts. Posa les unitats (€/unitat, unitats/dia, €)."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Cost variable unitari**: $CT = CF + CV_u \\cdot Q$. Amb 12 llibretes: $44 = 20 + 12 \\cdot CV_u$. (Es pot comprovar amb les dades de 15 llibretes.)\n2. **Preu**: $IT = P \\cdot Q \\Rightarrow 72 = 12 \\cdot P$.\n3. **Punt mort**: $Q^* = CF / (P - CV_u)$.\n4. **Benefici** de cada dissabte: $B = IT - CT$."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Resposta model",
+            "cos": "**Cost variable unitari**\n\n$$44 = 20 + CV_u \\cdot 12 \\Rightarrow CV_u = \\frac{24}{12} = 2 \\text{ €/llibreta}$$\n\nComprovació: $50 = 20 + CV_u \\cdot 15 \\Rightarrow CV_u = \\dfrac{30}{15} = 2$ €/llibreta.\n\n**Preu de venda unitari**\n\n$$72 = 12 \\cdot P \\Rightarrow P = 6 \\text{ €/llibreta}$$\n\n**Punt mort diari**\n\n$$Q^* = \\frac{CF}{P - CV_u} = \\frac{20}{6 - 2} = \\frac{20}{4} = 5 \\text{ llibretes/dia}$$\n\nUn dissabte, la Sònia ha de vendre 5 llibretes per cobrir tots els costos; a partir de la sisena obté beneficis.\n\n**Benefici de cada dissabte**\n\n- Dissabte passat (12 llibretes): $B = IT - CT = 72 - 44 = 28$ €.\n- Dissabte anterior (15 llibretes): $B = 15 \\cdot 6 - 50 = 90 - 50 = 40$ €."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Resposta model",
+            "cos": "Com que $Q^* = \\dfrac{CF}{P - CV_u}$, la Sònia pot fer baixar el punt mort de tres maneres:\n\n- **Reduir els costos fixos** (per exemple, un lloc de venda més barat).\n- **Reduir el cost variable unitari** (per exemple, comprant el material a millor preu).\n- **Augmentar el preu de venda unitari** (si els clients ho accepten).\n\nSeria bo perquè el punt mort és el nombre d’unitats a partir del qual s’obtenen beneficis: com més baix sigui, abans comença a guanyar diners i menys risc assumeix si un dia ven poc."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Fortaleses** (internes, positives): recursos i capacitats propis de la Sònia.\n- **Debilitats** (internes, negatives): mancances pròpies.\n- **Oportunitats** (externes, positives): tendències o fets de l’entorn que la poden afavorir.\n- **Amenaces** (externes, negatives): factors de l’entorn que la poden perjudicar.\n\nPregunta’t per a cada fet: «depèn de la Sònia o de l’entorn?» i «l’ajuda o la perjudica?». Compte: el material regalat i el premi ja són recursos que **té** (fortaleses); la inundació ja ha passat i ha afectat el seu estoc (debilitat); la pujada del preu d’una matèria primera és una previsió de l’entorn (amenaça)."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Resposta model",
+            "cos": "| | **Factors positius** | **Factors negatius** |\n|---|---|---|\n| **Interns** | **Fortaleses**: té molt material regalat per una empresa paperera en liquidació per fer carpetes; ha estat finalista del Premi Artesana de l’Any, cosa que li dona prestigi i visibilitat; té registrats els dissenys de les llibretes; acaba d’aprendre una nova tècnica d’estampació en cartró útil per crear nous dissenys. | **Debilitats**: no té prou coneixements empresarials per gestionar el creixement del negoci; una inundació al magatzem ha fet malbé part de l’estoc de llibretes. |\n| **Externs** | **Oportunitats**: augmenta la demanda de productes fets a mà; l’Administració local ofereix suport a dones emprenedores. | **Amenaces**: hi ha molta competència al sector; es preveu una pujada important del preu d’una de les matèries primeres principals. |\n\n**Conclusió.** El DAFO és favorable a ampliar el catàleg: la Sònia té fortaleses (material, prestigi, dissenys protegits, nova tècnica) per aprofitar l’augment de la demanda i el suport públic. Abans, però, hauria de corregir la seva debilitat principal (formar-se en gestió empresarial, potser amb el suport de l’Administració) i diferenciar-se bé per afrontar la competència i l’encariment de la matèria primera."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "5.1",
+            "valor": "CVu = 2 €/u (44 = 20 + 12·CVu, o 50 = 20 + 15·CVu); P = 72/12 = 6 €/u; punt mort = 20/(6 − 2) = 5 unitats/dia; benefici: 72 − 44 = 28 € (12 llibretes) i 90 − 50 = 40 € (15 llibretes)."
+          },
+          {
+            "apartat": "5.2",
+            "valor": "Reduir costos fixos, reduir costos variables unitaris o augmentar el preu de venda. Interessa perquè el punt mort és el nombre d’unitats a partir del qual hi ha beneficis: com més baix, millor."
+          },
+          {
+            "apartat": "5.3",
+            "valor": "Fortaleses: material regalat, finalista del premi, dissenys registrats, curs de nova tècnica. Oportunitats: augment de la demanda de productes fets a mà, suport de l’Administració a dones emprenedores. Debilitats: manca de coneixements empresarials, llibretes malmeses per la inundació. Amenaces: molta competència, pujada prevista del preu d’una matèria primera."
+          }
+        ],
+        "nota": "\nErrors típics: calcular el cost variable unitari dividint el cost total per les unitats (44/12) sense restar els costos fixos; classificar com a oportunitat el material regalat o el premi (són recursos que ja té la Sònia: fortaleses) i com a amenaça la inundació (és un dany ja patit en els seus recursos: debilitat). Tots els resultats oficials s’han comprovat amb Python i coincideixen.\n"
+      }
+    },
+    {
+      "id": "empresa-2018-S-e6-q1",
+      "exercici": 6,
+      "questio": 1,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Esperit emprenedor, pla d’empresa i responsabilitat a la societat limitada",
+      "tema": "emprenedoria",
+      "temes_secundaris": [
+        "organitzacio"
+      ],
+      "conceptes": [
+        "esperit emprenedor",
+        "pla d’empresa",
+        "societat limitada",
+        "responsabilitat limitada"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Quina de les afirmacions següents és correcta?",
+      "figures": [],
+      "opcions": {
+        "a": "L’esperit emprenedor és una manera de pensar i raonar relacionada amb la cerca d’oportunitats de negoci i amb la generació i el desenvolupament de projectes i iniciatives.",
+        "b": "El pla d’empresa és un document formal que descriu, analitza i avalua d’una manera concisa i coherent l’oportunitat de negoci.",
+        "c": "En una societat limitada, la responsabilitat dels socis es limita al capital aportat.",
+        "d": "Totes les afirmacions anteriors són correctes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre; si no, és millor deixar-la en blanc. Vigila les opcions «Totes les anteriors són correctes/incorrectes»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**, perquè les tres afirmacions són certes. a) L’**esperit emprenedor** és, efectivament, una actitud o manera de pensar orientada a detectar oportunitats i a tirar endavant projectes. b) El **pla d’empresa** és el document que descriu i avalua la idea de negoci (pla de màrqueting, d’operacions, de recursos humans, economicofinancer...). c) A la **societat limitada** els socis només responen dels deutes socials amb el capital que han aportat, no amb el seu patrimoni personal."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2018-S-e6-q2",
+      "exercici": 6,
+      "questio": 2,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Internacionalització: obertura a mercats internacionals",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "internacionalització",
+        "globalització",
+        "diferenciació"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "L’obertura d’una organització a mercats internacionals s’anomena",
+      "figures": [],
+      "opcions": {
+        "a": "*internacionalització*.",
+        "b": "*globalització*.",
+        "c": "*diferenciació*.",
+        "d": "*estratègia operativa*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre; si no, és millor deixar-la en blanc. Vigila les opcions «Totes les anteriors són correctes/incorrectes»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. La **internacionalització** és el procés pel qual una empresa obre la seva activitat (vendes, producció, aprovisionament) a mercats d’altres països. La **globalització** (b) és el fenomen general d’integració de l’economia mundial, no una decisió d’una empresa concreta; la **diferenciació** (c) és una estratègia competitiva; l’**estratègia operativa** (d) és la del nivell funcional, del dia a dia."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2018-S-e6-q3",
+      "exercici": 6,
+      "questio": 3,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "DAFO: discrepàncies internes sobre la missió i la visió",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "organitzacio"
+      ],
+      "conceptes": [
+        "dafo",
+        "debilitat",
+        "missió",
+        "visió"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "En l’anàlisi DAFO, si a l’equip emprenedor d’una empresa hi ha discrepàncies sobre la missió i la visió de la companyia, això representa",
+      "figures": [],
+      "opcions": {
+        "a": "una amenaça.",
+        "b": "una debilitat.",
+        "c": "una oportunitat.",
+        "d": "una fortalesa."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre; si no, és millor deixar-la en blanc. Vigila les opcions «Totes les anteriors són correctes/incorrectes»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. Les discrepàncies dins de l’equip emprenedor són un factor **intern** (depèn de la mateixa empresa) i **negatiu** (dificulta la presa de decisions i la coherència estratègica): per tant, és una **debilitat**. Les amenaces i oportunitats (a, c) són factors externs, de l’entorn, i una fortalesa (d) seria un factor intern positiu."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2018-S-e6-q4",
+      "exercici": 6,
+      "questio": 4,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Inversió expansiva",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "inversió expansiva",
+        "inversió de reposició",
+        "capacitat productiva",
+        "tipus d’inversions"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Què és una inversió expansiva?",
+      "figures": [],
+      "opcions": {
+        "a": "La que té l’objectiu de renovar un actiu vell mitjançant un de nou, sense que això modifiqui la capacitat productiva de l’empresa.",
+        "b": "La que té per finalitat augmentar la capacitat productiva de l’empresa.",
+        "c": "La que fa referència a les inversions en polítiques laborals.",
+        "d": "Totes les respostes anteriors són incorrectes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre; si no, és millor deixar-la en blanc. Vigila les opcions «Totes les anteriors són correctes/incorrectes»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. Segons la seva finalitat, les inversions poden ser de **reposició o renovació** (a: substituir un actiu vell per un de nou sense canviar la capacitat productiva), **expansives** (augmentar la capacitat productiva, per exemple per atendre més demanda), de modernització o innovació, o estratègiques. L’opció c) no correspon a cap tipus d’inversió productiva."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2018-S-e6-q5",
+      "exercici": 6,
+      "questio": 5,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Rendibilitat econòmica",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "rendibilitat econòmica",
+        "fons de maniobra",
+        "període mitjà de cobrament"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Què és la rendibilitat econòmica?",
+      "figures": [],
+      "opcions": {
+        "a": "El rendiment de cada unitat monetària invertida en l’empresa.",
+        "b": "La diferència entre l’actiu corrent i el passiu corrent.",
+        "c": "El temps que es triga a cobrar dels clients.",
+        "d": "Totes les respostes anteriors són incorrectes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre; si no, és millor deixar-la en blanc. Vigila les opcions «Totes les anteriors són correctes/incorrectes»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. La rendibilitat econòmica (BAII / actiu total) mesura el benefici abans d’interessos i impostos que genera cada euro invertit en l’actiu de l’empresa. L’opció b) és la definició del **fons de maniobra** i la c) és el **període mitjà de cobrament** de clients."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2018-S-e6-q6",
+      "exercici": 6,
+      "questio": 6,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Facturatge (factoring)",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "facturatge",
+        "factoring",
+        "lísing",
+        "rènting",
+        "pòlissa de crèdit"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "L’operació mitjançant la qual una empresa transfereix la gestió dels cobraments i el risc d’insolvència de clients i deutors a una altra empresa s’anomena",
+      "figures": [],
+      "opcions": {
+        "a": "*lísing*.",
+        "b": "*rènting*.",
+        "c": "*facturatge*.",
+        "d": "*pòlissa de crèdit*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre; si no, és millor deixar-la en blanc. Vigila les opcions «Totes les anteriors són correctes/incorrectes»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. En el **facturatge** (factoring) l’empresa cedeix els seus drets de cobrament a una entitat especialitzada, que n’assumeix la gestió i (en el facturatge sense recurs) el risc d’impagament, a canvi d’una comissió; l’empresa en pot obtenir el cobrament anticipat. El **lísing** (a) és un arrendament financer amb opció de compra, el **rènting** (b) és un lloguer a llarg termini amb manteniment inclòs, i la **pòlissa de crèdit** (d) és un contracte pel qual el banc posa a disposició de l’empresa diners fins a un límit."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2018-S-e6-q7",
+      "exercici": 6,
+      "questio": 7,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Període mitjà d’aprovisionament",
+      "tema": "produccio",
+      "temes_secundaris": [
+        "comptabilitat"
+      ],
+      "conceptes": [
+        "període mitjà de maduració",
+        "període mitjà d’aprovisionament",
+        "existències"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "El període mitjà d’aprovisionament és el temps que, de mitjana,",
+      "figures": [],
+      "opcions": {
+        "a": "l’empresa triga a pagar els seus proveïdors.",
+        "b": "es triga a vendre els productes acabats.",
+        "c": "es triga a fabricar els productes.",
+        "d": "triguen a consumir-se les existències del magatzem."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre; si no, és millor deixar-la en blanc. Vigila les opcions «Totes les anteriors són correctes/incorrectes»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. El període mitjà d’aprovisionament (o d’emmagatzematge de matèries primeres) és el temps que les matèries primeres estan al magatzem fins que entren en producció. Les altres opcions corresponen a altres subperíodes del cicle d’explotació: a) període mitjà de **pagament** a proveïdors, b) període mitjà de **venda** i c) període mitjà de **fabricació**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2018-S-e6-q8",
+      "exercici": 6,
+      "questio": 8,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Factors de localització d’una empresa",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "produccio"
+      ],
+      "conceptes": [
+        "localització",
+        "factors de localització",
+        "proximitat als clients",
+        "mercat de treball"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Què cal tenir en compte a l’hora de determinar la localització d’una empresa?",
+      "figures": [],
+      "opcions": {
+        "a": "El desenvolupament econòmic de la regió.",
+        "b": "La proximitat als clients.",
+        "c": "L’accés al mercat de treball.",
+        "d": "Totes les respostes anteriors són correctes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions): cada resposta correcta val 0,25 punts i cada resposta errònia resta 0,1 punts; les no contestades no resten. Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre; si no, és millor deixar-la en blanc. Vigila les opcions «Totes les anteriors són correctes/incorrectes»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. Tots tres són factors de localització: el **desenvolupament econòmic** de la zona (infraestructures, serveis, poder adquisitiu), la **proximitat als clients** (redueix costos de transport i millora el servei) i l’**accés al mercat de treball** (disponibilitat de mà d’obra qualificada i el seu cost). També hi influeixen la proximitat als proveïdors, el cost del sòl, la normativa i els incentius públics."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": ""
+      }
+    }
+  ]
+}

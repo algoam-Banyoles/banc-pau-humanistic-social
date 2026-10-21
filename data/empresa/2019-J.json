@@ -1,0 +1,807 @@
+{
+  "examen": {
+    "id": "empresa-2019-J",
+    "assignatura": "empresa",
+    "materia": "Economia de l’empresa",
+    "any": 2019,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/empresa/2019-J-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2019-J-solucio.pdf",
+    "estructura": "Sèrie 1 (convocatòria ordinària de juny). Cal respondre CINC dels sis exercicis proposats (2 punts cadascun); si es responen tots, només es valoren els cinc primers. Exercici 1: balanç de situació, ràtios de liquiditat i solvència i rendibilitat financera. Exercici 2: VAN de tres projectes, TIR aproximada sense càlculs i fonts de finançament aliè a llarg termini. Exercici 3: període mitjà de maduració financer i fonts de finançament a curt termini (teoria). Exercici 4: nivells d’estratègia, deslocalització i outsourcing, i internacionalització multidomèstica (teoria). Exercici 5: punt mort, benefici i preu de llindar. Exercici 6: 5 preguntes de test (0,4 punts per encert, −0,1 per error, les no contestades no resten; l’exercici no pot ser negatiu). Es valora el vocabulari econòmic i el raonament coherent; els errors de càlcul només es descompten una vegada."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2019-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Grif, SA: balanç de situació amb el passiu corrent deduït, ràtios de liquiditat i de solvència i rendibilitat financera",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "balanç de situació",
+        "masses patrimonials",
+        "ràtio de liquiditat",
+        "ràtio de solvència",
+        "rendibilitat financera",
+        "impost sobre beneficis"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "L’empresa Grif, SA ha facilitat algunes dades de l’últim exercici econòmic. Al tancament d’aquest exercici, disposava d’un total d’immobilitzat material de 250.000 €, un saldo de clients de 40.000 €, una quantitat de 80.000 € en comptes corrents a diferents entitats bancàries i un valor total de les existències de 30.000 €. Pel que fa a l’estructura financera, se’n sap que un 30 % són deutes a llarg termini i un 50 % correspon al patrimoni net. El benefici abans d’interessos i impostos (BAII) de Grif, SA de l’últim exercici econòmic va ser de 40.000 € i l’impost sobre beneficis que es va aplicar va ser del 25 %.",
+      "enunciat": "Responeu els apartats 1.1, 1.2 i 1.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1.1",
+          "enunciat": "Elaboreu el balanç de situació d’aquesta empresa a partir de la informació proporcionada.",
+          "punts": 1
+        },
+        {
+          "id": "1.2",
+          "enunciat": "Calculeu la ràtio de liquiditat i la ràtio de solvència (o garantia) de l’empresa i interpreteu els resultats obtinguts. Considereu que tots dos resultats mostren una situació òptima?",
+          "punts": 0.5
+        },
+        {
+          "id": "1.3",
+          "enunciat": "Definiu el terme rendibilitat financera. Calculeu la rendibilitat financera que va obtenir l’empresa en l’últim exercici econòmic tenint en compte que no ha de pagar interessos, i interpreteu-ne el resultat.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de **comptabilitat** en tres passos encadenats. (1.1) Amb les dades de l’actiu calcules el total de l’actiu; com que **actiu = patrimoni net + passiu**, els percentatges de l’estructura financera s’apliquen sobre aquest total, i el que falta fins al 100 % és el **passiu corrent** (l’única dada que has de deduir). (1.2) Dues ràtios amb fórmula, càlcul i interpretació respecte del valor òptim. (1.3) Definició + càlcul + interpretació de la rendibilitat financera.\n\nTemps orientatiu: uns 20 minuts. Segons les pautes, al balanç **només puntuen els encerts**: un element mal ubicat val zero. No hi posis partides que no surtin a l’enunciat."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Actiu no corrent** = immobilitzat material = 250.000 €.\n2. **Actiu corrent** = existències (30.000) + realitzable (clients, 40.000) + disponible (bancs, 80.000) = 150.000 €.\n3. **Actiu total** = 250.000 + 150.000 = 400.000 €. Aquest és també el total de patrimoni net + passiu.\n4. Patrimoni net = 50 % de 400.000; passiu no corrent (deutes a llarg termini) = 30 % de 400.000.\n5. El 20 % restant ($100 - 50 - 30$) és el **passiu corrent**."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Resposta model",
+            "cos": "Càlculs previs:\n\n- Actiu total $= 250000 + 30000 + 40000 + 80000 = 400000$ €.\n- Patrimoni net $= 0{,}50 \\cdot 400000 = 200000$ €.\n- Passiu no corrent $= 0{,}30 \\cdot 400000 = 120000$ €.\n- Passiu corrent $= 0{,}20 \\cdot 400000 = 80000$ € (el 20 % que falta fins al 100 %).\n\n**Balanç de situació de Grif, SA**\n\n| Actiu | € | Patrimoni net i passiu | € |\n|---|---:|---|---:|\n| **Actiu no corrent** | **250.000** | **Patrimoni net** | **200.000** |\n| Immobilitzat material | 250.000 | | |\n| **Actiu corrent** | **150.000** | **Passiu no corrent** | **120.000** |\n| Existències | 30.000 | Deutes a llarg termini | 120.000 |\n| Realitzable: clients | 40.000 | **Passiu corrent** | **80.000** |\n| Disponible: bancs | 80.000 | Deutes a curt termini | 80.000 |\n| **Total actiu** | **400.000** | **Total patrimoni net i passiu** | **400.000** |"
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Ràtio de liquiditat** $= \\dfrac{\\text{Actiu corrent}}{\\text{Passiu corrent}}$: capacitat de pagar els deutes a curt termini amb l’actiu corrent. Valor òptim orientatiu entre 1,5 i 2 (les pautes també admeten 1,5-1,8 o 1-2).\n- **Ràtio de solvència o garantia** $= \\dfrac{\\text{Actiu total}}{\\text{Passiu no corrent} + \\text{Passiu corrent}}$: quants euros d’actiu hi ha per cada euro de deute. Ha de ser superior a 1 i proper a 2.\n\nNo n’hi ha prou amb el número: cal dir si és òptim i què vol dir."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Resposta model",
+            "cos": "$$\\text{Liquiditat} = \\frac{150000}{80000} = 1{,}875$$\n\nPer cada euro de deute a curt termini, Grif, SA té 1,875 € d’actiu corrent. Està dins de l’interval òptim (1,5-2): pot fer front als pagaments a curt termini sense problemes i sense tenir excés de recursos ociosos.\n\n$$\\text{Solvència} = \\frac{400000}{120000 + 80000} = \\frac{400000}{200000} = 2$$\n\nL’actiu total duplica el total dels deutes: per cada euro que deu, l’empresa té 2 € de béns i drets. És un valor òptim (superior a 1 i proper a 2), és a dir, l’empresa té una bona garantia davant dels creditors i un bon nivell de solvència a llarg termini.\n\n**Conclusió**: sí, tots dos resultats mostren una situació òptima."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Defineix la rendibilitat financera (ROE): benefici net en relació amb els recursos propis.\n2. Calcula el benefici net: com que **no hi ha interessos**, $\\text{BAI} = \\text{BAII} = 40000$ € i l’impost és el 25 % del BAI.\n3. $RF = \\dfrac{\\text{Benefici net}}{\\text{Patrimoni net}} \\cdot 100$, amb el patrimoni net de l’1.1.\n4. Interpreta-la: euros de benefici per cada 100 € aportats pels socis."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Resposta model",
+            "cos": "La **rendibilitat financera** és la relació entre el benefici net que genera l’empresa i els recursos propis (patrimoni net) invertits pels socis. És la ràtio que més interessa als propietaris, perquè mesura el rendiment del capital que hi han aportat; per això també s’anomena rendibilitat dels recursos propis o del capital.\n\n- $\\text{BAI} = \\text{BAII} - \\text{Interessos} = 40000 - 0 = 40000$ €.\n- $\\text{Impost} = 0{,}25 \\cdot 40000 = 10000$ €.\n- $\\text{Benefici net} = 40000 - 10000 = 30000$ €.\n\n$$RF = \\frac{\\text{Benefici net}}{\\text{Patrimoni net}} \\cdot 100 = \\frac{30000}{200000} \\cdot 100 = 15\\,\\%$$\n\n**Interpretació**: l’empresa obté 15 € de benefici net per cada 100 € de capital propi aportat pels socis. És una rendibilitat positiva i força bona."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1.1",
+            "valor": "Actiu no corrent 250.000; actiu corrent 150.000 (existències 30.000, clients 40.000, bancs 80.000); total actiu 400.000 €. Patrimoni net 200.000 (50 %), passiu no corrent 120.000 (30 %), passiu corrent deduït 80.000 (20 %)."
+          },
+          {
+            "apartat": "1.2",
+            "valor": "Liquiditat = 150.000/80.000 = 1,875 (òptima, entre 1,5 i 2). Solvència = 400.000/200.000 = 2 (òptima, superior a 1 i propera a 2). Totes dues òptimes."
+          },
+          {
+            "apartat": "1.3",
+            "valor": "Definició de rendibilitat financera; BN = 40.000 − 25 % = 30.000 €; RF = 30.000/200.000 = 15 %: 15 € de benefici per cada 100 € de capital propi."
+          }
+        ],
+        "nota": "Errors típics: aplicar els percentatges sobre l’actiu corrent en lloc del total; oblidar que el passiu corrent és el 20 % restant; posar els clients com a disponible (són realitzable); calcular la solvència amb el patrimoni net al denominador; calcular la RF amb el BAII en lloc del benefici net. Al balanç només puntuen els encerts i no s’hi han d’afegir partides inventades (l’únic element deduït és el passiu corrent).\n\nTots els resultats coincideixen amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2019-J-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Bosses de Paper, SL: VAN de tres projectes, TIR aproximada sense càlculs i fonts de finançament aliè a llarg termini",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "valor actual net",
+        "taxa interna de rendibilitat",
+        "taxa d’actualització",
+        "selecció d’inversions",
+        "fonts de finançament a llarg termini",
+        "lísing"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "L’empresa Bosses de Paper, SL vol augmentar la seva dimensió empresarial i, per a fer-ho, necessita adquirir immobilitzat material. Actualment està analitzant tres projectes d’inversió. Aquestes són les dades de què disposa:\n\n| Projecte | Inversió o desemborsament inicial | Flux de caixa (any 1) | Flux de caixa (any 2) |\n|---|---:|---:|---:|\n| 1 | 30.100 € | 16.800 € | 14.000 € |\n| 2 | 40.925 € | 8.000 € | 37.500 € |\n| 3 | 91.470 € | 40.000 € | 68.000 € |\n\nL’empresa estima que la taxa d’actualització per als propers dos anys serà del 6 %.",
+      "enunciat": "Responeu els apartats 2.1, 2.2 i 2.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "enunciat": "Expliqueu què és el criteri del *valor actual net* (VAN). Calculeu el VAN de cada projecte i digueu quin dels tres projectes recomanaríeu a aquesta empresa tenint en compte aquest criteri. Justifiqueu la resposta.",
+          "punts": 1
+        },
+        {
+          "id": "2.2",
+          "enunciat": "Expliqueu què és la *taxa interna de rendibilitat* (TIR). Interpreteu quin valor aproximat podria tenir la TIR per al projecte 2. No heu de fer cap càlcul; només us heu de basar en les dades obtingudes en l’apartat anterior i aplicar els vostres coneixements sobre la TIR. Argumenteu la resposta.",
+          "punts": 0.5
+        },
+        {
+          "id": "2.3",
+          "enunciat": "Anomeneu totes les fonts de finançament extern (recursos aliens) a llarg termini que permetrien finançar el projecte d’inversió escollit i expliqueu-ne només dues.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici clàssic de **selecció d’inversions**. (2.1) Definició del VAN, tres càlculs amb la mateixa taxa (6 %) i una decisió justificada. (2.2) Teoria de la TIR i una deducció **sense calcular**: la TIR és la taxa que fa VAN = 0. (2.3) Llista de fonts de finançament aliè a llarg termini i explicació de dues.\n\nTemps orientatiu: 20-25 minuts. Fes les divisions amb calculadora i arrodoneix només al final (el VAN del projecte 2 és molt petit i els arrodoniments en canvien el signe)."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "$$VAN = -D_0 + \\frac{F_1}{(1+k)} + \\frac{F_2}{(1+k)^2}$$\n\namb $k = 0{,}06$; $(1{,}06)^2 = 1{,}1236$. Calcula els tres VAN. Criteri: un projecte és efectuable si $VAN \\geq 0$ i, entre diversos, es tria el de VAN més gran."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "El **valor actual net (VAN)** és un mètode dinàmic de selecció d’inversions: és la diferència entre el valor actual de tots els fluxos de caixa que generarà el projecte, actualitzats a una taxa de descompte, i el desemborsament inicial. Si el VAN és positiu, la inversió genera riquesa (recupera el desemborsament i encara en sobra) i és aconsellable fer-la; si és negatiu, no es recupera la inversió en termes actuals.\n\n**Projecte 1**\n$$VAN_1 = -30100 + \\frac{16800}{1{,}06} + \\frac{14000}{1{,}06^2} = -30100 + 15849{,}06 + 12459{,}95 = -1790{,}99 \\text{ €}$$\n\n**Projecte 2**\n$$VAN_2 = -40925 + \\frac{8000}{1{,}06} + \\frac{37500}{1{,}06^2} = -40925 + 7547{,}17 + 33374{,}87 = -2{,}96 \\text{ €}$$\n\n**Projecte 3**\n$$VAN_3 = -91470 + \\frac{40000}{1{,}06} + \\frac{68000}{1{,}06^2} = -91470 + 37735{,}85 + 60519{,}76 = 6785{,}61 \\text{ €}$$\n\n**Decisió**: el projecte 1 no és recomanable (VAN negatiu: no recupera el desemborsament inicial en valor actual). El projecte 2 té un VAN pràcticament nul (−2,96 €): just recupera la inversió, sense generar riquesa. Recomanaria el **projecte 3**, perquè és l’únic amb VAN clarament positiu i el més gran: si es compleixen les previsions, el valor actual dels fluxos que genera supera el desemborsament inicial en 6.785,61 €."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Defineix la TIR com la taxa d’actualització que fa que el VAN sigui zero. Després relaciona-ho amb l’apartat anterior: si amb una taxa del 6 % el VAN del projecte 2 és pràcticament 0, la TIR ha de ser molt propera al 6 %. Pots afinar-ho: com que el VAN és lleugerament negatiu, la TIR és una mica inferior al 6 % (el VAN baixa quan la taxa puja)."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "La **taxa interna de rendibilitat (TIR)** és la taxa de descompte que iguala el valor actual dels fluxos de caixa d’una inversió amb el desemborsament inicial; és a dir, la taxa que fa que el VAN sigui igual a zero. Indica la rendibilitat relativa del projecte i és el valor límit a partir del qual la inversió és rendible: un projecte és acceptable si la seva TIR és superior al cost del capital (o a la taxa d’actualització exigida), i entre diversos projectes es tria el de TIR més alta.\n\nPer al **projecte 2**, en actualitzar al 6 % hem obtingut un VAN pràcticament nul (−2,96 €, gairebé 0 en relació amb una inversió de 40.925 €). Com que la TIR és justament la taxa que anul·la el VAN, podem deduir que la TIR del projecte 2 és **aproximadament del 6 %** (de fet, en ser el VAN lleugerament negatiu, una mica per sota del 6 %). Això vol dir que el projecte 2 té una rendibilitat pràcticament igual a la que l’empresa exigeix, de manera que no hi guanya res."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Com que s’ha de finançar **immobilitzat material** (inversió a llarg termini), cal finançament a llarg termini (principi d’equilibri financer). Les pautes demanen anomenar totes les fonts **alienes** a llarg termini: emprèstits, préstecs a llarg termini, crèdits a llarg termini i lísing. Després n’expliques dues amb precisió (no cal explicar-les totes)."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Resposta model",
+            "cos": "Com que el projecte consisteix a adquirir immobilitzat material, és convenient finançar-lo amb recursos a llarg termini. Les fonts de finançament extern (aliè) a llarg termini són: **emprèstits**, **préstecs a llarg termini**, **crèdits a llarg termini** i **lísing** (arrendament financer).\n\n- **Préstec a llarg termini**: una entitat financera lliura a l’empresa una quantitat de diners determinada, que l’empresa es compromet a retornar en un termini superior a un any, en quotes periòdiques que inclouen la devolució del capital i els interessos acordats sobre el total prestat.\n- **Lísing (arrendament financer)**: contracte pel qual una societat de lísing adquireix el bé que necessita l’empresa i l’hi cedeix a canvi d’unes quotes periòdiques durant un temps determinat; en acabar el contracte, l’empresa pot exercir l’opció de compra pel valor residual, renovar el contracte o retornar el bé. Permet disposar de l’immobilitzat sense desemborsar-ne tot el preu d’entrada.\n\n(Altres explicacions vàlides: els **emprèstits** són préstecs que l’empresa divideix en petites parts, les obligacions, que col·loca entre molts inversors, i que retorna amb interessos al venciment; un **crèdit a llarg termini** posa a disposició de l’empresa un límit de diners que pot fer servir segons les necessitats, i només paga interessos per la part disposada.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "Definició del VAN. VAN₁ ≈ −1.790,99 €; VAN₂ ≈ −2,96 € (la pauta oficial diu +2,96 €); VAN₃ ≈ 6.785,61 €. Es recomana el projecte 3 (VAN positiu i més gran); el projecte 1 es rebutja (VAN negatiu)."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "TIR: taxa que fa VAN = 0; s’accepta si supera el cost del capital. Com que el VAN₂ al 6 % és pràcticament 0, la TIR del projecte 2 és propera al 6 %."
+          },
+          {
+            "apartat": "2.3",
+            "valor": "Fonts alienes a llarg termini: emprèstits, préstecs a llarg termini, crèdits a llarg termini i lísing; cal explicar-ne només dues."
+          }
+        ],
+        "nota": "**Discrepància amb la pauta oficial**: la pauta dona VAN₂ = 2,96 € (positiu) i diu que els projectes 2 i 3 «es poden fer». Recalculat amb Python, $VAN_2 = -40925 + 7547{,}17 + 33374{,}87 = -2{,}96$ € (**negatiu**), i la TIR exacta és 5,996 %, lleugerament per sota del 6 %. La conclusió principal no canvia (es recomana el projecte 3 i la TIR del projecte 2 és propera al 6 %), però en rigor el projecte 2 no arriba a ser efectuable. Els VAN dels projectes 1 i 3 coincideixen amb l’oficial.\n\nErrors típics: arrodonir massa els factors d’actualització (amb 1,12 en lloc d’1,1236 el VAN₂ canvia molt); escollir el projecte per la suma de fluxos sense actualitzar; calcular la TIR a 2.2 quan l’enunciat diu explícitament que no cal; esmentar fonts pròpies (ampliació de capital, reserves) a 2.3, que demana recursos aliens."
+      }
+    },
+    {
+      "id": "empresa-2019-J-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Període mitjà de maduració financer d’una asseguradora, un forn de pa i una fàbrica d’avions, i fonts de finançament a curt termini",
+      "tema": "financament",
+      "temes_secundaris": [
+        "produccio"
+      ],
+      "conceptes": [
+        "període mitjà de maduració",
+        "cicle d’explotació",
+        "fonts de finançament a curt termini",
+        "crèdit comercial",
+        "descompte d’efectes",
+        "factoring"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6,
+        7
+      ],
+      "text": "| Empresa | Període mitjà de maduració financer |\n|---|---:|\n| Companyia d’assegurances | –180 |\n| Forn de pa | –15 |\n| Fàbrica d’avions | 120 |",
+      "enunciat": "Responeu els apartats 3.1 i 3.2.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "3.1",
+          "enunciat": "Definiu el terme període mitjà de maduració financer. A continuació, expliqueu per què les tres empreses següents podrien tenir els períodes mitjans de maduració financers indicats a la taula.",
+          "punts": 1
+        },
+        {
+          "id": "3.2",
+          "enunciat": "Esmenteu totes les fonts de finançament a curt termini que utilitzen més les empreses i definiu-ne dues.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici totalment teòric (no hi ha càlculs). (3.1) Una definició precisa del període mitjà de maduració (PMM) **financer** i una justificació raonada per a cada empresa: per què el PMM és negatiu o positiu. Les pautes diuen que la resposta és oberta i que qualsevol argument coherent és vàlid. (3.2) Una llista completa de fonts a curt termini i la definició de dues.\n\nTemps orientatiu: 15-20 minuts."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Definició: dies que de mitjana passen des que l’empresa **paga** els factors productius fins que **cobra** les vendes. PMM financer = PMM econòmic − període de pagament als proveïdors.\n2. Un PMM **negatiu** vol dir que l’empresa cobra abans de pagar: es finança amb els diners dels clients.\n3. Aplica-ho a cada empresa pensant en quan cobra i quan paga: l’asseguradora cobra la prima per avançat; el forn cobra al comptat i paga a final de mes; la fàbrica d’avions fabrica durant mesos abans de cobrar."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Resposta model",
+            "cos": "El **període mitjà de maduració financer** és el nombre de dies que, de mitjana, l’empresa triga a recuperar els diners invertits en el cicle d’explotació. És el temps que passa entre el moment en què **paga** les matèries primeres, les mercaderies o els factors productius i el moment en què **recupera** aquests diners amb el cobrament de les vendes. Es calcula com el període de maduració econòmic (emmagatzematge + fabricació + venda + cobrament) menys el període de pagament als proveïdors. Si és negatiu, l’empresa cobra abans de pagar.\n\n- **Companyia d’assegurances (−180 dies)**: cobra les primes dels clients en el moment de formalitzar la pòlissa (per avançat) i només paga molt més tard, quan es produeix el sinistre o la contingència, si és que es produeix. Cobra de mitjana uns sis mesos abans de pagar i es finança amb els diners dels assegurats.\n- **Forn de pa (−15 dies)**: el pa es fa i es ven en el mateix dia i gairebé totes les vendes es cobren al comptat, en el moment de la venda. En canvi, paga la farina i els altres proveïdors amb ajornament (per exemple, a final de mes). Per això cobra uns 15 dies abans de pagar.\n- **Fàbrica d’avions (120 dies)**: fabricar un avió és un procés llarg (de mitjana uns quatre mesos) durant el qual l’empresa ha de pagar materials i personal. Com que treballa per encàrrec i cobra quan lliura l’avió, triga uns 120 dies a recuperar els diners invertits en la fabricació, i necessita finançar aquest cicle llarg."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Primer la llista completa (és la meitat del que es demana) i després dues definicions precises. Tria les que coneguis millor: el crèdit comercial, el descompte d’efectes i el factoring són fàcils de definir amb claredat."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Resposta model",
+            "cos": "Les fonts de finançament a curt termini que més utilitzen les empreses són: **préstecs a curt termini**, **crèdits bancaris a curt termini** (pòlisses de crèdit), **emprèstits de pagarés d’empresa**, **crèdit comercial** (de proveïdors), **descompte d’efectes**, **factoring o facturatge**, **confirming o confirmació de pagament** i els **fons espontanis de finançament** (deutes amb Hisenda, la Seguretat Social o el personal pendents de pagar).\n\n- **Crèdit comercial (de proveïdors)**: és l’ajornament del pagament que els proveïdors concedeixen a l’empresa per les compres de mercaderies o matèries primeres (per exemple, pagar a 30, 60 o 90 dies). És una font de finançament espontània i, normalment, sense cost explícit.\n- **Descompte d’efectes**: l’empresa lliura a una entitat bancària les lletres de canvi o els efectes que té pendents de cobrar dels clients abans del venciment, i el banc li n’avança l’import descomptant-ne els interessos i les comissions. Si el client no paga al venciment, el banc reclama l’import a l’empresa.\n\n(També és vàlid el **factoring**: l’empresa ven els seus drets de cobrament a una societat de factoring, que n’avança l’import, en gestiona el cobrament i, segons la modalitat, n’assumeix el risc d’impagament a canvi d’una comissió.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "3.1",
+            "valor": "PMM financer: temps mitjà entre el pagament dels factors productius i el cobrament de les vendes. Asseguradora: cobra la prima per avançat i paga molt més tard (−180). Forn: cobra al comptat i paga a final de mes (−15). Fàbrica d’avions: fabricació llarga (uns 4 mesos) i cobra en lliurar (120). Qualsevol argumentació coherent és vàlida."
+          },
+          {
+            "apartat": "3.2",
+            "valor": "Préstecs i crèdits bancaris a curt termini, pagarés d’empresa, crèdit comercial, descompte d’efectes, factoring, confirming i fons espontanis; definir-ne dues."
+          }
+        ],
+        "nota": "Errors típics: confondre el PMM financer amb l’econòmic (el financer descompta el període de pagament als proveïdors); dir només «cobren abans» sense explicar per què ho permet el seu negoci; esmentar fonts a llarg termini (lísing, emprèstits d’obligacions, ampliació de capital) a 3.2. Les pautes accepten qualsevol argumentació coherent a 3.1.\n\nLa resposta segueix la pauta oficial (a la taula de la pauta posa «Fabricant d’avions» en lloc de «Fàbrica d’avions»)."
+      }
+    },
+    {
+      "id": "empresa-2019-J-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Nivells d’estratègia (corporativa, de negoci i operativa), deslocalització i outsourcing, i estratègia d’internacionalització multidomèstica",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "organitzacio"
+      ],
+      "conceptes": [
+        "nivells d’estratègia",
+        "estratègia corporativa",
+        "estratègia competitiva",
+        "deslocalització",
+        "outsourcing",
+        "internacionalització",
+        "estratègia multidomèstica"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7,
+        8
+      ],
+      "text": "",
+      "enunciat": "Responeu els apartats 4.1, 4.2 i 4.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "4.1",
+          "enunciat": "Es poden definir diferents nivells d’estratègia en relació amb els objectius que es volen assolir i els recursos que es volen utilitzar. Esmenteu els tres nivells d’estratègia (o tipus d’estratègies genèriques), expliqueu-los i poseu un exemple de cada un.",
+          "punts": 0.9
+        },
+        {
+          "id": "4.2",
+          "enunciat": "Expliqueu en què consisteix la deslocalització d’una empresa i argumenteu quina relació té amb la subcontractació d’empreses (també anomenada *outsourcing*).",
+          "punts": 0.5
+        },
+        {
+          "id": "4.3",
+          "enunciat": "Expliqueu què és el procés d’internacionalització d’una empresa i, a continuació, digueu en què consisteix l’estratègia d’internacionalització multidomèstica.",
+          "punts": 0.6
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici teòric sobre **estratègia i entorn**. Cada apartat té diverses parts: a 4.1, per a cada un dels tres nivells cal nom + explicació + exemple (0,3 punts cadascun); a 4.2, definició de deslocalització + relació amb l’outsourcing; a 4.3, definició d’internacionalització + estratègia multidomèstica. Respon amb paràgrafs curts i ordenats, un per idea.\n\nTemps orientatiu: 15 minuts."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Els tres nivells van de més general a més concret: **corporatiu** (en quins negocis i mercats és l’empresa), **de negoci o competitiu** (com competeix en cada negoci: costos o diferenciació) i **funcional o operatiu** (com cada departament aplica els recursos per fer possibles els nivells superiors). Per a cada un, un exemple concret."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Resposta model",
+            "cos": "- **Estratègia corporativa**: és el nivell superior. Pren les decisions sobre l’objectiu i l’abast global de l’empresa (en quins negocis i mercats vol ser, si creix, es diversifica o s’internacionalitza), amb la intenció de satisfer les expectatives dels propietaris i afegir valor a les diferents àrees. *Exemple*: una cadena de supermercats decideix internacionalitzar-se i obrir botigues a Portugal.\n- **Estratègia de negoci (competitiva)**: és més concreta; defineix com competirà l’empresa en cada mercat o segment, és a dir, quins elements faran competitius els seus productes. *Exemple*: aplicar una estratègia de lideratge en costos (oferir el preu més baix) o de diferenciació del producte o servei (oferir un producte únic pel qual el client està disposat a pagar més).\n- **Estratègia funcional (operativa)**: busca gestionar de manera eficient els recursos de cada departament (producció, màrqueting, finances, recursos humans), tenint com a marc les estratègies dels nivells superiors. *Exemple*: si l’empresa aplica el lideratge en costos, el departament de compres negocia preus més baixos amb els proveïdors i el de producció estableix un pla perquè no es disparin els costos."
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Defineix la deslocalització (trasllat de l’activitat productiva a països amb costos més baixos) i explica la relació: l’empresa pot deslocalitzar fent-ho ella mateixa (obrint una planta pròpia) o **subcontractant** una part de la producció a empreses d’aquests països (outsourcing). En tots dos casos l’objectiu és reduir costos."
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Resposta model",
+            "cos": "La **deslocalització** és el trasllat d’activitats productives d’una empresa des de països industrialitzats cap a països en desenvolupament, on la renda per càpita i, per tant, els salaris són sensiblement més baixos (i sovint també ho són altres costos o les exigències normatives). L’objectiu principal és **minimitzar costos** i guanyar competitivitat.\n\nLa relació amb la **subcontractació (outsourcing)** és que sovint la deslocalització es fa per aquesta via: en lloc de traslladar tota l’empresa, la companyia encarrega a empreses externes, situades en aquests països, la fabricació d’una part de la producció o de determinades activitats (externalització). Totes dues estratègies persegueixen el mateix objectiu, reduir costos, i permeten a l’empresa concentrar-se en les activitats en què aporta més valor (disseny, màrqueting...). Ara bé, no són el mateix: es pot subcontractar sense deslocalitzar (a una empresa del mateix país) i es pot deslocalitzar sense subcontractar (obrint una fàbrica pròpia a l’estranger)."
+          },
+          {
+            "apartat": "4.3",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Internacionalització: obertura de l’empresa als mercats exteriors (exportar, filials, aliances...).\n2. Multidomèstica: l’empresa **adapta** la seva oferta i organització a cada país; filials descentralitzades i amb autonomia, sovint dirigides per personal local. Contrasta-la breument amb l’estratègia global (producte estandarditzat i gestió centralitzada)."
+          },
+          {
+            "apartat": "4.3",
+            "titol": "Resposta model",
+            "cos": "El **procés d’internacionalització** és l’obertura d’una empresa als mercats internacionals, és a dir, el conjunt d’operacions que du a terme per vincular-se amb mercats d’altres països: exportar-hi, establir-hi aliances o acords amb empreses estrangeres, o implantar-s’hi amb filials pròpies.\n\nL’**estratègia d’internacionalització multidomèstica** consisteix a descentralitzar l’organització en cada país on l’empresa opera, de manera que cada filial dona una resposta diferenciada i adaptada a les necessitats, els gustos i la cultura del mercat local. Les filials tenen molta autonomia respecte de les directrius de la seu central, sovint les dirigeixen treballadors locals i tot l’enfocament comercial (producte, preu, comunicació) es dissenya per al país concret. És el contrari de l’estratègia global, que ofereix el mateix producte estandarditzat a tot el món amb una gestió centralitzada."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "4.1",
+            "valor": "Corporativa (abast global de l’empresa; ex.: internacionalitzar-se), de negoci (com competir; ex.: lideratge en costos o diferenciació) i operativa o funcional (gestió eficient dels recursos de cada departament; ex.: pla de control de costos a tots els departaments)."
+          },
+          {
+            "apartat": "4.2",
+            "valor": "Deslocalització: trasllat de la producció a països amb salaris més baixos per reduir costos. Relació: es pot fer subcontractant una part de la producció a empreses externes (outsourcing o externalització), amb el mateix objectiu de reduir costos."
+          },
+          {
+            "apartat": "4.3",
+            "valor": "Internacionalització: obertura i vinculació de l’empresa amb els mercats internacionals. Multidomèstica: organització descentralitzada en cada país, resposta adaptada a les necessitats locals, filials autònomes i sovint gestionades per personal local."
+          }
+        ],
+        "nota": "Errors típics: a 4.1, donar els tres nivells sense exemple (cada exemple compta) o confondre els nivells amb les estratègies competitives de Porter (costos, diferenciació, enfocament), que són només el nivell de negoci; a 4.2, definir l’outsourcing sense relacionar-lo amb la deslocalització; a 4.3, confondre l’estratègia multidomèstica amb la global.\n\nLa resposta segueix la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2019-J-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Vi de l’Arc de Sant Martí: punt mort, ampolles d’una collita, benefici del primer any i preu de llindar del segon any",
+      "tema": "produccio",
+      "temes_secundaris": [
+        "marqueting",
+        "emprenedoria"
+      ],
+      "conceptes": [
+        "punt mort",
+        "llindar de rendibilitat",
+        "costos fixos",
+        "costos variables unitaris",
+        "benefici",
+        "preu de venda"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        9,
+        10
+      ],
+      "text": "En Marc i la Núria són germans i volen tirar endavant el seu propi negoci, que consistirà a envasar i comercialitzar el vi procedent de les vinyes de les finques familiars. L’anomenaran *Vi de l’Arc de Sant Martí* i el vendran en ampolles de 750 cc.\n\nA la seva família els ha agradat molt aquesta idea i han arribat a un acord: els donaran suport durant el primer any facilitant-los el vi a molt bon preu, però tota la part econòmica l’hauran d’assumir ells.\n\nDesprés de fer càlculs, en Marc i la Núria arriben a la conclusió que els costos fixos que hauran de considerar el primer any seran de 25.300 €, que es dedicaran al manteniment i altres despeses del celler, a les instal·lacions i també a la publicitat.\n\nD’altra banda, el primer any els costos variables unitaris seran d’1,2 €/unitat (inclouran les ampolles de vidre, les etiquetes, els taps i també el vi).\n\nEls vins de qualitat similar al *Vi de l’Arc de Sant Martí* es venen al mercat a un preu de 5 € per ampolla de 750 cc, però ells, a fi de posicionar-se i poder augmentar la seva quota de mercat, el volen vendre a 3,5 € per ampolla de 750 cc.",
+      "enunciat": "Responeu els apartats 5.1, 5.2 i 5.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "5.1",
+          "enunciat": "Tenint en compte les dades de l’enunciat i el fet que el preu de venda unitari és de 3,5 € per ampolla de 750 cc, calculeu el punt mort d’aquesta empresa i interpreteu el resultat obtingut.",
+          "punts": 0.75
+        },
+        {
+          "id": "5.2.a",
+          "enunciat": "De la collita del primer any han obtingut 9.000 litres de vi, que han envasat i venut totalment, tal com havien previst. Tenint en compte aquests 9.000 litres de vi: a) Calculeu el nombre d’ampolles de 0,75 litres que han pogut omplir.",
+          "punts": 0.25
+        },
+        {
+          "id": "5.2.b",
+          "enunciat": "b) Calculeu quins han estat els costos totals i els ingressos totals del negoci. A continuació indiqueu, mitjançant el càlcul del benefici, si han guanyat o perdut diners (tenint present la dada obtinguda en el subapartat anterior i les dades de l’enunciat).",
+          "punts": 0.5
+        },
+        {
+          "id": "5.3.a",
+          "enunciat": "Per al segon any, en Marc i la Núria esperen que els costos fixos s’incrementin un 10 % i els costos variables unitaris es dupliquin (i, per tant, passin d’1,2 €/unitat a 2,4 €/unitat). a) Suposant que aquest segon any, per a obtenir un benefici igual a zero, només podran produir i vendre 10.000 ampolles, calculeu a quin preu hauran de vendre les ampolles, de manera que no perdin ni guanyin diners.",
+          "punts": 0.25
+        },
+        {
+          "id": "5.3.b",
+          "enunciat": "b) El valor obtingut en el subapartat anterior és superior o inferior al preu de mercat? Per quin motiu penseu que hi ha aquesta diferència de preu?",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Problema de **llindar de rendibilitat** (punt mort) amb dades senzilles. La clau és la fórmula $Q^* = \\dfrac{CF}{p - CV_u}$ i saber-la «girar» per trobar el preu quan coneixes la quantitat (5.3.a). No oblidis les **interpretacions** (5.1 i 5.3.b) ni dir explícitament si guanyen o perden diners (5.2.b).\n\nTemps orientatiu: 15-20 minuts. Escriu sempre les unitats (ampolles, €, €/ampolla)."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Dades: $CF = 25300$ €, $CV_u = 1{,}2$ €/ampolla, $p = 3{,}5$ €/ampolla. El punt mort és la quantitat per a la qual ingressos totals = costos totals (benefici zero). El **marge de contribució** unitari ($p - CV_u$) és el que aporta cada ampolla a cobrir els costos fixos."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Resposta model",
+            "cos": "$$Q^* = \\frac{CF}{p - CV_u} = \\frac{25300}{3{,}5 - 1{,}2} = \\frac{25300}{2{,}3} = 11000 \\text{ ampolles}$$\n\n**Interpretació**: en Marc i la Núria han de produir i vendre **11.000 ampolles** per cobrir tots els costos; amb aquesta quantitat el benefici és zero. Si en venen més de 11.000, obtindran beneficis; si en venen menys, tindran pèrdues. Cada ampolla aporta 2,3 € de marge per cobrir els costos fixos."
+          },
+          {
+            "apartat": "5.2.a",
+            "titol": "Resposta model",
+            "cos": "Cada ampolla té 750 cc = 0,75 litres:\n\n$$\\text{Ampolles} = \\frac{9000 \\text{ l}}{0{,}75 \\text{ l/ampolla}} = 12000 \\text{ ampolles}$$"
+          },
+          {
+            "apartat": "5.2.b",
+            "titol": "Com plantejar-ho",
+            "cos": "$CT = CF + CV_u \\cdot Q$; $IT = p \\cdot Q$; $B = IT - CT$, amb $Q = 12000$. Com que 12.000 > 11.000 (punt mort), ja pots anticipar que hi haurà benefici: comprova-ho."
+          },
+          {
+            "apartat": "5.2.b",
+            "titol": "Resposta model",
+            "cos": "- Costos variables $= 12000 \\cdot 1{,}2 = 14400$ €.\n- **Costos totals** $= 25300 + 14400 = 39700$ €.\n- **Ingressos totals** $= 12000 \\cdot 3{,}5 = 42000$ €.\n- **Benefici** $= 42000 - 39700 = 2300$ €.\n\nEl benefici és positiu: **han guanyat 2.300 €**. És coherent amb el punt mort: han venut 1.000 ampolles més de les 11.000 necessàries, i cada una aporta 2,3 € de marge ($1000 \\cdot 2{,}3 = 2300$ €)."
+          },
+          {
+            "apartat": "5.3.a",
+            "titol": "Com plantejar-ho",
+            "cos": "Nous costos: $CF = 25300 \\cdot 1{,}10 = 27830$ €, $CV_u = 2{,}4$ €/ampolla. Ara la incògnita és el preu: imposa que el punt mort sigui 10.000 ampolles,\n\n$$10000 = \\frac{27830}{p - 2{,}4} \\;\\Rightarrow\\; p = \\frac{27830}{10000} + 2{,}4$$\n\nÉs a dir, el preu de llindar = cost fix per ampolla + cost variable unitari (= cost mitjà)."
+          },
+          {
+            "apartat": "5.3.a",
+            "titol": "Resposta model",
+            "cos": "- $CF_2 = 25300 + 0{,}10 \\cdot 25300 = 25300 + 2530 = 27830$ €.\n- $CV_{u,2} = 1{,}2 \\cdot 2 = 2{,}4$ €/ampolla.\n\n$$10000 = \\frac{27830}{p - 2{,}4} \\;\\Rightarrow\\; p - 2{,}4 = 2{,}783 \\;\\Rightarrow\\; p = 5{,}183 \\approx 5{,}18 \\text{ €/ampolla}$$\n\nHauran de vendre cada ampolla a **5,18 €** per no guanyar ni perdre diners."
+          },
+          {
+            "apartat": "5.3.b",
+            "titol": "Resposta model",
+            "cos": "El preu de 5,18 € és **superior** al preu de mercat dels vins de qualitat similar (5 €/ampolla). La diferència es deu al fet que el segon any els costos augmenten (els fixos un 10 % i els variables es dupliquen, segurament perquè la família ja no els facilita el vi a tan bon preu) i, alhora, el volum de vendes disminueix (10.000 ampolles en lloc de 12.000): els costos fixos es reparteixen entre menys ampolles i el cost per ampolla puja. Per cobrir uns costos més alts amb menys unitats, han d’apujar el preu. Amb un preu superior al de la competència, els serà difícil vendre i hauran de replantejar el negoci (reduir costos, augmentar el volum o diferenciar el producte)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "5.1",
+            "valor": "Q* = 25.300/(3,5 − 1,2) = 11.000 ampolles: amb aquesta quantitat el benefici és zero; per sobre, beneficis; per sota, pèrdues."
+          },
+          {
+            "apartat": "5.2.a",
+            "valor": "9.000 l / 0,75 l = 12.000 ampolles."
+          },
+          {
+            "apartat": "5.2.b",
+            "valor": "CT = 25.300 + 14.400 = 39.700 €; IT = 42.000 €; B = 2.300 €: han guanyat diners."
+          },
+          {
+            "apartat": "5.3.a",
+            "valor": "CF = 27.830 €, CVu = 2,4 €; 10.000 = 27.830/(p − 2,4) → p ≈ 5,18 €/ampolla."
+          },
+          {
+            "apartat": "5.3.b",
+            "valor": "5,18 € és superior al preu de mercat (5 €). Motiu: augmenten els costos i disminueix el volum de vendes, i per cobrir-los han d’augmentar el preu."
+          }
+        ],
+        "nota": "Errors típics: dividir 9.000 entre 750 (barrejar litres i cc); oblidar que l’increment del 10 % és sobre els costos fixos (27.830 €) i no sobre els variables; a 5.3.a, aplicar el preu de 3,5 € o confondre la incògnita; no interpretar el punt mort. Si un resultat anterior és erroni però el procediment següent és correcte, només es descompta una vegada.\n\nTots els resultats coincideixen amb la pauta oficial (preu exacte 5,183 €)."
+      }
+    },
+    {
+      "id": "empresa-2019-J-e6-q1",
+      "exercici": 6,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.4,
+      "titol": "Quan un informe d’auditoria és favorable",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "auditoria",
+        "comptes anuals",
+        "imatge fidel"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Un informe d’auditoria és favorable quan assenyala que",
+      "figures": [],
+      "opcions": {
+        "a": "l’empresa presenta beneficis.",
+        "b": "el balanç mostra un equilibri patrimonial i financer estable.",
+        "c": "l’empresa no té problemes de solvència.",
+        "d": "els comptes anuals mostren la imatge fidel del patrimoni i dels resultats de l’empresa."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (5 qüestions, 2 punts en total): cada resposta correcta val 0,4 punts i per cada resposta errònia es descompten 0,1 punts; les preguntes no contestades no resten. L’exercici mai no pot tenir nota negativa. Amb quatre opcions, si en pots descartar una amb seguretat, ja surt a compte respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. L’auditoria de comptes és la revisió que fa un expert independent per comprovar si els comptes anuals reflecteixen la **imatge fidel** del patrimoni, de la situació financera i dels resultats de l’empresa, d’acord amb la normativa comptable. Un informe favorable (opinió sense excepcions) diu justament això. No valora si l’empresa guanya diners (a), si té una bona situació patrimonial o financera (b) ni si és solvent (c): una empresa amb pèrdues o amb problemes de solvència pot tenir un informe favorable si els seus comptes reflecteixen correctament aquesta situació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": "La resposta coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2019-J-e6-q2",
+      "exercici": 6,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.4,
+      "titol": "Element que no cal per calcular el VAN",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "valor actual net",
+        "taxa interna de rendibilitat",
+        "fluxos de caixa",
+        "desemborsament inicial"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Quin dels elements següents no és necessari per a calcular el valor actual net (VAN)?",
+      "figures": [],
+      "opcions": {
+        "a": "El valor residual.",
+        "b": "La taxa interna de rendibilitat.",
+        "c": "Els fluxos de caixa nets.",
+        "d": "El desemborsament inicial."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (5 qüestions, 2 punts en total): cada resposta correcta val 0,4 punts i per cada resposta errònia es descompten 0,1 punts; les preguntes no contestades no resten. L’exercici mai no pot tenir nota negativa. Amb quatre opcions, si en pots descartar una amb seguretat, ja surt a compte respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. Per calcular el VAN cal el desemborsament inicial (d), els fluxos de caixa nets de cada any (c), el valor residual si n’hi ha (a, que se suma a l’últim flux) i la **taxa d’actualització** (el cost del capital). La TIR no s’utilitza per calcular el VAN: és un altre criteri, la taxa que fa que el VAN sigui zero, i en tot cas s’obté a partir de la mateixa fórmula."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "La resposta coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2019-J-e6-q3",
+      "exercici": 6,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.4,
+      "titol": "Què és la cadena de valor d’una empresa",
+      "tema": "organitzacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "cadena de valor",
+        "porter",
+        "anàlisi interna",
+        "activitats primàries"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "La cadena de valor d’una empresa",
+      "figures": [],
+      "opcions": {
+        "a": "ordena les activitats segons el moment en què es duen a terme.",
+        "b": "ordena les activitats segons el valor que aporten al preu final del producte.",
+        "c": "és una eina de l’anàlisi externa.",
+        "d": "permet conèixer la visió de qualsevol empresa."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (5 qüestions, 2 punts en total): cada resposta correcta val 0,4 punts i per cada resposta errònia es descompten 0,1 punts; les preguntes no contestades no resten. L’exercici mai no pot tenir nota negativa. Amb quatre opcions, si en pots descartar una amb seguretat, ja surt a compte respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta, segons la pauta oficial, és la **b)**. La cadena de valor de Porter és una eina d’**anàlisi interna** (per això c és falsa) que descompon l’empresa en activitats primàries i de suport per identificar quines aporten més valor al producte final i on hi ha avantatges competitius. No ordena les activitats cronològicament (a) ni serveix per conèixer la visió de l’empresa (d), que és una declaració d’intencions de futur."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "La resposta coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2019-J-e6-q4",
+      "exercici": 6,
+      "questio": 4,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.4,
+      "titol": "Decisió sobre els punts de venda dins del màrqueting mix",
+      "tema": "marqueting",
+      "temes_secundaris": [],
+      "conceptes": [
+        "màrqueting mix",
+        "distribució",
+        "punts de venda",
+        "pla de màrqueting"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "En el pla de màrqueting, la decisió sobre tots els possibles punts de venda del producte forma part de l’estratègia de",
+      "figures": [],
+      "opcions": {
+        "a": "producte.",
+        "b": "preus.",
+        "c": "promoció.",
+        "d": "distribució."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (5 qüestions, 2 punts en total): cada resposta correcta val 0,4 punts i per cada resposta errònia es descompten 0,1 punts; les preguntes no contestades no resten. L’exercici mai no pot tenir nota negativa. Amb quatre opcions, si en pots descartar una amb seguretat, ja surt a compte respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. Dins del màrqueting mix (les 4 P), la **distribució** (*place*) decideix com i on arriba el producte al consumidor: canals de distribució, intermediaris i punts de venda. El producte (a) tracta les característiques, la marca o l’envàs; el preu (b), la fixació del preu; i la promoció (c), la comunicació (publicitat, promoció de vendes, relacions públiques...)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": "La resposta coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2019-J-e6-q5",
+      "exercici": 6,
+      "questio": 5,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.4,
+      "titol": "Formes jurídiques que pot adoptar una emprenedora sola",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "formes jurídiques",
+        "empresari individual",
+        "societat unipersonal",
+        "societat limitada",
+        "societat anònima"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Quina de les formes jurídiques següents pot adoptar una emprenedora que vol crear una empresa tota sola?",
+      "figures": [],
+      "opcions": {
+        "a": "Empresa individual.",
+        "b": "Societat limitada.",
+        "c": "Societat anònima.",
+        "d": "Totes les respostes anteriors són correctes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (5 qüestions, 2 punts en total): cada resposta correcta val 0,4 punts i per cada resposta errònia es descompten 0,1 punts; les preguntes no contestades no resten. L’exercici mai no pot tenir nota negativa. Amb quatre opcions, si en pots descartar una amb seguretat, ja surt a compte respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. Una sola persona pot ser empresària individual (autònoma), però també pot constituir una **societat unipersonal**: tant la societat limitada com la societat anònima es poden crear amb un únic soci (SLU, SAU), amb l’avantatge que la responsabilitat queda limitada al capital aportat. Per tant, les tres formes són possibles."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": "La resposta coincideix amb la pauta oficial."
+      }
+    }
+  ]
+}
