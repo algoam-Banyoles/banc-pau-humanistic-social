@@ -1,0 +1,880 @@
+{
+  "examen": {
+    "id": "llati-2022-J",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2022,
+    "convocatoria": "juny",
+    "serie": "2",
+    "pdf_examen": "pdfs/llati/2022-J-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2022-J-solucio.pdf",
+    "estructura": "Sèrie 2. Quatre exercicis (10 punts): 1. Traducció d'un text de Cèsar (4 punts, obligatori); 2. Morfosintaxi sobre el mateix text (1 punt): cal triar l'opció A o la B (dos apartats cadascuna); 3. Llengua, literatura o civilització romanes (2 punts): cal triar l'opció A (completar 4 frases amb llatinismes d'una llista; 0,5 per encert, sense penalització) o la B (4 preguntes d'opció múltiple de literatura llatina; 0,5 per encert i −0,16 per error, sense descompte per les no contestades); 4. Exposició (mínim 15 línies, unes 150 paraules) d'un tema de literatura o civilització (3 punts): cal triar l'opció A (Teseu, Ariadna i el Minotaure, *Metamorfosis* d'Ovidi) o la B (Tàrraco i Emèrita Augusta, a partir de dos plànols)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2022-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 4,
+      "titol": "Traducció de Cèsar: l'exèrcit arriba al Tàmesi i troba els britans a l'altra riba",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "cèsar",
+        "de bello gallico",
+        "ablatiu absolut",
+        "cum històric",
+        "infinitiu passiu",
+        "participi",
+        "britània"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Cèsar arriba al Tàmesi amb el seu exèrcit i veu les tropes enemigues apostades a l'altra banda del riu**\n\nCaesar, cognito consilio hostium, ad flumen Tamesim in fines Cassiuellauni exercitum duxit; hoc flumen uno loco atque aegre transiri potest. Eo cum uenisset, animaduertit ad alteram fluminis ripam magnas copias hostium instructas. Ripa autem erat acutis sudibus munita.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, V, 18, 1-3\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *autem* (conj.): a més.\n- *Cassiuellaunus, -i* (m.): Cassivel·laune (capitost dels britans).\n- *consilium, -i* (n.): pla, projecte.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *eo* (adv.): allí, hi.\n- *finis, -is* (m. i f.): límit, fi; (en pl.) territori, país.\n- *instructus, -a, -um*: en formació.\n- *munitus, -a, -um*: fortificat, protegit.\n- *possum, potui, —* (irr., tr.): (amb inf.) poder.\n- *sudis, -is* (f.): estaca.\n- *Tamesis, -is* (m.): el Tàmesi (riu de Britània).\n- *transeo, -ii, -itum* (irr., tr.): travessar, creuar; *transiri*, inf. pres. pass.\n- *unus, -a, -um*: únic.",
+      "enunciat": "Feu la versió del text següent (4 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de Cèsar (*De bello Gallico*, V, 18): tres oracions curtes i clares. Val **4 punts**, la meitat de l'examen: dedica-hi uns 35-40 minuts.\n\nMètode: (1) llegeix el títol, que ja dona el sentit (Cèsar arriba al Tàmesi i veu les tropes enemigues a l'altra banda); (2) localitza els **verbs conjugats**: *duxit*, *potest*, *uenisset*, *animaduertit*, *erat*; (3) identifica construccions especials: l'**ablatiu absolut** *cognito consilio hostium*, la perífrasi *transiri potest* (infinitiu passiu), el ***cum* històric** amb subjuntiu (*cum uenisset*) i el participi predicatiu *instructas*; (4) fes una traducció literal i després poleix-la.\n\nParanys: *cognito* no concorda amb *Caesar* (és ablatiu, no nominatiu): és ablatiu absolut; *hostium* és genitiu plural de *hostis*; *transiri* és **passiu** («ser travessat») → en català va bé la passiva reflexa «es pot travessar»; *eo* és adverbi («allí»), no una forma del verb *eo, ire*; *cum* va col·locat després de *eo*; *magnas copias* (plural) vol dir «nombroses tropes», no «grans riqueses»; *acutis sudibus* és ablatiu instrumental."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Caesar, cognito consilio hostium, ad flumen Tamesim in fines Cassiuellauni exercitum duxit;*\n\n- Verb principal: *duxit*, 3a sg. perfet d'indicatiu actiu de *duco, -ere, duxi, ductum* («conduir, dur»). Subjecte: *Caesar* (nominatiu sg.).\n- *cognito consilio hostium*: **ablatiu absolut**: participi perfet passiu *cognito* (de *cognosco*) + substantiu *consilio* (abl. sg. de *consilium*), que en fa de subjecte; *hostium*, genitiu pl. de *hostis*, és CN de *consilio*: «conegut el pla dels enemics».\n- *ad flumen Tamesim*: *ad* + acusatiu (*flumen*, n.; *Tamesim*, ac. sg. de *Tamesis, -is*, en aposició): CC de direcció, «cap al riu Tàmesi».\n- *in fines Cassiuellauni*: *in* + acusatiu pl. de *finis* (en plural «territori»): CC de direcció («cap a dins del territori»); *Cassiuellauni*, genitiu sg., CN.\n- *exercitum*: acusatiu sg. de *exercitus, -us* (4a decl.), CD de *duxit*."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*hoc flumen uno loco atque aegre transiri potest.*\n\n- Nucli verbal: perífrasi *transiri potest*: *potest*, 3a sg. present d'indicatiu de *possum*, + *transiri*, infinitiu present **passiu** de *transeo* (glossat al lèxic): «pot ser travessat» = «es pot travessar».\n- Subjecte: *hoc flumen* (nominatiu sg. neutre: nucli *flumen*, determinat pel demostratiu *hoc*).\n- *uno loco*: ablatiu sg. (*unus* «únic» concorda amb *loco*): CC de lloc per on, «per un únic lloc».\n- *atque*: conjunció copulativa que coordina els dos complements circumstancials.\n- *aegre*: adverbi de manera, «amb dificultat, a penes»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Eo cum uenisset, animaduertit ad alteram fluminis ripam magnas copias hostium instructas.*\n\n- Subordinada: *Eo cum uenisset*: ***cum* històric** (temporal-causal) + subjuntiu plusquamperfet *uenisset* (3a sg. de *uenio*, «venir, arribar»); subjecte sobreentès, Cèsar; *eo*, adverbi de lloc a on, «allí». Traducció: «quan hi va haver arribat / havent-hi arribat».\n- Principal: *animaduertit*, 3a sg. perfet d'indicatiu de *animaduerto* («advertir, adonar-se de, veure»); subjecte sobreentès, Cèsar.\n- *ad alteram fluminis ripam*: *ad* + acusatiu (*alteram ... ripam*, amb el genitiu *fluminis* intercalat com a CN): CC de lloc, «a l'altra riba del riu».\n- CD: *magnas copias hostium* (acusatiu pl. de *copia*, «tropes», amb l'adjectiu *magnas*, «nombroses», i el CN *hostium*).\n- *instructas*: participi (adjectiu del lèxic) en acusatiu f. pl. que concorda amb *copias*; funciona com a **predicatiu** del CD: «(apostades) en formació»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: quarta oració",
+            "cos": "*Ripa autem erat acutis sudibus munita.*\n\n- Subjecte: *Ripa* (nominatiu sg.).\n- *autem*: conjunció, «a més» (segons el lèxic); en llatí va en segona posició, en català la posem al començament.\n- Verb: *erat* (3a sg. imperfet d'indicatiu de *sum*) + *munita* (nominatiu f. sg., concorda amb *ripa*): es pot entendre com a verb copulatiu + atribut («estava fortificada») o com a plusquamperfet passiu («havia estat fortificada»). La versió oficial tria «estava protegida».\n- *acutis sudibus*: ablatiu pl. (*sudis, -is* + adjectiu *acutus*): CC d'instrument, «amb estaques afuades/punxegudes»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Cèsar, conegut el pla dels enemics, cap al riu Tàmesi cap a dins del territori de Cassivel·laune l'exèrcit va dur; aquest riu per un únic lloc i amb dificultat ser travessat pot. Allí quan hagué arribat, advertí a l'altra del riu riba nombroses tropes dels enemics en formació. La riba, a més, estava amb afuades estaques protegida."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Un cop conegut el pla dels enemics, Cèsar va conduir l'exèrcit fins al riu Tàmesi, cap a dins del territori de Cassivel·laune; aquest riu només es pot travessar per un sol lloc i amb dificultat. Quan hi va haver arribat, va advertir que a l'altra riba del riu hi havia nombroses tropes dels enemics en formació. A més, la riba estava fortificada amb estaques punxegudes.\n\nTraducció orientativa oficial: «Conegut el pla dels enemics, Cèsar va dur l'exèrcit al riu Tàmesi, cap a dins del territori de Cassivel·laune; aquest riu es pot travessar per un únic lloc i amb dificultat. Havent-hi arribat, advertí a l'altra riba del riu nombroses tropes dels enemics en formació de batalla. A més, la riba estava protegida amb estaques afuades.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Conegut el pla dels enemics, Cèsar va dur l'exèrcit al riu Tàmesi, cap a dins del territori de Cassivel·laune; aquest riu es pot travessar per un únic lloc i amb dificultat. Havent-hi arribat, advertí a l'altra riba del riu nombroses tropes dels enemics en formació de batalla. A més, la riba estava protegida amb estaques afuades.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: ablatiu absolut *cognito consilio hostium*; *duxit* amb CD *exercitum* i dos CC de direcció (*ad flumen Tamesim*, *in fines Cassiuellauni*); perífrasi *transiri potest* amb subjecte *hoc flumen* (passiva reflexa en català); *uno loco* i *aegre*; *cum* històric amb plusquamperfet de subjuntiu *uenisset*; CD *magnas copias hostium* amb el predicatiu *instructas*; *acutis sudibus* ablatiu instrumental."
+          }
+        ],
+        "nota": "La versió oficial és orientativa: s'accepten altres solucions correctes (p. ex. «havent-hi arribat» o «quan hi arribà» per a *eo cum uenisset*; «estava fortificada» o «havia estat fortificada» per a *erat munita*). Errors típics: traduir *cognito* com si concordés amb Cèsar, interpretar *transiri* com a actiu («pot travessar»), confondre *eo* adverbi amb el verb *eo, ire*, i traduir *copias* com «riqueses» malgrat el lèxic."
+      }
+    },
+    {
+      "id": "llati-2022-J-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: ablatiu absolut cognito consilio hostium; subjecte de transiri potest",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi perfet",
+        "perífrasi verbal",
+        "infinitiu passiu",
+        "subjecte",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cèsar arriba al Tàmesi amb el seu exèrcit i veu les tropes enemigues apostades a l'altra banda del riu**\n\nCaesar, cognito consilio hostium, ad flumen Tamesim in fines Cassiuellauni exercitum duxit; hoc flumen uno loco atque aegre transiri potest. Eo cum uenisset, animaduertit ad alteram fluminis ripam magnas copias hostium instructas. Ripa autem erat acutis sudibus munita.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, V, 18, 1-3\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *autem* (conj.): a més.\n- *Cassiuellaunus, -i* (m.): Cassivel·laune (capitost dels britans).\n- *consilium, -i* (n.): pla, projecte.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *eo* (adv.): allí, hi.\n- *finis, -is* (m. i f.): límit, fi; (en pl.) territori, país.\n- *instructus, -a, -um*: en formació.\n- *munitus, -a, -um*: fortificat, protegit.\n- *possum, potui, —* (irr., tr.): (amb inf.) poder.\n- *sudis, -is* (f.): estaca.\n- *Tamesis, -is* (m.): el Tàmesi (riu de Britània).\n- *transeo, -ii, -itum* (irr., tr.): travessar, creuar; *transiri*, inf. pres. pass.\n- *unus, -a, -um*: únic.",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 2). Exercici de morfosintaxi [1 punt], sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "enunciat": "Digueu com s'anomena la construcció formada per *cognito consilio hostium*; expliqueu els elements que la constitueixen i la relació sintàctica existent entre ells.",
+          "punts": 0.5
+        },
+        {
+          "id": "2.2",
+          "enunciat": "Digueu quin sintagma fa la funció de subjecte de la perífrasi verbal *transiri potest* i quins elements el constitueixen.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt): cal triar l'opció A o la B i fer-ne els dos apartats (2.1 i 2.2). Pregunta curta (uns 10 minuts). Respon amb frases completes, citant els mots llatins exactes i explicant-ne la forma (cas, nombre, temps) i la funció. Els criteris oficials no detallen el repartiment de punts; s'ha suposat 0,5 per apartat. L'ablatiu absolut és una de les preguntes més habituals: nom + elements (participi i nom en ablatiu, concordats) + relació (el participi és el predicat i el nom, el subjecte)."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "*cognito* acaba en *-o* i ve del supí *cognitum* → participi perfet passiu en ablatiu sg.; *consilio* és ablatiu sg. de *consilium*. Concorden i no depenen de cap altre mot de l'oració → **ablatiu absolut**. *hostium* (genitiu pl.) és un complement del nom de *consilio*."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "La construcció *cognito consilio hostium* és un **ablatiu absolut**. Està constituïda pel substantiu *consilio* (ablatiu singular de *consilium, -i*), que concorda en cas, gènere i nombre amb el participi perfet passiu *cognito* (de *cognosco*), també en ablatiu singular. El participi *cognito* és el **predicat verbal** de la construcció i el substantiu *consilio* n'és el **subjecte**; *hostium* (genitiu plural de *hostis*) és complement del nom de *consilio*. Equival a una subordinada temporal: «un cop conegut el pla dels enemics»."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "*transiri* és infinitiu **passiu**: «ser travessat». Què pot ser travessat? El riu: el nominatiu *hoc flumen* (neutre: nominatiu i acusatiu coincideixen, però la concordança amb *potest*, 3a sg., i el sentit passiu ho aclareixen)."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "El subjecte de la perífrasi *transiri potest* és el sintagma ***hoc flumen***. Està constituït pel substantiu *flumen* (nominatiu singular neutre de *flumen, -inis*), que és el nucli del sintagma, i per l'adjectiu demostratiu *hoc* (nominatiu singular neutre de *hic, haec, hoc*), que el determina."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "Ablatiu absolut: el substantiu *consilio* (ablatiu) concorda amb el participi *cognito* (ablatiu); el participi és el predicat verbal i el substantiu en fa de subjecte."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "Subjecte: *hoc flumen*; nucli el substantiu *flumen*, determinat per l'adjectiu demostratiu *hoc*."
+          }
+        ],
+        "nota": "Errors típics: dir només «ablatiu absolut» sense explicar els elements ni la relació; dir que el subjecte de *transiri potest* és Cèsar (no adonar-se que l'infinitiu és passiu); no esmentar que *hoc* és un demostratiu que determina el nucli."
+      }
+    },
+    {
+      "id": "llati-2022-J-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: subjecte i CD de duxit i animaduertit; cum històric",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "subjecte",
+        "complement directe",
+        "subjecte el·líptic",
+        "cum històric",
+        "oració subordinada temporal",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cèsar arriba al Tàmesi amb el seu exèrcit i veu les tropes enemigues apostades a l'altra banda del riu**\n\nCaesar, cognito consilio hostium, ad flumen Tamesim in fines Cassiuellauni exercitum duxit; hoc flumen uno loco atque aegre transiri potest. Eo cum uenisset, animaduertit ad alteram fluminis ripam magnas copias hostium instructas. Ripa autem erat acutis sudibus munita.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, V, 18, 1-3\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *autem* (conj.): a més.\n- *Cassiuellaunus, -i* (m.): Cassivel·laune (capitost dels britans).\n- *consilium, -i* (n.): pla, projecte.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *eo* (adv.): allí, hi.\n- *finis, -is* (m. i f.): límit, fi; (en pl.) territori, país.\n- *instructus, -a, -um*: en formació.\n- *munitus, -a, -um*: fortificat, protegit.\n- *possum, potui, —* (irr., tr.): (amb inf.) poder.\n- *sudis, -is* (f.): estaca.\n- *Tamesis, -is* (m.): el Tàmesi (riu de Britània).\n- *transeo, -ii, -itum* (irr., tr.): travessar, creuar; *transiri*, inf. pres. pass.\n- *unus, -a, -um*: únic.",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 2). Exercici de morfosintaxi [1 punt], sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "enunciat": "Indiqueu el subjecte i el complement directe dels verbs *duxit* i *animaduertit*.",
+          "punts": 0.5
+        },
+        {
+          "id": "2.2",
+          "enunciat": "En la construcció *Eo cum uenisset*, digueu quin tipus d'oració introdueix *cum* i quin és el subjecte del verb *uenisset*.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt): cal triar l'opció A o la B i fer-ne els dos apartats (2.1 i 2.2). Pregunta curta (uns 10 minuts). Respon amb frases completes, citant els mots llatins exactes i explicant-ne la forma (cas, nombre, temps) i la funció. Els criteris oficials no detallen el repartiment de punts; s'ha suposat 0,5 per apartat. Atenció als subjectes **sobreentesos** (el·líptics): cal dir-ho explícitament."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "*duxit* i *animaduertit* són 3a sg.: busca un nominatiu singular. Només hi ha *Caesar* a la primera oració; a la tercera no n'hi ha cap, per tant el subjecte s'hi sobreentén. Els CD són els acusatius: *exercitum* per a *duxit*; *magnas copias hostium* per a *animaduertit* (no *ripam*, que va amb la preposició *ad*)."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "El subjecte de *duxit* és el substantiu ***Caesar*** (nominatiu singular) i el seu complement directe és el substantiu ***exercitum*** (acusatiu singular de *exercitus, -us*). El subjecte de *animaduertit* és també *Caesar*, però **sobreentès** (no apareix a l'oració); el seu complement directe és el sintagma ***magnas copias hostium*** (acusatiu plural de *copia*, amb l'adjectiu *magnas* i el complement del nom *hostium*), al qual es refereix el predicatiu *instructas*."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "*cum* + subjuntiu (plusquamperfet *uenisset*) en un relat en passat = ***cum* històric** o narratiu, amb valor temporal-causal. *uenisset* és 3a sg. i no hi ha cap nominatiu: el subjecte és Cèsar, sobreentès."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "La conjunció *cum* introdueix una **oració subordinada adverbial temporal-causal** (*cum* històric o narratiu), amb el verb en subjuntiu plusquamperfet (*uenisset*): «quan hi va haver arribat, havent-hi arribat». El subjecte de *uenisset* és el substantiu ***Caesar***, **sobreentès**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "*duxit*: subjecte *Caesar*, CD *exercitum*. *animaduertit*: subjecte *Caesar* (sobreentès), CD *magnas copias hostium*."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "*cum* introdueix una oració subordinada adverbial temporal-causal (*cum* històric); subjecte de *uenisset*: *Caesar*, sobreentès."
+          }
+        ],
+        "nota": "Errors típics: donar *ripam* com a CD de *animaduertit* (és part del CC *ad alteram fluminis ripam*); oblidar el genitiu *hostium* dins del CD; dir que *cum* és una preposició (aquí és conjunció, perquè va amb un verb en subjuntiu)."
+      }
+    },
+    {
+      "id": "llati-2022-J-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme vox populi: una cosa sabuda per tothom",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "vox populi",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *ad nauseam*, *ínterim*, *non plus ultra*, *rictus*, *superàvit*, *ídem*, *placebo*, *vox populi*, *beatus ille*, *ex aequo*, *lapsus*, *referèndum*.\n\n3.1. Abans de la denúncia per frau en les oposicions al Cos Nacional de Policia ja era __________ que hi havia hagut filtracions de l'examen psicotècnic per part d'algunes acadèmies.",
+      "figures": [],
+      "opcions": {
+        "A": "*ad nauseam*",
+        "B": "*ínterim*",
+        "C": "*non plus ultra*",
+        "D": "*rictus*",
+        "E": "*superàvit*",
+        "F": "*ídem*",
+        "G": "*placebo*",
+        "H": "*vox populi*",
+        "I": "*beatus ille*",
+        "J": "*ex aequo*",
+        "K": "*lapsus*",
+        "L": "*referèndum*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "H",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B de l'exercici 3): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quina categoria i quin significat ha de tenir el buit i busca el llatinisme que hi encaixa. No se'n pot repetir cap: fes primer les que tinguis clares."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "El buit fa d'atribut de *era* («ja era ___ que...»): cal una expressió que signifiqui «cosa coneguda per tothom, rumor general». ***Vox populi*** («veu del poble») vol dir precisament això: abans de la denúncia, tothom ja sabia que hi havia hagut filtracions."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*vox populi*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la llista: *ad nauseam* (fins a l'avorriment, fins al fàstic), *ínterim* (mentrestant; interinitat), *non plus ultra* (el màxim, allò insuperable), *rictus* (ganyota), *superàvit* (excedent), *ídem* (el mateix), *placebo* (substància sense efecte terapèutic), *vox populi* (cosa sabuda per tothom), *beatus ille* (elogi de la vida retirada), *ex aequo* (empatats, amb el mateix mèrit), *lapsus* (error involuntari), *referèndum* (consulta popular)."
+      }
+    },
+    {
+      "id": "llati-2022-J-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme lapsus: un error involuntari",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "lapsus",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *ad nauseam*, *ínterim*, *non plus ultra*, *rictus*, *superàvit*, *ídem*, *placebo*, *vox populi*, *beatus ille*, *ex aequo*, *lapsus*, *referèndum*.\n\n3.2. En la seva intervenció, el conseller general va tenir un __________ que va esmenar ràpidament.",
+      "figures": [],
+      "opcions": {
+        "A": "*ad nauseam*",
+        "B": "*ínterim*",
+        "C": "*non plus ultra*",
+        "D": "*rictus*",
+        "E": "*superàvit*",
+        "F": "*ídem*",
+        "G": "*placebo*",
+        "H": "*vox populi*",
+        "I": "*beatus ille*",
+        "J": "*ex aequo*",
+        "K": "*lapsus*",
+        "L": "*referèndum*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "K",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B de l'exercici 3): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quina categoria i quin significat ha de tenir el buit i busca el llatinisme que hi encaixa. No se'n pot repetir cap: fes primer les que tinguis clares."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Cal un substantiu masculí (*un ___*) que designi alguna cosa que es pot *esmenar*: un error. ***Lapsus*** («relliscada», de *labor, labi*, relliscar) és una equivocació involuntària en parlar o escriure; encaixa perfectament amb «que va esmenar ràpidament»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*lapsus*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la llista: *ad nauseam* (fins a l'avorriment, fins al fàstic), *ínterim* (mentrestant; interinitat), *non plus ultra* (el màxim, allò insuperable), *rictus* (ganyota), *superàvit* (excedent), *ídem* (el mateix), *placebo* (substància sense efecte terapèutic), *vox populi* (cosa sabuda per tothom), *beatus ille* (elogi de la vida retirada), *ex aequo* (empatats, amb el mateix mèrit), *lapsus* (error involuntari), *referèndum* (consulta popular)."
+      }
+    },
+    {
+      "id": "llati-2022-J-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme ad nauseam: repetir fins a l'avorriment",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "ad nauseam",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *ad nauseam*, *ínterim*, *non plus ultra*, *rictus*, *superàvit*, *ídem*, *placebo*, *vox populi*, *beatus ille*, *ex aequo*, *lapsus*, *referèndum*.\n\n3.3. Durant la moció de censura es van repetir els mateixos arguments __________ contra el Govern.",
+      "figures": [],
+      "opcions": {
+        "A": "*ad nauseam*",
+        "B": "*ínterim*",
+        "C": "*non plus ultra*",
+        "D": "*rictus*",
+        "E": "*superàvit*",
+        "F": "*ídem*",
+        "G": "*placebo*",
+        "H": "*vox populi*",
+        "I": "*beatus ille*",
+        "J": "*ex aequo*",
+        "K": "*lapsus*",
+        "L": "*referèndum*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B de l'exercici 3): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quina categoria i quin significat ha de tenir el buit i busca el llatinisme que hi encaixa. No se'n pot repetir cap: fes primer les que tinguis clares."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "El buit és un complement de manera associat a *repetir*: «fins a l'excés, fins a cansar». ***Ad nauseam*** («fins al mareig, fins a la nàusea») s'usa precisament per a coses repetides fins a l'avorriment."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*ad nauseam*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la llista: *ad nauseam* (fins a l'avorriment, fins al fàstic), *ínterim* (mentrestant; interinitat), *non plus ultra* (el màxim, allò insuperable), *rictus* (ganyota), *superàvit* (excedent), *ídem* (el mateix), *placebo* (substància sense efecte terapèutic), *vox populi* (cosa sabuda per tothom), *beatus ille* (elogi de la vida retirada), *ex aequo* (empatats, amb el mateix mèrit), *lapsus* (error involuntari), *referèndum* (consulta popular)."
+      }
+    },
+    {
+      "id": "llati-2022-J-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme non plus ultra: el súmmum de la modernitat",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "non plus ultra",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *ad nauseam*, *ínterim*, *non plus ultra*, *rictus*, *superàvit*, *ídem*, *placebo*, *vox populi*, *beatus ille*, *ex aequo*, *lapsus*, *referèndum*.\n\n3.4. Els alts edificis del barri de Hansa de Berlín van ser a la seva època el __________ de la modernitat.",
+      "figures": [],
+      "opcions": {
+        "A": "*ad nauseam*",
+        "B": "*ínterim*",
+        "C": "*non plus ultra*",
+        "D": "*rictus*",
+        "E": "*superàvit*",
+        "F": "*ídem*",
+        "G": "*placebo*",
+        "H": "*vox populi*",
+        "I": "*beatus ille*",
+        "J": "*ex aequo*",
+        "K": "*lapsus*",
+        "L": "*referèndum*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B de l'exercici 3): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quina categoria i quin significat ha de tenir el buit i busca el llatinisme que hi encaixa. No se'n pot repetir cap: fes primer les que tinguis clares."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Cal un substantiu masculí (*el ___ de la modernitat*) que signifiqui «el màxim, allò que no es pot superar». ***Non plus ultra*** («no més enllà», la inscripció llegendària de les columnes d'Hèrcules) designa el grau més alt al qual es pot arribar."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*non plus ultra*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la llista: *ad nauseam* (fins a l'avorriment, fins al fàstic), *ínterim* (mentrestant; interinitat), *non plus ultra* (el màxim, allò insuperable), *rictus* (ganyota), *superàvit* (excedent), *ídem* (el mateix), *placebo* (substància sense efecte terapèutic), *vox populi* (cosa sabuda per tothom), *beatus ille* (elogi de la vida retirada), *ex aequo* (empatats, amb el mateix mèrit), *lapsus* (error involuntari), *referèndum* (consulta popular)."
+      }
+    },
+    {
+      "id": "llati-2022-J-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "El tòpic «carpe diem» i el poeta Horaci",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "carpe diem",
+        "tòpics literaris",
+        "horaci",
+        "odes",
+        "lírica"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.1. El tòpic literari del *carpe diem* prové d'un vers del poeta",
+      "figures": [],
+      "opcions": {
+        "a": "Ovidi.",
+        "b": "Virgili.",
+        "c": "Terenci.",
+        "d": "Horaci."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B de l'exercici 3): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses; si dubtes només entre dues, respondre té esperança positiva."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "L'expressió *carpe diem* («aprofita el dia») és de l'oda I, 11 d'**Horaci** (*carpe diem, quam minimum credula postero*), dirigida a Leucònoe. Ovidi és autor de les *Metamorfosis*, Virgili de l'*Eneida* i Terenci, de comèdies."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Horaci."
+          }
+        ],
+        "nota": "Preguntes de literatura llatina: cal conèixer els gèneres (èpica, lírica, elegia, comèdia, historiografia, oratòria, poesia didàctica), els autors principals i les seves obres, i els cercles literaris de l'època d'August (Mecenas: Virgili i Horaci; Messala: Tibul i Ovidi)."
+      }
+    },
+    {
+      "id": "llati-2022-J-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Titus Livi, historiador",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "titus livi",
+        "historiografia",
+        "ab urbe condita",
+        "època d'august"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.2. Titus Livi va escriure",
+      "figures": [],
+      "opcions": {
+        "a": "poesia elegíaca.",
+        "b": "discursos polítics.",
+        "c": "prosa historiogràfica.",
+        "d": "tragèdies."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B de l'exercici 3): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses; si dubtes només entre dues, respondre té esperança positiva."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Titus Livi** (59 aC - 17 dC), contemporani d'August, va escriure ***Ab urbe condita***, una història de Roma des de la fundació en 142 llibres: **prosa historiogràfica**. La poesia elegíaca és de Tibul, Properci o Ovidi; els discursos polítics, de Ciceró; les tragèdies, de Sèneca."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) prosa historiogràfica."
+          }
+        ],
+        "nota": "Preguntes de literatura llatina: cal conèixer els gèneres (èpica, lírica, elegia, comèdia, historiografia, oratòria, poesia didàctica), els autors principals i les seves obres, i els cercles literaris de l'època d'August (Mecenas: Virgili i Horaci; Messala: Tibul i Ovidi)."
+      }
+    },
+    {
+      "id": "llati-2022-J-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Virgili i l'Eneida",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "virgili",
+        "eneida",
+        "eneas",
+        "èpica",
+        "epopeia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.3. Eneas és l'heroi protagonista de l'epopeia nacional romana escrita per",
+      "figures": [],
+      "opcions": {
+        "a": "Ciceró.",
+        "b": "Juli Cèsar.",
+        "c": "Horaci.",
+        "d": "Virgili."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B de l'exercici 3): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses; si dubtes només entre dues, respondre té esperança positiva."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "L'***Eneida***, epopeia nacional romana en dotze llibres d'hexàmetres, és de **Virgili** (70-19 aC): narra el viatge del troià Eneas fins al Laci, origen mític de Roma i de la gens Júlia. Ciceró i Cèsar van escriure en prosa; Horaci, odes, sàtires i epístoles."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Virgili."
+          }
+        ],
+        "nota": "Preguntes de literatura llatina: cal conèixer els gèneres (èpica, lírica, elegia, comèdia, historiografia, oratòria, poesia didàctica), els autors principals i les seves obres, i els cercles literaris de l'època d'August (Mecenas: Virgili i Horaci; Messala: Tibul i Ovidi)."
+      }
+    },
+    {
+      "id": "llati-2022-J-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "L'Ars amatoria d'Ovidi, paròdia de la poesia didàctica",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "ars amatoria",
+        "poesia didàctica",
+        "exili a tomis"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.4. *Ars amatoria* és el títol d'un poema eròtic d'Ovidi que parodia la poesia",
+      "figures": [],
+      "opcions": {
+        "a": "èpica.",
+        "b": "didàctica.",
+        "c": "dramàtica.",
+        "d": "lírica."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B de l'exercici 3): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses; si dubtes només entre dues, respondre té esperança positiva."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "L'***Ars amatoria*** (*Ars amandi*) imita en to burlesc els tractats en vers de la **poesia didàctica** (com les *Geòrgiques* de Virgili): Ovidi hi «ensenya» com conquerir i conservar l'amor, com si fos una tècnica. Aquesta obra seria el *carmen* que, segons ell mateix, va provocar el seu exili a Tomis."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) didàctica."
+          }
+        ],
+        "nota": "Preguntes de literatura llatina: cal conèixer els gèneres (èpica, lírica, elegia, comèdia, historiografia, oratòria, poesia didàctica), els autors principals i les seves obres, i els cercles literaris de l'època d'August (Mecenas: Virgili i Horaci; Messala: Tibul i Ovidi)."
+      }
+    },
+    {
+      "id": "llati-2022-J-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Metamorfosis d'Ovidi: Teseu, Ariadna i el Minotaure",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "minotaure",
+        "teseu",
+        "ariadna",
+        "dèdal",
+        "exili a tomis",
+        "lectures obligatòries"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "El monstre de doble figura […] va ser tancat en aquest lloc i va ser alimentat dues vegades amb sang atenesa, però va ser vençut pel tercer contingent dels que la sort enviava cada nou anys. Amb l'ajut d'una noia, i recollint un fil que havia anat deixant prèviament, el fill d'Egeu va trobar la porta inaccessible per on abans cap jove no havia passat dues vegades; tot seguit, va raptar la filla de Minos.\n\n(Traducció de Ferran Aguilera)",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 4). Llegiu el passatge de sota, que pertany a una de les lectures obligatòries, i elaboreu un text expositiu de quinze línies com a mínim (unes cent cinquanta paraules) en què respongueu a les qüestions que hi ha a continuació:\n\n- A quina obra i a quin episodi concret d'aquesta obra pertany el passatge.\n- Qui n'és l'autor, en quin entorn literari va desenvolupar la seva producció i quin càstig se li va imposar per causa d'un dels seus poemes.\n- Qui és el monstre de doble figura que s'esmenta a l'inici del passatge; en quin lloc està tancat i qui n'és el constructor, i per què està reclòs i de què s'alimenta.\n- Qui aconsegueix vèncer-lo i qui és la noia que l'ajuda, i quin és el destí final de la noia.\n- Com reacciona el pare de la noia en descobrir els fets.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **3 punts** (uns 25 minuts). És un **text expositiu** continu, no una llista de respostes: mínim 15 línies (~150 paraules), però convé arribar a unes 250-350 per cobrir bé les cinc qüestions. Segueix l'ordre de la consigna, un paràgraf per bloc: (1) obra i episodi; (2) autor, entorn literari i càstig; (3) el monstre, el Laberint, Dèdal, per què hi és tancat i què menja; (4) Teseu, Ariadna i el destí d'Ariadna; (5) reacció de Minos. Les pistes del passatge són clares: «monstre de doble figura», «fil», «fill d'Egeu», «filla de Minos»."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Obra i episodi**: «Ariadna i el Laberint» (o «Teseu i el Minotaure»), llibre VIII de les *Metamorfosis* d'**Ovidi** (hexàmetres, mites grecs i romans).\n2. **Autor i entorn**: Publi Ovidi Nasó, final de l'època d'August, generació posterior a Virgili i Horaci; cercle de **Messala Corví**, protegit de Tibul. **Exili a Tomis** (8 dC) per *carmen et error*: l'*Ars amatoria* i un error desconegut.\n3. **Monstre**: el **Minotaure** (home i toro), fill de Pasífae i un toro; tancat al **Laberint** construït per **Dèdal** per amagar la vergonya de Minos; s'alimenta de **set nois i set noies** atenesos enviats cada nou anys com a tribut.\n4. **Teseu**, fill d'Egeu, el mata amb l'ajut del fil d'**Ariadna**, filla de Minos; ella fuig amb ell, però és **abandonada a Naxos**; **Bacus** la consola i converteix la seva corona en constel·lació.\n5. **Minos** tanca al Laberint **Dèdal i Ícar** per haver afavorit la fugida."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El passatge pertany a l'episodi d'**Ariadna i el Laberint** (llibre VIII) de les ***Metamorfosis***, el gran recull de mites i llegendes grecs i romans, units pel tema de la transformació, que el poeta llatí **Publi Ovidi Nasó** va compondre en hexàmetres dactílics.\n\nOvidi va desenvolupar la seva obra en els cercles literaris del final de l'època d'August. Pertanyia a una generació més jove que la de Virgili i Horaci i va formar part del cercle de Valeri **Messala Corví**, on va rebre el suport del poeta elegíac Tibul. L'any 8 dC, quan acabava les *Metamorfosis*, August el va desterrar a **Tomis**, a la costa del mar Negre. A les *Tristes* ell mateix parla d'«un poema i un error»: el poema seria l'*Ars amatoria*, contrari a la política moral de l'emperador.\n\nEl monstre de doble figura és el **Minotaure**, meitat home i meitat toro, fill de Pasífae, l'esposa del rei **Minos** de Creta, i d'un toro. Per amagar la vergonya familiar, Minos va encarregar a l'enginyer **Dèdal** la construcció del **Laberint** i l'hi va fer tancar. Cada nou anys, com a tribut, Atenes havia d'enviar-hi set nois i set noies escollits a la sort, que servien d'aliment al monstre.\n\nEn el tercer contingent hi anà **Teseu**, fill del rei Egeu d'Atenes. **Ariadna**, filla de Minos, se'n va enamorar i, aconsellada per Dèdal, li va donar un cabdell de fil: Teseu va matar el Minotaure i va sortir del Laberint recollint el fil. Després va fugir amb Ariadna, però la va abandonar a l'illa de **Naxos**, on el déu **Bacus** (Líber) la va consolar i va convertir la seva corona en una constel·lació.\n\nEn descobrir els fets, **Minos** va tancar al Laberint Dèdal i el seu fill **Ícar**, per haver ajudat amb el seu enginy a la fugida de Teseu i Ariadna; d'aquí naixerà l'episodi del vol amb ales de cera."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Obra i episodi: «Ariadna i el Laberint», *Metamorfosis* d'Ovidi (recull de mites grecs i romans en hexàmetres)."
+          },
+          {
+            "apartat": null,
+            "valor": "Autor i entorn: Publi Ovidi Nasó, cercles literaris del final de l'època d'August, generació posterior a Virgili i Horaci; cercle de Messala Corví, suport de Tibul. Exili a Tomis (8 o 9 dC); a les *Tristes* parla d'un «poema» (l'*Ars amatoria*) i d'un «error»."
+          },
+          {
+            "apartat": null,
+            "valor": "El Minotaure, híbrid d'home i toro, fill de Pasífae i un toro; Minos l'amaga al Laberint construït per Dèdal; s'alimenta de set joves de cada sexe enviats d'Atenes cada nou anys com a tribut."
+          },
+          {
+            "apartat": null,
+            "valor": "Teseu, fill d'Egeu, el mata amb l'ajut d'Ariadna (assessorada per Dèdal) i surt recollint el fil; abandona Ariadna a Naxos, on Líber (Bacus) la consola i transforma la seva corona en constel·lació."
+          },
+          {
+            "apartat": null,
+            "valor": "Minos tanca al Laberint Dèdal i el seu fill Ícar per haver contribuït a la fugida."
+          }
+        ],
+        "nota": "La resposta model té unes 310 paraules: més del mínim de 150 que demana l'examen, per cobrir totes les qüestions. Errors típics: fer una llista de respostes en lloc d'un text expositiu; oblidar el càstig (exili a Tomis) o la reacció de Minos; confondre Dèdal (constructor) amb Minos; dir que Teseu es casa amb Ariadna (l'abandona a Naxos)."
+      }
+    },
+    {
+      "id": "llati-2022-J-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Tàrraco i Emèrita Augusta: comparació de dues capitals de la Hispània romana",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "tàrraco",
+        "emèrita augusta",
+        "hispània romana",
+        "urbanisme romà",
+        "capital provincial",
+        "via augusta",
+        "edificis públics"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 4). Amb l'ajut dels plànols adjunts, desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *Tàrraco i Emèrita Augusta*. Identifiqueu a quina ciutat correspon cada plànol (*a* o *b*) i compareu aquestes dues ciutats de la Hispània romana tenint en compte els aspectes següents:\n\n- La importància que van tenir.\n- La seva situació geogràfica.\n- L'urbanisme i els edificis públics.",
+      "figures": [
+        {
+          "src": "img/llati/2022-J/e4-b.png",
+          "peu": "Plànols de dues ciutats romanes: *a*) amb el temple imperial, el fòrum provincial, el circ, la Via Augusta, l'amfiteatre i el teatre; *b*) amb l'aqüeducte de Los Milagros, el pont romà sobre el Guadiana, el fòrum local, el teatre, l'amfiteatre i el circ fora muralla."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **3 punts** (uns 25 minuts). Text expositiu de mínim 15 línies (~150 paraules); millor 250-350. Primer **identifica** els plànols (és fàcil si llegeixes els rètols: «Via Augusta», «Fòrum provincial» → Tàrraco; «Aqüeducte de Los Milagros», «Pont romà sobre el Guadiana» → Emèrita). Després **compara** (semblances i diferències, no dues descripcions separades), un paràgraf per aspecte: importància, situació geogràfica, urbanisme i edificis públics."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació**: *a* = Tàrraco; *b* = Emèrita Augusta.\n2. **Importància**: totes dues capitals provincials (Hispània Citerior / Lusitània) → dos fòrums (provincial i local); bones comunicacions (Via Augusta / Via de la Plata); aqüeductes (les Ferreres / Los Milagros).\n3. **Situació**: Tàrraco, costa, terrasses sobre un turó; Emèrita, interior, terreny pla, al costat del Guadiana (pont romà).\n4. **Urbanisme**: quadrícula, muralla, circ, amfiteatre i teatre a totes dues; diferències d'ubicació: a Tàrraco el circ és dins la muralla (separa ciutat baixa i terrassa superior), teatre i amfiteatre fora, vora el mar; a Emèrita el circ és fora i teatre i amfiteatre, junts dins la muralla."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El plànol *a* correspon a **Tàrraco** (Tarragona) i el plànol *b*, a **Emèrita Augusta** (Mèrida). Ho delaten els rètols: a l'*a*, la Via Augusta, el fòrum provincial i el temple imperial a la part alta; al *b*, l'aqüeducte de Los Milagros i el pont romà sobre el Guadiana.\n\n**Importància.** Totes dues van ser capitals provincials: Tàrraco, de la Hispània Citerior (Tarraconense), i Emèrita Augusta, fundada el 25 aC per a veterans d'August, de la Lusitània. Per això totes dues tenien **dos fòrums**: un de provincial i un altre de local, per a la vida de la colònia. També estaven ben comunicades (Tàrraco per la **Via Augusta**; Emèrita per la cruïlla de vies, entre les quals la Via de la Plata) i es proveïen d'aigua amb aqüeductes, dels quals es conserven el de **les Ferreres** i el de **Los Milagros**.\n\n**Situació geogràfica.** Tàrraco és a la vora del mar i s'alça en terrasses sobre un petit turó; Emèrita és a l'interior, en un terreny més pla. Totes dues tenen un riu a prop, però el d'Emèrita, el **Guadiana**, és més cabalós i regular, i encara s'hi conserva un gran pont romà.\n\n**Urbanisme i edificis públics.** Totes dues tenen un traçat en quadrícula (*cardo* i *decumanus*), muralla i un alt grau de monumentalització: circ, amfiteatre i teatre. Però la ubicació és diferent. A Tàrraco el **circ** és dins la muralla i separa la ciutat baixa de la terrassa superior, on hi havia el fòrum provincial i el recinte de culte, mentre que el teatre i l'amfiteatre eren fora muralla, vora el mar. A Emèrita, en canvi, el circ és fora de la muralla i el **teatre** i l'**amfiteatre** són junts, al mateix turó, dins del recinte emmurallat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Plànol *a*: Tàrraco; plànol *b*: Emèrita Augusta."
+          },
+          {
+            "apartat": null,
+            "valor": "Importància: capitals provincials (Hispània Citerior i Lusitània), amb dos fòrums (provincial i local); ben comunicades (Via Augusta; encreuament de vies, Via de la Plata); aqüeductes de les Ferreres i de Los Milagros."
+          },
+          {
+            "apartat": null,
+            "valor": "Situació: Tàrraco a la vora del mar, en terrasses sobre un turó; Emèrita a l'interior, en terreny pla; el Guadiana, de cabal més regular i abundant, amb un gran pont romà."
+          },
+          {
+            "apartat": null,
+            "valor": "Urbanisme: circ, amfiteatre i teatre a totes dues; a Tàrraco el circ dins les muralles (separa la part baixa de la terrassa superior amb el fòrum provincial i el recinte de culte) i teatre i amfiteatre extramurs, vora el mar; a Emèrita el circ fora muralles i teatre i amfiteatre junts al mateix turó, dins les muralles."
+          }
+        ],
+        "nota": "La resposta model té unes 285 paraules. Errors típics: no identificar explícitament els plànols; descriure cada ciutat per separat sense comparar-les; confondre la Via Augusta (Tàrraco) amb la Via de la Plata (Emèrita); situar el circ de Tàrraco fora muralla."
+      }
+    }
+  ]
+}

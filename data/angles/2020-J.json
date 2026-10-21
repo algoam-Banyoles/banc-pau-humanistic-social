@@ -1,0 +1,1147 @@
+{
+  "examen": {
+    "id": "angles-2020-J",
+    "assignatura": "angles",
+    "materia": "Llengua estrangera Anglès",
+    "any": 2020,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/angles/2020-J-examen.pdf",
+    "pdf_solucio": "pdfs/angles/2020-J-solucio.pdf",
+    "estructura": "Convocatòria ordinària 2020, Sèrie 1 - A. Tres parts obligatòries (10 punts). **Part 1, Listening** (3 punts): entrevista radiofònica amb una científica de la NASA sobre la missió InSight a Mart (*We’ll be on Mars again!*) i 8 preguntes de test de resposta única (0,375 per encert, −0,125 per error, 0 si es deixa en blanc). **Part 2, Reading** (3 punts): article de la BBC sobre la ciència de les primeres impressions i les cites en línia (*Is there such a thing as love at first sight?*) i 8 preguntes de test amb la mateixa puntuació. **Part 3, Writing** (4 punts): cal triar UN dels tres temes (opinion essay, for-and-against essay o essay personal), 125-150 paraules; la plantilla de correcció avalua Grammar, Vocabulary, Text i Maturity."
+  },
+  "problemes": [
+    {
+      "id": "angles-2020-J-e1-q1",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Què té d'únic la missió InSight",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "interior de mars",
+        "geologia",
+        "missió insight"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**WE’LL BE ON MARS AGAIN!**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *spacecraft, craft*: nau espacial, nau / nave espacial, nave\n- *layer*: capa\n- *gust of wind*: cop de vent / golpe de viento\n- *shield*: escut / escudo\n- *quake*: terratrèmol / terremoto\n- *seismometer*: sismòmetre / sismómetro\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**1.** The InSight mission is unique in that it will investigate",
+      "figures": [],
+      "opcions": {
+        "A": "the geology of the interior of Mars.",
+        "B": "Mars’ surface and atmosphere.",
+        "C": "whether Mars can support human life.",
+        "D": "the early history of Mars’ atmosphere."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única. Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** i no resta res si la deixes en blanc: si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però amb un altre sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "La Dra. Halliday diu: *“We have had many missions that have looked at the surface of Mars, but we are the first one that is really going to tell us about the interior of Mars and its several layers.”*\n\n- B: la superfície és precisament el que ja havien estudiat les missions **anteriors**.\n- C: parla d'un hàbitat que *may have supported life early in Mars's history*, però no de vida **humana**.\n- D: parla de la història primerenca del planeta, no de la seva **atmosfera**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**A. the geology of the interior of Mars.** The mission is unique because it is the first one that will study the interior of Mars and its layers, not just the surface."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **A** (the geology of the interior of Mars.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites que es donen aquí en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta."
+      },
+      "transcripcio": "**PAUL SMITH:** This is Science Today. Welcome! The spacecraft InSight successfully landed on the surface of Mars a few weeks ago, just as other spacecraft had done in previous missions, but it is different this time. Today, Dr Susan Halliday, a scientist working for the InSight mission for NASA is with us and will help us find out why this mission is different from previous ones.\n\n**PAUL:** We've had a lot of spacecraft go to Mars. What's unique about this mission?\n\n**DR HALLIDAY:** We have had many missions that have looked at the surface of Mars, but we are the first one that is really going to tell us about the interior of Mars and its several layers, how all those layers got there. We will learn about the geologic activity that could have created a habitat that may have supported life early in Mars's history.\n\n**PAUL:** And why do we want to know that?\n\n**DR HALLIDAY:** Well, what we are really aiming for, our big-picture scientific question is what happens in the first tens of millions of years after a planet forms. We know from investigations of volcanoes on Earth that all the rocky bodies go through this process of separating into different layers, but we don’t know much about how that process really works. Our mission will help us gain a better understanding of this process.\n\n**PAUL:** Can you tell me a little bit about the craft?\n\n**DR HALLIDAY:** Sure, it's the InSight Lander. Lander crafts don’t have wheels. We actually need to stay in one place and be as quiet as possible so that we can use our instruments to detect Mars quakes. In fact, we put those instruments underground. This is extremely important to us. The first mission that landed on Mars, Viking, actually had a seismometer that stayed on the craft. So it detected the gusts of wind that made the craft shake, but it could not detect quakes precisely at all.\n\n**PAUL:** I see, so the InSight also has a seismometer?\n\n**DR HALLIDAY:** Yes, that’s right, but for the first time we're going to place it on the ground. The only other place where this has been done besides Earth is on the Moon. The Apollo astronauts actually drilled holes into the Moon to place some instruments underground. But now we are going to do all those things robotically. We use a robotic arm to put the seismometer in the ground and then place a wind shield on top of the seismometer to protect it from wind gusts that could be mistaken for seismic waves.\n\n**PAUL:** And how do you decide on the landing location? Can you determine a location precisely?\n\n**DR HALLIDAY:** Yes, we can be very precise about the location. In fact, we chose a specific area where there is a certain elevation for safety reasons. The atmosphere of Mars is very thin, so we need to have enough atmosphere to slow us down so that we can land. And because the InSight is powered by solar energy, we need to be near the equator. And then, lastly, we don't want our spacecraft to land on rocks or to have rocks under the surface we want to drill. We went for the flattest, safest, most boring landing site ever on Mars, we were not interested in exploring the geology of various areas, as previous missions had done.\n\n**PAUL:** When the Curiosity spacecraft landed on Mars about six years ago, the landing was described as the seven minutes of terror. Is it less risky now?\n\n**DR HALLIDAY:** Well, not really. Every time you land on Mars it's always very risky. When it works, it looks smooth and easy, but, in fact, at least a third of the missions that have been sent to Mars have failed.\n\n**PAUL:** And how is the landing achieved?\n\n**DR HALLIDAY:** Well, first we need a heat shield, because we are going at 12,300 miles per hour when we hit the atmosphere of Mars. This slows down the craft quite a bit. Then, when it is pretty near the surface, the parachute is released. This makes the craft go quite slowly, and finally, in the last one hundred meters or so we remove the parachute and we come down on landing rockets. And so if everything goes well, it's quite a gentle touchdown.\n\n**PAUL:** But it's still a precision landing really, isn't it?\n\n**SUSAN:** It is, and it's all automated. Because of the one-way flight time to Mars, we can't command anything when this is happening, we just have to rely on getting the sequence of commands correct in advance and we just sit in the control room and wait to hear back.\n\n**PAUL:** So, now that the landing was successful, what happens next?\n\n**DR HALLIDAY:** Our initial mission lasts one Mars year, that is, two Earth years. The first thing we are going to do is spend a few months choosing the right place to put our instruments down in the ground. So it will be a while before we actually start acquiring data.\n\n**PAUL:** I am sure that data must be very interesting and revealing.\n\n**DR HALLIDAY:** We hope so.\n\n**PAUL:** I’m afraid we’ve run out of time. Many thanks for talking to us about the InSight mission.\n\n**DR HALLIDAY:** My pleasure.\n\n*Adapted from: https://www.abc.net.au/radionational/programs/scienceshow/mars-insight-lander-to-monitor-mars-interior/10548156# — ABC Radio National (Australian Broadcasting Corporation).*"
+    },
+    {
+      "id": "angles-2020-J-e1-q2",
+      "exercici": 1,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Què ajudarà a entendre la missió",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "capes del planeta",
+        "formació planetària",
+        "volcans"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**WE’LL BE ON MARS AGAIN!**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *spacecraft, craft*: nau espacial, nau / nave espacial, nave\n- *layer*: capa\n- *gust of wind*: cop de vent / golpe de viento\n- *shield*: escut / escudo\n- *quake*: terratrèmol / terremoto\n- *seismometer*: sismòmetre / sismómetro\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**2.** According to Dr. Halliday, this mission will help scientists understand how",
+      "figures": [],
+      "opcions": {
+        "A": "the activity of volcanoes developed on Earth millions of years ago.",
+        "B": "layers of different types of rocks were formed on Earth.",
+        "C": "rocks separate into different layers.",
+        "D": "long ago planets like Mars and the Earth were formed."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única. Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** i no resta res si la deixes en blanc: si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però amb un altre sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*“We know from investigations of volcanoes on Earth that all the rocky bodies go through this process of separating into different layers, but we don’t know much about how that process really works. Our mission will help us gain a better understanding of this process.”* El procés que volen entendre és la **separació en capes**.\n\n- A i B: els volcans de la Terra són la font del que **ja saben**, no l'objecte de la missió; i no parla de tipus de roques a la Terra.\n- D: parla del que passa *after a planet forms*, no de com es formen els planetes."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**C. rocks separate into different layers.** It will help them understand how rocky bodies separate into different layers, a process they know happens but do not understand well."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **C** (rocks separate into different layers.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites que es donen aquí en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta."
+      },
+      "transcripcio": "**PAUL SMITH:** This is Science Today. Welcome! The spacecraft InSight successfully landed on the surface of Mars a few weeks ago, just as other spacecraft had done in previous missions, but it is different this time. Today, Dr Susan Halliday, a scientist working for the InSight mission for NASA is with us and will help us find out why this mission is different from previous ones.\n\n**PAUL:** We've had a lot of spacecraft go to Mars. What's unique about this mission?\n\n**DR HALLIDAY:** We have had many missions that have looked at the surface of Mars, but we are the first one that is really going to tell us about the interior of Mars and its several layers, how all those layers got there. We will learn about the geologic activity that could have created a habitat that may have supported life early in Mars's history.\n\n**PAUL:** And why do we want to know that?\n\n**DR HALLIDAY:** Well, what we are really aiming for, our big-picture scientific question is what happens in the first tens of millions of years after a planet forms. We know from investigations of volcanoes on Earth that all the rocky bodies go through this process of separating into different layers, but we don’t know much about how that process really works. Our mission will help us gain a better understanding of this process.\n\n**PAUL:** Can you tell me a little bit about the craft?\n\n**DR HALLIDAY:** Sure, it's the InSight Lander. Lander crafts don’t have wheels. We actually need to stay in one place and be as quiet as possible so that we can use our instruments to detect Mars quakes. In fact, we put those instruments underground. This is extremely important to us. The first mission that landed on Mars, Viking, actually had a seismometer that stayed on the craft. So it detected the gusts of wind that made the craft shake, but it could not detect quakes precisely at all.\n\n**PAUL:** I see, so the InSight also has a seismometer?\n\n**DR HALLIDAY:** Yes, that’s right, but for the first time we're going to place it on the ground. The only other place where this has been done besides Earth is on the Moon. The Apollo astronauts actually drilled holes into the Moon to place some instruments underground. But now we are going to do all those things robotically. We use a robotic arm to put the seismometer in the ground and then place a wind shield on top of the seismometer to protect it from wind gusts that could be mistaken for seismic waves.\n\n**PAUL:** And how do you decide on the landing location? Can you determine a location precisely?\n\n**DR HALLIDAY:** Yes, we can be very precise about the location. In fact, we chose a specific area where there is a certain elevation for safety reasons. The atmosphere of Mars is very thin, so we need to have enough atmosphere to slow us down so that we can land. And because the InSight is powered by solar energy, we need to be near the equator. And then, lastly, we don't want our spacecraft to land on rocks or to have rocks under the surface we want to drill. We went for the flattest, safest, most boring landing site ever on Mars, we were not interested in exploring the geology of various areas, as previous missions had done.\n\n**PAUL:** When the Curiosity spacecraft landed on Mars about six years ago, the landing was described as the seven minutes of terror. Is it less risky now?\n\n**DR HALLIDAY:** Well, not really. Every time you land on Mars it's always very risky. When it works, it looks smooth and easy, but, in fact, at least a third of the missions that have been sent to Mars have failed.\n\n**PAUL:** And how is the landing achieved?\n\n**DR HALLIDAY:** Well, first we need a heat shield, because we are going at 12,300 miles per hour when we hit the atmosphere of Mars. This slows down the craft quite a bit. Then, when it is pretty near the surface, the parachute is released. This makes the craft go quite slowly, and finally, in the last one hundred meters or so we remove the parachute and we come down on landing rockets. And so if everything goes well, it's quite a gentle touchdown.\n\n**PAUL:** But it's still a precision landing really, isn't it?\n\n**SUSAN:** It is, and it's all automated. Because of the one-way flight time to Mars, we can't command anything when this is happening, we just have to rely on getting the sequence of commands correct in advance and we just sit in the control room and wait to hear back.\n\n**PAUL:** So, now that the landing was successful, what happens next?\n\n**DR HALLIDAY:** Our initial mission lasts one Mars year, that is, two Earth years. The first thing we are going to do is spend a few months choosing the right place to put our instruments down in the ground. So it will be a while before we actually start acquiring data.\n\n**PAUL:** I am sure that data must be very interesting and revealing.\n\n**DR HALLIDAY:** We hope so.\n\n**PAUL:** I’m afraid we’ve run out of time. Many thanks for talking to us about the InSight mission.\n\n**DR HALLIDAY:** My pleasure.\n\n*Adapted from: https://www.abc.net.au/radionational/programs/scienceshow/mars-insight-lander-to-monitor-mars-interior/10548156# — ABC Radio National (Australian Broadcasting Corporation).*"
+    },
+    {
+      "id": "angles-2020-J-e1-q3",
+      "exercici": 1,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Per què l'InSight no es mou",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "sismes",
+        "mòdul de descens",
+        "sismòmetre"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**WE’LL BE ON MARS AGAIN!**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *spacecraft, craft*: nau espacial, nau / nave espacial, nave\n- *layer*: capa\n- *gust of wind*: cop de vent / golpe de viento\n- *shield*: escut / escudo\n- *quake*: terratrèmol / terremoto\n- *seismometer*: sismòmetre / sismómetro\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**3.** Why does the InSight spacecraft need to stay in one place?",
+      "figures": [],
+      "opcions": {
+        "A": "To detect quakes.",
+        "B": "To detect wind.",
+        "C": "To avoid making noise.",
+        "D": "To avoid breaking instruments."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única. Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** i no resta res si la deixes en blanc: si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però amb un altre sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*“We actually need to stay in one place and be as quiet as possible so that we can use our instruments to detect Mars quakes.”*\n\n- B: el vent és justament el que **no** volen detectar (els interfereix).\n- C: *be as quiet as possible* és un mitjà, no la finalitat: la finalitat és detectar terratrèmols (distractor que juga amb paraules de l'àudio).\n- D: no se'n parla."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**A. To detect quakes.** It needs to stay in one place and be quiet so that its instruments can detect Mars quakes."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **A** (To detect quakes.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites que es donen aquí en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta."
+      },
+      "transcripcio": "**PAUL SMITH:** This is Science Today. Welcome! The spacecraft InSight successfully landed on the surface of Mars a few weeks ago, just as other spacecraft had done in previous missions, but it is different this time. Today, Dr Susan Halliday, a scientist working for the InSight mission for NASA is with us and will help us find out why this mission is different from previous ones.\n\n**PAUL:** We've had a lot of spacecraft go to Mars. What's unique about this mission?\n\n**DR HALLIDAY:** We have had many missions that have looked at the surface of Mars, but we are the first one that is really going to tell us about the interior of Mars and its several layers, how all those layers got there. We will learn about the geologic activity that could have created a habitat that may have supported life early in Mars's history.\n\n**PAUL:** And why do we want to know that?\n\n**DR HALLIDAY:** Well, what we are really aiming for, our big-picture scientific question is what happens in the first tens of millions of years after a planet forms. We know from investigations of volcanoes on Earth that all the rocky bodies go through this process of separating into different layers, but we don’t know much about how that process really works. Our mission will help us gain a better understanding of this process.\n\n**PAUL:** Can you tell me a little bit about the craft?\n\n**DR HALLIDAY:** Sure, it's the InSight Lander. Lander crafts don’t have wheels. We actually need to stay in one place and be as quiet as possible so that we can use our instruments to detect Mars quakes. In fact, we put those instruments underground. This is extremely important to us. The first mission that landed on Mars, Viking, actually had a seismometer that stayed on the craft. So it detected the gusts of wind that made the craft shake, but it could not detect quakes precisely at all.\n\n**PAUL:** I see, so the InSight also has a seismometer?\n\n**DR HALLIDAY:** Yes, that’s right, but for the first time we're going to place it on the ground. The only other place where this has been done besides Earth is on the Moon. The Apollo astronauts actually drilled holes into the Moon to place some instruments underground. But now we are going to do all those things robotically. We use a robotic arm to put the seismometer in the ground and then place a wind shield on top of the seismometer to protect it from wind gusts that could be mistaken for seismic waves.\n\n**PAUL:** And how do you decide on the landing location? Can you determine a location precisely?\n\n**DR HALLIDAY:** Yes, we can be very precise about the location. In fact, we chose a specific area where there is a certain elevation for safety reasons. The atmosphere of Mars is very thin, so we need to have enough atmosphere to slow us down so that we can land. And because the InSight is powered by solar energy, we need to be near the equator. And then, lastly, we don't want our spacecraft to land on rocks or to have rocks under the surface we want to drill. We went for the flattest, safest, most boring landing site ever on Mars, we were not interested in exploring the geology of various areas, as previous missions had done.\n\n**PAUL:** When the Curiosity spacecraft landed on Mars about six years ago, the landing was described as the seven minutes of terror. Is it less risky now?\n\n**DR HALLIDAY:** Well, not really. Every time you land on Mars it's always very risky. When it works, it looks smooth and easy, but, in fact, at least a third of the missions that have been sent to Mars have failed.\n\n**PAUL:** And how is the landing achieved?\n\n**DR HALLIDAY:** Well, first we need a heat shield, because we are going at 12,300 miles per hour when we hit the atmosphere of Mars. This slows down the craft quite a bit. Then, when it is pretty near the surface, the parachute is released. This makes the craft go quite slowly, and finally, in the last one hundred meters or so we remove the parachute and we come down on landing rockets. And so if everything goes well, it's quite a gentle touchdown.\n\n**PAUL:** But it's still a precision landing really, isn't it?\n\n**SUSAN:** It is, and it's all automated. Because of the one-way flight time to Mars, we can't command anything when this is happening, we just have to rely on getting the sequence of commands correct in advance and we just sit in the control room and wait to hear back.\n\n**PAUL:** So, now that the landing was successful, what happens next?\n\n**DR HALLIDAY:** Our initial mission lasts one Mars year, that is, two Earth years. The first thing we are going to do is spend a few months choosing the right place to put our instruments down in the ground. So it will be a while before we actually start acquiring data.\n\n**PAUL:** I am sure that data must be very interesting and revealing.\n\n**DR HALLIDAY:** We hope so.\n\n**PAUL:** I’m afraid we’ve run out of time. Many thanks for talking to us about the InSight mission.\n\n**DR HALLIDAY:** My pleasure.\n\n*Adapted from: https://www.abc.net.au/radionational/programs/scienceshow/mars-insight-lander-to-monitor-mars-interior/10548156# — ABC Radio National (Australian Broadcasting Corporation).*"
+    },
+    {
+      "id": "angles-2020-J-e1-q4",
+      "exercici": 1,
+      "questio": 4,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "El sismòmetre de la nau Viking",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "viking",
+        "sismòmetre",
+        "ratxes de vent"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**WE’LL BE ON MARS AGAIN!**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *spacecraft, craft*: nau espacial, nau / nave espacial, nave\n- *layer*: capa\n- *gust of wind*: cop de vent / golpe de viento\n- *shield*: escut / escudo\n- *quake*: terratrèmol / terremoto\n- *seismometer*: sismòmetre / sismómetro\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**4.** The seismometer of the Viking spacecraft",
+      "figures": [],
+      "opcions": {
+        "A": "could not detect Mars quakes well.",
+        "B": "could not measure wind gusts well.",
+        "C": "was better than the one on the InSight lander.",
+        "D": "was handled by astronauts."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única. Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** i no resta res si la deixes en blanc: si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però amb un altre sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*“Viking, actually had a seismometer that stayed on the craft. So it detected the gusts of wind that made the craft shake, but it could not detect quakes precisely at all.”*\n\n- B: és al revés: detectava les ratxes de vent (i això era el problema).\n- C: no; el de l'InSight és millor perquè va a terra.\n- D: els astronautes surten en relació amb la **Lluna** (Apollo), no amb la Viking."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**A. could not detect Mars quakes well.** Viking's seismometer stayed on the craft, so it picked up the wind shaking the craft and could not detect quakes precisely."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **A** (could not detect Mars quakes well.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites que es donen aquí en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta."
+      },
+      "transcripcio": "**PAUL SMITH:** This is Science Today. Welcome! The spacecraft InSight successfully landed on the surface of Mars a few weeks ago, just as other spacecraft had done in previous missions, but it is different this time. Today, Dr Susan Halliday, a scientist working for the InSight mission for NASA is with us and will help us find out why this mission is different from previous ones.\n\n**PAUL:** We've had a lot of spacecraft go to Mars. What's unique about this mission?\n\n**DR HALLIDAY:** We have had many missions that have looked at the surface of Mars, but we are the first one that is really going to tell us about the interior of Mars and its several layers, how all those layers got there. We will learn about the geologic activity that could have created a habitat that may have supported life early in Mars's history.\n\n**PAUL:** And why do we want to know that?\n\n**DR HALLIDAY:** Well, what we are really aiming for, our big-picture scientific question is what happens in the first tens of millions of years after a planet forms. We know from investigations of volcanoes on Earth that all the rocky bodies go through this process of separating into different layers, but we don’t know much about how that process really works. Our mission will help us gain a better understanding of this process.\n\n**PAUL:** Can you tell me a little bit about the craft?\n\n**DR HALLIDAY:** Sure, it's the InSight Lander. Lander crafts don’t have wheels. We actually need to stay in one place and be as quiet as possible so that we can use our instruments to detect Mars quakes. In fact, we put those instruments underground. This is extremely important to us. The first mission that landed on Mars, Viking, actually had a seismometer that stayed on the craft. So it detected the gusts of wind that made the craft shake, but it could not detect quakes precisely at all.\n\n**PAUL:** I see, so the InSight also has a seismometer?\n\n**DR HALLIDAY:** Yes, that’s right, but for the first time we're going to place it on the ground. The only other place where this has been done besides Earth is on the Moon. The Apollo astronauts actually drilled holes into the Moon to place some instruments underground. But now we are going to do all those things robotically. We use a robotic arm to put the seismometer in the ground and then place a wind shield on top of the seismometer to protect it from wind gusts that could be mistaken for seismic waves.\n\n**PAUL:** And how do you decide on the landing location? Can you determine a location precisely?\n\n**DR HALLIDAY:** Yes, we can be very precise about the location. In fact, we chose a specific area where there is a certain elevation for safety reasons. The atmosphere of Mars is very thin, so we need to have enough atmosphere to slow us down so that we can land. And because the InSight is powered by solar energy, we need to be near the equator. And then, lastly, we don't want our spacecraft to land on rocks or to have rocks under the surface we want to drill. We went for the flattest, safest, most boring landing site ever on Mars, we were not interested in exploring the geology of various areas, as previous missions had done.\n\n**PAUL:** When the Curiosity spacecraft landed on Mars about six years ago, the landing was described as the seven minutes of terror. Is it less risky now?\n\n**DR HALLIDAY:** Well, not really. Every time you land on Mars it's always very risky. When it works, it looks smooth and easy, but, in fact, at least a third of the missions that have been sent to Mars have failed.\n\n**PAUL:** And how is the landing achieved?\n\n**DR HALLIDAY:** Well, first we need a heat shield, because we are going at 12,300 miles per hour when we hit the atmosphere of Mars. This slows down the craft quite a bit. Then, when it is pretty near the surface, the parachute is released. This makes the craft go quite slowly, and finally, in the last one hundred meters or so we remove the parachute and we come down on landing rockets. And so if everything goes well, it's quite a gentle touchdown.\n\n**PAUL:** But it's still a precision landing really, isn't it?\n\n**SUSAN:** It is, and it's all automated. Because of the one-way flight time to Mars, we can't command anything when this is happening, we just have to rely on getting the sequence of commands correct in advance and we just sit in the control room and wait to hear back.\n\n**PAUL:** So, now that the landing was successful, what happens next?\n\n**DR HALLIDAY:** Our initial mission lasts one Mars year, that is, two Earth years. The first thing we are going to do is spend a few months choosing the right place to put our instruments down in the ground. So it will be a while before we actually start acquiring data.\n\n**PAUL:** I am sure that data must be very interesting and revealing.\n\n**DR HALLIDAY:** We hope so.\n\n**PAUL:** I’m afraid we’ve run out of time. Many thanks for talking to us about the InSight mission.\n\n**DR HALLIDAY:** My pleasure.\n\n*Adapted from: https://www.abc.net.au/radionational/programs/scienceshow/mars-insight-lander-to-monitor-mars-interior/10548156# — ABC Radio National (Australian Broadcasting Corporation).*"
+    },
+    {
+      "id": "angles-2020-J-e1-q5",
+      "exercici": 1,
+      "questio": 5,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Per a què serveix l'escut de vent",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "escut de vent",
+        "sismòmetre",
+        "braç robòtic"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**WE’LL BE ON MARS AGAIN!**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *spacecraft, craft*: nau espacial, nau / nave espacial, nave\n- *layer*: capa\n- *gust of wind*: cop de vent / golpe de viento\n- *shield*: escut / escudo\n- *quake*: terratrèmol / terremoto\n- *seismometer*: sismòmetre / sismómetro\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**5.** The InSight makes use of a shield",
+      "figures": [],
+      "opcions": {
+        "A": "to help put the InSight instruments underground.",
+        "B": "to protect the seismometer from wind gusts.",
+        "C": "to protect astronauts while they drill holes.",
+        "D": "to protect the spacecraft from seismic waves."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única. Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** i no resta res si la deixes en blanc: si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però amb un altre sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*“We use a robotic arm to put the seismometer in the ground and then place a wind shield on top of the seismometer to protect it from wind gusts that could be mistaken for seismic waves.”*\n\n- A: per posar els instruments sota terra fan servir el **braç robòtic**, no l'escut.\n- C: no hi ha astronautes; els que van perforar eren els de l'Apollo, a la Lluna.\n- D: les ones sísmiques són el que volen **mesurar**; l'escut evita que el vent s'hi confongui."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**B. to protect the seismometer from wind gusts.** The wind shield is placed on top of the seismometer to protect it from wind gusts that could be mistaken for seismic waves."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **B** (to protect the seismometer from wind gusts.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites que es donen aquí en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta."
+      },
+      "transcripcio": "**PAUL SMITH:** This is Science Today. Welcome! The spacecraft InSight successfully landed on the surface of Mars a few weeks ago, just as other spacecraft had done in previous missions, but it is different this time. Today, Dr Susan Halliday, a scientist working for the InSight mission for NASA is with us and will help us find out why this mission is different from previous ones.\n\n**PAUL:** We've had a lot of spacecraft go to Mars. What's unique about this mission?\n\n**DR HALLIDAY:** We have had many missions that have looked at the surface of Mars, but we are the first one that is really going to tell us about the interior of Mars and its several layers, how all those layers got there. We will learn about the geologic activity that could have created a habitat that may have supported life early in Mars's history.\n\n**PAUL:** And why do we want to know that?\n\n**DR HALLIDAY:** Well, what we are really aiming for, our big-picture scientific question is what happens in the first tens of millions of years after a planet forms. We know from investigations of volcanoes on Earth that all the rocky bodies go through this process of separating into different layers, but we don’t know much about how that process really works. Our mission will help us gain a better understanding of this process.\n\n**PAUL:** Can you tell me a little bit about the craft?\n\n**DR HALLIDAY:** Sure, it's the InSight Lander. Lander crafts don’t have wheels. We actually need to stay in one place and be as quiet as possible so that we can use our instruments to detect Mars quakes. In fact, we put those instruments underground. This is extremely important to us. The first mission that landed on Mars, Viking, actually had a seismometer that stayed on the craft. So it detected the gusts of wind that made the craft shake, but it could not detect quakes precisely at all.\n\n**PAUL:** I see, so the InSight also has a seismometer?\n\n**DR HALLIDAY:** Yes, that’s right, but for the first time we're going to place it on the ground. The only other place where this has been done besides Earth is on the Moon. The Apollo astronauts actually drilled holes into the Moon to place some instruments underground. But now we are going to do all those things robotically. We use a robotic arm to put the seismometer in the ground and then place a wind shield on top of the seismometer to protect it from wind gusts that could be mistaken for seismic waves.\n\n**PAUL:** And how do you decide on the landing location? Can you determine a location precisely?\n\n**DR HALLIDAY:** Yes, we can be very precise about the location. In fact, we chose a specific area where there is a certain elevation for safety reasons. The atmosphere of Mars is very thin, so we need to have enough atmosphere to slow us down so that we can land. And because the InSight is powered by solar energy, we need to be near the equator. And then, lastly, we don't want our spacecraft to land on rocks or to have rocks under the surface we want to drill. We went for the flattest, safest, most boring landing site ever on Mars, we were not interested in exploring the geology of various areas, as previous missions had done.\n\n**PAUL:** When the Curiosity spacecraft landed on Mars about six years ago, the landing was described as the seven minutes of terror. Is it less risky now?\n\n**DR HALLIDAY:** Well, not really. Every time you land on Mars it's always very risky. When it works, it looks smooth and easy, but, in fact, at least a third of the missions that have been sent to Mars have failed.\n\n**PAUL:** And how is the landing achieved?\n\n**DR HALLIDAY:** Well, first we need a heat shield, because we are going at 12,300 miles per hour when we hit the atmosphere of Mars. This slows down the craft quite a bit. Then, when it is pretty near the surface, the parachute is released. This makes the craft go quite slowly, and finally, in the last one hundred meters or so we remove the parachute and we come down on landing rockets. And so if everything goes well, it's quite a gentle touchdown.\n\n**PAUL:** But it's still a precision landing really, isn't it?\n\n**SUSAN:** It is, and it's all automated. Because of the one-way flight time to Mars, we can't command anything when this is happening, we just have to rely on getting the sequence of commands correct in advance and we just sit in the control room and wait to hear back.\n\n**PAUL:** So, now that the landing was successful, what happens next?\n\n**DR HALLIDAY:** Our initial mission lasts one Mars year, that is, two Earth years. The first thing we are going to do is spend a few months choosing the right place to put our instruments down in the ground. So it will be a while before we actually start acquiring data.\n\n**PAUL:** I am sure that data must be very interesting and revealing.\n\n**DR HALLIDAY:** We hope so.\n\n**PAUL:** I’m afraid we’ve run out of time. Many thanks for talking to us about the InSight mission.\n\n**DR HALLIDAY:** My pleasure.\n\n*Adapted from: https://www.abc.net.au/radionational/programs/scienceshow/mars-insight-lander-to-monitor-mars-interior/10548156# — ABC Radio National (Australian Broadcasting Corporation).*"
+    },
+    {
+      "id": "angles-2020-J-e1-q6",
+      "exercici": 1,
+      "questio": 6,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Com van triar el lloc d'aterratge",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "lloc d'aterratge",
+        "elevació",
+        "energia solar"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**WE’LL BE ON MARS AGAIN!**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *spacecraft, craft*: nau espacial, nau / nave espacial, nave\n- *layer*: capa\n- *gust of wind*: cop de vent / golpe de viento\n- *shield*: escut / escudo\n- *quake*: terratrèmol / terremoto\n- *seismometer*: sismòmetre / sismómetro\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**6.** The choice of the InSight’s landing location was partially determined by",
+      "figures": [],
+      "opcions": {
+        "A": "the orbit of Mars.",
+        "B": "the amount of fuel left in the rocket.",
+        "C": "the type of surface of the landing spot.",
+        "D": "the speed of the spacecraft when reaching Mars."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única. Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** i no resta res si la deixes en blanc: si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però amb un altre sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "La Dra. Halliday dona tres criteris: l'elevació (prou atmosfera per frenar), la proximitat a l'equador (energia solar) i el terreny: *“we don't want our spacecraft to land on rocks or to have rocks under the surface we want to drill. We went for the flattest, safest, most boring landing site ever on Mars.”* El **tipus de superfície** és un dels factors (per això *partially*).\n\n- A, B i D: l'òrbita, el combustible i la velocitat no s'esmenten com a criteris per triar el lloc (la velocitat surt més tard, quan parla de l'aterratge)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**C. the type of surface of the landing spot.** The landing site was chosen partly because of the type of surface: they wanted the flattest, safest site, with no rocks on or under the surface."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **C** (the type of surface of the landing spot.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites que es donen aquí en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta."
+      },
+      "transcripcio": "**PAUL SMITH:** This is Science Today. Welcome! The spacecraft InSight successfully landed on the surface of Mars a few weeks ago, just as other spacecraft had done in previous missions, but it is different this time. Today, Dr Susan Halliday, a scientist working for the InSight mission for NASA is with us and will help us find out why this mission is different from previous ones.\n\n**PAUL:** We've had a lot of spacecraft go to Mars. What's unique about this mission?\n\n**DR HALLIDAY:** We have had many missions that have looked at the surface of Mars, but we are the first one that is really going to tell us about the interior of Mars and its several layers, how all those layers got there. We will learn about the geologic activity that could have created a habitat that may have supported life early in Mars's history.\n\n**PAUL:** And why do we want to know that?\n\n**DR HALLIDAY:** Well, what we are really aiming for, our big-picture scientific question is what happens in the first tens of millions of years after a planet forms. We know from investigations of volcanoes on Earth that all the rocky bodies go through this process of separating into different layers, but we don’t know much about how that process really works. Our mission will help us gain a better understanding of this process.\n\n**PAUL:** Can you tell me a little bit about the craft?\n\n**DR HALLIDAY:** Sure, it's the InSight Lander. Lander crafts don’t have wheels. We actually need to stay in one place and be as quiet as possible so that we can use our instruments to detect Mars quakes. In fact, we put those instruments underground. This is extremely important to us. The first mission that landed on Mars, Viking, actually had a seismometer that stayed on the craft. So it detected the gusts of wind that made the craft shake, but it could not detect quakes precisely at all.\n\n**PAUL:** I see, so the InSight also has a seismometer?\n\n**DR HALLIDAY:** Yes, that’s right, but for the first time we're going to place it on the ground. The only other place where this has been done besides Earth is on the Moon. The Apollo astronauts actually drilled holes into the Moon to place some instruments underground. But now we are going to do all those things robotically. We use a robotic arm to put the seismometer in the ground and then place a wind shield on top of the seismometer to protect it from wind gusts that could be mistaken for seismic waves.\n\n**PAUL:** And how do you decide on the landing location? Can you determine a location precisely?\n\n**DR HALLIDAY:** Yes, we can be very precise about the location. In fact, we chose a specific area where there is a certain elevation for safety reasons. The atmosphere of Mars is very thin, so we need to have enough atmosphere to slow us down so that we can land. And because the InSight is powered by solar energy, we need to be near the equator. And then, lastly, we don't want our spacecraft to land on rocks or to have rocks under the surface we want to drill. We went for the flattest, safest, most boring landing site ever on Mars, we were not interested in exploring the geology of various areas, as previous missions had done.\n\n**PAUL:** When the Curiosity spacecraft landed on Mars about six years ago, the landing was described as the seven minutes of terror. Is it less risky now?\n\n**DR HALLIDAY:** Well, not really. Every time you land on Mars it's always very risky. When it works, it looks smooth and easy, but, in fact, at least a third of the missions that have been sent to Mars have failed.\n\n**PAUL:** And how is the landing achieved?\n\n**DR HALLIDAY:** Well, first we need a heat shield, because we are going at 12,300 miles per hour when we hit the atmosphere of Mars. This slows down the craft quite a bit. Then, when it is pretty near the surface, the parachute is released. This makes the craft go quite slowly, and finally, in the last one hundred meters or so we remove the parachute and we come down on landing rockets. And so if everything goes well, it's quite a gentle touchdown.\n\n**PAUL:** But it's still a precision landing really, isn't it?\n\n**SUSAN:** It is, and it's all automated. Because of the one-way flight time to Mars, we can't command anything when this is happening, we just have to rely on getting the sequence of commands correct in advance and we just sit in the control room and wait to hear back.\n\n**PAUL:** So, now that the landing was successful, what happens next?\n\n**DR HALLIDAY:** Our initial mission lasts one Mars year, that is, two Earth years. The first thing we are going to do is spend a few months choosing the right place to put our instruments down in the ground. So it will be a while before we actually start acquiring data.\n\n**PAUL:** I am sure that data must be very interesting and revealing.\n\n**DR HALLIDAY:** We hope so.\n\n**PAUL:** I’m afraid we’ve run out of time. Many thanks for talking to us about the InSight mission.\n\n**DR HALLIDAY:** My pleasure.\n\n*Adapted from: https://www.abc.net.au/radionational/programs/scienceshow/mars-insight-lander-to-monitor-mars-interior/10548156# — ABC Radio National (Australian Broadcasting Corporation).*"
+    },
+    {
+      "id": "angles-2020-J-e1-q7",
+      "exercici": 1,
+      "questio": 7,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Com s'aconsegueix un aterratge suau",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "aterratge",
+        "paracaigudes",
+        "escut tèrmic"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**WE’LL BE ON MARS AGAIN!**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *spacecraft, craft*: nau espacial, nau / nave espacial, nave\n- *layer*: capa\n- *gust of wind*: cop de vent / golpe de viento\n- *shield*: escut / escudo\n- *quake*: terratrèmol / terremoto\n- *seismometer*: sismòmetre / sismómetro\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**7.** A gentle touchdown of the spacecraft is achieved by",
+      "figures": [],
+      "opcions": {
+        "A": "removing all rockets.",
+        "B": "removing the heat shield.",
+        "C": "separating the craft into 2 parts to make each part lighter in weight.",
+        "D": "using a parachute to slow it down."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única. Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** i no resta res si la deixes en blanc: si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però amb un altre sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "La seqüència és: escut tèrmic → paracaigudes → coets d'aterratge. *“Then, when it is pretty near the surface, the parachute is released. This makes the craft go quite slowly, and finally [...] we come down on landing rockets. And so if everything goes well, it's quite a gentle touchdown.”*\n\n- A: és al revés: els darrers 100 m baixa **amb** coets.\n- B: l'escut tèrmic es fa servir per frenar en entrar a l'atmosfera, no se'n parla de treure'l.\n- C: no es diu enlloc que la nau es separi en dues parts."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**D. using a parachute to slow it down.** A parachute slows the craft down near the surface, and landing rockets do the last hundred metres, so the touchdown is gentle."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **D** (using a parachute to slow it down.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites que es donen aquí en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta. Als criteris oficials les dues últimes opcions surten en ordre invers (*using a parachute...* com a tercera); aquí es manté l'ordre de l'examen, en què la resposta correcta és la D."
+      },
+      "transcripcio": "**PAUL SMITH:** This is Science Today. Welcome! The spacecraft InSight successfully landed on the surface of Mars a few weeks ago, just as other spacecraft had done in previous missions, but it is different this time. Today, Dr Susan Halliday, a scientist working for the InSight mission for NASA is with us and will help us find out why this mission is different from previous ones.\n\n**PAUL:** We've had a lot of spacecraft go to Mars. What's unique about this mission?\n\n**DR HALLIDAY:** We have had many missions that have looked at the surface of Mars, but we are the first one that is really going to tell us about the interior of Mars and its several layers, how all those layers got there. We will learn about the geologic activity that could have created a habitat that may have supported life early in Mars's history.\n\n**PAUL:** And why do we want to know that?\n\n**DR HALLIDAY:** Well, what we are really aiming for, our big-picture scientific question is what happens in the first tens of millions of years after a planet forms. We know from investigations of volcanoes on Earth that all the rocky bodies go through this process of separating into different layers, but we don’t know much about how that process really works. Our mission will help us gain a better understanding of this process.\n\n**PAUL:** Can you tell me a little bit about the craft?\n\n**DR HALLIDAY:** Sure, it's the InSight Lander. Lander crafts don’t have wheels. We actually need to stay in one place and be as quiet as possible so that we can use our instruments to detect Mars quakes. In fact, we put those instruments underground. This is extremely important to us. The first mission that landed on Mars, Viking, actually had a seismometer that stayed on the craft. So it detected the gusts of wind that made the craft shake, but it could not detect quakes precisely at all.\n\n**PAUL:** I see, so the InSight also has a seismometer?\n\n**DR HALLIDAY:** Yes, that’s right, but for the first time we're going to place it on the ground. The only other place where this has been done besides Earth is on the Moon. The Apollo astronauts actually drilled holes into the Moon to place some instruments underground. But now we are going to do all those things robotically. We use a robotic arm to put the seismometer in the ground and then place a wind shield on top of the seismometer to protect it from wind gusts that could be mistaken for seismic waves.\n\n**PAUL:** And how do you decide on the landing location? Can you determine a location precisely?\n\n**DR HALLIDAY:** Yes, we can be very precise about the location. In fact, we chose a specific area where there is a certain elevation for safety reasons. The atmosphere of Mars is very thin, so we need to have enough atmosphere to slow us down so that we can land. And because the InSight is powered by solar energy, we need to be near the equator. And then, lastly, we don't want our spacecraft to land on rocks or to have rocks under the surface we want to drill. We went for the flattest, safest, most boring landing site ever on Mars, we were not interested in exploring the geology of various areas, as previous missions had done.\n\n**PAUL:** When the Curiosity spacecraft landed on Mars about six years ago, the landing was described as the seven minutes of terror. Is it less risky now?\n\n**DR HALLIDAY:** Well, not really. Every time you land on Mars it's always very risky. When it works, it looks smooth and easy, but, in fact, at least a third of the missions that have been sent to Mars have failed.\n\n**PAUL:** And how is the landing achieved?\n\n**DR HALLIDAY:** Well, first we need a heat shield, because we are going at 12,300 miles per hour when we hit the atmosphere of Mars. This slows down the craft quite a bit. Then, when it is pretty near the surface, the parachute is released. This makes the craft go quite slowly, and finally, in the last one hundred meters or so we remove the parachute and we come down on landing rockets. And so if everything goes well, it's quite a gentle touchdown.\n\n**PAUL:** But it's still a precision landing really, isn't it?\n\n**SUSAN:** It is, and it's all automated. Because of the one-way flight time to Mars, we can't command anything when this is happening, we just have to rely on getting the sequence of commands correct in advance and we just sit in the control room and wait to hear back.\n\n**PAUL:** So, now that the landing was successful, what happens next?\n\n**DR HALLIDAY:** Our initial mission lasts one Mars year, that is, two Earth years. The first thing we are going to do is spend a few months choosing the right place to put our instruments down in the ground. So it will be a while before we actually start acquiring data.\n\n**PAUL:** I am sure that data must be very interesting and revealing.\n\n**DR HALLIDAY:** We hope so.\n\n**PAUL:** I’m afraid we’ve run out of time. Many thanks for talking to us about the InSight mission.\n\n**DR HALLIDAY:** My pleasure.\n\n*Adapted from: https://www.abc.net.au/radionational/programs/scienceshow/mars-insight-lander-to-monitor-mars-interior/10548156# — ABC Radio National (Australian Broadcasting Corporation).*"
+    },
+    {
+      "id": "angles-2020-J-e1-q8",
+      "exercici": 1,
+      "questio": 8,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Quan començaran a rebre dades",
+      "tema": "listening",
+      "temes_secundaris": [],
+      "conceptes": [
+        "listening",
+        "dades",
+        "durada de la missió",
+        "any marcià"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "**WE’LL BE ON MARS AGAIN!**\n\nIn the following conversation you are going to hear some new words. Read and listen to them. Make sure you know what they mean.\n\n- *spacecraft, craft*: nau espacial, nau / nave espacial, nave\n- *layer*: capa\n- *gust of wind*: cop de vent / golpe de viento\n- *shield*: escut / escudo\n- *quake*: terratrèmol / terremoto\n- *seismometer*: sismòmetre / sismómetro\n\nReady? Now read the questions on the following page. Read them carefully before listening to the conversation.\n\n[Now listen to the interview.]",
+      "enunciat": "Choose the best answer according to the recording. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**8.** When will Dr. Halliday and her team start receiving data from Mars?",
+      "figures": [],
+      "opcions": {
+        "A": "One year after InSight lands.",
+        "B": "Two years after InSight lands.",
+        "C": "Almost immediately after InSight lands.",
+        "D": "After the instruments have been placed underground."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **listening** de resposta única. Abans que soni l'àudio, llegeix l'enunciat i les quatre opcions i subratlla'n les paraules clau. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** i no resta res si la deixes en blanc: si n'has pogut descartar dues, val la pena respondre; si dubtes entre totes quatre, millor deixar-la. Compte amb els distractors que fan servir paraules que **sí que surten** a l'àudio però amb un altre sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*“The first thing we are going to do is spend a few months choosing the right place to put our instruments down in the ground. So it will be a while before we actually start acquiring data.”*\n\n- A i B: distractors amb xifres de l'àudio: la missió dura *one Mars year, that is, two Earth years*, però això és la durada, no quan comencen les dades.\n- C: contradiu *it will be a while*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**D. After the instruments have been placed underground.** They will only start acquiring data after spending a few months choosing where to place the instruments and putting them in the ground."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **D** (After the instruments have been placed underground.)"
+          }
+        ],
+        "nota": "No tenim l'àudio, però els criteris oficials inclouen la **transcripció completa** de l'entrevista (camp transcripció): les cites que es donen aquí en surten literalment. Per practicar, demana a algú que te la llegeixi en veu alta."
+      },
+      "transcripcio": "**PAUL SMITH:** This is Science Today. Welcome! The spacecraft InSight successfully landed on the surface of Mars a few weeks ago, just as other spacecraft had done in previous missions, but it is different this time. Today, Dr Susan Halliday, a scientist working for the InSight mission for NASA is with us and will help us find out why this mission is different from previous ones.\n\n**PAUL:** We've had a lot of spacecraft go to Mars. What's unique about this mission?\n\n**DR HALLIDAY:** We have had many missions that have looked at the surface of Mars, but we are the first one that is really going to tell us about the interior of Mars and its several layers, how all those layers got there. We will learn about the geologic activity that could have created a habitat that may have supported life early in Mars's history.\n\n**PAUL:** And why do we want to know that?\n\n**DR HALLIDAY:** Well, what we are really aiming for, our big-picture scientific question is what happens in the first tens of millions of years after a planet forms. We know from investigations of volcanoes on Earth that all the rocky bodies go through this process of separating into different layers, but we don’t know much about how that process really works. Our mission will help us gain a better understanding of this process.\n\n**PAUL:** Can you tell me a little bit about the craft?\n\n**DR HALLIDAY:** Sure, it's the InSight Lander. Lander crafts don’t have wheels. We actually need to stay in one place and be as quiet as possible so that we can use our instruments to detect Mars quakes. In fact, we put those instruments underground. This is extremely important to us. The first mission that landed on Mars, Viking, actually had a seismometer that stayed on the craft. So it detected the gusts of wind that made the craft shake, but it could not detect quakes precisely at all.\n\n**PAUL:** I see, so the InSight also has a seismometer?\n\n**DR HALLIDAY:** Yes, that’s right, but for the first time we're going to place it on the ground. The only other place where this has been done besides Earth is on the Moon. The Apollo astronauts actually drilled holes into the Moon to place some instruments underground. But now we are going to do all those things robotically. We use a robotic arm to put the seismometer in the ground and then place a wind shield on top of the seismometer to protect it from wind gusts that could be mistaken for seismic waves.\n\n**PAUL:** And how do you decide on the landing location? Can you determine a location precisely?\n\n**DR HALLIDAY:** Yes, we can be very precise about the location. In fact, we chose a specific area where there is a certain elevation for safety reasons. The atmosphere of Mars is very thin, so we need to have enough atmosphere to slow us down so that we can land. And because the InSight is powered by solar energy, we need to be near the equator. And then, lastly, we don't want our spacecraft to land on rocks or to have rocks under the surface we want to drill. We went for the flattest, safest, most boring landing site ever on Mars, we were not interested in exploring the geology of various areas, as previous missions had done.\n\n**PAUL:** When the Curiosity spacecraft landed on Mars about six years ago, the landing was described as the seven minutes of terror. Is it less risky now?\n\n**DR HALLIDAY:** Well, not really. Every time you land on Mars it's always very risky. When it works, it looks smooth and easy, but, in fact, at least a third of the missions that have been sent to Mars have failed.\n\n**PAUL:** And how is the landing achieved?\n\n**DR HALLIDAY:** Well, first we need a heat shield, because we are going at 12,300 miles per hour when we hit the atmosphere of Mars. This slows down the craft quite a bit. Then, when it is pretty near the surface, the parachute is released. This makes the craft go quite slowly, and finally, in the last one hundred meters or so we remove the parachute and we come down on landing rockets. And so if everything goes well, it's quite a gentle touchdown.\n\n**PAUL:** But it's still a precision landing really, isn't it?\n\n**SUSAN:** It is, and it's all automated. Because of the one-way flight time to Mars, we can't command anything when this is happening, we just have to rely on getting the sequence of commands correct in advance and we just sit in the control room and wait to hear back.\n\n**PAUL:** So, now that the landing was successful, what happens next?\n\n**DR HALLIDAY:** Our initial mission lasts one Mars year, that is, two Earth years. The first thing we are going to do is spend a few months choosing the right place to put our instruments down in the ground. So it will be a while before we actually start acquiring data.\n\n**PAUL:** I am sure that data must be very interesting and revealing.\n\n**DR HALLIDAY:** We hope so.\n\n**PAUL:** I’m afraid we’ve run out of time. Many thanks for talking to us about the InSight mission.\n\n**DR HALLIDAY:** My pleasure.\n\n*Adapted from: https://www.abc.net.au/radionational/programs/scienceshow/mars-insight-lander-to-monitor-mars-interior/10548156# — ABC Radio National (Australian Broadcasting Corporation).*"
+    },
+    {
+      "id": "angles-2020-J-e2-q1",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Sobre qui ens fem primeres impressions",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "primeres impressions",
+        "desconeguts"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "**IS THERE SUCH A THING AS LOVE AT FIRST SIGHT?**\n\nThe science of first impressions is complicated, influenced by things outside of our control, neurological processes that we don’t understand and inaccurate stereotypes.\n\nIt takes less than a second to form an **assessment** of someone’s face. These first impressions predict all kinds of important characteristics, not just attractiveness. These impressions we make in a second tend to be shared by the majority of the people. But that doesn’t necessarily make them correct.\n\n“A first impression could be **misleading**,” says professor Alexander Todorov, author of the book *Face Value: The Irresistible Influence of First Impressions* and a professor at Princeton University. “Trying to figure out what a person is like from a simple exposure is basically ridiculous. We only make first impressions about strangers. So naturally they are superficial.”\n\nWhether our predictions are accurate or not, we make them quickly and we stick to them. Even if we are given more time than a second to judge the attractiveness of a face, we are unlikely to arrive at a different conclusion. According to professor Todorov, there are three universal qualities that people infer from a face: attractiveness, **trustworthiness** and dominance.\n\nIn these first impressions, men and women are not judged equally. Women who appear masculine are evaluated negatively whereas men would be evaluated positively. This applies to both genders, so men and women [both] make negative assessments of masculine-looking women.”\n\nFirst impressions of faces are superficial, general and can be inaccurate. If we think about this in the context of dating apps, we also have to think about the effects of how a photo is taken. The photos we choose to publish on dating profiles are those that present ourselves in the best light. Not just chosen for attractiveness, they are also there to reflect personality and social cues, like adventurousness or generosity.\n\nFirst impressions are rapid but **shallow** and can change over time if you have better information, like when your date starts speaking. “The only way to tell whether two people will really like each other is when they have to talk. People don’t make good predictions for compatibility without talking,” says professor Todorov.\n\nProfessor Todorov has categorised all the conversational strategies we use which should lead to a second date and he came to several conclusions: “The traditional dating habit was that men approach women and we have found that it is men who approach women when dating online, too,” says professor Todorov. “But the most interesting part is how few gender differences there were in the types of strategy used.”\n\nMen and women are more similar than they are different. Being sincere about the type of person you are looking for is more effective than talking about your wealth, profession or whether you are looking for love.\n\n“Something that is unique about online dating is that you have a longer time to figure out if your date is going to meet your expectations,” says Todorov. “Sometimes with online dating you have a tendency to build people up in your head which can lead to disappointment. We can idealise people when we don’t have a lot of information to go on.”\n\nHaving said that, there have been several marriages from these speed-dating meetings, so there must be some logic in there, says Todorov: “Some people now have children, so it produced some nice results”.\n\n*Text adapted from an article by William Park. BBC News [online] (April 3, 2019)*\n\n- **assessment**: valoració / valoración\n- **misleading**: enganyós / engañoso\n- **trustworthiness**: confiança / confianza\n- **shallow**: superficial",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**1.** According to professor Todorov",
+      "figures": [],
+      "opcions": {
+        "A": "we only make first impressions about people we don’t know.",
+        "B": "we make first impressions only if they are misleading.",
+        "C": "our first impressions about someone are usually wrong.",
+        "D": "we usually share our first impression with many other people."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única. Llegeix primer l'enunciat i les opcions, localitza el paràgraf del text que en parla i compara-hi cada opció. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** (en blanc, 0). Desconfia de les opcions amb paraules absolutes (*always, only, never*) i de les que copien paraules del text però en canvien el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Paràgraf 3: *“We only make first impressions about strangers.”* *Strangers* = *people we don’t know*: és una paràfrasi directa.\n\n- B: el text diu que **poden** ser enganyoses (*could be misleading*), no que només les fem quan ho són.\n- C: diu que no són necessàriament correctes, però no que **normalment** siguin errònies (*usually wrong* és massa fort).\n- D: el paràgraf 2 diu que les impressions *tend to be shared by the majority of the people* (moltes persones coincideixen a tenir-les), no que les **comuniquem** a altres persones: distractor que juga amb el doble sentit de *share*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**A. we only make first impressions about people we don’t know.** Todorov says that “we only make first impressions about strangers”, that is, about people we don't know."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **A** (we only make first impressions about people we don’t know.)"
+          }
+        ],
+        "nota": "Treballa sempre amb el text: localitza la frase que justifica la resposta abans de marcar-la. Les opcions correctes solen ser **paràfrasis** del text (sinònims), mentre que els distractors repeteixen paraules literals amb un altre sentit."
+      }
+    },
+    {
+      "id": "angles-2020-J-e2-q2",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Canviem les primeres impressions?",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "primeres impressions",
+        "persistència de l'opinió"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "**IS THERE SUCH A THING AS LOVE AT FIRST SIGHT?**\n\nThe science of first impressions is complicated, influenced by things outside of our control, neurological processes that we don’t understand and inaccurate stereotypes.\n\nIt takes less than a second to form an **assessment** of someone’s face. These first impressions predict all kinds of important characteristics, not just attractiveness. These impressions we make in a second tend to be shared by the majority of the people. But that doesn’t necessarily make them correct.\n\n“A first impression could be **misleading**,” says professor Alexander Todorov, author of the book *Face Value: The Irresistible Influence of First Impressions* and a professor at Princeton University. “Trying to figure out what a person is like from a simple exposure is basically ridiculous. We only make first impressions about strangers. So naturally they are superficial.”\n\nWhether our predictions are accurate or not, we make them quickly and we stick to them. Even if we are given more time than a second to judge the attractiveness of a face, we are unlikely to arrive at a different conclusion. According to professor Todorov, there are three universal qualities that people infer from a face: attractiveness, **trustworthiness** and dominance.\n\nIn these first impressions, men and women are not judged equally. Women who appear masculine are evaluated negatively whereas men would be evaluated positively. This applies to both genders, so men and women [both] make negative assessments of masculine-looking women.”\n\nFirst impressions of faces are superficial, general and can be inaccurate. If we think about this in the context of dating apps, we also have to think about the effects of how a photo is taken. The photos we choose to publish on dating profiles are those that present ourselves in the best light. Not just chosen for attractiveness, they are also there to reflect personality and social cues, like adventurousness or generosity.\n\nFirst impressions are rapid but **shallow** and can change over time if you have better information, like when your date starts speaking. “The only way to tell whether two people will really like each other is when they have to talk. People don’t make good predictions for compatibility without talking,” says professor Todorov.\n\nProfessor Todorov has categorised all the conversational strategies we use which should lead to a second date and he came to several conclusions: “The traditional dating habit was that men approach women and we have found that it is men who approach women when dating online, too,” says professor Todorov. “But the most interesting part is how few gender differences there were in the types of strategy used.”\n\nMen and women are more similar than they are different. Being sincere about the type of person you are looking for is more effective than talking about your wealth, profession or whether you are looking for love.\n\n“Something that is unique about online dating is that you have a longer time to figure out if your date is going to meet your expectations,” says Todorov. “Sometimes with online dating you have a tendency to build people up in your head which can lead to disappointment. We can idealise people when we don’t have a lot of information to go on.”\n\nHaving said that, there have been several marriages from these speed-dating meetings, so there must be some logic in there, says Todorov: “Some people now have children, so it produced some nice results”.\n\n*Text adapted from an article by William Park. BBC News [online] (April 3, 2019)*\n\n- **assessment**: valoració / valoración\n- **misleading**: enganyós / engañoso\n- **trustworthiness**: confiança / confianza\n- **shallow**: superficial",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**2.** Once people have made their first impressions",
+      "figures": [],
+      "opcions": {
+        "A": "they may change them quite quickly if their opinions are not accurate.",
+        "B": "they will change their opinion if they are not sure of the person they have just met.",
+        "C": "they will hardly ever change their first opinion about a person they have just met.",
+        "D": "they always change their mind soon afterwards if given more time to judge a person."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única. Llegeix primer l'enunciat i les opcions, localitza el paràgraf del text que en parla i compara-hi cada opció. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** (en blanc, 0). Desconfia de les opcions amb paraules absolutes (*always, only, never*) i de les que copien paraules del text però en canvien el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Paràgraf 4: *“Whether our predictions are accurate or not, we make them quickly and we stick to them. Even if we are given more time than a second [...] we are unlikely to arrive at a different conclusion.”* *Stick to them* i *unlikely to arrive at a different conclusion* = *hardly ever change*.\n\n- A: contradiu *whether our predictions are accurate or not, [...] we stick to them*.\n- B: no es parla de no estar segurs de la persona.\n- D: és just el contrari del que diu: amb més temps **no** canviem d'opinió.\n\nCompte: més endavant el text diu que poden canviar *if you have better information, like when your date starts speaking* (pregunta 5), però sense aquesta informació nova ens hi aferrem."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**C. they will hardly ever change their first opinion about a person they have just met.** People stick to their first impressions: even with more time to judge a face, they are unlikely to reach a different conclusion, so they hardly ever change their opinion."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **C** (they will hardly ever change their first opinion about a person they have just met.)"
+          }
+        ],
+        "nota": "Treballa sempre amb el text: localitza la frase que justifica la resposta abans de marcar-la. Les opcions correctes solen ser **paràfrasis** del text (sinònims), mentre que els distractors repeteixen paraules literals amb un altre sentit."
+      }
+    },
+    {
+      "id": "angles-2020-J-e2-q3",
+      "exercici": 2,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Diferències de gènere en les primeres impressions",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "gènere",
+        "estereotips",
+        "primeres impressions"
+      ],
+      "dificultat": 3,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "**IS THERE SUCH A THING AS LOVE AT FIRST SIGHT?**\n\nThe science of first impressions is complicated, influenced by things outside of our control, neurological processes that we don’t understand and inaccurate stereotypes.\n\nIt takes less than a second to form an **assessment** of someone’s face. These first impressions predict all kinds of important characteristics, not just attractiveness. These impressions we make in a second tend to be shared by the majority of the people. But that doesn’t necessarily make them correct.\n\n“A first impression could be **misleading**,” says professor Alexander Todorov, author of the book *Face Value: The Irresistible Influence of First Impressions* and a professor at Princeton University. “Trying to figure out what a person is like from a simple exposure is basically ridiculous. We only make first impressions about strangers. So naturally they are superficial.”\n\nWhether our predictions are accurate or not, we make them quickly and we stick to them. Even if we are given more time than a second to judge the attractiveness of a face, we are unlikely to arrive at a different conclusion. According to professor Todorov, there are three universal qualities that people infer from a face: attractiveness, **trustworthiness** and dominance.\n\nIn these first impressions, men and women are not judged equally. Women who appear masculine are evaluated negatively whereas men would be evaluated positively. This applies to both genders, so men and women [both] make negative assessments of masculine-looking women.”\n\nFirst impressions of faces are superficial, general and can be inaccurate. If we think about this in the context of dating apps, we also have to think about the effects of how a photo is taken. The photos we choose to publish on dating profiles are those that present ourselves in the best light. Not just chosen for attractiveness, they are also there to reflect personality and social cues, like adventurousness or generosity.\n\nFirst impressions are rapid but **shallow** and can change over time if you have better information, like when your date starts speaking. “The only way to tell whether two people will really like each other is when they have to talk. People don’t make good predictions for compatibility without talking,” says professor Todorov.\n\nProfessor Todorov has categorised all the conversational strategies we use which should lead to a second date and he came to several conclusions: “The traditional dating habit was that men approach women and we have found that it is men who approach women when dating online, too,” says professor Todorov. “But the most interesting part is how few gender differences there were in the types of strategy used.”\n\nMen and women are more similar than they are different. Being sincere about the type of person you are looking for is more effective than talking about your wealth, profession or whether you are looking for love.\n\n“Something that is unique about online dating is that you have a longer time to figure out if your date is going to meet your expectations,” says Todorov. “Sometimes with online dating you have a tendency to build people up in your head which can lead to disappointment. We can idealise people when we don’t have a lot of information to go on.”\n\nHaving said that, there have been several marriages from these speed-dating meetings, so there must be some logic in there, says Todorov: “Some people now have children, so it produced some nice results”.\n\n*Text adapted from an article by William Park. BBC News [online] (April 3, 2019)*\n\n- **assessment**: valoració / valoración\n- **misleading**: enganyós / engañoso\n- **trustworthiness**: confiança / confianza\n- **shallow**: superficial",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**3.** Which one of these sentences is TRUE?",
+      "figures": [],
+      "opcions": {
+        "A": "In first impressions women and men make similar judgments.",
+        "B": "In first impressions women and men are judged similarly.",
+        "C": "In first impressions feminine-looking men are badly considered.",
+        "D": "In first impressions masculine-looking men are badly judged."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única. Llegeix primer l'enunciat i les opcions, localitza el paràgraf del text que en parla i compara-hi cada opció. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** (en blanc, 0). Desconfia de les opcions amb paraules absolutes (*always, only, never*) i de les que copien paraules del text però en canvien el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Paràgraf 5: *“This applies to both genders, so men and women [both] make negative assessments of masculine-looking women.”* Homes i dones **jutgen** igual (fan els mateixos judicis).\n\n- B: és el contrari: *men and women are not judged equally* (no **són jutjats** igual). Fixa't en la diferència entre l'activa (*make judgments*) i la passiva (*are judged*): és la trampa de la pregunta.\n- C: el text no parla d'homes d'aparença femenina.\n- D: als homes d'aparença masculina se'ls valora **positivament** (*men would be evaluated positively*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**A. In first impressions women and men make similar judgments.** Men and women make similar judgments: both genders judge masculine-looking women negatively, although men and women are not judged equally."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **A** (In first impressions women and men make similar judgments.)"
+          }
+        ],
+        "nota": "Treballa sempre amb el text: localitza la frase que justifica la resposta abans de marcar-la. Les opcions correctes solen ser **paràfrasis** del text (sinònims), mentre que els distractors repeteixen paraules literals amb un altre sentit."
+      }
+    },
+    {
+      "id": "angles-2020-J-e2-q4",
+      "exercici": 2,
+      "questio": 4,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Les fotos dels perfils de cites",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "aplicacions de cites",
+        "fotos de perfil",
+        "personalitat"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "**IS THERE SUCH A THING AS LOVE AT FIRST SIGHT?**\n\nThe science of first impressions is complicated, influenced by things outside of our control, neurological processes that we don’t understand and inaccurate stereotypes.\n\nIt takes less than a second to form an **assessment** of someone’s face. These first impressions predict all kinds of important characteristics, not just attractiveness. These impressions we make in a second tend to be shared by the majority of the people. But that doesn’t necessarily make them correct.\n\n“A first impression could be **misleading**,” says professor Alexander Todorov, author of the book *Face Value: The Irresistible Influence of First Impressions* and a professor at Princeton University. “Trying to figure out what a person is like from a simple exposure is basically ridiculous. We only make first impressions about strangers. So naturally they are superficial.”\n\nWhether our predictions are accurate or not, we make them quickly and we stick to them. Even if we are given more time than a second to judge the attractiveness of a face, we are unlikely to arrive at a different conclusion. According to professor Todorov, there are three universal qualities that people infer from a face: attractiveness, **trustworthiness** and dominance.\n\nIn these first impressions, men and women are not judged equally. Women who appear masculine are evaluated negatively whereas men would be evaluated positively. This applies to both genders, so men and women [both] make negative assessments of masculine-looking women.”\n\nFirst impressions of faces are superficial, general and can be inaccurate. If we think about this in the context of dating apps, we also have to think about the effects of how a photo is taken. The photos we choose to publish on dating profiles are those that present ourselves in the best light. Not just chosen for attractiveness, they are also there to reflect personality and social cues, like adventurousness or generosity.\n\nFirst impressions are rapid but **shallow** and can change over time if you have better information, like when your date starts speaking. “The only way to tell whether two people will really like each other is when they have to talk. People don’t make good predictions for compatibility without talking,” says professor Todorov.\n\nProfessor Todorov has categorised all the conversational strategies we use which should lead to a second date and he came to several conclusions: “The traditional dating habit was that men approach women and we have found that it is men who approach women when dating online, too,” says professor Todorov. “But the most interesting part is how few gender differences there were in the types of strategy used.”\n\nMen and women are more similar than they are different. Being sincere about the type of person you are looking for is more effective than talking about your wealth, profession or whether you are looking for love.\n\n“Something that is unique about online dating is that you have a longer time to figure out if your date is going to meet your expectations,” says Todorov. “Sometimes with online dating you have a tendency to build people up in your head which can lead to disappointment. We can idealise people when we don’t have a lot of information to go on.”\n\nHaving said that, there have been several marriages from these speed-dating meetings, so there must be some logic in there, says Todorov: “Some people now have children, so it produced some nice results”.\n\n*Text adapted from an article by William Park. BBC News [online] (April 3, 2019)*\n\n- **assessment**: valoració / valoración\n- **misleading**: enganyós / engañoso\n- **trustworthiness**: confiança / confianza\n- **shallow**: superficial",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**4.** According to the text, the photos people publish on their dating profiles are",
+      "figures": [],
+      "opcions": {
+        "A": "their best ones in order to reflect their personalities only.",
+        "B": "a mixture of fake and real ones; people don’t want to show how they really are.",
+        "C": "very superficial in order not to show one’s real personality and generosity.",
+        "D": "chosen to show physical and personality traits."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única. Llegeix primer l'enunciat i les opcions, localitza el paràgraf del text que en parla i compara-hi cada opció. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** (en blanc, 0). Desconfia de les opcions amb paraules absolutes (*always, only, never*) i de les que copien paraules del text però en canvien el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Paràgraf 6: *“The photos we choose to publish on dating profiles are those that present ourselves in the best light. Not just chosen for attractiveness, they are also there to reflect personality and social cues, like adventurousness or generosity.”* Es trien per mostrar l'atractiu físic **i** trets de personalitat.\n\n- A: *only* és fals: no només la personalitat, també l'atractiu (*not just chosen for attractiveness*).\n- B: el text no parla de fotos falses.\n- C: és el contrari: volen mostrar personalitat i generositat, no amagar-les."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**D. chosen to show physical and personality traits.** They are chosen not just for attractiveness but also to reflect personality and social cues, so they show both physical and personality traits."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **D** (chosen to show physical and personality traits.)"
+          }
+        ],
+        "nota": "Treballa sempre amb el text: localitza la frase que justifica la resposta abans de marcar-la. Les opcions correctes solen ser **paràfrasis** del text (sinònims), mentre que els distractors repeteixen paraules literals amb un altre sentit."
+      }
+    },
+    {
+      "id": "angles-2020-J-e2-q5",
+      "exercici": 2,
+      "questio": 5,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Parlar amb la cita canvia la primera impressió",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "primeres impressions",
+        "conversa",
+        "compatibilitat"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "**IS THERE SUCH A THING AS LOVE AT FIRST SIGHT?**\n\nThe science of first impressions is complicated, influenced by things outside of our control, neurological processes that we don’t understand and inaccurate stereotypes.\n\nIt takes less than a second to form an **assessment** of someone’s face. These first impressions predict all kinds of important characteristics, not just attractiveness. These impressions we make in a second tend to be shared by the majority of the people. But that doesn’t necessarily make them correct.\n\n“A first impression could be **misleading**,” says professor Alexander Todorov, author of the book *Face Value: The Irresistible Influence of First Impressions* and a professor at Princeton University. “Trying to figure out what a person is like from a simple exposure is basically ridiculous. We only make first impressions about strangers. So naturally they are superficial.”\n\nWhether our predictions are accurate or not, we make them quickly and we stick to them. Even if we are given more time than a second to judge the attractiveness of a face, we are unlikely to arrive at a different conclusion. According to professor Todorov, there are three universal qualities that people infer from a face: attractiveness, **trustworthiness** and dominance.\n\nIn these first impressions, men and women are not judged equally. Women who appear masculine are evaluated negatively whereas men would be evaluated positively. This applies to both genders, so men and women [both] make negative assessments of masculine-looking women.”\n\nFirst impressions of faces are superficial, general and can be inaccurate. If we think about this in the context of dating apps, we also have to think about the effects of how a photo is taken. The photos we choose to publish on dating profiles are those that present ourselves in the best light. Not just chosen for attractiveness, they are also there to reflect personality and social cues, like adventurousness or generosity.\n\nFirst impressions are rapid but **shallow** and can change over time if you have better information, like when your date starts speaking. “The only way to tell whether two people will really like each other is when they have to talk. People don’t make good predictions for compatibility without talking,” says professor Todorov.\n\nProfessor Todorov has categorised all the conversational strategies we use which should lead to a second date and he came to several conclusions: “The traditional dating habit was that men approach women and we have found that it is men who approach women when dating online, too,” says professor Todorov. “But the most interesting part is how few gender differences there were in the types of strategy used.”\n\nMen and women are more similar than they are different. Being sincere about the type of person you are looking for is more effective than talking about your wealth, profession or whether you are looking for love.\n\n“Something that is unique about online dating is that you have a longer time to figure out if your date is going to meet your expectations,” says Todorov. “Sometimes with online dating you have a tendency to build people up in your head which can lead to disappointment. We can idealise people when we don’t have a lot of information to go on.”\n\nHaving said that, there have been several marriages from these speed-dating meetings, so there must be some logic in there, says Todorov: “Some people now have children, so it produced some nice results”.\n\n*Text adapted from an article by William Park. BBC News [online] (April 3, 2019)*\n\n- **assessment**: valoració / valoración\n- **misleading**: enganyós / engañoso\n- **trustworthiness**: confiança / confianza\n- **shallow**: superficial",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**5.** Prof. Todorov affirms that",
+      "figures": [],
+      "opcions": {
+        "A": "first impressions are always reliable even when our date starts speaking.",
+        "B": "people can change their first impressions when they start talking to their date.",
+        "C": "talking to our date reinforces our first impressions, making them more certain.",
+        "D": "people in general make good predictions from their first impressions."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única. Llegeix primer l'enunciat i les opcions, localitza el paràgraf del text que en parla i compara-hi cada opció. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** (en blanc, 0). Desconfia de les opcions amb paraules absolutes (*always, only, never*) i de les que copien paraules del text però en canvien el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Paràgraf 7: *“First impressions are rapid but shallow and can change over time if you have better information, like when your date starts speaking.”* I Todorov afegeix: *“People don’t make good predictions for compatibility without talking.”*\n\n- A: *always reliable* contradiu que siguin *superficial, general and can be inaccurate*.\n- C: parlar pot fer-les **canviar**, no les reforça.\n- D: el text diu que no fem bones prediccions sense parlar."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**B. people can change their first impressions when they start talking to their date.** First impressions can change when people have better information, for example when their date starts speaking."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **B** (people can change their first impressions when they start talking to their date.)"
+          }
+        ],
+        "nota": "Treballa sempre amb el text: localitza la frase que justifica la resposta abans de marcar-la. Les opcions correctes solen ser **paràfrasis** del text (sinònims), mentre que els distractors repeteixen paraules literals amb un altre sentit."
+      }
+    },
+    {
+      "id": "angles-2020-J-e2-q6",
+      "exercici": 2,
+      "questio": 6,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Estratègies de conversa d'homes i dones",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "cites en línia",
+        "estratègies de conversa",
+        "gènere"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "**IS THERE SUCH A THING AS LOVE AT FIRST SIGHT?**\n\nThe science of first impressions is complicated, influenced by things outside of our control, neurological processes that we don’t understand and inaccurate stereotypes.\n\nIt takes less than a second to form an **assessment** of someone’s face. These first impressions predict all kinds of important characteristics, not just attractiveness. These impressions we make in a second tend to be shared by the majority of the people. But that doesn’t necessarily make them correct.\n\n“A first impression could be **misleading**,” says professor Alexander Todorov, author of the book *Face Value: The Irresistible Influence of First Impressions* and a professor at Princeton University. “Trying to figure out what a person is like from a simple exposure is basically ridiculous. We only make first impressions about strangers. So naturally they are superficial.”\n\nWhether our predictions are accurate or not, we make them quickly and we stick to them. Even if we are given more time than a second to judge the attractiveness of a face, we are unlikely to arrive at a different conclusion. According to professor Todorov, there are three universal qualities that people infer from a face: attractiveness, **trustworthiness** and dominance.\n\nIn these first impressions, men and women are not judged equally. Women who appear masculine are evaluated negatively whereas men would be evaluated positively. This applies to both genders, so men and women [both] make negative assessments of masculine-looking women.”\n\nFirst impressions of faces are superficial, general and can be inaccurate. If we think about this in the context of dating apps, we also have to think about the effects of how a photo is taken. The photos we choose to publish on dating profiles are those that present ourselves in the best light. Not just chosen for attractiveness, they are also there to reflect personality and social cues, like adventurousness or generosity.\n\nFirst impressions are rapid but **shallow** and can change over time if you have better information, like when your date starts speaking. “The only way to tell whether two people will really like each other is when they have to talk. People don’t make good predictions for compatibility without talking,” says professor Todorov.\n\nProfessor Todorov has categorised all the conversational strategies we use which should lead to a second date and he came to several conclusions: “The traditional dating habit was that men approach women and we have found that it is men who approach women when dating online, too,” says professor Todorov. “But the most interesting part is how few gender differences there were in the types of strategy used.”\n\nMen and women are more similar than they are different. Being sincere about the type of person you are looking for is more effective than talking about your wealth, profession or whether you are looking for love.\n\n“Something that is unique about online dating is that you have a longer time to figure out if your date is going to meet your expectations,” says Todorov. “Sometimes with online dating you have a tendency to build people up in your head which can lead to disappointment. We can idealise people when we don’t have a lot of information to go on.”\n\nHaving said that, there have been several marriages from these speed-dating meetings, so there must be some logic in there, says Todorov: “Some people now have children, so it produced some nice results”.\n\n*Text adapted from an article by William Park. BBC News [online] (April 3, 2019)*\n\n- **assessment**: valoració / valoración\n- **misleading**: enganyós / engañoso\n- **trustworthiness**: confiança / confianza\n- **shallow**: superficial",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**6.** According to professor Todorov, the conversational strategies used in online dating show",
+      "figures": [],
+      "opcions": {
+        "A": "that women talk more about themselves than men do.",
+        "B": "that men talk more about their profession than women do.",
+        "C": "that men and women use quite different approaches to dating.",
+        "D": "that men and women take similar approaches to dating."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única. Llegeix primer l'enunciat i les opcions, localitza el paràgraf del text que en parla i compara-hi cada opció. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** (en blanc, 0). Desconfia de les opcions amb paraules absolutes (*always, only, never*) i de les que copien paraules del text però en canvien el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Paràgrafs 8-9: *“But the most interesting part is how few gender differences there were in the types of strategy used.”* i *“Men and women are more similar than they are different.”*\n\n- A i B: el text no compara qui parla més de si mateix o de la feina.\n- C: és just el contrari (*few gender differences*). L'única diferència esmentada és que encara són els homes els qui fan el primer pas."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**D. that men and women take similar approaches to dating.** There were very few gender differences in the strategies used: men and women are more similar than different."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **D** (that men and women take similar approaches to dating.)"
+          }
+        ],
+        "nota": "Treballa sempre amb el text: localitza la frase que justifica la resposta abans de marcar-la. Les opcions correctes solen ser **paràfrasis** del text (sinònims), mentre que els distractors repeteixen paraules literals amb un altre sentit."
+      }
+    },
+    {
+      "id": "angles-2020-J-e2-q7",
+      "exercici": 2,
+      "questio": 7,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "El consell per trobar parella",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "sinceritat",
+        "cites",
+        "vocabulari: sincere / honest"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "**IS THERE SUCH A THING AS LOVE AT FIRST SIGHT?**\n\nThe science of first impressions is complicated, influenced by things outside of our control, neurological processes that we don’t understand and inaccurate stereotypes.\n\nIt takes less than a second to form an **assessment** of someone’s face. These first impressions predict all kinds of important characteristics, not just attractiveness. These impressions we make in a second tend to be shared by the majority of the people. But that doesn’t necessarily make them correct.\n\n“A first impression could be **misleading**,” says professor Alexander Todorov, author of the book *Face Value: The Irresistible Influence of First Impressions* and a professor at Princeton University. “Trying to figure out what a person is like from a simple exposure is basically ridiculous. We only make first impressions about strangers. So naturally they are superficial.”\n\nWhether our predictions are accurate or not, we make them quickly and we stick to them. Even if we are given more time than a second to judge the attractiveness of a face, we are unlikely to arrive at a different conclusion. According to professor Todorov, there are three universal qualities that people infer from a face: attractiveness, **trustworthiness** and dominance.\n\nIn these first impressions, men and women are not judged equally. Women who appear masculine are evaluated negatively whereas men would be evaluated positively. This applies to both genders, so men and women [both] make negative assessments of masculine-looking women.”\n\nFirst impressions of faces are superficial, general and can be inaccurate. If we think about this in the context of dating apps, we also have to think about the effects of how a photo is taken. The photos we choose to publish on dating profiles are those that present ourselves in the best light. Not just chosen for attractiveness, they are also there to reflect personality and social cues, like adventurousness or generosity.\n\nFirst impressions are rapid but **shallow** and can change over time if you have better information, like when your date starts speaking. “The only way to tell whether two people will really like each other is when they have to talk. People don’t make good predictions for compatibility without talking,” says professor Todorov.\n\nProfessor Todorov has categorised all the conversational strategies we use which should lead to a second date and he came to several conclusions: “The traditional dating habit was that men approach women and we have found that it is men who approach women when dating online, too,” says professor Todorov. “But the most interesting part is how few gender differences there were in the types of strategy used.”\n\nMen and women are more similar than they are different. Being sincere about the type of person you are looking for is more effective than talking about your wealth, profession or whether you are looking for love.\n\n“Something that is unique about online dating is that you have a longer time to figure out if your date is going to meet your expectations,” says Todorov. “Sometimes with online dating you have a tendency to build people up in your head which can lead to disappointment. We can idealise people when we don’t have a lot of information to go on.”\n\nHaving said that, there have been several marriages from these speed-dating meetings, so there must be some logic in there, says Todorov: “Some people now have children, so it produced some nice results”.\n\n*Text adapted from an article by William Park. BBC News [online] (April 3, 2019)*\n\n- **assessment**: valoració / valoración\n- **misleading**: enganyós / engañoso\n- **trustworthiness**: confiança / confianza\n- **shallow**: superficial",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**7.** If you want to find your perfect date, Prof. Todorov recommends that you be",
+      "figures": [],
+      "opcions": {
+        "A": "talkative when you meet your date.",
+        "B": "honest when you talk to your date.",
+        "C": "a little vague when talking about your interests.",
+        "D": "responsible when you talk about your wealth."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única. Llegeix primer l'enunciat i les opcions, localitza el paràgraf del text que en parla i compara-hi cada opció. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** (en blanc, 0). Desconfia de les opcions amb paraules absolutes (*always, only, never*) i de les que copien paraules del text però en canvien el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Paràgraf 9: *“Being sincere about the type of person you are looking for is more effective than talking about your wealth, profession or whether you are looking for love.”* *Sincere* = *honest*.\n\n- A: cal parlar per conèixer-se, però el text no recomana ser xerraire.\n- C: és el contrari de ser sincer sobre el que busques.\n- D: parlar de la riquesa és **menys** eficaç; el text no diu res de fer-ho amb responsabilitat."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**B. honest when you talk to your date.** He recommends being honest: being sincere about the type of person you are looking for is more effective than talking about your wealth."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **B** (honest when you talk to your date.)"
+          }
+        ],
+        "nota": "Treballa sempre amb el text: localitza la frase que justifica la resposta abans de marcar-la. Les opcions correctes solen ser **paràfrasis** del text (sinònims), mentre que els distractors repeteixen paraules literals amb un altre sentit."
+      }
+    },
+    {
+      "id": "angles-2020-J-e2-q8",
+      "exercici": 2,
+      "questio": 8,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.375,
+      "titol": "Conclusió sobre les cites ràpides",
+      "tema": "reading",
+      "temes_secundaris": [],
+      "conceptes": [
+        "reading",
+        "speed dating",
+        "conclusió del text",
+        "expectatives"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "**IS THERE SUCH A THING AS LOVE AT FIRST SIGHT?**\n\nThe science of first impressions is complicated, influenced by things outside of our control, neurological processes that we don’t understand and inaccurate stereotypes.\n\nIt takes less than a second to form an **assessment** of someone’s face. These first impressions predict all kinds of important characteristics, not just attractiveness. These impressions we make in a second tend to be shared by the majority of the people. But that doesn’t necessarily make them correct.\n\n“A first impression could be **misleading**,” says professor Alexander Todorov, author of the book *Face Value: The Irresistible Influence of First Impressions* and a professor at Princeton University. “Trying to figure out what a person is like from a simple exposure is basically ridiculous. We only make first impressions about strangers. So naturally they are superficial.”\n\nWhether our predictions are accurate or not, we make them quickly and we stick to them. Even if we are given more time than a second to judge the attractiveness of a face, we are unlikely to arrive at a different conclusion. According to professor Todorov, there are three universal qualities that people infer from a face: attractiveness, **trustworthiness** and dominance.\n\nIn these first impressions, men and women are not judged equally. Women who appear masculine are evaluated negatively whereas men would be evaluated positively. This applies to both genders, so men and women [both] make negative assessments of masculine-looking women.”\n\nFirst impressions of faces are superficial, general and can be inaccurate. If we think about this in the context of dating apps, we also have to think about the effects of how a photo is taken. The photos we choose to publish on dating profiles are those that present ourselves in the best light. Not just chosen for attractiveness, they are also there to reflect personality and social cues, like adventurousness or generosity.\n\nFirst impressions are rapid but **shallow** and can change over time if you have better information, like when your date starts speaking. “The only way to tell whether two people will really like each other is when they have to talk. People don’t make good predictions for compatibility without talking,” says professor Todorov.\n\nProfessor Todorov has categorised all the conversational strategies we use which should lead to a second date and he came to several conclusions: “The traditional dating habit was that men approach women and we have found that it is men who approach women when dating online, too,” says professor Todorov. “But the most interesting part is how few gender differences there were in the types of strategy used.”\n\nMen and women are more similar than they are different. Being sincere about the type of person you are looking for is more effective than talking about your wealth, profession or whether you are looking for love.\n\n“Something that is unique about online dating is that you have a longer time to figure out if your date is going to meet your expectations,” says Todorov. “Sometimes with online dating you have a tendency to build people up in your head which can lead to disappointment. We can idealise people when we don’t have a lot of information to go on.”\n\nHaving said that, there have been several marriages from these speed-dating meetings, so there must be some logic in there, says Todorov: “Some people now have children, so it produced some nice results”.\n\n*Text adapted from an article by William Park. BBC News [online] (April 3, 2019)*\n\n- **assessment**: valoració / valoración\n- **misleading**: enganyós / engañoso\n- **trustworthiness**: confiança / confianza\n- **shallow**: superficial",
+      "enunciat": "Choose the best answer according to the text. Only ONE answer is correct.\n\n[3 points: 0.375 points for each correct answer. Wrong answers will be penalized by deducting 0.125 points. There is no penalty for unanswered questions.]\n\n**8.** At the end of the article we can come to the conclusion that speed-dating meetings",
+      "figures": [],
+      "opcions": {
+        "A": "are the only way to get married successfully.",
+        "B": "are successful only if you want to have children.",
+        "C": "sometimes fulfil people’s expectations.",
+        "D": "are a very flawed system of meeting people."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de **reading** de resposta única. Llegeix primer l'enunciat i les opcions, localitza el paràgraf del text que en parla i compara-hi cada opció. Val 0,375 punts si l'encertes, però **resta 0,125 si falles** (en blanc, 0). Desconfia de les opcions amb paraules absolutes (*always, only, never*) i de les que copien paraules del text però en canvien el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Últim paràgraf: *“there have been several marriages from these speed-dating meetings, so there must be some logic in there [...] Some people now have children, so it produced some nice results”*. Si n'han sortit alguns matrimonis, vol dir que **de vegades** compleixen les expectatives.\n\n- A: *the only way* és una exageració.\n- B: els fills són un exemple de bons resultats, no una condició.\n- D: el to final és positiu (*Having said that*... introdueix el contrapunt a la decepció del paràgraf anterior)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**C. sometimes fulfil people’s expectations.** Several marriages have come out of speed-dating meetings, so they sometimes fulfil people's expectations."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta oficial: **C** (sometimes fulfil people’s expectations.)"
+          }
+        ],
+        "nota": "Treballa sempre amb el text: localitza la frase que justifica la resposta abans de marcar-la. Les opcions correctes solen ser **paràfrasis** del text (sinònims), mentre que els distractors repeteixen paraules literals amb un altre sentit."
+      }
+    },
+    {
+      "id": "angles-2020-J-e3-A",
+      "exercici": 3,
+      "questio": null,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "redaccio",
+      "punts": 4,
+      "titol": "Opinion essay: diners i fama, signes de felicitat?",
+      "tema": "writing",
+      "temes_secundaris": [],
+      "conceptes": [
+        "writing",
+        "opinion essay",
+        "felicitat",
+        "diners i fama",
+        "connectors",
+        "valors"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Choose ONE topic. Your answer should be 125-150 words in length. There is no specific penalty for exceeding 150 words in length. Extra points are not given for exceeding 150 words.\n\n[4 points]\n\n**Topic 1.** Some people believe that making a lot of money and being famous are the true signs of happiness. Do you agree? Write an **opinion essay**.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Opció 1 del writing: **opinion essay** (125-150 paraules, uns 25-30 minuts). La pregunta és tancada (*Do you agree?*): cal **prendre posició clara** des de la introducció i defensar-la amb dos arguments i exemples. Pots reconèixer la part de raó de l'altra postura (els diners donen seguretat), però la tesi ha de quedar clara. Registre neutre-formal, sense contraccions."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Estructura en 4 paràgrafs:\n\n1. **Introducció**: presenta la idea (*Many people think that...*) i dona la teva opinió (*However, I do not agree*).\n2. **Argument 1**: els diners cobreixen necessitats, però a partir d'un punt no fan més feliç; la fama porta pressió i pèrdua d'intimitat (exemple: famosos amb problemes de salut mental).\n3. **Argument 2**: la felicitat real ve de les relacions, la salut i fer coses amb sentit.\n4. **Conclusió**: reformula la tesi.\n\n**Estructures i connectors útils**\n\n- Opinió: *In my opinion, I strongly believe that, As far as I am concerned*\n- Contrast: *However, Although, While it is true that..., On the other hand*\n- Afegir i exemplificar: *Moreover, What is more, For instance, such as*\n- Concloure: *To sum up, All in all, In conclusion*\n- Gramàtica que llueix: comparatives (*the richer..., the happier...*), oracions de relatiu, *It is + adj + that*, *not only... but also*, condicionals."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model (~148 paraules)",
+            "cos": "Money and fame are often presented as the keys to a perfect life. However, I do not agree that they are the true signs of happiness.\n\nIt is true that money is necessary to cover our basic needs and to live without worries. Nevertheless, once those needs are met, having more money does not make people happier. As for fame, it often brings stress, constant criticism and a lack of privacy. For instance, many celebrities have admitted suffering from anxiety or depression despite their success.\n\nIn my opinion, real happiness comes from simple things. Spending time with family and friends, being healthy and doing a job we enjoy are far more important than being rich or well known.\n\nTo sum up, money and fame may make life more comfortable, but they do not guarantee happiness. True happiness depends on the people we love and the way we live."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "La plantilla de correcció de l'examen té quatre caselles: **Grammar** (varietat i correcció de les estructures), **Vocabulary** (lèxic precís i variat, ortografia), **Text** (organització en paràgrafs, cohesió, connectors i puntuació) i **Maturity** (adequació al tipus de text i a la consigna, maduresa i qualitat de les idees), sobre 4 punts en total. Extensió 125-150 paraules: no es penalitza passar-se'n, però no s'hi guanyen punts. Els criteris oficials d'aquesta convocatòria no donen cap pauta específica ni resposta model per al writing."
+          }
+        ],
+        "nota": "La resposta model té 148 paraules. Consells: dedica 2-3 minuts a fer un esquema i reserva'n 3 per revisar (concordança subjecte-verb, -s de tercera persona, temps verbals, ortografia). Compta les paraules aproximadament (unes 10 per línia). No escriguis un text memoritzat que no respongui exactament la consigna: es penalitza a *Maturity*. La resposta model és de redacció pròpia (les pautes oficials no en donen)."
+      }
+    },
+    {
+      "id": "angles-2020-J-e3-B",
+      "exercici": 3,
+      "questio": null,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "redaccio",
+      "punts": 4,
+      "titol": "For-and-against essay: és cruel tenir animals als zoos?",
+      "tema": "writing",
+      "temes_secundaris": [],
+      "conceptes": [
+        "writing",
+        "for-and-against essay",
+        "zoos",
+        "benestar animal",
+        "connectors de contrast"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Choose ONE topic. Your answer should be 125-150 words in length. There is no specific penalty for exceeding 150 words in length. Extra points are not given for exceeding 150 words.\n\n[4 points]\n\n**Topic 2.** Animal activists all over Europe have organized campaigns against displaying live animals in zoos because they say that animals in captivity suffer from boredom and stress, and that keeping animals in cages is cruel. As a result, many European cities are considering closing their zoos. What do you think? Is it cruel to keep animals in a zoo? Write a **for-and-against essay** for zoos.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Opció 2 del writing: **for-and-against essay** (125-150 paraules). Cal presentar de manera **equilibrada** arguments a favor dels zoos i en contra (els dels activistes: avorriment, estrès, crueltat) i deixar la teva opinió per a la **conclusió**, ja que la consigna també pregunta *What do you think?*. Error típic: escriure un text només d'opinió i oblidar l'altra banda."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Estructura en 4 paràgrafs:\n\n1. **Introducció**: presenta el debat (campanyes dels activistes, ciutats que volen tancar el zoo).\n2. **Arguments a favor dels zoos**: conservació d'espècies en perill, educació, recerca i cura veterinària.\n3. **Arguments en contra**: espai reduït, estrès i avorriment, animals exhibits per diversió.\n4. **Conclusió amb la teva opinió**: p. ex., els zoos tradicionals són cruels, però els centres de conservació amb espais grans poden ser útils.\n\n**Estructures i connectors útils**\n\n- Presentar arguments: *On the one hand / On the other hand; Supporters of zoos argue that...; Critics claim that...*\n- Afegir: *Furthermore, In addition, Besides*\n- Contrast: *However, Nevertheless, Whereas, Despite + -ing*\n- Concloure: *All things considered, In my view, To conclude*\n- Gramàtica: passives (*animals are kept in cages*), *would rather*, modals (*should, might*), relatius."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model (~147 paraules)",
+            "cos": "Many animal activists claim that zoos are cruel, and some European cities are even considering closing them. But are zoos really so harmful?\n\nOn the one hand, supporters of zoos argue that they play an important role in protecting endangered species. Many zoos run breeding programmes and later return animals to the wild. In addition, they help children learn about nature and respect it.\n\nOn the other hand, critics point out that animals in captivity often live in small cages, far from their natural habitat. As a result, many of them suffer from boredom and stress and develop strange behaviour. Furthermore, it seems unfair to keep wild animals locked up just for our entertainment.\n\nAll things considered, I believe that traditional zoos are cruel and should be closed. However, conservation centres with large natural spaces could still be useful, as long as the animals' welfare comes first."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "La plantilla de correcció de l'examen té quatre caselles: **Grammar** (varietat i correcció de les estructures), **Vocabulary** (lèxic precís i variat, ortografia), **Text** (organització en paràgrafs, cohesió, connectors i puntuació) i **Maturity** (adequació al tipus de text i a la consigna, maduresa i qualitat de les idees), sobre 4 punts en total. Extensió 125-150 paraules: no es penalitza passar-se'n, però no s'hi guanyen punts. Els criteris oficials d'aquesta convocatòria no donen cap pauta específica ni resposta model per al writing."
+          }
+        ],
+        "nota": "La resposta model té 147 paraules. Consells: dedica 2-3 minuts a fer un esquema i reserva'n 3 per revisar (concordança subjecte-verb, -s de tercera persona, temps verbals, ortografia). Compta les paraules aproximadament (unes 10 per línia). No escriguis un text memoritzat que no respongui exactament la consigna: es penalitza a *Maturity*. La resposta model és de redacció pròpia (les pautes oficials no en donen)."
+      }
+    },
+    {
+      "id": "angles-2020-J-e3-C",
+      "exercici": 3,
+      "questio": null,
+      "opcio": "C",
+      "serie": "1",
+      "tipus": "redaccio",
+      "punts": 4,
+      "titol": "Essay: el paper de les xarxes socials a la meva vida",
+      "tema": "writing",
+      "temes_secundaris": [],
+      "conceptes": [
+        "writing",
+        "essay",
+        "xarxes socials",
+        "experiència personal",
+        "connectors"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Choose ONE topic. Your answer should be 125-150 words in length. There is no specific penalty for exceeding 150 words in length. Extra points are not given for exceeding 150 words.\n\n[4 points]\n\n**Topic 3.** Most young people today use some form of social media, and many actively use several forms. Write an **essay** describing the role of social media in your life.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Opció 3 del writing: **essay descriptiu i personal** (125-150 paraules). La consigna demana **descriure el paper** de les xarxes a la **teva** vida: quines fas servir, per a què, quant de temps, i què t'aporten o et preocupa. No és un debat general sobre si són bones o dolentes: ha d'estar centrat en la teva experiència (primera persona), amb exemples concrets."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Estructura en 4 paràgrafs:\n\n1. **Introducció**: quines xarxes fas servir i amb quina freqüència.\n2. **Usos i avantatges**: estar en contacte amb amics, informar-te, aprendre (tutorials), organitzar treballs de classe.\n3. **Aspectes negatius o límits**: temps perdut, comparar-se amb els altres, com ho controles.\n4. **Conclusió**: quin paper tenen en conjunt.\n\n**Estructures i connectors útils**\n\n- Hàbits: present simple amb adverbis de freqüència (*I usually..., I hardly ever...*), *used to*, *be used to + -ing*\n- Present perfect: *I have been using Instagram since I was fourteen*\n- Afegir i exemplificar: *Besides, Apart from that, For example*\n- Contrast: *However, Although, Even though*\n- Concloure: *All in all, Overall*"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model (~145 paraules)",
+            "cos": "Like most teenagers, I use social media every day. I have been using Instagram and WhatsApp since I was fourteen, and recently I have also started using TikTok.\n\nFor me, social media is mainly a way of keeping in touch with my friends. We use WhatsApp to chat, organise plans and even share notes when we have exams. Besides, I follow accounts about science and photography, so I often learn new things while I am scrolling.\n\nHowever, social media also has a negative side. Sometimes I spend too much time looking at my phone instead of studying or sleeping. Moreover, it is easy to compare yourself with the perfect lives that people show online. That is why I now switch off notifications in the evening.\n\nAll in all, social media plays an important role in my life, but I try to keep it under control."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "La plantilla de correcció de l'examen té quatre caselles: **Grammar** (varietat i correcció de les estructures), **Vocabulary** (lèxic precís i variat, ortografia), **Text** (organització en paràgrafs, cohesió, connectors i puntuació) i **Maturity** (adequació al tipus de text i a la consigna, maduresa i qualitat de les idees), sobre 4 punts en total. Extensió 125-150 paraules: no es penalitza passar-se'n, però no s'hi guanyen punts. Els criteris oficials d'aquesta convocatòria no donen cap pauta específica ni resposta model per al writing."
+          }
+        ],
+        "nota": "La resposta model té 145 paraules. Consells: dedica 2-3 minuts a fer un esquema i reserva'n 3 per revisar (concordança subjecte-verb, -s de tercera persona, temps verbals, ortografia). Compta les paraules aproximadament (unes 10 per línia). No escriguis un text memoritzat que no respongui exactament la consigna: es penalitza a *Maturity*. La resposta model és de redacció pròpia (les pautes oficials no en donen)."
+      }
+    }
+  ]
+}

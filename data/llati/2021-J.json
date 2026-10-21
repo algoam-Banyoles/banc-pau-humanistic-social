@@ -1,0 +1,937 @@
+{
+  "examen": {
+    "id": "llati-2021-J",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2021,
+    "convocatoria": "juny",
+    "serie": "2",
+    "pdf_examen": "pdfs/llati/2021-J-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2021-J-solucio.pdf",
+    "estructura": "Sèrie 2, convocatòria ordinària (juny). Quatre exercicis (10 punts): 1. Traducció d'un text de Titus Livi (4 punts, obligatori); 2. Morfosintaxi sobre el mateix text (1 punt): cal triar l'opció A o la B, cadascuna amb dues qüestions (2.1 i 2.2); 3. Llengua, literatura o civilització romanes (2 punts; 0,5 per encert, −0,16 per error, les no contestades no descompten): cal triar l'opció A (4 frases per completar amb un llatinisme, opció múltiple) o la B (4 afirmacions de vertader/fals sobre Plaute i *Els bessons*); 4. Exposició d'un tema de literatura o civilització (3 punts, mínim 15 línies, unes 150 paraules): cal triar l'opció A (Dèdal i Ícar, *Metamorfosis* d'Ovidi) o la B (la Barcelona romana, amb un plànol)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2021-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 4,
+      "titol": "Traducció de Titus Livi: Numa refunda Roma amb lleis i fa construir el Janus",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "titus livi",
+        "ab urbe condita",
+        "numa pompili",
+        "ablatiu absolut",
+        "participi concertat",
+        "oració d'infinitiu",
+        "predicatiu"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**El rei Numa institueix l'ordenament jurídic de Roma i edifica el temple de Janus, senyal de pau o de guerra a la ciutat**\n\nAuspiciis missis, declaratus rex, **Numa** de templo descendit. Vrbem nouam, conditam **ui** et armis, eam iure legibusque ac moribus **de integro** condere **parat**. **Ianum** **ad infimum Argiletum** indicem pacis bellique fecit: apertus, in armis esse ciuitatem, clausus, **pacatam** significabat.\n\nTitus Livi, *Història de Roma*, I, 18, 10; 19, 1-2\n\n**Lèxic subratllat** (per ordre alfabètic; al text, en negreta):\n\n- *Argiletum, -i* (n.): Argilet (avinguda al nord del Fòrum) | *ad infimum Argiletum*: a la part baixa de l'Argilet.\n- *de integro* (loc. adv.): una altra vegada, de nou.\n- *Ianus, -i* (m.): el Janus (temple dedicat al déu Janus).\n- *Numa, -ae* (m.): Numa (Numa Pompili, segon rei de Roma).\n- *pacatus, -a, -um*: en pau, tranquil.\n- *paro* (1a, tr.): disposar-se a, pretendre.\n- *uis, uis* (f.): força, violència.",
+      "enunciat": "Feu la versió del text següent (4 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de Titus Livi (*Ab urbe condita*, llibre I) de tres oracions. Val **4 punts**, gairebé la meitat de l'examen: dedica-hi uns 35-40 minuts.\n\nMètode: (1) llegeix el títol, que resumeix el contingut (Numa, segon rei, dona lleis a Roma i construeix el temple de Janus); (2) localitza els **verbs conjugats**: *descendit*, *parat*, *fecit*, *significabat*; (3) identifica els **participis** (*missis*, *declaratus*, *conditam*, *apertus*, *clausus*) i decideix si són ablatius absoluts o participis concertats; (4) fes una traducció literal i després poleix-la.\n\nParanys: *Auspiciis missis* és un **ablatiu absolut**; *rex* és **predicatiu** de *declaratus* (no subjecte); a la segona oració, *Vrbem nouam* s'anticipa i el pronom *eam* la reprèn (**prolepsi**): totes dues són el CD de *condere*; *condere* és un infinitiu CD de *parat*; *indicem* és **predicatiu del CD** *Ianum* («va fer el Janus [com a] indicador»); a l'última oració hi ha dues **oracions d'infinitiu**, la segona amb el·lipsi (*[ciuitatem esse] pacatam*), i *apertus*/*clausus* concorden amb el subjecte implícit de *significabat* (el Janus)."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Auspiciis missis, declaratus rex, Numa de templo descendit.*\n\n- Verb principal: *descendit*, 3a sg. perfet d'indicatiu actiu de *descendo* («baixà, va baixar»).\n- Subjecte: *Numa* (nominatiu sg. de *Numa, -ae*, masculí de la 1a declinació).\n- *Auspiciis missis*: **ablatiu absolut** (substantiu *auspiciis*, ablatiu neutre pl. de *auspicium*, + participi perfet passiu *missis*, de *mitto*): «emesos / observats els auspicis».\n- *declaratus*: participi perfet passiu de *declaro*, nominatiu masculí sg., **concertat** amb *Numa*; *rex* (nominatiu) n'és el **predicatiu**: «declarat rei».\n- *de templo*: *de* + ablatiu, CC de lloc d'on («del temple»; aquí, el recinte augural on s'havien pres els auspicis)."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Vrbem nouam, conditam ui et armis, eam iure legibusque ac moribus de integro condere parat.*\n\n- Verb principal: *parat*, 3a sg. present d'indicatiu de *paro* («es disposa a, pretén»); subjecte implícit: Numa.\n- *condere*: infinitiu present de *condo*, **CD** de *parat* («fundar»).\n- CD de *condere*: *eam* (acusatiu f. sg. del pronom *is, ea, id*), que reprèn el sintagma avançat *Vrbem nouam* (acusatiu f. sg. + adjectiu concordat): és una **prolepsi** («la nova ciutat ... (la) pretén fundar»).\n- *conditam*: participi perfet passiu de *condo*, acusatiu f. sg., **concertat** amb *Vrbem*; *ui et armis*: ablatius d'instrument («per la força i les armes»).\n- *iure legibusque ac moribus*: tres ablatius d'**instrument / manera** coordinats per *-que* i *ac* (*ius, iuris*; *lex, legis*; *mos, moris*): «amb el dret, les lleis i els costums».\n- *de integro*: locució adverbial, CC de manera / temps: «de nou»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Ianum ad infimum Argiletum indicem pacis bellique fecit: apertus, in armis esse ciuitatem, clausus, pacatam significabat.*\n\n- Primer membre: verb *fecit* (3a sg. perfet d'indicatiu de *facio*); subjecte implícit, Numa; CD *Ianum* (acusatiu m. sg.); *indicem* (acusatiu sg. de *index, -icis*) és **predicatiu del CD** («va fer el Janus [com a] indicador»), amb els genitius *pacis bellique* com a CN («de pau i de guerra»); *ad infimum Argiletum*: CC de lloc («a la part baixa de l'Argilet»).\n- Segon membre (després dels dos punts): verb *significabat* (3a sg. imperfet d'indicatiu de *significo*: «indicava, significava»); subjecte implícit: el Janus. *apertus* i *clausus* són participis perfets passius (de *aperio* i *claudo*) en nominatiu m. sg. **concertats** amb aquest subjecte, amb valor temporal-condicional («(quan estava) obert», «(quan estava) tancat»).\n- *in armis esse ciuitatem*: **oració d'infinitiu** (completiva) que fa de **CD** de *significabat*; subjecte de *esse*, *ciuitatem* (acusatiu); *in armis*: CC de manera / atribut («en armes»).\n- *pacatam*: acusatiu f. sg. de *pacatus*, **atribut** d'una segona oració d'infinitiu amb el·lipsi (*[ciuitatem esse] pacatam*): «que (la ciutat estava) en pau»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Emesos els auspicis, declarat rei, Numa del temple baixà. La ciutat nova, fundada per la força i les armes, la amb el dret, les lleis i els costums de nou fundar es disposa. El Janus a la part baixa de l'Argilet indicador de pau i de guerra va fer: obert, que en armes estava la ciutat, tancat, (que estava) en pau, indicava."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Un cop presos els auspicis, Numa, proclamat rei, va baixar del temple. Aquella ciutat nova, fundada per la força i les armes, es disposa a fundar-la de nou amb el dret, les lleis i els costums. Va fer del Janus, a la part baixa de l'Argilet, l'indicador de la pau i de la guerra: obert, indicava que la ciutat estava en armes; tancat, que estava en pau.\n\nTraducció orientativa oficial: «Emesos els auspicis, Numa, declarat rei, baixà del temple. La nova ciutat, fundada per la força i les armes, pretén fundar-la de nou amb el dret i les lleis i amb usatges. Bastí el Janus a la part baixa de l'Argilet com un indicador de pau o de guerra: obert significava que la població estava en armes, tancat, que estava en pau.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Emesos els auspicis, Numa, declarat rei, baixà del temple. La nova ciutat, fundada per la força i les armes, pretén fundar-la de nou amb el dret i les lleis i amb usatges. Bastí el Janus a la part baixa de l'Argilet com un indicador de pau o de guerra: obert significava que la població estava en armes, tancat, que estava en pau.»"
+          }
+        ],
+        "nota": "Errors típics: traduir *rex* com a subjecte («el rei Numa») en lloc de predicatiu de *declaratus* (s'accepta si el sentit és clar, però és més precís «declarat rei»); traduir *Vrbem* i *eam* com si fossin dos objectes diferents; no veure que *condere* depèn de *parat*; fer de *Ianum* «el déu Janus» (aquí és el temple, com diu el lèxic); deixar sense traduir l'el·lipsi de *pacatam* o atribuir *apertus* i *clausus* a la ciutat (concorden en masculí amb el Janus). La versió oficial és orientativa: s'accepten altres traduccions correctes. Es valora la comprensió global, l'anàlisi morfosintàctica i la correcció del català."
+      }
+    },
+    {
+      "id": "llati-2021-J-e2-q1-a",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: l'ablatiu absolut auspiciis missis",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi perfet",
+        "subjecte",
+        "titus livi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**El rei Numa institueix l'ordenament jurídic de Roma i edifica el temple de Janus, senyal de pau o de guerra a la ciutat**\n\nAuspiciis missis, declaratus rex, **Numa** de templo descendit. Vrbem nouam, conditam **ui** et armis, eam iure legibusque ac moribus **de integro** condere **parat**. **Ianum** **ad infimum Argiletum** indicem pacis bellique fecit: apertus, in armis esse ciuitatem, clausus, **pacatam** significabat.\n\nTitus Livi, *Història de Roma*, I, 18, 10; 19, 1-2\n\n**Lèxic subratllat** (per ordre alfabètic; al text, en negreta):\n\n- *Argiletum, -i* (n.): Argilet (avinguda al nord del Fòrum) | *ad infimum Argiletum*: a la part baixa de l'Argilet.\n- *de integro* (loc. adv.): una altra vegada, de nou.\n- *Ianus, -i* (m.): el Janus (temple dedicat al déu Janus).\n- *Numa, -ae* (m.): Numa (Numa Pompili, segon rei de Roma).\n- *pacatus, -a, -um*: en pau, tranquil.\n- *paro* (1a, tr.): disposar-se a, pretendre.\n- *uis, uis* (f.): força, violència.",
+      "enunciat": "Exercici 2 (morfosintaxi, 1 punt), opció A (cal triar l'opció A o la B de l'exercici 2; cada qüestió val 0,5 punts). Responeu sobre el text de l'exercici 1.\n\n2.1. Digueu com s'anomena la construcció formada per *auspiciis missis*; expliqueu els elements que la constitueixen i la relació sintàctica existent entre ells.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), de 0,5 punts cadascuna (repartiment suposat; els criteris no el detallen). Preguntes curtes (uns 5 minuts cadascuna): respon amb frases completes, citant les formes llatines i dient-ne el cas, la categoria i la funció. Si la pregunta té diverses parts («digueu... expliqueu... indiqueu»), respon-les totes per separat."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Hi ha un substantiu i un participi, tots dos en **ablatiu**, que no depenen de cap altre mot de l'oració i formen una unitat a part (separada per coma): és un **ablatiu absolut**. Dins la construcció, el participi funciona com el verb (predicat) i el substantiu com el seu subjecte. Cal dir les tres coses: nom, elements (amb cas i categoria) i relació."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Auspiciis missis* és un **ablatiu absolut**. Està format pel substantiu *auspiciis* (ablatiu neutre plural de *auspicium, -ii*) i pel participi perfet passiu *missis* (de *mitto*), també en ablatiu plural i concordat amb el substantiu. Dins la construcció, el participi *missis* fa de **predicat verbal** i el substantiu *auspiciis* n'és el **subjecte**. Equival a una subordinada adverbial temporal: «un cop emesos/presos els auspicis»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "És un ablatiu absolut."
+          },
+          {
+            "apartat": null,
+            "valor": "Elements: el substantiu *auspiciis* (ablatiu) i el participi *missis* (ablatiu)."
+          },
+          {
+            "apartat": null,
+            "valor": "Relació: *missis* és el predicat verbal de la construcció i *auspiciis* n'és el subjecte."
+          }
+        ],
+        "nota": "Error típic: dir només «ablatiu absolut» sense explicar els elements ni la relació (es perd part de la puntuació), o dir que *auspiciis* és CD de *missis*: en un participi passiu, el substantiu n'és el subjecte."
+      }
+    },
+    {
+      "id": "llati-2021-J-e2-q2-a",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: funció de l'infinitiu condere i subjecte de parat",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "infinitiu",
+        "complement directe",
+        "subjecte el·lític",
+        "paro + infinitiu",
+        "titus livi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**El rei Numa institueix l'ordenament jurídic de Roma i edifica el temple de Janus, senyal de pau o de guerra a la ciutat**\n\nAuspiciis missis, declaratus rex, **Numa** de templo descendit. Vrbem nouam, conditam **ui** et armis, eam iure legibusque ac moribus **de integro** condere **parat**. **Ianum** **ad infimum Argiletum** indicem pacis bellique fecit: apertus, in armis esse ciuitatem, clausus, **pacatam** significabat.\n\nTitus Livi, *Història de Roma*, I, 18, 10; 19, 1-2\n\n**Lèxic subratllat** (per ordre alfabètic; al text, en negreta):\n\n- *Argiletum, -i* (n.): Argilet (avinguda al nord del Fòrum) | *ad infimum Argiletum*: a la part baixa de l'Argilet.\n- *de integro* (loc. adv.): una altra vegada, de nou.\n- *Ianus, -i* (m.): el Janus (temple dedicat al déu Janus).\n- *Numa, -ae* (m.): Numa (Numa Pompili, segon rei de Roma).\n- *pacatus, -a, -um*: en pau, tranquil.\n- *paro* (1a, tr.): disposar-se a, pretendre.\n- *uis, uis* (f.): força, violència.",
+      "enunciat": "Exercici 2 (morfosintaxi, 1 punt), opció A (cal triar l'opció A o la B de l'exercici 2; cada qüestió val 0,5 punts). Responeu sobre el text de l'exercici 1.\n\n2.2. Digueu quina funció sintàctica fa *condere* respecte a *parat* i quin és el subjecte de *parat*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), de 0,5 punts cadascuna (repartiment suposat; els criteris no el detallen). Preguntes curtes (uns 5 minuts cadascuna): respon amb frases completes, citant les formes llatines i dient-ne el cas, la categoria i la funció. Si la pregunta té diverses parts («digueu... expliqueu... indiqueu»), respon-les totes per separat."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*paro* («disposar-se a, pretendre», segons el lèxic) és un verb transitiu que es completa amb un infinitiu: allò que es disposa a fer és el seu **complement directe**. El subjecte no és explícit en aquesta oració: cal buscar-lo a l'anterior (*Numa ... descendit*), és el mateix personatge."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'infinitiu *condere* (infinitiu present actiu de *condo*) fa de **complement directe** del predicat verbal *parat* («es disposa **a fundar**»). El subjecte de *parat* (3a sg. present d'indicatiu de *paro*) és **Numa**, sobreentès (el·líptic), que és el subjecte expressat a l'oració anterior."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*condere* fa de complement directe de *parat*."
+          },
+          {
+            "apartat": null,
+            "valor": "El subjecte de *parat* és *Numa*, sobreentès."
+          }
+        ],
+        "nota": "Error típic: dir que el subjecte de *parat* és *Vrbem nouam* o *eam*: són acusatius i fan de CD de *condere*. També s'accepta descriure *condere* com a infinitiu complement (objecte) de *paro*."
+      }
+    },
+    {
+      "id": "llati-2021-J-e2-q1-b",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: concordança de declaratus amb Numa i funció de Numa",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "participi concertat",
+        "concordança",
+        "subjecte",
+        "titus livi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**El rei Numa institueix l'ordenament jurídic de Roma i edifica el temple de Janus, senyal de pau o de guerra a la ciutat**\n\nAuspiciis missis, declaratus rex, **Numa** de templo descendit. Vrbem nouam, conditam **ui** et armis, eam iure legibusque ac moribus **de integro** condere **parat**. **Ianum** **ad infimum Argiletum** indicem pacis bellique fecit: apertus, in armis esse ciuitatem, clausus, **pacatam** significabat.\n\nTitus Livi, *Història de Roma*, I, 18, 10; 19, 1-2\n\n**Lèxic subratllat** (per ordre alfabètic; al text, en negreta):\n\n- *Argiletum, -i* (n.): Argilet (avinguda al nord del Fòrum) | *ad infimum Argiletum*: a la part baixa de l'Argilet.\n- *de integro* (loc. adv.): una altra vegada, de nou.\n- *Ianus, -i* (m.): el Janus (temple dedicat al déu Janus).\n- *Numa, -ae* (m.): Numa (Numa Pompili, segon rei de Roma).\n- *pacatus, -a, -um*: en pau, tranquil.\n- *paro* (1a, tr.): disposar-se a, pretendre.\n- *uis, uis* (f.): força, violència.",
+      "enunciat": "Exercici 2 (morfosintaxi, 1 punt), opció B (cal triar l'opció A o la B de l'exercici 2; cada qüestió val 0,5 punts). Responeu sobre el text de l'exercici 1.\n\n2.1. Digueu com concorda morfològicament *declaratus* amb el substantiu *Numa* i quina funció sintàctica fa *Numa* en l'enunciat *Numa de templo descendit*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), de 0,5 punts cadascuna (repartiment suposat; els criteris no el detallen). Preguntes curtes (uns 5 minuts cadascuna): respon amb frases completes, citant les formes llatines i dient-ne el cas, la categoria i la funció. Si la pregunta té diverses parts («digueu... expliqueu... indiqueu»), respon-les totes per separat."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Numa* és de la 1a declinació (*-a, -ae*) però és **masculí** (nom d'home): per això el participi que hi concorda té la forma masculina *declaratus* (-us). La concordança del participi es fa en **gènere, nombre i cas**. Cal anomenar-lo: **participi concertat**. Després, *Numa* (nominatiu) és el subjecte de *descendit*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Declaratus* (participi perfet passiu de *declaro*) és un **participi concertat** amb *Numa*: hi concorda en **gènere masculí, nombre singular i cas nominatiu**. Encara que *Numa* sigui de la 1a declinació, és un nom masculí, i per això el participi pren la terminació *-us*. En l'enunciat *Numa de templo descendit*, *Numa* fa de **subjecte** del predicat verbal *descendit*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Declaratus* és un participi concertat amb *Numa*: concorda en gènere (masculí), nombre (singular) i cas (nominatiu)."
+          },
+          {
+            "apartat": null,
+            "valor": "*Numa* és el subjecte del predicat verbal *descendit*."
+          }
+        ],
+        "nota": "Error típic: dir que *Numa* és femení perquè és de la 1a declinació; els noms d'home de la 1a (*nauta*, *agricola*, *poeta*, *Numa*) són masculins."
+      }
+    },
+    {
+      "id": "llati-2021-J-e2-q2-b",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: l'oració d'infinitiu in armis esse ciuitatem",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "oració d'infinitiu",
+        "completiva",
+        "complement directe",
+        "subjecte en acusatiu",
+        "titus livi"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "**El rei Numa institueix l'ordenament jurídic de Roma i edifica el temple de Janus, senyal de pau o de guerra a la ciutat**\n\nAuspiciis missis, declaratus rex, **Numa** de templo descendit. Vrbem nouam, conditam **ui** et armis, eam iure legibusque ac moribus **de integro** condere **parat**. **Ianum** **ad infimum Argiletum** indicem pacis bellique fecit: apertus, in armis esse ciuitatem, clausus, **pacatam** significabat.\n\nTitus Livi, *Història de Roma*, I, 18, 10; 19, 1-2\n\n**Lèxic subratllat** (per ordre alfabètic; al text, en negreta):\n\n- *Argiletum, -i* (n.): Argilet (avinguda al nord del Fòrum) | *ad infimum Argiletum*: a la part baixa de l'Argilet.\n- *de integro* (loc. adv.): una altra vegada, de nou.\n- *Ianus, -i* (m.): el Janus (temple dedicat al déu Janus).\n- *Numa, -ae* (m.): Numa (Numa Pompili, segon rei de Roma).\n- *pacatus, -a, -um*: en pau, tranquil.\n- *paro* (1a, tr.): disposar-se a, pretendre.\n- *uis, uis* (f.): força, violència.",
+      "enunciat": "Exercici 2 (morfosintaxi, 1 punt), opció B (cal triar l'opció A o la B de l'exercici 2; cada qüestió val 0,5 punts). Responeu sobre el text de l'exercici 1.\n\n2.2. Digueu com s'anomena l'estructura *in armis esse ciuitatem* i quina funció sintàctica fa respecte a *significabat*; indiqueu també el subjecte de *esse*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), de 0,5 punts cadascuna (repartiment suposat; els criteris no el detallen). Preguntes curtes (uns 5 minuts cadascuna): respon amb frases completes, citant les formes llatines i dient-ne el cas, la categoria i la funció. Si la pregunta té diverses parts («digueu... expliqueu... indiqueu»), respon-les totes per separat."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Un infinitiu (*esse*) amb un acusatiu que fa d'agent (*ciuitatem*) i que depèn d'un verb de dir o indicar (*significabat*) és una **oració d'infinitiu**, subordinada substantiva (**completiva**). Com que expressa el contingut del que «indicava», fa de **complement directe**. A les oracions d'infinitiu, el subjecte va en **acusatiu**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*In armis esse ciuitatem* és una **subordinada completiva d'infinitiu** (oració d'infinitiu). Fa la funció de **complement directe** del predicat verbal *significabat* («indicava **que la ciutat estava en armes**»). El subjecte de l'infinitiu *esse* és l'acusatiu ***ciuitatem*** (*ciuitas, -atis*), com és normal a les oracions d'infinitiu."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "És una subordinada completiva d'infinitiu."
+          },
+          {
+            "apartat": null,
+            "valor": "Fa de complement directe de *significabat*."
+          },
+          {
+            "apartat": null,
+            "valor": "El subjecte de *esse* és l'acusatiu *ciuitatem*."
+          }
+        ],
+        "nota": "Error típic: dir que *ciuitatem* és CD perquè va en acusatiu: a l'oració d'infinitiu, l'acusatiu és el subjecte de l'infinitiu. El subjecte de *significabat* és el Janus (sobreentès), amb el qual concorden *apertus* i *clausus*."
+      }
+    },
+    {
+      "id": "llati-2021-J-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme in fraganti: enxampat en flagrant delicte",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "in fraganti",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 3). Encercleu la lletra de l'opció correcta per a cada espai en blanc per tal de completar cadascuna de les frases següents:\n\n3.1. El titular del diari deia literalment: «Predicador enxampat __________, cometent adulteri».",
+      "figures": [],
+      "opcions": {
+        "a": "*in mente*",
+        "b": "*in extenso*",
+        "c": "*in crescendo*",
+        "d": "*in fraganti*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 (2 punts): cal triar l'opció A o la B. Cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten. Respon només si tens un indici raonable. Llegeix la frase sencera i tradueix mentalment cada llatinisme: només un encaixa amb el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*In fraganti* (forma vulgar de *in flagranti [delicto]*, «en el delicte mentre crema») vol dir «en el mateix moment de cometre la falta». Encaixa amb «enxampat ... cometent adulteri». *In mente* = al pensament; *in extenso* = per extens; *in crescendo* = augmentant progressivament."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) *in fraganti*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la pregunta: *in mente* (al pensament), *in extenso* (per extens, sencer), *in crescendo* (cada cop més), *in fraganti* (en flagrant delicte), *in vitro* (en laboratori), *ad Kalendas Graecas* (mai), *non plus ultra* (el màxim), *in articulo mortis* (a punt de morir), *ràtio* (proporció), *conditio sine qua non* (condició indispensable), *addenda* (allò que s'afegeix a un text), *rara avis* (persona o cosa excepcional), *peccata minuta* (faltes lleus), *pacta sunt servanda* (els pactes s'han de complir), *de gustibus non disputandum* (sobre gustos no hi ha res escrit), *primus inter pares* (el primer entre iguals)."
+      }
+    },
+    {
+      "id": "llati-2021-J-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme ad Kalendas Graecas: ajornar-ho per sempre",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "ad kalendas graecas",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 3). Encercleu la lletra de l'opció correcta per a cada espai en blanc per tal de completar cadascuna de les frases següents:\n\n3.2. A l'aspirant a la presidència l'amoïnava que la seva elecció s'ajornés __________.",
+      "figures": [],
+      "opcions": {
+        "a": "*in vitro*",
+        "b": "*ad Kalendas Graecas*",
+        "c": "*non plus ultra*",
+        "d": "*in articulo mortis*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 (2 punts): cal triar l'opció A o la B. Cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten. Respon només si tens un indici raonable. Llegeix la frase sencera i tradueix mentalment cada llatinisme: només un encaixa amb el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Ad Kalendas Graecas* («fins a les calendes gregues») vol dir «mai», perquè les calendes (primer dia del mes) eren pròpies del calendari romà i els grecs no en tenien. Ajornar una cosa *ad Kalendas Graecas* és ajornar-la indefinidament. *In vitro* = en laboratori; *non plus ultra* = el màxim; *in articulo mortis* = a punt de morir."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) *ad Kalendas Graecas*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la pregunta: *in mente* (al pensament), *in extenso* (per extens, sencer), *in crescendo* (cada cop més), *in fraganti* (en flagrant delicte), *in vitro* (en laboratori), *ad Kalendas Graecas* (mai), *non plus ultra* (el màxim), *in articulo mortis* (a punt de morir), *ràtio* (proporció), *conditio sine qua non* (condició indispensable), *addenda* (allò que s'afegeix a un text), *rara avis* (persona o cosa excepcional), *peccata minuta* (faltes lleus), *pacta sunt servanda* (els pactes s'han de complir), *de gustibus non disputandum* (sobre gustos no hi ha res escrit), *primus inter pares* (el primer entre iguals)."
+      }
+    },
+    {
+      "id": "llati-2021-J-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme rara avis: una persona excepcional",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "rara avis",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 3). Encercleu la lletra de l'opció correcta per a cada espai en blanc per tal de completar cadascuna de les frases següents:\n\n3.3. La jove soprano és una __________ en el panorama operístic actual.",
+      "figures": [],
+      "opcions": {
+        "a": "*ràtio*",
+        "b": "*conditio sine qua non*",
+        "c": "*addenda*",
+        "d": "*rara avis*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 (2 punts): cal triar l'opció A o la B. Cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten. Respon només si tens un indici raonable. Llegeix la frase sencera i tradueix mentalment cada llatinisme: només un encaixa amb el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Rara avis* («ocell rar», de Juvenal) designa una persona o cosa excepcional, fora del comú. L'article femení «una» i el context (destacar en el panorama operístic) ho confirmen. *Ràtio* = proporció o relació; *conditio sine qua non* = condició indispensable; *addenda* = coses que s'han d'afegir a un escrit."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) *rara avis*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la pregunta: *in mente* (al pensament), *in extenso* (per extens, sencer), *in crescendo* (cada cop més), *in fraganti* (en flagrant delicte), *in vitro* (en laboratori), *ad Kalendas Graecas* (mai), *non plus ultra* (el màxim), *in articulo mortis* (a punt de morir), *ràtio* (proporció), *conditio sine qua non* (condició indispensable), *addenda* (allò que s'afegeix a un text), *rara avis* (persona o cosa excepcional), *peccata minuta* (faltes lleus), *pacta sunt servanda* (els pactes s'han de complir), *de gustibus non disputandum* (sobre gustos no hi ha res escrit), *primus inter pares* (el primer entre iguals)."
+      }
+    },
+    {
+      "id": "llati-2021-J-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme pacta sunt servanda: els pactes s'han de complir",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "pacta sunt servanda",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 3). Encercleu la lletra de l'opció correcta per a cada espai en blanc per tal de completar cadascuna de les frases següents:\n\n3.4. Van exigir el compliment dels acords presos apel·lant al principi __________.",
+      "figures": [],
+      "opcions": {
+        "a": "*peccata minuta*",
+        "b": "*pacta sunt servanda*",
+        "c": "*de gustibus non disputandum*",
+        "d": "*primus inter pares*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 (2 punts): cal triar l'opció A o la B. Cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten. Respon només si tens un indici raonable. Llegeix la frase sencera i tradueix mentalment cada llatinisme: només un encaixa amb el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Pacta sunt servanda* («els pactes han de ser complerts», amb la perifràstica passiva *servanda sunt*) és un principi bàsic del dret: els acords obliguen les parts. Lliga amb «exigir el compliment dels acords». *Peccata minuta* = faltes lleus; *de gustibus non disputandum* = dels gustos no se n'ha de discutir; *primus inter pares* = el primer entre iguals."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) *pacta sunt servanda*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la pregunta: *in mente* (al pensament), *in extenso* (per extens, sencer), *in crescendo* (cada cop més), *in fraganti* (en flagrant delicte), *in vitro* (en laboratori), *ad Kalendas Graecas* (mai), *non plus ultra* (el màxim), *in articulo mortis* (a punt de morir), *ràtio* (proporció), *conditio sine qua non* (condició indispensable), *addenda* (allò que s'afegeix a un text), *rara avis* (persona o cosa excepcional), *peccata minuta* (faltes lleus), *pacta sunt servanda* (els pactes s'han de complir), *de gustibus non disputandum* (sobre gustos no hi ha res escrit), *primus inter pares* (el primer entre iguals)."
+      }
+    },
+    {
+      "id": "llati-2021-J-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "El teatre a Roma a l'època de Plaute",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "plaute",
+        "els bessons",
+        "comèdia llatina",
+        "teatre romà",
+        "pompeu"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 3). Marqueu a la casella corresponent si les afirmacions següents són vertaderes o falses (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\n3.1. A l'època de Plaute, Roma comptava amb un teatre permanent, fet edificar per Pompeu el Gran.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "F",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 (2 punts): cal triar l'opció A o la B. Cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten. Respon només si tens un indici raonable. Una afirmació és vertadera només si **tots** els detalls són certs: revisa cada dada (persona, data, obra) per separat."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Plaute va viure aproximadament entre el 254 i el 184 aC. En aquella època, les comèdies es representaven en **escenaris provisionals de fusta** que es muntaven per als jocs (*ludi*) i es desmuntaven després; el senat s'oposava a construir teatres estables. El primer teatre permanent de pedra de Roma va ser el **de Pompeu**, inaugurat el **55 aC**, més d'un segle després de la mort de Plaute. La segona part (Pompeu va fer edificar un teatre) és certa, però no a l'època de Plaute."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Fals: a l'època de Plaute no hi havia teatres permanents (el de Pompeu és del 55 aC)."
+          }
+        ],
+        "nota": "Preguntes sobre Plaute i la lectura obligatòria *Els bessons* (*Menaechmi*): cal conèixer la vida de Plaute (c. 254-184 aC), la *fabula palliata*, les condicions del teatre a Roma (escenaris provisionals de fusta fins al teatre de Pompeu, 55 aC), les 21 *fabulae Varronianae* i l'argument i els personatges de l'obra (Menecme I i II, Messenió, Erotia, Penicle...)."
+      }
+    },
+    {
+      "id": "llati-2021-J-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Les fabulae Varronianae",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "plaute",
+        "els bessons",
+        "comèdia llatina",
+        "fabulae varronianae",
+        "varró"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 3). Marqueu a la casella corresponent si les afirmacions següents són vertaderes o falses (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\n3.2. Les *fabulae Varronianae* són vint-i-una comèdies escrites per Plaute imitant l'obra de l'erudit romà Varró.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "F",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 (2 punts): cal triar l'opció A o la B. Cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten. Respon només si tens un indici raonable. Una afirmació és vertadera només si **tots** els detalls són certs: revisa cada dada (persona, data, obra) per separat."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Sota el nom de Plaute circulaven unes 130 comèdies. L'erudit **Marc Terenci Varró** (116-27 aC), que va viure molt després de Plaute, en va fer un estudi crític i en va considerar autèntiques **vint-i-una**: són les ***fabulae Varronianae***, que són precisament les que ens han arribat. El nombre (21) és correcte, però Plaute no imitava Varró: el seu model eren els autors de la Comèdia Nova grega (Menandre, Dífil, Filemó), i el nom de Varró es deu a la seva tasca de selecció."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Fals: són les 21 comèdies que Varró va considerar autènticament plautines; Plaute no imitava Varró (que és posterior)."
+          }
+        ],
+        "nota": "Preguntes sobre Plaute i la lectura obligatòria *Els bessons* (*Menaechmi*): cal conèixer la vida de Plaute (c. 254-184 aC), la *fabula palliata*, les condicions del teatre a Roma (escenaris provisionals de fusta fins al teatre de Pompeu, 55 aC), les 21 *fabulae Varronianae* i l'argument i els personatges de l'obra (Menecme I i II, Messenió, Erotia, Penicle...)."
+      }
+    },
+    {
+      "id": "llati-2021-J-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "El final d'Els bessons: Messenió és alliberat",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "plaute",
+        "els bessons",
+        "comèdia llatina",
+        "menaechmi",
+        "messenió",
+        "esclaus"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 3). Marqueu a la casella corresponent si les afirmacions següents són vertaderes o falses (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\n3.3. Al final d'*Els bessons* l'esclau de Menecme II, Messenió, és afranquit.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "V",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 (2 punts): cal triar l'opció A o la B. Cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten. Respon només si tens un indici raonable. Una afirmació és vertadera només si **tots** els detalls són certs: revisa cada dada (persona, data, obra) per separat."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Messenió és l'esclau de **Menecme II** (Sòsicles), el germà que arriba a Epidamne buscant el seu bessó. Al desenllaç, és ell qui s'adona de la semblança dels dos germans i provoca el reconeixement (*anagnorisis*); com a recompensa, Menecme II l'**allibera** (és afranquit) i Messenió s'ofereix a fer de pregoner de la subhasta dels béns de Menecme I, que vol tornar a Siracusa amb el seu germà."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Vertader: com a premi per haver fet possible el reconeixement dels bessons, Messenió obté la llibertat."
+          }
+        ],
+        "nota": "Preguntes sobre Plaute i la lectura obligatòria *Els bessons* (*Menaechmi*): cal conèixer la vida de Plaute (c. 254-184 aC), la *fabula palliata*, les condicions del teatre a Roma (escenaris provisionals de fusta fins al teatre de Pompeu, 55 aC), les 21 *fabulae Varronianae* i l'argument i els personatges de l'obra (Menecme I i II, Messenió, Erotia, Penicle...)."
+      }
+    },
+    {
+      "id": "llati-2021-J-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Els bessons, una fabula palliata",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "plaute",
+        "els bessons",
+        "comèdia llatina",
+        "fabula palliata",
+        "comèdia nova",
+        "gèneres teatrals"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 3). Marqueu a la casella corresponent si les afirmacions següents són vertaderes o falses (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\n3.4. *Els bessons* de Plaute és una comèdia corresponent al subgènere de la *fabula palliata*.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "V",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 (2 punts): cal triar l'opció A o la B. Cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten. Respon només si tens un indici raonable. Una afirmació és vertadera només si **tots** els detalls són certs: revisa cada dada (persona, data, obra) per separat."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "La ***fabula palliata*** és la comèdia llatina d'ambientació grega: adapta obres de la Comèdia Nova grega i els personatges porten el *pallium* (mantell grec). Totes les comèdies conservades de Plaute (i de Terenci) són *palliatae*. *Els bessons* passa a Epidamne, una ciutat grega, i els personatges són grecs. S'oposa a la *fabula togata*, d'ambientació romana."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Vertader: *Els bessons* és una *palliata*, comèdia d'ambient i personatges grecs."
+          }
+        ],
+        "nota": "Preguntes sobre Plaute i la lectura obligatòria *Els bessons* (*Menaechmi*): cal conèixer la vida de Plaute (c. 254-184 aC), la *fabula palliata*, les condicions del teatre a Roma (escenaris provisionals de fusta fins al teatre de Pompeu, 55 aC), les 21 *fabulae Varronianae* i l'argument i els personatges de l'obra (Menecme I i II, Messenió, Erotia, Penicle...)."
+      }
+    },
+    {
+      "id": "llati-2021-J-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Metamorfosis d'Ovidi: Dèdal i Ícar",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "dèdal i ícar",
+        "messal·la corví",
+        "exili a tomis",
+        "ars amatoria",
+        "lectures obligatòries"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "Un home que tractava de capturar peixos amb una canya tremolosa, un pastor que es recolzava en el bastó i un llaurador en l'esteva els van veure i van quedar estupefactes; van creure que eren déus aquells homes capaços de travessar els aires.\n\n(Traducció de F. Aguilera)",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 4). Llegiu el passatge de sota d'una de les lectures obligatòries i elaboreu un text expositiu de quinze línies com a mínim (unes cent cinquanta paraules) explicant:\n\n- A quina obra i a quin episodi concret d'aquesta obra pertany el passatge.\n- Qui n'és l'autor, en quin entorn literari va desenvolupar la seva producció i quin càstig se li va imposar per causa d'un dels seus poemes.\n- Com es diuen els protagonistes de l'episodi en qüestió i quina relació de parentiu hi ha entre ells.\n- Els antecedents de la situació narrada al passatge i el destí final dels dos protagonistes.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **3 punts** (uns 25-30 minuts). És un **text expositiu** continu, no una llista de respostes: mínim 15 línies (~150 paraules), però convé arribar a 250-300 paraules per cobrir tots els punts. Segueix l'ordre de la consigna, un paràgraf per bloc, i no t'oblidis de cap dels guions: cada un és un punt clau que puntua. La pista del passatge: uns homes que «travessen els aires» i són presos per déus → Dèdal i Ícar volant amb ales."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Obra i episodi**: homes que volen → **Dèdal i Ícar**, llibre VIII de les *Metamorfosis* d'**Ovidi**.\n2. **Autor, entorn i càstig**: Publi Ovidi Nasó, final de l'època d'August, generació posterior a Virgili i Horaci; cercle de **Messal·la Corví**, suport de Tibul; **exili a Tomis** (mar Negra) per l'*Ars amatoria* i un «error».\n3. **Protagonistes**: Dèdal (pare, enginyer) i Ícar (fill).\n4. **Antecedents**: Minos els reté a Creta (al laberint) per haver ajudat Teseu; Dèdal fabrica ales de plomes i cera i adverteix el fill.\n5. **Destí**: Ícar s'acosta al sol, la cera es fon, cau al mar i mor (enterrat a Icària); Dèdal arriba a Sicília (terra de l'Etna)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El passatge pertany a l'episodi de **Dèdal i Ícar**, del llibre VIII de les ***Metamorfosis***, el gran recull de mites i llegendes grecs i romans, units pel tema de la transformació, que el poeta llatí **Publi Ovidi Nasó** va compondre en hexàmetres dactílics.\n\nOvidi (43 aC - 17 dC) va desenvolupar la seva obra en els cercles literaris del final de l'època d'August. Pertanyia a una generació més jove que la de Virgili i Horaci i va formar part del cercle de **Valeri Messal·la Corví**, on va rebre el suport del poeta Tibul. A diferència de Virgili i Horaci, la seva poesia no estava al servei del programa de regeneració moral d'August. L'any 8 dC, l'emperador el va **desterrar a Tomis**, a la vora de la mar Negra, per dues causes: un poema, l'***Ars amatoria***, considerat immoral, i un «error» misteriós, probablement haver vist alguna cosa que no havia de veure.\n\nEls protagonistes són l'enginyer **Dèdal** i el seu **fill Ícar**. Dèdal havia construït el laberint de Creta per tancar-hi el Minotaure, però quan Minos va saber que ell havia fet possible la victòria de Teseu, el va tancar amb el seu fill. Com que el rei dominava la terra i el mar, Dèdal va fabricar unes **ales de plomes i cera** per fugir volant. Abans d'enlairar-se, va advertir Ícar que no volés ni massa baix ni massa alt. El passatge descriu el moment en què un pescador, un pastor i un llaurador els veuen passar i els prenen per déus.\n\nPerò Ícar, entusiasmat, es va acostar massa al sol: la cera es va fondre, les ales es van desfer i el noi va caure al mar i morir ofegat. El seu pare el va enterrar a l'illa que d'ell pren el nom, **Icària**, prop de Samos, i Dèdal va arribar sa i estalvi a Sicília, la terra de l'Etna."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Obra i episodi: «Dèdal i Ícar», de les *Metamorfosis*, recull de mites i llegendes gregues i romanes en hexàmetres de Publi Ovidi Nasó."
+          },
+          {
+            "apartat": null,
+            "valor": "Entorn: cercles literaris del final de l'època d'August; generació més jove que Virgili i Horaci; cercle de Valeri Messal·la Corví i suport de Tibul; poesia no al servei del projecte d'August."
+          },
+          {
+            "apartat": null,
+            "valor": "Càstig: August el va desterrar a Tomis (mar Negra); causes: la manca de decòrum de l'*Ars amatoria* i un «error» (haver vist alguna cosa que no havia de veure)."
+          },
+          {
+            "apartat": null,
+            "valor": "Protagonistes: l'enginyer Dèdal i el seu fill Ícar (pare i fill)."
+          },
+          {
+            "apartat": null,
+            "valor": "Antecedents: Minos, rei de Creta, tanca Dèdal i Ícar al laberint (dissenyat per Dèdal) per haver ajudat Teseu contra el Minotaure; Dèdal construeix ales de plomes i cera."
+          },
+          {
+            "apartat": null,
+            "valor": "Destí: Ícar vola massa amunt, la cera es fon, cau al mar i mor ofegat; és enterrat a l'illa d'Icària (prop de Samos); Dèdal arriba sa i estalvi a la terra de l'Etna (Sicília)."
+          }
+        ],
+        "nota": "Errors típics: confondre l'episodi amb un altre vol (Faetó també cau del cel, però conduint el carro del Sol); situar Ovidi al cercle de Mecenas (era el de Messal·la); oblidar el càstig (exili a Tomis) o dir que va ser condemnat a mort. El model oficial és orientatiu i no s'ha de reproduir literalment. La resposta model fa unes 309 paraules (el mínim és ~150). Escriu un text cohesionat, no un esquema."
+      }
+    },
+    {
+      "id": "llati-2021-J-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 3,
+      "titol": "Història de la ciutat romana de Barcelona (Barcino)",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "barcino",
+        "laietans",
+        "august",
+        "urbanisme romà",
+        "fòrum",
+        "muralla",
+        "temple d'august",
+        "romanització"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 4). La imatge mostra el plànol de la ciutat romana de Barcelona. Desenvolupeu en quinze línies com a mínim (unes cent cinquanta paraules) el tema: *Història de la ciutat romana de Barcelona*. Cal que especifiqueu la informació següent:\n\n- El nom complet en llatí.\n- El poble que habitava la zona en època preromana.\n- La cronologia de la fundació i el nom del fundador.\n- L'emplaçament, l'estructura de la ciutat i els espais i edificis més importants dins i fora de les muralles.\n- La modificació urbana de finals del segle III o principis del segle IV i què la va motivar.\n- Les restes romanes que s'hi han conservat.",
+      "figures": [
+        {
+          "src": "img/llati/2021-J/e4-b.png",
+          "peu": "Plànol de la Barcelona romana: perímetre de la muralla amb les torres sobre el traçat dels carrers actuals (plaça Nova, carrer del Bisbe, plaça de Sant Jaume, carrer de Ferran, carrer de Jaume I, plaça de l'Àngel, carrer d'Avinyó, carrer de la Ciutat)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **3 punts** (uns 25-30 minuts). És un **text expositiu** continu, no una llista de respostes: mínim 15 línies (~150 paraules), però convé arribar a 250-300 paraules per cobrir tots els punts. Segueix l'ordre de la consigna, un paràgraf per bloc, i no t'oblidis de cap dels guions: cada un és un punt clau que puntua. El plànol ajuda a situar els carrers (plaça Nova, Bisbe, Sant Jaume, l'Àngel): fes-los servir per descriure l'estructura."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Nom**: *Colonia Iulia Augusta Faventia Paterna Barcino*.\n2. **Poble preromà**: els laietans (ibers).\n3. **Fundació**: cap al 14 aC, per August, després de les guerres càntabres.\n4. **Emplaçament i estructura**: mont Tàber, entre el Besòs i el Llobregat; rectangle escapçat; *cardo* i *decumanus*; fòrum a la plaça de Sant Jaume amb el temple d'August; termes, *domus*; fora muralles, necròpolis i aqüeducte.\n5. **Modificació**: segona muralla amb moltes torres (finals s. III - inicis s. IV dC) per les invasions bàrbares.\n6. **Restes**: muralla i torres, columnes del temple, termes, necròpolis, aqüeducte."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La Barcelona romana es deia ***Colonia Iulia Augusta Faventia Paterna Barcino***. Abans de l'arribada dels romans, la zona estava habitada pels **laietans**, un poble ibèric que vivia en poblats com el del Puig Castellar o el de la muntanya de Montjuïc.\n\nLa colònia va ser fundada **cap a l'any 14 aC** per l'emperador **August**, un cop acabades les guerres càntabres, probablement per assentar-hi colons i veterans. Es va construir sobre un petit turó, el **mont Tàber**, en una plana delimitada pels rius **Besòs i Llobregat**, entre Collserola i el mar.\n\nLa ciutat tenia forma de **rectangle amb les cantonades escapçades** i estava envoltada per una muralla. Seguia el traçat ortogonal romà: el ***decumanus maximus*** anava de la porta de la plaça Nova pels carrers del Bisbe, de la Ciutat i del Regomir, i el ***cardo maximus*** des de la plaça de l'Àngel i el carrer de la Llibreteria fins als carrers del Call i d'Avinyó. Tots dos es creuaven al **fòrum**, a l'actual plaça de Sant Jaume, on hi havia el **temple d'August**, hexàstil. Dins les muralles també hi havia **termes** i *domus*; fora, la **necròpolis** de la plaça de la Vila de Madrid i l'**aqüeducte**, que arribava a la porta de la plaça Nova.\n\nA **finals del segle III o inicis del IV dC**, per les **incursions dels pobles bàrbars**, la ciutat es va protegir amb una **segona muralla**, més gruixuda i reforçada amb moltes torres, que seguia el perímetre de la primera, amb un sortint (*castellum*) prop del mar.\n\nAvui es conserven trams d'aquesta **doble muralla** i de les torres, quatre **columnes corínties del temple d'August** i part del podi, restes de termes, la necròpolis i alguns arcs de l'aqüeducte."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Nom: *Colonia Iulia Augusta Faventia Paterna Barcino*."
+          },
+          {
+            "apartat": null,
+            "valor": "Poble preromà: els laietans (tribu ibèrica)."
+          },
+          {
+            "apartat": null,
+            "valor": "Fundació: cap al 14 aC (època d'August), per l'emperador August, acabades les guerres càntabres."
+          },
+          {
+            "apartat": null,
+            "valor": "Emplaçament: turó del mont Tàber, entre el Besòs i el Llobregat, i entre Collserola i el mar."
+          },
+          {
+            "apartat": null,
+            "valor": "Estructura: rectangle escapçat a les cantonades; *decumanus maximus* (pl. Nova, Bisbe, Ciutat, Regomir) i *cardo maximus* (pl. de l'Àngel, Llibreteria... Call-Avinyó); fòrum a la plaça de Sant Jaume amb el temple hexàstil d'August (4 columnes corínties i part del podi)."
+          },
+          {
+            "apartat": null,
+            "valor": "Altres espais: termes (pl. de Sant Miquel i prop del mar), *domus*, necròpolis (pl. de la Vila de Madrid), aqüeducte que arribava a la Porta Decumana (pl. Nova)."
+          },
+          {
+            "apartat": null,
+            "valor": "Modificació: a finals del s. III o inicis del IV dC, per les incursions bàrbares, es construeix una segona muralla amb moltes torres seguint el perímetre de l'original, amb un *castellum* prop del mar."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes: la doble muralla i torres (les més ben conservades), columnes del temple, termes, necròpolis, arcs de l'aqüeducte."
+          }
+        ],
+        "nota": "Errors típics: atribuir la fundació a Juli Cèsar o a l'època republicana; confondre els laietans amb els indigets (que eren a l'Empordà); oblidar la segona muralla i la seva causa. El model oficial és orientatiu. La resposta model fa unes 282 paraules (el mínim és ~150)."
+      }
+    }
+  ]
+}
