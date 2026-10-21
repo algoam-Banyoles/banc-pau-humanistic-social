@@ -1,0 +1,1826 @@
+{
+  "examen": {
+    "id": "catala-2026-J",
+    "assignatura": "catala",
+    "materia": "Llengua catalana i literatura",
+    "any": 2026,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/catala/2026-J-examen.pdf",
+    "pdf_solucio": "pdfs/catala/2026-J-solucio.pdf",
+    "estructura": "Quatre parts obligatòries (10 punts): 1. Comprensió lectora (2 punts): text sobre els microplàstics i quatre qüestions (vertader/fals, sinònims, referents de pronoms i resum de 50 mots), totes obligatòries. 2. Estudi del fet literari (2 punts): bloc 1 obligatori (quatre preguntes sobre un conte de Pere Calders, 1 punt) i bloc 2, on cal triar DUES de les quatre qüestions (0,5 cadascuna). 3. Reflexió lingüística (3 punts): bloc 1 obligatori (cinc preguntes de test d’anàlisi sintàctica, 1 punt, errors descompten 0,2) i bloc 2, on cal triar QUATRE de les sis qüestions (0,5 cadascuna). 4. Expressió escrita (3 punts): reescriptura d’un fragment passant el present a l’imperfet (1 punt) i redacció formal de 125-150 paraules (2 punts). Es descompten 0,1 punts per cada error de normativa, fins a un màxim de 2 punts. Si als blocs optatius es responen més qüestions de les demanades, només es corregeixen les primeres."
+  },
+  "problemes": [
+    {
+      "id": "catala-2026-J-e1-q1-1",
+      "exercici": 1,
+      "questio": "1.1",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals sobre el text dels microplàstics",
+      "tema": "comprensio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "comprensió lectora",
+        "vertader o fals",
+        "microplàstics",
+        "lectura atenta"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "Els microplàstics són cada cop més presents en el medi ambient i ja es comença a detectar quin impacte poden tenir en la nostra salut. Els microplàstics són trossos de plàstic diminuts, de menys de 5 mil·límetres i de formes irregulars. Procedeixen de la descomposició de productes de plàstic llençats a l’entorn i sovint es fragmenten en trossets encara més petits, que es coneixen com a *nanoplàstics* i que són encara més preocupants per a la salut.\n\nEl plàstic és un producte molt versàtil i químicament estable i per això es fa servir de manera àmplia en molts processos de producció. També, a causa de la seva rendibilitat, és un material gairebé insubstituïble en molts àmbits de la nostra vida quotidiana. El problema és que és un contaminant, ja que no es degrada i és tòxic. A més, pot contenir restes de metalls, hidrocarburs, plaguicides o productes farmacèutics, en funció dels contaminants que hagi pogut absorbir.\n\nLa producció de plàstic supera àmpliament els 300 milions de tones a tot el món cada any. L’única manera de revertir-ho és aconseguir materials no contaminants que el puguin substituir o impulsar-ne la reutilització. En aquests moments, però, les taxes de reciclatge són tan baixes que els plàstics suposen el 54 % de la massa global de residus.\n\nS’han detectat microplàstics —en una àmplia gamma de concentracions— en aigües marines, aigües residuals, aigua dolça, aliments, aire i aigua potable, tant embotellada com de l’aixeta. Per tant, poden entrar en el nostre cos per inhalació o per ingestió, sigui de manera directa o a través del menjar. Per exemple, s’han detectat partícules de plàstics en animals que formen part de la nostra dieta, com ara moltes espècies marines, i també en aliments processats.\n\nTots els experts assenyalen que els plàstics són més perillosos per a la nostra salut com més petits són. Un dels estudis més recents en aquest àmbit, liderat per la Universitat Autònoma de Barcelona i el Centre de Recerca Ecològica i Aplicacions Forestals, conclou que els nanoplàstics afecten la composició, la diversitat i la funcionalitat del microbioma intestinal. Quan es modifica el microbioma intestinal sorgeixen alteracions en els sistemes immunitari, endocrí i nerviós.\n\nEl 90 % dels plàstics que ingerim acabaran excretats, però una part es fragmentarà en nanoplàstics. Són tan petits que són capaços de penetrar en les cèl·lules i causar-**hi** efectes nocius. L’estudi constata que s’han descrit alteracions en l’absorció de nutrients, reaccions inflamatòries en el revestiment intestinal i efectes sobre el metabolisme i la capacitat de produir energia del cos i, finalment, alteracions en les respostes immunitàries.\n\nTambé s’ha constatat que, en humans, les partícules de plàstic es poden allotjar en els pulmons i l’aparell digestiu. I poden arribar als conductes limfàtics i als ganglis i, finalment, a diversos òrgans del cos, com la medul·la òssia, els ronyons, la melsa o el fetge. Els metges es troben amb la dificultat afegida que les lesions que poden produir són semblants a les d’altres tòxics i, per tant, és complicat relacionar-**les** amb els plàstics utilitzant la tecnologia actual.\n\n*Adaptació feta a partir del text d’Atlàntida Assegurances. «Microplàstics: com afecten la salut» [en línia]*",
+      "enunciat": "Després de llegir atentament el text anterior, indiqueu si les afirmacions següents són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "*Nanoplàstic* és sinònim de *microplàstic*.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "El plàstic es degrada amb facilitat.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Els plàstics suposen menys del 50 % de la massa global de residus.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "L’aigua embotellada no té tants microplàstics com l’aigua de l’aixeta.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Els plàstics modifiquen el microbioma intestinal.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada afirmació s’ha de contrastar amb una frase concreta del text: no responguis de memòria ni pel que «sembla lògic». Compte amb la penalització: cada error resta 0,1 punts, però deixar-la en blanc no resta res. Si dubtes molt d’una afirmació, val més no marcar-la. Fixa’t en les paraules trampa: *sinònim*, *amb facilitat*, *menys del 50 %*, *no té tants*. Temps: 3-4 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "El text diu que els microplàstics «sovint es fragmenten en trossets encara més petits, que es coneixen com a *nanoplàstics*». Són, doncs, una cosa diferent (més petita i més perillosa), no un sinònim. **Fals.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "El text afirma el contrari: «El problema és que és un contaminant, ja que no es degrada i és tòxic». **Fals.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Segons el text, «els plàstics suposen el 54 % de la massa global de residus», és a dir, més de la meitat. **Fals.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "El text diu que s’han detectat microplàstics en l’aigua potable, «tant embotellada com de l’aixeta», però no compara les quantitats. Com que l’afirmació no es dedueix del text, és **falsa**."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "L’estudi de la UAB i el CREAF «conclou que els nanoplàstics afecten la composició, la diversitat i la funcionalitat del microbioma intestinal». Els nanoplàstics són plàstics, per tant l’afirmació és **vertadera**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Fals · b) Fals · c) Fals · d) Fals · e) Vertader"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Vertader"
+          }
+        ],
+        "nota": "Error típic a la d): marcar «Vertader» perquè sembla raonable que l’aigua embotellada sigui més neta. En un vertader/fals només compta el que diu el text. Que quatre de les cinc respostes siguin «Fals» no ha de fer-te dubtar: les afirmacions s’avaluen una per una."
+      }
+    },
+    {
+      "id": "catala-2026-J-e1-q1-2",
+      "exercici": 1,
+      "questio": "1.2",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Sinònims de mots del text dels microplàstics",
+      "tema": "lexic",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "sinonímia",
+        "lèxic en context",
+        "categoria gramatical",
+        "concordança"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "Els microplàstics són cada cop més presents en el medi ambient i ja es comença a detectar quin impacte poden tenir en la nostra salut. Els microplàstics són trossos de plàstic diminuts, de menys de 5 mil·límetres i de formes irregulars. Procedeixen de la descomposició de productes de plàstic llençats a l’entorn i sovint es fragmenten en trossets encara més petits, que es coneixen com a *nanoplàstics* i que són encara més preocupants per a la salut.\n\nEl plàstic és un producte molt versàtil i químicament estable i per això es fa servir de manera àmplia en molts processos de producció. També, a causa de la seva rendibilitat, és un material gairebé insubstituïble en molts àmbits de la nostra vida quotidiana. El problema és que és un contaminant, ja que no es degrada i és tòxic. A més, pot contenir restes de metalls, hidrocarburs, plaguicides o productes farmacèutics, en funció dels contaminants que hagi pogut absorbir.\n\nLa producció de plàstic supera àmpliament els 300 milions de tones a tot el món cada any. L’única manera de revertir-ho és aconseguir materials no contaminants que el puguin substituir o impulsar-ne la reutilització. En aquests moments, però, les taxes de reciclatge són tan baixes que els plàstics suposen el 54 % de la massa global de residus.\n\nS’han detectat microplàstics —en una àmplia gamma de concentracions— en aigües marines, aigües residuals, aigua dolça, aliments, aire i aigua potable, tant embotellada com de l’aixeta. Per tant, poden entrar en el nostre cos per inhalació o per ingestió, sigui de manera directa o a través del menjar. Per exemple, s’han detectat partícules de plàstics en animals que formen part de la nostra dieta, com ara moltes espècies marines, i també en aliments processats.\n\nTots els experts assenyalen que els plàstics són més perillosos per a la nostra salut com més petits són. Un dels estudis més recents en aquest àmbit, liderat per la Universitat Autònoma de Barcelona i el Centre de Recerca Ecològica i Aplicacions Forestals, conclou que els nanoplàstics afecten la composició, la diversitat i la funcionalitat del microbioma intestinal. Quan es modifica el microbioma intestinal sorgeixen alteracions en els sistemes immunitari, endocrí i nerviós.\n\nEl 90 % dels plàstics que ingerim acabaran excretats, però una part es fragmentarà en nanoplàstics. Són tan petits que són capaços de penetrar en les cèl·lules i causar-**hi** efectes nocius. L’estudi constata que s’han descrit alteracions en l’absorció de nutrients, reaccions inflamatòries en el revestiment intestinal i efectes sobre el metabolisme i la capacitat de produir energia del cos i, finalment, alteracions en les respostes immunitàries.\n\nTambé s’ha constatat que, en humans, les partícules de plàstic es poden allotjar en els pulmons i l’aparell digestiu. I poden arribar als conductes limfàtics i als ganglis i, finalment, a diversos òrgans del cos, com la medul·la òssia, els ronyons, la melsa o el fetge. Els metges es troben amb la dificultat afegida que les lesions que poden produir són semblants a les d’altres tòxics i, per tant, és complicat relacionar-**les** amb els plàstics utilitzant la tecnologia actual.\n\n*Adaptació feta a partir del text d’Atlàntida Assegurances. «Microplàstics: com afecten la salut» [en línia]*",
+      "enunciat": "Trobeu en el text els cinc mots que poden funcionar com a sinònims dels mots següents. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "*Es trenquen, es fraccionen*",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "*Irreemplaçable*",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "*Expulsats, expel·lits*",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "*Perjudicials*",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "*Trastorns, canvis*",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Es demana copiar del text el mot que hi equival, no inventar-ne un. El sinònim ha de tenir la mateixa categoria i, si pot ser, la mateixa forma (temps verbal, gènere i nombre) que la pista: si et donen «es trenquen», busques un verb pronominal en present de 3a persona del plural. Cada encert val 0,1. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "«Es trenquen, es fraccionen» → verb pronominal, 3a persona del plural: «sovint **es fragmenten** en trossets encara més petits»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "«Irreemplaçable» → adjectiu: el plàstic és «un material gairebé **insubstituïble**»."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "«Expulsats, expel·lits» → participi masculí plural: «El 90 % dels plàstics que ingerim acabaran **excretats**»."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "«Perjudicials» → adjectiu plural: «causar-hi efectes **nocius**»."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "«Trastorns, canvis» → substantiu plural: «sorgeixen **alteracions** en els sistemes immunitari, endocrí i nerviós»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) es fragmenten · b) insubstituïble · c) excretats · d) nocius · e) alteracions"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "es fragmenten"
+          },
+          {
+            "apartat": "b",
+            "valor": "insubstituïble"
+          },
+          {
+            "apartat": "c",
+            "valor": "excretats"
+          },
+          {
+            "apartat": "d",
+            "valor": "nocius"
+          },
+          {
+            "apartat": "e",
+            "valor": "alteracions"
+          }
+        ],
+        "nota": "Copia el mot exactament tal com és al text, amb accents i dièresi (*insubstituïble*): una falta d’ortografia aquí també compta com a error de normativa. Els criteris accepten altres formes si són normatives i tenen el mateix valor semàntic que al text."
+      }
+    },
+    {
+      "id": "catala-2026-J-e1-q1-3",
+      "exercici": 1,
+      "questio": "1.3",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Referent dels pronoms febles «hi» i «les»",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "comprensio"
+      ],
+      "conceptes": [
+        "pronoms febles",
+        "referent",
+        "complement de lloc",
+        "complement directe",
+        "cohesió textual"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "Els microplàstics són cada cop més presents en el medi ambient i ja es comença a detectar quin impacte poden tenir en la nostra salut. Els microplàstics són trossos de plàstic diminuts, de menys de 5 mil·límetres i de formes irregulars. Procedeixen de la descomposició de productes de plàstic llençats a l’entorn i sovint es fragmenten en trossets encara més petits, que es coneixen com a *nanoplàstics* i que són encara més preocupants per a la salut.\n\nEl plàstic és un producte molt versàtil i químicament estable i per això es fa servir de manera àmplia en molts processos de producció. També, a causa de la seva rendibilitat, és un material gairebé insubstituïble en molts àmbits de la nostra vida quotidiana. El problema és que és un contaminant, ja que no es degrada i és tòxic. A més, pot contenir restes de metalls, hidrocarburs, plaguicides o productes farmacèutics, en funció dels contaminants que hagi pogut absorbir.\n\nLa producció de plàstic supera àmpliament els 300 milions de tones a tot el món cada any. L’única manera de revertir-ho és aconseguir materials no contaminants que el puguin substituir o impulsar-ne la reutilització. En aquests moments, però, les taxes de reciclatge són tan baixes que els plàstics suposen el 54 % de la massa global de residus.\n\nS’han detectat microplàstics —en una àmplia gamma de concentracions— en aigües marines, aigües residuals, aigua dolça, aliments, aire i aigua potable, tant embotellada com de l’aixeta. Per tant, poden entrar en el nostre cos per inhalació o per ingestió, sigui de manera directa o a través del menjar. Per exemple, s’han detectat partícules de plàstics en animals que formen part de la nostra dieta, com ara moltes espècies marines, i també en aliments processats.\n\nTots els experts assenyalen que els plàstics són més perillosos per a la nostra salut com més petits són. Un dels estudis més recents en aquest àmbit, liderat per la Universitat Autònoma de Barcelona i el Centre de Recerca Ecològica i Aplicacions Forestals, conclou que els nanoplàstics afecten la composició, la diversitat i la funcionalitat del microbioma intestinal. Quan es modifica el microbioma intestinal sorgeixen alteracions en els sistemes immunitari, endocrí i nerviós.\n\nEl 90 % dels plàstics que ingerim acabaran excretats, però una part es fragmentarà en nanoplàstics. Són tan petits que són capaços de penetrar en les cèl·lules i causar-**hi** efectes nocius. L’estudi constata que s’han descrit alteracions en l’absorció de nutrients, reaccions inflamatòries en el revestiment intestinal i efectes sobre el metabolisme i la capacitat de produir energia del cos i, finalment, alteracions en les respostes immunitàries.\n\nTambé s’ha constatat que, en humans, les partícules de plàstic es poden allotjar en els pulmons i l’aparell digestiu. I poden arribar als conductes limfàtics i als ganglis i, finalment, a diversos òrgans del cos, com la medul·la òssia, els ronyons, la melsa o el fetge. Els metges es troben amb la dificultat afegida que les lesions que poden produir són semblants a les d’altres tòxics i, per tant, és complicat relacionar-**les** amb els plàstics utilitzant la tecnologia actual.\n\n*Adaptació feta a partir del text d’Atlàntida Assegurances. «Microplàstics: com afecten la salut» [en línia]*",
+      "enunciat": "Escriviu el referent dels pronoms següents, marcats en negreta en el text. La resposta ha de contenir tots els elements que formen la construcció substituïda pel pronom feble. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "«Són tan petits que són capaços de penetrar en les cèl·lules i causar-**hi** efectes nocius»:",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "«Els metges es troben amb la dificultat afegida que les lesions que poden produir són semblants a les d’altres tòxics i, per tant, és complicat relacionar-**les** amb els plàstics utilitzant la tecnologia actual»:",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Has de dir quina construcció del text substitueix cada pronom, **sencera** (amb la preposició o el determinant si en formen part). El truc és tornar a escriure la frase posant-hi el referent en lloc del pronom: si la frase té sentit i manté el significat, l’has encertat. Temps: 3 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "«causar-**hi** efectes nocius»: on causen efectes? En el mateix lloc on penetren: «penetrar **en les cèl·lules**». Comprovació: «Són capaços de penetrar en les cèl·lules i causar efectes nocius **en les cèl·lules**». *Hi* substitueix aquí un complement introduït per la preposició *en*, per això la resposta ha d’incloure la preposició."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "«relacionar-**les** amb els plàstics»: què és el que costa relacionar amb els plàstics? Les lesions que poden produir. Comprovació: «és complicat relacionar **les lesions** amb els plàstics». *Les* és un pronom de complement directe femení plural, i per això el referent és un sintagma nominal femení plural."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) *hi* = «en les cèl·lules» (també s’accepta «a les cèl·lules»).\n\nb) *les* = «les lesions» (les lesions que poden produir els plàstics)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "en/a les cèl·lules"
+          },
+          {
+            "apartat": "b",
+            "valor": "les lesions"
+          }
+        ],
+        "nota": "Error típic a la b): respondre «els plàstics» o «els metges». El pronom *les* és femení plural, i això ja descarta els sintagmes masculins. A la a), no n’hi ha prou amb «les cèl·lules»: cal la preposició, perquè *hi* substitueix tot el complement."
+      }
+    },
+    {
+      "id": "catala-2026-J-e1-q1-4",
+      "exercici": 1,
+      "questio": "1.4",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Impacte de la ingestió de plàstics en la salut (màxim 50 mots)",
+      "tema": "comprensio",
+      "temes_secundaris": [
+        "expressio"
+      ],
+      "conceptes": [
+        "resum",
+        "síntesi d’informació",
+        "límit de paraules",
+        "microplàstics",
+        "salut"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3
+      ],
+      "text": "Els microplàstics són cada cop més presents en el medi ambient i ja es comença a detectar quin impacte poden tenir en la nostra salut. Els microplàstics són trossos de plàstic diminuts, de menys de 5 mil·límetres i de formes irregulars. Procedeixen de la descomposició de productes de plàstic llençats a l’entorn i sovint es fragmenten en trossets encara més petits, que es coneixen com a *nanoplàstics* i que són encara més preocupants per a la salut.\n\nEl plàstic és un producte molt versàtil i químicament estable i per això es fa servir de manera àmplia en molts processos de producció. També, a causa de la seva rendibilitat, és un material gairebé insubstituïble en molts àmbits de la nostra vida quotidiana. El problema és que és un contaminant, ja que no es degrada i és tòxic. A més, pot contenir restes de metalls, hidrocarburs, plaguicides o productes farmacèutics, en funció dels contaminants que hagi pogut absorbir.\n\nLa producció de plàstic supera àmpliament els 300 milions de tones a tot el món cada any. L’única manera de revertir-ho és aconseguir materials no contaminants que el puguin substituir o impulsar-ne la reutilització. En aquests moments, però, les taxes de reciclatge són tan baixes que els plàstics suposen el 54 % de la massa global de residus.\n\nS’han detectat microplàstics —en una àmplia gamma de concentracions— en aigües marines, aigües residuals, aigua dolça, aliments, aire i aigua potable, tant embotellada com de l’aixeta. Per tant, poden entrar en el nostre cos per inhalació o per ingestió, sigui de manera directa o a través del menjar. Per exemple, s’han detectat partícules de plàstics en animals que formen part de la nostra dieta, com ara moltes espècies marines, i també en aliments processats.\n\nTots els experts assenyalen que els plàstics són més perillosos per a la nostra salut com més petits són. Un dels estudis més recents en aquest àmbit, liderat per la Universitat Autònoma de Barcelona i el Centre de Recerca Ecològica i Aplicacions Forestals, conclou que els nanoplàstics afecten la composició, la diversitat i la funcionalitat del microbioma intestinal. Quan es modifica el microbioma intestinal sorgeixen alteracions en els sistemes immunitari, endocrí i nerviós.\n\nEl 90 % dels plàstics que ingerim acabaran excretats, però una part es fragmentarà en nanoplàstics. Són tan petits que són capaços de penetrar en les cèl·lules i causar-**hi** efectes nocius. L’estudi constata que s’han descrit alteracions en l’absorció de nutrients, reaccions inflamatòries en el revestiment intestinal i efectes sobre el metabolisme i la capacitat de produir energia del cos i, finalment, alteracions en les respostes immunitàries.\n\nTambé s’ha constatat que, en humans, les partícules de plàstic es poden allotjar en els pulmons i l’aparell digestiu. I poden arribar als conductes limfàtics i als ganglis i, finalment, a diversos òrgans del cos, com la medul·la òssia, els ronyons, la melsa o el fetge. Els metges es troben amb la dificultat afegida que les lesions que poden produir són semblants a les d’altres tòxics i, per tant, és complicat relacionar-**les** amb els plàstics utilitzant la tecnologia actual.\n\n*Adaptació feta a partir del text d’Atlàntida Assegurances. «Microplàstics: com afecten la salut» [en línia]*",
+      "enunciat": "Exposeu, en un màxim de cinquanta mots, quin és l’impacte que pot tenir la ingestió de plàstics en la salut. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de síntesi: has de recollir **amb paraules pròpies** els efectes que el text atribueix als plàstics ingerits, en una o dues frases i **sense passar de 50 mots** (compta’ls). No copiïs frases senceres del text ni hi afegeixis opinions o informació que no hi surti. Temps: 4-5 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Localitza els paràgrafs que en parlen: els dos últims.\n\n2. Fes la llista d’efectes: alteració de l’absorció de nutrients, inflamació intestinal, efectes sobre el metabolisme i la producció d’energia, alteracions immunitàries; a més, les partícules s’allotgen en pulmons i aparell digestiu i poden arribar a òrgans com la medul·la òssia, els ronyons, la melsa o el fetge.\n\n3. Pots afegir el mecanisme (els nanoplàstics penetren en les cèl·lules i alteren el microbioma intestinal) si et queda espai.\n\n4. Agrupa-ho en dues frases ben connectades."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Els plàstics ingerits poden alterar la flora intestinal i dificultar l’absorció de nutrients, inflamar el budell i afectar el metabolisme i les defenses. A més, s’acumulen en els pulmons i l’aparell digestiu i poden arribar a òrgans com la medul·la òssia, els ronyons, la melsa o el fetge. (48 mots)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Alteració de l’absorció de nutrients, inflamació intestinal, efectes sobre el metabolisme i les respostes immunitàries."
+          },
+          {
+            "apartat": null,
+            "valor": "Les partícules s’allotgen en els pulmons i l’aparell digestiu i poden afectar òrgans: medul·la òssia, ronyons, melsa, fetge."
+          }
+        ],
+        "nota": "Passar dels 50 mots es penalitza. Tampoc no t’entretinguis en la dificultat dels metges per diagnosticar aquestes lesions: no és un impacte en la salut. Recorda que a tot l’examen es descompten 0,1 punts per cada error de normativa (ortografia, gramàtica, lèxic), fins a un màxim de 2 punts: rellegeix sempre les respostes escrites."
+      }
+    },
+    {
+      "id": "catala-2026-J-e2-q2-1",
+      "exercici": 2,
+      "questio": "2.1",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 1,
+      "titol": "Pere Calders, «L’arbre domèstic» (Cròniques de la veritat oculta)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "Pere Calders",
+        "Cròniques de la veritat oculta",
+        "conte",
+        "realisme màgic",
+        "absurd",
+        "ironia",
+        "narrador protagonista"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "En aquesta vida he tingut molts secrets. Però un dels més grossos, potser el que estava més en pugna amb la veritat oficial, és el que ara trobo oportú explicar.\n\nUn matí, en llevar-me, vaig veure que en el menjador de casa meva havia nascut un arbre. Però no us penseu: es tractava d’un arbre de debò, amb arrels que es clavaven a les rajoles i unes branques que es premien contra el sostre.\n\nVaig veure de seguida que allò no podia ésser la broma de ningú, i, no tenint persona estimada a qui confiar certes coses, vaig anar a trobar la policia.\n\nEm va rebre el capità, amb uns grans bigotis, com sempre, i duent un vestit l’elegància del qual no podria explicar, perquè el tapaven els galons. Vaig dir:\n\n—Us vinc a fer saber que en el menjador de casa meva ha nascut un arbre de debò, al marge de la meva voluntat.\n\nL’home, vós direu, es va sorprendre. Em va mirar una bona estona i després digué:\n\n—No pot ésser.\n\n—Sí, és clar. Aquestes coses no se sap mai com van. Però l’arbre és allí, prenent llum i fent-me nosa.\n\nAquestes paraules meves van irritar el capità. Va donar un cop damunt la taula amb la mà plana, va alçar-se i m’agafà una solapa. (Allò que fa tanta ràbia.)\n\n—No pot ésser, dic —repetí—. Si fos possible això, seria possible qualsevol cosa. Enteneu? S’hauria de repassar tot el que han dit els nostres savis i perdríem més temps del que sembla a primer cop d’ull. Estaríem ben arreglats si en els menjadors de ciutadans qualssevol passessin coses tan extraordinàries! Els revolucionaris alçarien el cap, tornarien a discutir-nos la divinitat del rei, i qui sap si alguna potència, encuriosida, ens declararia la guerra. Ho compreneu?\n\n—Sí. Però, a despit de tot, he tocat l’arbre amb les meves mans.\n\n—Apa, apa, oblideu-ho. Compartiu amb mi, només, aquest secret, i l’Estat pagarà bé el vostre silenci.\n\nJa anava a arreglar un xec quan es mobilitzà la meva consciència. Vaig preguntar:\n\n—Que és d’interès nacional, això?\n\n—I tant!\n\n—Doncs no vull ni un cèntim. Jo per la pàtria tot, sabeu? Podeu manar.\n\nAl cap de quatre dies vaig rebre una carta del rei donant-me les gràcies. I qui, amb això, no es sentiria ben pagat?\n\n*Pere Calders. «L’arbre domèstic». A: Cròniques de la veritat oculta. Barcelona: Edicions 62, 1979. MOLC, p. 141-142*",
+      "enunciat": "Llegiu el text següent i responeu a les qüestions plantejades a continuació.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1.1",
+          "enunciat": "En quin gènere literari destaca l’obra narrativa de Pere Calders?",
+          "punts": 0.25
+        },
+        {
+          "id": "2.1.2",
+          "enunciat": "Quines característiques té aquesta narració en relació amb la realitat?",
+          "punts": 0.25
+        },
+        {
+          "id": "2.1.3",
+          "enunciat": "Qui és el protagonista de la narració? Quins altres personatges hi apareixen?",
+          "punts": 0.25
+        },
+        {
+          "id": "2.1.4",
+          "enunciat": "Quina és la reacció del policia en assabentar-se del problema del narrador? Per què?",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Són quatre preguntes curtes de 0,25 punts cadascuna: n’hi ha prou amb dues o tres frases per resposta, però precises. Combinen coneixement de l’autor (2.1.1) i lectura del fragment (2.1.2-2.1.4): en aquestes darreres, recolza’t en detalls concrets del text. Temps: 10 minuts."
+          },
+          {
+            "apartat": "2.1.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Pere Calders (Barcelona, 1912-1994) és sobretot un **contista**: la narració breu és el gènere on destaca. Pots esmentar *Cròniques de la veritat oculta* (1955), *Gent de l’alta vall* o *Invasió subtil i altres contes*; també va escriure novel·la (*L’ombra de l’atzavara*, *Ronda naval sota la boira*), però és secundària."
+          },
+          {
+            "apartat": "2.1.1",
+            "titol": "Resposta model",
+            "cos": "L’obra narrativa de Pere Calders destaca en el gènere de la narració breu, el **conte**. Reculls com *Cròniques de la veritat oculta* (1955), d’on prové aquest text, o *Invasió subtil i altres contes* el fan un dels grans contistes de la literatura catalana del segle XX."
+          },
+          {
+            "apartat": "2.1.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Identifica el mecanisme típic de Calders: un fet **extraordinari o impossible** (un arbre neix al menjador) irromp en la realitat quotidiana i es tracta amb naturalitat; la situació es porta fins a l’**absurd** (la policia ho converteix en secret d’Estat) i tot és amarat d’**ironia i humor**, que serveixen per criticar l’autoritat i les convencions."
+          },
+          {
+            "apartat": "2.1.2",
+            "titol": "Resposta model",
+            "cos": "És una narració que parteix d’un fet extraordinari, el naixement d’un arbre enmig d’un menjador, presentat amb tota naturalitat dins d’una realitat quotidiana. La lògica dels personatges porta la situació fins a l’absurd (el fet esdevé un secret d’Estat) i el to és ple d’ironia i humor, amb una crítica implícita al poder."
+          },
+          {
+            "apartat": "2.1.3",
+            "titol": "Com plantejar-ho",
+            "cos": "El narrador parla en primera persona i explica el que li ha passat: és un **narrador protagonista**. Després enumera la resta: el capità de policia, el rei (que li envia una carta) i l’arbre, que és l’element que desencadena l’acció."
+          },
+          {
+            "apartat": "2.1.3",
+            "titol": "Resposta model",
+            "cos": "El protagonista és el mateix narrador, que explica en primera persona com li va néixer un arbre al menjador. També hi apareixen el capità de la policia, que el rep i li demana silenci, el rei, que li escriu una carta d’agraïment, i l’arbre, que actua com a element desencadenant."
+          },
+          {
+            "apartat": "2.1.4",
+            "titol": "Com plantejar-ho",
+            "cos": "La clau és el contrast: el lector esperaria **sorpresa** o incredulitat, però el capità reacciona amb **irritació i preocupació** («No pot ésser», cop a la taula, li agafa la solapa). El perquè és al seu parlament: si fos possible això, «seria possible qualsevol cosa», s’haurien de revisar els savis, els revolucionaris «alçarien el cap» i potser hi hauria guerra: el fet amenaça l’**ordre establert** i la «veritat oficial». Per això ofereix diners a canvi de silenci."
+          },
+          {
+            "apartat": "2.1.4",
+            "titol": "Resposta model",
+            "cos": "La reacció del capità no és de sorpresa, com caldria esperar, sinó d’irritació i preocupació: nega el fet («No pot ésser»), s’enfada i intenta comprar el silenci del narrador. Ho fa perquè un fet així posaria en perill l’estabilitat del món conegut, regit per la lògica, el saber dels savis i l’ordre polític (la monarquia), i podria provocar revoltes o guerres."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1.1",
+            "valor": "Narració curta / conte."
+          },
+          {
+            "apartat": "2.1.2",
+            "valor": "Descriu un fet extraordinari, reduït a l’absurd, ple d’ironia i humor."
+          },
+          {
+            "apartat": "2.1.3",
+            "valor": "El narrador és el protagonista; també hi apareixen el policia (capità), l’arbre i el rei."
+          },
+          {
+            "apartat": "2.1.4",
+            "valor": "No és de sorpresa sinó de preocupació: el fet posa en perill l’estabilitat del món conegut, sotmès a la lògica i a l’ordre polític."
+          }
+        ],
+        "nota": "No resumeixis el conte quan et pregunten una altra cosa. A la 2.1.3, no oblidis dir que el protagonista és el narrador (primera persona). A la 2.1.4 la part del «per què» és la que dona el punt: cita el que diu el capità sobre els savis, els revolucionaris i el rei."
+      }
+    },
+    {
+      "id": "catala-2026-J-e2-q2-2-1",
+      "exercici": 2,
+      "questio": "2.2.1",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Figura retòrica en uns versos d’El comte Arnau (Maragall)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "Joan Maragall",
+        "El comte Arnau",
+        "anàfora",
+        "figures retòriques",
+        "Modernisme"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Bloc 2 (cal respondre només DUES de les quatre qüestions 2.2.1-2.2.4). En un màxim de cinquanta mots, expliqueu quina figura retòrica apareix en aquests versos d’*El comte Arnau*. Digueu-ne també l’autor. [0,5 punts]\n\nSeràs roure, seràs penya,  \nseràs mar esvalotat,  \nseràs aire que s’inflama,  \nseràs astre rutilant,  \n[…]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues coses: **nom i explicació** de la figura (amb l’exemple dels versos) i **l’autor**. Màxim 50 mots. Busca primer el que salta a la vista: la mateixa paraula a l’inici de cada vers."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Cada vers comença amb «Seràs»: repetició d’una paraula a l’inici de versos consecutius = **anàfora**.\n\n2. Explica-la (definició) i aplica-la als versos: la repetició crea ritme i intensifica la idea de transformació.\n\n3. Autor: **Joan Maragall**, el gran poeta del Modernisme, que va reelaborar la llegenda popular del comte Arnau. Si et queda espai, pots afegir que cada vers conté una metàfora (roure, penya, mar...)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Hi apareix una anàfora: la repetició d’una o diverses paraules a l’inici de versos consecutius. Aquí, «seràs» encapçala cada vers i crea un ritme insistent que intensifica la successió de metàfores (roure, penya, mar, astre). L’autor és Joan Maragall, poeta del Modernisme. (42 mots)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Anàfora: repetició d’una o diverses paraules a l’inici d’un seguit de versos o frases."
+          },
+          {
+            "apartat": null,
+            "valor": "Autor: Joan Maragall."
+          }
+        ],
+        "nota": "No confonguis anàfora (repetició al principi) amb epífora (al final) ni amb el pronom anafòric de la gramàtica. Aquest bloc és optatiu: fes-ne només dues; si en respons més, només es corregeixen les dues primeres."
+      }
+    },
+    {
+      "id": "catala-2026-J-e2-q2-2-2",
+      "exercici": 2,
+      "questio": "2.2.2",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals: ressenya, memento mori, Noucentisme, Pere Quart, mim",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "textos"
+      ],
+      "conceptes": [
+        "ressenya",
+        "memento mori",
+        "Noucentisme",
+        "Santiago Rusiñol",
+        "Pere Quart",
+        "mim",
+        "tòpics literaris"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Bloc 2 (cal respondre només DUES de les quatre qüestions 2.2.1-2.2.4). Indiqueu si les afirmacions següents són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Una ressenya és un text de caràcter didàctic i persuasiu que segueix el format i l’estructura d’una carta.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "El tòpic *memento mori* ens invita a la sensació d’alegria i goig.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Santiago Rusiñol, autor de *L’auca del senyor Esteve*, és el màxim representant del Noucentisme, que s’inicia a partir de l’any 1906.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "*Pere Quart* és el pseudònim de Joan Oliver com a poeta.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "El mim és una representació muda.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Preguntes de teoria literària i història de la literatura. Cada error resta 0,1: si no ho saps, deixa-la en blanc. Llegeix cada afirmació sencera, perquè sovint en barregen una part certa i una de falsa (com la c)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Una ressenya és un text que presenta i **valora críticament** una obra (llibre, pel·lícula, espectacle): té una part expositiva i una d’argumentativa, però no segueix el format d’una carta. **Fals.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Memento mori* vol dir «recorda que has de morir»: és un tòpic que convida a reflexionar sobre la mort i la fugacitat de la vida, no a l’alegria. **Fals.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Santiago Rusiñol, autor de *L’auca del senyor Esteve* (1907), és un dels grans noms del **Modernisme**, no del Noucentisme. És cert que el Noucentisme s’acostuma a datar a partir del 1906 (Eugeni d’Ors, *Glosari*; Prat de la Riba, *La nacionalitat catalana*), però l’afirmació sencera és **falsa**."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Joan Oliver signava la poesia com a *Pere Quart* (*Les decapitacions*, *Vacances pagades*); el teatre i la prosa, amb el seu nom. **Vertader.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "El mim és una representació teatral sense paraules, basada en el gest i el moviment. **Vertader.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Fals · b) Fals · c) Fals · d) Vertader · e) Vertader"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "d",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "e",
+            "valor": "Vertader"
+          }
+        ],
+        "nota": "La c) és la trampa: una part (la data) és correcta, però Rusiñol és modernista. Una afirmació amb un sol element fals és falsa."
+      }
+    },
+    {
+      "id": "catala-2026-J-e2-q2-2-3",
+      "exercici": 2,
+      "questio": "2.2.3",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Rima consonant i assonant, masculina i femenina",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mètrica",
+        "rima consonant",
+        "rima assonant",
+        "rima masculina",
+        "rima femenina"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Bloc 2 (cal respondre només DUES de les quatre qüestions 2.2.1-2.2.4). En un màxim de cinquanta mots, expliqueu quina diferència hi ha entre la rima consonant i la rima assonant, i entre la rima masculina i la rima femenina. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Són dues parelles de conceptes de mètrica: defineix-les per contrast, amb precisió i sense passar de 50 mots. Un exemple breu ajuda, si cap."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. El punt de referència és sempre **l’última vocal tònica** del vers.\n\n2. Consonant: a partir d’aquesta vocal coincideixen **tots els sons** (vocals i consonants): *amor / dolor*. Assonant: coincideixen **només les vocals**: *casa / tarda*.\n\n3. Masculina: el vers acaba en paraula **aguda** (*cançó*). Femenina: acaba en paraula **plana o esdrúixola** (*rosa*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "En la rima consonant, a partir de l’última vocal tònica coincideixen tots els sons, vocàlics i consonàntics (*amor/dolor*); en l’assonant, només els vocàlics (*casa/tarda*). La rima masculina es dona entre versos acabats en paraula aguda, i la femenina, entre versos acabats en paraula plana o esdrúixola. (48 mots)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Consonant: a partir de la darrera vocal tònica coincideixen tots els sons (vocàlics i consonàntics); assonant: només els vocàlics."
+          },
+          {
+            "apartat": null,
+            "valor": "Masculina: versos acabats en paraula aguda; femenina: en paraula plana o esdrúixola."
+          }
+        ],
+        "nota": "Error típic: dir que la rima consonant és la que «rima amb consonants». El que la defineix és que coincideixen *tots* els sons des de la vocal tònica."
+      }
+    },
+    {
+      "id": "catala-2026-J-e2-q2-2-4",
+      "exercici": 2,
+      "questio": "2.2.4",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Vertader o fals: mite, soliloqui, amor post mortem, figures retòriques",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mite",
+        "soliloqui",
+        "amor post mortem",
+        "hipèrbole",
+        "hipèrbaton",
+        "onomatopeia",
+        "figures retòriques"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Bloc 2 (cal respondre només DUES de les quatre qüestions 2.2.1-2.2.4). Indiqueu si les afirmacions següents són vertaderes o falses. [0,5 punts. Per cada resposta errònia es descomptaran 0,1 punts; per les qüestions no contestades no hi haurà cap descompte.]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Un mite és una història protagonitzada per éssers sobrenaturals o màgics, com ara déus, herois o personatges fantàstics.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "Un soliloqui és una obra de teatre interpretada per més d’un personatge.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "L’*amor post mortem* és un tòpic literari que significa ‘amor més enllà de la mort’.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "Els termes *hipèrbole* i *hipèrbaton* són sinònims.",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "L’onomatopeia és una figura retòrica sintàctica.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Conceptes de teoria literària (gèneres, tòpics i figures). Cada error resta 0,1: no contestis a l’atzar. Recorda les famílies de figures: fòniques (al·literació, onomatopeia...), sintàctiques (hipèrbaton, anàfora...) i semàntiques (metàfora, hipèrbole...)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Un mite és un relat tradicional protagonitzat per éssers sobrenaturals (déus, herois...) que sovint explica l’origen del món o d’un fenomen. **Vertader.**"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Un soliloqui és el discurs d’un **sol** personatge que parla tot sol en escena, expressant-ne els pensaments. No és una obra amb diversos personatges. **Fals.**"
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "*Amor post mortem*: l’amor que continua després de la mort. **Vertader.**"
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "La **hipèrbole** és una exageració («t’ho he dit mil vegades»); l’**hipèrbaton**, una alteració de l’ordre habitual de la frase. Són figures diferents. **Fals.**"
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "L’onomatopeia imita sons (*catacric*, *xip-xap*): és una figura **fònica**, no sintàctica. **Fals.**"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Vertader · b) Fals · c) Vertader · d) Fals · e) Fals"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "b",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "c",
+            "valor": "Vertader"
+          },
+          {
+            "apartat": "d",
+            "valor": "Fals"
+          },
+          {
+            "apartat": "e",
+            "valor": "Fals"
+          }
+        ],
+        "nota": "La d) i la e) es basen en confondre noms semblants o famílies de figures: repassa una taula de figures retòriques classificades."
+      }
+    },
+    {
+      "id": "catala-2026-J-e3-q3-1-1",
+      "exercici": 3,
+      "questio": "3.1.1",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció de «en els sistemes immunitari, endocrí i nerviós»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "funcions sintàctiques",
+        "complement circumstancial",
+        "complement del nom",
+        "sintagma preposicional"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Indiqueu l’anàlisi correcta del sintagma, l’oració o el pronom subratllat (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nQuan es modifica el microbioma intestinal sorgeixen alteracions **en els sistemes immunitari, endocrí i nerviós**.",
+      "figures": [],
+      "opcions": {
+        "A": "complement o objecte directe",
+        "B": "complement de règim (o preposicional)",
+        "C": "complement circumstancial (o adjunt)",
+        "D": "complement del nom"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test sobre funcions sintàctiques. Cada encert val 0,2 i **cada error resta 0,2**: si dubtes entre dues opcions i no pots descartar-ne cap, val més deixar-la en blanc. Fes servir les proves: substitució per un pronom feble, canvi de posició, concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "El verb és *sorgir* (intransitiu): «sorgeixen alteracions», on *alteracions* és el subjecte postposat. Un verb intransitiu no té complement directe (descartem A) i *sorgir* no regeix cap preposició fixa (descartem B). El sintagma preposicional indica **on** sorgeixen les alteracions; es pot desplaçar «En els sistemes immunitari, endocrí i nerviós sorgeixen alteracions» i substituir per *hi* («hi sorgeixen alteracions»): és un **complement circumstancial de lloc**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "C) complement circumstancial (o adjunt)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Complement circumstancial (o adjunt)."
+          }
+        ],
+        "nota": "Es podria temptar la D (complement del nom *alteracions*), però la prova del desplaçament i la pronominalització amb *hi* mostra que depèn del verb: és la resposta oficial."
+      }
+    },
+    {
+      "id": "catala-2026-J-e3-q3-1-2",
+      "exercici": 3,
+      "questio": "3.1.2",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció de l’oració «que s’han descrit alteracions…»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "oració subordinada substantiva",
+        "complement directe",
+        "pronom ho",
+        "funcions sintàctiques"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Indiqueu l’anàlisi correcta del sintagma, l’oració o el pronom subratllat (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nL’estudi constata **que s’han descrit alteracions en l’absorció de nutrients, reaccions inflamatòries en el revestiment intestinal i efectes sobre el metabolisme i la capacitat de produir energia del cos i, finalment, alteracions en les respostes immunitàries**.",
+      "figures": [],
+      "opcions": {
+        "A": "oració subordinada substantiva de subjecte",
+        "B": "oració subordinada substantiva de complement o objecte directe",
+        "C": "oració coordinada adversativa",
+        "D": "oració subordinada adverbial consecutiva"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test sobre funcions sintàctiques. Cada encert val 0,2 i **cada error resta 0,2**: si dubtes entre dues opcions i no pots descartar-ne cap, val més deixar-la en blanc. Fes servir les proves: substitució per un pronom feble, canvi de posició, concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "L’oració comença amb la conjunció *que* i depèn del verb transitiu *constatar*: l’estudi constata **què**? Doncs tota l’oració. Prova: «L’estudi **ho** constata» / «L’estudi constata **això**». Com que se substitueix per *ho*, fa de complement directe. No és subjecte (el subjecte és *L’estudi*), ni coordinada adversativa (no hi ha *però*, *sinó*...), ni consecutiva (no expressa conseqüència)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "B) oració subordinada substantiva de complement o objecte directe."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Oració subordinada substantiva de complement o objecte directe."
+          }
+        ],
+        "nota": "La llargada de l’oració no ha d’enganyar-te: busca el verb principal (*constata*) i fes-li la pregunta *què?*."
+      }
+    },
+    {
+      "id": "catala-2026-J-e3-q3-1-3",
+      "exercici": 3,
+      "questio": "3.1.3",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció de «de la descomposició de productes de plàstic…»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "complement de règim",
+        "verbs amb preposició regida",
+        "procedir de",
+        "funcions sintàctiques"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Indiqueu l’anàlisi correcta del sintagma, l’oració o el pronom subratllat (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nProcedeixen **de la descomposició de productes de plàstic llençats a l’entorn** i sovint es fragmenten en trossets encara més petits.",
+      "figures": [],
+      "opcions": {
+        "A": "complement predicatiu",
+        "B": "complement de règim (o preposicional)",
+        "C": "complement circumstancial (o adjunt)",
+        "D": "complement de l’adjectiu"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "B",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test sobre funcions sintàctiques. Cada encert val 0,2 i **cada error resta 0,2**: si dubtes entre dues opcions i no pots descartar-ne cap, val més deixar-la en blanc. Fes servir les proves: substitució per un pronom feble, canvi de posició, concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "El verb *procedir* (amb el sentit de ‘provenir’) exigeix la preposició *de*: «procedir **de** alguna cosa». Sense el complement, la frase queda incompleta («Procedeixen.»). Quan un verb **regeix** una preposició i el complement és necessari, és un **complement de règim**. Es pronominalitza amb *en*: «**En** procedeixen». No és predicatiu (no és un adjectiu que concordi amb el subjecte), ni complement de l’adjectiu (no depèn de cap adjectiu)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "B) complement de règim (o preposicional)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Complement de règim (o preposicional)."
+          }
+        ],
+        "nota": "Error típic: triar circumstancial de lloc perquè indica origen. Prova d’eliminar-lo: si el verb queda coix, és règim."
+      }
+    },
+    {
+      "id": "catala-2026-J-e3-q3-1-4",
+      "exercici": 3,
+      "questio": "3.1.4",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció de l’oració «que formen part de la nostra dieta…»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "oració subordinada adjectiva",
+        "oració de relatiu",
+        "complement del nom",
+        "pronom relatiu"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Indiqueu l’anàlisi correcta del sintagma, l’oració o el pronom subratllat (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nS’han detectat partícules de plàstics en animals **que formen part de la nostra dieta, com ara moltes espècies marines**, i també en aliments processats.",
+      "figures": [],
+      "opcions": {
+        "A": "oració subordinada substantiva de complement o objecte directe",
+        "B": "oració subordinada adverbial de complement o objecte directe",
+        "C": "oració subordinada substantiva de complement de règim (o preposicional)",
+        "D": "oració subordinada adjectiva o de relatiu de complement del nom"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test sobre funcions sintàctiques. Cada encert val 0,2 i **cada error resta 0,2**: si dubtes entre dues opcions i no pots descartar-ne cap, val més deixar-la en blanc. Fes servir les proves: substitució per un pronom feble, canvi de posició, concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "El *que* té un antecedent nominal, *animals*, i dins de l’oració hi fa de subjecte (els animals formen part de la nostra dieta): és un **pronom relatiu**. L’oració funciona com un adjectiu que especifica *animals* («animals comestibles»), per tant és una **subordinada adjectiva o de relatiu** de complement del nom. Les subordinades substantives (opcions A i C) no tenen antecedent, i «adverbial de complement directe» (B) és una barreja que no existeix."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "D) oració subordinada adjectiva o de relatiu de complement del nom."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Oració subordinada adjectiva o de relatiu de complement del nom."
+          }
+        ],
+        "nota": "Distingir el *que* relatiu (amb antecedent, substituïble per *els quals*) del *que* conjunció (sense antecedent) resol la majoria d’aquestes preguntes."
+      }
+    },
+    {
+      "id": "catala-2026-J-e3-q3-1-5",
+      "exercici": 3,
+      "questio": "3.1.5",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.2,
+      "titol": "Funció del pronom «ho» a «revertir-ho»",
+      "tema": "gramatica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pronoms febles",
+        "pronom neutre ho",
+        "complement directe",
+        "funcions sintàctiques"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Indiqueu l’anàlisi correcta del sintagma, l’oració o el pronom subratllat (aquí, en negreta). [3.1 en conjunt: 1 punt, 0,2 per qüestió. Per cada resposta errònia es descomptaran 0,2 punts; per les qüestions no contestades no hi haurà cap descompte.]\n\nLa producció de plàstic supera àmpliament els 300 milions de tones a tot el món cada any. L’única manera de revertir-**ho** és aconseguir materials no contaminants que el puguin substituir o impulsar-ne la reutilització.",
+      "figures": [],
+      "opcions": {
+        "A": "complement o objecte directe",
+        "B": "subjecte",
+        "C": "atribut",
+        "D": "complement del nom"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test sobre funcions sintàctiques. Cada encert val 0,2 i **cada error resta 0,2**: si dubtes entre dues opcions i no pots descartar-ne cap, val més deixar-la en blanc. Fes servir les proves: substitució per un pronom feble, canvi de posició, concordança. Temps: 1-2 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*Revertir* és un verb transitiu: es reverteix **alguna cosa**. El pronom neutre *ho* substitueix el contingut de la frase anterior (aquesta situació: la gran producció de plàstic) i fa la funció de **complement directe** del verb: «revertir aquesta situació». No pot ser atribut, perquè *revertir* no és copulatiu (*ser*, *estar*, *semblar*), ni subjecte, perquè els pronoms febles mai no fan de subjecte, ni complement del nom."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A) complement o objecte directe."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Complement o objecte directe."
+          }
+        ],
+        "nota": "*Ho* pot ser complement directe (amb verbs transitius) o atribut (amb *ser*, *estar*, *semblar*): mira sempre el verb."
+      }
+    },
+    {
+      "id": "catala-2026-J-e3-q3-2-1",
+      "exercici": 3,
+      "questio": "3.2.1",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Parelles de mots: res/gens, tant/tan, perquè/per què, que/què, si no/sinó",
+      "tema": "normativa",
+      "temes_secundaris": [
+        "gramatica"
+      ],
+      "conceptes": [
+        "res i gens",
+        "tan i tant",
+        "perquè i per què",
+        "que i què",
+        "sinó i si no",
+        "parònims"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Bloc 2 (cal respondre només QUATRE de les sis qüestions 3.2.1-3.2.6). Completeu les oracions següents amb la forma correcta de les dues que hi ha entre parèntesis. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "—Hi ha _____ de sal? M’agradaria posar-n’hi una mica perquè aquest plat no té gust de _____. (*res / gens*)",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "—_____ bon punt acabi la pel·lícula, avisa’m. —Està a punt d’acabar. Mai no havia plorat _____! (*tant / tan*)",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "Li vaig preguntar _____ estava amoïnada i no em va saber dir el _____. (*perquè / per què*)",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "Les novel·les _____ més m’agraden són les que retraten l’època en _____ vivim. (*que / què*)",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "No diu _____ ximpleries. _____ fos el germà del director, fa temps que l’haurien fet fora. (*si no / sinó*)",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cada oració té dos buits i cal fer servir les dues formes (una a cada buit). Hi ha 10 buits: cada un val 0,05. Pensa en la regla, no en l’oïda."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*Gens* s’usa amb noms no comptables i en frases interrogatives o negatives per a quantitat (‘una mica’): «Hi ha **gens** de sal?». *Res* vol dir ‘cap cosa’: «no té gust de **res**»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*Tan* va davant d’adjectius i adverbis i en la locució «**tan** bon punt» (‘així que’). *Tant* acompanya verbs o noms: «Mai no havia plorat **tant**!»."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Interrogativa indirecta (‘per quin motiu’) → «Li vaig preguntar **per què** estava amoïnada». Amb article, *perquè* és un substantiu (‘el motiu’) → «no em va saber dir **el perquè**»."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Relatiu sense preposició → *que* àton: «Les novel·les **que** més m’agraden». Relatiu darrere de preposició → *què* tònic: «l’època **en què** vivim»."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "*Sinó* = ‘només, excepte’ o adversatiu després de negació: «No diu **sinó** ximpleries». *Si no* = condicional negativa: «**Si no** fos el germà del director…»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) gens / res · b) Tan / tant · c) per què / perquè · d) que / què · e) sinó / Si no"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "gens, res"
+          },
+          {
+            "apartat": "b",
+            "valor": "tan, tant"
+          },
+          {
+            "apartat": "c",
+            "valor": "per què, perquè"
+          },
+          {
+            "apartat": "d",
+            "valor": "que, què"
+          },
+          {
+            "apartat": "e",
+            "valor": "sinó, si no"
+          }
+        ],
+        "nota": "Truc per a *sinó/si no*: si pots posar-hi «en cas que no», és *si no*. Per a *perquè/per què*: si pots afegir «motiu» darrere (*per quin motiu*), és *per què*."
+      }
+    },
+    {
+      "id": "catala-2026-J-e3-q3-2-2",
+      "exercici": 3,
+      "questio": "3.2.2",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Formes verbals en registre formal: concebre, interrompre, cabre, néixer, saber",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "normativa"
+      ],
+      "conceptes": [
+        "morfologia verbal",
+        "verbs irregulars",
+        "futur",
+        "imperfet de subjuntiu",
+        "participi",
+        "registre formal"
+      ],
+      "dificultat": 3,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Bloc 2 (cal respondre només QUATRE de les sis qüestions 3.2.1-3.2.6). Completeu les oracions següents amb la forma verbal adequada a un registre formal. No podeu utilitzar formes perifràstiques. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Estic convençut que més endavant els presos _____ (*concebre*) un pla per a escapar-se de la presó.",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "—Ara mateix en Joan _____ (*interrompre*) qualsevol conversa sense respectar el torn de paraula de ningú.",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "La Maria dubtava que vosaltres _____ (*cabre*) en aquest vehicle.",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "Et van dir quan _____ (*néixer*) la teva germana?",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Si jo ho hagués _____ (*saber*), t’ho hauria explicat.",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Primer decideix el **temps i la persona** que demana el context; després conjuga el verb (tots són irregulars o tenen trampa). Prohibides les perífrasis: no val «van concebre» ni «està interrompent». Cada encert val 0,1."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "«més endavant» → futur; subjecte *els presos* → 3a del plural: *concebre* → **concebran**."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "«Ara mateix» → present; *en Joan* → 3a del singular: *interrompre* → **interromp** (com *rompre* → *romp*)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "*dubtava que* (passat + verb de dubte) → imperfet de subjuntiu; *vosaltres* → 2a del plural. La forma formal de *cabre* és **cabéssiu** (cabés, cabessis, cabés, cabéssim, cabéssiu, cabessin)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Pregunta sobre un fet que, des del passat (*Et van dir*), era futur → condicional: **naixeria**. Els criteris també accepten el futur **naixerà**."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Després de l’auxiliar *haguessis/hagués* va el participi: *saber* → **sabut**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) concebran · b) interromp · c) cabéssiu · d) naixeria (o naixerà) · e) sabut"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "concebran"
+          },
+          {
+            "apartat": "b",
+            "valor": "interromp"
+          },
+          {
+            "apartat": "c",
+            "valor": "cabéssiu"
+          },
+          {
+            "apartat": "d",
+            "valor": "naixeria / naixerà"
+          },
+          {
+            "apartat": "e",
+            "valor": "sabut"
+          }
+        ],
+        "nota": "Errors típics: *concebiran*, *interrompeix*, *cabessiu* (sense accent), fer servir el present de subjuntiu (*capigueu*) o una perífrasi. Repassa els verbs de la 2a conjugació acabats en -bre i -mpre i l’imperfet de subjuntiu en -és."
+      }
+    },
+    {
+      "id": "catala-2026-J-e3-q3-2-3",
+      "exercici": 3,
+      "questio": "3.2.3",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Grafies de la essa sonora [z]",
+      "tema": "normativa",
+      "temes_secundaris": [],
+      "conceptes": [
+        "fonètica",
+        "essa sonora",
+        "sonorització",
+        "enllaç fonètic",
+        "s intervocàlica"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Bloc 2 (cal respondre només QUATRE de les sis qüestions 3.2.1-3.2.6). Subratlleu en el text següent NOMÉS les cinc grafies que corresponen al so fricatiu alveolar sonor [z]. (Si se’n subratllen més, la pregunta serà puntuada amb 0.) [0,5 punts]\n\n«Segons la presumpció d’innocència, tota persona acusada de qualsevol delicte és innocent fins que es demostri la seva culpabilitat.»",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Atenció: si en marques més de cinc, tens un 0. Cal pensar en la pronúncia de la frase seguida (en el parlar oriental), no només dins de cada paraula: una *s* final es pronuncia [z] si la paraula següent comença per vocal o per consonant sonora (*b, d, g, l, m, n, v*...)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Repassa totes les *s*, *c*, *ç*, *z* de la frase:\n\n- *Segon**s** la*: *s* final davant de *l* (consonant sonora) → [z] (sonorització).\n- *pre**s**umpció*: *s* entre vocals → [z].\n- *innocència*, *persona*, *qualsevol*, *seva*: [s] (*c* davant *e*, *s* després de consonant o a l’inici de mot).\n- *acu**s**ada*: *s* entre vocals → [z].\n- *é**s** innocent*: *s* final davant de vocal → [z] (enllaç).\n- *fins que*: davant de *k* (sorda) → [s].\n- *e**s** demostri*: *s* davant de *d* (sonora) → [z]."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Segon**s** la pre**s**umpció d’innocència, tota persona acu**s**ada de qualsevol delicte é**s** innocent fins que e**s** demostri la seva culpabilitat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Segon**s** · pre**s**umpció · acu**s**ada · é**s** (innocent) · e**s** (demostri)"
+          }
+        ],
+        "nota": "Error típic: marcar la *s* de *persona* o de *qualsevol*: després de consonant la *s* és sorda. No t’oblidis de les *s* finals que se sonoritzen per enllaç."
+      }
+    },
+    {
+      "id": "catala-2026-J-e3-q3-2-4",
+      "exercici": 3,
+      "questio": "3.2.4",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Derivació: escridassar, deixadesa, coixesa, apedregar, acovardir",
+      "tema": "lexic",
+      "temes_secundaris": [
+        "normativa"
+      ],
+      "conceptes": [
+        "formació de mots",
+        "derivació",
+        "sufixos",
+        "parasíntesi",
+        "prefixos"
+      ],
+      "dificultat": 3,
+      "pagines": [
+        8
+      ],
+      "text": "",
+      "enunciat": "Bloc 2 (cal respondre només QUATRE de les sis qüestions 3.2.1-3.2.6). Completeu les oracions següents amb els substantius o els verbs adequats, derivats dels mots que hi ha entre parèntesis. [0,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Com que no hi estava d’acord, tot el públic va _____ l’àrbitre. (*cridar*)",
+          "punts": 0.1
+        },
+        {
+          "id": "b",
+          "enunciat": "Tenia el jardí ben abandonat. Mai no havia vist tanta descurança ni tanta _____ en un lloc com aquest. (*deixar*)",
+          "punts": 0.1
+        },
+        {
+          "id": "c",
+          "enunciat": "La _____ que patia arran de l’accident no el deixava anar de pressa. (*coix*)",
+          "punts": 0.1
+        },
+        {
+          "id": "d",
+          "enunciat": "Estava tan enrabiat que va començar a _____ la finestra del seu veí. (*pedra*)",
+          "punts": 0.1
+        },
+        {
+          "id": "e",
+          "enunciat": "Aquelles amenaces recurrents van aconseguir _____ en Joan. (*covard*)",
+          "punts": 0.1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Fixa’t primer en la categoria que demana el buit (després de *va* o *a* → infinitiu; després d’article → substantiu) i en el sentit de la frase; després busca la paraula derivada existent. Cada encert val 0,1, i ha d’estar ben escrita."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Cal un verb (‘cridar contra algú en senyal de rebuig’): *cridar* + prefix *es-* i sufix despectiu *-assar* → **escridassar**."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Cal un substantiu femení (‘tanta…’) sinònim de *descurança*: *deixar* → **deixadesa**."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Substantiu femení: qualitat de qui és coix → **coixesa** (*coix* + *-esa*, com *bell* → *bellesa*)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Verb: llançar pedres contra alguna cosa → **apedregar** (formació parasintètica: *a-* + *pedr-* + *-egar*)."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Verb: fer tornar covard → **acovardir** (parasintètic: *a-* + *covard* + *-ir*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) escridassar · b) deixadesa · c) coixesa · d) apedregar · e) acovardir"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "escridassar"
+          },
+          {
+            "apartat": "b",
+            "valor": "deixadesa"
+          },
+          {
+            "apartat": "c",
+            "valor": "coixesa"
+          },
+          {
+            "apartat": "d",
+            "valor": "apedregar"
+          },
+          {
+            "apartat": "e",
+            "valor": "acovardir"
+          }
+        ],
+        "nota": "Errors típics: *escridar*, *deixament*, *apedrejar* (castellanisme gràfic: en català és *apedregar*), *acobardir* (amb *b*)."
+      }
+    },
+    {
+      "id": "catala-2026-J-e3-q3-2-5",
+      "exercici": 3,
+      "questio": "3.2.5",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Correcció d’errors: ves-te’n, per tal que, quan, escrúpols, a l’hora",
+      "tema": "normativa",
+      "temes_secundaris": [],
+      "conceptes": [
+        "correcció d’errors",
+        "pronoms febles",
+        "conjuncions",
+        "accentuació",
+        "alhora i a l’hora",
+        "quan i quant"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8
+      ],
+      "text": "",
+      "enunciat": "Bloc 2 (cal respondre només QUATRE de les sis qüestions 3.2.1-3.2.6). Assenyaleu i esmeneu NOMÉS els cinc errors que apareixen en el text següent. (Si se n’assenyalen més, la pregunta serà puntuada amb 0.) [0,5 punts]\n\n«Ves-t’en ara mateix per tal de que puguis agafar el primer tren. Quant surtis, tanca bé la porta. Ja saps que els lladres no tenen escrupols alhora d’entrar a robar.»",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exactament cinc errors: si n’assenyales sis, tens un 0. Llegeix el text paraula per paraula i para atenció als focus clàssics: pronoms febles, *de* davant de *que*, parelles *quan/quant* i *alhora/a l’hora*, accents."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Ves-t’en → Ves-te’n**: davant de *en*, el pronom *te* es manté en forma plena i s’apostrofa *en*: *te* + *en* = *-te’n* (com *vés-te’n*, *posa-te’n*).\n\n2. **per tal de que → per tal que**: davant de la conjunció *que* desapareix la preposició *de* (*per tal que*, *a fi que*).\n\n3. **Quant → Quan**: és temporal (‘en el moment que’); *quant* indica quantitat.\n\n4. **escrupols → escrúpols**: és esdrúixola (es-crú-pols), i les esdrúixoles sempre porten accent.\n\n5. **alhora → a l’hora**: aquí vol dir ‘en el moment de’ (*a l’hora d’entrar*); *alhora* significa ‘al mateix temps’."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "«**Ves-te’n** ara mateix per tal **que** puguis agafar el primer tren. **Quan** surtis, tanca bé la porta. Ja saps que els lladres no tenen **escrúpols** **a l’hora** d’entrar a robar.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Ves-t’en → Ves-te’n; per tal de que → per tal que; Quant → Quan; escrupols → escrúpols; alhora → a l’hora"
+          }
+        ],
+        "nota": "Els criteris mantenen *Ves* tal com està: no és un dels cinc errors. No en marquis més de cinc, o la pregunta val 0."
+      }
+    },
+    {
+      "id": "catala-2026-J-e3-q3-2-6",
+      "exercici": 3,
+      "questio": "3.2.6",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Identificació del rossellonès i tres trets dialectals",
+      "tema": "sociolinguistica",
+      "temes_secundaris": [],
+      "conceptes": [
+        "varietats dialectals",
+        "rossellonès",
+        "català septentrional",
+        "negació amb pas",
+        "tancament de o en u",
+        "gal·licismes"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8
+      ],
+      "text": "",
+      "enunciat": "Bloc 2 (cal respondre només QUATRE de les sis qüestions 3.2.1-3.2.6). Identifiqueu a quina de les varietats dialectals del català (rossellonès, central, nord-occidental, valencià, balear o alguerès) pertany el text següent i subratlleu NOMÉS tres característiques diferents pròpies d’aquesta varietat. (Si se’n subratllen més, la pregunta serà puntuada amb 0.) [0,5 punts: 0,2 punts per la varietat dialectal i 0,3 pels trets]\n\n«Donc, un dia d’abril, de l’altra primavera, ambe canyes, cistell, cucs, tut lu bataclam, en un racú de la ribera, tut sul, me’n vinc a gitar l’ham. M’assenti ben content: l’endret fa bona cara i, cum l’aiga és pas gaire clara, segurt que el pei picarà bé.»",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Primer el dialecte (0,2) i després exactament **tres trets diferents** (0,1 cadascun): no en subratllis més de tres i no en triïs tres del mateix fenomen (p. ex. *tut*, *sul* i *cum* són tots el mateix tret). Si el dialecte és incorrecte, els trets no compten."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Pistes clares de **rossellonès** (català septentrional, a la Catalunya del Nord):\n\n- **Negació amb *pas* sense *no***: «l’aiga és **pas** gaire clara» (influència del francès).\n- **Tancament de la *o* tònica en [u]**: **tut**, **sul**, **cum**, **racú** (tot, sol, com, racó).\n- **Gal·licismes lèxics**: **donc** (doncs), **endret** (lloc), **segurt** (segur).\n- **Desinència *-i* de primera persona del present**: «**M’assenti**» (m’assec).\n- Altres: article **lu**, preposició **ambe**, **aiga** (aigua), **pei** (peix), **gitar** (llançar)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El text és en **rossellonès**. Tres trets: 1) la negació només amb *pas* («és **pas** gaire clara»); 2) el tancament de la *o* tònica en *u* («**tut** sul», «**cum**»); 3) la desinència *-i* de primera persona del present d’indicatiu («M’**assenti**»). (També serien vàlids: gal·licismes com *donc* o *endret*, l’article *lu*, *ambe*, *aiga*, *pei*.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Varietat: rossellonès (0,2)."
+          },
+          {
+            "apartat": null,
+            "valor": "Trets subratllats als criteris: Donc, ambe, tut lu, racú, tut sul, gitar, assenti, endret, cum, aiga, pas, segurt, pei (se’n trien tres de diferents, 0,1 cadascun)."
+          }
+        ],
+        "nota": "Error típic: confondre’l amb el balear (article *es/sa*) o l’alguerès (influència de l’italià). La negació amb *pas* i els gal·licismes són la marca inconfusible del rossellonès."
+      }
+    },
+    {
+      "id": "catala-2026-J-e4-q4-1",
+      "exercici": 4,
+      "questio": "4.1",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Reescriure un fragment canviant el present per l’imperfet",
+      "tema": "gramatica",
+      "temes_secundaris": [
+        "expressio"
+      ],
+      "conceptes": [
+        "temps verbals",
+        "imperfet d’indicatiu",
+        "reescriptura",
+        "concordança temporal",
+        "morfologia verbal"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        9
+      ],
+      "text": "",
+      "enunciat": "Reescriviu el text següent canviant els temps verbals en present per formes d’imperfet. La redacció resultant ha de contenir tota la informació inclosa en el text original. Subratlleu en els dos textos les formes verbals originals i les reescrites. [1 punt]\n\n«Els microplàstics són cada cop més presents en el medi ambient i ja es comença a detectar quin impacte poden tenir en la nostra salut. Els microplàstics són trossos de plàstic diminuts, de menys de 5 mil·límetres i de formes irregulars. Procedeixen de la descomposició de productes de plàstic llençats a l’entorn i sovint es fragmenten en trossets encara més petits, que es coneixen com a nanoplàstics i que són encara més preocupants per a la salut. El plàstic és un producte molt versàtil i químicament estable i per això es fa servir de manera àmplia en molts processos de producció.»",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici mecànic però amb molts punts (1 punt): cal localitzar **tots** els verbs conjugats en present, passar-los a l’imperfet d’indicatiu i **subratllar-los als dos textos**. No canviïs res més (ni l’ordre ni el vocabulari) i no t’oblidis els verbs pronominals (*es comença*, *es fragmenten*, *es coneixen*, *es fa servir*). Els infinitius i participis (*detectar*, *tenir*, *llençats*) no canvien. Copia amb cura: cada falta de còpia resta com a error de normativa. Temps: 8 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Formes en present (10) i el seu imperfet:\n\n| Present | Imperfet |\n|---|---|\n| són (×3) | eren |\n| es comença | es començava |\n| poden | podien |\n| procedeixen | procedien |\n| es fragmenten | es fragmentaven |\n| es coneixen | es coneixien |\n| és | era |\n| es fa servir | es feia servir |\n\nAtenció a les irregulars: *ser* → *eren/era*; *poder* → *podien*; *conèixer* → *coneixien*; *fer* → *feia*; i *procedir* perd l’increment *-eix-* (*procedien*, no *procedeixien*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Els microplàstics **eren** cada cop més presents en el medi ambient i ja **es començava** a detectar quin impacte **podien** tenir en la nostra salut. Els microplàstics **eren** trossos de plàstic diminuts, de menys de 5 mil·límetres i de formes irregulars. **Procedien** de la descomposició de productes de plàstic llençats a l’entorn i sovint **es fragmentaven** en trossets encara més petits, que **es coneixien** com a nanoplàstics i que **eren** encara més preocupants per a la salut. El plàstic **era** un producte molt versàtil i químicament estable i per això **es feia** servir de manera àmplia en molts processos de producció.\n\n(Les formes en negreta són les que s’han de subratllar; al text original cal subratllar també les formes corresponents en present.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "eren, es començava, podien, eren, Procedien, es fragmentaven, es coneixien, eren, era, es feia servir."
+          },
+          {
+            "apartat": null,
+            "valor": "Tota la informació del text original, sense canvis innecessaris; formes subratllades en els dos textos."
+          }
+        ],
+        "nota": "Errors típics: *procedeixien*, *coneixíen* (sense accent: *coneixien*), oblidar algun *són*, o canviar també els infinitius. Recorda que a tot l’examen es descompten 0,1 punts per cada error de normativa (ortografia, gramàtica, lèxic), fins a un màxim de 2 punts: rellegeix sempre les respostes escrites."
+      }
+    },
+    {
+      "id": "catala-2026-J-e4-q4-2",
+      "exercici": 4,
+      "questio": "4.2",
+      "opcio": null,
+      "serie": "1",
+      "tipus": "redaccio",
+      "punts": 2,
+      "titol": "Text formal sobre els perjudicis de la contaminació acústica i lumínica (125-150 paraules)",
+      "tema": "expressio",
+      "temes_secundaris": [
+        "textos"
+      ],
+      "conceptes": [
+        "text expositiu",
+        "registre formal",
+        "contaminació acústica",
+        "contaminació lumínica",
+        "connectors",
+        "estructura textual"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "En el text inicial es parla dels problemes que causa la contaminació per microplàstics. Escriviu un text formal ben estructurat, de cent vint-i-cinc a cent cinquanta paraules, en què descrigueu els perjudicis ocasionats per altres tipus de contaminació, com ara l’acústica o la lumínica. [2 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És un text **expositiu en registre formal** (impersonal, sense col·loquialismes ni opinions en primera persona) de **125-150 paraules**: compta-les. Els criteris valoren: contingut (1 punt), adequació i coherència (0,5) i cohesió (0,5); a més, fins a 0,25 de descompte per manca de coherència o mala presentació. Un text massa curt o massa llarg no pot treure els 2 punts. Dedica-hi uns 20 minuts: 3 de planificar, 12 d’escriure, 5 de revisar faltes."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Estructura en tres o quatre paràgrafs:\n\n1. **Introducció**: enllaça amb el text (no només els microplàstics contaminen) i presenta el tema.\n\n2. **Contaminació acústica**: què és (soroll del trànsit, l’oci, les obres) i perjudicis concrets: estrès, alteracions del son, pèrdua d’audició, problemes cardiovasculars, efectes sobre la fauna.\n\n3. **Contaminació lumínica**: excés de llum artificial nocturna; alteració dels ritmes circadians (son, melatonina), desorientació d’ocells i insectes, malbaratament energètic, pèrdua del cel nocturn.\n\n4. **Conclusió** breu: són contaminacions invisibles però reals; cal regulació i consciència ciutadana.\n\nConnectors útils: *en primer lloc*, *d’una banda / de l’altra*, *pel que fa a*, *a més*, *així mateix*, *per consegüent*, *en definitiva*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La contaminació no es limita als residus materials com els microplàstics. Hi ha formes menys visibles, com l’acústica i la lumínica, que també perjudiquen la salut i el medi ambient.\n\nPel que fa a la contaminació acústica, el soroll constant del trànsit, de les obres o de l’oci nocturn provoca estrès, irritabilitat i trastorns del son. A llarg termini, s’associa a la pèrdua d’audició i a malalties cardiovasculars. A més, altera el comportament de molts animals, que deixen de comunicar-se adequadament.\n\nD’altra banda, l’excés de llum artificial durant la nit trenca el cicle natural de llum i foscor. Això dificulta la producció de melatonina i el descans, desorienta ocells i insectes i comporta un malbaratament energètic considerable.\n\nEn definitiva, cal regular aquestes formes de contaminació i conscienciar la ciutadania dels seus efectes. (132 paraules)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Contingut (1 punt): descripció pertinent dels perjudicis d’altres contaminacions (acústica, lumínica...)."
+          },
+          {
+            "apartat": null,
+            "valor": "Adequació i coherència (0,5): registre formal, text ben estructurat i ideies ordenades."
+          },
+          {
+            "apartat": null,
+            "valor": "Cohesió (0,5): riquesa i precisió lèxiques, oracions ben construïdes, connectors i paràgrafs."
+          },
+          {
+            "apartat": null,
+            "valor": "Extensió: 125-150 paraules; fins a 0,25 de descompte per deficiències de coherència, cohesió o presentació."
+          }
+        ],
+        "nota": "No tornis a parlar dels microplàstics: el tema són *altres* tipus de contaminació. Evita la primera persona i expressions com «a mi em sembla» o «súper». Les faltes resten 0,1 cadascuna (fins a 2 punts en tot l’examen), així que deixa temps per revisar."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1077 @@
+{
+  "examen": {
+    "id": "empresa-2026-J",
+    "assignatura": "empresa",
+    "materia": "Funcionament de l’empresa i disseny de models de negoci",
+    "any": 2026,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/empresa/2026-J-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2026-J-solucio.pdf",
+    "estructura": "Quatre exercicis obligatoris de 2,5 punts cadascun. Exercici 1: cas pràctic (Girocream) sobre model Canvas, viabilitats del pla d’empresa, franquícia, RSC i matriu d’Ansoff. Exercici 2: balanç de situació i ràtios (2.1 i 2.2, 1,5 punts) i un apartat 2.3 (1 punt) en què cal triar UNA opció: A (productivitat) o B (compte de pèrdues i guanys); cal indicar a la portada l’opció triada i, si es responen les dues, només es corregeix l’A. Exercici 3: punt mort i benefici i estratègies de comunicació. Exercici 4: 10 preguntes de test (0,25 punts per encert, −0,08 per error, les no contestades no resten). Es pot utilitzar calculadora no programable."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2026-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Girocream: model Canvas, viabilitats, franquícia, RSC i matriu d’Ansoff",
+      "tema": "models-negoci",
+      "temes_secundaris": [
+        "emprenedoria",
+        "empresa-entorn"
+      ],
+      "conceptes": [
+        "model canvas",
+        "pla de viabilitat",
+        "franquícia",
+        "responsabilitat social corporativa",
+        "codi ètic",
+        "balanç social",
+        "matriu d'ansoff",
+        "societat de responsabilitat limitada"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2,
+        3,
+        4
+      ],
+      "text": "Girocream és una empresa gironina que fa més de deu anys que es dedica a la comercialització de gelats artesanals, sense additius ni sucres afegits. Està formada per dos emprenedors que estan molt preocupats pel gran nombre de gelats industrials amb colorants i conservants que es fabriquen arreu, i que, per això, venen els seus gelats als consumidors que busquen cuidar-se amb productes sans i naturals. La comercialització dels seus productes la porten a terme detallistes independents, en el mercat espanyol. A més, sabem que Girocream té un capital social de 10.000 €, que els socis tenen responsabilitat limitada al capital aportat i que l’empresa no cotitza en borsa. L’any 2026 els propietaris de l’empresa han decidit modernitzar-la perquè continuï essent competitiva en un món globalitzat i, amb aquest objectiu, han contractat un economista que els ajudi a fer canvis en la seva estructura empresarial.\n\nL’economista contractat els proposa canviar el model clàssic de negoci actual per un altre en el qual se cedeix a tercers el dret a explotar la seva marca, però controlant en tot moment la manera de comercialitzar el producte, el preu i les condicions de venda. També els recomana expandir el model a altres països europeus on creu que els seus productes tindran una bona acollida, sense gaire risc. Així mateix, proposa a l’empresa que millori la seva responsabilitat social corporativa (RSC) elaborant un document on s’exposin els principis que regulen el comportament dels seus treballadors, així com també un altre document on es recullin totes les activitats realitzades en matèria social i mediambiental.\n\nPer a analitzar l’adequació del nou model de negoci, els dos emprenedors hauran de fer l’anàlisi DAFO, calcular la TIR que obtindrien amb el nou projecte, buscar el llindar de rendibilitat i avaluar si l’empresa disposa de prou capacitat productiva per a produir i vendre els seus productes als altres països europeus, ja que la inversió en el nou model, i sobretot l’entrada a altres països, comportaria una forta inversió de capital.",
+      "enunciat": "Llegiu el cas de l’empresa Girocream i responeu les qüestions següents.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1.1",
+          "enunciat": "Identifiqueu en el text de l’enunciat els blocs següents del model *canvas*: proposta de valor, segment de clients i canals.",
+          "punts": 0.6
+        },
+        {
+          "id": "1.2",
+          "enunciat": "Completeu la taula següent escrivint una frase del tercer paràgraf de l’enunciat que es pugui associar a cadascuna de les viabilitats que s’hi indiquen.\n\n| Viabilitat | Frase del text |\n|---|---|\n| Econòmica | |\n| Tècnica | |\n| Financera | |\n| Comercial | |",
+          "punts": 0.4
+        },
+        {
+          "id": "1.3",
+          "enunciat": "Digueu quin és el nou model de negoci que es proposa a l’enunciat i, a continuació, exposeu un avantatge i un inconvenient d’aquest model per a l’empresa que cedeix el dret d’explotació de la marca.",
+          "punts": 0.6
+        },
+        {
+          "id": "1.4",
+          "enunciat": "Ajudeu l’economista contractat indicant quin és el document en el qual s’exposaran les regles i els principis que regulen el comportament dels treballadors de Girocream, i quin és l’informe que a final d’any recollirà les activitats realitzades en matèria social i mediambiental per l’empresa.",
+          "punts": 0.4
+        },
+        {
+          "id": "1.5",
+          "enunciat": "Argumenteu breument a quin tipus de creixement intern (segons la matriu d’Ansoff) fa referència l’expansió del model a altres països europeus i raoneu quina pot ser la forma jurídica de l’empresa.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És un exercici de lectura atenta del cas: gairebé totes les respostes **són al text** i cal saber-les relacionar amb la teoria (model Canvas, pla de viabilitat, franquícia, RSC, Ansoff, formes jurídiques). Abans de començar, subratlla el text: proposta de valor (què ofereix), clients (a qui), canals (com hi arriba), i al tercer paràgraf les quatre accions d’anàlisi (DAFO, TIR, llindar, capacitat productiva).\n\nRespostes curtes i precises: per a 2,5 punts n’hi ha prou amb uns 15-20 minuts. Quan es demana «un» avantatge o «un» inconvenient, en dona **només un** (els criteris diuen «només 1»): si en poses més, no sumes punts i et pots equivocar."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Recorda què és cada bloc del Canvas:\n\n- **Proposta de valor**: què ofereix l’empresa que la fa diferent i resol una necessitat del client.\n- **Segment de clients**: el grup de persones a qui s’adreça.\n- **Canals**: com arriba el producte (distribució, comunicació, venda) al client.\n\nBusca al primer paràgraf les frases que encaixen amb cada definició i cita-les."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Resposta model",
+            "cos": "- **Proposta de valor**: gelats artesanals, sense additius ni sucres afegits; productes sans i naturals (en contraposició als gelats industrials amb colorants i conservants).\n- **Segment de clients**: consumidors que busquen cuidar-se amb productes sans i naturals.\n- **Canals**: la distribució a través de detallistes independents, en el mercat espanyol."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Cada viabilitat del pla d’empresa respon a una pregunta diferent:\n\n- **Econòmica**: l’activitat generarà beneficis? → llindar de rendibilitat (a partir de quantes unitats guanyem diners).\n- **Tècnica**: tenim els mitjans per produir-ho? → capacitat productiva.\n- **Financera**: la inversió és rendible i la podem finançar? → TIR del projecte (eina de selecció d’inversions).\n- **Comercial**: hi ha mercat i podem competir? → anàlisi DAFO (entorn, competència, punts forts i febles).\n\nCopia la frase del tercer paràgraf, no te la inventis."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Resposta model",
+            "cos": "| Viabilitat | Frase del text |\n|---|---|\n| Econòmica | «buscar el llindar de rendibilitat» |\n| Tècnica | «avaluar si l’empresa disposa de prou capacitat productiva per a produir i vendre els seus productes als altres països europeus» |\n| Financera | «calcular la TIR que obtindrien amb el nou projecte» |\n| Comercial | «fer l’anàlisi DAFO» |"
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Com plantejar-ho",
+            "cos": "La pista és «se cedeix a tercers el dret a explotar la seva marca, però controlant en tot moment la manera de comercialitzar el producte, el preu i les condicions de venda»: això és una **franquícia**, i Girocream seria el **franquiciador**. L’avantatge i l’inconvenient s’han de pensar **des del punt de vista del franquiciador** (no del franquiciat)."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Resposta model",
+            "cos": "El nou model de negoci proposat és la **franquícia**: Girocream actuaria com a empresa **franquiciadora** i cediria a uns franquiciats el dret d’explotar la seva marca a canvi d’un cànon i uns *royalties*, mantenint el control sobre la manera de vendre, el preu i les condicions.\n\n- **Avantatge**: permet una expansió més ràpida del negoci i de la marca amb una menor inversió pròpia, perquè són els franquiciats qui financen els punts de venda (i, per tant, el risc financer és més baix).\n- **Inconvenient**: pèrdua de control directe sobre la gestió diària dels punts de venda, amb el risc que un franquiciat no compleixi els estàndards i perjudiqui la imatge de marca."
+          },
+          {
+            "apartat": "1.4",
+            "titol": "Com plantejar-ho",
+            "cos": "Són dos instruments de la **RSC**: un de caràcter intern i normatiu (com s’han de comportar els treballadors) i un altre informatiu, que es publica periòdicament (què ha fet l’empresa en l’àmbit social i ambiental)."
+          },
+          {
+            "apartat": "1.4",
+            "titol": "Resposta model",
+            "cos": "- El document que recull les regles i els principis que regulen el comportament dels treballadors és el **codi ètic** (o codi de conducta / codi de bones pràctiques).\n- L’informe que a final d’any recull les activitats realitzades en matèria social i mediambiental és el **balanç social** (també anomenat memòria o informe de sostenibilitat), que permet quantificar i fer el seguiment de les accions de RSC."
+          },
+          {
+            "apartat": "1.5",
+            "titol": "Com plantejar-ho",
+            "cos": "Matriu d’Ansoff (producte actual/nou × mercat actual/nou): penetració de mercat, **desenvolupament de mercats**, desenvolupament de productes i diversificació. Aquí el producte és el mateix (gelats) i el mercat és nou (altres països europeus).\n\nPer a la forma jurídica, recull les dades del text: dos socis, responsabilitat limitada, capital de 10.000 € i no cotitza en borsa. Raona per què és SL i no SA (la SA exigeix un capital mínim de 60.000 € i és la forma pròpia de les que cotitzen)."
+          },
+          {
+            "apartat": "1.5",
+            "titol": "Resposta model",
+            "cos": "L’expansió als altres països europeus és una estratègia de **desenvolupament de mercats** de la matriu d’Ansoff: l’empresa manté el seu producte actual (gelats artesanals sans) i l’introdueix en mercats geogràfics nous.\n\nPel que fa a la forma jurídica, Girocream té dos socis amb **responsabilitat limitada al capital aportat**, un capital social de **10.000 €** i **no cotitza en borsa**. Per tant, ha de ser una **societat de responsabilitat limitada (SL o SRL)**: no pot ser una societat anònima, que exigeix un capital mínim de 60.000 € (i és la forma que permet cotitzar), ni una empresa individual o una societat col·lectiva, en què la responsabilitat és il·limitada."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1.1",
+            "valor": "Proposta de valor: gelats artesanals sense additius ni sucres afegits, sans i naturals. Segment: gent que vol cuidar-se amb productes sans i naturals. Canals: detallistes independents en el mercat espanyol."
+          },
+          {
+            "apartat": "1.2",
+            "valor": "Econòmica: llindar de rendibilitat. Tècnica: capacitat productiva. Financera: TIR del nou projecte. Comercial: anàlisi DAFO."
+          },
+          {
+            "apartat": "1.3",
+            "valor": "Franquícia (Girocream és franquiciadora). Un avantatge (notorietat, economies d’escala, menor inversió, expansió ràpida, menys risc financer) i un inconvenient (pèrdua de control, menys marge, comunicació amb el client complexa, incompliments del franquiciat, inversió inicial elevada)."
+          },
+          {
+            "apartat": "1.4",
+            "valor": "Codi ètic (codi de conducta o de bones pràctiques) i balanç social."
+          },
+          {
+            "apartat": "1.5",
+            "valor": "Desenvolupament de mercats (mateix producte, mercats geogràfics nous). Forma jurídica: SL/SRL (2 socis, responsabilitat limitada, 10.000 € de capital, no cotitza)."
+          }
+        ],
+        "nota": "Errors típics: a l’1.2 confondre la viabilitat econòmica (llindar de rendibilitat) amb la financera (TIR); a l’1.3 donar avantatges i inconvenients per al franquiciat en lloc del franquiciador, o posar-ne més d’un; a l’1.5 respondre «diversificació» (només ho seria si també canviés el producte) o dir SA sense tenir en compte el capital mínim de 60.000 €. Als criteris oficials, a l’1.4 s’accepta «codi de conducta intern», «codi de bones pràctiques» o «codi ètic»."
+      }
+    },
+    {
+      "id": "empresa-2026-J-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 1.5,
+      "titol": "Àliga, SL: càlcul de les reserves, balanç de situació, fons de maniobra i ràtio de liquiditat",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "balanç de situació",
+        "masses patrimonials",
+        "reserves",
+        "fons de maniobra",
+        "ràtio de liquiditat",
+        "equilibri financer"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        6
+      ],
+      "text": "L’empresa Àliga, SL, situada en una nau propera a un centre comercial de la zona de Granollers, es dedica a la fabricació i venda de productes per a mascotes. La taula següent recull les dades econòmiques de l’empresa de l’any 2025. Els imports estan en milers d’euros.\n\n| Concepte | Import (milers d’euros) |\n|---|---:|\n| Bancs i institucions de crèdit | 27 |\n| Capital social | 12 |\n| Clients | 12 |\n| Construccions | 25 |\n| Deutes a curt termini amb entitats de crèdit | 6 |\n| Elements de transport | 18 |\n| Equips per a processos d’informació | 3 |\n| Existències comercials | 10 |\n| Hisenda pública creditora per conceptes fiscals | 2 |\n| Hisenda pública deutora per diversos conceptes | 1 |\n| Mobiliari | 10 |\n| Reserves | ? |\n| Organismes de la Seguretat Social creditors | 1 |\n| Proveïdors de l’immobilitzat a curt termini | 24 |\n| Proveïdors de l’immobilitzat a llarg termini | 30 |\n| Resultat de l’exercici | 25 |\n\n*Nota*: Tots els comptes de l’immobilitzat es presenten amb el valor net comptable (cost d’adquisició o cost de producció menys amortització acumulada).",
+      "enunciat": "Responeu els apartats 2.1 i 2.2 (l’apartat 2.3, amb opcions A i B, es tracta per separat).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "punts": 1,
+          "enunciat": "A partir de les dades proporcionades, calculeu el valor de les reserves i elaboreu el balanç de situació de l’empresa Àliga, SL a 31 de desembre de 2025. Per a fer-ho, tingueu en compte el següent:\n\n- S’ha de complir la igualtat «total actiu = patrimoni net + passiu».\n- Si, en algun cas, dins d’una massa patrimonial hi ha diferents elements patrimonials, cal que detalleu aquests elements; és a dir, no us limiteu a agrupar i a escriure directament el valor total de la massa patrimonial: heu d’especificar els elements patrimonials que la integren i detallar l’import tant dels elements com de les masses patrimonials.\n- Només heu d’incloure en el balanç de situació aquelles masses o elements patrimonials que formen part de l’enunciat de l’exercici."
+        },
+        {
+          "id": "2.2",
+          "punts": 0.5,
+          "enunciat": "Tenint en compte el balanç de situació que heu fet en l’apartat anterior, calculeu el fons de maniobra d’aquesta empresa i la ràtio de liquiditat. Indiqueu les fórmules, feu els càlculs i interpreteu els resultats obtinguts.\n\n| | Fórmula | Càlcul | Interpretació del resultat |\n|---|---|---|---|\n| Fons de maniobra | | | |\n| Ràtio de liquiditat | | | |"
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici clàssic de balanç. La clau és **classificar bé cada compte** (actiu no corrent, actiu corrent, patrimoni net, passiu no corrent, passiu corrent) i, com que les reserves són la incògnita, **calcular-les per diferència** a partir de la igualtat fonamental del patrimoni: $\\text{Actiu} = \\text{PN} + \\text{Passiu}$.\n\nL’enunciat exigeix detallar els elements dins de cada massa i subtotals: si poses només els totals, perds punts. Dedica-hi uns 15 minuts al balanç i 5 a les ràtios. A l’apartat 2.2 et demanen tres coses per a cada ràtio: fórmula, càlcul i **interpretació** (sense interpretació no tens la puntuació completa)."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Actiu no corrent** (immobilitzat material, valor net): construccions 25 + mobiliari 10 + elements de transport 18 + equips per a processos d’informació 3 = **56**.\n2. **Actiu corrent**: existències comercials 10; deutors (clients 12 + Hisenda pública deutora 1 = 13); efectiu (bancs 27). Total = 10 + 13 + 27 = **50**.\n3. **Total actiu** = 56 + 50 = **106**.\n4. **Passiu no corrent**: proveïdors d’immobilitzat a llarg termini = **30**.\n5. **Passiu corrent**: proveïdors d’immobilitzat a curt termini 24 + deutes a curt termini amb entitats de crèdit 6 + Hisenda pública creditora 2 + Seguretat Social creditora 1 = **33**.\n6. **Reserves** per diferència:\n\n$$\\text{Reserves} = \\text{Actiu} - (\\text{PC} + \\text{PNC} + \\text{Capital} + \\text{Resultat})$$\n\n$$\\text{Reserves} = 106 - (33 + 30 + 12 + 25) = 106 - 100 = 6$$\n\n7. **Patrimoni net** = 12 + 6 + 25 = **43**. Comprovació: 43 + 30 + 33 = 106 = total actiu.\n\nAtenció als paranys: «Hisenda pública **deutora**» és un dret (actiu corrent) i «Hisenda pública **creditora**» és un deute (passiu corrent). Els «proveïdors d’immobilitzat» són deutes no comercials: el termini (curt o llarg) decideix si són passiu corrent o no corrent."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "Càlcul de les reserves: Reserves = 106 − (33 + 30 + 12 + 25) = **6 milers d’euros**.\n\n**Balanç de situació d’Àliga, SL a 31-12-2025 (milers d’euros)**\n\n| ACTIU | | PATRIMONI NET I PASSIU | |\n|---|---:|---|---:|\n| **ACTIU NO CORRENT** | **56** | **PATRIMONI NET** | **43** |\n| *Immobilitzat material* | 56 | Capital social | 12 |\n| Construccions | 25 | Reserves | 6 |\n| Mobiliari | 10 | Resultat de l’exercici | 25 |\n| Elements de transport | 18 | **PASSIU NO CORRENT** | **30** |\n| Equips per a processos d’informació | 3 | Proveïdors d’immobilitzat a llarg termini | 30 |\n| **ACTIU CORRENT** | **50** | **PASSIU CORRENT** | **33** |\n| *Existències* | 10 | Proveïdors d’immobilitzat a curt termini | 24 |\n| Existències comercials | 10 | Deutes a curt termini amb entitats de crèdit | 6 |\n| *Deutors comercials i altres comptes a cobrar* | 13 | Hisenda pública creditora per conceptes fiscals | 2 |\n| Clients | 12 | Organismes de la Seguretat Social creditors | 1 |\n| Hisenda pública deutora per diversos conceptes | 1 | | |\n| *Efectiu i altres actius líquids* | 27 | | |\n| Bancs i institucions de crèdit | 27 | | |\n| **TOTAL ACTIU** | **106** | **TOTAL PATRIMONI NET I PASSIU** | **106** |\n\nEs compleix la igualtat: total actiu (106) = patrimoni net (43) + passiu (30 + 33 = 63)."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "- **Fons de maniobra**: $FM = AC - PC$ (o, equivalentment, $FM = (PN + PNC) - ANC$). Indica quina part de l’actiu corrent es finança amb recursos permanents.\n- **Ràtio de liquiditat**: $\\dfrac{AC}{PC}$. Valor de referència orientatiu entre 1,5 i 2.\n\nFes les dues versions del fons de maniobra si vols comprovar el resultat: han de donar el mateix."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "| | Fórmula | Càlcul | Interpretació |\n|---|---|---|---|\n| Fons de maniobra | $FM = AC - PC$ (o $PN + PNC - ANC$) | $50 - 33 = 17$ milers d’€ (o $43 + 30 - 56 = 17$) | FM > 0: el passiu corrent queda totalment cobert per l’actiu corrent i una part de l’actiu corrent (17.000 €) es finança amb recursos permanents. L’empresa està en **equilibri financer a curt termini**: pot fer front als deutes a curt termini. |\n| Ràtio de liquiditat | $\\dfrac{AC}{PC}$ | $\\dfrac{50}{33} = 1{,}52$ | Per cada euro de deute a curt termini l’empresa té 1,52 € d’actiu corrent. Està dins de l’interval de referència (1,5–2): **situació òptima**, té prou capacitat per pagar els deutes a curt termini sense tenir recursos ociosos. |"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "Reserves = 106 − (33 + 30 + 12 + 25) = 6. ANC 56 (construccions 25, mobiliari 10, elements de transport 18, EPI 3); AC 50 (existències 10, deutors 13 = clients 12 + HP deutora 1, bancs 27); PN 43 (capital 12, reserves 6, resultat 25); PNC 30; PC 33 (24 + 6 + 2 + 1). Total 106 = 106."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "FM = AC − PC = 50 − 33 = 17 (o 43 + 30 − 56 = 17): positiu, equilibri financer a curt termini. Liquiditat = 50 / 33 = 1,52: dins de 1,5–2, situació òptima."
+          }
+        ],
+        "nota": "Errors típics: posar Hisenda pública deutora al passiu; no detallar els elements dins de cada massa; oblidar el resultat de l’exercici al patrimoni net; no comprovar que el total d’actiu i el total de PN + passiu coincideixen. A l’apartat 2.2 la interpretació és imprescindible: digues si el valor és bo o dolent i per què, comparant-lo amb el valor de referència."
+      }
+    },
+    {
+      "id": "empresa-2026-J-e2-q3-A",
+      "exercici": 2,
+      "questio": 3,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 1,
+      "titol": "Producte Dogcan: productivitat del treball, del capital i global, taxa de variació i alternativa més eficient",
+      "tema": "produccio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "productivitat",
+        "productivitat global",
+        "taxa de variació",
+        "eficiència econòmica",
+        "factors de producció"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "L’empresa Àliga, SL disposa de dades representatives del seu procés productiu, que vol utilitzar per a fer un seguit de càlculs.\n\nEls costos setmanals dels factors necessaris per a fabricar 500 unitats d’un dels seus productes, anomenat Dogcan, són: 40 € per màquina, 400 € per treballador/a i 300 € de matèria primera.\n\nL’empresa disposa de dues alternatives per a fabricar aquest producte: A i B.\n\nDurant una setmana, ha aplicat l’alternativa A, per a la qual ha necessitat 3 màquines i 2 treballadors/es. Amb aquesta alternativa, ha obtingut 500 unitats del producte, que ha venut a un preu de 7,5 €/unitat.",
+      "enunciat": "Trieu UNA de les dues opcions, A o B (apartat 2.3). Opció A: calculeu i interpreteu els resultats següents, corresponents a l’alternativa A.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "La productivitat del factor treball.",
+          "punts": 0.2
+        },
+        {
+          "id": "b",
+          "enunciat": "La productivitat del factor capital.",
+          "punts": 0.2
+        },
+        {
+          "id": "c",
+          "enunciat": "La productivitat total o global.",
+          "punts": 0.2
+        },
+        {
+          "id": "d",
+          "enunciat": "La taxa de variació si la setmana anterior, aplicant la mateixa alternativa, la productivitat global va ser de 4,3.",
+          "punts": 0.2
+        },
+        {
+          "id": "e",
+          "enunciat": "Ara l’empresa vol valorar una altra alternativa (B), per a la qual necessitaria 4 màquines i 1 treballador/a, i amb la qual obtindria també 500 unitats del producte, que podria vendre al mateix preu de 7,5 €/unitat. Els costos unitaris dels factors i de la matèria primera serien els mateixos que en l’altra alternativa. A partir d’aquesta informació, quina alternativa de producció és més eficient econòmicament, l’alternativa A o l’alternativa B? Raoneu la resposta.",
+          "punts": 0.2
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cinc càlculs curts de 0,2 punts cadascun. En cada un: **fórmula, substitució, resultat amb unitats i interpretació** (els criteris donen la interpretació de cada resultat). Distingeix bé:\n\n- productivitat d’un factor = **unitats físiques** produïdes / quantitat d’aquell factor;\n- productivitat global = **valor** de la producció (€) / **cost** de tots els factors (€), incloent-hi la matèria primera.\n\nUns 10 minuts. Recorda indicar a la portada que has triat l’opció A."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "$$P_{\\text{treball}} = \\frac{\\text{unitats produïdes}}{\\text{nombre de treballadors}} = \\frac{500}{2} = 250 \\text{ u/treballador}$$"
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Productivitat del treball = 500 / 2 = **250 unitats per treballador i setmana**. Cada treballador ha produït, de mitjana, 250 unitats de Dogcan en una setmana."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "$$P_{\\text{capital}} = \\frac{\\text{unitats produïdes}}{\\text{nombre de màquines}} = \\frac{500}{3} = 166{,}67 \\text{ u/màquina}$$"
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Productivitat del capital = 500 / 3 = **166,67 unitats per màquina i setmana**. Cada màquina ha fabricat, de mitjana, 166,67 unitats en una setmana."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Valor de la producció = 500 × 7,5 = 3.750 €. Cost dels factors = 3 × 40 + 2 × 400 + 300 = 120 + 800 + 300 = 1.220 €.\n\n$$PG = \\frac{\\text{valor de la producció}}{\\text{cost dels factors}} = \\frac{3750}{1220} = 3{,}07$$"
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "Productivitat global = 3.750 € / 1.220 € = **3,07**. Per cada euro invertit en factors de producció, l’empresa obté 3,07 € de valor de producció. Com que és superior a 1, el procés és eficient (el valor generat supera el cost)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "$$TV = \\frac{PG_{\\text{actual}} - PG_{\\text{anterior}}}{PG_{\\text{anterior}}} \\times 100 = \\frac{3{,}07 - 4{,}3}{4{,}3} \\times 100$$\n\nEl resultat negatiu vol dir que la productivitat ha baixat."
+          },
+          {
+            "apartat": "d",
+            "titol": "Resposta model",
+            "cos": "TV = (3,07 − 4,3) / 4,3 = −1,23 / 4,3 = −0,286 → **−28,6 %**. La productivitat global ha disminuït aproximadament un 28,6 % respecte a la setmana anterior: l’empresa ha perdut eficiència (genera menys valor per cada euro de cost)."
+          },
+          {
+            "apartat": "e",
+            "titol": "Com plantejar-ho",
+            "cos": "Les dues alternatives produeixen el mateix (500 unitats, que es venen a 7,5 €): serà més eficient econòmicament la que tingui **menor cost** (o, equivalentment, la de més productivitat global).\n\n- Cost A = 3 × 40 + 2 × 400 + 300 = 1.220 €\n- Cost B = 4 × 40 + 1 × 400 + 300 = 160 + 400 + 300 = 860 €"
+          },
+          {
+            "apartat": "e",
+            "titol": "Resposta model",
+            "cos": "Cost de l’alternativa A = **1.220 €**; cost de l’alternativa B = **860 €**. L’alternativa **B** és la més eficient econòmicament, perquè obté la mateixa producció (500 unitats) amb un cost total menor.\n\nTambé es pot justificar amb la productivitat global: PG(B) = 3.750 / 860 = **4,36** > PG(A) = 3,07, és a dir, B genera més valor de producció per cada euro invertit en factors."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "500 / 2 = 250 unitats per treballador (setmana)."
+          },
+          {
+            "apartat": "b",
+            "valor": "500 / 3 = 166,67 unitats per màquina (setmana)."
+          },
+          {
+            "apartat": "c",
+            "valor": "(500 × 7,5) / (3 × 40 + 2 × 400 + 300) = 3.750 / 1.220 = 3,07; > 1, procés eficient."
+          },
+          {
+            "apartat": "d",
+            "valor": "(3,07 − 4,3) / 4,3 ≈ −28,6 % (els criteris escriuen −28,66 %): pèrdua d’eficiència."
+          },
+          {
+            "apartat": "e",
+            "valor": "Cost A = 1.220 €, cost B = 860 €: B més eficient (mateixa producció amb menys cost). També vàlid: PG(B) = 3.750 / 860 = 4,36."
+          }
+        ],
+        "nota": "Discrepància amb l’oficial: a l’apartat d) els criteris donen (3,07 − 4,3) / 4,3 = −0,2866 (−28,66 %), però el càlcul correcte és −1,23 / 4,3 = −0,2860 (−28,60 %); si no s’arrodoneix la productivitat global (3,0738), surt −28,52 %. Qualsevol d’aquests valors al voltant de −28,5 % / −28,6 % és correcte. Errors típics: oblidar la matèria primera en el cost dels factors de la productivitat global; usar unitats físiques al numerador de la productivitat global en lloc del valor en euros; no interpretar els resultats (cada apartat val només 0,2 i la interpretació en forma part)."
+      }
+    },
+    {
+      "id": "empresa-2026-J-e2-q3-B",
+      "exercici": 2,
+      "questio": 3,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 1,
+      "titol": "Mussol, SL: compte de pèrdues i guanys (resultat d’explotació, BAII, BAI i benefici net)",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "compte de pèrdues i guanys",
+        "resultat d'explotació",
+        "baii",
+        "resultat financer",
+        "bai",
+        "benefici net"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        7
+      ],
+      "text": "| Concepte | Import |\n|---|---:|\n| Import de compra de mercaderies | 110.000 € |\n| Ingressos per vendes | 440.000 € |\n| Arrendaments i cànons que paga l’empresa | 1.000 € |\n| Despeses de personal | 35.000 € |\n| Interessos del deute | 1.800 € |\n| Subministraments | 500 € |\n| Transport | 550 € |\n| Ingressos financers | 200 € |\n| Amortitzacions | 700 € |\n| Actiu | 3.000.000 € |\n| Passiu corrent | 900.000 € |\n| Passiu no corrent | 750.000 € |\n| Impost sobre beneficis | 25 % |",
+      "enunciat": "Trieu UNA de les dues opcions, A o B (apartat 2.3). Opció B: a partir de les dades de la taula següent, elaboreu el compte de pèrdues i guanys de l’empresa Mussol, SL de l’any 2025, mostrant ordenadament i detalladament els càlculs que heu fet per a obtenir el resultat d’explotació, el benefici abans d’interessos i impostos (BAII), el benefici abans d’impostos (BAI) i el benefici net (BN).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Cal construir el compte de pèrdues i guanys per esglaons: **resultat d’explotació (BAII) → resultat financer → BAI → impost → benefici net**. Es valora l’ordre i el detall: posa cada partida amb el seu signe i els subtotals.\n\n**Parany**: l’actiu, el passiu corrent i el passiu no corrent són dades de **balanç** i **no** entren al compte de pèrdues i guanys. Uns 10 minuts. Recorda indicar a la portada que has triat l’opció B."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Ingressos d’explotació**: vendes = 440.000 €.\n2. **Despeses d’explotació**: 110.000 + 35.000 + 700 + 500 + 550 + 1.000 = 147.750 €.\n3. **Resultat d’explotació (BAII)** = 440.000 − 147.750 = 292.250 €.\n4. **Resultat financer** = ingressos financers − despeses financeres = 200 − 1.800 = −1.600 €.\n5. **BAI** = BAII + resultat financer = 292.250 − 1.600 = 290.650 €.\n6. **Impost** = 25 % × 290.650 = 72.662,50 €.\n7. **Benefici net** = 290.650 − 72.662,50 = 217.987,50 €.\n\n$$BN = BAI \\times (1 - t) = 290650 \\times 0{,}75 = 217987{,}5$$"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Compte de pèrdues i guanys de Mussol, SL (2025)**\n\n| Concepte | Import (€) |\n|---|---:|\n| Ingressos per vendes (import net de la xifra de negocis) | 440.000 |\n| − Compres de mercaderies | −110.000 |\n| − Despeses de personal | −35.000 |\n| − Amortitzacions | −700 |\n| − Subministraments | −500 |\n| − Transport | −550 |\n| − Arrendaments i cànons | −1.000 |\n| **Resultat d’explotació = BAII** | **292.250** |\n| + Ingressos financers | 200 |\n| − Despeses financeres (interessos del deute) | −1.800 |\n| **Resultat financer** | **−1.600** |\n| **Resultat abans d’impostos (BAI)** | **290.650** |\n| − Impost sobre beneficis (25 %) | −72.662,50 |\n| **Resultat net (BN)** | **217.987,50** |\n\nInterpretació: l’activitat principal genera un resultat d’explotació molt elevat (292.250 €); el resultat financer és lleugerament negatiu pels interessos del deute, i després de pagar l’impost de societats l’empresa obté un benefici net de 217.987,50 €. Les dades d’actiu i passiu no s’utilitzen perquè pertanyen al balanç."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Despeses d’explotació 147.750 €; resultat d’explotació = BAII = 292.250 €; resultat financer = 200 − 1.800 = −1.600 €; BAI = 290.650 €; impost (25 %) = 72.662,50 €; BN = 217.987,50 €."
+          }
+        ],
+        "nota": "Errors típics: incloure l’actiu o el passiu al compte de resultats; restar els interessos abans del BAII; aplicar l’impost sobre el BAII en lloc del BAI. Els criteris oficials identifiquen resultat d’explotació i BAII (292.250 €) i posen els ingressos financers al resultat financer. Alguns llibres defineixen BAII = BAI + interessos (292.450 €); si ho fas així, explica-ho, però la solució de referència és la de l’oficial."
+      }
+    },
+    {
+      "id": "empresa-2026-J-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Empresa de drons: punt mort i benefici (2025 i 2026) i estratègies de comunicació",
+      "tema": "produccio",
+      "temes_secundaris": [
+        "marqueting"
+      ],
+      "conceptes": [
+        "punt mort",
+        "llindar de rendibilitat",
+        "costos fixos",
+        "costos variables",
+        "marge unitari",
+        "benefici",
+        "promoció de vendes",
+        "publicitat",
+        "relacions públiques"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        8,
+        9,
+        10
+      ],
+      "text": "El Jordi i la Carme van estudiar plegats un grau d’enginyeria i en acabar els estudis van posar en marxa una iniciativa empresarial en l’àmbit de la tecnologia. Es van especialitzar en el disseny i la fabricació de drons equipats amb càmeres de gran resolució que es podien utilitzar per a fer cerques, vigilància, gravacions per a publicitat, etc. A l’inici l’empresa era pionera en aquest sector, i es caracteritzava per oferir un producte de qualitat, versàtil i a un preu força competitiu. Han passat els anys i l’empresa ha crescut, i la seva marca s’ha convertit en un referent en el seu sector, però actualment competeix amb altres empreses que estan entrant amb força en el mercat i ofereixen productes d’una qualitat similar a la seva, la qual cosa els fa pensar que poden perdre quota de mercat. Per a saber què poden fer per a estar més ben posicionats en el mercat, han sol·licitat assessorament a una consultora externa, que, després d’haver fet un estudi de mercat, els ha fet un seguit de recomanacions i propostes que consisteixen a abaixar els preus dels drons i fer una aposta per a aplicar noves estratègies de distribució i comunicació.",
+      "enunciat": "Llegiu el cas i responeu les qüestions següents. Escriviu les fórmules de càlcul, a més de l’obtenció del resultat.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "3.1",
+          "punts": 0.9,
+          "enunciat": "L’any passat, el 2025, l’empresa va fabricar i vendre 4.000 drons, que era la quantitat màxima que podia fabricar amb l’equip i la maquinària disponibles. Els costos fixos totals anuals (CF) van ser d’1.432.750 €/any, i els costos variables totals anuals (CV) els van diferenciar per partides, de manera que els costos de mà d’obra van ser de 700.000 €/any, els costos de materials van ser de 2.240.000 €/any i els costos d’energia van ser de 250.000 €/any. El preu de venda de cada dron va ser de 2.100 €/unitat. Calculeu el punt mort i el benefici total que van aconseguir, aportant les fórmules corresponents. Raoneu per quin motiu el benefici va ser positiu o negatiu, tenint present el resultat obtingut en el càlcul del punt mort."
+        },
+        {
+          "id": "3.2",
+          "punts": 1,
+          "enunciat": "La primera proposta que els ha fet la consultora consisteix a reduir, per a aquest any 2026, el preu del producte i fixar-lo en 2.000 €/unitat. Els costos fixos previstos per al 2026 són d’1.547.000 €/any, els costos de mà d’obra tindran un increment del 5 %, i el cost de l’energia, un increment del 6 %. El cost dels materials no variarà (2.240.000 €/any), perquè tenen poder negociador dominant davant els seus proveïdors. Tenint en compte que la major part dels costos hauran augmentat, si venguessin les 4.000 unitats que podran fabricar:\n\n*a*) Quin seria el punt mort en aquest cas?\n\n*b*) Quin seria el benefici total que s’aconseguiria? Raoneu per quin motiu el benefici és positiu o negatiu, tenint present el resultat obtingut en el càlcul del punt mort."
+        },
+        {
+          "id": "3.3",
+          "punts": 0.6,
+          "enunciat": "Una altra de les recomanacions importants que ha fet la consultora al Jordi i la Carme consisteix a aplicar noves estratègies relacionades amb la distribució i la comunicació. Concretament, els han proposat tres estratègies: relacions públiques, promoció de productes i publicitat.\n\nCompleteu la taula següent relacionant cadascuna de les tres estratègies esmentades amb les característiques corresponents i fent una proposta, d’una manera molt breu, de com es podria fer efectiva la implementació de cada estratègia per al cas d’aquesta empresa (indiqueu només UNA proposta per a cada estratègia).\n\n| Característiques de l’estratègia | Nom de l’estratègia | Proposta d’implementació |\n|---|---|---|\n| Incentius que utilitzen les empreses per a incrementar les vendes en poc temps | | |\n| Divulgació d’informació emesa per un mitjà de comunicació | | |\n| Actuacions que ajuden a connectar amb el públic objectiu, o a crear o millorar la imatge de la marca | | |"
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Els apartats 3.1 i 3.2 són el mateix càlcul amb dades diferents: **cost variable unitari → punt mort → benefici → raonament**. Les dades de costos variables vénen **totals i per partides**: primer suma-les i després divideix entre les unitats per obtenir el cost variable unitari. La nota de l’enunciat obliga a escriure les fórmules.\n\nEl raonament que demanen és sempre el mateix: si la quantitat venuda és **superior al punt mort**, el benefici és positiu. El 3.3 és teoria de màrqueting (comunicació/promoció): tres noms i tres propostes concretes per a una empresa de drons. Temps orientatiu: 20 minuts."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Com plantejar-ho",
+            "cos": "- $CV = 700000 + 2240000 + 250000 = 3190000$ €\n- $cv = \\dfrac{CV}{Q} = \\dfrac{3190000}{4000} = 797{,}5$ €/u\n- Punt mort: $Q^* = \\dfrac{CF}{p - cv} = \\dfrac{1432750}{2100 - 797{,}5} = \\dfrac{1432750}{1302{,}5} = 1100$ drons\n- Benefici: $B = p \\cdot Q - (CF + CV) = 4000 \\cdot 2100 - (1432750 + 3190000)$"
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Resposta model",
+            "cos": "Costos variables totals = 700.000 + 2.240.000 + 250.000 = 3.190.000 €. Cost variable unitari = 3.190.000 / 4.000 = **797,5 €/unitat**.\n\n**Punt mort** = CF / (p − cv) = 1.432.750 / (2.100 − 797,5) = 1.432.750 / 1.302,5 = **1.100 drons**.\n\n**Benefici** = ingressos − costos totals = 4.000 × 2.100 − (1.432.750 + 3.190.000) = 8.400.000 − 4.622.750 = **3.777.250 €**.\n\nEl benefici és **positiu** perquè l’empresa va fabricar i vendre 4.000 drons, una quantitat molt superior al punt mort (1.100 drons), que és el volum a partir del qual els ingressos cobreixen tots els costos i es comencen a obtenir beneficis. Cada dron venut per sobre de 1.100 aporta un marge de 1.302,5 €: (4.000 − 1.100) × 1.302,5 = 3.777.250 €."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Actualitza primer les partides que canvien:\n\n- Mà d’obra: 700.000 × 1,05 = 735.000 €\n- Energia: 250.000 × 1,06 = 265.000 €\n- Materials: 2.240.000 € (no varien)\n\n$CV = 735000 + 2240000 + 265000 = 3240000$ €; $cv = 3240000 / 4000 = 810$ €/u.\n\nDesprés aplica les mateixes fórmules amb p = 2.000 € i CF = 1.547.000 €."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Resposta model",
+            "cos": "**a)** Cost variable unitari = 3.240.000 / 4.000 = 810 €/unitat.\n\nPunt mort = CF / (p − cv) = 1.547.000 / (2.000 − 810) = 1.547.000 / 1.190 = **1.300 drons**.\n\n**b)** Benefici = (Q × p) − (CF + CV) = 4.000 × 2.000 − (1.547.000 + 3.240.000) = 8.000.000 − 4.787.000 = **3.213.000 €**.\n\nEl benefici continua sent **positiu** perquè les 4.000 unitats venudes superen àmpliament el punt mort (1.300 drons). Tot i això, és més baix que el 2025: el preu ha baixat i els costos han pujat, de manera que el marge unitari passa de 1.302,5 € a 1.190 €, el punt mort puja de 1.100 a 1.300 drons i el benefici es redueix en 564.250 €."
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Les tres eines formen part de la política de comunicació (promoció) del màrqueting mix:\n\n- **Promoció de vendes**: incentius a curt termini per vendre més (descomptes, regals, sortejos).\n- **Publicitat**: comunicació pagada a través de mitjans de comunicació.\n- **Relacions públiques**: accions per millorar la imatge i la relació amb el públic (patrocinis, fires, esdeveniments).\n\nLes propostes han de ser concretes i adaptades a una empresa de drons. Només UNA per fila."
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Resposta model",
+            "cos": "| Característiques de l’estratègia | Nom de l’estratègia | Proposta d’implementació |\n|---|---|---|\n| Incentius que utilitzen les empreses per a incrementar les vendes en poc temps | **Promoció de productes (de vendes)** | Descompte del 10 % durant un mes en la compra d’un dron amb una bateria addicional de regal. |\n| Divulgació d’informació emesa per un mitjà de comunicació | **Publicitat** | Campanya d’anuncis a YouTube i a revistes especialitzades de fotografia i vídeo amb imatges gravades pels drons. |\n| Actuacions que ajuden a connectar amb el públic objectiu, o a crear o millorar la imatge de la marca | **Relacions públiques** | Fer demostracions de vol a fires tecnològiques o patrocinar un equip de rescat (bombers, salvament) que utilitzi els drons. |"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "3.1",
+            "valor": "CV = 3.190.000 €; cv = 797,5 €/u; punt mort = 1.432.750 / (2.100 − 797,5) = 1.100 drons; benefici = 8.400.000 − 4.622.750 = 3.777.250 €; positiu perquè 4.000 > 1.100."
+          },
+          {
+            "apartat": "3.2",
+            "valor": "Mà d’obra 735.000 €, energia 265.000 €, CV = 3.240.000 €, cv = 810 €/u; punt mort = 1.547.000 / 1.190 = 1.300 drons; benefici = 8.000.000 − 4.787.000 = 3.213.000 €; positiu perquè 4.000 > 1.300 (tot i el menor marge unitari)."
+          },
+          {
+            "apartat": "3.3",
+            "valor": "Promoció de productes (ofertes, sortejos, descomptes, 2×1, mostres...); publicitat (TV, YouTube, xarxes socials, revistes, bàners...); relacions públiques (influencers, campanyes solidàries, fires, demostracions, patrocinis...)."
+          }
+        ],
+        "nota": "Errors típics: fer servir el cost variable total en lloc de l’unitari a la fórmula del punt mort; aplicar l’increment del 5 % o el 6 % a tots els costos variables (els materials no varien); oblidar el raonament (és part de la puntuació); donar més d’una proposta per estratègia al 3.3 o propostes genèriques que no tenen res a veure amb drons."
+      }
+    },
+    {
+      "id": "empresa-2026-J-e4-q1",
+      "exercici": 4,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Empresa individual: responsabilitat i capital",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "empresa individual",
+        "formes jurídiques",
+        "responsabilitat il·limitada"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "L’empresa individual es caracteritza perquè",
+      "figures": [],
+      "opcions": {
+        "a": "la responsabilitat està limitada al capital aportat i el capital mínim està fixat en els estatuts.",
+        "b": "la responsabilitat està limitada al capital aportat i el capital mínim és de 60.000 euros.",
+        "c": "la responsabilitat és il·limitada i no hi ha un mínim de capital.",
+        "d": "pot tenir un o més socis i la responsabilitat està limitada al capital aportat."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada encert val 0,25 punts i cada error resta 0,08 punts (les no contestades no resten). Si en pots descartar dues amb seguretat, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. L’empresari individual (autònom) respon dels deutes amb **tot el seu patrimoni personal** (responsabilitat il·limitada) i la llei no exigeix cap capital mínim. Les opcions a), b) i d) descriuen societats de capital: la b) és la societat anònima (60.000 €) i la d) s’assembla a una SL; una empresa individual, per definició, té un sol titular."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2026-J-e4-q2",
+      "exercici": 4,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Estratègia de l’oceà blau",
+      "tema": "models-negoci",
+      "temes_secundaris": [],
+      "conceptes": [
+        "oceà blau",
+        "matriu eric",
+        "innovació en valor",
+        "competència"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        10
+      ],
+      "text": "",
+      "enunciat": "Per a l’anàlisi de la competència i dels nínxols de mercat, es poden utilitzar la matriu ERIC i els oceans blaus. Pel que fa als oceans blaus, podem dir que",
+      "figures": [],
+      "opcions": {
+        "a": "és un quadrant de quatre espais l’objectiu del qual és qüestionar el model de negoci i plantejar accions que permetin a l’empresa diferenciar-se de la competència i crear valor.",
+        "b": "la seva estratègia és la recerca simultània de diferenciació i costos baixos per a obrir un nou espai que encara no ha estat explotat pel comerç.",
+        "c": "és una eina que permet personalitzar, caracteritzar i conèixer el prototip de client de l’empresa.",
+        "d": "la seva base no serà mai la diferència amb la competència."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada encert val 0,25 punts i cada error resta 0,08 punts (les no contestades no resten). Si en pots descartar dues amb seguretat, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. L’estratègia de l’**oceà blau** (Kim i Mauborgne) busca crear un espai de mercat nou, sense competència, combinant **alhora diferenciació i costos baixos** (innovació en valor). L’opció a) descriu la **matriu ERIC** (eliminar, reduir, incrementar, crear), la c) descriu el **buyer persona** / mapa d’empatia, i la d) és falsa perquè l’oceà blau es basa precisament en diferenciar-se."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2026-J-e4-q3",
+      "exercici": 4,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Classificació de les empreses segons la forma jurídica",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "classificació d'empreses",
+        "formes jurídiques",
+        "empresa individual",
+        "societats"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Segons el marc jurídic que regula l’activitat empresarial, les empreses poden ser",
+      "figures": [],
+      "opcions": {
+        "a": "del sector primari, secundari, terciari o quaternari.",
+        "b": "privades, públiques o mixtes.",
+        "c": "locals, regionals, nacionals, internacionals i multinacionals.",
+        "d": "individuals o societàries."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada encert val 0,25 punts i cada error resta 0,08 punts (les no contestades no resten). Si en pots descartar dues amb seguretat, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. El **marc jurídic** (forma jurídica) distingeix entre empresa **individual** (un titular persona física) i empresa **societària** (societats). Les altres opcions són classificacions per altres criteris: a) sector d’activitat, b) titularitat o propietat del capital, c) àmbit geogràfic d’actuació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2026-J-e4-q4",
+      "exercici": 4,
+      "questio": 4,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Balanç social i RSC",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "responsabilitat social corporativa",
+        "balanç social",
+        "codi ètic"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Quin document utilitzen les empreses per a informar de manera ordenada i resumida de les seves actuacions en els àmbits social, laboral i ambiental?",
+      "figures": [],
+      "opcions": {
+        "a": "El codi ètic.",
+        "b": "La memòria financera.",
+        "c": "El balanç social.",
+        "d": "El pla estratègic."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada encert val 0,25 punts i cada error resta 0,08 punts (les no contestades no resten). Si en pots descartar dues amb seguretat, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. El **balanç social** és l’informe periòdic on l’empresa resumeix les seves actuacions socials, laborals i ambientals (RSC). El codi ètic recull normes de comportament (no informa del que s’ha fet), la memòria financera explica els comptes anuals i el pla estratègic fixa objectius i estratègies de futur. (Relacionat amb l’apartat 1.4.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2026-J-e4-q5",
+      "exercici": 4,
+      "questio": 5,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Mapa d’empatia",
+      "tema": "models-negoci",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mapa d'empatia",
+        "client",
+        "segment de clients"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Pel que fa al mapa d’empatia, al centre hi hem de col·locar sempre",
+      "figures": [],
+      "opcions": {
+        "a": "el client.",
+        "b": "els objectius.",
+        "c": "el producte.",
+        "d": "els resultats."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada encert val 0,25 punts i cada error resta 0,08 punts (les no contestades no resten). Si en pots descartar dues amb seguretat, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. El **mapa d’empatia** és una eina per conèixer a fons el client: al centre es posa el **client** (perfil tipus) i al voltant què pensa i sent, què veu, què escolta, què diu i fa, i les seves frustracions (esforços) i motivacions (resultats)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2026-J-e4-q6",
+      "exercici": 4,
+      "questio": 6,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Recerca, desenvolupament i innovació",
+      "tema": "produccio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "r+d+i",
+        "recerca",
+        "innovació",
+        "desenvolupament"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Quan un equip de físics de diverses universitats investiguen les propietats d’un material determinat, fan",
+      "figures": [],
+      "opcions": {
+        "a": "innovació.",
+        "b": "desenvolupament.",
+        "c": "recerca.",
+        "d": "productivitat."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada encert val 0,25 punts i cada error resta 0,08 punts (les no contestades no resten). Si en pots descartar dues amb seguretat, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. Investigar les propietats d’un material per ampliar el coneixement és **recerca** (investigació, sovint bàsica). El **desenvolupament** aplica aquest coneixement per crear nous productes o processos, i la **innovació** és introduir-los amb èxit al mercat. La productivitat no és una activitat, sinó una mesura d’eficiència."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2026-J-e4-q7",
+      "exercici": 4,
+      "questio": 7,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Agents econòmics i escassetat",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "agents econòmics",
+        "economies domèstiques",
+        "escassetat"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Respecte a l’economia, els agents econòmics i l’escassetat de recursos, podem dir que",
+      "figures": [],
+      "opcions": {
+        "a": "cap agent econòmic pot ser productor i consumidor alhora.",
+        "b": "l’escassetat de recursos és un fenomen relatiu, en la mesura que afecta les economies menys desenvolupades.",
+        "c": "els consumidors, que també anomenem unitats econòmiques de consum o economies domèstiques, són les famílies, els individus i altres entitats que tenen com a activitat principal la presa de decisions de consum, és a dir, la tria de béns i serveis que demanaran per a satisfer millor les seves necessitats.",
+        "d": "l’escassetat de recursos no serà mai un problema econòmic."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada encert val 0,25 punts i cada error resta 0,08 punts (les no contestades no resten). Si en pots descartar dues amb seguretat, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. La c) és la definició correcta de les **economies domèstiques** (famílies). La a) és falsa: un agent pot ser productor i consumidor alhora (les famílies consumeixen i ofereixen treball; les empreses també consumeixen). La b) i la d) són falses: l’escassetat és el **problema econòmic fonamental** i afecta totes les economies, no només les menys desenvolupades."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2026-J-e4-q8",
+      "exercici": 4,
+      "questio": 8,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Pla d’empresa: viabilitat comercial",
+      "tema": "emprenedoria",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pla d'empresa",
+        "viabilitat comercial",
+        "anàlisi de la competència"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "En el pla d’empresa, podem incloure l’anàlisi de la competència en l’apartat de viabilitat",
+      "figures": [],
+      "opcions": {
+        "a": "legal.",
+        "b": "comercial.",
+        "c": "financera.",
+        "d": "mediambiental."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada encert val 0,25 punts i cada error resta 0,08 punts (les no contestades no resten). Si en pots descartar dues amb seguretat, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. L’anàlisi de la competència, juntament amb l’estudi de mercat i dels clients, forma part de la **viabilitat comercial** (hi ha mercat per al producte i podem competir-hi?). La viabilitat legal estudia la normativa i la forma jurídica, la financera els recursos i la rendibilitat de la inversió, i la mediambiental l’impacte ambiental."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2026-J-e4-q9",
+      "exercici": 4,
+      "questio": 9,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Propietat industrial: la patent",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "patent",
+        "propietat industrial",
+        "marca",
+        "propietat intel·lectual"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Una patent és",
+      "figures": [],
+      "opcions": {
+        "a": "un títol que reconeix el dret d’explotar en exclusiva un invent.",
+        "b": "el nom comercial d’un producte.",
+        "c": "els drets d’una persona física sobre la seva obra.",
+        "d": "qualsevol informació o coneixement tecnològic, científic, industrial, comercial, organitzatiu o financer."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada encert val 0,25 punts i cada error resta 0,08 punts (les no contestades no resten). Si en pots descartar dues amb seguretat, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. La **patent** és un títol de propietat industrial que dona dret a explotar un invent en exclusiva durant un temps (20 anys). La b) correspon a la **marca** o nom comercial, la c) a la **propietat intel·lectual** (drets d’autor) i la d) s’acosta a la definició de **secret empresarial** o *know-how*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2026-J-e4-q10",
+      "exercici": 4,
+      "questio": 10,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Anàlisi DAFO: la competència com a amenaça",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "dafo",
+        "amenaces",
+        "factors externs",
+        "competència"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "A partir de l’anàlisi DAFO d’un projecte empresarial, si detectem un nivell elevat de competència en el sector, el considerarem",
+      "figures": [],
+      "opcions": {
+        "a": "dins dels factors externs, com una amenaça.",
+        "b": "dins dels factors interns, com una amenaça.",
+        "c": "dins dels factors externs, com una debilitat.",
+        "d": "dins dels factors externs, com una oportunitat."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test: cada encert val 0,25 punts i cada error resta 0,08 punts (les no contestades no resten). Si en pots descartar dues amb seguretat, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. A la DAFO, **debilitats i fortaleses** són factors **interns** (de la pròpia empresa) i **amenaces i oportunitats** són factors **externs** (de l’entorn). Una competència elevada és un factor de l’entorn que perjudica l’empresa: és una **amenaça externa**. La b) barreja intern amb amenaça i la c) extern amb debilitat, combinacions que no existeixen."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": ""
+      }
+    }
+  ]
+}

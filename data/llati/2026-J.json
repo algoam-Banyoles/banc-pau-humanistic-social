@@ -1,0 +1,797 @@
+{
+  "examen": {
+    "id": "llati-2026-J",
+    "assignatura": "llati",
+    "materia": "Llengua i cultura llatines",
+    "any": 2026,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/llati/2026-J-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2026-J-solucio.pdf",
+    "estructura": "Quatre exercicis obligatoris (10 punts), amb diccionari i apèndix gramatical: 1. Traducció d'un text llatí (4 punts); 2. Morfosintaxi (1 punt) i etimologia (1 punt) sobre el mateix text; 3. Cultura llatina i el seu llegat (2 punts): cal triar l'opció A (4 afirmacions vertader/fals sobre la Hispània romana) o la B (4 preguntes d'opció múltiple sobre les *Metamorfosis* d'Ovidi); cada encert val 0,5 i cada error resta 0,16; 4. Exposició (mínim 150 paraules) sobre un passatge d'una lectura obligatòria (2 punts). La mala redacció pot descomptar fins a 0,4 punts a l'exercici 1 i fins a 0,2 als exercicis 2 i 4."
+  },
+  "problemes": [
+    {
+      "id": "llati-2026-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 4,
+      "titol": "Traducció d'Higí: Prometeu, Vulcà i la creació de Pandora",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "higí",
+        "faules",
+        "mitologia",
+        "oració de relatiu",
+        "veu passiva",
+        "verb deponent",
+        "aposició"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Els déus doten de tots els atributs la primera dona de la humanitat**\n\nPrometheus, Iapeti filius, primum homines ex luto finxit. Postea Vulcanus Iouis iussu ex luto mulieris effigiem fecit, cui Minerua animam dedit, ceterique dii etiam donum dederunt; ob id Pandoram nominauerunt. Ea data est in coniugium Epimetheo fratri; inde nata est Pyrrha.\n\nHigí, *Faules*, 142\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *deus, -i* (m.): déu.\n- *Epimetheus, -ei* (m.): Epimeteu (germà de Prometeu).\n- *fingo, finxi, fictum* (3a, tr.): modelar, afaiçonar.\n- *Iapetus, -i* (m.): Jàpet (tità, pare de Prometeu i d'Epimeteu).\n- *inde* (adv.): d'aquí.\n- *Iuppiter, Iouis* (m.): Júpiter (déu del cel, rei dels déus i dels homes).\n- *iussus, -us* (m.): ordre, manament.\n- *Minerua, -ae* (f.): Minerva (deessa de la saviesa i de les arts).\n- *nascor, natus sum* (3a, dep. intr.): néixer.\n- *Pandora, -ae* (f.): Pandora (nom de la primera dona).\n- *primum* (adv.): primerament.\n- *Prometheus, -ei* (m.): Prometeu (semideu, benefactor de la humanitat).\n- *Pyrrha, -ae* (f.): Pirra (filla de Pandora i Epimeteu).\n- *Volcanus (Vulc-), -i* (m.): Vulcà (déu del foc, fill de Júpiter).",
+      "enunciat": "Feu la versió del text següent (4 punts; la manca de coherència i cohesió en la redacció, els errors gramaticals, lèxics i ortogràfics i les deficiències en la presentació poden comportar un descompte de fins a 0,4 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És un text breu i narratiu d'Higí (tres períodes separats per punt i coma o punt) amb molt vocabulari glossat. Val **4 punts**, la meitat de l'examen: dedica-hi uns 35-40 minuts.\n\nMètode: (1) llegeix tot el text i el títol, que ja t'explica el contingut (la creació de Pandora); (2) per a cada oració, localitza primer els **verbs conjugats** (*finxit, fecit, dedit, dederunt, nominauerunt, data est, nata est*) i després el subjecte (nominatiu) i els complements; (3) fes una traducció literal i, al final, poleix-la en bon català.\n\nParanys: *dii* és el nominatiu plural de *deus* (també *dei* o *di*); *-que* de *ceterique* és una conjunció enclítica («i»); *cui* és un relatiu en **datiu**; *data est* és passiva i *nata est* és d'un verb **deponent** (forma passiva, significat actiu: «nasqué»). Es descompten fins a 0,4 punts per mala redacció o ortografia."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Prometheus, Iapeti filius, primum homines ex luto finxit.*\n\n- Verb: *finxit*, 3a sg. perfet d'indicatiu actiu de *fingo* («modelà»).\n- Subjecte: *Prometheus* (nominatiu sg.), amb l'aposició *filius* (nom. sg.), que porta el complement del nom *Iapeti* (genitiu sg.): «Prometeu, fill de Jàpet».\n- *primum*: adverbi, «primerament».\n- CD: *homines* (acusatiu pl. de *homo, -inis*): «els homes».\n- *ex luto*: *ex* + ablatiu de *lutum, -i* (n.) «fang»: complement de matèria/procedència, «a partir del fang»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Postea Vulcanus Iouis iussu ex luto mulieris effigiem fecit, cui Minerua animam dedit, ceterique dii etiam donum dederunt; ob id Pandoram nominauerunt.*\n\n- Oració principal: verb *fecit* (3a sg. perfet de *facio*); subjecte *Vulcanus*; *postea* adverbi «després»; *Iouis iussu*: ablatiu *iussu* (de *iussus, -us*) amb el genitiu *Iouis* = «per ordre de Júpiter» (CC de causa/manera); *ex luto* «a partir del fang»; CD *effigiem* (acusatiu de *effigies, -ei*, 5a decl., «figura, imatge»), amb el CN *mulieris* (genitiu de *mulier, -eris*): «la figura d'una dona».\n- Subordinada de relatiu: *cui* (pronom relatiu, datiu sg., antecedent *effigiem*), CI de *dedit*; subjecte *Minerua*; CD *animam*: «a la qual Minerva donà l'ànima».\n- Coordinada amb *-que*: *ceteri dii* (nom. pl.) subjecte de *dederunt* (3a pl. perfet de *do*); *etiam* «també»; CD *donum* «un do». Es sobreentén el mateix CI (*cui*): «i els altres déus també (li) donaren un do».\n- *ob id*: *ob* + acusatiu del demostratiu neutre *id*, «per això» (CC de causa). *nominauerunt* (3a pl. perfet de *nomino*): subjecte implícit, els déus; CD implícit (la dona, *eam*) i *Pandoram*, predicatiu del CD: «l'anomenaren Pandora»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Ea data est in coniugium Epimetheo fratri; inde nata est Pyrrha.*\n\n- *Ea*: pronom anafòric, nominatiu sg. f. (es refereix a Pandora), subjecte de *data est* (3a sg. perfet d'indicatiu **passiu** de *do*): «ella fou donada».\n- *in coniugium*: *in* + acusatiu de *coniugium, -ii* «matrimoni», CC de finalitat: «en matrimoni».\n- *Epimetheo* (datiu sg.) CI, amb l'aposició *fratri* (datiu de *frater, -tris*): «a (son) germà Epimeteu».\n- *inde*: adverbi «d'aquí»; *nata est*: 3a sg. perfet de *nascor* (deponent: forma passiva, sentit actiu) «nasqué»; subjecte *Pyrrha*."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Prometeu, fill de Jàpet, primerament els homes a partir del fang modelà. Després Vulcà, per ordre de Júpiter, a partir del fang d'una dona la figura va fer, a la qual Minerva l'ànima donà, i els altres déus també un do donaren; per això Pandora (l')anomenaren. Ella fou donada en matrimoni a Epimeteu, (son) germà; d'aquí nasqué Pirra."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Prometeu, fill de Jàpet, primer va modelar els homes amb fang. Després, Vulcà, per ordre de Júpiter, va fer amb fang la figura d'una dona, a la qual Minerva va donar l'ànima, i també els altres déus li van donar un do; per això la van anomenar Pandora. Ella va ser donada en matrimoni al seu germà Epimeteu; d'aquí va néixer Pirra.\n\nTraducció orientativa oficial: «Prometeu, fill de Jàpet, primerament, modelà els homes a partir del fang. Després, Vulcà, per ordre de Júpiter, va fer, a partir del fang, la figura d'una dona, a la qual Minerva va donar l'ànima i els altres déus també li van donar un do; per això l'anomenaren Pandora. Ella fou donada en matrimoni al germà Epimeteu; d'aquí en nasqué Pirra.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Prometeu, fill de Jàpet, primerament, modelà els homes a partir del fang. Després, Vulcà, per ordre de Júpiter, va fer, a partir del fang, la figura d'una dona, a la qual Minerva va donar l'ànima i els altres déus també li van donar un do; per això l'anomenaren Pandora. Ella fou donada en matrimoni al germà Epimeteu; d'aquí en nasqué Pirra.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: *Iapeti filius* com a aposició del subjecte; *Iouis iussu* «per ordre de Júpiter»; *cui* relatiu en datiu (CI) amb antecedent *mulieris effigiem*; *ceteri dii* subjecte de *dederunt*; *ob id* «per això»; *Pandoram* predicatiu; *data est* passiva; *nata est* deponent («nasqué»)."
+          }
+        ],
+        "nota": "Errors típics: traduir *dii* com a genitiu singular («del déu») en lloc de nominatiu plural; no veure que *cui* és datiu i fer-lo subjecte; oblidar el *-que* de *ceterique*; traduir *nata est* com a passiva («fou nascuda»); confondre *fratri* (germà, d'Epimeteu respecte a Prometeu) com si fos germà de Pandora. *Pandora* significa en grec «la que té tots els dons» (πᾶν + δῶρον), d'aquí el *ob id*. Revisa la redacció final: es pot perdre fins a 0,4 punts per incorreccions."
+      }
+    },
+    {
+      "id": "llati-2026-J-e2-q1",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": null,
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: aposició, relatiu cui, subjecte i CD de dederunt, pronom ea",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "aposició",
+        "genitiu",
+        "oració de relatiu",
+        "datiu",
+        "complement indirecte",
+        "pronom anafòric",
+        "veu passiva"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "**Els déus doten de tots els atributs la primera dona de la humanitat**\n\nPrometheus, Iapeti filius, primum homines ex luto finxit. Postea Vulcanus Iouis iussu ex luto mulieris effigiem fecit, cui Minerua animam dedit, ceterique dii etiam donum dederunt; ob id Pandoram nominauerunt. Ea data est in coniugium Epimetheo fratri; inde nata est Pyrrha.\n\nHigí, *Faules*, 142\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *deus, -i* (m.): déu.\n- *Epimetheus, -ei* (m.): Epimeteu (germà de Prometeu).\n- *fingo, finxi, fictum* (3a, tr.): modelar, afaiçonar.\n- *Iapetus, -i* (m.): Jàpet (tità, pare de Prometeu i d'Epimeteu).\n- *inde* (adv.): d'aquí.\n- *Iuppiter, Iouis* (m.): Júpiter (déu del cel, rei dels déus i dels homes).\n- *iussus, -us* (m.): ordre, manament.\n- *Minerua, -ae* (f.): Minerva (deessa de la saviesa i de les arts).\n- *nascor, natus sum* (3a, dep. intr.): néixer.\n- *Pandora, -ae* (f.): Pandora (nom de la primera dona).\n- *primum* (adv.): primerament.\n- *Prometheus, -ei* (m.): Prometeu (semideu, benefactor de la humanitat).\n- *Pyrrha, -ae* (f.): Pirra (filla de Pandora i Epimeteu).\n- *Volcanus (Vulc-), -i* (m.): Vulcà (déu del foc, fill de Júpiter).",
+      "enunciat": "2.1. Morfosintaxi [1 punt]. Responeu a les qüestions següents sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Analitzeu morfològicament el sintagma *Prometheus, Iapeti filius* i digueu quina funció fa respecte a la forma verbal *finxit*.",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "En la construcció *cui Minerua animam dedit*, digueu quin tipus d'oració introdueix el pronom *cui*, quin és el seu antecedent i quina funció sintàctica fa respecte al verb *dedit*.",
+          "punts": 0.25
+        },
+        {
+          "id": "c",
+          "enunciat": "Indiqueu el subjecte i el complement directe de la forma verbal *dederunt*.",
+          "punts": 0.25
+        },
+        {
+          "id": "d",
+          "enunciat": "Analitzeu morfosintàcticament la forma pronominal *ea*.",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Quatre preguntes curtes (1 punt en total, uns 10 minuts). «Analitzar morfològicament» vol dir donar, per a cada mot, la categoria (substantiu, pronom...), el cas, el nombre i el gènere; «morfosintàcticament» vol dir això i, a més, la funció. Respon amb frases completes i sempre amb la mateixa estructura: forma → anàlisi → funció → respecte a quin verb."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Mira les terminacions: *Prometheus* i *filius* acaben en *-us* (nominatiu sg. de la 2a declinació, o declinació grega en el cas de *Prometheus*); *Iapeti* en *-i* és genitiu sg. Els nominatius són el subjecte del verb en veu activa *finxit*. *filius* és una aposició perquè està en el mateix cas que *Prometheus* i el defineix (sense verb)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El sintagma està format per dos substantius masculins en nominatiu singular: el nom propi *Prometheus*, nucli del sintagma, i el nom comú *filius*, en aposició, que porta com a complement del nom el substantiu masculí *Iapeti*, en genitiu singular. Tot el sintagma fa la funció de **subjecte** de *finxit*."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*cui* és el datiu singular del relatiu *qui, quae, quod*: introdueix una subordinada adjectiva. L'antecedent és el nom que es troba just abans i que concorda en gènere i nombre (femení sg.): *effigiem* (amb *mulieris*). Dins la relativa, *Minerua* és el subjecte i *animam* el CD; el datiu, doncs, és el complement indirecte (a qui es dona l'ànima)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El pronom *cui* introdueix una **oració subordinada de relatiu** (adjectiva). El seu antecedent és el sintagma nominal *mulieris effigiem* («la figura d'una dona»). Com que està en datiu singular, fa la funció de **complement indirecte** de *dedit* («a la qual Minerva va donar l'ànima»)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "*dederunt* és 3a persona del plural: busca un nominatiu plural → *ceteri dii* (*-que* és la conjunció). El CD és l'acusatiu: *donum* (neutre: nominatiu i acusatiu iguals; aquí no pot ser subjecte perquè és singular i el verb és plural)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "El subjecte de *dederunt* és el sintagma *ceteri dii* («els altres déus»), en nominatiu plural masculí. El complement directe és el substantiu neutre *donum* («un do»), en acusatiu singular."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "*ea* pot ser nominatiu sg. femení, ablatiu sg. femení o nominatiu/acusatiu pl. neutre del demostratiu *is, ea, id*. El context ho decideix: és el subjecte del verb passiu *data est*, que està en singular i en femení (*data*), i es refereix a Pandora."
+          },
+          {
+            "apartat": "d",
+            "titol": "Resposta model",
+            "cos": "*ea* és el pronom anafòric (demostratiu) *is, ea, id*, en **nominatiu singular femení**; es refereix a Pandora. Sintàcticament fa la funció de **subjecte** de la forma verbal passiva *data est*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Dos substantius masculins en nominatiu sg.: *Prometheus* (nucli) i *filius* (aposició), aquest amb el CN *Iapeti* (genitiu sg.). Funció: subjecte de *finxit*."
+          },
+          {
+            "apartat": "b",
+            "valor": "Subordinada de relatiu (adjectiva); antecedent *mulieris effigiem*; *cui* és CI de *dedit*."
+          },
+          {
+            "apartat": "c",
+            "valor": "Subjecte: *ceteri dii*. CD: *donum*."
+          },
+          {
+            "apartat": "d",
+            "valor": "Pronom anafòric, nominatiu sg. femení (= Pandora); subjecte de la forma passiva *data est*."
+          }
+        ],
+        "nota": "Els criteris oficials divideixen l'apartat c en dos (c: subjecte; d: CD) i numeren el pronom *ea* com a e; el contingut és el mateix. La pauta oficial escriu *mulieris efigiem* (errata per *effigiem*). Errors típics: dir que *cui* és subjecte o que el seu antecedent és *Minerua*; confondre *ea* amb un ablatiu; oblidar indicar el gènere i el nombre."
+      }
+    },
+    {
+      "id": "llati-2026-J-e2-q2",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": null,
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Etimologia: cultismes de filius, homines, fecit, nata est; datiu i confraternitzar",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "cultisme",
+        "derivat",
+        "compost",
+        "etimologia",
+        "filius",
+        "facio",
+        "nascor",
+        "frater"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Els déus doten de tots els atributs la primera dona de la humanitat**\n\nPrometheus, Iapeti filius, primum homines ex luto finxit. Postea Vulcanus Iouis iussu ex luto mulieris effigiem fecit, cui Minerua animam dedit, ceterique dii etiam donum dederunt; ob id Pandoram nominauerunt. Ea data est in coniugium Epimetheo fratri; inde nata est Pyrrha.\n\nHigí, *Faules*, 142\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *deus, -i* (m.): déu.\n- *Epimetheus, -ei* (m.): Epimeteu (germà de Prometeu).\n- *fingo, finxi, fictum* (3a, tr.): modelar, afaiçonar.\n- *Iapetus, -i* (m.): Jàpet (tità, pare de Prometeu i d'Epimeteu).\n- *inde* (adv.): d'aquí.\n- *Iuppiter, Iouis* (m.): Júpiter (déu del cel, rei dels déus i dels homes).\n- *iussus, -us* (m.): ordre, manament.\n- *Minerua, -ae* (f.): Minerva (deessa de la saviesa i de les arts).\n- *nascor, natus sum* (3a, dep. intr.): néixer.\n- *Pandora, -ae* (f.): Pandora (nom de la primera dona).\n- *primum* (adv.): primerament.\n- *Prometheus, -ei* (m.): Prometeu (semideu, benefactor de la humanitat).\n- *Pyrrha, -ae* (f.): Pirra (filla de Pandora i Epimeteu).\n- *Volcanus (Vulc-), -i* (m.): Vulcà (déu del foc, fill de Júpiter).",
+      "enunciat": "2.2. Etimologia [1 punt]. Responeu a les qüestions següents sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Esmenteu un cultisme, derivat o compost, amb el qual estigui relacionat etimològicament cadascun dels següents mots llatins del text: — *filius*: — *homines*: — *fecit*: — *nata est*:",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Indiqueu amb quin mot llatí del text estan relacionades etimològicament les paraules: — datiu: — confraternitzar:",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta ràpida (5-8 minuts). Un **cultisme** és un mot pres directament del llatí escrit, que conserva la forma llatina gairebé intacta (*filial*, no *fill*, que és el mot patrimonial). Pensa sempre a partir del **tema** del mot (el genitiu dels noms, el supí o el perfet dels verbs): *homo, hominis* → *homin-*; *facio, feci, factum* → *fact-*; *nascor, natus* → *nat-*. Dona un sol mot per a cada cas i assegura't que no és patrimonial."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "- *filius* (fill) → tema *fili-*: *filial*, *filiació*, *afiliar*.\n- *homines* (de *homo, hominis*) → tema *homin-*: *homínid*, *hominització*; i compost amb *caedo*: *homicidi*.\n- *fecit* (de *facio, feci, factum*) → tema *fact-* / *fac-*: *factible*, *factor*, *factura*, *facultat*.\n- *nata est* (de *nascor, natus sum*) → tema *nat-*: *innat*, *natal*, *natalitat*, *nació*, *natura*."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "- *filius*: afiliar (també filial, filiació).\n- *homines*: homínid (també homicidi).\n- *fecit*: factible (també factor).\n- *nata est*: innat (també natal, natalitat)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*datiu* ve del llatí *datiuus* «que serveix per donar», del supí *datum* del verb *do, dare* «donar»: el cas datiu expressa a qui es dona alguna cosa. Al text, aquest verb apareix com a *dedit*, *dederunt* i *data est*. *Confraternitzar* conté *frater, fratris* «germà» (amb *con-* «amb» i el sufix *-itzar*): al text, *fratri*."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "- datiu: *dedit* (també *dederunt*, *data est*), del verb *do, dare*.\n- confraternitzar: *fratri*, de *frater, fratris* «germà»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Exemples oficials: *filius* → afiliar; *homines* → homínid; *fecit* → factible; *nata est* → innat (s'accepten altres cultismes correctes)."
+          },
+          {
+            "apartat": "b",
+            "valor": "datiu → *dedit, dederunt, data est*; confraternitzar → *fratri*."
+          }
+        ],
+        "nota": "Errors típics: donar mots patrimonials (*fill*, *home*, *fet*, *nat*) quan es demana un cultisme; o mots que no són de la mateixa arrel (p. ex. *humà* ve de *humanus*, no del tema *homin-*; és millor evitar-lo). En l'apartat b n'hi ha prou amb una de les formes de *do*, però cal copiar-la tal com surt al text."
+      }
+    },
+    {
+      "id": "llati-2026-J-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Capital de la Lusitània: Augusta Emerita (Mèrida)",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "augusta emerita",
+        "lusitània",
+        "províncies d'hispània",
+        "romanització"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Marqueu si l'afirmació següent és vertadera o falsa (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\n3.1. *Augusta Emerita* va ser la capital de la província hispana de la *Lusitania*.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "V",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Una afirmació és vertadera només si **tots** els detalls són certs: revisa cada dada (lloc, persona, data) per separat. Si dubtes molt, pensa que una errada resta 0,16 punts: respondre té esperança positiva si tens almenys un indici."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Augusta Emerita (l'actual Mèrida) fou fundada el 25 aC per August per assentar-hi veterans (*emeriti*) de les guerres càntabres, i va ser la capital de la província Lusitània. Les altres capitals provincials d'Hispània eren Tàrraco (Tarraconensis) i Corduba (Baetica)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Vertader: Augusta Emerita (Mèrida) era la capital de la Lusitània."
+          }
+        ],
+        "nota": "Tema de l'Hispània romana: cal conèixer les capitals de província (Tàrraco, Corduba, Emerita) i les ciutats principals de Catalunya (Emporiae, Tarraco, Barcino, Ilerda, Baetulo, Iluro)."
+      }
+    },
+    {
+      "id": "llati-2026-J-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Emporiae i el riu Sícoris",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "emporiae",
+        "empúries",
+        "sícoris",
+        "hispània romana"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Marqueu si l'afirmació següent és vertadera o falsa (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\n3.2. La ciutat romana d'*Emporiae* estava situada damunt un turó, a la vora del riu Sícoris.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "F",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Una afirmació és vertadera només si **tots** els detalls són certs: revisa cada dada (lloc, persona, data) per separat. Si dubtes molt, pensa que una errada resta 0,16 punts: respondre té esperança positiva si tens almenys un indici."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Emporiae (Empúries) era a la costa, al golf de Roses, prop de la desembocadura del Fluvià (i del Ter antic). El *Sicoris* és el Segre, el riu d'*Ilerda* (Lleida). Per tant, l'afirmació barreja dades d'una altra ciutat: és falsa."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Fals: Empúries era a la costa empordanesa; el Sícoris (Segre) passa per Ilerda (Lleida)."
+          }
+        ],
+        "nota": "Tema de l'Hispània romana: cal conèixer les capitals de província (Tàrraco, Corduba, Emerita) i les ciutats principals de Catalunya (Emporiae, Tarraco, Barcino, Ilerda, Baetulo, Iluro)."
+      }
+    },
+    {
+      "id": "llati-2026-J-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Situació de l'amfiteatre de Tàrraco",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "tàrraco",
+        "amfiteatre",
+        "urbanisme romà",
+        "fòrum"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Marqueu si l'afirmació següent és vertadera o falsa (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\n3.3. L'amfiteatre de Tàrraco es trobava intramurs, al costat del fòrum.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "F",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Una afirmació és vertadera només si **tots** els detalls són certs: revisa cada dada (lloc, persona, data) per separat. Si dubtes molt, pensa que una errada resta 0,16 punts: respondre té esperança positiva si tens almenys un indici."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Els amfiteatres se solien construir fora muralles pel volum de públic i pel tipus d'espectacle. El de Tàrraco era **extramurs**, a tocar del mar, al costat de la Via Augusta, sota el gran recinte del Concili Provincial i el circ. No era al costat del fòrum."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Fals: l'amfiteatre de Tàrraco era extramurs, vora el mar."
+          }
+        ],
+        "nota": "Tema de l'Hispània romana: cal conèixer les capitals de província (Tàrraco, Corduba, Emerita) i les ciutats principals de Catalunya (Emporiae, Tarraco, Barcino, Ilerda, Baetulo, Iluro)."
+      }
+    },
+    {
+      "id": "llati-2026-J-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Fundació de Barcino",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "barcino",
+        "august",
+        "colònia romana",
+        "romanització"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Marqueu si l'afirmació següent és vertadera o falsa (si marqueu «vertader», cal que siguin certs TOTS els aspectes que s'hi esmenten).\n\n3.4. La *Colonia Iulia Augusta Paterna Fauentia Barcino* va ser fundada pel pare de Juli Cèsar cap a l'any 14 aC.",
+      "figures": [],
+      "opcions": {
+        "V": "Vertader",
+        "F": "Fals"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "F",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Una afirmació és vertadera només si **tots** els detalls són certs: revisa cada dada (lloc, persona, data) per separat. Si dubtes molt, pensa que una errada resta 0,16 punts: respondre té esperança positiva si tens almenys un indici."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Barcino va ser fundada en època d'**August** (cap als anys 15-10 aC). Els epítets *Iulia Augusta Paterna* fan referència a August i al seu pare adoptiu, Juli Cèsar (*Paterna*), no al pare de Cèsar, que havia mort molt abans (85 aC). Per això és fals."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Fals: Barcino la va fundar August; *Paterna* al·ludeix a Juli Cèsar com a pare (adoptiu) d'August."
+          }
+        ],
+        "nota": "Tema de l'Hispània romana: cal conèixer les capitals de província (Tàrraco, Corduba, Emerita) i les ciutats principals de Catalunya (Emporiae, Tarraco, Barcino, Ilerda, Baetulo, Iluro)."
+      }
+    },
+    {
+      "id": "llati-2026-J-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Metamorfosis: Pal·las disfressada de vella aconsella Aracne",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "aracne",
+        "pal·las",
+        "minerva"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra de l'opció que identifica el personatge que parla en el passatge següent de les *Metamorfosis* (traducció d'Adela M. Trepat i Anna M. de Saavedra).\n\n3.1. «No tot el que té l'edat més avançada mereix que en fugim: l'experiència ve dels anys tardans. No desdenyis el meu consell; cerca entre els mortals la fama de ser la més gran a treballar la llana; cedeix a una deessa i demana perdó amb veu suplicant, temerària, per les teves paraules: et perdonarà en tu pregar-la.»",
+      "figures": [],
+      "opcions": {
+        "a": "Teletusa.",
+        "b": "Pal·las.",
+        "c": "Ceres.",
+        "d": "Aracne."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Busca al passatge noms propis o detalls que identifiquin el mite (un parent, un objecte, un lloc) i pregunta't qui diu les paraules, no de qui parla el passatge."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "És el mite d'**Aracne** (llibre VI). Pal·las (Minerva), disfressada de vella, adverteix la jove teixidora que no desafiï la deessa: per això parla de l'«edat més avançada» i li diu «cedeix a una deessa». Aracne no en fa cas, la deessa es revela, guanya el certamen de teixir i converteix Aracne en aranya. Aracne és la interlocutora, no qui parla."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Pal·las."
+          }
+        ],
+        "nota": "Les *Metamorfosis* d'Ovidi són lectura obligatòria: repassa els mites principals (Apol·lo i Dafne, Faetont, Actèon, Narcís i Eco, Píram i Tisbe, Aracne, Níobe, Dèdal i Ícar, Ifis, Orfeu, Pigmalió, Deucalió i Pirra...) i els seus personatges."
+      }
+    },
+    {
+      "id": "llati-2026-J-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Metamorfosis: el lament d'Ifis enamorada de Iante",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "ifis",
+        "iante",
+        "teletusa"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra de l'opció que identifica el personatge que parla en el passatge següent de les *Metamorfosis* (traducció d'Adela M. Trepat i Anna M. de Saavedra).\n\n3.2. «¿Quin recurs em resta», diu, «a mi, que em té un neguit que ningú no coneix, el prodigiós neguit d'un amor sense exemple?»",
+      "figures": [],
+      "opcions": {
+        "a": "Iante.",
+        "b": "Ifis.",
+        "c": "Narcís.",
+        "d": "Jacint."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Busca al passatge noms propis o detalls que identifiquin el mite (un parent, un objecte, un lloc) i pregunta't qui diu les paraules, no de qui parla el passatge."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "És el mite d'**Ifis** (llibre IX). Ifis va néixer noia, però la seva mare, Teletusa, la va criar com a noi per salvar-la de l'ordre del pare. Promesa a Iante, se'n enamora i es lamenta d'aquest «amor sense exemple». La deessa Isis la transformarà en home el dia abans de les noces. Narcís també pateix un amor impossible, però per la seva pròpia imatge."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Ifis."
+          }
+        ],
+        "nota": "Les *Metamorfosis* d'Ovidi són lectura obligatòria: repassa els mites principals (Apol·lo i Dafne, Faetont, Actèon, Narcís i Eco, Píram i Tisbe, Aracne, Níobe, Dèdal i Ícar, Ifis, Orfeu, Pigmalió, Deucalió i Pirra...) i els seus personatges."
+      }
+    },
+    {
+      "id": "llati-2026-J-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Metamorfosis: Febus reconeix Faetont com a fill",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "faetont",
+        "febus",
+        "clímene"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra de l'opció que identifica el personatge que parla en el passatge següent de les *Metamorfosis* (traducció d'Adela M. Trepat i Anna M. de Saavedra).\n\n3.3. «Ets digne de ser anomenat fill meu, i Clímene t'ha contat un origen cert; i perquè no dubtis, demana la gràcia que vulguis i l'obtindràs de la meva mà: jo en faig testimoni el llac pel qual juren els déus, que els meus ulls no han vist mai.»",
+      "figures": [],
+      "opcions": {
+        "a": "Febus.",
+        "b": "Júpiter.",
+        "c": "Faetont.",
+        "d": "Dèdal."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Busca al passatge noms propis o detalls que identifiquin el mite (un parent, un objecte, un lloc) i pregunta't qui diu les paraules, no de qui parla el passatge."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "És el mite de **Faetont** (llibres I-II). Faetont, fill de Clímene, va al palau del Sol per confirmar que és fill seu. **Febus** (el Sol) el reconeix i jura per l'Estix («el llac pel qual juren els déus», que el Sol no ha vist mai perquè és al món subterrani) concedir-li el que demani. Faetont demana conduir el carro del Sol i acaba fulminat per Júpiter."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) Febus."
+          }
+        ],
+        "nota": "Les *Metamorfosis* d'Ovidi són lectura obligatòria: repassa els mites principals (Apol·lo i Dafne, Faetont, Actèon, Narcís i Eco, Píram i Tisbe, Aracne, Níobe, Dèdal i Ícar, Ifis, Orfeu, Pigmalió, Deucalió i Pirra...) i els seus personatges."
+      }
+    },
+    {
+      "id": "llati-2026-J-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Metamorfosis: Actèon transformat en cérvol",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "actèon",
+        "diana",
+        "autònoe"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra de l'opció que identifica el personatge que parla en el passatge següent de les *Metamorfosis* (traducció d'Adela M. Trepat i Anna M. de Saavedra).\n\n3.4. «Fuig l'heroi fill d'Autònoe i entre ell mateix es meravella de ser tan ràpid a la cursa. Però quan es veié el rostre i les banyes dins l'aigua corrent: \"Ai malaurat!\", volia dir; cap veu no li eixia de la boca.»",
+      "figures": [],
+      "opcions": {
+        "a": "Píram.",
+        "b": "Ícar.",
+        "c": "Deucalió.",
+        "d": "Actèon."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total: cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts; les no contestades no descompten). Busca al passatge noms propis o detalls que identifiquin el mite (un parent, un objecte, un lloc) i pregunta't qui diu les paraules, no de qui parla el passatge."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "És el mite d'**Actèon** (llibre III), fill d'Autònoe i nét de Cadme. Caçant, va veure Diana nua mentre es banyava; la deessa el va convertir en cérvol i els seus propis gossos el van esquarterar. El passatge descriu el moment en què es veu reflectit amb banyes i ja no pot parlar."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Actèon."
+          }
+        ],
+        "nota": "Les *Metamorfosis* d'Ovidi són lectura obligatòria: repassa els mites principals (Apol·lo i Dafne, Faetont, Actèon, Narcís i Eco, Píram i Tisbe, Aracne, Níobe, Dèdal i Ícar, Ifis, Orfeu, Pigmalió, Deucalió i Pirra...) i els seus personatges."
+      }
+    },
+    {
+      "id": "llati-2026-J-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "La Mostel·lària de Plaute: Tranió i Grumió (acte I, escena 1)",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "plaute",
+        "mostel·lària",
+        "comèdia",
+        "fabula palliata",
+        "esclau astut",
+        "lectures obligatòries"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "PERSONATGE 1 *(apartant-se bruscament de PERSONATGE 2)*: Que Júpiter i tots els déus et confonguin! Puah! Fas pudor d'all, pura immundícia, pagerol, boc, cort de porcs, mescla de llot i fems.\n\nPERSONATGE 2: ¿Què vols que hi faci? No tothom pot fer olor de perfums exòtics perquè tu en facis, ni seure a taula en un lloc d'honor ni menjar queviures tan exquisits com menges tu. Tu queda't les tórtores, els peixos, l'aviram, i deixa que jo compleixi el meu destí amb l'allada. Tu ets afortunat; jo, desgraciat: cal conformar-s'hi. A mi que em duri el que tinc de bo, i a tu, el que tens de dolent.\n\n(Traducció d'Esther Artigas)",
+      "enunciat": "Llegiu el passatge de sota, que pertany a una de les lectures obligatòries, i elaboreu un text expositiu de quinze línies com a mínim (unes cent cinquanta paraules) que contingui les informacions que hi ha detallades a continuació:\n\n- El títol de l'obra i el nom de l'autor.\n- L'argument resumit de l'obra.\n- Una explicació del passatge, situant-lo en la trama general de l'obra, en la qual especifiqueu:\n  - Qui són els dos personatges que hi parlen (indiqueu-ne el nom).\n  - Quina relació hi ha entre ells.\n  - Què ha passat abans i què passarà tot seguit.\n- El subgènere literari al qual pertany l'obra i les seves característiques principals.\n- El títol de dues obres més del mateix autor.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val 2 punts (uns 20 minuts). És un **text expositiu** continu, no una llista de respostes: mínim 15 línies (~150 paraules), però és millor arribar a 200-250 per cobrir bé tots els punts. Segueix l'ordre de la consigna, un paràgraf per punt: (1) obra i autor, (2) argument, (3) passatge: personatges, relació, abans i després, (4) subgènere i característiques, (5) dues obres més. Es descompten fins a 0,2 punts per errors de redacció."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificar l'obra**: insults a un esclau que fa pudor d'all i viu al camp, contra un altre que menja i beu com un senyor → és l'escena inicial de la *Mostel·lària* (*Mostellaria*, «la comèdia del fantasma») de **Plaute**.\n2. **Argument**: el vell Teopròpides torna d'un viatge de tres anys; el fill, Filòlaques, ha malgastat el patrimoni en festes i en la llibertat de la cortesana Filemàcia; l'esclau Tranió enganya el vell (la casa embruixada, el préstec de l'usurer, la compra de la casa del veí) fins al desenllaç feliç.\n3. **Passatge**: Personatge 1 = **Tranió**, esclau de ciutat, astut i desvergonyit; Personatge 2 = **Grumió**, esclau de camp, rústic i fidel al vell amo. Tots dos són esclaus de Teopròpides i s'enfronten. Abans: res (és l'inici, acte I, escena 1); serveix d'exposició al públic. Després: arribarà el vell i començaran els enganys de Tranió.\n4. **Subgènere**: *fabula palliata* (comèdia d'ambientació grega, del *pallium*), basada en la Comèdia Nova àtica (Menandre, Filèmon); personatges tipus (*senex*, *adulescens*, *meretrix*, *seruus callidus*), embolics amorosos, finalitat lúdica.\n5. **Altres obres**: *Miles gloriosus*, *Aulularia*, *Amphitruo*, *Pseudolus*, *Menaechmi*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El passatge pertany a la *Mostel·lària* (*Mostellaria*), comèdia de **Plaute**, el gran comediògraf llatí dels segles III-II aC.\n\nL'obra explica com el vell Teopròpides torna a Atenes després de tres anys de viatge de negocis i troba que el seu fill, Filòlaques, ha convertit la casa en un cau de disbauxa: ha dilapidat el patrimoni i s'ha endeutat per comprar la llibertat de la cortesana Filemàcia. Per amagar-ho, l'esclau Tranió inventa una sèrie d'enganys: primer, que la casa està embruixada per un fantasma (d'aquí el títol); després, que els diners deguts a l'usurer s'han fet servir per comprar la casa del veí. Els embolics creixen fins a un desenllaç feliç en què el fill obté el perdó.\n\nEl fragment és la primera escena de l'acte I. Hi parlen dos esclaus de Teopròpides: **Tranió** (Personatge 1), esclau de ciutat, astut i desvergonyit, i **Grumió** (Personatge 2), esclau de camp, rústic i fidel a l'amo. Tranió insulta Grumió per la seva pudor d'all i la seva rusticitat i presumeix de la bona vida que porta amb el jove; Grumió li retreu que hagi dut Filòlaques a la perdició. L'escena informa el públic de la situació de la casa; tot seguit arribarà el vell i començaran els enganys de Tranió.\n\nL'obra és una ***fabula palliata***, comèdia d'ambientació grega (el nom ve del *pallium*, el mantell grec) inspirada en la Comèdia Nova àtica. Té personatges estereotipats (el vell sever, el jove enamorat, la cortesana, l'esclau astut), arguments d'embolics amorosos resolts per l'astúcia d'un esclau i una finalitat purament còmica, a diferència de Terenci, més moralitzador.\n\nDe Plaute es conserven 21 comèdies; entre d'altres, el *Miles gloriosus* i l'*Aulularia*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Obra i autor: *Mostel·lària*, de Plaute."
+          },
+          {
+            "apartat": null,
+            "valor": "Argument: tornada del vell Teopròpides; disbauxa del fill Filòlaques i compra de la llibertat de Filemàcia; enganys de l'esclau Tranió (casa embruixada, usurer, casa del veí); final feliç."
+          },
+          {
+            "apartat": null,
+            "valor": "Passatge: acte I, escena 1; Tranió (esclau astut de ciutat, P1) i Grumió (esclau de camp fidel a l'amo, P2), tots dos esclaus de Teopròpides; escena d'exposició abans de l'arribada del vell."
+          },
+          {
+            "apartat": null,
+            "valor": "Subgènere: *fabula palliata* (ambientació grega, Comèdia Nova), personatges estereotipats, embolics amorosos, finalitat lúdica."
+          },
+          {
+            "apartat": null,
+            "valor": "Altres obres: *Miles gloriosus*, *Aulularia*, *Pseudolus*, *Amphitruo*..."
+          }
+        ],
+        "nota": "Errors típics: confondre els noms dels esclaus (Tranió és el de ciutat i el que insulta; Grumió, el de camp), no explicar què passa abans i després, o confondre la *palliata* amb la *togata* (ambientació romana). No facis una llista de respostes: cal un text cohesionat. Pots esmentar el títol en llatí o en català."
+      }
+    }
+  ]
+}
