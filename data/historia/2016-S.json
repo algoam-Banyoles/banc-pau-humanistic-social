@@ -1,0 +1,910 @@
+{
+  "examen": {
+    "id": "historia-2016-S",
+    "assignatura": "historia",
+    "materia": "Història",
+    "any": 2016,
+    "convocatoria": "setembre",
+    "serie": "1",
+    "pdf_examen": "pdfs/historia/2016-S-examen.pdf",
+    "pdf_solucio": "pdfs/historia/2016-S-solucio.pdf",
+    "estructura": "Convocatòria de setembre del 2016, sèrie 1. Cal escollir UNA de les dues opcions (A o B) i fer els dos exercicis de l'opció triada (5 punts cadascun; total 10). Cada exercici té una font i dues preguntes: la Pregunta 1, comentari de la font en tres apartats (a: tipus de font i tema, 0,75; b: context històric, 0,75; c: comentari del contingut, 1 punt), i la Pregunta 2, on cal contestar UNA de dues qüestions de desenvolupament (a o b, 2,5 punts). Opció A: exercici 1, les Bases de Manresa (1892) i el catalanisme del segle XIX (Torras i Bages i la Unió Catalanista, o Almirall i el Memorial de Greuges); exercici 2, imatge d'homenatge a l'obrer de SEAT Antonio Ruiz Villalba (1971) i el franquisme (desarrollisme o oposició antifranquista). Opció B: exercici 1, caricatura de l'encasillado (Blanco y Negro, 1893) i la Restauració (partits i torn, o crisi 1898-1909); exercici 2, el Decret de col·lectivitzacions (1936) i la Guerra Civil a Catalunya (fins als Fets de Maig, o des dels Fets de Maig fins a l'ocupació). Als identificadors, la lletra final és l'opció (a/b) i «q2a»/«q2b» indica la qüestió triada de la Pregunta 2."
+  },
+  "problemes": [
+    {
+      "id": "historia-2016-S-e1-q1-a",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 2.5,
+      "titol": "Les Bases de Manresa (1892): repartiment de competències entre el poder central i el poder regional català",
+      "tema": "segle-xix",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "bases de manresa",
+        "unió catalanista",
+        "catalanisme polític",
+        "restauració borbònica",
+        "prat de la riba",
+        "comentari de text històric"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        1,
+        2
+      ],
+      "text": "**Bases de Manresa**\n\nPODER CENTRAL\n\n**Base primera.** […] Vindran a càrrec del Poder central:\n\n*a*) Les relacions internacionals.\n*b*) L'exèrcit de mar i terra, les obres de defensa i l'ensenyança militar.\n*c*) Les relacions econòmiques d'Espanya amb los demés països, i, en conseqüència, la fixació dels aranzels i lo ram d'Aduanes.\n[…]\n*f*) La formació del pressupost anyal de gastos que, en lo que no arribin les rendes d'Aduanes, deurà distribuir-se entre les regions a proporció de sa riquesa.\n\nPODER REGIONAL\n\n**Base segona.** En la part dogmàtica de la Constitució Regional Catalana es mantindrà lo temperament expansiu de la nostra legislació antiga, reformant, per a posar-les d'acord amb les noves necessitats, les sàvies disposicions que conté respecte dels drets i llibertats dels catalans.\n\n**Base tercera.** La llengua catalana serà l'única que, amb caràcter oficial, podrà usar-se a Catalunya i en les relacions d'aquesta regió amb lo Poder central.\n\n**Base quarta.** Sols los catalans, ja ho sien de naixença, ja per virtut de naturalització, podran desempenyar a Catalunya càrrecs públics, fins tractant-se dels governatius i administratius que depenguin del Poder central. També deuran ésser exercits per catalans los càrrecs militars que comportin jurisdicció.\n\n[…]\n\n**Base sisena.** Catalunya serà l'única soberana de son govern interior. Per lo tant, dictarà lliurement ses lleis orgàniques; cuidarà de sa legislació civil, penal, mercantil, administrativa i processal; de l'establiment i percepció d'impostos; de l'encunyació de la moneda, i tindrà totes les demés atribucions inherents a la soberania que no corresponguin al Poder central, segons la base primera.\n\n**Base setena.** Lo Poder legislatiu regional radicarà en les Corts catalanes, que deuran reunir-se tots los anys en època determinada, i en lloc diferent.\n\nLes Corts es formaran per sufragi de tots los caps de casa agrupats en classes fundades en lo treball manual, en la capacitat o en les carreres professionals i en la propietat, indústria i comerç, mitjançant la corresponent organització gremial en lo que possible sia.\n\n*Font:* Unió Catalanista. *Bases per a la Constitució Regional Catalana*. Manresa, 1892.",
+      "enunciat": "Opció A, exercici 1 (cal escollir UNA de les dues opcions, A o B, i fer-ne els dos exercicis). Pregunta 1: observeu la font i responeu a les qüestions a), b) i c).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Descriviu el tipus de font i digueu de què tracta.",
+          "punts": 0.75
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu quin és el context històric de les dades que proporciona la font.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "Expliqueu breument el contingut de les bases següents: apartat *a* de la base primera, base tercera, base quarta, base sisena i base setena.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "La Pregunta 1 és un comentari de font en tres passos (2,5 punts en total). **a)** (0,75): classificar la font (primària/secundària i tipus: text juridicopolític, fotografia, il·lustració satírica...) i dir de què tracta; les pautes donen 0,25 per la classificació i 0,50 per identificar-ne el contingut. **b)** (0,75): situar-la en el seu context (període, etapa, data concreta). **c)** (1): comentar el contingut que es demana, relacionant-lo amb el context. Responeu cada apartat per separat i amb la seva lletra. Extensió orientativa: 4-6 línies per a a) i b) i 10-15 per a c). Temps: uns 20-25 minuts (l'examen dura 1,5 h per als dos exercicis de l'opció). Error típic: no datar la font o fer al b) un context tan general que no expliqui la font."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Tipus de font**: primària (contemporània dels fets), escrita, de caràcter **juridicopolític**: un fragment d'un projecte constitucional. **Tema**: les *Bases per a la Constitució Regional Catalana* (Bases de Manresa), aprovades per la Unió Catalanista el 1892, que proposen un model d'organització política per a Catalunya dins de l'Estat espanyol, amb un repartiment de competències entre el poder central i el regional."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Es tracta d'una font primària, contemporània dels fets, de caràcter juridicopolític: un fragment de les *Bases per a la Constitució Regional Catalana*, més conegudes com a Bases de Manresa, aprovades per l'assemblea de la Unió Catalanista celebrada a Manresa el març del 1892. És un projecte de constitució per a Catalunya que defineix les competències que correspondrien al poder central de l'Estat i les que correspondrien al poder regional català; el fragment recull bases de totes dues parts."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Restauració borbònica, primera etapa (1875-1898)**: sistema canovista de torn pacífic i caciquisme. Dins d'aquest marc, **naixement del catalanisme polític**: Renaixença, catalanisme federal d'Almirall (Centre Català, Memorial de Greuges), catalanisme conservador (Torras i Bages), campanya contra el Codi Civil (1889) i fundació de la **Unió Catalanista (1891)**, que va reunir l'assemblea de **Manresa (març del 1892)**."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El document se situa en la primera etapa de la Restauració borbònica (1875-1898), un sistema polític liberal però oligàrquic, basat en el torn pacífic entre conservadors (Cánovas) i liberals (Sagasta) i en el frau electoral i el caciquisme. En aquest context va néixer el catalanisme polític: després de la Renaixença cultural, Valentí Almirall va fundar el Centre Català (1882) i va impulsar el Memorial de Greuges (1885), mentre que sectors conservadors i catòlics, com el bisbe Torras i Bages, defensaven un catalanisme tradicionalista. La defensa del dret civil català (1889) va afavorir la unió d'aquests corrents en la Unió Catalanista (1891), que a Manresa el 1892 va aprovar el primer programa polític del catalanisme."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Comenteu les cinc bases que demana l'enunciat (i només aquestes), una per una:\n\n1. **Base 1a, apartat a**: el poder central conservaria les **relacions internacionals** (política exterior).\n2. **Base 3a**: el **català, única llengua oficial** a Catalunya i també en les relacions amb el poder central.\n3. **Base 4a**: els **càrrecs públics** a Catalunya, també els de l'administració central i els **militars** amb jurisdicció, reservats als **catalans** (de naixement o naturalitzats).\n4. **Base 6a**: **sobirania interior** de Catalunya: lleis pròpies (civil, penal, mercantil, administrativa, processal), **impostos** i fins i tot **moneda**; i totes les competències no reservades al poder central.\n5. **Base 7a**: poder legislatiu en unes **Corts catalanes** anuals i itinerants, elegides pels **caps de casa** agrupats per **classes i gremis** (sufragi corporatiu, no universal).\n\nTanqueu amb una valoració: model d'autonomia molt àmplia, de base **tradicionalista i corporativa**, i allunyat del sistema liberal de la Restauració."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "L'apartat *a* de la base primera reserva al poder central les relacions internacionals: Catalunya continuaria formant part de l'Estat espanyol, que mantindria la política exterior (a més de l'exèrcit, els aranzels i el pressupost comú, segons els altres apartats).\n\nLa base tercera estableix que el català seria l'única llengua oficial a Catalunya i que també es podria fer servir en les relacions amb el poder central, una reivindicació lingüística molt ambiciosa en un moment en què el castellà era l'única llengua oficial de l'Estat.\n\nLa base quarta reserva tots els càrrecs públics a Catalunya als catalans, de naixement o naturalitzats, fins i tot els que depenen del poder central i els càrrecs militars amb jurisdicció.\n\nLa base sisena proclama que Catalunya seria «l'única sobirana» del seu govern interior: faria les seves lleis (civils, penals, mercantils, administratives i processals), establiria i recaptaria els impostos, encunyaria moneda i tindria totes les competències no reservades al poder central.\n\nFinalment, la base setena situa el poder legislatiu en unes Corts catalanes que es reunirien cada any en llocs diferents, elegides no per sufragi universal sinó pels caps de casa agrupats per classes i gremis (treball manual, professions, propietat, indústria i comerç). És un model de sufragi corporatiu, que mostra el caràcter conservador i tradicionalista de les Bases, inspirat en les institucions catalanes anteriors al 1714."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Font primària (contemporània dels fets) (0,25): fragment d'un document de caire jurídic que planteja un model d'organització política per a Catalunya dins l'Estat espanyol, les Bases de Manresa (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Bases de Manresa del 1892, en el context de la primera etapa de la Restauració (1875-1898) i del naixent catalanisme polític."
+          },
+          {
+            "apartat": "c",
+            "valor": "Base 1a a: el poder central té cura de les relacions internacionals. Base 3a: oficialitat única del català, també en les relacions amb l'Estat. Base 4a: càrrecs públics, inclosos els militars, exercits per catalans de naixement o naturalització. Base 6a: totes les atribucions de govern intern per als poders catalans, inclosa la moneda. Base 7a: poder legislatiu en unes Corts catalanes elegides per caps de casa agrupats per professions i gremis."
+          }
+        ],
+        "nota": "A l'apartat c) comenteu NOMÉS les bases que es demanen (no la b, c o f de la base primera ni la segona). No digueu que les Bases demanaven la independència: reconeixen un poder central espanyol. Tampoc les presenteu com un text democràtic: el sufragi que proposen és corporatiu i restringit als caps de casa. No confongueu les Bases de Manresa (1892) amb el Memorial de Greuges (1885)."
+      }
+    },
+    {
+      "id": "historia-2016-S-e1-q2a-a",
+      "exercici": 1,
+      "questio": "2a",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "El catalanisme conservador (Torras i Bages), la Unió Catalanista i les Bases de Manresa",
+      "tema": "segle-xix",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "catalanisme conservador",
+        "torras i bages",
+        "la tradició catalana",
+        "vigatanisme",
+        "unió catalanista",
+        "bases de manresa",
+        "prat de la riba"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "",
+      "enunciat": "Opció A, exercici 1. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió a):\n\n**a)** Expliqueu el catalanisme conservador i la figura del bisbe Torras i Bages. Expliqueu també què van ser la Unió Catalanista i les Bases de Manresa. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Hi ha dos blocs: **catalanisme conservador i Torras i Bages** (1,25) i **Unió Catalanista i Bases de Manresa** (1,25)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Origen**: la Renaixença i el sector catòlic i conservador; el **vigatanisme** (grup de Vic: Jaume Collell, el setmanari *La Veu de Montserrat*, 1878), que lligava catalanitat i catolicisme.\n2. **Josep Torras i Bages**: eclesiàstic, després **bisbe de Vic (1899)**; obra principal ***La tradició catalana* (1892)**; un catalanisme basat en la **religió**, la **família** i la **propietat**, antiliberal, regionalista i tradicionalista («Catalunya serà cristiana o no serà»); influència en la Lliga de Catalunya (1887) i en el Centre Escolar Catalanista (Prat de la Riba, Cambó).\n3. **Unió Catalanista (1891)**: federació d'entitats i periòdics catalanistes impulsada per la Lliga de Catalunya; reacció a la defensa del dret civil (1889); presidents Lluís Domènech i Montaner, secretari Enric Prat de la Riba.\n4. **Bases de Manresa (març del 1892)**: primer programa polític del catalanisme; poder central limitat (relacions exteriors, exèrcit, aranzels, pressupost comú) i poder regional amb sobirania interior; català única llengua oficial; càrrecs per a catalans; **Corts catalanes** elegides per sufragi **corporatiu**; model de tipus **confederal i tradicionalista**.\n5. **Valoració**: poca repercussió immediata però base doctrinal del catalanisme posterior (Lliga Regionalista, 1901)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Durant la Restauració, al costat del catalanisme progressista i federal de Valentí Almirall, es va desenvolupar un **catalanisme conservador** d'arrel catòlica. Un dels seus nuclis va ser el **vigatanisme**, el grup d'intel·lectuals i eclesiàstics de Vic aplegats al voltant de Jaume Collell i del setmanari *La Veu de Montserrat* (1878), que identificaven Catalunya amb la tradició religiosa i rural i rebutjaven el liberalisme i el centralisme.\n\nLa figura més important d'aquest corrent va ser **Josep Torras i Bages** (1846-1916), eclesiàstic i, des del 1899, **bisbe de Vic**. A la seva obra ***La tradició catalana*** (1892) va formular un regionalisme catòlic i conservador: Catalunya era una regió natural amb personalitat pròpia, forjada per la **religió**, la **família** i la **propietat**, i calia defensar-ne la llengua, el dret i les institucions tradicionals davant l'Estat liberal i uniformitzador. La seva frase «Catalunya serà cristiana o no serà» resumeix aquest pensament, que va influir molt en els joves catalanistes de la Lliga de Catalunya i del Centre Escolar Catalanista, com Enric Prat de la Riba.\n\nAquest catalanisme conservador es va imposar en la **Unió Catalanista**, fundada el **1891** com a federació d'associacions, ateneus i periòdics catalanistes, després de la mobilització del 1889 en defensa del dret civil català contra el Codi Civil espanyol. La Unió, que tenia Lluís Domènech i Montaner com a president i Prat de la Riba com a secretari, va reunir el **març del 1892** una assemblea de delegats a **Manresa**, on es van aprovar les ***Bases per a la Constitució Regional Catalana***, les **Bases de Manresa**.\n\nLes Bases proposaven un poder central limitat a les relacions internacionals, l'exèrcit, les relacions econòmiques exteriors i un pressupost comú, i un poder regional amb una àmplia sobirania interior: lleis pròpies, impostos, moneda, el **català com a única llengua oficial** i els càrrecs públics reservats als catalans. El poder legislatiu residiria en unes **Corts catalanes** elegides pels caps de casa agrupats per classes i gremis, un sufragi **corporatiu** que mostrava el caràcter tradicionalista i antiliberal del projecte.\n\nLes Bases no van tenir conseqüències immediates, perquè la Unió Catalanista era un moviment minoritari que rebutjava participar en les eleccions del sistema de la Restauració. Tot i això, van ser el **primer programa polític del catalanisme** i la base doctrinal del regionalisme que, després del 1898, portaria a la fundació de la Lliga Regionalista (1901)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Explicació del vigatanisme; la figura del bisbe Torras i Bages i la seva obra principal, *La tradició catalana*, on va definir un catalanisme catòlic i conservador basat en la religió, la família i la propietat (1,25). Què va ser la Unió Catalanista (1891) i la seva realització fonamental, les Bases de Manresa (1892), i quin tipus d'Estat proposaven (1,25)."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 389 paraules (dins de l'extensió orientativa de 350-500). Error típic: atribuir les Bases de Manresa a Almirall (el seu catalanisme era progressista i federal, i ell ja s'havia apartat del moviment) o dir que eren independentistes. Torras i Bages no va ser bisbe fins al 1899: el 1892, quan publica *La tradició catalana*, encara no ho era."
+      }
+    },
+    {
+      "id": "historia-2016-S-e1-q2b-a",
+      "exercici": 1,
+      "questio": "2b",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Valentí Almirall i el catalanisme progressista: Centre Català, Memorial de Greuges i defensa del dret civil",
+      "tema": "segle-xix",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "valentí almirall",
+        "catalanisme federal",
+        "lo catalanisme",
+        "centre català",
+        "memorial de greuges",
+        "primer congrés catalanista",
+        "dret civil català"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "",
+      "enunciat": "Opció A, exercici 1. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió b):\n\n**b)** Expliqueu qui va ser Valentí Almirall i el tipus de catalanisme que defensava. Expliqueu també què van ser el Centre Català, el Memorial de Greuges i la campanya en defensa del dret civil català. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Hi ha dos blocs: **Almirall i el seu catalanisme** (1,25) i **Centre Català, Memorial de Greuges i campanya del dret civil** (1,25)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Almirall (1841-1904)**: republicà **federal** (seguidor de Pi i Margall) durant el Sexenni; desencantat del federalisme espanyol després del 1873-1874, evoluciona cap a un **catalanisme progressista**, laic i democràtic.\n2. **Iniciatives**: ***Diari Català* (1879)**, primer diari en català; **Primer Congrés Catalanista (1880)**.\n3. **Obra**: ***Lo catalanisme* (1886)**: Espanya com a estat plurinacional; oposició entre el caràcter català (pràctic, industrial) i el castellà; proposta d'una estructura federal o de doble monarquia (model austrohongarès).\n4. **Centre Català (1882)**: primera entitat política catalanista, unitària i interclassista; volia agrupar tots els corrents al marge dels partits espanyols.\n5. **Memorial de Greuges (1885)**: escrit en defensa dels **interessos morals i materials** de Catalunya (proteccionisme davant el tractat comercial amb Anglaterra, dret civil català); lliurat a **Alfons XII** el març del 1885.\n6. **Escissió del 1887**: els sectors conservadors creen la **Lliga de Catalunya**; el Centre Català decau.\n7. **Dret civil (1889)**: campanya contra el **Codi Civil** espanyol que amenaçava el dret català; s'aconsegueix que el dret civil català es mantingui (article 15)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Valentí Almirall** (1841-1904) va ser el fundador del catalanisme polític. Durant el Sexenni Democràtic va militar en el republicanisme **federal** de Pi i Margall, però el fracàs de la Primera República (1873-1874) el va convèncer que el federalisme espanyol no podia triomfar i que calia un moviment específicament català. El seu catalanisme era **progressista, laic, democràtic i federalista**, allunyat del tradicionalisme catòlic. El 1879 va fundar el ***Diari Català***, el primer diari en català, i el 1880 va organitzar el **Primer Congrés Catalanista**. La seva obra principal, ***Lo catalanisme*** (1886), defensava que Espanya era un estat format per diversos pobles, contraposava el caràcter català, pràctic i emprenedor, al castellà, i proposava una organització federal o, com a mínim, un model de doble monarquia semblant al d'Àustria-Hongria.\n\nEl **1882** Almirall va fundar el **Centre Català**, la primera entitat política catalanista, que pretenia aplegar persones de tendències diverses al marge dels partits dinàstics i dels republicans espanyols, per defensar els interessos de Catalunya.\n\nLa iniciativa més destacada del Centre Català va ser el **Memorial de Greuges** (1885), una *Memòria en defensa dels interessos morals i materials de Catalunya*. Va sorgir arran de la negociació d'un tractat comercial lliurecanvista amb el Regne Unit, que perjudicava la indústria catalana, i de la intenció d'unificar el dret civil. El Memorial, que va rebre el suport d'entitats econòmiques, culturals i polítiques, criticava el centralisme, defensava el **proteccionisme** i el **dret civil català**, i el va lliurar una comissió al rei **Alfons XII** el març del 1885. Tot i que no va tenir resultats pràctics, va ser la primera vegada que una reivindicació catalanista arribava al cap de l'Estat.\n\nLes diferències entre el progressisme d'Almirall i els sectors conservadors van provocar el 1887 l'escissió de la **Lliga de Catalunya**, i el Centre Català va entrar en decadència.\n\nFinalment, el **1889** el projecte de **Codi Civil** espanyol, que volia unificar el dret civil, va provocar una gran **campanya en defensa del dret civil català**, amb mítings i actes de protesta de les entitats catalanistes, juristes i corporacions. La pressió va aconseguir que el Codi respectés el dret propi de Catalunya com a dret foral (article 15). La campanya va reforçar la unitat del catalanisme i va preparar la creació de la Unió Catalanista el 1891."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Qui va ser Valentí Almirall, la seva evolució des del federalisme fins al catalanisme progressista, el seu llibre principal (*Lo catalanisme*, 1886) i el Primer Congrés Catalanista (1,25). Què van ser el Centre Català (1882), el Memorial de Greuges del 1885 (orígens, contingut i lliurament a Alfons XII) i la campanya en defensa del dret civil català del 1889 (1,25)."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 377 paraules (dins de l'extensió orientativa de 350-500). No confongueu el Memorial de Greuges (1885, Alfons XII) amb les Bases de Manresa (1892, Unió Catalanista) ni amb la Solidaritat Catalana (1906). El Memorial es va lliurar a Alfons XII, no a Alfons XIII ni a la regent Maria Cristina (que ho va ser a partir de finals del 1885)."
+      }
+    },
+    {
+      "id": "historia-2016-S-e2-q1-a",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 2.5,
+      "titol": "Imatge d'homenatge a Antonio Ruiz Villalba, obrer de SEAT mort per la policia franquista (1971)",
+      "tema": "franquisme",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "seat",
+        "vaga de la seat del 1971",
+        "moviment obrer",
+        "comissions obreres",
+        "tardofranquisme",
+        "repressió franquista",
+        "comentari d'imatge"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "*(Imatge: vegeu la figura.)*\n\nAntonio Ruiz Villalba\nobrero de SEAT\nasesinado en SEAT por la policía franquista\nel 18 de Octubre de 1971\npor defender la dignidad y la libertad de la clase obrera\n\n«Antonio Ruiz Villalba, obrero de SEAT, asesinado en SEAT por la policía franquista el 18 de octubre de 1971 por defender la dignidad y la libertad de la clase obrera»\n\n*Font:* Acte d'homenatge «Recordant Ruiz Villalba: El 40è aniversari de l'ocupació de SEAT». Museu de l'Hospitalet (18 octubre 2011).",
+      "enunciat": "Opció A, exercici 2 (cal escollir UNA de les dues opcions, A o B, i fer-ne els dos exercicis). Pregunta 1: observeu la font i responeu a les qüestions a), b) i c).",
+      "figures": [
+        {
+          "src": "img/historia/2016-S/e2-a.png",
+          "peu": "Retrat d'Antonio Ruiz Villalba, obrer de SEAT, amb la inscripció «asesinado en SEAT por la policía franquista el 18 de octubre de 1971». Font: acte d'homenatge al Museu de l'Hospitalet (2011)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Descriviu el tipus de font i digueu de què tracta.",
+          "punts": 0.75
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu quin és el context històric de la font.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "Descriviu i comenteu el contingut de la font.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "La Pregunta 1 és un comentari de font en tres passos (2,5 punts en total). **a)** (0,75): classificar la font (primària/secundària i tipus: text juridicopolític, fotografia, il·lustració satírica...) i dir de què tracta; les pautes donen 0,25 per la classificació i 0,50 per identificar-ne el contingut. **b)** (0,75): situar-la en el seu context (període, etapa, data concreta). **c)** (1): comentar el contingut que es demana, relacionant-lo amb el context. Responeu cada apartat per separat i amb la seva lletra. Extensió orientativa: 4-6 línies per a a) i b) i 10-15 per a c). Temps: uns 20-25 minuts (l'examen dura 1,5 h per als dos exercicis de l'opció). Error típic: no datar la font o fer al b) un context tan general que no expliqui la font."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Tipus de font**: font iconogràfica, una **imatge o fotografia** (retrat d'un obrer en un oval, amb un text a la part superior, a manera de recordatori o d'esquela). Podeu precisar que el retrat és de l'època però que el document es va difondre en un acte d'homenatge del 2011. **Tema**: **Antonio Ruiz Villalba**, obrer de SEAT mort per la policia franquista el **18 d'octubre de 1971**."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Es tracta d'una font iconogràfica: una imatge fotogràfica que reprodueix un retrat d'Antonio Ruiz Villalba, emmarcat en un oval i acompanyat d'un text a la part superior, a la manera d'un recordatori o esquela. La font va ser difosa el 2011 en un acte d'homenatge celebrat al Museu de l'Hospitalet amb motiu del 40è aniversari de l'ocupació de la SEAT. Tracta d'Antonio Ruiz Villalba, obrer de la fàbrica SEAT de Barcelona, mort per la policia franquista el 18 d'octubre de 1971 durant el desallotjament de la fàbrica ocupada pels treballadors."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Franquisme (1939-1975)**, en la seva **etapa final** (tardofranquisme), a **Catalunya**: desenvolupament econòmic, creixement de la classe obrera industrial i del **nou moviment obrer** (CCOO), conflictivitat laboral i repressió. Data: **octubre del 1971**, vaga i ocupació de la fàbrica de SEAT a la Zona Franca de Barcelona."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "La font se situa en l'etapa final del franquisme (1939-1975), a Catalunya, el 1971. Després del Pla d'Estabilització (1959), el desenvolupament econòmic va fer créixer una nova classe obrera industrial, en bona part immigrada, concentrada a l'àrea de Barcelona i en grans empreses com la SEAT. Aquesta classe obrera va protagonitzar un nou moviment obrer, organitzat sobretot a través de Comissions Obreres, que aprofitava les eleccions sindicals i els convenis col·lectius per reivindicar millores salarials i llibertats. Als primers anys setanta la conflictivitat laboral va créixer molt i el règim, en crisi, va respondre amb una dura repressió."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Descripció**: retrat en blanc i negre d'un home jove amb americana i corbata, dins un oval i un marc negre (estètica d'esquela); a dalt, el nom en lletres grans i el text en castellà.\n2. **Fets**: l'octubre del 1971 els treballadors de SEAT van ocupar la fàbrica de la Zona Franca en protesta per acomiadaments de membres del jurat d'empresa i de CCOO; el 18 d'octubre la **policia armada** va desallotjar-la per la força i **Antonio Ruiz Villalba** va ser ferit de bala i va morir.\n3. **Comentari del text**: el llenguatge («asesinado», «policía franquista», «dignidad y libertad de la clase obrera») és propi de l'**oposició antifranquista** i del moviment obrer: denuncia la repressió i converteix l'obrer en un màrtir de la lluita obrera.\n4. **Significat**: mostra la importància del conflicte laboral als anys setanta i com la repressió (morts a Granada 1970, Ferrol i Sant Adrià 1972-1973) alimentava l'oposició al règim."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "La imatge mostra el retrat en blanc i negre d'un home jove, vestit amb americana, camisa blanca i corbata, dins d'un oval i un marc negre, com en una esquela. A la part superior hi ha, en lletres grans, el nom d'Antonio Ruiz Villalba i, a sota, el text: «obrero de SEAT, asesinado en SEAT por la policía franquista el 18 de octubre de 1971 por defender la dignidad y la libertad de la clase obrera».\n\nEl text fa referència a la vaga de la SEAT de l'octubre del 1971: els treballadors van ocupar la fàbrica de la Zona Franca per protestar contra l'acomiadament de companys i representants, i el 18 d'octubre la policia armada la va desallotjar per la força; en els enfrontaments, Antonio Ruiz Villalba va ser ferit per un tret i va morir. El llenguatge que fa servir la font («asesinado», «policía franquista», «dignidad y libertad de la clase obrera») és el de l'oposició antifranquista i del moviment obrer clandestí: no parla d'una mort accidental, sinó que denuncia la violència del règim i presenta l'obrer com un màrtir de la lluita per les llibertats. El fet que el 2011 se li fes un homenatge mostra que la seva mort s'ha convertit en un símbol de la lluita obrera contra la dictadura a Catalunya."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Imatge o fotografia (0,25) d'Antonio Ruiz Villalba, obrer de SEAT assassinat a SEAT per la policia franquista el 18 d'octubre de 1971 (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "El 1971, durant l'etapa final del règim de Franco (1939-1975), a Catalunya."
+          },
+          {
+            "apartat": "c",
+            "valor": "Descripció de la imatge de l'obrer mort per la policia el 18 d'octubre de 1971 i comentari del text «asesinado en SEAT por la policía franquista por defender la dignidad y la libertad de la clase obrera» com a mostra del llenguatge de l'oposició antifranquista."
+          }
+        ],
+        "nota": "No confongueu la data del document que va difondre l'acte (2011) amb el context de la font: el que cal situar és el 1971, el tardofranquisme. A l'apartat c) les pautes valoren sobretot que comenteu el **llenguatge** del text (propi de l'oposició antifranquista); no cal fer un tema sobre el moviment obrer, però sí relacionar-hi la font."
+      }
+    },
+    {
+      "id": "historia-2016-S-e2-q2a-a",
+      "exercici": 2,
+      "questio": "2a",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "La política econòmica franquista des del Pla d'Estabilització (1959) i el desarrollisme fins al 1973",
+      "tema": "franquisme",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pla d'estabilització",
+        "tecnòcrates",
+        "opus dei",
+        "desarrollisme",
+        "plans de desenvolupament",
+        "turisme",
+        "emigració",
+        "crisi del petroli"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Opció A, exercici 2. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió a):\n\n**a)** Expliqueu la política econòmica franquista adoptada a partir del 1959 i les conseqüències que va tenir fins al 1973. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Hi ha dos blocs: **la nova política (Pla d'Estabilització i tecnòcrates)** (1,25) i **els seus efectes fins a la crisi del 1973** (1,25)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Punt de partida**: fracàs de l'**autarquia** (1939-1959): inflació, dèficit exterior, reserves exhaurides (1957-1959).\n2. **Tecnòcrates de l'Opus Dei** al govern del 1957: Alberto Ullastres (Comerç), Mariano Navarro Rubio (Hisenda), després Laureano López Rodó.\n3. **Pla d'Estabilització (juliol del 1959)**, amb el FMI i l'OECE: devaluació de la pesseta (60 per dòlar), contenció de la despesa i del crèdit, liberalització del comerç exterior i de la inversió estrangera.\n4. **Plans de Desenvolupament** (1964-1975, López Rodó): planificació indicativa, **pols de promoció i desenvolupament**.\n5. **Efectes**: creixement molt ràpid del PIB (\"miracle econòmic\"); **industrialització** (automòbil, química, electrodomèstics); **turisme** de masses; **inversió estrangera**; **remeses dels emigrants** a Europa; **migracions interiors** (èxode rural cap a Catalunya, Madrid, País Basc) i **urbanització** (barraquisme, polígons); societat de consum (SEAT 600).\n6. **Límits i final**: desequilibris territorials, dependència tecnològica i energètica; la **crisi del petroli del 1973** posa fi al cicle."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Després de vint anys d'**autarquia**, a finals dels anys cinquanta l'economia espanyola estava a punt de la fallida: inflació elevada, dèficit comercial i reserves de divises gairebé esgotades. El 1957 Franco va incorporar al govern un grup de ministres **tecnòcrates**, vinculats a l'**Opus Dei**, com Alberto Ullastres (Comerç) i Mariano Navarro Rubio (Hisenda), partidaris d'abandonar l'autarquia i integrar Espanya en l'economia capitalista occidental.\n\nEl juliol del **1959** es va aprovar el **Pla d'Estabilització**, elaborat amb l'assessorament del Fons Monetari Internacional i de l'OECE. Les mesures principals van ser la devaluació de la pesseta (fixada a 60 pessetes per dòlar), la reducció de la despesa pública i del crèdit per frenar la inflació, la liberalització del comerç exterior i la facilitació de la inversió estrangera. A curt termini va provocar una recessió i atur, però va sanejar l'economia. A partir del 1964 el govern, amb **Laureano López Rodó**, va aplicar els **Plans de Desenvolupament** (1964-1975), una planificació indicativa que creava **pols de promoció i de desenvolupament** industrial en zones endarrerides.\n\nEntre el 1960 i el 1973 Espanya va viure un creixement econòmic molt ràpid, el **desarrollisme**, amb taxes del PIB properes al 7 % anual. Es va basar en la **industrialització** (siderúrgia, química, automòbil, electrodomèstics), en la mà d'obra barata i en tres fonts de divises exteriors: el **turisme** de masses, que va transformar el litoral; la **inversió estrangera**; i les **remeses** dels gairebé dos milions d'**emigrants** que van marxar a treballar a França, Alemanya o Suïssa.\n\nLes conseqüències socials van ser profundes. Les **migracions interiors** van buidar el camp i van fer créixer Catalunya, Madrid i el País Basc; la **urbanització** accelerada va generar barraquisme i barris perifèrics sense serveis. Va aparèixer una societat de consum (televisió, electrodomèstics, el SEAT 600) i una nova classe obrera i classe mitjana que reclamaven més llibertats. A Catalunya, la immigració va transformar la composició social de l'àrea de Barcelona.\n\nEl model, però, tenia límits: grans desequilibris territorials, dependència tecnològica i energètica de l'exterior i un sistema fiscal regressiu. Quan el **1973** va esclatar la **crisi del petroli**, l'economia espanyola va entrar en una forta crisi, amb inflació i atur, que va coincidir amb l'agonia del règim."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "La nova política econòmica liberalitzadora i desenvolupista adoptada arran del Pla d'Estabilització del 1959 i l'abandó de l'autarquia, amb la importància del sector tecnòcrata vinculat a l'Opus Dei (1,25). Efectes sobre la industrialització, la urbanització, les migracions interiors i exteriors, el turisme i la inversió estrangera, amb esment dels Plans de Desenvolupament, fins a la crisi econòmica del 1973 (1,25)."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 363 paraules (dins de l'extensió orientativa de 350-500). Error típic: presentar el creixement com a mèrit exclusiu del règim, sense esmentar el context internacional favorable, el turisme, la inversió estrangera i les remeses. No confongueu els tecnòcrates de l'Opus Dei amb els falangistes que dirigien l'autarquia. Cal arribar fins al 1973 (crisi del petroli)."
+      }
+    },
+    {
+      "id": "historia-2016-S-e2-q2b-a",
+      "exercici": 2,
+      "questio": "2b",
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "L'oposició antifranquista des dels anys seixanta fins a la mort de Franco (1975)",
+      "tema": "franquisme",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "oposició antifranquista",
+        "comissions obreres",
+        "psuc",
+        "pce",
+        "eta",
+        "assemblea de catalunya",
+        "concili vaticà ii",
+        "repressió franquista"
+      ],
+      "dificultat": 3,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Opció A, exercici 2. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió b):\n\n**b)** Expliqueu les lluites de l'oposició antifranquista durant els anys seixanta i fins a la mort del dictador. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Hi ha dos blocs: **nou moviment obrer i forces de l'oposició** (1,25) i **creixement de la lluita, repressió, plataformes unitàries i canvi de l'Església** (1,25)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Nou moviment obrer**: fruit dels canvis econòmics; **Comissions Obreres** (des del 1962-1964), infiltració al Sindicat Vertical, eleccions sindicals del 1966; vagues d'Astúries (1962); paper del **PCE-PSUC**; altres sindicats (USO, UGT).\n2. **Altres oposicions**: estudiants (Caputxinada, 1966; SDEUB); intel·lectuals; monàrquics i democristians (**Contuberni de Munic**, 1962).\n3. **Nacionalismes**: a Catalunya, oposició cultural (Fets del Palau, 1960; Òmnium, Nova Cançó), PSUC i **Assemblea de Catalunya (1971)**; al País Basc, **ETA** (1959), primer atemptat mortal 1968, **procés de Burgos** (1970), mort de **Carrero Blanco** (1973).\n4. **Increment de la conflictivitat després del 1973**: crisi econòmica, vagues massives (Baix Llobregat 1974).\n5. **Repressió**: TOP (1963), estats d'excepció (1969), morts de treballadors (Granada 1970, SEAT 1971, Ferrol 1972, Sant Adrià 1973), procés 1001, execució de **Puig Antich** (1974) i afusellaments del **setembre del 1975**.\n6. **Plataformes unitàries**: **Junta Democràtica** (1974) i **Plataforma de Convergència Democràtica** (1975).\n7. **Església**: el **Concili Vaticà II** trenca el nacionalcatolicisme; capellans obrers, abat Escarré (1963), Tarancón."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Als anys seixanta, els canvis econòmics del desarrollisme van fer créixer una nova classe obrera urbana i industrial que va protagonitzar un **nou moviment obrer**. Les vagues d'Astúries del 1962 van ser el punt de partida de les **Comissions Obreres** (CCOO), organitzacions nascudes a les fàbriques que aprofitaven les eleccions de l'oficial Sindicat Vertical per fer arribar els seus representants als jurats d'empresa (sobretot el 1966) i negociar els convenis col·lectius. El **PCE**, i a Catalunya el **PSUC**, eren la força més organitzada de l'oposició i tenien un paper clau en CCOO; també hi actuaven sindicats com USO o la UGT clandestina.\n\nL'oposició es va estendre a altres sectors. Els **estudiants** van crear sindicats democràtics, com el de la Universitat de Barcelona, constituït a la **Caputxinada** (1966). Monàrquics, democristians i socialistes es van reunir amb l'oposició de l'exili al congrés de **Munic** (1962), que el règim va anomenar «contuberni». A **Catalunya** l'oposició tenia un fort component cultural i nacional: els Fets del Palau (1960), Òmnium Cultural, la Nova Cançó, i el 1971 la creació de l'**Assemblea de Catalunya**, que unia partits, sindicats i entitats sota el lema «Llibertat, amnistia, Estatut d'autonomia». Al **País Basc** va néixer **ETA** (1959), que el 1968 va començar la lluita armada; el **procés de Burgos** (1970) contra militants d'ETA va provocar protestes internacionals, i el 1973 ETA va matar el president del govern, l'almirall **Carrero Blanco**.\n\nUn canvi decisiu va ser el de l'**Església**: després del **Concili Vaticà II** (1962-1965), molts sectors catòlics es van distanciar del règim. Hi va haver capellans obrers, l'abat de Montserrat **Aureli Escarré** va criticar la dictadura (1963) i, als anys setanta, el cardenal Tarancón va impulsar la separació entre l'Església i el franquisme, de manera que el nacionalcatolicisme va fer fallida.\n\nA partir de la **crisi econòmica del 1973**, la conflictivitat obrera i popular va créixer molt, amb vagues generals a zones industrials com el Baix Llobregat i moviments veïnals als barris. El règim va respondre amb **repressió**: el Tribunal d'Ordre Públic (1963), estats d'excepció (1969), la mort de treballadors en vagues (Granada 1970, SEAT 1971, Ferrol 1972, Sant Adrià de Besòs 1973), el procés 1001 contra la direcció de CCOO, l'execució de **Salvador Puig Antich** (1974) i els darrers **afusellaments del setembre del 1975**.\n\nPer coordinar-se, l'oposició va crear plataformes unitàries: la **Junta Democràtica** (1974), impulsada pel PCE, i la **Plataforma de Convergència Democràtica** (1975), amb el PSOE. Quan Franco va morir, el 20 de novembre de 1975, l'oposició no havia pogut enderrocar la dictadura, però el règim estava aïllat i la seva continuïtat era impossible."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Sorgiment d'un nou moviment obrer arran dels canvis econòmics i socials dels anys seixanta; paper de l'oposició democràtica i nacionalista, inclosos el PCE-PSUC, CCOO i altres sindicats clandestins; ETA; forces democràtiques, autonomistes i nacionalistes a Catalunya i al País Basc (1,25). Increment de la lluita obrera i popular arran de la crisi del 1973; repressió franquista; instàncies i plataformes unitàries de l'oposició; fallida del profranquisme de l'Església catòlica després del Vaticà II (1,25)."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 428 paraules (dins de l'extensió orientativa de 350-500). No us quedeu només en el moviment obrer: les pautes també demanen nacionalismes, ETA, plataformes unitàries, repressió i Església. Error típic: situar la Junta Democràtica o la Platajunta (1976) abans de temps; la «Platajunta» (Coordinació Democràtica) és del març del 1976, ja després de la mort de Franco."
+      }
+    },
+    {
+      "id": "historia-2016-S-e1-q1-b",
+      "exercici": 1,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 2.5,
+      "titol": "«La cuestión del encasillado»: il·lustració satírica sobre les eleccions de la Restauració (Blanco y Negro, 1893)",
+      "tema": "segle-xix",
+      "temes_secundaris": [],
+      "conceptes": [
+        "restauració borbònica",
+        "encasillado",
+        "frau electoral",
+        "caciquisme",
+        "torn pacífic",
+        "ministre de la governació",
+        "il·lustració satírica"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "**LA CUESTIÓN DEL ENCASILLADO**, por Felipe Pérez y Ramón Cilla\n\n*(Il·lustració: vegeu la figura.)*\n\nDespués de pasar muchos\npésimos ratos,\nel Ministro *encasilla*\nlos candidatos.\n\nY arreglado «el asunto»\ndel mejor modo,\ndice mirando al cielo:\n«¡Dios sobre todo!».\n\nA los Gobernadores\ndice severo:\n«Coacciones y chanchullos\njamás tolero.\n\nLos votos solamente\nquiero que valgan…\nConque así, *hagamos votos*\nporque estos salgan».\n\nLes eleccions durant la Restauració\n\n*Font:* *Blanco y Negro* (11 febrer 1893).",
+      "enunciat": "Opció B, exercici 1 (cal escollir UNA de les dues opcions, A o B, i fer-ne els dos exercicis). Pregunta 1: observeu la font i responeu a les qüestions a), b) i c).",
+      "figures": [
+        {
+          "src": "img/historia/2016-S/e1-b.png",
+          "peu": "«La cuestión del encasillado», il·lustració satírica de Felipe Pérez i Ramón Cilla. Font: Blanco y Negro (11 de febrer de 1893)."
+        }
+      ],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Descriviu el tipus de font i digueu de què tracta.",
+          "punts": 0.75
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu quin és el context històric de la font.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "Comenteu el text següent que conté la font: «Después de pasar muchos pésimos ratos, el Ministro *encasilla* a los candidatos. »Y arreglado “el asunto” del mejor modo, dice mirando al cielo: “¡Dios sobre todo!”. »A los Gobernadores dice severo: “Coacciones y chanchullos jamás tolero. »Los votos solamente quiero que valgan… Conque así, *hagamos votos* porque estos salgan”».",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "La Pregunta 1 és un comentari de font en tres passos (2,5 punts en total). **a)** (0,75): classificar la font (primària/secundària i tipus: text juridicopolític, fotografia, il·lustració satírica...) i dir de què tracta; les pautes donen 0,25 per la classificació i 0,50 per identificar-ne el contingut. **b)** (0,75): situar-la en el seu context (període, etapa, data concreta). **c)** (1): comentar el contingut que es demana, relacionant-lo amb el context. Responeu cada apartat per separat i amb la seva lletra. Extensió orientativa: 4-6 línies per a a) i b) i 10-15 per a c). Temps: uns 20-25 minuts (l'examen dura 1,5 h per als dos exercicis de l'opció). Error típic: no datar la font o fer al b) un context tan general que no expliqui la font."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Tipus de font**: font primària iconogràfica, una **il·lustració o dibuix satíric (acudit)**, amb text en vers, de Felipe Pérez i Ramón Cilla, publicat en una **revista**, *Blanco y Negro*, l'**11 de febrer de 1893**. **Tema**: el frau electoral de la Restauració, en concret l'**encasillado**: el ministre col·loca els candidats en caselles i dona ordres als governadors."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Es tracta d'una font primària iconogràfica: una il·lustració satírica o acudit, en dues vinyetes amb text en vers, dels dibuixants Felipe Pérez i Ramón Cilla, titulada «La cuestión del encasillado» i publicada a la revista il·lustrada madrilenya *Blanco y Negro* l'11 de febrer de 1893. Tracta, amb humor, del funcionament fraudulent de les eleccions durant la Restauració, en concret de l'encasillado: el ministre que decideix quins candidats han de sortir elegits i dona instruccions als governadors civils."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Restauració borbònica, primera etapa (1875-1898)**: Constitució del 1876, sistema canovista de **torn pacífic** entre conservadors i liberals, eleccions manipulades pel **caciquisme**. El 1893 governaven els liberals de Sagasta (des del desembre del 1892), que van convocar eleccions per al març del 1893: la caricatura les anticipa."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "La font se situa en la primera etapa de la Restauració borbònica (1875-1898). El sistema polític dissenyat per Cánovas del Castillo, basat en la Constitució del 1876, es fonamentava en el torn pacífic entre el Partit Conservador de Cánovas i el Partit Liberal de Sagasta. Quan un govern es desgastava, el rei encarregava el govern a l'altre partit, que convocava eleccions i les guanyava sempre gràcies al frau electoral i al caciquisme, fins i tot després de l'aprovació del sufragi universal masculí (1890). A finals del 1892 Sagasta va tornar al govern i va convocar eleccions per al març del 1893, que són les que satiritza la il·lustració."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Les pautes demanen comentar el **text** de la font, sense desenvolupar el tema:\n\n1. **«El Ministro encasilla a los candidatos»**: el ministre (de la Governació) decideix abans de les eleccions quin candidat guanyarà a cada districte; al dibuix, els col·loca com a ninots en les caselles d'un moble.\n2. **«¡Dios sobre todo!»**: ironia; fa veure que el resultat depèn de la providència quan l'ha decidit ell.\n3. **Ordres als governadors**: els governadors civils eren els encarregats de fer complir l'encasellat a les províncies, amb els cacics.\n4. **Doble llenguatge**: diu «coacciones y chanchullos jamás tolero» i acaba amb «**hagamos votos** porque estos salgan»: joc de paraules entre «fer vots» (desitjar) i **fabricar vots** fraudulentament.\n5. **Conclusió**: la sàtira denuncia la hipocresia d'un sistema formalment liberal i electoral però falsejat."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "El text descriu, en to irònic, com es preparaven les eleccions. Primer, el ministre «encasilla a los candidatos»: després de moltes negociacions («muchos pésimos ratos»), decideix des de Madrid quin candidat ha de guanyar a cada districte, com es veu al dibuix, on col·loca ninots en les caselles d'un moble. Un cop «arreglado el asunto», mira al cel i diu «¡Dios sobre todo!», com si el resultat depengués de la providència i no de la seva decisió.\n\nA la segona part, el ministre adverteix «severo» als governadors civils, els encarregats d'organitzar les eleccions a les províncies, que no tolerarà «coacciones y chanchullos» i que només vol que valguin els vots. Però acaba amb un joc de paraules revelador: «hagamos votos porque estos salgan», on «fer vots» significa alhora desitjar que surtin elegits i, sobretot, fabricar els vots necessaris perquè guanyin els candidats encasellats. La il·lustració denuncia així el doble llenguatge del poder: un discurs oficial de respecte a la legalitat i una pràctica de frau electoral sistemàtic."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Il·lustració o dibuix que conté un acudit, o acudit (0,25), publicat en un periòdic o revista, *Blanco y Negro*, l'11 de febrer de 1893 (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Període de la Restauració, en la seva primera etapa (1875-1898)."
+          },
+          {
+            "apartat": "c",
+            "valor": "El doble llenguatge de la font («coacciones y chanchullos jamás tolero» i després «hagamos votos», en el sentit de fabricar-los fraudulentament); les ordres als governadors; l'encasellament dels candidats. No cal explicar el tema de l'encasillado: la pregunta es cenyeix a la font."
+          }
+        ],
+        "nota": "Les pautes adverteixen que a l'apartat c) no s'ha d'explicar el concepte d'encasillado com a tema, sinó comentar el text de la font (el que diu i com ho diu). Error típic: situar la font a la crisi de la Restauració (1898-1923); el 1893 encara som a la primera etapa. No confongueu el ministre de la Governació amb el rei o amb el cap de govern."
+      }
+    },
+    {
+      "id": "historia-2016-S-e1-q2a-b",
+      "exercici": 1,
+      "questio": "2a",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Els dos grans partits de la Restauració i el funcionament del sistema polític fins al 1898",
+      "tema": "segle-xix",
+      "temes_secundaris": [],
+      "conceptes": [
+        "restauració borbònica",
+        "cánovas del castillo",
+        "sagasta",
+        "partit conservador",
+        "partit liberal",
+        "torn pacífic",
+        "caciquisme",
+        "constitució del 1876"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Opció B, exercici 1. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió a):\n\n**a)** Expliqueu quins van ser els dos grans partits de la Restauració. Esmenteu-ne els líders, expliqueu-ne les diferències polítiques i, en general, com funcionava el sistema polític des de l'inici d'aquesta etapa fins al 1898. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Hi ha dos blocs: **els dos partits, els líders i les diferències** (1,25) i **el funcionament del sistema: torn pacífic, frau electoral i eleccions** (1,25)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Inici**: pronunciament de Martínez Campos a Sagunt (desembre del 1874); Alfons XII; Cánovas, artífex del sistema; **Constitució del 1876** (sobirania compartida rei-Corts, confessionalitat, drets limitats).\n2. **Partit Conservador**: líder **Antonio Cánovas del Castillo**; suport de l'aristocràcia, els grans propietaris i l'Església; prioritat a l'**ordre públic**, protecció de l'**Església**, sufragi censatari (1878).\n3. **Partit Liberal (Fusionista)**: líder **Práxedes Mateo Sagasta**; classes mitjanes i professionals; més preocupat per les **llibertats** (llei d'associacions 1887, judici per jurat), **separació Església-Estat** relativa, **sufragi universal masculí (1890)**.\n4. **Torn pacífic**: alternança pactada (Pacte del Pardo, 1885, a la mort d'Alfons XII; regència de Maria Cristina).\n5. **Mecanisme**: el rei nomena el cap de govern → decret de dissolució → el ministre de la Governació fa l'**encasillado** → governadors civils i **cacics** → **frau** (pucherazo, morts que voten, compra de vots, coaccions) → majoria assegurada.\n6. **Exclosos**: republicans, carlins, moviment obrer, regionalismes. Fins a la crisi del 1898."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La Restauració borbònica va començar amb el pronunciament del general Martínez Campos a Sagunt (desembre del 1874), que va posar fi a la Primera República i va portar al tron **Alfons XII**. L'artífex del nou sistema va ser **Antonio Cánovas del Castillo**, que volia un règim estable, liberal però conservador, que superés els pronunciaments militars. La **Constitució del 1876** establia la sobirania compartida entre el rei i les Corts, un rei amb amplis poders, la confessionalitat catòlica de l'Estat i uns drets que les lleis podien restringir.\n\nEl sistema es basava en **dos grans partits dinàstics**, que acceptaven la monarquia i la Constitució. El **Partit Conservador**, dirigit per Cánovas, tenia més pes entre l'aristocràcia, els grans propietaris i les classes altes; era el més preocupat per l'**ordre públic**, la defensa de la propietat, la protecció de l'**Església** i el manteniment d'un sufragi censatari (llei electoral del 1878). El **Partit Liberal** o Fusionista, dirigit per **Práxedes Mateo Sagasta**, tenia més suport entre les classes mitjanes urbanes i els professionals, i era més partidari de les **llibertats individuals** i d'una certa **separació entre l'Església i l'Estat**. Durant el seu llarg govern (1885-1890) va aprovar la llei d'associacions (1887), el judici per jurat i el **sufragi universal masculí** (1890). Les diferències, però, eren de matís: tots dos representaven les elits i defensaven el mateix sistema.\n\nEl funcionament es basava en el **torn pacífic**: els dos partits s'alternaven en el govern de manera pactada. Quan Alfons XII va morir (1885), Cánovas i Sagasta van garantir la continuïtat durant la regència de Maria Cristina (l'anomenat Pacte del Pardo). Quan el partit governant es desgastava, el rei nomenava cap de govern el líder de l'oposició, que dissolia les Corts i convocava eleccions per obtenir-hi la majoria.\n\nPer garantir el resultat calia falsejar les eleccions. El **ministre de la Governació** feia l'**encasillado**, és a dir, decidia quin candidat havia de guanyar a cada districte, també pactant escons per al partit de l'oposició. Els **governadors civils** transmetien les ordres als **cacics** locals, notables que controlaven el vot gràcies a la seva influència econòmica i social. El frau electoral o **pucherazo** incloïa la compra de vots, les coaccions, les amenaces, la manipulació del cens (hi votaven fins i tot els morts) i l'alteració de les actes. El caciquisme era especialment fort a les zones rurals, mentre que a les grans ciutats era més difícil de controlar.\n\nAquest sistema va donar estabilitat, però deixava fora de la vida política els republicans, els carlins, el moviment obrer i els regionalismes, i va entrar en crisi amb el **Desastre del 1898**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Els dos partits principals, conservador i liberal; els seus líders, Cánovas del Castillo i Sagasta; el primer, amb més pes entre les classes altes i més preocupat per l'ordre públic, la protecció de l'Església i el conservadorisme; el segon, entre les classes mitjanes i més preocupat per les llibertats individuals i la separació Església-Estat (1,25). El sistema de torn pacífic, el falsejament del sistema electoral i les eleccions (1,25)."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 429 paraules (dins de l'extensió orientativa de 350-500). Error típic: dir que el sufragi universal masculí va acabar amb el frau (no ho va fer: el caciquisme el va neutralitzar). No confongueu Sagasta (liberal) amb Silvela o Maura (conservadors posteriors). Si heu fet l'exercici 1 d'aquesta opció, aprofiteu la caricatura de l'encasillado per il·lustrar el frau."
+      }
+    },
+    {
+      "id": "historia-2016-S-e1-q2b-b",
+      "exercici": 1,
+      "questio": "2b",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "La crisi de la Restauració (1898-1909): regeneracionisme, republicanisme, Solidaritat Catalana i Setmana Tràgica",
+      "tema": "crisi-restauracio",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "desastre del 1898",
+        "regeneracionisme",
+        "joaquín costa",
+        "lerroux",
+        "solidaritat catalana",
+        "fets del cu-cut",
+        "setmana tràgica",
+        "maura"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Opció B, exercici 1. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió b):\n\n**b)** Expliqueu la crisi del sistema de la Restauració, a partir del 1898 i fins al 1909, fent esment del regeneracionisme, el republicanisme, la Solidaritat Catalana i la Setmana Tràgica. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Hi ha dos blocs: **impacte del 1898, regeneracionisme i republicanisme** (1,25) i **fets del 1905, Solidaritat Catalana, Marroc i Setmana Tràgica** (1,25)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Desastre del 1898**: guerra amb els EUA, pèrdua de **Cuba, Puerto Rico i Filipines** (Tractat de París); crisi de consciència nacional, desprestigi del sistema i de l'exèrcit.\n2. **Regeneracionisme**: **Joaquín Costa** («escuela y despensa», «doble llave al sepulcro del Cid»), crítica del caciquisme; polítics que l'adopten: **Silvela-Polavieja** (1899), pressupost de **Fernández Villaverde** → **tancament de caixes** a Barcelona; **Antonio Maura** i la «revolució des de dalt» (1907-1909).\n3. **Republicanisme**: **Alejandro Lerroux**, demagògia anticlerical i obrerista a Barcelona, **Partido Republicano Radical (1908)**; republicanisme catalanista (Unió Republicana, Centre Nacionalista Republicà, 1906).\n4. **Catalanisme**: Lliga Regionalista (1901), victòria electoral del 1901.\n5. **Fets del 1905**: assalt militar a *¡Cu-Cut!* i *La Veu de Catalunya* → **Llei de Jurisdiccions** (1906).\n6. **Solidaritat Catalana (1906-1909)**: Lliga, republicans no lerrouxistes, carlins; triomf a les eleccions del 1907 (41 de 44 escons).\n7. **Marroc i Setmana Tràgica (juliol del 1909)**: Barranco del Lobo, embarcament de reservistes al port de Barcelona, vaga general, crema d'esglésies; repressió, execució de **Ferrer i Guàrdia**; caiguda de Maura."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El **1898** Espanya va perdre la guerra contra els Estats Units i, pel Tractat de París, les darreres colònies: **Cuba, Puerto Rico i les Filipines**. El **Desastre** va provocar una crisi de consciència nacional: va posar en evidència la debilitat de l'exèrcit i de l'Estat i va desprestigiar el sistema de la Restauració, quan ja havien mort Cánovas (1897) i aviat moriria Sagasta (1903).\n\nLa reacció intel·lectual va ser el **regeneracionisme**, encapçalat per **Joaquín Costa**, que denunciava l'oligarquia i el caciquisme i reclamava «escuela y despensa»: educació, foment de la riquesa, obres hidràuliques i oblidar les glòries militars («doble llave al sepulcro del Cid»). Alguns polítics dinàstics van intentar aplicar-lo: el govern conservador de **Silvela** amb el general Polavieja (1899) va prometre descentralització, però els impostos de **Fernández Villaverde** van provocar el **tancament de caixes** dels comerciants de Barcelona. Més endavant, **Antonio Maura** (1907-1909) va voler fer una «revolució des de dalt» per acabar amb el caciquisme, amb la nova llei electoral del 1907 i la llei d'administració local.\n\nTambé va créixer l'oposició al sistema. El **republicanisme** es va revitalitzar: a Barcelona, **Alejandro Lerroux** va atreure els obrers amb un discurs demagògic, anticlerical i anticatalanista, i el 1908 va fundar el **Partido Republicano Radical**; d'altra banda, hi havia un republicanisme catalanista i federal (Centre Nacionalista Republicà, 1906). El catalanisme conservador va crear la **Lliga Regionalista** (1901), que va trencar el monopoli dels partits dinàstics a Barcelona.\n\nEl **novembre del 1905**, després d'una caricatura sobre l'exèrcit, uns tres-cents oficials van assaltar les redaccions del setmanari ***¡Cu-Cut!*** i de *La Veu de Catalunya*. El govern, lluny de castigar-los, va aprovar la **Llei de Jurisdiccions** (1906), que posava sota jurisdicció militar les ofenses a l'exèrcit i a la pàtria. Com a resposta va néixer la **Solidaritat Catalana** (1906), una coalició de la Lliga, els republicans no lerrouxistes i els carlins, que a les eleccions del 1907 va obtenir **41 dels 44 escons** catalans. La unió, però, era heterogènia i es va desfer el 1909.\n\nEl 1909 la guerra al **Marroc**, on Espanya defensava interessos colonials i mineres, es va complicar. La derrota del **Barranco del Lobo** i la crida de reservistes, molts casats i amb fills, que s'embarcaven al port de Barcelona, van provocar una **vaga general** el juliol del 1909 que va derivar en la **Setmana Tràgica**: barricades i crema d'esglésies i convents. La repressió va ser dura, amb centenars de detinguts i cinc execucions, entre elles la del pedagog **Francesc Ferrer i Guàrdia**. La protesta internacional va fer caure el govern de Maura i va marcar l'inici d'una crisi encara més profunda del sistema."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Impacte de la pèrdua de les colònies el 1898 sobre la política i la societat; el regeneracionisme, que buscava «regenerar» el país amb l'educació i el foment de la riquesa, els polítics que l'adoptaren i les seves actuacions; l'evolució del republicanisme catalanista, d'una banda, i el d'Alejandro Lerroux i el Partido Republicano Radical, de l'altra (1,25). Els fets del 1905, la Solidaritat Catalana, el problema del Marroc i la Setmana Tràgica del 1909 (1,25)."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 433 paraules (dins de l'extensió orientativa de 350-500). Error típic: confondre la Solidaritat Catalana (1906) amb la Lliga Regionalista (1901) o dir que Lerroux era catalanista (era anticatalanista). No confongueu el Barranco del Lobo (1909) amb el desastre d'Annual (1921)."
+      }
+    },
+    {
+      "id": "historia-2016-S-e2-q1-b",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 2.5,
+      "titol": "El Decret de col·lectivitzacions de la Generalitat (24 d'octubre de 1936)",
+      "tema": "guerra-civil",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "decret de col·lectivitzacions",
+        "revolució social",
+        "tarradellas",
+        "joan p. fàbregas",
+        "cnt",
+        "consell d'economia",
+        "generalitat de catalunya",
+        "comentari de text històric"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "**Decret de col·lectivització de les empreses industrials i comercials**\n\nLa criminal sublevació militar del 19 de juliol ha produït un trastorn extraordinari a l'economia del país. El Consell de la Generalitat ha d'atendre a la reconstrucció dels estralls que ha causat a la indústria i al comerç de Catalunya la traïció dels que intentaven imposar al nostre país un règim de força. La reacció popular produïda per aquella sublevació ha estat d'una intensitat tal que ha provocat una profunda transformació econòmico-social, els fonaments de la qual s'estan posant a Catalunya. L'acumulació de riqueses en mans d'un grup de persones cada vegada menor anava seguida de l'acumulació de misèria en la classe treballadora i pel fet que aquell grup per a salvar els seus privilegis no ha dubtat a provocar una guerra cruenta, la victòria del poble equivaldrà a la mort del capitalisme. […]\n\nAteses les consideracions precedents, i vist l'informe del Consell d'Economia […],\n\nDECRETO:\n\nArticle 1r. D'acord amb les normes que s'estableixen en el present decret, les empreses industrials i comercials de Catalunya es classifiquen en:\n\n*a*) *Empreses col·lectivitzades*, en les quals la responsabilitat de la direcció recau en els mateixos obrers que les integren, representats per un Consell d'Empresa, i\n\n*b*) *Empreses privades*, en les quals la direcció és a càrrec del propietari o gerent, amb la col·laboració i fiscalització del Comitè Obrer de Control.\n\n[…]\n\nBarcelona, 24 d'octubre de 1936.\n\nEl Conseller Primer, Josep Tarradellas\nEl Conseller d'Economia, Joan P. Fàbregas\n\n*Font:* *Diari Oficial de la Generalitat de Catalunya*, núm. 302 (28 octubre 1936).",
+      "enunciat": "Opció B, exercici 2 (cal escollir UNA de les dues opcions, A o B, i fer-ne els dos exercicis). Pregunta 1: observeu la font i responeu a les qüestions a), b) i c).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Descriviu el tipus de font i digueu de què tracta.",
+          "punts": 0.75
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu quin és el context històric de la font.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "Comenteu el contingut de la font.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "La Pregunta 1 és un comentari de font en tres passos (2,5 punts en total). **a)** (0,75): classificar la font (primària/secundària i tipus: text juridicopolític, fotografia, il·lustració satírica...) i dir de què tracta; les pautes donen 0,25 per la classificació i 0,50 per identificar-ne el contingut. **b)** (0,75): situar-la en el seu context (període, etapa, data concreta). **c)** (1): comentar el contingut que es demana, relacionant-lo amb el context. Responeu cada apartat per separat i amb la seva lletra. Extensió orientativa: 4-6 línies per a a) i b) i 10-15 per a c). Temps: uns 20-25 minuts (l'examen dura 1,5 h per als dos exercicis de l'opció). Error típic: no datar la font o fer al b) un context tan general que no expliqui la font."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "**Tipus de font**: primària (contemporània dels fets), escrita, un **document públic de caire juridicopolític** (una norma legal publicada al *Diari Oficial de la Generalitat*). **Tema**: fragment del **Decret de col·lectivitzacions** de la Generalitat de Catalunya del **24 d'octubre de 1936**, signat per Josep Tarradellas i Joan P. Fàbregas, que regula la col·lectivització de les empreses industrials i comercials."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Es tracta d'una font primària, contemporània dels fets, de caràcter juridicopolític: un document públic oficial, concretament un fragment del Decret de col·lectivització de les empreses industrials i comercials, aprovat pel Consell de la Generalitat de Catalunya el 24 d'octubre de 1936 i publicat al *Diari Oficial de la Generalitat de Catalunya* el 28 d'octubre. El signen el conseller primer, Josep Tarradellas, i el conseller d'Economia, Joan P. Fàbregas. El decret justifica la transformació econòmica i social que vivia Catalunya i classifica les empreses en col·lectivitzades i privades."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "**Guerra Civil (1936-1939)**, a **Catalunya**, als **pocs mesos de l'inici**: fracàs del cop militar a Barcelona (19-20 de juliol), **revolució social** protagonitzada per la CNT, ocupació de fàbriques pels obrers, **dualitat de poders** (Generalitat i Comitè Central de Milícies Antifeixistes) i recuperació del poder per la Generalitat amb el **govern Tarradellas** (setembre-octubre del 1936), que integra la CNT."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El document se situa als primers mesos de la Guerra Civil espanyola (1936-1939), a Catalunya. El cop d'estat militar del 18-19 de juliol de 1936 va fracassar a Barcelona gràcies a la resistència de les forces d'ordre públic i de les milícies obreres, sobretot de la CNT. El fracàs del cop va desencadenar una revolució social: els obrers van ocupar fàbriques i comerços, molts propietaris van fugir i es van col·lectivitzar empreses. Durant l'estiu hi va haver una dualitat de poders entre la Generalitat i el Comitè Central de Milícies Antifeixistes. A finals de setembre del 1936 es va formar el govern de Josep Tarradellas, amb participació de la CNT, que va dissoldre el Comitè i va recuperar el poder; el Decret de col·lectivitzacions és una de les seves primeres grans mesures."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Dues parts del text:\n\n1. **Preàmbul (justificació)**: culpa la «criminal sublevació militar» dels estralls a l'economia; explica la «reacció popular» que ha provocat una **transformació econòmico-social**; denuncia la **desigualtat** (acumulació de riquesa en pocs i de misèria en la classe treballadora) i anuncia que la victòria del poble serà «la mort del capitalisme» (llenguatge revolucionari, influència de la CNT).\n2. **Article 1r (classificació)**: **empreses col·lectivitzades**, dirigides pels mateixos obrers a través d'un **Consell d'Empresa**; **empreses privades**, dirigides pel propietari o gerent però amb la **fiscalització d'un Comitè Obrer de Control**.\n3. **Sentit**: la Generalitat legalitza i ordena les col·lectivitzacions que ja s'havien fet espontàniament el juliol, és a dir, **intenta canalitzar la revolució**. Podeu afegir que la col·lectivització era obligatòria a les empreses de més de 100 treballadors i a les dels propietaris que havien fugit."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "El text té dues parts. En el preàmbul, la Generalitat explica per què aprova el decret: atribueix a la «criminal sublevació militar» del 19 de juliol el trastorn de l'economia catalana i afirma que la «reacció popular» contra els sublevats ha provocat una profunda transformació econòmica i social. Denuncia la desigualtat de la societat anterior, on la riquesa s'acumulava en un grup cada vegada més petit mentre creixia la misèria de la classe treballadora, i acusa aquest grup d'haver provocat la guerra per defensar els seus privilegis. Per això conclou que «la victòria del poble equivaldrà a la mort del capitalisme», una afirmació de to clarament revolucionari que reflecteix la influència de la CNT en el govern.\n\nA l'article primer, el decret classifica les empreses industrials i comercials de Catalunya en dos tipus: les empreses col·lectivitzades, dirigides pels mateixos treballadors a través d'un Consell d'Empresa, i les empreses privades, on continua dirigint el propietari o el gerent, però sota la vigilància d'un Comitè Obrer de Control. D'aquesta manera, la Generalitat legalitzava les col·lectivitzacions que els obrers havien fet espontàniament des del juliol, però alhora intentava regular-les i posar ordre en la revolució, mantenint un sector privat (segons el decret, només eren obligatòriament col·lectivitzades les empreses de més de cent treballadors o les abandonades pels seus amos)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Font primària (contemporània dels fets), document públic de caire juridicopolític (0,25): fragment del Decret de col·lectivitzacions de la Generalitat de Catalunya del 24 d'octubre de 1936 (0,50)."
+          },
+          {
+            "apartat": "b",
+            "valor": "Guerra Civil (1936-1939), a Catalunya, pocs mesos després del seu inici."
+          },
+          {
+            "apartat": "c",
+            "valor": "Explicació que fa el decret de l'esclat de la guerra i de la desigualtat existent a Catalunya; classificació entre empreses col·lectivitzades i privades, i qui les ha de dirigir (Consell d'Empresa / propietari amb Comitè Obrer de Control)."
+          }
+        ],
+        "nota": "No confongueu el decret (octubre del 1936, govern Tarradellas) amb les col·lectivitzacions espontànies del juliol: el decret les legalitza i regula. Josep Tarradellas era conseller primer, no president (el president era Lluís Companys). Error típic: atribuir el decret al govern de la República o al Comitè de Milícies, que ja s'havia dissolt."
+      }
+    },
+    {
+      "id": "historia-2016-S-e2-q2a-b",
+      "exercici": 2,
+      "questio": "2a",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "La Guerra Civil a Catalunya des del 19 de juliol de 1936 fins als Fets de Maig del 1937",
+      "tema": "guerra-civil",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "guerra civil a catalunya",
+        "comitè central de milícies antifeixistes",
+        "revolució social",
+        "govern tarradellas",
+        "decret de col·lectivitzacions",
+        "fets de maig",
+        "cnt",
+        "poum"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció B, exercici 2. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió a):\n\n**a)** Expliqueu la Guerra Civil a Catalunya des de l'inici fins als Fets de Maig del 1937, incloent-hi també aquests darrers. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Hi ha dos blocs: **fracàs del cop, dualitat de poders, govern Tarradellas, repressió i col·lectivitzacions** (1,25) i **Fets de Maig: causes, desenvolupament i conseqüències** (1,25)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Fracàs del cop (19-20 de juliol de 1936)**: el general Goded no triomfa a Barcelona; lluita de Guàrdia Civil, Guàrdia d'Assalt i milícies obreres (CNT); assalt de les casernes de Drassanes i Atarazanas.\n2. **Dualitat de poders**: Generalitat (Companys) i **Comitè Central de Milícies Antifeixistes** (dominat per la CNT-FAI); columnes cap a l'Aragó; expedició a Mallorca.\n3. **Revolució social**: col·lectivitzacions de fàbriques i terres, control obrer.\n4. **Repressió a la rereguarda**: assassinats de religiosos, patrons i dretans per «incontrolats» (uns 8.000 morts), crema d'esglésies; la Generalitat salva moltes persones.\n5. **Govern Tarradellas (setembre-octubre del 1936)**: entrada de la CNT i del POUM, dissolució del Comitè; **Decret de col·lectivitzacions** (24 d'octubre), Consell d'Economia, decrets de S'Agaró (gener del 1937).\n6. **Fets de Maig (3-8 de maig de 1937)**: causes: enfrontament entre CNT-POUM (revolució primer) i PSUC-ERC-govern (guerra primer); control de les fronteres i de l'ordre públic; detonant: ocupació de la **Telefònica** per la Guàrdia d'Assalt; barricades, uns 200-500 morts.\n7. **Conseqüències**: arriben forces del govern de la República, que assumeix l'**ordre públic**; pèrdua de competències de la Generalitat; caiguda de Largo Caballero i govern **Negrín**; persecució del **POUM** (Andreu Nin); fi de la fase revolucionària."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El 19 de juliol de 1936 les tropes de les casernes de Barcelona es van sublevar per sumar-se al cop d'estat contra la República, i el general **Goded** va arribar de Mallorca per dirigir-lo. El cop va **fracassar** gràcies a la fidelitat de la Guàrdia Civil i de la Guàrdia d'Assalt al govern de la Generalitat i a la lluita als carrers de les milícies obreres, sobretot de la **CNT**. El 20 de juliol els darrers sublevats es van rendir a les Drassanes.\n\nEl fracàs del cop va obrir una situació de **dualitat de poders**. El president **Lluís Companys** va acceptar la creació del **Comitè Central de Milícies Antifeixistes**, dominat per la CNT-FAI, que organitzava les columnes que van marxar al front d'Aragó i controlava la rereguarda. Alhora es va produir una **revolució social**: els obrers van ocupar i col·lectivitzar fàbriques, serveis i terres. A la rereguarda també va haver-hi una dura **repressió**: grups incontrolats van assassinar milers de religiosos, propietaris i persones de dretes, i es van cremar esglésies, mentre que la Generalitat va ajudar moltes persones amenaçades a fugir.\n\nA finals de setembre del 1936 la Generalitat va recuperar el poder amb el govern presidit pel conseller primer **Josep Tarradellas**, on van entrar la CNT, el POUM, el PSUC i ERC. El Comitè de Milícies es va dissoldre i la Generalitat va legislar sobre la nova realitat: el **Decret de col·lectivitzacions** (24 d'octubre de 1936) va regular les empreses col·lectivitzades i privades, i es van fer decrets financers per sostenir l'economia de guerra.\n\nPerò les tensions dins del bàndol republicà van créixer. D'una banda, la CNT i el **POUM** volien fer la revolució alhora que la guerra; de l'altra, el **PSUC**, ERC i el govern volien prioritzar la guerra, restablir l'autoritat de l'Estat i aturar la revolució. El 3 de maig de 1937, la Guàrdia d'Assalt, per ordre del conseller d'Ordre Públic, va intentar ocupar l'edifici de la **Telefònica** de la plaça de Catalunya, controlat per la CNT. Això va encendre els **Fets de Maig**: durant una setmana Barcelona es va omplir de barricades i hi va haver combats entre els dos sectors, amb centenars de morts.\n\nEls fets van acabar amb l'arribada de milers de guàrdies d'assalt enviats pel govern de la República, que va assumir el control de l'**ordre públic** i de la defensa a Catalunya, de manera que la Generalitat va perdre competències. Les conseqüències van ser la caiguda del govern de Largo Caballero i la formació del govern de **Juan Negrín**, la pèrdua d'influència de la CNT, la il·legalització del POUM i la desaparició del seu dirigent **Andreu Nin**, i el final de la fase revolucionària de la guerra a Catalunya."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Fracàs del cop a Catalunya després de les lluites als carrers de Barcelona; dualitat de poders entre la Generalitat i el Comitè de Milícies Antifeixistes i recuperació progressiva del poder per la Generalitat amb el govern Tarradellas; la repressió; el Decret de col·lectivitzacions (1,25). Causes, desenvolupament i conseqüències dels Fets de Maig (1,25)."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 447 paraules (dins de l'extensió orientativa de 350-500). Error típic: oblidar la repressió a la rereguarda, que les pautes demanen explícitament. No confongueu els Fets de Maig del 1937 amb els fets d'octubre del 1934. El govern Tarradellas el presidia el conseller primer; Companys continuava sent el president de la Generalitat."
+      }
+    },
+    {
+      "id": "historia-2016-S-e2-q2b-b",
+      "exercici": 2,
+      "questio": "2b",
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "La Guerra Civil a Catalunya des dels Fets de Maig del 1937 fins a l'ocupació franquista (febrer del 1939)",
+      "tema": "guerra-civil",
+      "temes_secundaris": [
+        "catalunya"
+      ],
+      "conceptes": [
+        "guerra civil a catalunya",
+        "govern negrín",
+        "batalla de l'ebre",
+        "bombardejos",
+        "refugiats",
+        "abastiments",
+        "ocupació de catalunya",
+        "exili"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció B, exercici 2. Pregunta 2. Contesteu UNA de les dues qüestions següents (qüestió b):\n\n**b)** Expliqueu la Guerra Civil a Catalunya des dels Fets de Maig del 1937 (sense explicar-los) fins que es va completar la conquesta franquista de tot el territori català. [2,5 punts]",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "És una pregunta de desenvolupament de 2,5 punts; cal triar només UNA de les dues qüestions (a o b). Les pautes la divideixen en dos blocs de 1,25 punts, de manera que cal cobrir **tots** els elements que esmenta l'enunciat. Estructura recomanada: introducció breu amb el marc cronològic, desenvolupament ordenat amb dates i noms concrets, i una conclusió. Extensió orientativa: una cara i mitja o dues (350-500 paraules). Temps: uns 25 minuts. Hi ha dos blocs: **govern central a Barcelona, tensions amb la Generalitat, refugiats i abastiments** (1,25) i **batalla de l'Ebre, ofensiva de Catalunya, bombardejos i èxode** (1,25). L'enunciat demana començar *després* dels Fets de Maig: no els expliqueu."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Pèrdua de poder de la Generalitat**: després del maig, el govern de la República assumeix l'ordre públic; **govern Negrín** (maig del 1937).\n2. **Trasllat del govern de la República a Barcelona (octubre-novembre del 1937)**: Barcelona capital; **tensions** amb la Generalitat (Companys), que perd competències (indústria de guerra, justícia...); ERC i PSUC.\n3. **Problemes de la rereguarda**: **refugiats** (centenars de milers arribats d'altres zones), **escassetat d'abastiments**, racionament, inflació, mercat negre; **bombardejos** de l'aviació italiana i alemanya (Barcelona, març del 1938; Granollers, Lleida).\n4. **Ofensiva d'Aragó (primavera del 1938)**: ocupació de Lleida (abril) i de la Terra Alta; arribada a la Mediterrània a Vinaròs (15 d'abril): Catalunya aïllada; **abolició de l'Estatut** per Franco (5 d'abril de 1938).\n5. **Batalla de l'Ebre (25 de juliol - 16 de novembre de 1938)**: ofensiva republicana, la més llarga i sagnant de la guerra; «lleva del biberó»; derrota que destrueix l'Exèrcit Popular.\n6. **Ofensiva de Catalunya (23 de desembre de 1938)**: avanç ràpid; Tarragona (15 de gener), **Barcelona (26 de gener de 1939)**, Girona (4 de febrer); últimes Corts a Figueres (1 de febrer); arribada a la frontera (10 de febrer).\n7. **Èxode a França**: la **Retirada**, prop de mig milió de persones; camps de concentració francesos (Argelers, Sant Cebrià); exili de Companys i del govern."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Després dels Fets de Maig del 1937, la Generalitat va perdre bona part del seu poder: el govern de la República va assumir l'ordre públic i la defensa a Catalunya, i el nou cap del govern republicà, **Juan Negrín**, va apostar per centralitzar l'esforç de guerra. A finals d'octubre del 1937, el **govern de la República es va traslladar de València a Barcelona**, que es va convertir en la capital de l'Espanya republicana. La convivència de dos governs a la mateixa ciutat va generar **tensions**: Negrín va anar absorbint competències de la Generalitat, com la indústria de guerra, la justícia o els ports, i el president **Companys** va protestar per la vulneració de l'Estatut. El 1938 la crisi es va agreujar i els consellers d'ERC i del PNB van sortir del govern de la República.\n\nLa vida a la rereguarda era cada vegada més difícil. Catalunya va acollir centenars de milers de **refugiats** procedents d'altres zones del país, cosa que va agreujar el problema dels **abastiments**: hi havia escassetat d'aliments, racionament, cues, inflació i mercat negre, i la fam s'estenia sobretot a les ciutats. A més, l'aviació italiana i alemanya al servei de Franco va **bombardejar** la població civil: els bombardejos de Barcelona del març del 1938, el de Granollers o el de l'escola de Lleida van causar centenars de morts.\n\nEn el terreny militar, la primavera del 1938 l'ofensiva franquista a l'Aragó va arribar a Catalunya: va ocupar **Lleida** (3 d'abril) i les comarques de ponent, i el 15 d'abril va arribar a la Mediterrània a Vinaròs, de manera que Catalunya va quedar aïllada de la resta de la zona republicana. El 5 d'abril Franco va abolir l'Estatut d'autonomia.\n\nPer reunir les dues zones i guanyar temps, l'Exèrcit Popular va iniciar el 25 de juliol de 1938 la **batalla de l'Ebre**, la més llarga i sagnant de la guerra, on van combatre fins i tot els joves de la «lleva del biberó». Després de gairebé quatre mesos, el novembre del 1938, els republicans es van haver de retirar, amb l'exèrcit destrossat.\n\nEl **23 de desembre de 1938** Franco va llançar l'**ofensiva de Catalunya**. L'avanç va ser ràpid: Tarragona va caure el 15 de gener, **Barcelona el 26 de gener de 1939** i Girona el 4 de febrer, mentre les Corts republicanes es reunien per darrera vegada a Figueres. Entre bombardejos de les columnes de civils, prop de mig milió de persones van fugir cap a **França**, en l'èxode conegut com la **Retirada**, i molts van acabar en camps de concentració com els d'Argelers o Sant Cebrià. Companys i el govern també van marxar a l'exili. El 10 de febrer de 1939 les tropes franquistes van arribar a la frontera i van completar la conquesta de Catalunya."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Establiment del govern central a Barcelona i tensions amb el govern de la Generalitat; el problema dels refugiats i el dels abastiments (1,25). La batalla de l'Ebre, l'ofensiva franquista de finals de desembre del 1938 i el ràpid avanç cap a la frontera francesa, amb els bombardejos i l'èxode a França (1,25)."
+          }
+        ],
+        "nota": "Recompte de la resposta model: 457 paraules (dins de l'extensió orientativa de 350-500). Error típic: explicar els Fets de Maig, que l'enunciat exclou expressament, o oblidar la caiguda de Lleida i l'abolició de l'Estatut (abril del 1938). No confongueu la presa de Barcelona (26 de gener de 1939) amb el final de la guerra (1 d'abril de 1939)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+{
+  "examen": {
+    "id": "llati-2015-S",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2015,
+    "convocatoria": "setembre",
+    "serie": "5",
+    "pdf_examen": "pdfs/llati/2015-S-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2015-S-solucio.pdf",
+    "estructura": "Sèrie 5, convocatòria de setembre. Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un text de Tit Livi (*Història de Roma*, I, 16, 1-2: la desaparició de Ròmul; 5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B). Opció A: 2. morfosintaxi sobre *cum* + subjuntiu (1 punt); 3. quatre preguntes d'opció múltiple sobre llatinismes (2 punts, 0,5 per encert, −0,16 per error, les no contestades no descompten); 4. exposició sobre Tit Livi i l'*Ab urbe condita* (2 punts, mínim 15 línies, ~150 paraules). Opció B: 2. morfosintaxi sobre els dos valors de *cum* (1 punt); 3. quatre preguntes d'opció múltiple sobre mites de *L'art d'estimar* d'Ovidi (2 punts, mateix barem); 4. exposició sobre el circ romà (2 punts, mínim 15 línies, ~150 paraules)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2015-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Tit Livi: Ròmul desapareix enmig d'una tempesta mentre presideix l'assemblea",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "tit livi",
+        "ab urbe condita",
+        "ròmul",
+        "ablatiu absolut",
+        "cum històric",
+        "cum temporal amb indicatiu",
+        "complement predicatiu"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Ròmul desapareix mentre presideix l'assemblea de tropes**\n\nHis operibus editis, cum Romulus contionem in campo haberet, subito tempestas cum magno fragore denso nimbo regem operuit et conspectum eius contioni abstulit; nec deinde in terris Romulus fuit. Romana pubes, cum uacuam sedem regiam uidit, silentium obtinuit.\n\nTit Livi, *Història de Roma*, 1, 16, 1-2\n\n**Lèxic** (per ordre alfabètic):\n\n- *aufero, abstuli, ablatum* (irregular): 'privar de'; 'llevar'.\n- *edo, edidi, editum* (3a): 'dur a terme'.\n- *obtineo, -tinui, -tentum* (2a): 'mantenir'.\n- *operio, -erui, -ertum* (4a): 'cobrir'.\n- *opus, -eris* (neutre): 'obra'.\n- *pubes, -is*: 'jovent'.\n- *tempestas, -atis*: 'tempesta'.",
+      "enunciat": "Feu la versió del text següent (5 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de Tit Livi (*Ab urbe condita*, I, 16): la desaparició misteriosa de Ròmul, el fundador i primer rei de Roma. Hi ha **tres oracions** separades per punt i coma i per punt. Val **5 punts**, la meitat de l'examen: dedica-hi uns 40 minuts.\n\nMètode: (1) el títol ja dona el sentit (Ròmul desapareix mentre presideix l'assemblea); (2) localitza els **verbs conjugats**: *haberet*, *operuit*, *abstulit*, *fuit*, *uidit*, *obtinuit*; (3) identifica les estructures: l'**ablatiu absolut** inicial *His operibus editis*, el ***cum* amb subjuntiu** (*cum ... haberet*), la preposició ***cum*** + ablatiu (*cum magno fragore*) i el ***cum* amb indicatiu** (*cum ... uidit*); (4) fes una traducció literal i després poleix-la.\n\nParanys: hi ha **tres *cum*** amb valors diferents; *editis* és de *edo, edidi, editum* («dur a terme»), no d'*edo* «menjar»; *abstulit* és el perfet de l'irregular *aufero*; *contioni* és datiu (amb *aufero*: «privar algú de»); *eius* és genitiu del pronom (*conspectum eius* = «la visió d'ell», la seva figura); *uacuam* és **predicatiu** de *sedem regiam* («va veure buit el setial»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*His operibus editis, cum Romulus contionem in campo haberet, subito tempestas cum magno fragore denso nimbo regem operuit et conspectum eius contioni abstulit;*\n\n- ***His operibus editis***: **ablatiu absolut**. *operibus* (ablatiu pl. d'*opus, -eris*, neutre) en fa de subjecte; *his* (ablatiu pl. neutre del demostratiu *hic, haec, hoc*) n'és el determinant; *editis* és participi de perfet passiu d'*edo* concordat amb *operibus*. Valor temporal: «dutes a terme aquestes obres».\n- ***cum Romulus contionem in campo haberet***: subordinada adverbial **temporal** introduïda per la conjunció *cum* amb subjuntiu (***cum* històric**). Verb *haberet* (3a sg. imperfet de subjuntiu d'*habeo*): simultaneïtat respecte al verb principal, «mentre ... tenia / presidia». Subjecte *Romulus* (nominatiu); CD *contionem* (acusatiu sg. de *contio, -onis*, «assemblea»); *in campo* (*in* + ablatiu), CC de lloc on: «a l'esplanada, al camp». *contionem habere* = presidir, convocar una assemblea.\n- Oració principal, amb dos verbs coordinats per *et*: ***operuit*** (3a sg. perfet d'indicatiu d'*operio*) i ***abstulit*** (3a sg. perfet d'indicatiu d'*aufero*). Subjecte comú: ***tempestas*** (nominatiu sg.).\n  - *subito*: adverbi, «de sobte».\n  - *cum magno fragore*: preposició *cum* + ablatiu, CC de manera (o de companyia): «amb gran estrèpit».\n  - *denso nimbo*: ablatiu sg. (adjectiu + nom concordats), CC d'instrument: «amb un núvol espès».\n  - *regem*: acusatiu sg., CD d'*operuit*.\n  - *conspectum eius*: CD d'*abstulit* (*conspectum*, acusatiu sg. de *conspectus, -us*, 4a decl.; *eius*, genitiu sg. d'*is, ea, id*, CN: «la seva visió», és a dir, la visió d'ell).\n  - *contioni*: datiu sg., CI (datiu de separació amb *aufero*): «va privar l'assemblea de» / «va llevar a l'assemblea»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*nec deinde in terris Romulus fuit.*\n\n- *nec* = *et non*: conjunció copulativa negativa, «i no».\n- *deinde*: adverbi, «després, a partir d'aleshores».\n- Verb ***fuit***: 3a sg. perfet d'indicatiu de *sum* (aquí amb valor existencial/locatiu: «ser, estar, existir»).\n- Subjecte: ***Romulus*** (nominatiu sg.).\n- *in terris*: *in* + ablatiu pl., CC de lloc on: «a la terra»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Romana pubes, cum uacuam sedem regiam uidit, silentium obtinuit.*\n\n- Oració principal: verb ***obtinuit*** (3a sg. perfet d'indicatiu d'*obtineo*, «mantenir»); subjecte ***Romana pubes*** (nominatiu sg.: el nom *pubes, -is* amb l'adjectiu *Romana* concordat; és un col·lectiu, «el jovent romà», i per això el verb va en singular); CD ***silentium*** (acusatiu sg. neutre).\n- ***cum uacuam sedem regiam uidit***: subordinada adverbial **temporal** introduïda per *cum* amb **indicatiu** (*uidit*, 3a sg. perfet d'indicatiu de *uideo*): «quan va veure». CD: *sedem regiam* (acusatiu sg. de *sedes, -is* + adjectiu *regiam*); ***uacuam*** (acusatiu sg. f.) és **complement predicatiu** del CD: «va veure buit el setial reial»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Aquestes obres dutes a terme, mentre Ròmul l'assemblea al camp tenia, de sobte una tempesta amb gran estrèpit amb un dens núvol el rei va cobrir i la visió d'ell a l'assemblea va llevar; i no després a la terra Ròmul va ser. El romà jovent, quan buit el setial reial va veure, el silenci va mantenir."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Un cop dutes a terme aquestes obres, mentre Ròmul presidia l'assemblea a l'esplanada, de sobte una tempesta, amb un gran estrèpit, va cobrir el rei amb un núvol espès i el va fer desaparèixer de la vista de l'assemblea; i des d'aleshores Ròmul ja no va ser a la terra. El jovent romà, quan va veure buit el setial reial, va romandre en silenci.\n\nTraducció orientativa oficial: «Dutes a terme aquestes obres, mentre Ròmul presidia l'assemblea en una esplanada, de sobte una tempesta amb gran brogit va cobrir el rei amb un núvol espès i va privar l'assemblea de la seva visió; i després Ròmul ja no va ser a la terra. El jovent romà, quan va veure buit el setial reial, va mantenir el silenci.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Dutes a terme aquestes obres, mentre Ròmul presidia l'assemblea en una esplanada, de sobte una tempesta amb gran brogit va cobrir el rei amb un núvol espès i va privar l'assemblea de la seva visió; i després Ròmul ja no va ser a la terra. El jovent romà, quan va veure buit el setial reial, va mantenir el silenci.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: ablatiu absolut *His operibus editis*; *cum* + imperfet de subjuntiu (*haberet*) temporal; subjecte *tempestas* amb dos verbs coordinats (*operuit* i *abstulit*); *cum magno fragore* preposició + ablatiu; *denso nimbo* ablatiu instrumental; *contioni* datiu amb *aufero*; *nec* = *et non*; *cum* + perfet d'indicatiu (*uidit*) temporal, amb *uacuam* predicatiu de *sedem regiam*."
+          }
+        ],
+        "nota": "Errors típics: traduir els tres *cum* de la mateixa manera (n'hi ha dos de conjunció i un de preposició); prendre *editis* com a forma d'*edo* «menjar»; no reconèixer *abstulit* com a perfet d'*aufero*; fer *contioni* subjecte o CD; traduir *uacuam* com si fos un epítet («el buit setial») en lloc de predicatiu; posar el verb en plural amb *pubes* (és col·lectiu singular). Context: segons Livi, Ròmul desaparegué durant una revista de tropes al Camp de Mart, prop de l'aiguamoll de la Cabra; uns deien que l'havia arrabassat la tempesta i l'havien divinitzat (Quirí), d'altres que els senadors l'havien esquarterat."
+      }
+    },
+    {
+      "id": "llati-2015-S-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: cum amb subjuntiu (cum Romulus contionem ... haberet)",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "cum històric",
+        "conjunció subordinant",
+        "oració subordinada adverbial",
+        "valor temporal",
+        "imperfet de subjuntiu",
+        "tit livi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Ròmul desapareix mentre presideix l'assemblea de tropes**\n\nHis operibus editis, cum Romulus contionem in campo haberet, subito tempestas cum magno fragore denso nimbo regem operuit et conspectum eius contioni abstulit; nec deinde in terris Romulus fuit. Romana pubes, cum uacuam sedem regiam uidit, silentium obtinuit.\n\nTit Livi, *Història de Roma*, 1, 16, 1-2\n\n**Lèxic** (per ordre alfabètic):\n\n- *aufero, abstuli, ablatum* (irregular): 'privar de'; 'llevar'.\n- *edo, edidi, editum* (3a): 'dur a terme'.\n- *obtineo, -tinui, -tentum* (2a): 'mantenir'.\n- *operio, -erui, -ertum* (4a): 'cobrir'.\n- *opus, -eris* (neutre): 'obra'.\n- *pubes, -is*: 'jovent'.\n- *tempestas, -atis*: 'tempesta'.",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «cum Romulus contionem in campo haberet, subito tempestas […] regem operuit», digueu què és *cum* i quin tipus d'oració introdueix.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts). Cal dir dues coses: **la categoria** de *cum* (preposició o conjunció) i **el tipus d'oració** que introdueix (amb el valor). Justifica-ho amb el verb: el mode i el temps de *haberet*."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*cum* pot ser preposició (+ ablatiu) o conjunció. Aquí no va seguit d'un ablatiu que en depengui, sinó d'un subjecte (*Romulus*), un CD (*contionem*) i un verb conjugat (*haberet*): per tant, és una **conjunció subordinant**. El verb està en **imperfet de subjuntiu**: és el ***cum* històric o narratiu**, que introdueix una subordinada adverbial **temporal** (amb matís causal) i expressa simultaneïtat respecte al verb principal *operuit*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Cum* és una **conjunció subordinant**. Introdueix una **oració subordinada adverbial temporal** (amb un matís causal), el que s'anomena ***cum* històric** o narratiu: porta el verb en subjuntiu (*haberet*, imperfet de subjuntiu d'*habeo*) i l'imperfet indica que l'acció és simultània a la de la principal (*operuit*). La subordinada fa de complement circumstancial de temps de la principal: «mentre Ròmul presidia l'assemblea a l'esplanada, de sobte una tempesta va cobrir el rei»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Cum* és una conjunció que introdueix una oració subordinada adverbial amb valor temporal-causal (*cum* + subjuntiu, *cum* històric)."
+          }
+        ],
+        "nota": "Error típic: dir només «temporal» sense dir que *cum* és conjunció, o confondre'l amb la preposició *cum* + ablatiu (com a *cum magno fragore*). Esmentar el mode subjuntiu i la simultaneïtat de l'imperfet suma precisió."
+      }
+    },
+    {
+      "id": "llati-2015-S-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: cum preposició (cum magno fragore) i cum conjunció (cum ... uidit)",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "cum preposició",
+        "cum temporal amb indicatiu",
+        "ablatiu",
+        "oració subordinada adverbial",
+        "conjunció subordinant",
+        "tit livi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Ròmul desapareix mentre presideix l'assemblea de tropes**\n\nHis operibus editis, cum Romulus contionem in campo haberet, subito tempestas cum magno fragore denso nimbo regem operuit et conspectum eius contioni abstulit; nec deinde in terris Romulus fuit. Romana pubes, cum uacuam sedem regiam uidit, silentium obtinuit.\n\nTit Livi, *Història de Roma*, 1, 16, 1-2\n\n**Lèxic** (per ordre alfabètic):\n\n- *aufero, abstuli, ablatum* (irregular): 'privar de'; 'llevar'.\n- *edo, edidi, editum* (3a): 'dur a terme'.\n- *obtineo, -tinui, -tentum* (2a): 'mantenir'.\n- *operio, -erui, -ertum* (4a): 'cobrir'.\n- *opus, -eris* (neutre): 'obra'.\n- *pubes, -is*: 'jovent'.\n- *tempestas, -atis*: 'tempesta'.",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En el text hi ha les expressions *cum magno fragore* i *cum uacuam sedem regiam uidit*. Digueu què és *cum* en cadascun dels dos casos i quina estructura introdueixen.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts). Per a **cada** *cum* cal dir la categoria i l'estructura que introdueix. Contrasta'ls: el primer va seguit d'un sintagma en ablatiu; el segon, d'una oració amb verb conjugat."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *cum magno fragore*: després de *cum* només hi ha un nom i un adjectiu en **ablatiu** (*magno fragore*), sense verb → **preposició d'ablatiu**; forma un sintagma preposicional que fa de CC de manera (o de companyia): «amb gran estrèpit».\n2. *cum uacuam sedem regiam uidit*: hi ha un verb conjugat, *uidit* (perfet d'**indicatiu**) → **conjunció subordinant**; introdueix una **oració subordinada adverbial temporal** («quan va veure»), CC de temps d'*obtinuit*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "En el primer cas (*cum magno fragore*), *cum* és una **preposició que regeix ablatiu** (*magno fragore*, ablatiu sg.); introdueix un sintagma preposicional amb funció de **complement circumstancial de manera** (o de companyia): «amb un gran estrèpit».\n\nEn el segon cas (*cum uacuam sedem regiam uidit*), *cum* és una **conjunció subordinant**; introdueix una **oració subordinada adverbial temporal**, amb el verb en indicatiu (*uidit*, perfet), que fa de complement circumstancial de temps del verb principal *obtinuit*: «quan va veure buit el setial reial»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "1r cas: *cum* preposició d'ablatiu. 2n cas: conjunció que introdueix una oració subordinada adverbial amb valor temporal."
+          }
+        ],
+        "nota": "Error típic: dir que el segon *cum* és «*cum* històric»: aquí el verb és en indicatiu (*uidit*), i per tant és un *cum* temporal pur, no el *cum* narratiu amb subjuntiu. Cal donar les dues respostes per tenir el punt sencer."
+      }
+    },
+    {
+      "id": "llati-2015-S-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme «alias»: el sobrenom",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "llatinismes",
+        "expressions llatines",
+        "alias",
+        "alter ego",
+        "summum",
+        "motu proprio"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina que pot substituir cadascun dels mots o de les expressions destacats en negreta.\n\n1. L'assassí londinenc conegut amb el **sobrenom** de Jack l'Esbudellador tenia una manera d'actuar tan peculiar que la policia mai no el va poder detenir mentre duia a terme els crims.",
+      "figures": [],
+      "opcions": {
+        "a": "*Alter ego.*",
+        "b": "*Summum.*",
+        "c": "*Motu proprio.*",
+        "d": "*Alias.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. La frase és la mateixa a les quatre qüestions; només canvia el mot en negreta. Tradueix literalment cada llatinisme i mira quin té el mateix sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Alias*** és un adverbi llatí que vol dir «d'una altra manera, altrament»; en català s'usa com a nom: «sobrenom, nom amb què es coneix algú» (Jack, *alias* l'Esbudellador). Les altres: *alter ego* («un altre jo»: persona de confiança o identitat alternativa); *summum* («el més alt»: el màxim, el súmmum); *motu proprio* («per moviment propi»: per iniciativa pròpia)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Alias."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal: *alias*, *alter ego*, *modus operandi*, *modus vivendi*, *statu quo*, *sui generis*, *ad hoc*, *a posteriori*, *sine die*, *in fraganti*, *in situ*, *in extremis*, *in articulo mortis*, *motu proprio*... Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2015-S-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme «modus operandi»: la manera d'actuar",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "llatinismes",
+        "expressions llatines",
+        "modus operandi",
+        "modus vivendi",
+        "statu quo",
+        "delirium tremens"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina que pot substituir cadascun dels mots o de les expressions destacats en negreta.\n\n2. L'assassí londinenc conegut amb el sobrenom de Jack l'Esbudellador tenia una **manera d'actuar** tan peculiar que la policia mai no el va poder detenir mentre duia a terme els crims.",
+      "figures": [],
+      "opcions": {
+        "a": "*Statu quo.*",
+        "b": "*Modus vivendi.*",
+        "c": "*Delirium tremens.*",
+        "d": "*Modus operandi.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. La frase és la mateixa a les quatre qüestions; només canvia el mot en negreta. Tradueix literalment cada llatinisme i mira quin té el mateix sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Modus operandi*** vol dir literalment «manera d'obrar» (*operandi*, genitiu del gerundi d'*operor*): el procediment característic amb què algú actua, expressió molt usada en criminologia. Les altres: *statu quo* («en l'estat en què»: la situació existent); *modus vivendi* («manera de viure»: mitjà de vida o acord de convivència); *delirium tremens* («deliri tremolós»: síndrome d'abstinència alcohòlica)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Modus operandi."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal: *alias*, *alter ego*, *modus operandi*, *modus vivendi*, *statu quo*, *sui generis*, *ad hoc*, *a posteriori*, *sine die*, *in fraganti*, *in situ*, *in extremis*, *in articulo mortis*, *motu proprio*... Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2015-S-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme «sui generis»: peculiar, singular",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "llatinismes",
+        "expressions llatines",
+        "sui generis",
+        "ad hoc",
+        "a posteriori",
+        "sine die"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina que pot substituir cadascun dels mots o de les expressions destacats en negreta.\n\n3. L'assassí londinenc conegut amb el sobrenom de Jack l'Esbudellador tenia una manera d'actuar tan **peculiar** que la policia mai no el va poder detenir mentre duia a terme els crims.",
+      "figures": [],
+      "opcions": {
+        "a": "*Ad hoc.*",
+        "b": "*A posteriori.*",
+        "c": "*Sine die.*",
+        "d": "*Sui generis.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. La frase és la mateixa a les quatre qüestions; només canvia el mot en negreta. Tradueix literalment cada llatinisme i mira quin té el mateix sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Sui generis*** vol dir «del seu propi gènere» (*sui*, genitiu del possessiu *suus*): singular, peculiar, que no s'assembla a res més. Les altres: *ad hoc* («per a això»: fet expressament per a una finalitat); *a posteriori* («a partir del que ve després»: després dels fets); *sine die* («sense dia»: sense data fixada)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Sui generis."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal: *alias*, *alter ego*, *modus operandi*, *modus vivendi*, *statu quo*, *sui generis*, *ad hoc*, *a posteriori*, *sine die*, *in fraganti*, *in situ*, *in extremis*, *in articulo mortis*, *motu proprio*... Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2015-S-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme «in fraganti»: en ple delicte",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "llatinismes",
+        "expressions llatines",
+        "in fraganti",
+        "in articulo mortis",
+        "in situ",
+        "in extremis"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina que pot substituir cadascun dels mots o de les expressions destacats en negreta.\n\n4. L'assassí londinenc conegut amb el sobrenom de Jack l'Esbudellador tenia una manera d'actuar tan peculiar que la policia mai no el va poder detenir **mentre duia a terme els crims**.",
+      "figures": [],
+      "opcions": {
+        "a": "*In articulo mortis.*",
+        "b": "*In fraganti.*",
+        "c": "*In situ.*",
+        "d": "*In extremis.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. La frase és la mateixa a les quatre qüestions; només canvia el mot en negreta. Tradueix literalment cada llatinisme i mira quin té el mateix sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***In fraganti*** (deformació de *in flagranti delicto*, «en el delicte quan encara crema») vol dir «en el moment de cometre el delicte»: enxampar algú *in fraganti*. Les altres: *in articulo mortis* («en el moment de la mort»); *in situ* («en el lloc mateix»); *in extremis* («en els darrers moments», a l'últim instant)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) In fraganti."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal: *alias*, *alter ego*, *modus operandi*, *modus vivendi*, *statu quo*, *sui generis*, *ad hoc*, *a posteriori*, *sine die*, *in fraganti*, *in situ*, *in extremis*, *in articulo mortis*, *motu proprio*... Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2015-S-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Pasífae, esposa de Minos i mare del Minotaure",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "ars amatoria",
+        "mitologia",
+        "pasífae",
+        "minos",
+        "minotaure",
+        "dèdal"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). En *L'art d'estimar*, Ovidi utilitza relats mitològics per a il·lustrar les seves opinions sobre l'amor. Encercleu la lletra de l'opció que correspon a cada espai en blanc per tal de completar cadascun dels fragments següents.\n\n1. La passió sovint no es pot controlar. __________, esposa de Minos, es va enamorar d'un toro i, per tal de poder tenir-hi relacions, es va fer construir una carcassa de fusta en forma de vaca; s'hi va introduir i així va enganyar el toro, que la va fecundar. D'aquesta unió, en va néixer el Minotaure.",
+      "figures": [],
+      "opcions": {
+        "a": "Filis",
+        "b": "Ariadna",
+        "c": "Pasífae",
+        "d": "Mirra"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Són mites que Ovidi explica a l'*Ars amatoria* (*L'art d'estimar*), una de les lectures; busca les pistes del fragment (parentius, llocs, objectes) i descarta els personatges d'altres mites."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Pasífae**, filla del Sol i esposa del rei Minos de Creta, s'enamorà del toro blanc que Posidó havia enviat a Minos; l'artesà Dèdal li construí la vaca de fusta, i d'aquella unió nasqué el Minotaure. Ovidi l'usa a l'*Ars amatoria* (llibre I) com a exemple de la passió desenfrenada de les dones. Les altres: Ariadna és la **filla** de Minos i Pasífae (ajudà Teseu); Filis, princesa tràcia abandonada per Demofont; Mirra, enamorada del seu pare Cíniras i convertida en arbre de la mirra."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) Pasífae"
+          }
+        ],
+        "nota": "Repassa els exemples mitològics de l'*Ars amatoria*: Pasífae i el toro (llibre I), Dèdal i Ícar (llibre II), Mart i Venus enxampats per Vulcà (llibre II), Cèfal i Procris (llibre III), a més de Mirra, Filis, Ariadna i Bacus. Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2015-S-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ícar, el fill de Dèdal que volà massa a prop del sol",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "ars amatoria",
+        "mitologia",
+        "ícar",
+        "dèdal",
+        "laberint",
+        "minos"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). En *L'art d'estimar*, Ovidi utilitza relats mitològics per a il·lustrar les seves opinions sobre l'amor. Encercleu la lletra de l'opció que correspon a cada espai en blanc per tal de completar cadascun dels fragments següents.\n\n2. L'Amor és lleuger i té ales per a volar, com les que Dèdal va construir per a ell i el seu fill __________, per a poder escapar del laberint on havia tancat el Minotaure. Tot i que el seu pare l'havia advertit que no ho fes, el noi va volar tan alt que l'escalfor del sol li va desfer la cera amb què Dèdal li havia enganxat les ales a les espatlles i, a conseqüència d'això, es va precipitar al mar i va morir.",
+      "figures": [],
+      "opcions": {
+        "a": "Ícar",
+        "b": "Minos",
+        "c": "Teseu",
+        "d": "Líber"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Són mites que Ovidi explica a l'*Ars amatoria* (*L'art d'estimar*), una de les lectures; busca les pistes del fragment (parentius, llocs, objectes) i descarta els personatges d'altres mites."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Ícar** és el fill de Dèdal. Tots dos estaven presoners a Creta per ordre de Minos; Dèdal fabricà ales de plomes i cera, i Ícar, desobeint el pare, s'acostà massa al sol, la cera es fongué i caigué al mar (que d'ell pren el nom d'Icari). Ovidi ho explica al llibre II de l'*Ars amatoria* per mostrar que, si Minos no pogué retenir un home alat, tampoc no es pot retenir l'Amor alat. Les altres: Minos és el rei que els tenia tancats; Teseu, l'heroi que matà el Minotaure; Líber, un altre nom de Bacus."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) Ícar"
+          }
+        ],
+        "nota": "Repassa els exemples mitològics de l'*Ars amatoria*: Pasífae i el toro (llibre I), Dèdal i Ícar (llibre II), Mart i Venus enxampats per Vulcà (llibre II), Cèfal i Procris (llibre III), a més de Mirra, Filis, Ariadna i Bacus. Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2015-S-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Cèfal, el marit de Procris, i la falsa amant «Brisa»",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "ars amatoria",
+        "mitologia",
+        "cèfal",
+        "procris",
+        "gelosia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). En *L'art d'estimar*, Ovidi utilitza relats mitològics per a il·lustrar les seves opinions sobre l'amor. Encercleu la lletra de l'opció que correspon a cada espai en blanc per tal de completar cadascun dels fragments següents.\n\n3. La gelosia sovint provoca la pròpia perdició. Procris pensava que el seu marit, __________, tenia una amant anomenada *Brisa*, amb la qual es trobava al bosc. En realitat, era una suposició falsa, perquè *brisa* no era pas el nom d'una noia sinó el del ventet que ell invocava perquè li alleugerís la calor després de l'esforç de la cacera.",
+      "figures": [],
+      "opcions": {
+        "a": "Caune",
+        "b": "Cèfal",
+        "c": "Calcant",
+        "d": "Adonis"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Són mites que Ovidi explica a l'*Ars amatoria* (*L'art d'estimar*), una de les lectures; busca les pistes del fragment (parentius, llocs, objectes) i descarta els personatges d'altres mites."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Cèfal**, caçador atenès, era el marit de Procris. Després de caçar invocava *Aura* («brisa»), i algú ho va prendre per el nom d'una amant; Procris, gelosa, el va espiar amagada entre les mates, i Cèfal, creient que era una fera, la va matar amb el seu dard. Ovidi ho narra al llibre III de l'*Ars amatoria* com a advertència contra la gelosia. Les altres: Caune, germà de Biblis (que se n'enamorà); Calcant, l'endeví dels grecs a Troia; Adonis, el jove amat per Venus i mort per un senglar."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Cèfal"
+          }
+        ],
+        "nota": "Repassa els exemples mitològics de l'*Ars amatoria*: Pasífae i el toro (llibre I), Dèdal i Ícar (llibre II), Mart i Venus enxampats per Vulcà (llibre II), Cèfal i Procris (llibre III), a més de Mirra, Filis, Ariadna i Bacus. Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2015-S-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Vulcà, el marit de Venus que atrapà Mart i Venus amb una xarxa",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "ars amatoria",
+        "mitologia",
+        "vulcà",
+        "mart",
+        "venus"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). En *L'art d'estimar*, Ovidi utilitza relats mitològics per a il·lustrar les seves opinions sobre l'amor. Encercleu la lletra de l'opció que correspon a cada espai en blanc per tal de completar cadascun dels fragments següents.\n\n4. No és aconsellable sorprendre l'estimada cometent una infidelitat. Mart s'havia convertit en l'amant de Venus. El marit de la deessa, __________, en assabentar-se'n, va col·locar una xarxa invisible sobre el llit on es trobaven els amants i, després que s'hi quedessin atrapats, va reunir la resta de divinitats perquè els veiessin nus. A partir d'aleshores allò que els amants abans ocultaven, ho van fer sense vergonya.",
+      "figures": [],
+      "opcions": {
+        "a": "Paris",
+        "b": "Bacus",
+        "c": "Aquil·les",
+        "d": "Vulcà"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Són mites que Ovidi explica a l'*Ars amatoria* (*L'art d'estimar*), una de les lectures; busca les pistes del fragment (parentius, llocs, objectes) i descarta els personatges d'altres mites."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Vulcà** (Hefest), déu del foc i de la forja, era el marit de Venus. Avisat pel Sol, forjà una xarxa invisible i atrapà els amants al llit davant de tots els déus; el resultat fou que Mart i Venus, ja descoberts, continuaren la relació obertament. Ovidi ho explica al llibre II de l'*Ars amatoria*: no convé posar paranys a la parella. Les altres: Paris, el príncep troià que va donar la poma a Venus; Bacus, déu del vi; Aquil·les, l'heroi grec de la guerra de Troia."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Vulcà"
+          }
+        ],
+        "nota": "Repassa els exemples mitològics de l'*Ars amatoria*: Pasífae i el toro (llibre I), Dèdal i Ícar (llibre II), Mart i Venus enxampats per Vulcà (llibre II), Cèfal i Procris (llibre III), a més de Mirra, Filis, Ariadna i Bacus. Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2015-S-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Tit Livi i l'Ab urbe condita: títol, context august, objectius i relació amb l'Eneida",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "tit livi",
+        "ab urbe condita",
+        "historiografia",
+        "august",
+        "virgili",
+        "eneida",
+        "prefaci"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (exposició d'un tema de literatura o de civilització romanes, 2 punts). Pels volts de l'any 29 aC, Tit Livi va començar a redactar *Ab urbe condita libri*, que no va poder concloure a causa de la seva mort. Expliqueu, en quinze línies com a mínim (unes cent cinquanta paraules), el títol de l'obra; digueu quin període de la història de Roma pretenia cobrir l'autor; expliqueu breument el context històric en què Livi va escriure els seus llibres i enumereu els objectius de l'obra, que exposa en el prefaci. Finalment, digueu quin poeta èpic romà va començar a escriure la seva obra al mateix temps que Livi amb uns objectius similars, digueu-ne el títol i assenyaleu les coincidències argumentals entre les dues obres.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts, uns 20-25 minuts. Mínim **15 línies (~150 paraules)**. La consigna enumera **sis punts** i cal respondre'ls tots, en ordre: (1) significat del títol; (2) període que cobreix; (3) context històric; (4) objectius del prefaci; (5) el poeta èpic contemporani i la seva obra; (6) coincidències argumentals. Fes-ne una llista mental i organitza la resposta en quatre paràgrafs."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Títol**: *Ab urbe condita* = «des de la fundació de la ciutat» (*urbs condita*, construcció de participi: «la ciutat fundada»).\n2. **Període**: des dels orígens mítics (Eneas, Alba Longa, Ròmul) fins a l'època d'August; 142 llibres, en conservem 35.\n3. **Context**: fi de les guerres civils, victòria d'Octavià a Àccium (31 aC), inici del principat (27 aC: títol d'August).\n4. **Objectius del prefaci**: recordar les gestes del primer poble del món; descriure els homes i costums que portaren Roma a la grandesa i la decadència moral posterior; oferir exemples positius i negatius → finalitat didàctica i ètica, en sintonia amb la regeneració moral d'August.\n5. **Poeta**: Virgili, l'*Eneida* (començada cap al 29 aC).\n6. **Coincidències**: poques; només l'inici del llibre I de Livi (fugida d'Eneas de Troia, arribada al Laci, Lavínia, guerra contra Turn i els rútuls)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El títol ***Ab urbe condita libri*** significa «Llibres des de la fundació de la ciutat» i indica el punt de partida de l'obra: **Tit Livi** (59 aC - 17 dC) volia narrar tota la història de Roma des dels orígens llegendaris anteriors a la fundació (Eneas i els reis d'Alba) fins a la seva pròpia època, el **principat d'August**. Dels 142 llibres que va escriure, se'n conserven 35.\n\nLivi va començar a escriure cap al 29 aC, just després de la victòria d'Octavià a **Àccium** (31 aC) sobre Antoni i Cleòpatra. Acabaven les guerres civils i la República, i començava el principat, amb un programa de restauració moral i religiosa.\n\nEn el **prefaci** exposa els seus objectius: recordar les gestes del primer poble del món; mostrar amb quins homes i quines costums Roma havia arribat a la grandesa i com la decadència moral l'havia portat a la crisi; i oferir **models** de conducta per imitar o evitar. És, doncs, una història **didàctica i moralitzant**, en sintonia amb la regeneració que impulsava August.\n\nAl mateix temps, **Virgili** va començar l'***Eneida***, amb uns objectius semblants: exaltar els orígens de Roma i la gens Júlia. Les coincidències argumentals són escasses: només els primers capítols del llibre I de Livi, que resumeixen la fugida d'Eneas de Troia, l'arribada al Laci, el compromís amb Lavínia i la guerra contra Turn i els rútuls."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Títol: «des de la fundació de la ciutat»; cobreix la història de Roma des de l'època mítica prefundacional fins al principat d'August."
+          },
+          {
+            "apartat": null,
+            "valor": "Context: Octavià ha vençut a Àccium Antoni i Cleòpatra i es converteix en August; fi de la República i inici del principat."
+          },
+          {
+            "apartat": null,
+            "valor": "Objectius del prefaci: recordar els fets del principal poble del món; descriure els homes i la forma de vida que van portar Roma a la grandesa i a la decadència moral; ajudar August en la regeneració moral. Finalitat didàctica i ètica: oferir models de comportament positius i negatius."
+          },
+          {
+            "apartat": null,
+            "valor": "Virgili, *Eneida* (començada cap al 29 aC); coincidències argumentals mínimes: els primers capítols del llibre I de Livi (fugida d'Eneas de Troia, arribada al Laci, prometatge amb Lavínia, lluita contra Turn i els rútuls)."
+          }
+        ],
+        "nota": "La resposta model té 228 paraules (el mínim demanat és d'unes 150). Errors típics: oblidar algun dels sis punts de la consigna (sobretot les coincidències argumentals); confondre Livi amb Sal·lusti o Cèsar; dir que l'*Eneida* i l'*Ab urbe condita* expliquen la mateixa història (Virgili acaba amb la mort de Turn; Livi hi dedica només uns paràgrafs). Les pautes diuen que el model oficial és orientatiu i que no cal replicar-lo."
+      }
+    },
+    {
+      "id": "llati-2015-S-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "El circ romà: carceres, spina, meta i cauea, les curses de carros i els circs hispànics",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "circ",
+        "curses de carros",
+        "spina",
+        "meta",
+        "carceres",
+        "cauea",
+        "auriga",
+        "tàrraco"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (exposició d'un tema de literatura o de civilització romanes, 2 punts). Els mots llatins *carceres*, *spina*, *meta* i *cauea* estan relacionats amb un edifici que era habitual en les grans ciutats romanes. En quinze línies com a mínim (unes cent cinquanta paraules), identifiqueu l'edifici i descriviu-lo; expliqueu cadascun dels mots esmentats; exposeu les activitats que s'hi feien i com es desenvolupaven, i esmenteu dues ciutats de la península Ibèrica que n'hagin conservat restes.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts, uns 20-25 minuts. Mínim **15 línies (~150 paraules)**. Cal: (1) **identificar** l'edifici (el circ) i descriure'l; (2) explicar **els quatre mots** un per un; (3) explicar les **curses de carros** i com es feien; (4) donar **dues ciutats** hispàniques amb restes. No el confonguis amb l'amfiteatre (gladiadors, planta el·líptica) ni amb el teatre (planta semicircular)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Edifici**: circ, planta rectangular allargada amb un extrem arrodonit; parts: arena i *cauea*.\n2. **Mots**: *cauea* = graderia; *spina* = mur central que divideix l'arena; *meta* = fita de cada extrem de la *spina* on es girava; *carceres* = cotxeres de sortida.\n3. **Activitat**: curses de carros (bigues, quadrigues); faccions de colors; l'auriga amb casc, fuet i regnes lligades al cos; sortida amb el mocador (*mappa*) del magistrat; set voltes; accidents mortals.\n4. **Hispània**: Tarragona (Tàrraco), Mèrida (Emerita Augusta), també Toledo, Sagunt, Calahorra..."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Els mots *carceres*, *spina*, *meta* i *cauea* designen parts del **circ**, l'edifici on es feien les **curses de carros**. Era una construcció de planta rectangular molt allargada, amb un dels costats curts arrodonit. Tenia dues parts principals: l'**arena**, la pista central, i la ***cauea***, la graderia on seien els espectadors.\n\nAl mig de l'arena, dividint-la longitudinalment en dues meitats, hi havia la ***spina***, un mur o terraplè baix decorat amb estàtues, obeliscs i els comptadors de voltes. A cada extrem de la *spina* hi havia una ***meta***, una fita arrodonida on els carros feien el gir, el punt més perillós de la cursa. A l'extrem recte hi havia les ***carceres***, les cotxeres d'on sortien els carros.\n\nEls aurigues, lligats amb les regnes a la cintura, amb casc i fuet, competien per les **faccions** o colors (blancs, vermells, blaus i verds), que tenien seguidors apassionats. El magistrat que presidia donava la sortida deixant caure un mocador (*mappa*); els carros havien de fer set voltes, i les caigudes (*naufragia*) sovint eren mortals.\n\nA la península Ibèrica es conserven restes de circs a **Tàrraco** (Tarragona) i a **Emerita Augusta** (Mèrida), i també a Toletum (Toledo)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Edifici: el circ, de planta rectangular allargada amb els costats curts arrodonits; parts principals: *cauea* (graderia) i arena (espai central)."
+          },
+          {
+            "apartat": null,
+            "valor": "*spina*: terraplè allargat al mig de l'arena, decorat; *meta*: punt arrodonit a cada extrem de la *spina* on els carros giraven; *carceres*: cotxeres d'on sortien els cavalls i els carros; *cauea*: graderia."
+          },
+          {
+            "apartat": null,
+            "valor": "Activitat: curses de carros; cada carro defensava un bàndol amb un color; l'auriga duia el color de la facció, casc, fuet i regnes lligades al cos; la cursa començava quan el magistrat deixava caure un mocador; calia destresa per avançar i les caigudes sovint eren mortals."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes a la península Ibèrica: Tarragona, Mèrida i Toledo."
+          }
+        ],
+        "nota": "La resposta model té 192 paraules (el mínim demanat és d'unes 150). Errors típics: identificar l'edifici amb l'amfiteatre (on es feien els combats de gladiadors i les *uenationes*) o explicar-hi lluites de gladiadors; oblidar algun dels quatre mots; donar ciutats sense restes de circ. A les pautes oficials aquest exercici apareix numerat per error com a «5»."
+      }
+    }
+  ]
+}

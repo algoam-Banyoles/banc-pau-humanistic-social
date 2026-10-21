@@ -1,0 +1,789 @@
+{
+  "examen": {
+    "id": "llati-2014-S",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2014,
+    "convocatoria": "setembre",
+    "serie": "5",
+    "pdf_examen": "pdfs/llati/2014-S-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2014-S-solucio.pdf",
+    "estructura": "Sèrie 5, convocatòria de setembre. Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un text de Suetoni (*Vida d'August*, 82: la intolerància d'August al fred i a la calor; 5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B). Opció A: 2. morfosintaxi sobre *itinera lenta ac minuta* i *lectica* (1 punt); 3. quatre preguntes d'opció múltiple per completar fragments de poemes d'Horaci (2 punts, 0,5 per encert, −0,16 per error, les no contestades no descompten); 4. exposició sobre la casa romana amb una il·lustració numerada (2 punts, mínim 15 línies, ~150 paraules). Opció B: 2. morfosintaxi sobre *patiens* i *solem hibernum* (1 punt); 3. quatre preguntes d'opció múltiple per relacionar refranys catalans amb expressions llatines (2 punts, mateix barem); 4. exposició sobre la figura i l'obra de Terenci (2 punts, mínim 15 línies, ~150 paraules)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2014-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Suetoni: August no suportava ni el fred ni la calor",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "suetoni",
+        "vida d'august",
+        "august",
+        "ablatiu absolut",
+        "participi de present",
+        "verb deponent",
+        "complement predicatiu",
+        "ablatiu de temps"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Intolerància d'August al fred i a la calor**\n\nAugustus neque frigora neque aestus facile tolerabat. Hieme quaternis tunicis cum pingui toga et subucula et thorace laneo muniebatur; aestate apertis cubiculi foribus ac saepe in peristylo —atque etiam uentilante aliquo— cubabat. Solem ne hibernum quidem patiens, semper petasatus sub diuo spatiabatur. Itinera lenta ac minuta lectica et noctibus faciebat.\n\nGai Suetoni, *Vida d'August*, 82\n\n**Lèxic** (per ordre alfabètic):\n\n- *iter, itineris* (neutre): 'viatge'.\n- *munio, -iui, -itum* (4a): 'abrigar'.\n- *ne… quidem* (adverbi): 'ni tan sols'.\n- *pinguis, -e* (adjectiu): 'gruixut'.\n- *quaterni, -ae, -a*: 'quatre a la vegada'.\n- *thorax, -acis*: 'malla'.\n- *uentilo, -aui, -atum* (1a): 'ventar'.",
+      "enunciat": "Feu la versió del text següent (5 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de Suetoni (*Vides dels dotze Cèsars*, *August*, 82) sobre els costums d'August per protegir-se del fred i de la calor. Hi ha **quatre oracions** (la segona té dues parts separades per punt i coma). Val **5 punts**, la meitat de l'examen: dedica-hi uns 40 minuts.\n\nMètode: (1) el títol ja dona el sentit (August no tolera el fred ni la calor); (2) localitza els **verbs conjugats**: *tolerabat*, *muniebatur*, *cubabat*, *spatiabatur*, *faciebat* (tots en **imperfet**: costums repetits, «solia...»); (3) identifica les estructures: dos **ablatius absoluts** (*apertis cubiculi foribus* i *uentilante aliquo*), un **participi de present** concertat (*patiens*), molts **ablatius** de temps (*hieme*, *aestate*, *noctibus*) i d'instrument (*quaternis tunicis*, *lectica*); (4) fes una traducció literal i després poleix-la.\n\nParanys: *frigora* i *aestus* són **acusatius plurals** (CD), no nominatius; *aestus* (4a decl.) no és *aestas* «estiu»; *muniebatur* és passiva amb valor reflexiu («s'abrigava»); *spatiabatur* és **deponent** (forma passiva, sentit actiu: «passejava»); *patiens* regeix l'acusatiu *solem hibernum*; *ne ... quidem* emmarca el mot que remarca («ni tan sols el d'hivern»); *sub diuo* és una expressió fixa: «a cel obert»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Augustus neque frigora neque aestus facile tolerabat.*\n\n- Verb ***tolerabat***: 3a sg. imperfet d'indicatiu actiu de *tolero, -are* (1a): «suportava, tolerava».\n- Subjecte: ***Augustus*** (nominatiu sg.).\n- CD: ***frigora*** (acusatiu pl. de *frigus, -oris*, neutre, 3a decl.) i ***aestus*** (acusatiu pl. de *aestus, -us*, masculí, 4a decl., «calor, xafogor»), coordinats per *neque ... neque* («ni ... ni»).\n- *facile*: adverbi, «fàcilment» (CC de manera)."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Hieme quaternis tunicis cum pingui toga et subucula et thorace laneo muniebatur;*\n\n- Verb ***muniebatur***: 3a sg. imperfet d'indicatiu **passiu** de *munio* (4a): «era abrigat» → «s'abrigava» (valor reflexiu). Subjecte implícit: August.\n- *Hieme*: ablatiu sg. de *hiems, -emis*: CC de temps, «a l'hivern».\n- *quaternis tunicis*: ablatiu pl. (distributiu *quaterni* + *tunica*): CC d'instrument, «amb quatre túniques a la vegada».\n- *cum pingui toga et subucula et thorace laneo*: preposició *cum* + tres ablatius coordinats per *et*: *pingui toga* (ablatiu sg., adjectiu de 2a classe *pinguis* + *toga*), *subucula* (ablatiu sg., «camisa, túnica interior») i *thorace laneo* (ablatiu sg. de *thorax* + adjectiu *laneus*, «de llana»). CC de companyia/instrument: «amb una toga gruixuda, una camisa i una malla de llana».\n\n*aestate apertis cubiculi foribus ac saepe in peristylo —atque etiam uentilante aliquo— cubabat.*\n\n- Verb ***cubabat***: 3a sg. imperfet d'indicatiu de *cubo, -are* (1a): «jeia, dormia». Subjecte implícit: August.\n- *aestate*: ablatiu sg. de *aestas, -atis*: CC de temps, «a l'estiu».\n- ***apertis cubiculi foribus***: **ablatiu absolut**. *foribus* (ablatiu pl. de *fores, -ium*, «porta») n'és el subjecte; *apertis* (participi de perfet passiu d'*aperio*) concorda amb *foribus*; *cubiculi* (genitiu sg. de *cubiculum*) és CN de *foribus*. Literalment «obertes les portes del dormitori» → «amb les portes del dormitori obertes».\n- *ac saepe in peristylo*: *ac* coordina amb l'anterior; *saepe*, adverbi «sovint»; *in* + ablatiu, CC de lloc on: «al peristil».\n- ***uentilante aliquo***: **ablatiu absolut** amb participi de present (*uentilante*, de *uentilo*) i subjecte *aliquo* (ablatiu sg. del pronom indefinit *aliquis*): «ventant-lo algú» → «amb algú que el ventava». *atque etiam*: «i fins i tot»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Solem ne hibernum quidem patiens, semper petasatus sub diuo spatiabatur.*\n\n- Verb ***spatiabatur***: 3a sg. imperfet d'indicatiu del **deponent** *spatior, -ari* (1a): «passejava». Subjecte implícit: August.\n- ***patiens***: participi de present (nominatiu sg. masc.) del deponent *patior*; concorda amb el subjecte (August) i té valor causal o concessiu (aposició/predicatiu): «no suportant / com que no suportava».\n- ***Solem hibernum***: acusatiu sg. (nom *sol, solis* + adjectiu *hibernus*): **CD de *patiens***. *ne ... quidem* emmarca *hibernum*: «ni tan sols el sol d'hivern».\n- *semper*: adverbi, «sempre».\n- *petasatus*: adjectiu (nominatiu sg. masc.) derivat de *petasus* («barret d'ala ampla»): **complement predicatiu** del subjecte, «amb barret».\n- *sub diuo*: expressió fixa (*sub* + ablatiu de *diuum*, «el cel»): CC de lloc, «a cel obert, a l'aire lliure»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: quarta oració",
+            "cos": "*Itinera lenta ac minuta lectica et noctibus faciebat.*\n\n- Verb ***faciebat***: 3a sg. imperfet d'indicatiu de *facio* (3a mixta): «feia». Subjecte implícit: August.\n- CD: ***itinera*** (acusatiu pl. de *iter, itineris*, neutre) amb els adjectius *lenta* i *minuta* (acusatiu pl. neutre) coordinats per *ac*: «viatges lents i curts».\n- *lectica*: ablatiu sg. de *lectica, -ae*: CC de mitjà/instrument, «en llitera».\n- *et noctibus*: ablatiu pl. de *nox, noctis*: CC de temps, «de nit». *et* coordina els dos complements."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "August ni els freds ni les calors fàcilment suportava. A l'hivern amb quatre túniques alhora amb una gruixuda toga i una camisa i una malla de llana era abrigat; a l'estiu, obertes les portes del dormitori, i sovint al peristil —i fins i tot ventant algú— jeia. El sol ni tan sols d'hivern suportant, sempre amb barret a cel obert passejava. Viatges lents i curts en llitera i de nits feia."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "August no suportava fàcilment ni el fred ni la calor. A l'hivern s'abrigava amb quatre túniques alhora, amb una toga gruixuda, una camisa i una malla de llana; a l'estiu dormia amb les portes de l'habitació obertes, i sovint al peristil, i fins i tot amb algú que el ventava. Com que no suportava ni tan sols el sol d'hivern, sempre passejava a l'aire lliure amb barret. Feia els viatges, lents i curts, en llitera i de nit."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «August no tolerava fàcilment ni el fred ni la calor. A l'hivern s'abrigava amb quatre túniques a la vegada, amb una toga gruixuda, una camisa i una malla de llana; a l'estiu dormia amb les portes del dormitori obertes i sovint en el peristil –i fins i tot amb algú que el ventava. No suportant ni tan sols el sol d'hivern, sempre passejava a cel obert amb un barret. Feia viatges lents i curts en llitera i de nit.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: *frigora* i *aestus* acusatius plurals (CD); *hieme*, *aestate*, *noctibus* ablatius de temps; *muniebatur* passiva amb valor reflexiu; ablatius absoluts *apertis cubiculi foribus* i *uentilante aliquo*; *patiens* concorda amb August i regeix *solem hibernum*; *ne ... quidem* «ni tan sols»; *spatiabatur* deponent; *petasatus* predicatiu; *sub diuo* «a cel obert»; *itinera* CD i *lectica* ablatiu instrumental."
+          }
+        ],
+        "nota": "Errors típics: fer *frigora* o *aestus* subjecte; confondre *aestus* («calor») amb *aestas* («estiu»); traduir *muniebatur* com a passiva estricta sense sentit («era fortificat»); no reconèixer els dos ablatius absoluts; traduir *spatiabatur* en passiva (és deponent); fer *patiens* afirmatiu oblidant *ne ... quidem*; traduir *sub diuo* literalment («sota el diví»). Context: Suetoni (c. 70-c. 140 dC), secretari de l'emperador Adrià, va escriure les *Vides dels dotze Cèsars*, biografies plenes d'anècdotes sobre els costums privats dels emperadors; el *petasus* era el barret d'ala ampla dels viatgers."
+      }
+    },
+    {
+      "id": "llati-2014-S-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: itinera lenta ac minuta (CD) i lectica (ablatiu instrumental)",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "acusatiu",
+        "complement directe",
+        "ablatiu instrumental",
+        "tercera declinació",
+        "neutre plural",
+        "suetoni"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Intolerància d'August al fred i a la calor**\n\nAugustus neque frigora neque aestus facile tolerabat. Hieme quaternis tunicis cum pingui toga et subucula et thorace laneo muniebatur; aestate apertis cubiculi foribus ac saepe in peristylo —atque etiam uentilante aliquo— cubabat. Solem ne hibernum quidem patiens, semper petasatus sub diuo spatiabatur. Itinera lenta ac minuta lectica et noctibus faciebat.\n\nGai Suetoni, *Vida d'August*, 82\n\n**Lèxic** (per ordre alfabètic):\n\n- *iter, itineris* (neutre): 'viatge'.\n- *munio, -iui, -itum* (4a): 'abrigar'.\n- *ne… quidem* (adverbi): 'ni tan sols'.\n- *pinguis, -e* (adjectiu): 'gruixut'.\n- *quaterni, -ae, -a*: 'quatre a la vegada'.\n- *thorax, -acis*: 'malla'.\n- *uentilo, -aui, -atum* (1a): 'ventar'.",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «Itinera lenta ac minuta lectica et noctibus faciebat», analitzeu morfològicament *itinera lenta ac minuta* i *lectica*, i digueu-ne la funció sintàctica.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts). Per a cada element cal donar **cas, nombre (i gènere)** i la **funció sintàctica** respecte al verb *faciebat*. Recorda que *iter* és neutre (el lèxic ho diu): el nominatiu i l'acusatiu plural acaben en *-a*."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *itinera*: de *iter, itineris* (3a decl., neutre). La forma *-a* pot ser nominatiu o acusatiu plural; com que el subjecte de *faciebat* és August (implícit, singular), *itinera* ha de ser **acusatiu plural**. *lenta* i *minuta* són adjectius de la 1a classe en acusatiu plural neutre concordats amb *itinera*, units per la conjunció copulativa *ac*. Funció: **CD** de *faciebat*.\n2. *lectica*: de *lectica, -ae* (1a decl.). No pot ser nominatiu (no concorda amb res ni és el subjecte) → **ablatiu singular** (*-a* llarga). Funció: **CC de mitjà o instrument** de *faciebat* («en llitera»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Itinera* és acusatiu plural neutre del substantiu *iter, itineris* (3a declinació); *lenta* i *minuta* són adjectius de la primera classe en acusatiu plural neutre que concorden amb *itinera* i estan coordinats per la conjunció *ac*. El conjunt *itinera lenta ac minuta* fa la funció de **complement directe** de *faciebat* («feia viatges lents i curts»).\n\n*Lectica* és ablatiu singular del substantiu femení *lectica, -ae* (1a declinació) i fa la funció de **complement circumstancial** (de mitjà o instrument) de *faciebat*: «en llitera»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Itinera lenta ac minuta*: acusatius plurals; complement directe de *faciebat*."
+          },
+          {
+            "apartat": null,
+            "valor": "*Lectica*: ablatiu singular; complement circumstancial de *faciebat*."
+          }
+        ],
+        "nota": "Error típic: prendre *itinera* per nominatiu (subjecte) o *lectica* per nominatiu singular. Recorda que el verb *faciebat* és singular i el subjecte és August. Especificar el tipus de CC (mitjà/instrument) suma precisió."
+      }
+    },
+    {
+      "id": "llati-2014-S-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Cleòpatra a l'oda de la victòria d'Àccium (*Nunc est bibendum*)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "horaci",
+        "odes",
+        "cleòpatra",
+        "àccium",
+        "nunc est bibendum"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cada espai en blanc, per tal de completar els fragments de poemes d'Horaci següents.\n\n1. «Ara cal beure, ara cal colpir la terra amb peu alliberat. Abans d'ara hauria estat un sacrilegi treure el Cècub dels cellers dels avis, llavors que _________ preparava la ruïna insensata del Capitoli i la fi de l'imperi.» (*Odes*, 1, 37)",
+      "figures": [],
+      "opcions": {
+        "a": "Arsínoe",
+        "b": "Dido",
+        "c": "Cleòpatra",
+        "d": "Zenòbia"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Cal reconèixer el destinatari o l'element que falta en fragments d'Horaci (traduïts al català). Busca pistes al fragment (to, fets històrics, epítets) i descarta les opcions anacròniques o incoherents."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "És la cèlebre oda ***Nunc est bibendum*** («Ara cal beure»), que celebra la mort de **Cleòpatra** (30 aC) després de la derrota d'Àccium (31 aC) davant d'Octavi. La propaganda augustal presentava la reina d'Egipte com una amenaça per a Roma (la «ruïna del Capitoli»). Arsínoe era una germana de Cleòpatra; Dido, la reina de Cartago de l'*Eneida*; Zenòbia, la reina de Palmira del segle III dC (anacrònica)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) Cleòpatra."
+          }
+        ],
+        "nota": "Horaci (65-8 aC), poeta del cercle de Mecenes i protegit d'August, va escriure *Epodes*, *Sàtires*, *Odes* i *Epístoles*. Convé recordar-ne els destinataris principals (Mecenes, August, Virgili) i els temes (*carpe diem*, *aurea mediocritas*, l'amistat, la victòria d'Àccium). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2014-S-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Mecenes i l'all a l'epode 3",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "horaci",
+        "epodes",
+        "mecenes",
+        "cercle de mecenes"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cada espai en blanc, per tal de completar els fragments de poemes d'Horaci següents.\n\n2. «Si mai, faceciós _________, et tornés el desig de menjar all, tant de bo la mà de la teva noia intercepti el teu bes i dormi a l'altre extrem del llit.» (*Epodes*, 3)",
+      "figures": [],
+      "opcions": {
+        "a": "Mecenes",
+        "b": "Virgili",
+        "c": "Marc Antoni",
+        "d": "August"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Cal reconèixer el destinatari o l'element que falta en fragments d'Horaci (traduïts al català). Busca pistes al fragment (to, fets històrics, epítets) i descarta les opcions anacròniques o incoherents."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "L'epode 3 és una invectiva humorística contra l'all, que Horaci havia menjat en un plat que li havia servit **Mecenes**, el seu amic i protector. El to burleta i familiar («faceciós», bromista) només s'explica amb algú de molta confiança: Mecenes, que li va regalar la finca de la Sabina i al qual va dedicar moltes obres. No s'hi adreçaria així a August ni a Marc Antoni (enemic d'Octavi)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) Mecenes."
+          }
+        ],
+        "nota": "Horaci (65-8 aC), poeta del cercle de Mecenes i protegit d'August, va escriure *Epodes*, *Sàtires*, *Odes* i *Epístoles*. Convé recordar-ne els destinataris principals (Mecenes, August, Virgili) i els temes (*carpe diem*, *aurea mediocritas*, l'amistat, la victòria d'Àccium). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2014-S-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Virgili consolat per la mort de Quintili (Odes 1, 24)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "horaci",
+        "odes",
+        "virgili",
+        "quintili",
+        "pietas"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cada espai en blanc, per tal de completar els fragments de poemes d'Horaci següents.\n\n3. «Aquell que mereix que el plorin tants d'homes bons és mort, i més que ningú l'has de plorar tu, __________. Tu, ai!, ple de pietat, reclames en va que els déus et tornin Quintili: no era pas per això que els l'havies confiat.» (*Odes*, 1, 24)",
+      "figures": [],
+      "opcions": {
+        "a": "August",
+        "b": "Ovidi",
+        "c": "Quintili Varus",
+        "d": "Virgili"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Cal reconèixer el destinatari o l'element que falta en fragments d'Horaci (traduïts al català). Busca pistes al fragment (to, fets històrics, epítets) i descarta les opcions anacròniques o incoherents."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "L'oda 1, 24 és un consol adreçat a **Virgili** per la mort del seu amic comú Quintili (de Cremona, crític literari). L'adjectiu «ple de pietat» (*pius*) evoca precisament Virgili, el poeta de la *pietas* (pensa en el *pius Aeneas*). Quintili Varus no pot ser: és el mort mateix (i no s'ha de confondre amb el general Publi Quintili Var de la derrota de Teutoburg); Ovidi era massa jove i no formava part d'aquest cercle."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Virgili."
+          }
+        ],
+        "nota": "Horaci (65-8 aC), poeta del cercle de Mecenes i protegit d'August, va escriure *Epodes*, *Sàtires*, *Odes* i *Epístoles*. Convé recordar-ne els destinataris principals (Mecenes, August, Virgili) i els temes (*carpe diem*, *aurea mediocritas*, l'amistat, la victòria d'Àccium). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2014-S-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "El Soracte nevat a l'oda 1, 9 (carpe diem hivernal)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "horaci",
+        "odes",
+        "soracte",
+        "carpe diem"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cada espai en blanc, per tal de completar els fragments de poemes d'Horaci següents.\n\n4. «¿Veus com es dreça, blanc pel gruix de la neu, _________, i com els boscos, afeixugats, ja no suporten llur càrrega i el glaç punyent ha fet aturar els rius?» (*Odes*, 1, 9)",
+      "figures": [],
+      "opcions": {
+        "a": "el Vesuvi",
+        "b": "l'Olimp",
+        "c": "el Parnàs",
+        "d": "el Soracte"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Cal reconèixer el destinatari o l'element que falta en fragments d'Horaci (traduïts al català). Busca pistes al fragment (to, fets històrics, epítets) i descarta les opcions anacròniques o incoherents."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "L'oda 1, 9 comença *Vides ut alta stet niue candidum / **Soracte***: el **Soracte** és una muntanya al nord de Roma, visible des de la ciutat. L'escena hivernal porta a la invitació a gaudir del present (tema del *carpe diem*). Horaci situa les escenes en paisatges itàlics propers; el Vesuvi és a la Campània i l'Olimp i el Parnàs són muntanyes gregues."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) el Soracte."
+          }
+        ],
+        "nota": "Horaci (65-8 aC), poeta del cercle de Mecenes i protegit d'August, va escriure *Epodes*, *Sàtires*, *Odes* i *Epístoles*. Convé recordar-ne els destinataris principals (Mecenes, August, Virgili) i els temes (*carpe diem*, *aurea mediocritas*, l'amistat, la victòria d'Àccium). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2014-S-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "La casa romana: atrium i peristylum, les estances i la seva funció (amb il·lustració numerada)",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "domus",
+        "atrium",
+        "peristylum",
+        "impluuium",
+        "tablinum",
+        "triclinium",
+        "cubiculum",
+        "vida quotidiana"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (exposició d'un tema de literatura o de civilització romanes, 2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *La casa romana*. Expliqueu els dos àmbits al voltant dels quals s'estructura; digueu el nom llatí dels àmbits i de les estances principals, indiqueu-ne la funció i associeu-los, si escau, als números de la il·lustració adjunta.",
+      "figures": [
+        {
+          "src": "img/llati/2014-S/e4-a.png",
+          "peu": "Il·lustració de l'examen: casa romana en perspectiva amb les estances numerades de l'1 a l'11."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts, uns 20-25 minuts. Mínim **15 línies (~150 paraules)**. Cal: (1) dir els **dos àmbits** (*atrium* i *peristylum*) i el seu caràcter (públic/privat); (2) donar el **nom llatí** de les estances principals; (3) explicar-ne la **funció**; (4) associar cada estança al **número** de la il·lustració (hi ha 11 números: intenta-les identificar totes). Segueix l'ordre del recorregut: entrada → atri → *tablinum* → peristil."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Identificació dels números de la il·lustració (segons les pautes):\n\n| Núm. | Nom llatí | Funció |\n|---|---|---|\n| 1 | *ostium* | porta d'entrada |\n| 2 | *fauces* | passadís estret d'entrada |\n| 3 | *taberna* | botiga oberta al carrer |\n| 4 | *impluuium* | bassa que recull l'aigua de pluja |\n| 5 | *atrium* | pati/sala central, part pública |\n| 6 | *compluuium* | obertura al sostre de l'atri |\n| 7 | *tablinum* | despatx, pas entre atri i peristil |\n| 8 | *triclinium* | menjador |\n| 9 | *peristylum* | jardí porticat, part privada |\n| 10 | *cubicula* | dormitoris |\n| 11 | *exedrae*, *oeci* | sales d'estar o de reunió |\n\nEstructura: introducció (dos àmbits) → atri i les estances del voltant → *tablinum* com a transició → peristil i les estances privades."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La casa romana o *domus* s'estructura al voltant de dos espais oberts al cel, per on entren la llum i l'aire: l'**atri** (*atrium*, núm. 5), la part pública, i el **peristil** (*peristylum*, núm. 9), la part privada.\n\nS'hi entrava per la porta (*ostium*, núm. 1) i un passadís estret (*fauces*, núm. 2). L'atri era una sala quadrada amb una obertura al sostre, el *compluuium* (núm. 6), per on queia l'aigua de pluja a una bassa, l'*impluuium* (núm. 4), connectada amb una cisterna. Allà el *pater familias* rebia els clients. A banda i banda de l'entrada hi podia haver botigues, les *tabernae* (núm. 3), obertes al carrer, que es llogaven o servien per vendre els productes del propietari.\n\nEntre l'atri i el peristil hi havia el *tablinum* (núm. 7), el despatx del senyor, obert als dos espais i tancat amb cortines. El peristil era un jardí envoltat de pòrtics; al seu voltant s'obrien els dormitoris (*cubicula*, núm. 10), les sales de reunió (*exedrae* i *oeci*, núm. 11), les latrines i, a les cases riques, els banys. La sala més important era el menjador, el *triclinium* (núm. 8), on els romans menjaven estirats en llits inclinats."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Dos àmbits: l'*atrium* (núm. 5), part pública, i el *peristylum* (núm. 9), part privada, tots dos oberts al cel."
+          },
+          {
+            "apartat": null,
+            "valor": "Entrada: *ostium* (1) i *fauces* (2); a l'atri, *compluuium* (6) i *impluuium* (4) amb cisterna; *tabernae* (3) obertes a l'exterior, botigues de lloguer o de venda dels productes del propietari."
+          },
+          {
+            "apartat": null,
+            "valor": "Peristil porticat amb *cubicula* (10), *exedrae* i *oeci* (11), banys i latrines; *triclinium* (8), menjador amb llits inclinats; *tablinum* (7), espai de transició entre atri i peristil, tancat amb cortines."
+          }
+        ],
+        "nota": "La resposta model té 196 paraules (el mínim demanat és d'unes 150). Errors típics: no dir quin àmbit és públic i quin privat; confondre *compluuium* (l'obertura del sostre) i *impluuium* (la bassa del terra); confondre el *tablinum* amb el *triclinium*; donar només els noms catalans (la consigna demana el nom llatí); oblidar d'associar les estances als números de la il·lustració. Aquest model és el de la *domus* urbana pompeiana; no el confonguis amb la *insula* (bloc de pisos de lloguer) ni amb la *uilla* (casa de camp)."
+      }
+    },
+    {
+      "id": "llati-2014-S-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: concordança de patiens i funció de solem hibernum",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "participi de present",
+        "concordança",
+        "complement directe",
+        "verb deponent",
+        "ne... quidem",
+        "suetoni"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Intolerància d'August al fred i a la calor**\n\nAugustus neque frigora neque aestus facile tolerabat. Hieme quaternis tunicis cum pingui toga et subucula et thorace laneo muniebatur; aestate apertis cubiculi foribus ac saepe in peristylo —atque etiam uentilante aliquo— cubabat. Solem ne hibernum quidem patiens, semper petasatus sub diuo spatiabatur. Itinera lenta ac minuta lectica et noctibus faciebat.\n\nGai Suetoni, *Vida d'August*, 82\n\n**Lèxic** (per ordre alfabètic):\n\n- *iter, itineris* (neutre): 'viatge'.\n- *munio, -iui, -itum* (4a): 'abrigar'.\n- *ne… quidem* (adverbi): 'ni tan sols'.\n- *pinguis, -e* (adjectiu): 'gruixut'.\n- *quaterni, -ae, -a*: 'quatre a la vegada'.\n- *thorax, -acis*: 'malla'.\n- *uentilo, -aui, -atum* (1a): 'ventar'.",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «Solem ne hibernum quidem patiens, semper petasatus sub diuo spatiabatur», digueu amb quin mot concorda *patiens* i quina funció sintàctica hi fa *solem hibernum*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts), amb dues preguntes concretes: (1) amb quin mot concorda *patiens*; (2) quina funció fa *solem hibernum* **respecte a *patiens*** («hi fa»). El mot amb què concorda no és a la frase: cal buscar-lo al text."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *patiens* és participi de present (nominatiu sg.) de *patior*. A la frase no hi ha cap nominatiu singular explícit amb què pugui concordar: el subjecte de *spatiabatur* és el mateix de tot el text, ***Augustus*** (esmentat a la primera oració). Per tant, *patiens* concorda amb *Augustus* (nominatiu, masculí, singular).\n2. *patior* és transitiu i, com que el participi conserva el règim del verb, pot tenir CD: *solem hibernum* és acusatiu singular (*sol, solis* + adjectiu *hibernus*) → **complement directe de *patiens***."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Patiens* (participi de present del verb deponent *patior*, en nominatiu masculí singular) concorda amb ***Augustus***, el subjecte del text, que és també el subjecte elidit de *spatiabatur*.\n\n*Solem hibernum* (acusatiu singular: el substantiu *sol, solis* amb l'adjectiu *hibernus* concordat) fa la funció de **complement directe de *patiens***: «no suportant ni tan sols el sol d'hivern»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Patiens* concorda amb *Augustus*."
+          },
+          {
+            "apartat": null,
+            "valor": "*Solem hibernum* és complement directe de *patiens*."
+          }
+        ],
+        "nota": "Errors típics: dir que *patiens* concorda amb *solem* (és acusatiu, no nominatiu) o amb *petasatus* (que també es refereix a August, però no és el «mot» amb què concorda); dir que *solem hibernum* és CD de *spatiabatur* (és intransitiu i deponent)."
+      }
+    },
+    {
+      "id": "llati-2014-S-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "«A bon entenedor, poques paraules»: Intelligenti pauca",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "refranys",
+        "intelligenti pauca",
+        "facta non verba"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina que reflecteix la idea expressada per cadascun dels refranys catalans proposats.\n\n1. A bon entenedor, poques paraules.",
+      "figures": [],
+      "opcions": {
+        "a": "*Facta non verba.*",
+        "b": "*Intelligenti pauca.*",
+        "c": "*Ignorantia legis non excusat.*",
+        "d": "*In dubio pro reo.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada expressió llatina i compara-la amb la idea del refrany (no amb les paraules)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Intelligenti pauca*** vol dir literalment «a l'intel·ligent, poques coses» (datiu + neutre plural): a qui ho entén, no cal explicar-li gaire. Les altres: *facta non verba* («fets, no paraules»); *ignorantia legis non excusat* («la ignorància de la llei no eximeix»); *in dubio pro reo* («en cas de dubte, a favor de l'acusat»)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Intelligenti pauca."
+          }
+        ],
+        "nota": "Convé tenir una llista d'expressions llatines freqüents amb la traducció literal (*carpe diem*, *alea iacta est*, *errare humanum est*, *verba volant*, *audaces fortuna iuvat*, *in dubio pro reo*...). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2014-S-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "«Qui té boca s'equivoca»: Errare humanum est",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "refranys",
+        "errare humanum est",
+        "alea iacta est"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina que reflecteix la idea expressada per cadascun dels refranys catalans proposats.\n\n2. Qui té boca s'equivoca.",
+      "figures": [],
+      "opcions": {
+        "a": "*Errare humanum est.*",
+        "b": "*Non plus ultra.*",
+        "c": "*De gustibus non disputandum.*",
+        "d": "*Alea iacta est.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada expressió llatina i compara-la amb la idea del refrany (no amb les paraules)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Errare humanum est***: «equivocar-se és humà», la mateixa idea que tothom pot errar. Les altres: *non plus ultra* («no més enllà»: el màxim); *de gustibus non disputandum* («sobre gustos no s'ha de discutir»); *alea iacta est* («la sort està tirada», frase atribuïda a Cèsar en travessar el Rubicó)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) Errare humanum est."
+          }
+        ],
+        "nota": "Convé tenir una llista d'expressions llatines freqüents amb la traducció literal (*carpe diem*, *alea iacta est*, *errare humanum est*, *verba volant*, *audaces fortuna iuvat*, *in dubio pro reo*...). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2014-S-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "«Paraules i plomes, el vent se les endú»: Verba volant, scripta manent",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "refranys",
+        "verba volant scripta manent",
+        "pacta sunt servanda"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina que reflecteix la idea expressada per cadascun dels refranys catalans proposats.\n\n3. Paraules i plomes, el vent se les endú totes.",
+      "figures": [],
+      "opcions": {
+        "a": "*Veni, vidi, vici.*",
+        "b": "*Verba volant, scripta manent.*",
+        "c": "*Pacta sunt servanda.*",
+        "d": "*Per saecula saeculorum.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada expressió llatina i compara-la amb la idea del refrany (no amb les paraules)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Verba volant, scripta manent***: «les paraules volen, els escrits queden»; les paraules dites no deixen rastre. Les altres: *veni, vidi, vici* («vaig venir, vaig veure, vaig vèncer», de Cèsar); *pacta sunt servanda* («els pactes s'han de complir»); *per saecula saeculorum* («pels segles dels segles»)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Verba volant, scripta manent."
+          }
+        ],
+        "nota": "Convé tenir una llista d'expressions llatines freqüents amb la traducció literal (*carpe diem*, *alea iacta est*, *errare humanum est*, *verba volant*, *audaces fortuna iuvat*, *in dubio pro reo*...). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2014-S-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "«Qui no s'arrisca no pisca»: Audaces fortuna iuvat",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "refranys",
+        "audaces fortuna iuvat",
+        "carpe diem"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a l'expressió llatina que reflecteix la idea expressada per cadascun dels refranys catalans proposats.\n\n4. Qui no s'arrisca no pisca.",
+      "figures": [],
+      "opcions": {
+        "a": "*Audaces fortuna iuvat.*",
+        "b": "*Peccata minuta.*",
+        "c": "*Carpe diem.*",
+        "d": "*Nihil novi sub sole.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada expressió llatina i compara-la amb la idea del refrany (no amb les paraules)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Audaces fortuna iuvat***: «la fortuna ajuda els audaços» (*audaces*, acusatiu pl., CD de *iuvat*); només qui s'arrisca obté el premi (frase de Virgili, *Eneida* X, 284, *audentes fortuna iuvat*). Les altres: *peccata minuta* («pecats petits», faltes lleus); *carpe diem* («aprofita el dia», d'Horaci); *nihil novi sub sole* («res de nou sota el sol»)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) Audaces fortuna iuvat."
+          }
+        ],
+        "nota": "Convé tenir una llista d'expressions llatines freqüents amb la traducció literal (*carpe diem*, *alea iacta est*, *errare humanum est*, *verba volant*, *audaces fortuna iuvat*, *in dubio pro reo*...). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2014-S-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Terenci: biografia, el cercle dels Escipions, la comèdia palliata i la comparació amb Plaute",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "terenci",
+        "plaute",
+        "comèdia",
+        "palliata",
+        "cercle dels escipions",
+        "humanitas",
+        "menandre"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (exposició d'un tema de literatura o de civilització romanes, 2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *La figura i l'obra de Terenci*. Escriviu-ne les dades biogràfiques; esmenteu el cercle d'intel·lectuals al qual va pertànyer i comenteu l'actitud d'aquest cercle davant la cultura grega. Digueu el gènere literari que va conrear i expliqueu-ne les característiques generals; enumereu les singularitats de la seva obra per comparació a la de Plaute, i escriviu, com a mínim, el títol de dues de les seves obres.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts, uns 20-25 minuts. Mínim **15 línies (~150 paraules)**. La consigna té **cinc demandes** que cal cobrir per ordre: (1) biografia; (2) cercle dels Escipions i la seva actitud envers Grècia; (3) gènere (*palliata*) i característiques; (4) diferències amb Plaute; (5) almenys **dos títols**. Fes un paràgraf per a cada demanda perquè el corrector les trobi fàcilment."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Biografia**: origen africà (Cartago), esclau del senador Terenci Lucà, alliberat; mort el 159 aC en un viatge a Grècia.\n2. **Cercle dels Escipions** (Escipió Emilià, Leli...): filohel·lènic, la cultura grega com a influència positiva; ideal d'*humanitas*.\n3. **Gènere**: comèdia *palliata* (imitació de la comèdia nova grega, sobretot Menandre): ambient, vestuari i personatges grecs, parts recitades i cantades.\n4. **Diferències amb Plaute**: més reflexió moral que comicitat; educació dels joves; ritme pausat; gairebé sense parts cantades; protagonistes els joves i no l'esclau embolicaire; menys èxit popular.\n5. **Obres**: *Andria*, *Hecyra*, *Heautontimorumenos*, *Eunuchus*, *Phormio*, *Adelphoe*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Publi Terenci Àfer** va néixer probablement a Cartago entre el 194 i el 184 aC i va morir el 159 aC durant un viatge a Grècia. Va arribar a Roma com a esclau del senador Terenci Lucà, que el va educar, el va alliberar i li va donar el nom.\n\nVa formar part del **cercle dels Escipions**, el grup d'intel·lectuals reunit al voltant de Publi Corneli Escipió Emilià, que admirava la cultura grega i defensava que la seva influència enriquia la cultura romana.\n\nVa conrear la **comèdia *palliata***, adaptada de la comèdia nova grega (sobretot de Menandre): escenaris, vestuari i personatges grecs, i alternança de parts recitades i cantades.\n\nComparat amb **Plaute**, no busca tant la riallada com fer reflexionar el públic: els seus temes són l'educació dels joves, l'amor, l'amistat i la justícia, que reflecteixen l'ideal d'***humanitas*** dels Escipions. L'acció és més pausada, gairebé elimina les parts cantades, el protagonisme passa de l'esclau enganyador als joves i la llengua és més elegant. Per això va tenir menys èxit de públic que Plaute.\n\nVa escriure sis comèdies, entre les quals ***Andria*** (*La noia d'Andros*), ***Hecyra*** (*La sogra*), ***Eunuchus***, ***Phormio***, ***Heautontimorumenos*** i ***Adelphoe*** (*Els germans*)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Biografia: mort el 159 aC (probablement en un viatge a Grècia), nascut entre el 194 i el 184 aC segurament a Cartago; esclau del senador Terenci Lucà, de qui va prendre el nom en ser alliberat."
+          },
+          {
+            "apartat": null,
+            "valor": "Cercle de Publi Corneli Escipió Emilià: admirava la cultura grega i n'acceptava la influència benèfica en la cultura romana."
+          },
+          {
+            "apartat": null,
+            "valor": "Gènere: *fabula palliata*, comèdia a imitació de la comèdia nova grega, amb escenaris, vestuari i personatges grecs i alternança irregular de parts cantades i recitades."
+          },
+          {
+            "apartat": null,
+            "valor": "Respecte a Plaute: vol fer reflexionar i no tant fer riure; educació dels joves i ideals d'amistat, amor i justícia (*humanitas*); acció més pausada, gairebé sense parts cantades, protagonisme dels joves en lloc de l'esclau embolicaire; menys força còmica i menys èxit de públic."
+          },
+          {
+            "apartat": null,
+            "valor": "Sis comèdies: *Andria*, *Hecyra*, *Heautontimorumenos*, *Eunuchus*, *Phormio* i *Adelphoe*."
+          }
+        ],
+        "nota": "La resposta model té 195 paraules (el mínim demanat és d'unes 150; aquí n'hi ha més perquè la consigna té cinc demandes). Errors típics: confondre Terenci amb Plaute (l'esclau astut i la comicitat desbordant són de Plaute); dir que va escriure tragèdies; oblidar el cercle dels Escipions o la seva actitud filohel·lènica; no donar cap títol. Recorda la frase de Terenci *Homo sum, humani nihil a me alienum puto* (*Heautontimorumenos*), resum de l'ideal d'*humanitas*."
+      }
+    }
+  ]
+}

@@ -1,0 +1,945 @@
+{
+  "examen": {
+    "id": "empresa-2013-S",
+    "assignatura": "empresa",
+    "materia": "Economia de l’empresa",
+    "any": 2013,
+    "convocatoria": "setembre",
+    "serie": "1",
+    "pdf_examen": "pdfs/empresa/2013-S-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2013-S-solucio.pdf",
+    "estructura": "Sèrie 1 de la convocatòria de setembre de 2013 (curs 2012-2013). Cal respondre CINC dels sis exercicis (2 punts cadascun); si es responen tots, només es valoren els cinc primers. (1) Compte de pèrdues i guanys i balanç de situació d’una assessoria; (2) ràtios de liquiditat i solvència de la mateixa empresa i quatre afirmacions de vertader/fals sobre inversions i finançament; (3) selecció d’inversions: VAN al 5 %, payback i desemborsament que iguala els VAN; (4) qüestions teòriques sobre clústers i localització a partir d’una notícia del 22@Barcelona; (5) llindar de rendibilitat d’una distribuïdora de iogurts, gràfic i benefici; (6) 8 preguntes de test. Al test, cada resposta correcta val 0,25 punts i cada errònia resta 0,08 punts; les no contestades no resten."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2013-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Assessoria Jurídica, SL: compte de pèrdues i guanys i balanç de situació per masses patrimonials",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "compte de pèrdues i guanys",
+        "balanç de situació",
+        "masses patrimonials",
+        "baii",
+        "bai",
+        "resultat de l’exercici",
+        "patrimoni net"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        1
+      ],
+      "text": "El gerent d’Assessoria Jurídica, SL ha facilitat la informació següent, referida a l’últim exercici econòmic:\n\n| Concepte | Import (€) |\n|---|---:|\n| Altres despeses d’explotació | 5.000 |\n| Altres ingressos d’explotació | 3.000 |\n| Amortització de l’immobilitzat material | 10.000 |\n| Bancs | 12.000 |\n| Caixa | 8.500 |\n| Capital social | 38.000 |\n| Clients | 22.000 |\n| Construccions (destinades a l’activitat productiva de l’empresa) | 109.000 |\n| Inversions financeres a llarg termini | 35.000 |\n| Creditors per prestació de serveis | 4.000 |\n| Despeses financeres | 2.500 |\n| Despeses de personal | 25.000 |\n| Deutes a llarg termini amb entitats de crèdit | 45.000 |\n| Equips per a processos d’informació | 10.000 |\n| Hisenda pública creditora per conceptes fiscals | 2.000 |\n| Import net de la xifra de negocis | 84.000 |\n| Impost sobre beneficis | 13.350 |\n| Mobiliari | 12.000 |\n| Proveïdors | 15.000 |\n| Proveïdors de l’immobilitzat a curt termini | 64.000 |\n| Reserves | 9.350 |",
+      "enunciat": "A partir de la informació anterior, responeu els apartats a i b.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Confeccioneu el compte de pèrdues i guanys i calculeu el resultat de l’exercici.",
+          "punts": 1
+        },
+        {
+          "id": "b",
+          "enunciat": "Elaboreu el balanç de situació ordenat per masses patrimonials.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici clàssic de comptabilitat: la llista barreja **partides de resultats** (ingressos i despeses) i **partides de balanç** (béns, drets, obligacions i fons propis). El primer pas és classificar-les totes:\n\n- **Compte de resultats**: import net de la xifra de negocis, altres ingressos d’explotació, despeses de personal, amortització, altres despeses d’explotació, despeses financeres i impost sobre beneficis.\n- **Balanç**: la resta. Atenció: el **resultat de l’exercici** que calcules a l’apartat a) s’ha d’incloure al patrimoni net de l’apartat b); si no, el balanç no quadra.\n\nTemps orientatiu: 20 minuts. Presenta-ho en forma de taula amb els subtotals (BAII, BAI, BN; AC, ANC, PN, PNC, PC)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Ingressos d’explotació** $= 84000 + 3000 = 87000$ €.\n2. **Despeses d’explotació** = personal + amortització + altres $= 25000 + 10000 + 5000 = 40000$ €.\n3. **Resultat d’explotació (BAII)** $= 87000 - 40000 = 47000$ €.\n4. **Resultat financer** $= 0 - 2500 = -2500$ €.\n5. **BAI** $= 47000 - 2500 = 44500$ €.\n6. **Resultat net** $= 44500 - 13350 = 31150$ €.\n\nL’impost sobre beneficis ja ve donat en euros: no cal aplicar cap tipus (de fet, és el 30 % del BAI)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "**Compte de pèrdues i guanys d’Assessoria Jurídica, SL** (€)\n\n| Concepte | Import |\n|---|---:|\n| Import net de la xifra de negocis | 84.000 |\n| Altres ingressos d’explotació | 3.000 |\n| **Total ingressos d’explotació** | **87.000** |\n| − Despeses de personal | −25.000 |\n| − Amortització de l’immobilitzat | −10.000 |\n| − Altres despeses d’explotació | −5.000 |\n| **Total despeses d’explotació** | **−40.000** |\n| **= Resultat d’explotació (BAII)** | **47.000** |\n| + Ingressos financers | 0 |\n| − Despeses financeres | −2.500 |\n| **= Resultat financer** | **−2.500** |\n| **= Resultat abans d’impostos (BAI)** | **44.500** |\n| − Impost sobre beneficis | −13.350 |\n| **= Resultat de l’exercici (BN)** | **31.150** |\n\nEl **resultat de l’exercici és un benefici de 31.150 €**. L’activitat és clarament rendible: el resultat d’explotació (47.000 €) representa un 54 % dels ingressos d’explotació i el benefici net, un 36 %. L’impost (13.350 €) equival al 30 % del BAI."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Actiu no corrent** (elements que romanen més d’un any): construccions, mobiliari i equips per a processos d’informació (immobilitzat material, 131.000 €) i inversions financeres a llarg termini (35.000 €). Total: 166.000 €.\n2. **Actiu corrent**, de menor a major liquiditat: realitzable (clients, 22.000 €) i disponible (bancs i caixa, 20.500 €). Total: 42.500 €.\n3. **Patrimoni net**: capital social + reserves + resultat de l’exercici $= 38000 + 9350 + 31150 = 78500$ €.\n4. **Passiu no corrent**: deutes a llarg termini amb entitats de crèdit, 45.000 €.\n5. **Passiu corrent**: proveïdors, creditors per prestació de serveis, proveïdors de l’immobilitzat a curt termini i Hisenda pública creditora $= 15000 + 4000 + 64000 + 2000 = 85000$ €.\n6. Comprova que Actiu = PN + Passiu = 208.500 €.\n\nCompte amb els **proveïdors de l’immobilitzat a curt termini**: són un deute (passiu corrent), encara que el nom faci pensar en l’immobilitzat."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "**Balanç de situació d’Assessoria Jurídica, SL** (€)\n\n| Actiu | Import |\n|---|---:|\n| **Actiu no corrent** | **166.000** |\n| Immobilitzat material | 131.000 |\n| Construccions | 109.000 |\n| Mobiliari | 12.000 |\n| Equips per a processos d’informació | 10.000 |\n| Inversions financeres a llarg termini | 35.000 |\n| **Actiu corrent** | **42.500** |\n| Realitzable: Clients | 22.000 |\n| Disponible: Bancs | 12.000 |\n| Disponible: Caixa | 8.500 |\n| **TOTAL ACTIU** | **208.500** |\n\n| Patrimoni net i passiu | Import |\n|---|---:|\n| **Patrimoni net** | **78.500** |\n| Capital social | 38.000 |\n| Reserves | 9.350 |\n| Resultat de l’exercici | 31.150 |\n| **Passiu no corrent** | **45.000** |\n| Deutes a llarg termini amb entitats de crèdit | 45.000 |\n| **Passiu corrent** | **85.000** |\n| Proveïdors | 15.000 |\n| Creditors per prestació de serveis | 4.000 |\n| Proveïdors de l’immobilitzat a curt termini | 64.000 |\n| Hisenda pública creditora per conceptes fiscals | 2.000 |\n| **TOTAL PATRIMONI NET I PASSIU** | **208.500** |\n\nEl balanç quadra: $166000 + 42500 = 208500$ € i $78500 + 45000 + 85000 = 208500$ €. L’empresa no té existències (és una assessoria, una empresa de serveis)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Ingressos d’explotació 87.000 €; despeses d’explotació 40.000 €; BAII = 47.000 €; resultat financer = −2.500 €; BAI = 44.500 €; resultat net = 31.150 €."
+          },
+          {
+            "apartat": "b",
+            "valor": "ANC 166.000 € (immobilitzat material 131.000 + inversions financeres a llarg termini 35.000); AC 42.500 € (realitzable 22.000 + disponible 20.500); PN 78.500 € (inclou el resultat de 31.150 €); PNC 45.000 €; PC 85.000 €; total 208.500 €."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial. Errors típics: oblidar el resultat de l’exercici al patrimoni net (el balanç queda descuadrat en 31.150 €), posar els proveïdors de l’immobilitzat a curt termini a l’actiu, o posar l’amortització al balanç (aquí és la despesa de l’exercici, no l’amortització acumulada)."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Ràtios de liquiditat i solvència d’Assessoria Jurídica, SL i vertader/fals sobre inversions i finançament",
+      "tema": "comptabilitat",
+      "temes_secundaris": [
+        "financament"
+      ],
+      "conceptes": [
+        "ràtio de liquiditat",
+        "ràtio de solvència",
+        "anàlisi financera",
+        "inversió expansiva",
+        "finançament intern i extern",
+        "descobert en compte",
+        "autofinançament de manteniment"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "",
+      "enunciat": "Responeu els apartats 2.1 i 2.2. A l’apartat 2.2, indiqueu si les afirmacions són certes o falses i, en cas que siguin falses, justifiqueu la resposta.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "enunciat": "Per a l’empresa de l’exercici anterior, calculeu les ràtios de liquiditat i solvència (o de garantia). Interpreteu la situació actual d’aquesta empresa des d’un punt de vista econòmic i financer.",
+          "punts": 1
+        },
+        {
+          "id": "2.2.a",
+          "enunciat": "Una inversió és expansiva quan el fet d’efectuar-la limita la capacitat de dur a terme altres inversions.",
+          "punts": 0.25
+        },
+        {
+          "id": "2.2.b",
+          "enunciat": "El capital social i les reserves (o beneficis no distribuïts) són fonts de finançament extern per a una empresa.",
+          "punts": 0.25
+        },
+        {
+          "id": "2.2.c",
+          "enunciat": "El descobert en compte consisteix a aconseguir l’ajornament del pagament dels subministraments de proveïdors sense cap cost, de manera que es pot funcionar amb el fons obtingut de la venda dels productes.",
+          "punts": 0.25
+        },
+        {
+          "id": "2.2.d",
+          "enunciat": "Les amortitzacions i les provisions comporten un autofinançament de manteniment de la capacitat productiva.",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L’apartat 2.1 depèn del balanç de l’exercici 1 (AC = 42.500 €, PC = 85.000 €, actiu total = 208.500 €, deutes = 130.000 €): si no has fet l’exercici 1, l’has de fer igualment per obtenir aquestes masses. Cal **calcular i interpretar**: sense interpretació no tens la puntuació completa. L’apartat 2.2 és de vertader/fals: a les falses cal **justificar**, normalment dient a quin concepte correspon realment la definició.\n\nTemps orientatiu: 15 minuts."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Ràtio de liquiditat** $= \\dfrac{\\text{Actiu corrent}}{\\text{Passiu corrent}}$: mesura la capacitat de pagar els deutes a curt termini. Valor recomanat: entre 1,5 i 2 (com a mínim, superior a 1).\n2. **Ràtio de solvència (garantia)** $= \\dfrac{\\text{Actiu total}}{\\text{Passiu exigible (PNC + PC)}}$: mesura si, venent tot l’actiu, es podrien pagar tots els deutes. Valor recomanat: entre 1,5 i 2 (sempre > 1).\n3. **Situació econòmica**: mira el compte de resultats (benefici de 31.150 €, un 36 % dels ingressos d’explotació).\n4. Conclou combinant les tres coses: rendible i solvent a llarg termini, però amb un problema greu de liquiditat a curt termini."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "$$\\text{Ràtio de liquiditat} = \\frac{AC}{PC} = \\frac{42500}{85000} = 0{,}50$$\n\n$$\\text{Ràtio de solvència} = \\frac{\\text{Actiu}}{PNC + PC} = \\frac{208500}{45000 + 85000} = \\frac{208500}{130000} = 1{,}60$$\n\n**Situació econòmica.** L’empresa és rendible: obté un benefici net de 31.150 €, aproximadament un 36 % dels ingressos d’explotació (87.000 €).\n\n**Situació financera a curt termini.** La ràtio de liquiditat és 0,50: per cada euro de deute a curt termini només té 0,50 € d’actiu corrent. L’empresa té **problemes de liquiditat** i no podrà atendre tots els deutes a curt termini (el fons de maniobra és negatiu: $42500 - 85000 = -42500$ €). La ràtio hauria de ser, com a mínim, superior a 1; si no ho corregeix, podria arribar a una situació de concurs de creditors. La causa principal és el deute amb proveïdors de l’immobilitzat a curt termini (64.000 €): ha finançat inversions a llarg termini amb deute a curt. Podria renegociar aquest deute per passar-lo a llarg termini o fer una ampliació de capital.\n\n**Situació financera a llarg termini.** La ràtio de solvència és 1,60, superior a 1 i dins de l’interval recomanat (1,5-2): l’empresa és **solvent**; liquidant els actius podria pagar tots els deutes i els creditors tenen garantit el cobrament."
+          },
+          {
+            "apartat": "2.2.a",
+            "titol": "Resposta model",
+            "cos": "**Fals.** La definició correspon a les **inversions substitutives** (o mútuament excloents). Una **inversió expansiva** és la que té per finalitat augmentar la capacitat productiva de l’empresa per incrementar-ne les vendes al mercat."
+          },
+          {
+            "apartat": "2.2.b",
+            "titol": "Resposta model",
+            "cos": "**Fals.** El **capital social** sí que és finançament extern (prové de les aportacions dels socis, fora de l’empresa), però les **reserves** (beneficis no distribuïts) són finançament **intern** o autofinançament: els genera la mateixa empresa amb la seva activitat."
+          },
+          {
+            "apartat": "2.2.c",
+            "titol": "Resposta model",
+            "cos": "**Fals.** La definició correspon al **crèdit comercial** (o de proveïdors). El **descobert en compte** consisteix a utilitzar un compte corrent bancari per un import superior al saldo disponible, i té un cost (interessos i comissions elevats)."
+          },
+          {
+            "apartat": "2.2.d",
+            "titol": "Resposta model",
+            "cos": "**Cert.** Les amortitzacions i les provisions són autofinançament **de manteniment**: retenen recursos a l’empresa per reposar els actius que es deprecien i cobrir pèrdues previstes, i així mantenir la capacitat productiva. (Les reserves, en canvi, són autofinançament d’enriquiment.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "Liquiditat = 42.500 / 85.000 = 0,50 (problemes per pagar el deute a curt; hauria de ser > 1). Solvència = 208.500 / 130.000 = 1,60 (solvent a llarg termini). Situació econòmica: beneficis (≈ 36 % dels ingressos d’explotació)."
+          },
+          {
+            "apartat": "2.2.a",
+            "valor": "Fals: és la definició d’inversió substitutiva; l’expansiva augmenta la capacitat productiva."
+          },
+          {
+            "apartat": "2.2.b",
+            "valor": "Fals: el capital social és extern, però les reserves són finançament intern."
+          },
+          {
+            "apartat": "2.2.c",
+            "valor": "Fals: és la definició de crèdit comercial; el descobert és disposar d’un compte corrent per sobre del saldo."
+          },
+          {
+            "apartat": "2.2.d",
+            "valor": "Cert."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial (la pauta dona 1,6038 per a la solvència). Alguns llibres defineixen la ràtio de liquiditat amb altres noms (ràtio de circulant o de fons de maniobra); indica sempre la fórmula que fas servir. Error típic: calcular la solvència només amb el passiu corrent, o oblidar la interpretació."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Iniciatives de Turisme d’Interior: VAN al 5 %, payback i desemborsament inicial que iguala els VAN",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "valor actual net",
+        "van",
+        "termini de recuperació",
+        "payback",
+        "fluxos de caixa",
+        "selecció d’inversions"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "L’empresa Iniciatives de Turisme d’Interior SL (ITI), s’ha de decidir entre dues propostes alternatives, A1 i A2, per a la posada en marxa d’un nou servei. El desemborsament inicial necessari, així com el conjunt de cobraments i pagaments previstos al llarg dels cinc anys de durada del nou servei (segons les dues alternatives), són recollits en la taula següent:\n\n| Conceptes | Proposta A1 | Proposta A2 |\n|---|---:|---:|\n| Desemborsament inicial | 400.000 € | 600.000 € |\n| Cobraments de l’any 1 | 200.000 € | 300.000 € |\n| Pagaments de l’any 1 | 100.000 € | 150.000 € |\n| Cobraments de l’any 2 | 250.000 € | 350.000 € |\n| Pagaments de l’any 2 | 150.000 € | 200.000 € |\n| Cobraments de l’any 3 | 350.000 € | 400.000 € |\n| Pagaments de l’any 3 | 150.000 € | 100.000 € |\n| Cobraments de l’any 4 | 250.000 € | 350.000 € |\n| Pagaments de l’any 4 | 150.000 € | 200.000 € |\n| Cobraments de l’any 5 | 200.000 € | 300.000 € |\n| Pagaments de l’any 5 | 100.000 € | 150.000 € |",
+      "enunciat": "Responeu els apartats 3.1, 3.2 i 3.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "3.1",
+          "enunciat": "Determineu quina de les dues propostes és millor per a posar en marxa el projecte del nou servei segons el criteri del valor actual net (VAN) per a un tipus d’interès del 5 %.",
+          "punts": 1
+        },
+        {
+          "id": "3.2",
+          "enunciat": "Quina de les dues alternatives triaríeu segons el criteri del termini de recuperació o *payback*?",
+          "punts": 0.5
+        },
+        {
+          "id": "3.3",
+          "enunciat": "Per a quina inversió inicial de la proposta A1 seria indiferent l’elecció entre A1 i A2, segons el criteri del VAN al 5 % d’interès?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Primer de tot calcula els **fluxos nets de caixa** de cada any: $FC_t = \\text{cobraments}_t - \\text{pagaments}_t$. Totes les preguntes es resolen amb aquests fluxos.\n\n- VAN: $VAN = -D_0 + \\dfrac{FC_1}{(1+k)} + \\dfrac{FC_2}{(1+k)^2} + \\dots + \\dfrac{FC_n}{(1+k)^n}$\n- Payback: anys necessaris perquè la suma dels fluxos (sense actualitzar) recuperi el desemborsament inicial.\n\nTemps orientatiu: 20 minuts. Escriu la fórmula sencera amb els números i el resultat en €."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Com plantejar-ho",
+            "cos": "**Fluxos nets de caixa** (€):\n\n| Any | A1 | A2 |\n|---|---:|---:|\n| 0 | −400.000 | −600.000 |\n| 1 | 100.000 | 150.000 |\n| 2 | 100.000 | 150.000 |\n| 3 | 200.000 | 300.000 |\n| 4 | 100.000 | 150.000 |\n| 5 | 100.000 | 150.000 |\n\nActualitza cada flux al 5 % i resta el desemborsament inicial. Tria el projecte amb el VAN més alt (sempre que sigui positiu)."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Resposta model",
+            "cos": "$$VAN_{A1} = -400000 + \\frac{100000}{1{,}05} + \\frac{100000}{1{,}05^2} + \\frac{200000}{1{,}05^3} + \\frac{100000}{1{,}05^4} + \\frac{100000}{1{,}05^5}$$\n\n$$VAN_{A1} = -400000 + 95238{,}10 + 90702{,}95 + 172767{,}52 + 82270{,}25 + 78352{,}62 = 119331{,}43 \\text{ €}$$\n\n$$VAN_{A2} = -600000 + \\frac{150000}{1{,}05} + \\frac{150000}{1{,}05^2} + \\frac{300000}{1{,}05^3} + \\frac{150000}{1{,}05^4} + \\frac{150000}{1{,}05^5}$$\n\n$$VAN_{A2} = -600000 + 142857{,}14 + 136054{,}42 + 259151{,}28 + 123405{,}37 + 117528{,}92 = 178997{,}14 \\text{ €}$$\n\nTots dos projectes són viables (VAN > 0), però la **proposta A2 és millor** segons el VAN, perquè genera un valor actual net més gran (178.997,14 € davant de 119.331,43 €): un cop recuperada la inversió i remunerats els fons al 5 %, aporta més riquesa a l’empresa."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Suma els fluxos any a any fins a arribar al desemborsament inicial:\n\n| Any | Acumulat A1 | Acumulat A2 |\n|---|---:|---:|\n| 1 | 100.000 | 150.000 |\n| 2 | 200.000 | 300.000 |\n| 3 | 400.000 | 600.000 |"
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Resposta model",
+            "cos": "Proposta A1: $100000 + 100000 + 200000 = 400000$ €, recupera el desemborsament inicial **al final del tercer any**.\n\nProposta A2: $150000 + 150000 + 300000 = 600000$ €, també el recupera **al final del tercer any**.\n\nSegons el criteri del termini de recuperació, **les dues propostes són indiferents** (payback de 3 anys en tots dos casos). Aquest criteri no té en compte els fluxos posteriors a la recuperació ni el valor del diner en el temps, i per això no discrimina entre les dues."
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Cal trobar el desemborsament $D_0$ de la proposta A1 que fa $VAN_{A1} = VAN_{A2} = 178997{,}14$ €. El valor actual dels fluxos d’A1 no canvia (519.331,43 €), de manera que només s’ha d’aïllar $D_0$."
+          },
+          {
+            "apartat": "3.3",
+            "titol": "Resposta model",
+            "cos": "$$-D_0 + 519331{,}43 = 178997{,}14$$\n\n$$D_0 = 519331{,}43 - 178997{,}14 = 340334{,}29 \\text{ €}$$\n\nSi el desemborsament inicial de la proposta A1 fos de **340.334,29 €** (és a dir, 59.665,71 € menys que ara), els dos projectes tindrien el mateix VAN i l’elecció seria indiferent. Amb un desemborsament inferior, A1 passaria a ser preferible."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "3.1",
+            "valor": "Fluxos nets A1: 100.000, 100.000, 200.000, 100.000, 100.000; A2: 150.000, 150.000, 300.000, 150.000, 150.000. VAN A1 = 119.331,43 €; VAN A2 = 178.997,14 €. S’escull A2."
+          },
+          {
+            "apartat": "3.2",
+            "valor": "Totes dues recuperen la inversió al final del 3r any: són indiferents segons el payback."
+          },
+          {
+            "apartat": "3.3",
+            "valor": "D0 = 340.334,29 €."
+          }
+        ],
+        "nota": "Tots els resultats coincideixen amb la pauta oficial (verificats amb Python). Error típic: actualitzar els cobraments i els pagaments per separat sense restar-los, o fer servir el desemborsament com si fos el flux de l’any 1. Treballa amb prou decimals: arrodonir els factors d’actualització a dues xifres pot desviar el VAN uns quants euros."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "El clúster del disseny del 22@Barcelona: concepte de clúster, localització i deslocalització, factors de localització",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "produccio"
+      ],
+      "conceptes": [
+        "clúster",
+        "localització empresarial",
+        "deslocalització",
+        "factors de localització",
+        "22@barcelona",
+        "michael porter"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "El juliol del 2008 apareixia la notícia següent en un mitjà de comunicació:\n\n> En els darrers vint-i-cinc anys, Barcelona s’ha posicionat com una de les capitals mundials del disseny. En aquest sentit, per afavorir aquest sector estratègic per a la ciutat, a la zona del districte de la innovació de la ciutat, el 22@Barcelona, s’està desenvolupant el denominat clúster disseny. Es tracta d’un clúster d’excel·lència i innovació amb projecció internacional, ubicat a la ciutat, amb l’objectiu de dinamitzar el teixit empresarial amb actuacions intersectorials i intrasectorials amb els diferents agents, i reforçar internacionalment la marca Barcelona en l’àmbit del disseny i la innovació. Actualment, la zona del 22@Barcelona ja compta amb la presència d’empreses de serveis com les localitzades a Palo Alto (Estudio Mariscal, Morera Design, ADD + Arquitectura, Alex Gasca + Train01, Duch Claramunt, Fernando Salas Studio, GEC-UOC Grup, Laiguana, Pasarela, Puresang o Sans Visual Studio), o Ruiz + Company, Torres & Torres, Estudi Arola o G-Star Raw, la Universitat Oberta de Catalunya, la Universitat Pompeu Fabra, la BAU-Escola Superior de Disseny o el Centre Tecnològic Leitat, entre altres.",
+      "enunciat": "A partir del text que heu llegit responeu a les qüestions següents:",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "4.1",
+          "enunciat": "Què s’entén per clúster? Enumereu-ne tres característiques principals.",
+          "punts": 0.75
+        },
+        {
+          "id": "4.2",
+          "enunciat": "Considereu que els clústers afavoreixen la localització o la deslocalització de l’activitat empresarial? Justifiqueu la vostra resposta.",
+          "punts": 0.75
+        },
+        {
+          "id": "4.3",
+          "enunciat": "Enumereu cinc factors determinants a l’hora de decidir la localització d’una empresa.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici teòric a partir d’una notícia. Respon amb definicions precises i, quan puguis, connecta-les amb el text (22@, empreses de disseny, universitats, centre tecnològic). Fixa’t en el nombre d’elements que demana cada apartat: **tres** característiques a 4.1 i **cinc** factors a 4.3 (no en posis menys).\n\nTemps orientatiu: 12-15 minuts."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Definició: concentració geogràfica d’empreses i institucions d’un mateix sector, interconnectades (Porter).\n2. Què aporta: col·laboració, projectes conjunts (R+D+I, promoció), sinergies.\n3. Tres característiques: concentració geogràfica, especialització sectorial, triple hèlix administració-universitat-empresa, equilibri competència-col·laboració, efecte «taca d’oli»."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Resposta model",
+            "cos": "Un **clúster** és una concentració geogràfica d’empreses, institucions i universitats que comparteixen l’interès per un sector econòmic estratègic concret. Segons Michael Porter, és un grup d’empreses geogràficament properes, interconnectades i associades a institucions d’un sector determinat, relacionades per concordances i complementarietats. Aquesta proximitat genera col·laboració i permet fer projectes conjunts (difusió i foment del sector, R+D+I, capacitats compartides), cosa que crea sinergies per a tot el territori. Al text, el clúster del disseny reuneix estudis de disseny, universitats (UOC, UPF, BAU) i un centre tecnològic (Leitat) al 22@.\n\nTres característiques principals:\n\n- **Concentració geogràfica** de l’activitat econòmica (al districte 22@).\n- **Especialització** en un sector concret (el disseny).\n- **Triple hèlix**: cooperació entre administració, universitat i empresa; i, a més, equilibri entre competència i col·laboració entre els membres."
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Posiciona’t (afavoreixen la **localització**) i justifica-ho amb els avantatges de ser-hi a prop. Després defineix la deslocalització i explica per què no hi encaixa."
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Resposta model",
+            "cos": "Els clústers afavoreixen la **localització** de l’activitat empresarial, perquè ser-hi a prop permet aprofitar el mercat de treball local especialitzat, accedir fàcilment a clients i proveïdors, disposar d’ajuts i infraestructures, de transports i de serveis d’R+D, i aprofitar espais que generen negoci (com el 22@ i les universitats del text). Les empreses s’hi instal·len precisament per beneficiar-se d’aquestes economies d’aglomeració.\n\nEn canvi, la **deslocalització** consisteix a traslladar una fase del procés productiu, o tot el procés, fora del lloc on estava situada l’empresa, normalment a països menys desenvolupats per abaratir costos laborals o per incentius fiscals o financers. El text no fa cap menció d’aquests aspectes: descriu empreses que s’agrupen a Barcelona, no que en marxin."
+          },
+          {
+            "apartat": "4.3",
+            "titol": "Resposta model",
+            "cos": "Cinc factors de localització:\n\n1. La **demanda del mercat** (proximitat als clients).\n2. La **disponibilitat de fonts de subministrament** (matèries primeres i subministraments bàsics).\n3. L’**accés al mercat de treball** (mà d’obra qualificada i el seu cost).\n4. **Bones comunicacions i mitjans de transport**.\n5. La **disponibilitat i el preu del sòl**.\n\nTambé serien vàlids: la legislació, l’accés a recursos financers, la predisposició de les administracions (ajuts, impostos) i les perspectives de desenvolupament econòmic del territori."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "4.1",
+            "valor": "Concentració geogràfica d’empreses, institucions i universitats d’un sector, interconnectades (Porter), que cooperen i creen sinergies. Tres de: concentració geogràfica, especialització sectorial, efecte «taca d’oli», triple hèlix administració-universitat-empresa, equilibri competència-col·laboració."
+          },
+          {
+            "apartat": "4.2",
+            "valor": "Afavoreixen la localització (mercat de treball local, clients i proveïdors propers, ajuts, infraestructures, transport, R+D). La deslocalització (trasllat per costos laborals o incentius) no apareix al text."
+          },
+          {
+            "apartat": "4.3",
+            "valor": "Cinc de: demanda del mercat, fonts de subministrament, mercat de treball, comunicacions i transport, sòl, legislació, recursos financers, predisposició de les administracions, perspectives de desenvolupament del territori."
+          }
+        ],
+        "nota": "La pauta indica que només cal donar tres característiques a 4.1: si en dones més, no suma. A 4.2 és important justificar; dir només «localització» no puntua sencer."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Distribuïdora de iogurts: llindar de rendibilitat, representació gràfica i benefici amb un 10 % més de vendes",
+      "tema": "produccio",
+      "temes_secundaris": [
+        "emprenedoria"
+      ],
+      "conceptes": [
+        "llindar de rendibilitat",
+        "punt mort",
+        "costos fixos",
+        "cost variable unitari",
+        "marge de contribució",
+        "benefici"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "Una jove emprenedora estudia la possibilitat de llogar un local petit per a distribuir productes làctics. En un principi, només vendria iogurts de granja naturals i desnatats d’alta qualitat. El preu de venda de cada iogurt és de 0,55 € i l’ingrés mensual previst de la venda dels iogurts és de 3.000 €. Els costos mensuals estimats estan recollits en la taula següent:\n\n| Concepte | Import |\n|---|---:|\n| Despeses de personal | 800 €/mes |\n| Despeses de manteniment | 200 €/mes |\n| Subministraments bàsics fixos (aigua, llum, etc.) | 200 €/mes |\n| Lloguer del local | 400 €/mes |\n| Costos d’adquisició dels iogurts al granger | 0,20 €/iogurt |",
+      "enunciat": "Responeu els apartats 5.1, 5.2 i 5.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "5.1",
+          "enunciat": "Segons l’anàlisi de la viabilitat econòmica, quin és el llindar de benefici (o punt mort) d’aquest possible negoci de distribució de iogurts tenint en compte que preveu vendre’n també a escoles, restaurants i clubs d’esport? A partir del resultat obtingut, animaríeu aquesta emprenedora a engegar el negoci?",
+          "punts": 0.75
+        },
+        {
+          "id": "5.2",
+          "enunciat": "Representeu gràficament el resultat del punt mort de l’apartat anterior.",
+          "punts": 0.5
+        },
+        {
+          "id": "5.3",
+          "enunciat": "Calculeu quin benefici obtindria aquesta nova empresa amb vista a l’estiu, gràcies a una campanya de l’Ajuntament per a afavorir una vida sana i una dieta saludable, hi hagués un increment de les vendes d’un 10 %. Justifiqueu la resposta.",
+          "punts": 0.75
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Problema de **llindar de rendibilitat**. Separa primer els costos: els **fixos** (personal, manteniment, subministraments i lloguer, en €/mes) i el **variable unitari** (0,20 € per iogurt). Fórmula clau:\n\n$$Q^* = \\frac{CF}{p - cvu}$$\n\nLa dada dels ingressos previstos (3.000 €/mes) serveix per saber quantes unitats es vendran i comparar-les amb el punt mort. Temps orientatiu: 15 minuts. Recorda les unitats (iogurts/mes, €/mes)."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. $CF = 800 + 200 + 200 + 400 = 1600$ €/mes.\n2. $cvu = 0{,}20$ €/iogurt; $p = 0{,}55$ €/iogurt; marge unitari $= 0{,}35$ €.\n3. Al punt mort $IT = CT$: $p \\cdot Q = CF + cvu \\cdot Q$.\n4. Compara amb les vendes previstes: $3000 / 0{,}55 \\approx 5455$ iogurts/mes."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Resposta model",
+            "cos": "El llindar de rendibilitat és el volum de vendes en què els ingressos totals igualen els costos totals ($IT = CT = CF + CV$):\n\n$$Q^* = \\frac{CF}{p - cvu} = \\frac{1600}{0{,}55 - 0{,}20} = \\frac{1600}{0{,}35} = 4571{,}43 \\text{ iogurts/mes}$$\n\nÉs a dir, cal vendre unes **4.572 unitats al mes** (4.571,43) per no tenir pèrdues; en euros, $4571{,}43 \\cdot 0{,}55 = 2514{,}29$ €/mes. Al punt mort l’empresa no té ni pèrdues ni guanys.\n\nLes vendes previstes són $3000 / 0{,}55 = 5454{,}55$ iogurts/mes, per sobre del punt mort, i a més preveu vendre a escoles, restaurants i clubs d’esport. Per tant, **sí que l’animaria** a engegar el negoci, sempre que les vendes estimades se situïn per sobre de les 4.571 unitats mensuals (amb les vendes previstes obtindria un benefici d’uns $5454{,}55 \\cdot 0{,}35 - 1600 = 309{,}09$ €/mes)."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Eix horitzontal: quantitat (iogurts/mes); eix vertical: euros. Dibuixa:\n\n- **CF**: recta horitzontal a 1.600 €.\n- **CT** $= 1600 + 0{,}20 Q$: comença a 1.600 € i puja amb pendent 0,20.\n- **IT** $= 0{,}55 Q$: surt de l’origen amb pendent 0,55.\n\nPunts útils per dibuixar-les:\n\n| Q (iogurts) | IT (€) | CT (€) |\n|---:|---:|---:|\n| 0 | 0 | 1.600 |\n| 4.571 | 2.514 | 2.514 |\n| 8.000 | 4.400 | 3.200 |"
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Resposta model",
+            "cos": "Gràfic del punt mort: a l’eix d’abscisses, el volum de producció i venda (iogurts/mes); a l’eix d’ordenades, els ingressos i costos (€). La recta de costos fixos és horitzontal a 1.600 €; la recta de costos totals parteix de 1.600 € a l’eix vertical; la recta d’ingressos totals parteix de l’origen i té més pendent. IT i CT es tallen al **punt mort**: Q = 4.571 unitats i 2.514 €. A l’esquerra del punt mort (CT > IT) hi ha la **zona de pèrdues**; a la dreta (IT > CT), la **zona de beneficis**. Cal etiquetar els eixos, les rectes, els 1.600 € i les 4.571 unitats."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Unitats previstes: $3000 / 0{,}55 = 5454{,}55$ iogurts/mes.\n2. Amb un 10 % més de vendes: $5454{,}55 \\cdot 1{,}10 = 6000$ iogurts/mes (o bé ingressos de $3000 \\cdot 1{,}10 = 3300$ €).\n3. Benefici $= IT - CT$."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Resposta model",
+            "cos": "Amb els ingressos previstos (3.000 €/mes) es venen $3000 / 0{,}55 \\approx 5455$ iogurts al mes, per damunt del punt mort. Si a l’estiu les vendes augmenten un 10 %, es vendrien $5454{,}55 \\cdot 1{,}1 = 6000$ iogurts al mes:\n\n$$IT = 0{,}55 \\cdot 6000 = 3300 \\text{ €/mes}$$\n\n$$CT = 1600 + 0{,}20 \\cdot 6000 = 2800 \\text{ €/mes}$$\n\n$$B = IT - CT = 3300 - 2800 = 500 \\text{ €/mes}$$\n\nL’empresa obtindria un **benefici de 500 € al mes**, perquè vendria 1.429 unitats per sobre del punt mort i cada unitat addicional aporta un marge de 0,35 € ($1428{,}57 \\cdot 0{,}35 = 500$ €)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "5.1",
+            "valor": "CF = 1.600 €/mes; cvu = 0,20 €; Q* = 1.600 / 0,35 = 4.571,43 iogurts/mes. Sí que s’animaria si les vendes superen les 4.571 unitats (previstes ≈ 5.455)."
+          },
+          {
+            "apartat": "5.2",
+            "valor": "Gràfic amb IT (des de l’origen), CT (des de 1.600 €) i CF; intersecció al punt mort (4.571 unitats); zones de pèrdues i beneficis."
+          },
+          {
+            "apartat": "5.3",
+            "valor": "Vendes: 5.455 × 1,1 = 6.000 iogurts; IT = 3.300 €; CT = 2.800 €; benefici = 500 €/mes."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial. La pauta arrodoneix el punt mort a 4.571 unitats; com que no es poden vendre fraccions, també és correcte dir 4.572 (la primera unitat amb benefici). Error típic: incloure el cost dels iogurts als costos fixos o oblidar justificar si s’animaria a engegar el negoci."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e6-q1",
+      "exercici": 6,
+      "questio": 1,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Objectiu de l’auditoria de comptes",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "auditoria de comptes",
+        "imatge fidel",
+        "principis comptables"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "L’auditoria de comptes persegueix",
+      "figures": [],
+      "opcions": {
+        "a": "emetre una opinió.",
+        "b": "obtenir la imatge fidel dels estats financers auditats.",
+        "c": "la uniformitat en l’aplicació dels principis i normes comptables.",
+        "d": "Totes les respostes anteriors són correctes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. L’auditoria de comptes és la revisió dels estats financers feta per un expert independent que **emet una opinió** (informe d’auditoria) sobre si els comptes expressen la **imatge fidel** del patrimoni, la situació financera i els resultats, i si s’han aplicat **uniformement els principis i normes comptables**. Les tres afirmacions són, doncs, objectius de l’auditoria."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e6-q2",
+      "exercici": 6,
+      "questio": 2,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Diferència entre període mitjà de maduració financer i econòmic",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "període mitjà de maduració",
+        "període mitjà de pagament",
+        "cicle d’explotació"
+      ],
+      "dificultat": 3,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Si sabem que el període mitjà de maduració financer d’una empresa és de 110 dies i el període mitjà de maduració econòmic és de 100 dies, podem deduir que",
+      "figures": [],
+      "opcions": {
+        "a": "el període mitjà de venda és de 10 dies.",
+        "b": "el període mitjà de pagament és de 10 dies.",
+        "c": "el període mitjà de cobrament és de 10 dies.",
+        "d": "Cap de les respostes anteriors no és correcta."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. El període mitjà de maduració **econòmic** és el temps que va des que entren les matèries primeres fins que es cobra dels clients ($PMM_e = PM_a + PM_f + PM_v + PM_c$). El **financer** resta d’aquest temps el període en què els proveïdors financen l’empresa: $PMM_f = PMM_e - PM_p$. Ara bé, aquí el financer (110) és **més gran** que l’econòmic (100), de manera que la relació $PMM_f = PMM_e - PM_p$ donaria $PM_p = -10$ dies, cosa impossible. Les dades de l’enunciat estan intercanviades; el que la pregunta vol avaluar és que la diferència entre tots dos períodes és el **període mitjà de pagament** (10 dies)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial (b), però l’enunciat té una errada: el període mitjà de maduració financer sempre és **menor o igual** que l’econòmic ($PMM_f = PMM_e - PM_p$), de manera que amb aquestes dades el període de pagament sortiria negatiu. Interpreta-ho com «la diferència entre tots dos és de 10 dies»."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e6-q3",
+      "exercici": 6,
+      "questio": 3,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Font de finançament pròpia",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "fonts de finançament",
+        "finançament propi",
+        "amortització",
+        "emprèstit",
+        "facturatge"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Quina de les fonts de finançament següents és pròpia?",
+      "figures": [],
+      "opcions": {
+        "a": "Emprèstit.",
+        "b": "Amortització.",
+        "c": "Facturatge.",
+        "d": "Cap de les respostes anteriors no és correcta."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. Les amortitzacions són **autofinançament de manteniment**: recursos que genera l’empresa i no s’han de retornar a ningú, per tant són finançament **propi** (intern). L’emprèstit (emissió d’obligacions) és un deute a llarg termini i el facturatge (*factoring*) és un finançament aliè a curt termini: tots dos són recursos aliens."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e6-q4",
+      "exercici": 6,
+      "questio": 4,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Relació entre el VAN i la taxa d’actualització",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "van",
+        "taxa d’actualització",
+        "tir"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Per a una determinada inversió,",
+      "figures": [],
+      "opcions": {
+        "a": "el valor del VAN augmenta amb la taxa d’actualització.",
+        "b": "el valor del VAN disminueix quan augmenta la taxa d’actualització.",
+        "c": "el valor del VAN és independent de la taxa d’actualització.",
+        "d": "si la taxa d’actualització és 0, el VAN és igual a la taxa interna de rendibilitat (TIR)."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. En una inversió convencional (desemborsament inicial i fluxos positius després), els fluxos futurs es divideixen per $(1+k)^t$: com més alta és la taxa $k$, més petit és el valor actual dels fluxos i, per tant, **més baix el VAN**. La d) és falsa: la TIR és la taxa que fa el VAN igual a zero, no el VAN quan la taxa és zero."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e6-q5",
+      "exercici": 6,
+      "questio": 5,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Nivell de l’estratègia de les decisions departamentals",
+      "tema": "organitzacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "estratègia funcional",
+        "estratègia corporativa",
+        "estratègia de negoci",
+        "nivells d’estratègia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "El conjunt de decisions que es prenen en l’àmbit directiu dels diferents departaments de l’empresa formen part de",
+      "figures": [],
+      "opcions": {
+        "a": "l’estratègia corporativa.",
+        "b": "l’estratègia de negoci.",
+        "c": "l’estratègia funcional.",
+        "d": "Cap de les respostes anteriors no és correcta."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. Hi ha tres nivells d’estratègia: la **corporativa** (en quins negocis vol ser l’empresa, decidida per l’alta direcció), la **de negoci** o competitiva (com competir en cada negoci: costos, diferenciació, enfocament) i la **funcional**, que concreta les decisions de cada **departament** (producció, màrqueting, finances, recursos humans)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e6-q6",
+      "exercici": 6,
+      "questio": 6,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Afirmació falsa sobre creixement intern, extern i internacionalització",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "creixement intern",
+        "creixement extern",
+        "internacionalització",
+        "deslocalització"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Quina de les afirmacions següents és falsa?",
+      "figures": [],
+      "opcions": {
+        "a": "El creixement extern en una empresa és, en general, més car que el creixement intern.",
+        "b": "Les estratègies d’internacionalització empresarial impliquen repercussions organitzatives importants i canvis culturals destacables.",
+        "c": "El creixement intern en una empresa presenta un estalvi de temps important, ja que sol ser més ràpid que el creixement extern.",
+        "d": "La deslocalització empresarial comporta el tancament de les instal·lacions d’una empresa per a ser traslladades a països estrangers amb uns costos salarials inferiors."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta (l’afirmació **falsa**) és la **c)**. El creixement **intern** (noves inversions dins de l’empresa) és **més lent**; el que estalvia temps és el creixement **extern** (fusions, adquisicions, aliances), perquè s’incorporen capacitats que ja existeixen, encara que normalment sigui més car. Les altres tres afirmacions són certes."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial. Compte: demana l’afirmació **falsa**; llegeix bé l’enunciat abans de marcar."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e6-q7",
+      "exercici": 6,
+      "questio": 7,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Òrgan de reunió dels socis d’una societat anònima",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "societat anònima",
+        "junta general d’accionistes",
+        "òrgans socials"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "La reunió dels socis d’una societat anònima per a deliberar i prendre acords és",
+      "figures": [],
+      "opcions": {
+        "a": "el consell d’administració.",
+        "b": "la junta general d’accionistes.",
+        "c": "el consell d’auditors de comptes.",
+        "d": "el consell rector."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. La **junta general d’accionistes** és l’òrgan sobirà de la SA, on es reuneixen els socis per deliberar i prendre acords (aprovar comptes, nomenar administradors...). El consell d’administració gestiona i representa la societat; el consell rector és l’òrgan de govern de les cooperatives."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2013-S-e6-q8",
+      "exercici": 6,
+      "questio": 8,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Naturalesa de les societats anònimes",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "societat anònima",
+        "societats capitalistes",
+        "formes jurídiques"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Les societats anònimes són",
+      "figures": [],
+      "opcions": {
+        "a": "empreses individuals.",
+        "b": "societats capitalistes.",
+        "c": "entitats en què cadascun dels socis té sempre un vot.",
+        "d": "societats personalistes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. La SA és una **societat capitalista**: el que importa és el capital aportat, no la persona dels socis; els drets (vots, dividends) són proporcionals a les accions. Per això la c) és falsa (un soci, un vot és propi de les cooperatives) i la d) també (les personalistes són, per exemple, la societat col·lectiva)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1572 @@
+{
+  "examen": {
+    "id": "llati-2014-J",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2014,
+    "convocatoria": "juny",
+    "serie": "3 i 4",
+    "pdf_examen": "pdfs/llati/2014-J-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2014-J-solucio.pdf",
+    "estructura": "Convocatòria de juny de 2014. El PDF conté dues sèries (3 i 4) amb la mateixa estructura: quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un fragment de Suetoni (*Vida d'August*) amb lèxic donat (5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B): 2. morfosintaxi sobre una construcció del text (1 punt); 3. exercici de llengua, literatura o civilització romanes amb quatre qüestions de 0,5 punts (2 punts; a les d'opció múltiple cada error descompta 0,16 i les no contestades no descompten); 4. exposició d'un tema de literatura o civilització (2 punts, mínim 15 línies, ~150 paraules).\n\n**Sèrie 3**: traducció de *Vida d'August*, 72 (moderació d'August i senzillesa de les seves cases). Opció A: oració d'infinitiu *Augustum continentissimum fuisse*; ciutats romanes d'Hispània (opció múltiple); els personatges femenins del *Miles gloriosus* de Plaute. Opció B: antecedent del relatiu *quae*; definició de mots catalans d'origen llatí (opció múltiple); el patrimoni romà de Tarragona fora muralles.\n\n**Sèrie 4**: traducció de *Vida d'August*, 78 (August dormia poc). Opció A: ablatiu absolut *opposita ad oculos manu*; abreviatures llatines (opció múltiple); comentari d'un text d'Eli Donat sobre Virgili i l'*Eneida*. Opció B: participi concertat *in lectum deinde transgressus*; temes de la poesia d'Horaci (resposta oberta, sense descompte); les sales caldejades de les termes romanes."
+  },
+  "problemes": [
+    {
+      "id": "llati-2014-J-s3-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Suetoni: la moderació d'August i la senzillesa de les seves cases",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "suetoni",
+        "vida d'august",
+        "august",
+        "oració d'infinitiu",
+        "oració de relatiu",
+        "superlatiu",
+        "verb impersonal"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Moderació d'August. Senzillesa dels seus habitatges**\n\nAugustum continentissimum fuisse constat ac sine suspicione ullius uitii. Habitauit primo iuxta Romanum forum in domo quae Calui oratoris fuerat; postea in Palatio aedibus modicis, in quibus porticus breues erant et conclauia sine marmore ullo aut insigni pauimento. Ac per annos quadraginta eodem cubiculo hieme et aestate mansit.\n\nGai Suetoni, *Vida d'August*, 72\n\n**Lèxic** (per ordre alfabètic):\n\n- *Caluus -i*: 'Calb' (poeta i orador).\n- *consto, -stiti, —* (1a): 'ser conegut', 'ser evident'.\n- *continens, -ntis*: 'moderat'.\n- *maneo, mansi, mansum* (2a): 'romandre'.\n- *ullus, -a, -um*: 'algun, alguna'.",
+      "enunciat": "Feu la versió del text següent (5 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de Suetoni (*Vida d'August*, 72), un biògraf de la primera meitat del segle II dC, amb **tres oracions** separades per punts (la segona té una part el·líptica després del punt i coma). Val **5 punts**, la meitat de l'examen: dedica-hi uns 40-45 minuts.\n\nMètode: (1) llegeix el títol, que ja et dona el sentit (August era moderat i vivia en cases senzilles); (2) localitza els **verbs conjugats**: *constat*, *habitauit*, *fuerat*, *erant*, *mansit*; (3) identifica les estructures: una **oració d'infinitiu** que fa de subjecte del verb impersonal *constat*, dues **relatives** (*quae ... fuerat*, *in quibus ... erant*) i una **el·lipsi** del verb *habitauit* a *postea in Palatio aedibus modicis*; (4) fes una traducció literal i després poleix-la.\n\nParanys: *constat* és **impersonal** («és conegut», «consta»), no té subjecte personal; *continentissimum* és un **superlatiu** (de *continens*) i s'ha de notar a la traducció («molt moderat»); *porticus* és nominatiu plural de la 4a declinació; *aedes* en plural vol dir 'casa, estances'; *ullius* és el genitiu d'*ullus* (genitiu en *-ius*) i amb *sine* es tradueix «cap»; *hieme* i *aestate* són ablatius de temps, no de lloc."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Augustum continentissimum fuisse constat ac sine suspicione ullius uitii.*\n\n- Verb principal: ***constat***, 3a sg. present d'indicatiu de *consto*, usat **impersonalment**: «és conegut, és evident».\n- ***Augustum continentissimum fuisse***: **oració subordinada substantiva d'infinitiu** (infinitiu no concertat) que fa de **subjecte** de *constat*. Subjecte de l'infinitiu: *Augustum* (acusatiu sg.); verb: *fuisse* (infinitiu de perfet de *sum*); atribut: *continentissimum* (acusatiu sg. m., grau **superlatiu** de *continens*, concordat amb *Augustum*): «que August va ser molt moderat».\n- ***ac sine suspicione ullius uitii***: *ac* (conjunció copulativa) coordina amb l'atribut un segon atribut format per un sintagma preposicional: *sine* + ablatiu (*suspicione*); ***ullius uitii*** (genitiu sg.; *ullius*, de *ullus*, concorda amb *uitii*) és CN de *suspicione*: «i sense sospita de cap vici»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Habitauit primo iuxta Romanum forum in domo quae Calui oratoris fuerat; postea in Palatio aedibus modicis, in quibus porticus breues erant et conclauia sine marmore ullo aut insigni pauimento.*\n\n- Verb: ***habitauit***, 3a sg. perfet d'indicatiu d'*habito*; subjecte el·líptic: August.\n- ***primo*** (adv.): «primer». ***iuxta Romanum forum*** (*iuxta* + acusatiu): CC de lloc, «al costat del fòrum romà». ***in domo*** (*in* + ablatiu): CC de lloc on, «en la casa».\n- ***quae Calui oratoris fuerat***: **subordinada adjectiva de relatiu**. *quae* (nominatiu sg. f.) té per antecedent *domo* i fa de subjecte; ***fuerat***, 3a sg. plusquamperfet d'indicatiu de *sum*; ***Calui*** (genitiu sg. de *Caluus*) és un genitiu possessiu en funció d'atribut, amb ***oratoris*** (genitiu sg. d'*orator*) en aposició: «que havia estat de l'orador Calb».\n- Després del punt i coma hi ha **el·lipsi** d'*habitauit*: ***postea*** (adv.) «després»; ***in Palatio*** (*in* + ablatiu): CC de lloc, «al Palatí»; ***aedibus modicis*** (ablatiu pl. d'*aedes*, amb l'adjectiu *modicis* concordat): CC de lloc, «en unes estances (una casa) modestes».\n- ***in quibus ... erant***: **subordinada de relatiu**; *quibus* (ablatiu pl.) té per antecedent *aedibus* i va regit per *in* (CC de lloc). Verb: ***erant*** (3a pl. imperfet de *sum*, «hi havia»). Subjecte: ***porticus breues*** (nominatiu pl. f., 4a declinació, amb *breues* concordat): «uns pòrtics petits».\n- ***et conclauia***: *et* coordina un segon subjecte, *conclauia* (nominatiu pl. n.), «habitacions»; ***sine marmore ullo aut insigni pauimento***: *sine* + ablatiu, dos termes coordinats per *aut* (*marmore ullo* i *insigni pauimento*): «sense cap marbre ni paviment luxós» (darrere d'una negació, *aut* es tradueix «ni»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Ac per annos quadraginta eodem cubiculo hieme et aestate mansit.*\n\n- ***Ac***: conjunció copulativa («i»), enllaça amb l'anterior.\n- Verb: ***mansit***, 3a sg. perfet d'indicatiu de *maneo* (ho dona el lèxic): «va romandre»; subjecte el·líptic: August.\n- ***per annos quadraginta*** (*per* + acusatiu): CC de temps (durada), «durant quaranta anys».\n- ***eodem cubiculo*** (ablatiu sg. d'*idem* + *cubiculum*): CC de lloc on (ablatiu sense preposició), «en el mateix dormitori».\n- ***hieme et aestate*** (ablatius sg. d'*hiems* i *aestas*, coordinats per *et*): CC de temps, «a l'hivern i a l'estiu»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Que August molt moderat havia estat consta i sense sospita d'algun vici. Va habitar primer al costat del romà fòrum en la casa que de Calb orador havia estat; després en el Palatí en estances modestes, en les quals pòrtics petits hi havia i habitacions sense marbre algun o insigne paviment. I durant anys quaranta en el mateix dormitori a l'hivern i a l'estiu va romandre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "És sabut que August va ser molt moderat i que no va tenir mai la sospita de cap vici. Primer va viure al costat del fòrum romà, en la casa que havia estat de l'orador Calb; després, al Palatí, en unes estances modestes, en les quals hi havia uns pòrtics petits i unes habitacions sense cap marbre ni cap paviment luxós. I durant quaranta anys va romandre en el mateix dormitori, tant a l'hivern com a l'estiu.\n\nTraducció orientativa oficial: «És conegut que August va ser molt moderat i sense sospita de cap vici. Va viure primer al costat del fòrum romà en la casa que havia estat de l'orador Calb; després al Palatí en unes estances modestes, en les quals hi havia uns petits pòrtics i unes habitacions sense cap marbre ni paviment luxós. I durant quaranta anys va romandre en el mateix dormitori a l'estiu i a l'hivern.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "«És conegut que August va ser molt moderat i sense sospita de cap vici. Va viure primer al costat del fòrum romà en la casa que havia estat de l'orador Calb; després al Palatí en unes estances modestes, en les quals hi havia uns petits pòrtics i unes habitacions sense cap marbre ni paviment luxós. I durant quaranta anys va romandre en el mateix dormitori a l'estiu i a l'hivern.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Estructures clau: oració d'infinitiu *Augustum continentissimum fuisse* (subjecte de l'impersonal *constat*), superlatiu *continentissimum*; relatives *quae ... fuerat* (antecedent *domo*) i *in quibus ... erant* (antecedent *aedibus*); el·lipsi d'*habitauit*; ablatius de lloc (*eodem cubiculo*) i de temps (*hieme et aestate*)."
+          }
+        ],
+        "nota": "Els criteris diuen que «la versió correcta del text pot adoptar formes distintes»: es valora entendre l'estructura, no una traducció idèntica a la pauta. Errors típics: buscar un subjecte personal per a *constat*; no traduir el superlatiu; prendre *quae* com a relatiu de *forum* (que és neutre); confondre *porticus* (nominatiu plural) amb un singular; no veure l'el·lipsi del verb a *postea in Palatio aedibus modicis*; traduir *hieme et aestate* com a lloc. Repassa que hi siguin *primo*, *postea*, *ullius* i *ullo*."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: l'oració d'infinitiu Augustum continentissimum fuisse i la funció d'Augustum",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "oració d'infinitiu",
+        "infinitiu no concertat",
+        "subjecte en acusatiu",
+        "verb impersonal",
+        "suetoni"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "Augustum continentissimum fuisse constat ac sine suspicione ullius uitii. Habitauit primo iuxta Romanum forum in domo quae Calui oratoris fuerat; postea in Palatio aedibus modicis, in quibus porticus breues erant et conclauia sine marmore ullo aut insigni pauimento. Ac per annos quadraginta eodem cubiculo hieme et aestate mansit.\n\nGai Suetoni, *Vida d'August*, 72",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «Augustum continentissimum fuisse constat ac sine suspicione ullius uitii», digueu quin tipus d'estructura sintàctica forma *Augustum continentissimum fuisse* i quina funció sintàctica hi fa *Augustum*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts). Demana **dues coses**: el **nom** de l'estructura i la **funció** d'*Augustum* dins d'aquesta estructura. Usa la terminologia exacta i justifica-ho amb la forma dels mots."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Busca el verb de l'estructura: *fuisse* és un **infinitiu** (de perfet de *sum*).\n2. Té un subjecte propi en **acusatiu** (*Augustum*) i un atribut que hi concorda (*continentissimum*): infinitiu + subjecte en acusatiu = **oració d'infinitiu** (infinitiu **no concertat**, perquè el seu subjecte no és el del verb principal).\n3. *Augustum* és, doncs, el **subjecte de *fuisse***.\n4. Si vols afinar: tota l'oració d'infinitiu fa de **subjecte** de l'impersonal *constat* («és conegut **que August va ser molt moderat**»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Augustum continentissimum fuisse* és una **oració subordinada substantiva d'infinitiu** (infinitiu no concertat): el verb és l'infinitiu de perfet *fuisse*, el subjecte és *Augustum*, en acusatiu, i *continentissimum* (superlatiu, també en acusatiu) n'és l'atribut. **Augustum fa de subjecte de l'infinitiu *fuisse***. Tota l'oració fa, al seu torn, de subjecte del verb impersonal *constat*: «és conegut que August va ser molt moderat»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Augustum continentissimum fuisse* és una estructura d'infinitiu no concertat (oració d'infinitiu)."
+          },
+          {
+            "apartat": null,
+            "valor": "*Augustum* fa la funció de subjecte de *fuisse*."
+          }
+        ],
+        "nota": "Errors típics: dir que *Augustum* és CD (l'acusatiu enganya: és el subjecte de l'infinitiu); confondre l'estructura amb un infinitiu concertat; no esmentar l'infinitiu *fuisse* com a nucli verbal."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: l'antecedent del relatiu quae (domo)",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "oració de relatiu",
+        "antecedent",
+        "concordança",
+        "pronom relatiu",
+        "suetoni"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "Augustum continentissimum fuisse constat ac sine suspicione ullius uitii. Habitauit primo iuxta Romanum forum in domo quae Calui oratoris fuerat; postea in Palatio aedibus modicis, in quibus porticus breues erant et conclauia sine marmore ullo aut insigni pauimento. Ac per annos quadraginta eodem cubiculo hieme et aestate mansit.\n\nGai Suetoni, *Vida d'August*, 72",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «[Augustus] habitauit primo iuxta Romanum forum in domo quae Calui oratoris fuerat», digueu quin és l'antecedent de *quae* i justifiqueu la resposta.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts). Cal dir l'**antecedent** i **justificar-ho**: sense la justificació (concordança) la resposta queda incompleta."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Analitza *quae*: pot ser nominatiu sg. femení, nominatiu pl. femení o nominatiu/acusatiu pl. neutre.\n2. Regla: el relatiu concorda amb l'antecedent en **gènere i nombre**; el **cas** depèn de la funció dins de la seva oració (aquí, subjecte de *fuerat*, per això nominatiu).\n3. Candidats de l'oració principal: *forum* (neutre singular: no hi concorda, perquè *quae* neutre seria plural) i *domo* (femení singular: hi concorda).\n4. El sentit ho confirma: «la casa que havia estat de l'orador Calb»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'antecedent de *quae* és ***domo***. El pronom relatiu concorda amb el seu antecedent en gènere i nombre, mentre que el cas el determina la funció que fa dins de la subordinada. *quae* és femení singular (nominatiu, perquè fa de subjecte de *fuerat*), i l'únic mot de l'oració principal amb què concorda en gènere i nombre és *domo* (ablatiu singular femení de *domus*); *forum* és neutre singular i no hi pot concordar. Per tant: «en la casa **que** havia estat de l'orador Calb»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "L'antecedent de *quae* és *domo*."
+          },
+          {
+            "apartat": null,
+            "valor": "Justificació: és l'únic mot de l'oració principal amb què concorda en gènere i nombre (femení singular)."
+          }
+        ],
+        "nota": "Errors típics: dir *forum* perquè és el mot més proper o perquè és «el lloc»; justificar-ho per la concordança de cas (el relatiu no concorda en cas: *domo* és ablatiu i *quae* nominatiu). Recorda que *domus* és femení encara que sigui de la 4a declinació."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ciutats romanes amb restes de circ: Tarraco i Emerita Augusta",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "circ romà",
+        "tarraco",
+        "emerita augusta",
+        "hispània romana",
+        "edificis d'espectacles"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cadascuna de les afirmacions següents.\n\n1. Les ciutats en què s'han trobat restes arqueològiques d'un circ són",
+      "figures": [],
+      "opcions": {
+        "a": "*Barcino* i *Tarraco*.",
+        "b": "*Tarraco*, *Barcino* i *Emerita Augusta*.",
+        "c": "*Tarraco* i *Emerita Augusta*.",
+        "d": "*Ilerda*, *Emporiae* i *Emerita Augusta*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Són preguntes sobre les ciutats romanes d'Hispània del temari (*Tarraco*, *Barcino*, *Emporiae*, *Ilerda*, *Emerita Augusta*): convé tenir una fitxa de cada ciutat amb fundació, estatut jurídic i monuments."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "El **circ** (per a les curses de carros) era un edifici enorme, propi de les grans capitals. N'hi ha restes a ***Tarraco*** (capital de la Hispània Citerior, on el circ de la part alta, de l'època de Domicià, encara es veu entre les cases de la Part Alta) i a ***Emerita Augusta*** (capital de Lusitània, amb un dels circs més grans de l'Imperi). *Barcino*, *Ilerda* i *Emporiae* eren ciutats petites i no en tenien. Per tant, la resposta és la c)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) *Tarraco* i *Emerita Augusta*."
+          }
+        ],
+        "nota": "Distractor clàssic: posar *Barcino* perquè era colònia. Recorda: Tarragona i Mèrida tenen teatre, amfiteatre i circ; Empúries té amfiteatre i palestra però no circ."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "La ciutat sense aqüeducte: Emporiae",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "aqüeducte",
+        "emporiae",
+        "tarraco",
+        "barcino",
+        "emerita augusta",
+        "hispània romana"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cadascuna de les afirmacions següents.\n\n2. La ciutat que no té aqüeducte és",
+      "figures": [],
+      "opcions": {
+        "a": "*Tarraco*.",
+        "b": "*Emporiae*.",
+        "c": "*Emerita Augusta*.",
+        "d": "*Barcino*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Són preguntes sobre les ciutats romanes d'Hispània del temari (*Tarraco*, *Barcino*, *Emporiae*, *Ilerda*, *Emerita Augusta*): convé tenir una fitxa de cada ciutat amb fundació, estatut jurídic i monuments."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Tarraco* té l'aqüeducte de les Ferreres (Pont del Diable); *Barcino* tenia dos aqüeductes (se'n veuen restes a la plaça Nova i al carrer Duran i Bas); *Emerita Augusta* conserva el de Los Milagros. ***Emporiae***, en canvi, s'abastia d'aigua amb **cisternes** i pous, sense aqüeducte. Resposta: b)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) *Emporiae*."
+          }
+        ],
+        "nota": "Recorda els aqüeductes de cada ciutat: Tarragona (Les Ferreres), Mèrida (Los Milagros i San Lázaro), Barcelona (restes a la plaça Nova). Empúries: cisternes."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ciutats amb estatut de colònia: Tarraco, Emerita Augusta i Barcino",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "colònia",
+        "municipi",
+        "estatut jurídic",
+        "tarraco",
+        "barcino",
+        "emerita augusta"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cadascuna de les afirmacions següents.\n\n3. Les ciutats que tenien l'estatut jurídic de colònia són",
+      "figures": [],
+      "opcions": {
+        "a": "*Tarraco*, *Emerita Augusta* i *Barcino*.",
+        "b": "*Ilerda* i *Emporiae*.",
+        "c": "*Emporiae* i *Tarraco*.",
+        "d": "*Emerita Augusta*, *Barcino* i *Ilerda*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Són preguntes sobre les ciutats romanes d'Hispània del temari (*Tarraco*, *Barcino*, *Emporiae*, *Ilerda*, *Emerita Augusta*): convé tenir una fitxa de cada ciutat amb fundació, estatut jurídic i monuments."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Les **colònies** eren ciutats de ciutadans romans: ***Tarraco*** (*Colonia Iulia Urbs Triumphalis Tarraco*), ***Barcino*** (*Colonia Iulia Augusta Faventia Paterna Barcino*) i ***Emerita Augusta*** (*Colonia Augusta Emerita*, fundada per a veterans). *Ilerda* i *Emporiae* van ser **municipis**. Resposta: a)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) *Tarraco*, *Emerita Augusta* i *Barcino*."
+          }
+        ],
+        "nota": "Els noms oficials de les ciutats (amb *Colonia* o *Municipium*) són una bona pista per recordar-ne l'estatut."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "La ciutat de fundació més recent: Emerita Augusta (25 aC)",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "emerita augusta",
+        "fundació de ciutats",
+        "august",
+        "emporiae",
+        "tarraco",
+        "ilerda"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cadascuna de les afirmacions següents.\n\n4. La ciutat de fundació més recent és",
+      "figures": [],
+      "opcions": {
+        "a": "*Emerita Augusta*.",
+        "b": "*Emporiae*.",
+        "c": "*Ilerda*.",
+        "d": "*Tarraco*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Són preguntes sobre les ciutats romanes d'Hispània del temari (*Tarraco*, *Barcino*, *Emporiae*, *Ilerda*, *Emerita Augusta*): convé tenir una fitxa de cada ciutat amb fundació, estatut jurídic i monuments."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Ordena les fundacions: *Emporiae* (colònia grega del segle VI aC; ciutat romana a inicis del segle I aC); *Ilerda* (ciutat ibèrica, romanitzada al segle II-I aC); *Tarraco* (campament dels Escipions el 218 aC); ***Emerita Augusta***, fundada per August l'any **25 aC** per assentar-hi els veterans (*emeriti*) de les guerres càntabres. És la més recent: resposta a)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) *Emerita Augusta*."
+          }
+        ],
+        "nota": "El nom *Emerita* (de *emeritus*, 'llicenciat, veterà') i *Augusta* ja indiquen una fundació augustal; *Barcino*, també augustal (cap al 15-10 aC), no surt entre les opcions."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme «rictus»: contracció de la boca que sembla un riure forçat",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "llatinismes",
+        "rictus",
+        "ringor",
+        "rigor mortis",
+        "etimologia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a la definició de cadascun dels mots catalans d'origen llatí següents.\n\n1. Rictus.",
+      "figures": [],
+      "opcions": {
+        "a": "Persona que per la seva figura ridícula i conducta extravagant és motiu de riota per als altres.",
+        "b": "Encarcarament que sobrevé a un cadàver poc després de la mort i que desapareix en començar el procés de descomposició.",
+        "c": "Malaltia aguda ocasionada per una alteració de la circulació de la sang al cervell.",
+        "d": "Obertura de la boca, produïda per la contracció dels músculs de la cara, que dóna l'aspecte d'un riure forçat."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Es tracta de llatinismes (mots presos directament del llatí): pensa en el mot llatí d'origen i en el seu significat literal."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Rictus, -us* és el participi substantivat de *ringor*, 'obrir la boca ensenyant les dents'. En català, un **rictus** és la contracció de la boca que fa l'aspecte d'un riure forçat: d). Les altres: a) és un *ridícul* / *esperpent*; b) és el ***rigor mortis***; c) és l'***ictus*** (vessament o infart cerebral). Els distractors juguen amb la semblança sonora."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Obertura de la boca, produïda per la contracció dels músculs de la cara, que dóna l'aspecte d'un riure forçat."
+          }
+        ],
+        "nota": "Compte amb els parònims: *rictus* / *ictus* / *rigor*."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme «accèssit»: recompensa immediatament inferior al premi",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "llatinismes",
+        "accèssit",
+        "accedo",
+        "accés",
+        "accident",
+        "accés morbós"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a la definició de cadascun dels mots catalans d'origen llatí següents.\n\n2. Accèssit.",
+      "figures": [],
+      "opcions": {
+        "a": "En un certamen científic, literari o artístic, recompensa immediatament inferior al premi.",
+        "b": "Possibilitat de disposar de la informació continguda en una memòria o un fitxer.",
+        "c": "Esdeveniment casual que comporta un dany per a les persones o les coses.",
+        "d": "Augment o aparició bruscos d'un fenomen morbós, periòdic o no, com la tos, la febre o l'agressivitat."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Es tracta de llatinismes (mots presos directament del llatí): pensa en el mot llatí d'origen i en el seu significat literal."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Accessit* és la 3a persona del singular del perfet d'*accedo*, 'acostar-se': «s'hi ha acostat» (al premi). Per això l'**accèssit** és la recompensa immediatament inferior al premi: a). Les altres definicions corresponen a **accés** (informàtic, b), **accident** (c) i **accés** (de tos, de febre: d), mots de la mateixa família però no llatinismes en forma verbal."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) En un certamen científic, literari o artístic, recompensa immediatament inferior al premi."
+          }
+        ],
+        "nota": "Altres llatinismes que són formes verbals: *déficit* ('falta'), *superàvit* ('ha sobrat'), *exit*, *veto* ('prohibeixo'), *plàcet* ('plau')."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme «maremàgnum»: gran confusió",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "llatinismes",
+        "maremàgnum",
+        "mare magnum",
+        "memoràndum",
+        "summum"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a la definició de cadascun dels mots catalans d'origen llatí següents.\n\n3. Maremàgnum.",
+      "figures": [],
+      "opcions": {
+        "a": "Llibret o quadern on apuntem el que ens cal recordar.",
+        "b": "Gran confusió.",
+        "c": "Centre comercial de grans dimensions.",
+        "d": "El grau més alt al qual arriba alguna cosa."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Es tracta de llatinismes (mots presos directament del llatí): pensa en el mot llatí d'origen i en el seu significat literal."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Mare magnum* vol dir 'mar gran': d'aquí el sentit figurat de **gran confusió**, multitud desordenada: b). Les altres: a) és un ***memoràndum*** (agenda); c) és el nom comercial d'un centre de Barcelona (no és el significat del mot); d) és el ***summum***."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Gran confusió."
+          }
+        ],
+        "nota": "Distractor amb trampa: el centre comercial *Maremagnum* de Barcelona; el diccionari només recull el sentit de 'gran confusió'."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "«Esnob»: persona que adopta tota novetat per semblar distingida",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "esnob",
+        "sine nobilitate",
+        "etimologia popular",
+        "fanfarró",
+        "llatinismes"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a la definició de cadascun dels mots catalans d'origen llatí següents.\n\n4. Esnob.",
+      "figures": [],
+      "opcions": {
+        "a": "Persona presumptuosa, amant de cridar l'atenció i de fer el que no li correspon.",
+        "b": "Persona amatent a acollir tota novetat, pel sol fet que adoptar-la li sembla un senyal de distinció, de bon gust, etcètera.",
+        "c": "Persona sagaç, astuta, hàbil per a aconseguir el que pretén.",
+        "d": "Individu que es glorieja de valent, de fets o de qualitats reals o suposats."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Es tracta de llatinismes (mots presos directament del llatí): pensa en el mot llatí d'origen i en el seu significat literal."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Un **esnob** és la persona que acull tota novetat perquè adoptar-la li sembla un senyal de distinció i bon gust: b). El mot ve de l'anglès *snob*; una explicació popular (no segura) el fa venir de l'abreviatura *s. nob.* (*sine nobilitate*, 'sense noblesa'), que s'hauria escrit al costat del nom dels estudiants no nobles a les universitats angleses. Les altres: a) *presumptuós*, *pretensiós*; c) *astut*; d) *fanfarró* (com el *miles gloriosus* de Plaute)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Persona amatent a acollir tota novetat, pel sol fet que adoptar-la li sembla un senyal de distinció, de bon gust, etcètera."
+          }
+        ],
+        "nota": "L'origen llatí d'*esnob* (*sine nobilitate*) és una etimologia popular; la pauta oficial només demana la definició (b)."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Els personatges femenins del Miles gloriosus de Plaute: Filocomàsia, Acrotelèucia i Milfidipa",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "plaute",
+        "miles gloriosus",
+        "comèdia llatina",
+        "filocomàsia",
+        "acrotelèucia",
+        "milfidipa",
+        "palestrió"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *Els personatges femenins a Miles gloriosus de Plaute*. Digueu-ne els noms i la classe social a què pertanyen; descriviu-ne el caràcter, i expliqueu-ne la participació en la comèdia i la relació que tenen amb els personatges masculins.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. L'enunciat dona l'esquema: per a **cada** personatge femení, (1) nom, (2) classe social, (3) caràcter, (4) paper en la trama i (5) relació amb els homes. Són tres: Filocomàsia, Acrotelèucia i Milfidipa."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Situa breument l'obra: comèdia *palliata* de Plaute (segles III-II aC), ambientada a Efes; el soldat fanfarró Pirgopolinices.\n2. **Filocomàsia**: jove cortesana (lliure de naixement), raptada pel soldat; enamorada de Plèusicles; llesta i astuta: fa de «germana bessona» per enganyar l'esclau guardià Esceledre.\n3. **Acrotelèucia**: jove cortesana bella i llesta, al servei del vell veí Periplectomen; es fa passar per la seva esposa enamorada del soldat.\n4. **Milfidipa**: la seva serventa, més gran; porta l'anell al soldat i fa de missatgera.\n5. Relació amb els homes: totes col·laboren amb l'esclau **Palestrió** i enganyen el soldat i Esceledre, perquè Filocomàsia pugui fugir amb Plèusicles."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Miles gloriosus* és una comèdia de Plaute ambientada a Efes, on el soldat fanfarró Pirgopolinices té segrestada una noia. Hi intervenen tres personatges femenins, totes de condició social baixa i totes còmplices de l'enginy de l'esclau Palestrió.\n\n**Filocomàsia** és una jove cortesana, tot i que lliure de naixement, enamorada de Plèusicles, un jove atenès. Mentre ell era fora, el soldat la va raptar i se la va endur a Efes. És llesta i astuta: quan Plèusicles s'hostatja a casa del vell veí, Periplectomen, els amants es troben a través d'un forat a la paret mitjanera; Esceledre, l'esclau que la vigila, els descobreix, i ella, seguint el pla de Palestrió, li fa creure que la noia que ha vist és la seva germana bessona.\n\n**Acrotelèucia** és una altra cortesana jove i bella, llesta i disposada a complaure el client. Amb el consentiment de Periplectomen es fa passar per la seva esposa i fingeix que se n'hi vol divorciar perquè està enamorada del soldat; així, aquest, envanit, allibera Filocomàsia.\n\n**Milfidipa**, la seva serventa, més gran, l'ajuda en l'engany: porta al soldat l'anell d'Acrotelèucia com a senyal d'amor.\n\nTotes tres manipulen els personatges masculins ridículs (el soldat i Esceledre) i ajuden l'enamorat Plèusicles."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Filocomàsia: jove esclava cortesana (lliure de naixement), enamorada de Plèusicles i raptada pel soldat, que se l'endu a Efes; llesta i astuta, participa en l'engany de Palestrió a Esceledre fent creure que hi ha dues germanes bessones (els amants es veuen pel forat de la paret mitjanera)."
+          },
+          {
+            "apartat": null,
+            "valor": "Acrotelèucia: jove i bella cortesana d'un vell veí del soldat; llesta i complaent, es fa passar per la seva esposa i fingeix voler divorciar-se'n per amor al soldat, perquè aquest alliberi Filocomàsia."
+          },
+          {
+            "apartat": null,
+            "valor": "Milfidipa: serventa d'Acrotelèucia, més gran que ella; l'ajuda en el pla de Palestrió i porta l'anell d'Acrotelèucia al soldat com a senyal d'enamorament."
+          }
+        ],
+        "nota": "La resposta model té unes 200 paraules (el mínim és ~150). Errors típics: oblidar Milfidipa; dir que Filocomàsia és esposa o filla del soldat; no explicar la classe social (cortesanes i serventa) ni la relació amb els homes, que l'enunciat demana explícitament. La pauta avisa que el model oficial no s'ha de copiar: es valoren els continguts."
+      }
+    },
+    {
+      "id": "llati-2014-J-s3-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "El patrimoni romà de Tarragona fora muralles: amfiteatre, aqüeducte, arc de Berà, Centcelles...",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "tarraco",
+        "amfiteatre",
+        "teatre romà",
+        "aqüeducte de les ferreres",
+        "arc de berà",
+        "torre dels escipions",
+        "centcelles",
+        "vil·la romana"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *El patrimoni romà de Tarragona conservat fora del recinte emmurallat*. Descriviu i expliqueu la funció dels edificis, els monuments i els recintes que els romans van construir fora de les muralles de Tarragona i en el territori que envoltava la ciutat.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. Cal **descriure** i explicar la **funció** de cada element: no n'hi ha prou amb una llista de noms. Organitza'ls per tipus: espectacles, funeraris, aigua i comunicacions, producció i vil·les."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Espectacles**: amfiteatre (arena; gladiadors i feres) i teatre (graderies, *orchestra*, escena).\n2. **Funeraris**: necròpolis paleocristiana; Torre dels Escipions, a la via Augusta.\n3. **Aigua i comunicacions**: aqüeducte de les Ferreres (Pont del Diable), des del Francolí; arc de Berà sobre la via Augusta, probable límit territorial.\n4. **Producció i territori**: pedrera del Mèdol; vil·les dels Munts i de Centcelles (mausoleu).\n5. **Port** del segle II aC."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Tàrraco, capital de la Hispània Citerior, conserva fora del recinte emmurallat un patrimoni romà molt ric.\n\nPer als espectacles hi havia l'**amfiteatre**, un edifici oval amb graderies al voltant de l'*arena*, on es feien lluites de gladiadors, de feres i d'homes contra feres; i el **teatre**, semicircular, amb graderies al voltant de l'*orchestra* i un escenari fix, on es representaven comèdies i tragèdies.\n\nFora muralles hi havia també les àrees funeràries: la **necròpolis** tardoromana i paleocristiana, la més important d'Occident, i el monument funerari de la **Torre dels Escipions**, vora la via Augusta.\n\nL'**aqüeducte de les Ferreres**, o Pont del Diable, portava l'aigua del riu Francolí a la part alta de la ciutat. L'**arc de Berà**, arc triomfal sobre la via Augusta, marcava probablement el límit del territori de Tàrraco. A la **pedrera del Mèdol** s'extreia la pedra dels grans edificis.\n\nAl territori hi havia vil·les com la dels **Munts**, explotació agrícola amb una part residencial luxosa (termes, mosaics, marbres), i la de **Centcelles**, sobre la qual es va construir el mausoleu d'un personatge molt important. També se n'han trobat restes del primer **port**, del segle II aC."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Amfiteatre (edifici oval, arena; lluites de gladiadors, de feres i d'homes contra feres) i teatre (semicircular, *orchestra*, escenari fix; comèdies i tragèdies)."
+          },
+          {
+            "apartat": null,
+            "valor": "Necròpolis (la més important àrea funerària tardoromana d'Occident) i Torre dels Escipions, sobre la via Augusta."
+          },
+          {
+            "apartat": null,
+            "valor": "Aqüeducte de les Ferreres o Pont del Diable (aigua del Francolí a la part alta) i arc de Berà (arc triomfal sobre la via Augusta, probable límit territorial)."
+          },
+          {
+            "apartat": null,
+            "valor": "Pedrera del Mèdol; vil·les suburbanes dels Munts (complex agrícola i part privada luxosa) i de Centcelles (mausoleu); restes del primer port (s. II aC)."
+          }
+        ],
+        "nota": "La resposta model té unes 190 paraules (el mínim és ~150). Errors típics: incloure monuments de dins muralles (fòrum provincial, circ, pretori) quan l'enunciat demana els de fora; enumerar sense dir la funció."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Suetoni: August dormia poc",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "suetoni",
+        "vida d'august",
+        "august",
+        "ablatiu absolut",
+        "participi concertat",
+        "verbs deponents"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "**August dormia poc**\n\nAugustus post cibum meridianum uestitus calciatusque paulisper conquiescebat, opposita ad oculos manu. A cena in lecticulam lucubratoriam se recipiebat; ibi ad multam noctem permanebat. In lectum deinde transgressus, non amplius quam septem horas dormiebat ac eas non continuas sed in illo temporis spatio ter aut quater expergiscebatur.\n\nGai Suetoni, *Vida d'August*, 78\n\n**Lèxic** (per ordre alfabètic):\n\n- *a* (preposició): 'després de'.\n- *lucubratorius, -a, -um*: 'de treball'.\n- *transgredior, -gressus sum* (3a deponent): 'traslladar-se'.",
+      "enunciat": "Feu la versió del text següent (5 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de Suetoni (*Vida d'August*, 78) amb **tres oracions**. Val **5 punts**: dedica-hi uns 40-45 minuts. El títol («August dormia poc») ja et diu de què va: els hàbits de descans de l'emperador.\n\nVerbs conjugats: *conquiescebat*, *se recipiebat*, *permanebat*, *dormiebat*, *expergiscebatur*: tots en **imperfet**, perquè descriuen costums («descansava», «es retirava»...). Estructures: participis concertats (*uestitus calciatusque*, *transgressus*), un **ablatiu absolut** (*opposita ad oculos manu*) i un acusatiu de durada (*septem horas*).\n\nParanys: *a cena* no és «des del sopar» sinó «després de sopar» (ho diu el lèxic); *transgressus* i *expergiscebatur* són **deponents** (forma passiva, sentit actiu); *se recipiebat* és «es retirava»; *eas* es refereix a *horas*; *ad multam noctem* és «fins a ben entrada la nit»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Augustus post cibum meridianum uestitus calciatusque paulisper conquiescebat, opposita ad oculos manu.*\n\n- Verb: ***conquiescebat***, 3a sg. imperfet d'indicatiu de *conquiesco*: «descansava»; subjecte: ***Augustus*** (nominatiu sg.).\n- ***post cibum meridianum*** (*post* + acusatiu): CC de temps, «després del menjar del migdia» = «després de dinar».\n- ***uestitus calciatusque***: dos **participis de perfet passiu** (nominatiu sg. m.) coordinats per *-que*, **concertats** amb *Augustus* (complement predicatiu): «vestit i calçat».\n- ***paulisper*** (adv.): «una estona».\n- ***opposita ad oculos manu***: **ablatiu absolut**: *manu* (ablatiu sg. de *manus*) i el participi *opposita* (de *oppono*, 'posar davant') concordat; ***ad oculos*** (*ad* + acusatiu) és CC del participi: literalment «posada la mà davant dels ulls» → «tapant-se els ulls amb la mà»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*A cena in lecticulam lucubratoriam se recipiebat; ibi ad multam noctem permanebat.*\n\n- Verb: ***se recipiebat***, 3a sg. imperfet de *recipio* amb el reflexiu *se* (CD): «es retirava»; subjecte el·líptic: August.\n- ***A cena*** (*a* + ablatiu, 'després de' segons el lèxic): CC de temps, «després de sopar».\n- ***in lecticulam lucubratoriam*** (*in* + acusatiu): CC de lloc a on (direcció), «a la petita llitera de treball» (*lecticula* és diminutiu de *lectica*).\n- Després del punt i coma, oració juxtaposada: ***permanebat*** (3a sg. imperfet de *permaneo*, «romania»); ***ibi*** (adv.): «allí»; ***ad multam noctem*** (*ad* + acusatiu): CC de temps, «fins a ben entrada la nit»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*In lectum deinde transgressus, non amplius quam septem horas dormiebat ac eas non continuas sed in illo temporis spatio ter aut quater expergiscebatur.*\n\n- ***In lectum deinde transgressus***: **participi concertat**; *transgressus* és participi de perfet del deponent *transgredior* (sentit actiu: «havent-se traslladat»), en nominatiu sg. m., i concorda amb el subjecte el·líptic, *Augustus*. ***in lectum*** (*in* + acusatiu): CC de direcció, «al llit»; ***deinde*** (adv.): «després, finalment».\n- Verb principal: ***dormiebat*** (3a sg. imperfet de *dormio*). ***non amplius quam septem horas***: acusatiu de **durada** (*septem horas*) amb el comparatiu adverbial *amplius quam*: «no més de set hores».\n- ***ac eas non continuas***: *ac* coordina un segon complement, amb el verb *dormiebat* sobreentès: *eas* (acusatiu pl. f., es refereix a *horas*) i *continuas* concordat com a predicatiu: «i aquestes, no seguides».\n- ***sed ... expergiscebatur***: *sed* (adversativa) introdueix la darrera coordinada; *expergiscebatur*, 3a sg. imperfet del **deponent** *expergiscor*: «es despertava». ***in illo temporis spatio*** (*in* + ablatiu; *temporis* genitiu, CN de *spatio*): CC de temps, «en aquell espai de temps»; ***ter aut quater*** (adverbis numerals): «tres o quatre vegades»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "August després del menjar del migdia vestit i calçat una estona descansava, posada davant dels ulls la mà. Després del sopar a la petita llitera de treball es retirava; allí fins a molta nit romania. Al llit després traslladat, no més que set hores dormia i aquestes no contínues, sinó en aquell de temps espai tres o quatre vegades es despertava."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Després de dinar, August descansava una estona vestit i calçat, amb la mà posada sobre els ulls. Després de sopar es retirava a la seva petita llitera de treball, i allí s'hi quedava fins a ben entrada la nit. Després, quan se n'anava al llit, no dormia més de set hores, i encara no seguides, sinó que en aquell espai de temps es despertava tres o quatre vegades.\n\nTraducció orientativa oficial: «August després de dinar, vestit i calçat, descansava una estona, tapant-se els ulls amb la mà. Després de sopar es retirava a la seva petita llitera de treball; allí romania molta part de la nit. Traslladant-se finalment al llit, no dormia pas més de set hores i no pas de forma contínua, ans es despertava tres o quatre vegades en aquest interval de temps.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "«August després de dinar, vestit i calçat, descansava una estona, tapant-se els ulls amb la mà. Després de sopar es retirava a la seva petita llitera de treball; allí romania molta part de la nit. Traslladant-se finalment al llit, no dormia pas més de set hores i no pas de forma contínua, ans es despertava tres o quatre vegades en aquest interval de temps.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Estructures clau: participis concertats *uestitus calciatusque* i *transgressus* (amb *Augustus*); ablatiu absolut *opposita ad oculos manu*; *a cena* = 'després de sopar'; acusatiu de durada *septem horas*; *eas* = *horas*; deponents *transgressus* i *expergiscebatur*; imperfets d'hàbit."
+          }
+        ],
+        "nota": "La pauta oficial admet traduccions diverses. Errors típics: traduir *a cena* com «des del sopar» (el lèxic ja diu 'després de'); traduir els imperfets com a perfets (són costums: «descansava», «dormia»); no reconèixer l'ablatiu absolut; traduir *transgressus* o *expergiscebatur* com a passives; no veure que *eas* es refereix a *horas*."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: l'ablatiu absolut opposita ad oculos manu",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi no concertat",
+        "participi de perfet",
+        "complement circumstancial",
+        "suetoni"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "Augustus post cibum meridianum uestitus calciatusque paulisper conquiescebat, opposita ad oculos manu. A cena in lecticulam lucubratoriam se recipiebat; ibi ad multam noctem permanebat. In lectum deinde transgressus, non amplius quam septem horas dormiebat ac eas non continuas sed in illo temporis spatio ter aut quater expergiscebatur.\n\nGai Suetoni, *Vida d'August*, 78",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En el text hi ha l'estructura sintàctica *opposita ad oculos manu*. Digueu el nom que rep i analitzeu-ne sintàcticament els elements.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts). Dues parts: el **nom** de l'estructura i l'**anàlisi** de **tots** els seus elements (*opposita*, *ad oculos*, *manu*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *manu* és ablatiu sg. de *manus* (4a, f.); *opposita* és participi de perfet passiu d'*oppono*, en ablatiu sg. f.: concorden.\n2. Nom + participi en ablatiu, sense relació gramatical amb l'oració principal (el subjecte, *Augustus*, és un altre mot) = **ablatiu absolut** (participi no concertat).\n3. Elements: *manu* és el «subjecte» de la construcció; *opposita*, el nucli verbal (participi); *ad oculos* (*ad* + acusatiu), un CC que depèn del participi.\n4. Valor: modal-temporal, «tapant-se els ulls amb la mà»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Opposita ad oculos manu* és una construcció d'**ablatiu absolut** (participi no concertat). Consta d'un nom en ablatiu, ***manu*** (ablatiu sg. de *manus*), que en fa de subjecte, amb el qual concorda en gènere, nombre i cas el **participi de perfet** ***opposita*** (d'*oppono*), nucli verbal de la construcció; del participi depèn ***ad oculos*** (*ad* + acusatiu), un **complement circumstancial** de lloc. Literalment, «posada la mà davant dels ulls»: «tapant-se els ulls amb la mà»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "És una construcció d'ablatiu absolut o participi no concertat."
+          },
+          {
+            "apartat": null,
+            "valor": "Consta d'un nom en ablatiu (*manu*) amb el qual concorda un participi (*opposita*), del qual depèn un complement circumstancial (*ad oculos*)."
+          }
+        ],
+        "nota": "Errors típics: oblidar analitzar *ad oculos*; dir que *opposita* concorda amb *Augustus* (és femení i ablatiu); confondre-ho amb un participi concertat."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: el participi concertat in lectum deinde transgressus",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "participi concertat",
+        "verbs deponents",
+        "concordança",
+        "participi de perfet",
+        "suetoni"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        14
+      ],
+      "text": "Augustus post cibum meridianum uestitus calciatusque paulisper conquiescebat, opposita ad oculos manu. A cena in lecticulam lucubratoriam se recipiebat; ibi ad multam noctem permanebat. In lectum deinde transgressus, non amplius quam septem horas dormiebat ac eas non continuas sed in illo temporis spatio ter aut quater expergiscebatur.\n\nGai Suetoni, *Vida d'August*, 78",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En el text hi ha l'estructura sintàctica *in lectum deinde transgressus*. Digueu quin nom rep i amb quin mot concorda *transgressus*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts). Dues coses: el **nom** de l'estructura i el **mot** amb què concorda *transgressus*. Compte: aquest mot no surt a la frase, sinó abans en el text."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *transgressus* és participi de perfet del deponent *transgredior* (lèxic), nominatiu sg. m.\n2. No hi ha cap nom en ablatiu (no és ablatiu absolut): el participi concorda amb un mot de l'oració principal → **participi concertat**.\n3. El subjecte de *dormiebat* no és explícit, però és el mateix de tot el text: ***Augustus*** (nominatiu sg. m., primera paraula del text). Amb ell concorda *transgressus*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*In lectum deinde transgressus* és una construcció de **participi concertat**: *transgressus*, participi de perfet del verb deponent *transgredior* (amb sentit actiu: «havent-se traslladat»), està en nominatiu singular masculí i **concorda amb *Augustus***, el subjecte (el·líptic en aquesta oració) de *dormiebat*. *In lectum* (*in* + acusatiu) és un CC de direcció i *deinde* un adverbi de temps: «traslladant-se després al llit»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*In lectum deinde transgressus* és una construcció de participi concertat."
+          },
+          {
+            "apartat": null,
+            "valor": "*transgressus* concorda amb *Augustus*."
+          }
+        ],
+        "nota": "Errors típics: dir que concorda amb *lectum* (és acusatiu i depèn de *in*); confondre-ho amb un ablatiu absolut; traduir-lo com a passiu («traslladat») sense recordar que *transgredior* és deponent."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Abreviatura «p. m.»: post meridiem",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "abreviatures llatines",
+        "post meridiem",
+        "ante meridiem",
+        "post mortem",
+        "llatinismes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cadascuna de les abreviatures llatines següents.\n\n1. *p. m.*",
+      "figures": [],
+      "opcions": {
+        "a": "*post mortem*",
+        "b": "*post meridiem*",
+        "c": "*per me*",
+        "d": "*post mail*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Abreviatures llatines d'ús habitual en català: pensa on les has vist (hores, llibres, citacions)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***p. m.*** = ***post meridiem***, 'després del migdia' (s'usa amb les hores: «a les 5 p. m.»), en oposició a *a. m.* (*ante meridiem*). *Post mortem* ('després de la mort') existeix, però s'escriu sencer o, en tot cas, s'abreuja diferent; *per me* i *post mail* són invencions. Resposta: b)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) *post meridiem*."
+          }
+        ],
+        "nota": "Distractor: *post mortem*, que també comença per *p. m.*; la pauta dona b) perquè és l'ús habitual de l'abreviatura."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Abreviatura «v.»: vide (vegeu)",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "abreviatures llatines",
+        "vide",
+        "vegeu",
+        "verbi gratia",
+        "versus"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cadascuna de les abreviatures llatines següents.\n\n2. *v.*",
+      "figures": [],
+      "opcions": {
+        "a": "*viceversa*",
+        "b": "*verbi gratia*",
+        "c": "*versus*",
+        "d": "*vide*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Abreviatures llatines d'ús habitual en català: pensa on les has vist (hores, llibres, citacions)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***v.*** = ***vide***, imperatiu de *uideo*: 'mira, vegeu', per remetre a una altra pàgina o obra (també *vid.*). *Verbi gratia* s'abreuja *v. g.* o *v. gr.*; *versus* s'abreuja *vs.*; *viceversa* no s'abreuja. Resposta: d)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) *vide*."
+          }
+        ],
+        "nota": "Recorda: *v.* (*vide*), *v. g.* (*verbi gratia*, 'per exemple'), *vs.* (*versus*, 'contra')."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Abreviatura «cf.»: confer (compareu)",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "abreviatures llatines",
+        "confer",
+        "cf.",
+        "llatinismes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cadascuna de les abreviatures llatines següents.\n\n3. *cf.*",
+      "figures": [],
+      "opcions": {
+        "a": "*confer*",
+        "b": "*cum facto*",
+        "c": "*fortunae causa*",
+        "d": "*cor flagrans*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Abreviatures llatines d'ús habitual en català: pensa on les has vist (hores, llibres, citacions)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***cf.*** (o *cfr.*) = ***confer***, imperatiu de *confero*: 'compara, confronta'; s'usa en textos acadèmics per remetre a una altra obra. Les altres opcions són invencions. Resposta: a)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) *confer*."
+          }
+        ],
+        "nota": "Pregunta fàcil si coneixes l'abreviatura de les notes a peu de pàgina."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Abreviatura «i. e.»: id est (és a dir)",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "abreviatures llatines",
+        "id est",
+        "i. e.",
+        "in extenso",
+        "llatinismes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cadascuna de les abreviatures llatines següents.\n\n4. *i. e.*",
+      "figures": [],
+      "opcions": {
+        "a": "*in extenso*",
+        "b": "*in errore*",
+        "c": "*id est*",
+        "d": "*inter eos*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Abreviatures llatines d'ús habitual en català: pensa on les has vist (hores, llibres, citacions)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***i. e.*** = ***id est***, 'això és, és a dir'. *In extenso* ('extensament') existeix però no s'abreuja; *in errore* i *inter eos* són distractors. Resposta: c)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) *id est*."
+          }
+        ],
+        "nota": "Altres abreviatures freqüents: *etc.* (*et cetera*), *e. g.* (*exempli gratia*), *N. B.* (*nota bene*), *P. S.* (*post scriptum*), *ibid.* (*ibidem*), *op. cit.* (*opere citato*)."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Horaci: la inexorabilitat de la mort (Odes, 2, 3)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "horaci",
+        "odes",
+        "inexorabilitat de la mort",
+        "mors omnibus communis",
+        "tòpics literaris"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        14
+      ],
+      "text": "**Tots som emmenats al mateix lloc**;  \nse sacseja dins l'urna la bola de cadascú  \ni, més aviat o més tard, en sortirà  \ni ens farà pujar a la barca **cap a l'etern exili**.\n\nHoraci, *Odes*, 2, 3",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; si la resposta és incorrecta, no hi haurà cap descompte). Associeu cadascun dels fragments següents a un dels temes cabdals de la poesia d'Horaci i escriviu-lo en l'espai en blanc que correspon en cada cas. Fixeu-vos sobretot en els mots destacats en negreta.\n\n1. Escriviu el tema cabdal de la poesia d'Horaci que il·lustra aquest fragment (*Odes, 2, 3*).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total, 0,5 per fragment, sense descompte per errors: contesta-les totes). Cal escriure el **tema** (tòpic) d'Horaci que il·lustra cada fragment. Fixa't en els mots en negreta i dona'n el nom en català; si saps el tòpic llatí (*carpe diem*, *aurea mediocritas*, *exegi monumentum*...), afegeix-lo."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Els mots en negreta diuen que **tothom** acaba al mateix lloc i pujant a la barca (la de Caront) cap a l'**etern exili**: la mort és inevitable i iguala tothom. Tema: **la inexorabilitat de la mort** (la mort igualadora, *pallida Mors aequo pulsat pede*...). La bola dins l'urna és la sort que treu el nom de cadascú quan li toca."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La inexorabilitat de la mort."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "La inexorabilitat de la mort (o un concepte similar)."
+          }
+        ],
+        "nota": "La pauta accepta «un concepte similar»: no cal una fórmula exacta, però sí que el tema sigui inequívoc. Els quatre temes d'Horaci que convé saber: la mort inevitable, la vida senzilla (*aurea mediocritas*), la immortalitat de la poesia (*exegi monumentum*) i el *carpe diem*."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Horaci: l'elogi de la vida senzilla (Odes, 1, 38)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "horaci",
+        "odes",
+        "vida senzilla",
+        "aurea mediocritas",
+        "tòpics literaris"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        14
+      ],
+      "text": "**Detesto**, minyó, **els costums luxosos**  \n**i em desplauen les garlandes cares**;  \ndeixa de cercar en quin indret s'amaguen les  \nroses tardanes.\n\nHoraci, *Odes*, 1, 38",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; si la resposta és incorrecta, no hi haurà cap descompte). Associeu cadascun dels fragments següents a un dels temes cabdals de la poesia d'Horaci i escriviu-lo en l'espai en blanc que correspon en cada cas. Fixeu-vos sobretot en els mots destacats en negreta.\n\n2. Escriviu el tema cabdal de la poesia d'Horaci que il·lustra aquest fragment (*Odes, 1, 38*).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total, 0,5 per fragment, sense descompte per errors: contesta-les totes). Cal escriure el **tema** (tòpic) d'Horaci que il·lustra cada fragment. Fixa't en els mots en negreta i dona'n el nom en català; si saps el tòpic llatí (*carpe diem*, *aurea mediocritas*, *exegi monumentum*...), afegeix-lo."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "El poeta **detesta el luxe** (costums luxosos, garlandes cares, roses fora de temporada) i prefereix el que és simple. Tema: **l'elogi de la vida senzilla** (relacionat amb l'*aurea mediocritas*, el terme mitjà daurat, i amb el rebuig de l'ostentació)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'elogi de la vida senzilla."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "L'elogi de la vida senzilla (o un concepte similar)."
+          }
+        ],
+        "nota": "La pauta accepta «un concepte similar»: no cal una fórmula exacta, però sí que el tema sigui inequívoc. Els quatre temes d'Horaci que convé saber: la mort inevitable, la vida senzilla (*aurea mediocritas*), la immortalitat de la poesia (*exegi monumentum*) i el *carpe diem*."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Horaci: la immortalitat del poeta i de la seva obra (Odes, 3, 30)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "horaci",
+        "odes",
+        "exegi monumentum",
+        "immortalitat del poeta",
+        "tòpics literaris"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        14
+      ],
+      "text": "**Acabo un monument més ferm que el bronze**,  \nmés alterós que les reials piràmides;  \nni la pluja voraç ni amb tot son ímpetu  \nl'aquiló no en faran tristes ruïnes  \nni els anys seguits ni temps i temps que passi.\n\nHoraci, *Odes*, 3, 30",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; si la resposta és incorrecta, no hi haurà cap descompte). Associeu cadascun dels fragments següents a un dels temes cabdals de la poesia d'Horaci i escriviu-lo en l'espai en blanc que correspon en cada cas. Fixeu-vos sobretot en els mots destacats en negreta.\n\n3. Escriviu el tema cabdal de la poesia d'Horaci que il·lustra aquest fragment (*Odes, 3, 30*).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total, 0,5 per fragment, sense descompte per errors: contesta-les totes). Cal escriure el **tema** (tòpic) d'Horaci que il·lustra cada fragment. Fixa't en els mots en negreta i dona'n el nom en català; si saps el tòpic llatí (*carpe diem*, *aurea mediocritas*, *exegi monumentum*...), afegeix-lo."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "És l'oda final del llibre III: *Exegi monumentum aere perennius*. El «monument més ferm que el bronze» és la seva **obra poètica**, que cap pluja, vent ni pas del temps no podrà destruir. Tema: **la immortalitat del poeta i de la seva obra** (*non omnis moriar*, 'no moriré del tot')."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La immortalitat del poeta i de la seva obra."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "La immortalitat del poeta i de la seva obra (o un concepte similar)."
+          }
+        ],
+        "nota": "La pauta accepta «un concepte similar»: no cal una fórmula exacta, però sí que el tema sigui inequívoc. Els quatre temes d'Horaci que convé saber: la mort inevitable, la vida senzilla (*aurea mediocritas*), la immortalitat de la poesia (*exegi monumentum*) i el *carpe diem*."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Horaci: el carpe diem, aprofitar el moment present (Odes, 1, 11)",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "horaci",
+        "odes",
+        "carpe diem",
+        "fugacitat del temps",
+        "tòpics literaris"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        14
+      ],
+      "text": "Tingues seny [Leucònoe]: filtra els teus vins  \ni, ja que la vida és breu, escurça la llarga esperança.  \nMentre parlem, haurà fugit envejós el temps;  \n**gaudeix del dia d'avui i no confiïs gens en el de demà**.\n\nHoraci, *Odes*, 1, 11",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,5 punts; si la resposta és incorrecta, no hi haurà cap descompte). Associeu cadascun dels fragments següents a un dels temes cabdals de la poesia d'Horaci i escriviu-lo en l'espai en blanc que correspon en cada cas. Fixeu-vos sobretot en els mots destacats en negreta.\n\n4. Escriviu el tema cabdal de la poesia d'Horaci que il·lustra aquest fragment (*Odes, 1, 11*).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total, 0,5 per fragment, sense descompte per errors: contesta-les totes). Cal escriure el **tema** (tòpic) d'Horaci que il·lustra cada fragment. Fixa't en els mots en negreta i dona'n el nom en català; si saps el tòpic llatí (*carpe diem*, *aurea mediocritas*, *exegi monumentum*...), afegeix-lo."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "És l'oda a Leucònoe, d'on surt el tòpic ***carpe diem, quam minimum credula postero***: «aprofita el dia i no confiïs gens en el de demà». Tema: **la necessitat d'aprofitar el moment present** (*carpe diem*), lligat a la fugacitat del temps (*tempus fugit*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La necessitat d'aprofitar el moment present."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "La necessitat d'aprofitar el moment present (o un concepte similar)."
+          }
+        ],
+        "nota": "La pauta accepta «un concepte similar»: no cal una fórmula exacta, però sí que el tema sigui inequívoc. Els quatre temes d'Horaci que convé saber: la mort inevitable, la vida senzilla (*aurea mediocritas*), la immortalitat de la poesia (*exegi monumentum*) i el *carpe diem*."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Virgili segons Eli Donat: biografia, l'Eneida i el seu epitafi",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "virgili",
+        "eneida",
+        "bucòliques",
+        "geòrgiques",
+        "èpica llatina",
+        "august",
+        "mecenes",
+        "eli donat"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        12
+      ],
+      "text": "Als cinquanta-dos anys va decidir retirar-se a Grècia per acabar de donar els darrers retocs a la seva obra. Durant el viatge es va trobar August a Atenes, que tornava a Roma, i va decidir acompanyar-lo. Mentre visitava la ciutat de Mègara, va caure malalt; no va voler ajornar el viatge de tornada per mar, de manera que va morir al cap de pocs dies d'haver desembarcat a Bríndisi. Els seus ossos, traslladats a Nàpols, foren enterrats en un túmul amb l'epitafi següent: «Màntua em va veure néixer, els calabresos m'han arrabassat del món, ara Partènope em guarda; **he cantat pasturatges, conreus i cabdills**». Va deixar a Mecenes una dotzena part dels seus béns. Havia donat instruccions a Vari i Tucca de cremar la seva obra, si li succeïa res abans d'acabar-la. August no ho va permetre, i **així va impedir que Troia cremés per segona vegada**.\n\n(Eli Donat)",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Llegiu el text següent, en què es parla d'un autor de la literatura llatina. En quinze línies com a mínim (unes cent cinquanta paraules), identifiqueu l'autor de qui es parla i doneu-ne les dades biogràfiques principals; especifiqueu el títol de l'obra a què fa referència el text i el gènere literari a què pertany; expliqueu en dues o tres línies l'essència de l'argument i digueu el nom dels protagonistes principals. Finalment, comenteu les frases destacades en negreta «he cantat pasturatges, conreus i cabdills» i «així va impedir que Troia cremés per segona vegada».",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició-comentari de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. L'enunciat demana cinc coses, i cal respondre-les totes i en ordre: (1) autor i biografia; (2) obra i gènere; (3) argument en 2-3 línies; (4) protagonistes; (5) comentari de les **dues** frases en negreta."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Pistes del text**: Màntua (lloc de naixement), August i Mecenes, mort a Bríndisi, enterrat a Nàpols (Partènope), Troia → **Publi Virgili Maró** (70-19 aC).\n2. **Biografia**: neix prop de Màntua el 70 aC; estudia a Cremona, Milà, Roma i Nàpols; el 42-41 aC perd les terres familiars en el repartiment als veterans de Filipos; entra al cercle de Mecenes, protegit d'August; mor a Bríndisi el 19 aC.\n3. **Obra**: l'*Eneida*, poema **èpic** en hexàmetres i 12 llibres.\n4. **Argument**: Eneas fuig de Troia i arriba al Laci per fundar la nissaga dels romans.\n5. **Protagonistes**: Eneas, Dido (reina de Cartago), Turn (rei dels rútuls).\n6. **Frases**: «pasturatges, conreus i cabdills» = les tres obres (*Bucòliques*, *Geòrgiques*, *Eneida*); «Troia cremés per segona vegada» = cremar l'*Eneida* hauria destruït també el relat de Troia (metàfora)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'autor és **Publi Virgili Maró**, que va néixer prop de **Màntua** el 70 aC. Va estudiar a Cremona, Milà, Roma i Nàpols. El 42 aC va perdre les terres paternes quan es van repartir als veterans de la batalla de Filipos, i després va entrar al cercle literari de **Mecenes**, sota la protecció d'**August**. Al final de la vida va viatjar a Grècia, hi va emmalaltir i va morir a **Bríndisi** el 19 aC; va ser enterrat a Nàpols.\n\nL'obra a què fa referència el text és l'***Eneida***, un **poema èpic** en hexàmetres i dotze llibres. Explica com Eneas fuig de Troia, destruïda pels grecs, i després d'un llarg viatge arriba a Itàlia per fundar la nissaga d'on sortiran els romans. Els protagonistes són **Eneas**; **Dido**, reina de Cartago, que l'estima i se suïcida quan ell l'abandona per ordre dels déus; i **Turn**, rei dels rútuls, contra qui Eneas lluita per Lavínia.\n\nLa frase «**he cantat pasturatges, conreus i cabdills**» resumeix les tres obres de Virgili: els pasturatges són les *Bucòliques*; els conreus, les *Geòrgiques*; i els cabdills, l'*Eneida*.\n\n«**Així va impedir que Troia cremés per segona vegada**» és una metàfora: Troia ja havia cremat amb l'entrada dels grecs; si August hagués permès que es destruís l'*Eneida*, inacabada, el relat de la caiguda de Troia hauria tornat a cremar."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Autor: Publi Virgili Maró, nascut prop de Màntua el 70 aC; estudis a Roma i Nàpols; el 42 aC perd l'heretat paterna en la distribució de terres als veterans de Filipos; cercle de Mecenes, sota August; mor a Bríndisi en tornar de Grècia."
+          },
+          {
+            "apartat": null,
+            "valor": "Obra: l'*Eneida*, poema èpic: Eneas fuig de Troia i arriba a Itàlia per fundar la nissaga dels romans. Protagonistes: Eneas, Dido (reina de Cartago, abandonada per ordre dels déus) i Turn (cap dels rútuls; lluita per l'amor de Lavínia)."
+          },
+          {
+            "apartat": null,
+            "valor": "«Troia cremés per segona vegada»: destruir l'obra inacabada hauria destruït també el relat de la desfeta de Troia, que ja havia cremat una primera vegada amb l'entrada dels grecs."
+          },
+          {
+            "apartat": null,
+            "valor": "«Pasturatges, conreus i cabdills»: les tres obres de Virgili, *Bucòliques*, *Geòrgiques* i *Eneida*."
+          }
+        ],
+        "nota": "La resposta model té unes 220 paraules (el mínim és ~150). Errors típics: confondre Mecenes amb un emperador; dir que l'*Eneida* és una tragèdia o una obra en prosa; oblidar una de les dues frases; no relacionar «pasturatges, conreus i cabdills» amb les tres obres. No cal copiar el model oficial: es valoren els continguts."
+      }
+    },
+    {
+      "id": "llati-2014-J-s4-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Les sales caldejades de les termes romanes: tepidari, caldari i lacònic; l'hipocaust",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "termes romanes",
+        "tepidarium",
+        "caldarium",
+        "laconicum",
+        "hipocaust",
+        "vida quotidiana"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *Els àmbits caldejats de les termes romanes*. Anomeneu les sales caldejades, descriviu-les i expliqueu-ne la funció; expliqueu com s'aconseguia escalfar-les; esmenteu tres ciutats romanes de Catalunya que conservin restes d'edificis termals públics, i expliqueu-ne la funció en la vida d'una ciutat romana.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. Quatre punts obligatoris: (1) nom, descripció i funció de cada sala calenta; (2) sistema de calefacció; (3) tres ciutats de Catalunya amb termes públiques; (4) funció de les termes a la ciutat. No t'entretinguis en el frigidari ni l'apodyterium: no són sales caldejades."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Sales**: *tepidarium* (temperada, de transició), *caldarium* (bany calent: banyeres, pica d'aigua freda), *laconicum* (sauna seca) i *sudatio* (sauna humida).\n2. **Calefacció**: forn de llenya (*praefurnium*); l'aire calent circula per l'***hypocaustum*** (sota el paviment, sostingut per pilaretes) i per les parets dobles.\n3. **Ciutats**: Barcino, Baetulo (Badalona), Iluro (Mataró), Emporiae, Ilerda, Caldes de Montbui...\n4. **Funció**: higiene, exercici físic i vida social."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A les termes romanes, després del vestidor i del frigidari, hi havia les sales caldejades. El ***tepidarium*** era una sala temperada, sovint sense aigua, amb bancs on els banyistes s'asseien per acostumar el cos al canvi de temperatura entre el bany fred i el calent. El ***caldarium*** era la sala del bany calent: tenia banyeres d'aigua calenta amb graons on es reposava i una pica d'aigua freda per refrescar-se. També hi havia dos tipus de sauna: la ***sudatio***, humida, i el ***laconicum***, sauna seca, una sala semicircular amb una obertura al sostre per regular la calor.\n\nAquestes sales s'escalfaven amb un **forn de llenya** (*praefurnium*). L'aire calent circulava per l'***hypocaustum***, un espai buit sota el paviment sostingut per petites columnes de maons, i per la cambra de les parets dobles.\n\nA Catalunya s'han trobat restes de termes públiques a **Barcelona** (*Barcino*), **Badalona** (*Baetulo*), **Empúries** (*Emporiae*), **Lleida** (*Ilerda*) i **Caldes de Montbui** (*Aquae Calidae*).\n\nLes termes tenien una triple funció: mantenir la **higiene** personal, fer **exercici físic** i afavorir la **vida social**: s'hi parlava de política i de negocis, s'hi llegia i s'hi passava bona part de la tarda."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Sales caldejades: *tepidarium* (sala temperada, sense aigua, bancs; adaptació a la temperatura), *caldarium* (bany calent; banyeres amb graons i pica d'aigua freda) i saunes: *sudatio* (humida) i *laconicum* (seca, semicircular, obertura al sostre)."
+          },
+          {
+            "apartat": null,
+            "valor": "Calefacció: forn de llenya subterrani; l'aire calent circula per l'*hypocaustum* (espai buit sota el paviment) i per la doble paret; al lacònic, forats per on sortia vapor."
+          },
+          {
+            "apartat": null,
+            "valor": "Funció: higiene, exercici físic i vida social."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes de termes públiques a Catalunya: Lleida, Barcelona, Badalona, Sant Boi de Llobregat, Empúries, Caldes de Montbui, Caldes de Malavella..."
+          }
+        ],
+        "nota": "La resposta model té unes 190 paraules (el mínim és ~150). Errors típics: descriure el frigidari com a sala caldejada; no explicar l'hipocaust; esmentar ciutats de fora de Catalunya (Mèrida, Pompeia) quan es demanen ciutats catalanes; oblidar la funció social."
+      }
+    }
+  ]
+}

@@ -1,0 +1,808 @@
+{
+  "examen": {
+    "id": "llati-2015-J",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2015,
+    "convocatoria": "juny",
+    "serie": "2",
+    "pdf_examen": "pdfs/llati/2015-J-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2015-J-solucio.pdf",
+    "estructura": "Convocatòria ordinària (juny) de 2015, sèrie 2. Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un fragment de Suetoni, *Vida d'August*, 43 (5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions (A i B): cal triar-ne UNA i fer-ne els tres exercicis. Exercici 2: morfosintaxi sobre el text (1 punt). Exercici 3: llengua, literatura o civilització (2 punts: 4 qüestions d'opció múltiple; 0,5 per resposta correcta, −0,16 per resposta incorrecta, les no contestades no resten). Exercici 4: exposició d'un tema de literatura o civilització (2 punts, mínim 15 línies, unes 150 paraules).\n\nOpció A: 2 (*exstructis* i l'ablatiu absolut), 3 (expressions llatines per a situacions), 4 (la figura i l'obra de Plaute). Opció B: 2 (*nauale proelium*), 3 (personatges femenins del llibre I de Tit Livi), 4 (la ciutat romana de Lleida)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2015-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Suetoni: August supera tothom en la magnificència dels espectacles (caceres, atletes, naumàquia, circ)",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "suetoni",
+        "vida d'august",
+        "august",
+        "ablatiu absolut",
+        "ablatiu de limitació",
+        "oració de relatiu",
+        "espectacles"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Magnificència d'August en l'organització d'espectacles**\n\nAugustus spectaculorum assiduitate et uarietate et magnificentia omnes antecessit. Aliquando uenationem edidit, athletas quoque, exstructis in campo Martio sedilibus ligneis, item nauale proelium circa Tiberim cauato solo, in quo nunc Caesarum nemus est. In circo aurigas cursoresque et confectores ferarum produxit.\n\nGai Suetoni, *Vida d'August*, 43\n\n**Lèxic** (per ordre alfabètic):\n\n- *antecedo, -cessi, -cessum* (3a): 'superar'.\n- *athleta, -ae*: 'espectacle atlètic'.\n- *circa* (preposició d'acusatiu): 'prop de'.\n- *edo, edidi, editum* (3a): 'oferir'.\n- *exstruo, -struxi, -structum* (3a): 'fer construir'.\n- *produco, -duxi, -ductum* (3a): 'presentar'.\n- *solum, -i*: 'terreny'.",
+      "enunciat": "Exercici 1 (comú a les dues opcions). Exercici de traducció [5 punts]. Feu la versió del text següent.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text biogràfic de Suetoni (*Vida d'August*, 43) sobre els espectacles que oferia l'emperador. Val **5 punts**, la meitat de l'examen: dedica-hi uns 40-45 minuts.\n\nMètode: (1) llegeix el títol, que ja et diu de què va (August i els espectacles); (2) marca els **verbs conjugats**: *antecessit*, *edidit*, *est* (dins la relativa *in quo*) i *produxit*: hi ha tres oracions principals i una de relativa; (3) localitza els **dos ablatius absoluts** (*exstructis ... sedilibus ligneis* i *cauato solo*); (4) fixa't que *edidit* té tres CD seguits (*uenationem*, *athletas*, *nauale proelium*); (5) fes una traducció literal i després poleix-la.\n\nParanys: *omnes* és acusatiu (CD de *antecessit*: «tothom»), no nominatiu; *assiduitate, uarietate, magnificentia* són ablatius (de limitació: «en»), no nominatius; *uenationem* és «cacera» com a espectacle d'amfiteatre; *athleta* el lèxic el tradueix per «espectacle atlètic»; *nauale* és un adjectiu neutre que concorda amb *proelium* (no un substantiu); *-que* de *cursoresque* és una conjunció copulativa enclítica."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Augustus spectaculorum assiduitate et uarietate et magnificentia omnes antecessit.*\n\n- Verb: *antecessit*, 3a sg. perfet d'indicatiu actiu de *antecedo* («superar»).\n- **Subjecte**: *Augustus* (nominatiu m. sg.).\n- **CD**: *omnes* (acusatiu m. pl., adjectiu substantivat: «tots», «tothom»).\n- *assiduitate et uarietate et magnificentia*: tres ablatius femenins singulars coordinats amb *et*: **ablatiu de limitació o de relació** (CC: «en la freqüència, la diversitat i la magnificència»).\n- *spectaculorum*: genitiu n. pl. de *spectaculum*, **CN** dels tres ablatius («dels espectacles»).\n\nLiteral: «August va superar tots en la freqüència i la varietat i la magnificència dels espectacles.»"
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració (amb dos ablatius absoluts i una relativa)",
+            "cos": "*Aliquando uenationem edidit, athletas quoque, exstructis in campo Martio sedilibus ligneis, item nauale proelium circa Tiberim cauato solo, in quo nunc Caesarum nemus est.*\n\n- Verb principal: *edidit*, 3a sg. perfet d'indicatiu de *edo* («oferir»). Subjecte sobreentès: August.\n- *Aliquando*: adverbi, CC de temps («de vegades»).\n- **Tres CD** coordinats per *quoque* («també») i *item* («igualment»): *uenationem* (acusatiu f. sg.: «una cacera»), *athletas* (acusatiu m. pl.: «espectacles atlètics») i *nauale proelium* (acusatiu n. sg.: «un combat naval»; *nauale* és l'adjectiu que concorda amb *proelium*).\n- *exstructis in campo Martio sedilibus ligneis*: **ablatiu absolut**. *exstructis* és participi perfet passiu de *exstruo* en ablatiu pl., concordat amb *sedilibus* (subjecte del participi), que porta l'adjectiu *ligneis*. *in campo Martio*: *in* + ablatiu, CC de lloc on. Literal: «construïts uns seients de fusta al Camp de Mart».\n- *circa Tiberim cauato solo*: **ablatiu absolut**. *cauato* (participi perfet passiu de *cauo*, «excavar») concorda amb *solo* (ablatiu de *solum*, «terreny»). *circa Tiberim*: *circa* + acusatiu, CC de lloc («prop del Tíber»). Literal: «excavat el terreny prop del Tíber».\n- *in quo nunc Caesarum nemus est*: **subordinada adjectiva de relatiu**. *quo* (ablatiu n. sg.) té per antecedent *solo*; *in quo*: CC de lloc on («en el qual»). Verb *est* (present d'indicatiu de *sum*); **subjecte** *nemus* (nominatiu n. sg.); *Caesarum*: genitiu pl., **CN** de *nemus*; *nunc*: CC de temps.\n\nLiteral: «De vegades va oferir una cacera, també espectacles atlètics, construïts uns seients de fusta al Camp de Mart, igualment un combat naval, excavat el terreny prop del Tíber, en el qual ara hi ha el bosc dels Cèsars.»"
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*In circo aurigas cursoresque et confectores ferarum produxit.*\n\n- Verb: *produxit*, 3a sg. perfet d'indicatiu de *produco* («presentar»). Subjecte sobreentès: August.\n- *In circo*: *in* + ablatiu, CC de lloc on («al circ»).\n- **CD**: *aurigas*, *cursores* i *confectores*, tres acusatius m. pl. coordinats amb *-que* i *et* («aurigues, corredors i matadors»).\n- *ferarum*: genitiu f. pl. de *fera*, **CN** de *confectores* («de feres»).\n\nLiteral: «Al circ va presentar aurigues i corredors i matadors de feres.»"
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "August va superar tots en la freqüència i la varietat i la magnificència dels espectacles. De vegades va oferir una cacera, també espectacles atlètics, construïts uns seients de fusta al Camp de Mart, igualment un combat naval, excavat el terreny prop del Tíber, en el qual ara hi ha el bosc dels Cèsars. Al circ va presentar aurigues i corredors i matadors de feres."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "August va superar tothom en la freqüència, la diversitat i la magnificència dels espectacles. De vegades va oferir caceres; també espectacles atlètics, després de fer construir uns seients de fusta al Camp de Mart, i igualment un combat naval, després d'excavar el terreny prop del Tíber, on ara hi ha el bosc dels Cèsars. Al circ va presentar aurigues, corredors i matadors de feres."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial orientativa: «August va superar tothom en la freqüència, la diversitat i la magnificència dels espectacles. De vegades va oferir caceres; també espectacles atlètics, després de fer construir uns bancs de fusta al Camp de Mart, igualment (va oferir) un combat naval després d'excavar el terreny prop del Tíber, en el qual ara hi ha el bosc dels Cèsars. En el circ va presentar aurigues, corredors i matadors de feres.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Punts clau: *omnes* CD de *antecessit*; ablatius de limitació *assiduitate, uarietate, magnificentia* amb el genitiu *spectaculorum*; tres CD de *edidit* (*uenationem*, *athletas*, *nauale proelium*); ablatius absoluts *exstructis ... sedilibus ligneis* i *cauato solo*; relativa *in quo ... est* (subjecte *nemus*, CN *Caesarum*); CD *aurigas, cursores, confectores* amb el genitiu *ferarum*."
+          }
+        ],
+        "nota": "La pauta diu que la versió correcta pot adoptar formes diferents: els ablatius absoluts es poden traduir amb participi («construïts uns seients»), amb «després de» + infinitiu (com fa l'oficial) o amb una subordinada temporal («quan va haver fet construir»). *exstruo* el lèxic el dona com a «fer construir», i *uenatio* és la cacera com a espectacle (lluita amb feres a l'amfiteatre), no una cacera al bosc. Errors típics: prendre *omnes* com a subjecte; no reconèixer els ablatius absoluts i traduir *sedilibus* o *solo* com a complements de lloc; traduir *nauale* com a substantiu («nau») en lloc d'adjectiu; oblidar el *-que* enclític. El «bosc dels Cèsars» (*nemus Caesarum*) era un bosquet dedicat als néts d'August, Gai i Luci Cèsar."
+      }
+    },
+    {
+      "id": "llati-2015-J-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: concordança d'exstructis i l'ablatiu absolut exstructis in campo Martio sedilibus ligneis",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi de perfet",
+        "concordança",
+        "suetoni"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Magnificència d'August en l'organització d'espectacles**\n\nAugustus spectaculorum assiduitate et uarietate et magnificentia omnes antecessit. Aliquando uenationem edidit, athletas quoque, exstructis in campo Martio sedilibus ligneis, item nauale proelium circa Tiberim cauato solo, in quo nunc Caesarum nemus est. In circo aurigas cursoresque et confectores ferarum produxit.\n\nGai Suetoni, *Vida d'August*, 43",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de morfosintaxi [1 punt]. En la frase «[Augustus] athletas quoque [edidit], exstructis in campo Martio sedilibus ligneis», digueu amb quin mot concorda *exstructis* i com s'anomena l'estructura sintàctica *exstructis in campo Martio sedilibus ligneis*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 de l'opció A (1 punt, uns 10 minuts). Dues preguntes curtes: (1) amb quin mot concorda el participi *exstructis*; (2) el nom de l'estructura. Respon amb frases completes i justifica breument la concordança (cas, gènere i nombre)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*exstructis* és participi perfet passiu de *exstruo*, en ablatiu plural. Busca a la frase un nom en ablatiu plural: *sedilibus* (ablatiu pl. neutre de *sedile*, «seient»), que també porta l'adjectiu *ligneis* (ablatiu pl.). Participi + nom en ablatiu, sense relació gramatical amb cap element de l'oració principal (el subjecte d'*edidit* és August), és un **ablatiu absolut** (construcció de participi no concertat), que funciona com a CC (temporal: «després de fer construir...»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Exstructis* (participi perfet passiu de *exstruo*, ablatiu plural neutre) concorda amb **sedilibus** (ablatiu plural neutre de *sedile*). L'estructura *exstructis in campo Martio sedilibus ligneis* és una **construcció de participi no concertat o ablatiu absolut**: *sedilibus* (amb l'adjectiu *ligneis*) en fa de subjecte, *exstructis* és el nucli verbal i *in campo Martio* n'és el CC de lloc. Equival a una subordinada adverbial temporal: «després de fer construir uns seients de fusta al Camp de Mart»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Exstructis* concorda amb *sedilibus*; l'estructura és una construcció de participi no concertat o ablatiu absolut."
+          }
+        ],
+        "nota": "Errors típics: dir que *exstructis* concorda amb *ligneis* (també és ablatiu plural, però és un adjectiu, no el nom nucli) o amb *campo* (és singular); anomenar-la «participi concertat» (no té relació amb cap element de la principal)."
+      }
+    },
+    {
+      "id": "llati-2015-J-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: anàlisi de nauale, concordança amb proelium i funció de CD d'edidit",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "adjectiu de la 3a declinació",
+        "concordança",
+        "complement directe",
+        "suetoni"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Magnificència d'August en l'organització d'espectacles**\n\nAugustus spectaculorum assiduitate et uarietate et magnificentia omnes antecessit. Aliquando uenationem edidit, athletas quoque, exstructis in campo Martio sedilibus ligneis, item nauale proelium circa Tiberim cauato solo, in quo nunc Caesarum nemus est. In circo aurigas cursoresque et confectores ferarum produxit.\n\nGai Suetoni, *Vida d'August*, 43",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de morfosintaxi [1 punt]. En la frase «Aliquando uenationem edidit, athletas quoque, […], item nauale proelium circa Tiberim», analitzeu morfològicament *nauale* i digueu amb quin mot concorda i quina funció sintàctica hi fan els dos mots.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 de l'opció B (1 punt, uns 10 minuts). Tres coses: (1) anàlisi morfològica de *nauale* (cas, gènere, nombre); (2) amb quin mot concorda; (3) quina funció fan els dos mots junts. No n'oblidis cap."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*nauale* és un adjectiu de la 3a declinació de dues terminacions (*naualis, -e*). La forma en *-e* és neutre singular, que pot ser nominatiu o acusatiu. Concorda amb *proelium* (neutre singular). Per decidir el cas, mira l'estructura: *item* coordina *nauale proelium* amb *uenationem* i *athletas*, que són acusatius CD de *edidit*; per tant és acusatiu i fa de **CD de edidit** («va oferir... un combat naval»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Nauale* és un adjectiu de la 3a declinació (*naualis, -e*) en **acusatiu singular neutre**. Concorda amb **proelium** (acusatiu singular neutre de *proelium, -i*). Els dos mots, *nauale proelium* («un combat naval»), fan la funció de **complement directe de edidit**, coordinat per *item* amb els altres CD, *uenationem* i *athletas*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Nauale*: acusatiu singular neutre; concorda amb *proelium*; fan de complement directe d'*edidit*."
+          }
+        ],
+        "nota": "Errors típics: analitzar *nauale* com a nominatiu i fer de *nauale proelium* el subjecte (el subjecte d'*edidit* és August, sobreentès); confondre'l amb un ablatiu de la 3a declinació en *-e*; oblidar el gènere neutre."
+      }
+    },
+    {
+      "id": "llati-2015-J-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Expressió llatina «in dubio pro reo»: en cas de dubte, a favor de l'acusat",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "in dubio pro reo",
+        "llatinismes",
+        "dret romà",
+        "alea iacta est",
+        "non plus ultra"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra de l'opció que correspon a l'expressió llatina més adequada per a descriure la situació següent.\n\n1. Un professor que sospita que l'estudiant ha copiat a l'examen, però, com que no en té la prova concloent, l'aprova.",
+      "figures": [],
+      "opcions": {
+        "a": "*Alea iacta est.*",
+        "b": "*Volens nolens.*",
+        "c": "*Non plus ultra.*",
+        "d": "*In dubio pro reo.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: 4 situacions, cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten). Tradueix mentalment cada expressió i tria la que descriu la situació; respon només si tens un indici raonable."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*In dubio pro reo* vol dir «en el dubte, a favor de l'acusat»: és un principi del dret (d'arrel romana) segons el qual, si no hi ha proves concloents, cal afavorir l'acusat. És exactament el que fa el professor. Les altres: *alea iacta est* («la sort està tirada», Cèsar al Rubicó: decisió irrevocable); *volens nolens* («vulgui o no vulgui»); *non plus ultra* («no més enllà»: el súmmum, el màxim)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "1d) *In dubio pro reo.*"
+          }
+        ],
+        "nota": "Moltes d'aquestes expressions provenen del dret romà o d'autors llatins (Horaci, Cèsar) i encara s'usen avui; repassa-les amb la traducció literal, que és la millor pista per descartar opcions."
+      }
+    },
+    {
+      "id": "llati-2015-J-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Expressió llatina «aurea mediocritas»: el just terme mitjà d'Horaci",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "aurea mediocritas",
+        "horaci",
+        "llatinismes",
+        "beatus ille",
+        "veni vidi vici"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra de l'opció que correspon a l'expressió llatina més adequada per a descriure la situació següent.\n\n2. Un individu que pensa que la millor actitud a la vida és passar desapercebut, sense destacar en cap sentit.",
+      "figures": [],
+      "opcions": {
+        "a": "*Aurea mediocritas.*",
+        "b": "*Beatus ille.*",
+        "c": "*Veni, vidi, vici.*",
+        "d": "*Coitus interruptus.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: 4 situacions, cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten). Tradueix mentalment cada expressió i tria la que descriu la situació; respon només si tens un indici raonable."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Aurea mediocritas* («la daurada mediocritat», el just terme mitjà) és una expressió d'**Horaci** (*Odes* II, 10): la millor manera de viure és allunyar-se dels extrems, sense ambicionar riqueses ni glòria, és a dir, sense destacar. Les altres: *beatus ille* («feliç aquell», també d'Horaci, l'elogi de la vida al camp); *veni, vidi, vici* («vaig venir, vaig veure, vaig vèncer», Cèsar: un èxit ràpid); *coitus interruptus* (no té res a veure amb la situació)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "2a) *Aurea mediocritas.*"
+          }
+        ],
+        "nota": "Moltes d'aquestes expressions provenen del dret romà o d'autors llatins (Horaci, Cèsar) i encara s'usen avui; repassa-les amb la traducció literal, que és la millor pista per descartar opcions."
+      }
+    },
+    {
+      "id": "llati-2015-J-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Expressió llatina «pacta sunt servanda»: els pactes s'han de complir",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "pacta sunt servanda",
+        "llatinismes",
+        "dret romà",
+        "perifràstica passiva",
+        "conditio sine qua non"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra de l'opció que correspon a l'expressió llatina més adequada per a descriure la situació següent.\n\n3. Un país que exigeix que es compleixin els acords signats amb un altre país.",
+      "figures": [],
+      "opcions": {
+        "a": "*Conditio sine qua non.*",
+        "b": "*Verba volant, scripta manent.*",
+        "c": "*Pacta sunt servanda.*",
+        "d": "*Pro rata parte.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: 4 situacions, cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten). Tradueix mentalment cada expressió i tria la que descriu la situació; respon només si tens un indici raonable."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Pacta sunt servanda* vol dir «els pactes s'han de complir» (perifràstica passiva d'obligació: *servanda sunt*). És el principi bàsic del dret internacional i dels contractes. Les altres: *conditio sine qua non* («condició sense la qual no», requisit imprescindible); *verba volant, scripta manent* («les paraules volen, els escrits queden»); *pro rata parte* («segons la part proporcional»)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "3c) *Pacta sunt servanda.*"
+          }
+        ],
+        "nota": "Moltes d'aquestes expressions provenen del dret romà o d'autors llatins (Horaci, Cèsar) i encara s'usen avui; repassa-les amb la traducció literal, que és la millor pista per descartar opcions."
+      }
+    },
+    {
+      "id": "llati-2015-J-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Expressió llatina «ignorantia legis non excusat»: no conèixer la llei no eximeix de complir-la",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ignorantia legis non excusat",
+        "llatinismes",
+        "dret romà",
+        "dura lex sed lex",
+        "errare humanum est"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra de l'opció que correspon a l'expressió llatina més adequada per a descriure la situació següent.\n\n4. Un individu que discuteix la seva responsabilitat en una falta comesa, al·legant desconeixement de la norma que la regula.",
+      "figures": [],
+      "opcions": {
+        "a": "*De gustibus non disputandum.*",
+        "b": "*Ignorantia legis non excusat.*",
+        "c": "*Dura lex, sed lex.*",
+        "d": "*Errare humanum est.*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: 4 situacions, cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten). Tradueix mentalment cada expressió i tria la que descriu la situació; respon només si tens un indici raonable."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Ignorantia legis non excusat* («la ignorància de la llei no excusa») és el principi jurídic que respon a qui al·lega que no coneixia la norma: el desconeixement no l'eximeix de la responsabilitat. Les altres: *de gustibus non disputandum* («sobre gustos no s'hi ha de discutir»); *dura lex, sed lex* («la llei és dura, però és la llei»: no parla del desconeixement sinó de la duresa); *errare humanum est* («equivocar-se és humà»)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "4b) *Ignorantia legis non excusat.*"
+          }
+        ],
+        "nota": "Moltes d'aquestes expressions provenen del dret romà o d'autors llatins (Horaci, Cèsar) i encara s'usen avui; repassa-les amb la traducció literal, que és la millor pista per descartar opcions."
+      }
+    },
+    {
+      "id": "llati-2015-J-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Tit Livi, llibre I: Rea Sílvia, la vestal mare de Ròmul i Rem",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "tit livi",
+        "ab urbe condita",
+        "rea sílvia",
+        "ròmul i rem",
+        "amuli",
+        "vestals"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra de l'opció que identifica el personatge femení esmentat en el primer llibre de la *Història de Roma*, de Tit Livi, a què fa referència el fragment següent.\n\n1. «Embarassada per la força, la vestal va infantar bessonada i va dir que Mart era el pare de la seva descendència. Però ni els déus ni els homes no van alliberar la mare de la crueltat del rei Amuli: la sacerdotessa fou encadenada en una presó i el rei manà que els nens fossin precipitats al riu Tíber.» (1, 5)",
+      "figures": [],
+      "opcions": {
+        "a": "Venus.",
+        "b": "Lavínia.",
+        "c": "Rea Sílvia.",
+        "d": "Hersília."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: 4 fragments, cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten). Busca al fragment les pistes clau (noms d'altres personatges, fets cèlebres) i relaciona-les amb el llibre I de Livi (orígens de Roma i època monàrquica)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Pistes: «vestal», «bessonada», «Mart era el pare», «rei Amuli», «Tíber». És **Rea Sílvia**, filla de Númitor, rei d'Alba Longa. El seu oncle Amuli va destronar Númitor i la va fer vestal (obligada a la virginitat) perquè no tingués descendència; tot i això va tenir els bessons **Ròmul i Rem**, que van ser abandonats al Tíber i alletats per la lloba. Les altres: Venus és la deessa mare d'Enees; Lavínia, la filla del rei Llatí i esposa d'Enees; Hersília, la dona sabina esposa de Ròmul."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "1c) Rea Sílvia."
+          }
+        ],
+        "nota": "El llibre I d'*Ab urbe condita* va dels orígens (Enees, Alba Longa) fins a la fi de la monarquia. Les dones que hi surten (Rea Sílvia, Tarpeia, les sabines, Horàcia, Tanaquil, Túl·lia, Lucrècia) són sovint *exempla* morals: memoritza'n el rei amb qui es relacionen i el fet clau."
+      }
+    },
+    {
+      "id": "llati-2015-J-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Tit Livi, llibre I: Lucrècia, violada per Sext Tarquini, se suïcida",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "tit livi",
+        "ab urbe condita",
+        "lucrècia",
+        "sext tarquini",
+        "tarquini el superb",
+        "fi de la monarquia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra de l'opció que identifica el personatge femení esmentat en el primer llibre de la *Història de Roma*, de Tit Livi, a què fa referència el fragment següent.\n\n2. «Ella va respondre al marit i al pare: \"Vosaltres veureu el que Sext Tarquini es mereix: jo, encara que m'absolc de la falta, no m'allibero del càstig; cap dona no podrà viure sense honor amb l'excusa de ser com jo\". Un ganivet que tenia amagat sota el vestit, se'l va enfonsar al cor i va caure moribunda.» (1, 58)",
+      "figures": [],
+      "opcions": {
+        "a": "Tanaquil.",
+        "b": "Lucrècia.",
+        "c": "Túl·lia.",
+        "d": "Egèria."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: 4 fragments, cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten). Busca al fragment les pistes clau (noms d'altres personatges, fets cèlebres) i relaciona-les amb el llibre I de Livi (orígens de Roma i època monàrquica)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Pistes: «Sext Tarquini», el suïcidi amb un ganivet i la idea de l'honor. És **Lucrècia**, esposa de Col·latí, violada per Sext Tarquini, fill del rei Tarquini el Superb. El seu suïcidi va provocar la revolta encapçalada per Brut que va expulsar els Tarquinis i va posar fi a la monarquia (509 aC): és el model de la *pudicitia* de la matrona romana. Les altres: Tanaquil, l'esposa de Tarquini Prisc; Túl·lia, la filla de Servi Tul·li que va passar amb el carro per sobre del cadàver del seu pare; Egèria, la nimfa consellera de Numa."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "2b) Lucrècia."
+          }
+        ],
+        "nota": "El llibre I d'*Ab urbe condita* va dels orígens (Enees, Alba Longa) fins a la fi de la monarquia. Les dones que hi surten (Rea Sílvia, Tarpeia, les sabines, Horàcia, Tanaquil, Túl·lia, Lucrècia) són sovint *exempla* morals: memoritza'n el rei amb qui es relacionen i el fet clau."
+      }
+    },
+    {
+      "id": "llati-2015-J-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Tit Livi, llibre I: Horàcia, morta pel seu germà després del combat dels Horacis i els Curiacis",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "tit livi",
+        "ab urbe condita",
+        "horàcia",
+        "horacis i curiacis",
+        "tul·li hostili"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra de l'opció que identifica el personatge femení esmentat en el primer llibre de la *Història de Roma*, de Tit Livi, a què fa referència el fragment següent.\n\n3. «Ella, que havia estat promesa a un dels Curiacis, va sortir a l'encontre del seu germà davant la porta Capena. Quan va reconèixer sobre les seves espatlles el mantell del promès, que ella mateixa havia fet, plorant va cridar el nom del promès mort. Al germà, el va irritar el plany de la germana davant la seva victòria; va desembeinar l'espasa i, mentre la reprenia amb paraules, la va travessar.» (1, 26)",
+      "figures": [],
+      "opcions": {
+        "a": "Horàcia.",
+        "b": "Tarpeia.",
+        "c": "Tarquínia.",
+        "d": "Lucrècia."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: 4 fragments, cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten). Busca al fragment les pistes clau (noms d'altres personatges, fets cèlebres) i relaciona-les amb el llibre I de Livi (orígens de Roma i època monàrquica)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Pistes: «promesa a un dels Curiacis», el germà victoriós. És **Horàcia**, germana dels Horacis. En temps del rei Tul·li Hostili, Roma i Alba Longa van decidir la guerra amb un combat entre tres germans romans (els Horacis) i tres albans (els Curiacis). L'únic Horaci supervivent, en tornar victoriós, va matar la seva germana perquè plorava el seu promès Curiaci («que mori així tota romana que plori un enemic»). Les altres: Tarpeia, la traïdora del Capitoli; Tarquínia (nom de dona de la família dels Tarquinis); Lucrècia, la víctima de Sext Tarquini."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "3a) Horàcia."
+          }
+        ],
+        "nota": "El llibre I d'*Ab urbe condita* va dels orígens (Enees, Alba Longa) fins a la fi de la monarquia. Les dones que hi surten (Rea Sílvia, Tarpeia, les sabines, Horàcia, Tanaquil, Túl·lia, Lucrècia) són sovint *exempla* morals: memoritza'n el rei amb qui es relacionen i el fet clau."
+      }
+    },
+    {
+      "id": "llati-2015-J-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Tit Livi, llibre I: Tarpeia, la traïdora que obrí la ciutadella als sabins",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "tit livi",
+        "ab urbe condita",
+        "tarpeia",
+        "sabins",
+        "titus taci",
+        "roca tarpeia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici de llengua, literatura o civilització romanes [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra de l'opció que identifica el personatge femení esmentat en el primer llibre de la *Història de Roma*, de Tit Livi, a què fa referència el fragment següent.\n\n4. «La filla del comandant de la ciutadella de Roma va ser subornada per Taci amb or, per tal que obrís la fortalesa als seus soldats. Els que hi van entrar la van matar, esclafant-la amb el pes de les armes. La llegenda afegeix que els sabins, que portaven braçalets d'or que pesaven molt al braç esquerre, havien promès a la noia que li donarien el que duien a la mà esquerra; per això van apilar sobre el seu cos els escuts en comptes dels braçalets d'or.» (1, 11)",
+      "figures": [],
+      "opcions": {
+        "a": "Rea Sílvia.",
+        "b": "Lucrècia.",
+        "c": "Tarpeia.",
+        "d": "Lavínia."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció B (2 punts en total: 4 fragments, cada resposta correcta val 0,5 punts; cada resposta incorrecta **descompta 0,16 punts**; les no contestades no descompten). Busca al fragment les pistes clau (noms d'altres personatges, fets cèlebres) i relaciona-les amb el llibre I de Livi (orígens de Roma i època monàrquica)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Pistes: «Taci» (Titus Taci, rei dels sabins), la traïció per or, la mort sota els escuts. És **Tarpeia**, filla de Spuri Tarpeu, comandant de la ciutadella del Capitoli en la guerra contra els sabins (després del rapte de les sabines). D'ella prové el nom de la **roca Tarpeia**, des d'on es llançaven els traïdors. Les altres: Rea Sílvia, la mare de Ròmul i Rem; Lucrècia, la víctima de Sext Tarquini; Lavínia, l'esposa d'Enees."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "4c) Tarpeia."
+          }
+        ],
+        "nota": "El llibre I d'*Ab urbe condita* va dels orígens (Enees, Alba Longa) fins a la fi de la monarquia. Les dones que hi surten (Rea Sílvia, Tarpeia, les sabines, Horàcia, Tanaquil, Túl·lia, Lucrècia) són sovint *exempla* morals: memoritza'n el rei amb qui es relacionen i el fet clau."
+      }
+    },
+    {
+      "id": "llati-2015-J-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Plaute: biografia, la fabula palliata, l'objectiu còmic, els personatges tipus i les obres",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "plaute",
+        "comèdia",
+        "fabula palliata",
+        "contaminatio",
+        "seruus callidus",
+        "aulularia",
+        "miles gloriosus"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici d'exposició d'un tema de literatura o de civilització romanes [2 punts]. Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: **La figura i l'obra de Plaute**. Escriviu-ne les dades biogràfiques; digueu el gènere literari que va conrear i expliqueu-ne les característiques generals; esmenteu l'objectiu de la seva obra, enumereu-ne les característiques singulars i escriviu, com a mínim, el títol de quatre de les seves obres.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **2 punts** (uns 20-25 minuts). Text expositiu de mínim 15 línies (~150 paraules); millor 200-300. La consigna és una llista de control de cinc punts: biografia, gènere i característiques, objectiu, trets singulars i **quatre títols** com a mínim (és un requisit explícit: si en poses menys, perds punts)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Biografia**: Sàrsina (Úmbria), mitjan s. III aC; companyia teatral a Roma; ruïna i molí; èxit com a autor; mort el 184 aC.\n2. **Gènere**: comèdia, *fabula palliata* (model grec, ambient i personatges grecs, *pallium*), *contaminatio*.\n3. **Objectiu**: divertir el públic.\n4. **Trets singulars**: arguments semblants, personatges tipus (esclau astut protagonista), parts parlades, recitades i cantades, riquesa lingüística.\n5. **Obres**: *Aulularia*, *Miles gloriosus*, *Amphitruo*, *Menaechmi*, *Curculio*..."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Tit Macci Plaute** va néixer a Sàrsina, a l'Úmbria, cap a mitjan segle III aC. Jove encara, es va traslladar a Roma, on va treballar en una companyia teatral. Segons la tradició, va perdre en negocis comercials els diners que havia guanyat i es va arruïnar, de manera que va haver de fer girar la mola d'un molí per pagar els deutes. Després es va dedicar a escriure i representar les seves pròpies comèdies, amb gran èxit. Va morir a Roma el 184 aC.\n\nVa conrear la **comèdia**, concretament la ***fabula palliata***: comèdies imitades de la comèdia nova grega (Menandre, Dífil, Filèmon), ambientades a Grècia i amb personatges grecs vestits amb el *pallium*. Sovint hi afegia escenes d'altres obres, procediment anomenat ***contaminatio***.\n\nEl seu objectiu era simplement **divertir el públic**. Els arguments són semblants (embolics amorosos, confusions, reconeixements) i els personatges, tipus fixos: el jove enamorat, el vell avar, el soldat fanfarró, el paràsit, l'alcavot i, sobretot, l'**esclau astut** (*seruus callidus*), autèntic protagonista. Les seves obres alternen parts parlades, recitades i cantades (*cantica*), i destaquen per la riquesa i la vivacitat del llenguatge: jocs de paraules, neologismes, acudits.\n\nSe li atribueixen vint-i-una comèdies, entre les quals *Aulularia* (La comèdia de l'olla), *Miles gloriosus* (El soldat fanfarró), *Amphitruo* (Amfitrió), *Menaechmi* (Els Menecmes) i *Curculio* (El corc)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Biografia: Tit Macci Plaute, nascut a Sàrsina a mitjan s. III aC; actor en una companyia teatral a Roma; arruïnat en negocis, va treballar en un molí; després, autor d'èxit; mort a Roma el 184 aC."
+          },
+          {
+            "apartat": null,
+            "valor": "Gènere: *fabulae palliatae*, comèdies imitades d'originals grecs, amb *contaminatio*; acció a Grècia i personatges grecs amb *pallium*."
+          },
+          {
+            "apartat": null,
+            "valor": "Objectiu: divertir el públic; arguments similars i personatges fixos i estereotipats, amb el *seruus* embolicaire com a protagonista; escenes parlades, declamades i cantades; gran riquesa estilística i lingüística."
+          },
+          {
+            "apartat": null,
+            "valor": "Almenys quatre títols dels 21 atribuïts: *Aulularia*, *Miles gloriosus*, *Curculio*, *Amphitruo* (o d'altres)."
+          }
+        ],
+        "nota": "La resposta model fa unes 215 paraules. La pauta avisa que el seu redactat és un model que no cal reproduir. Errors típics: confondre Plaute amb Terenci (més tardà, més refinat i menys bufó); dir que les obres són ambientades a Roma (això seria la *fabula togata*); oblidar els quatre títols."
+      }
+    },
+    {
+      "id": "llati-2015-J-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "La ciutat romana de Lleida (Ilerda): Iltirta i els ilergetes, fundació, Sicoris, municipi i la batalla del 49 aC",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "ilerda",
+        "lleida",
+        "ilergetes",
+        "iltirta",
+        "sicoris",
+        "municipium",
+        "cèsar",
+        "pompeu"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici d'exposició d'un tema de literatura o de civilització romanes [2 punts]. Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: **La ciutat romana de Lleida**. Digueu el nom del nucli ibèric anterior a la fundació romana i el de la tribu ibèrica que hi vivia; digueu el nom llatí de la ciutat i la cronologia de la seva fundació, i descriviu-ne la situació estratègica; esmenteu-ne la important via de comunicació fluvial, i digueu l'estatut jurídic que va obtenir a finals del segle I aC. Referiu-vos al conflicte bèl·lic més important de què va ser escenari, a l'època en què va succeir i als generals que el van protagonitzar. Esmenteu algunes restes romanes que s'hi hagin conservat o de les quals es tingui notícia certa.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **2 punts** (uns 20-25 minuts). Text expositiu de mínim 15 línies (~150 paraules); millor 200-300. La consigna és molt detallada: fes servir cada petició com a punt de control (nucli ibèric, tribu, nom llatí, cronologia, situació, riu, estatut jurídic, guerra, època, generals, restes) i no te'n deixis cap, perquè cada dada compta."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Precedent ibèric**: Iltirta, capital dels ilergetes.\n2. **Fundació**: *Ilerda*, començaments del s. I aC (restes de finals del s. II aC).\n3. **Situació estratègica**: turó de la Seu Vella, domina la plana del Segrià; pas entre la costa (Tàrraco, Bàrcino) i l'interior.\n4. **Riu**: el *Sicoris* (Segre).\n5. **Estatut**: *municipium* amb August.\n6. **Conflicte**: batalla d'Ilerda, 49 aC, guerra civil entre Cèsar i els pompeians (Afrani i Petrei).\n7. **Restes**: muralles, termes, *domus*, tram del *cardo*, pont sobre el Segre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Abans de la ciutat romana, a la zona hi havia **Iltirta**, el nucli ibèric que era la capital dels **ilergetes**, la tribu ibèrica que dominava la plana occidental de Catalunya.\n\nLa ciutat romana, ***Ilerda***, es va fundar probablement a començaments del **segle I aC**, tot i que hi ha restes romanes de finals del segle II aC. S'alçava sobre un turó, l'actual turó de la Seu Vella, que dominava tota la plana del Segrià, i era una cruïlla de camins estratègica: el pas més còmode per anar des de la costa (Tàrraco o Bàrcino) cap a l'interior de la península. A més, tenia una important via de comunicació fluvial, el riu ***Sicoris*** (el Segre). En època de l'emperador **August**, a finals del segle I aC, va obtenir l'estatut de ***municipium***.\n\nVa ser escenari de la **batalla d'Ilerda** (49 aC), un dels episodis més importants de la **guerra civil** entre **Juli Cèsar** i els partidaris de **Pompeu** (els llegats Afrani i Petrei), que Cèsar va guanyar.\n\nDe la ciutat, d'unes 23 hectàrees i emmurallada, es conserven restes d'un complex termal, d'algunes *domus* i d'un tram d'un carrer principal (*cardo*), i es té notícia certa d'un pont romà sobre el Segre."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Iltirta, nucli ibèric capital dels ilergetes; ciutat romana *Ilerda*, fundada probablement a començaments del s. I aC (restes de finals del s. II aC)."
+          },
+          {
+            "apartat": null,
+            "valor": "Situació estratègica: turó de la Seu Vella, domina la plana del Segrià; cruïlla de comunicacions entre la costa (Tàrraco, Bàrcino) i l'interior; via fluvial: el riu *Sicoris*."
+          },
+          {
+            "apartat": null,
+            "valor": "Estatut de *municipium* en època d'August."
+          },
+          {
+            "apartat": null,
+            "valor": "Batalla de la guerra civil de l'any 49 aC entre els exèrcits de Cèsar i de Pompeu."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes: muralles (ciutat d'unes 23 ha), complex termal, *domus*, tram del *cardo*; notícia certa d'un pont sobre el Segre."
+          }
+        ],
+        "nota": "La resposta model fa unes 199 paraules. La pauta parla dels «exèrcits comandats per Pompeu i Cèsar»; en realitat Pompeu era a Grècia i els pompeians d'Ilerda els comandaven els seus llegats Afrani i Petrei (Cèsar, *Guerra civil*, I): esmentar Cèsar i Pompeu com a bàndols és suficient. Errors típics: confondre els ilergetes amb els laietans (Bàrcino) o els cossetans (Tàrraco); dir que el riu és l'Ebre; dir que va ser colònia (va ser municipi)."
+      }
+    }
+  ]
+}

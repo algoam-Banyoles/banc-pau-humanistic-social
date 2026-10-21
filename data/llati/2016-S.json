@@ -1,0 +1,795 @@
+{
+  "examen": {
+    "id": "llati-2016-S",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2016,
+    "convocatoria": "setembre",
+    "serie": "1",
+    "pdf_examen": "pdfs/llati/2016-S-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2016-S-solucio.pdf",
+    "estructura": "Sèrie 1, convocatòria de setembre. Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un text de Cèsar (*Guerra de les Gàl·lies*, III, 1, 1-4; 5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B). Opció A: 2. morfosintaxi, l'oració d'infinitiu *iter per Alpes patefieri* (1 punt); 3. completar quatre frases amb llatinismes triats d'una llista (2 punts, 0,5 per encert, els errors no es penalitzen); 4. exposició sobre un fragment de l'*Eneida* (Mercuri, Eneas i Dido) i la relació de Virgili amb August i Mecenas (2 punts, mínim 15 línies, ~150 paraules). Opció B: 2. morfosintaxi, el *cum* de «Cum in Italiam proficisceretur» (1 punt); 3. quatre preguntes d'opció múltiple sobre autors llatins (2 punts, 0,5 per encert, −0,16 per error, les no contestades no descompten); 4. exposició: Tàrraco i Emèrita Augusta comparades (2 punts, mínim 15 línies, ~150 paraules)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2016-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Cèsar: Galba obre un camí pels Alps i hiverna a Octodurus",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "cèsar",
+        "de bello gallico",
+        "cum històric",
+        "oració causal",
+        "oració d'infinitiu",
+        "ablatiu absolut",
+        "oració de relatiu"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2
+      ],
+      "text": "**Enviat per Cèsar, Galba obre un camí a través dels Alps i s'instal·la entre els nantuates**\n\nCum in Italiam proficisceretur, Caesar Galbam cum legione XII et parte equitum in Nantuates misit, quod iter per Alpes patefieri uolebat. Galba, castellis expugnatis, constituit cohortes duas in Nantuatibus collocare et ipse cum reliquis cohortibus in uico, qui appellabatur Octodurus, hiemare.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, III, 1, 1-4\n\n**Lèxic** (informació del diccionari):\n\n- *appello* (1a, tr.): 'anomenar'.\n- *colloco* (1a, tr.): 'establir'.\n- *constituo, -ui, -utum* (3a, tr.): 'decidir'.\n- *eques, -itis* (m.): 'genet'.\n- *Galba, -ae* (m.): 'Galba' (nom de persona).\n- *mitto, misi, missum* (3a, tr.): 'enviar'.\n- *Nantuates, -um* (m. pl.): 'nantuates' (habitants d'una regió de la Gàl·lia).\n- *Octodurus, -i* (m.): 'Octodurus' (nom de població).\n- *patefieri* (infinitiu passiu de *patefacio, -feci, -factum* [3a, tr.]): 'obrir'.\n- *proficiscor, profectus sum* (3a dep., intr.): 'dirigir-se'.\n- *uicus, -i* (m.): 'poblet'.",
+      "enunciat": "Feu la versió del text següent (5 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de Cèsar (*De bello Gallico*, III, 1: tardor del 57 aC) amb **dues oracions** llargues separades per punt. Val **5 punts**, la meitat de l'examen: dedica-hi uns 40 minuts.\n\nMètode: (1) llegeix el títol, que ja et dona el sentit (Cèsar envia Galba, que obre un camí pels Alps i s'instal·la entre els nantuates); (2) localitza els **verbs conjugats**: *proficisceretur*, *misit*, *uolebat*, *constituit*, *appellabatur*; (3) identifica les estructures: *cum* amb subjuntiu, *quod* causal amb indicatiu i una **oració d'infinitiu** (*iter ... patefieri*), l'**ablatiu absolut** *castellis expugnatis*, els dos **infinitius** que depenen de *constituit* (*collocare* i *hiemare*) i la relativa *qui appellabatur Octodurus*; (4) fes una traducció literal i després poleix-la.\n\nParanys: *proficisceretur* és **deponent** (forma passiva, sentit actiu: «es dirigia»), i el subjecte és Cèsar, que apareix després; el primer *cum* és conjunció, però el segon (*cum legione*) és preposició amb ablatiu; *quod* aquí és conjunció **causal**, no relatiu; *XII* es llegeix *duodecima* (ordinal: «la legió dotzena»); *ipse* és nominatiu i es refereix a Galba; *hiemare* (no és al lèxic) vol dir «passar l'hivern»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Cum in Italiam proficisceretur, Caesar Galbam cum legione XII et parte equitum in Nantuates misit, quod iter per Alpes patefieri uolebat.*\n\n- Oració principal: verb ***misit*** (3a sg. perfet d'indicatiu actiu de *mitto*, «envià»); subjecte ***Caesar*** (nominatiu sg.); CD ***Galbam*** (acusatiu sg. de *Galba, -ae*, masculí de la 1a decl.); ***cum legione XII et parte equitum*** (*cum* + ablatiu): CC de companyia, «amb la legió XII i una part dels genets» (*equitum*, genitiu pl. d'*eques*, CN de *parte*); ***in Nantuates*** (*in* + acusatiu): CC de direcció, «cap als nantuates».\n- ***Cum in Italiam proficisceretur***: subordinada adverbial **temporal-causal** (*cum* històric) amb ***proficisceretur*** (3a sg. imperfet de subjuntiu del deponent *proficiscor*), que expressa simultaneïtat: «quan es dirigia». ***in Italiam*** (*in* + acusatiu): CC de direcció. Subjecte: Cèsar.\n- ***quod ... uolebat***: subordinada adverbial **causal** (*quod* + indicatiu); ***uolebat*** és 3a sg. imperfet d'indicatiu de *uolo*, «volia».\n- ***iter per Alpes patefieri***: **oració subordinada substantiva d'infinitiu**, CD de *uolebat*. Subjecte en acusatiu: ***iter*** (acusatiu sg. neutre d'*iter, itineris*); verb: ***patefieri***, infinitiu de present passiu («ser obert»); ***per Alpes*** (*per* + acusatiu): CC de lloc per on, «a través dels Alps». Literalment: «volia que un camí fos obert a través dels Alps» = «volia obrir un camí a través dels Alps»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Galba, castellis expugnatis, constituit cohortes duas in Nantuatibus collocare et ipse cum reliquis cohortibus in uico, qui appellabatur Octodurus, hiemare.*\n\n- Oració principal: verb ***constituit*** (3a sg. perfet d'indicatiu de *constituo*, «decidí»); subjecte ***Galba*** (nominatiu sg.).\n- ***castellis expugnatis***: **ablatiu absolut** (ablatiu pl.). *expugnatis* és participi de perfet passiu d'*expugno* («assaltar, prendre per la força») concordat amb *castellis* (de *castellum*, «fortalesa»), que en fa de subjecte. Valor temporal: «un cop preses les fortaleses».\n- ***cohortes duas in Nantuatibus collocare***: infinitiu ***collocare*** (present actiu) que fa de **CD de *constituit***; com que el subjecte és el mateix (Galba), no hi ha acusatiu subjecte. ***cohortes duas*** (acusatiu pl. f.): CD de *collocare*; ***in Nantuatibus*** (*in* + ablatiu): CC de lloc on, «entre els nantuates».\n- ***et ipse ... hiemare***: segon infinitiu (***hiemare***, «passar l'hivern») coordinat amb *collocare* per *et*, també CD de *constituit*. ***ipse*** (nominatiu sg. m.) es refereix a Galba i va en nominatiu precisament perquè és el mateix subjecte de *constituit*: «i (decidí) ell mateix passar l'hivern». ***cum reliquis cohortibus*** (*cum* + ablatiu): CC de companyia; ***in uico*** (*in* + ablatiu): CC de lloc on, «en un poblet».\n- ***qui appellabatur Octodurus***: subordinada **adjectiva de relatiu**. *qui* (nominatiu sg. m.) té per antecedent *uico* i fa de subjecte d'***appellabatur*** (3a sg. imperfet d'indicatiu passiu d'*appello*, «era anomenat, s'anomenava»); ***Octodurus*** (nominatiu) és el complement predicatiu del subjecte."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Quan a Itàlia es dirigia, Cèsar Galba amb la legió dotzena i una part dels genets cap als nantuates envià, perquè (que) un camí a través dels Alps fos obert volia. Galba, preses les fortaleses, decidí cohorts dues entre els nantuates establir i ell mateix amb les restants cohorts en un poblet, que era anomenat Octodurus, passar l'hivern."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Quan es dirigia cap a Itàlia, Cèsar va enviar Galba amb la legió dotzena i una part de la cavalleria al territori dels nantuates, perquè volia obrir un camí a través dels Alps. Galba, un cop conquerides les fortaleses, va decidir establir dues cohorts entre els nantuates i passar ell mateix l'hivern, amb la resta de cohorts, en un poblet que s'anomenava Octodurus.\n\nTraducció orientativa oficial: «Quan es dirigia cap a Itàlia, Cèsar envià Galba amb la legió XII i una part dels genets cap als nantuates, perquè volia obrir una via a través dels Alps. Galba, un cop preses les fortaleses, decidí establir dues cohorts entre els nantuates, i ell mateix passar l'hivern amb les cohorts restants en un poblet que s'anomenava Octodurus.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Quan es dirigia cap a Itàlia, Cèsar envià Galba amb la legió XII i una part dels genets cap als nantuates, perquè volia obrir una via a través dels Alps. Galba, un cop preses les fortaleses, decidí establir dues cohorts entre els nantuates, i ell mateix passar l'hivern amb les cohorts restants en un poblet que s'anomenava Octodurus.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: *cum* històric amb imperfet de subjuntiu del deponent *proficiscor*; *Caesar* subjecte de *misit* i *Galbam* CD; *cum legione ... et parte equitum* CC de companyia; *in Nantuates* CC de direcció; *quod* causal amb *uolebat*, que regeix l'oració d'infinitiu *iter per Alpes patefieri* (CD); ablatiu absolut *castellis expugnatis*; infinitius *collocare* i *hiemare* CD de *constituit*, amb *ipse* = Galba; relativa *qui appellabatur Octodurus* (antecedent *uico*)."
+          }
+        ],
+        "nota": "Errors típics: traduir *proficisceretur* com a passiva («era dirigit»); prendre el *cum* de *cum legione* per conjunció; fer de *quod* un relatiu («el qual»); fer *castellis* CI («a les fortaleses») en lloc d'ablatiu absolut; atribuir *ipse* a Cèsar (és Galba, subjecte de *constituit*); fer concordar *qui* amb *cohortibus* (l'antecedent és *uico*). Traduir *patefieri* en actiu («volia obrir un camí») és correcte i és el que fa la versió oficial. Context: Cèsar marxava cap a Itàlia i l'Il·líric a passar l'hivern del 57-56 aC; volia obrir el pas del Gran Sant Bernat, per on els mercaders passaven amb grans perills i peatges. Octodurus és l'actual Martigny (Valais, Suïssa); poc després Galba hi va ser atacat pels sedunis i els veragres."
+      }
+    },
+    {
+      "id": "llati-2016-S-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: l'oració d'infinitiu iter per Alpes patefieri, CD de uolebat",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "oració d'infinitiu",
+        "complement directe",
+        "infinitiu passiu",
+        "oració causal",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Enviat per Cèsar, Galba obre un camí a través dels Alps i s'instal·la entre els nantuates**\n\nCum in Italiam proficisceretur, Caesar Galbam cum legione XII et parte equitum in Nantuates misit, quod iter per Alpes patefieri uolebat. Galba, castellis expugnatis, constituit cohortes duas in Nantuatibus collocare et ipse cum reliquis cohortibus in uico, qui appellabatur Octodurus, hiemare.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, III, 1, 1-4\n\n**Lèxic** (informació del diccionari):\n\n- *appello* (1a, tr.): 'anomenar'.\n- *colloco* (1a, tr.): 'establir'.\n- *constituo, -ui, -utum* (3a, tr.): 'decidir'.\n- *eques, -itis* (m.): 'genet'.\n- *Galba, -ae* (m.): 'Galba' (nom de persona).\n- *mitto, misi, missum* (3a, tr.): 'enviar'.\n- *Nantuates, -um* (m. pl.): 'nantuates' (habitants d'una regió de la Gàl·lia).\n- *Octodurus, -i* (m.): 'Octodurus' (nom de població).\n- *patefieri* (infinitiu passiu de *patefacio, -feci, -factum* [3a, tr.]): 'obrir'.\n- *proficiscor, profectus sum* (3a dep., intr.): 'dirigir-se'.\n- *uicus, -i* (m.): 'poblet'.",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). L'oració causal «quod iter per Alpes patefieri uolebat» conté l'estructura sintàctica *iter per Alpes patefieri*. Digueu com s'anomena aquesta estructura i quina funció sintàctica fa respecte a *uolebat*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 5-10 minuts) amb **dues** demandes: el **nom** de l'estructura i la seva **funció** respecte a *uolebat*. Contesta totes dues amb la terminologia precisa («oració subordinada substantiva d'infinitiu», «complement directe»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Busca el verb de l'estructura: *patefieri* és un **infinitiu** (de present passiu de *patefacio*, com diu el lèxic).\n2. Busca'n el subjecte: un infinitiu que forma oració porta el subjecte en **acusatiu**: *iter* (neutre, acusatiu sg.). *per Alpes* és un CC de lloc per on.\n3. Per tant és una oració d'infinitiu, que és **substantiva** (equival a un nom: «volia això»).\n4. Funció: *uolo* és un verb transitiu de voluntat; l'oració respon a «què volia?», per tant n'és el **CD**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*iter per Alpes patefieri* és una **oració subordinada substantiva d'infinitiu**: el verb és l'infinitiu de present passiu *patefieri*, el subjecte en acusatiu és *iter* i *per Alpes* n'és el CC de lloc per on. Respecte a *uolebat* fa la funció de **complement directe**: «(Cèsar) volia que s'obrís un camí a través dels Alps»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Oració subordinada substantiva d'infinitiu; fa de complement directe de *uolebat*."
+          }
+        ],
+        "nota": "Errors típics: dir només «infinitiu» o «construcció d'infinitiu» sense especificar que és una oració subordinada substantiva; fer *iter* CD de *uolebat* (és el subjecte de l'infinitiu); confondre la funció de l'estructura (CD) amb la de tota l'oració *quod ... uolebat* (subordinada adverbial causal)."
+      }
+    },
+    {
+      "id": "llati-2016-S-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: cum conjunció i el cum històric de Cum in Italiam proficisceretur",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "cum històric",
+        "conjunció subordinant",
+        "oració temporal",
+        "subjuntiu",
+        "verb deponent",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Enviat per Cèsar, Galba obre un camí a través dels Alps i s'instal·la entre els nantuates**\n\nCum in Italiam proficisceretur, Caesar Galbam cum legione XII et parte equitum in Nantuates misit, quod iter per Alpes patefieri uolebat. Galba, castellis expugnatis, constituit cohortes duas in Nantuatibus collocare et ipse cum reliquis cohortibus in uico, qui appellabatur Octodurus, hiemare.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, III, 1, 1-4\n\n**Lèxic** (informació del diccionari):\n\n- *appello* (1a, tr.): 'anomenar'.\n- *colloco* (1a, tr.): 'establir'.\n- *constituo, -ui, -utum* (3a, tr.): 'decidir'.\n- *eques, -itis* (m.): 'genet'.\n- *Galba, -ae* (m.): 'Galba' (nom de persona).\n- *mitto, misi, missum* (3a, tr.): 'enviar'.\n- *Nantuates, -um* (m. pl.): 'nantuates' (habitants d'una regió de la Gàl·lia).\n- *Octodurus, -i* (m.): 'Octodurus' (nom de població).\n- *patefieri* (infinitiu passiu de *patefacio, -feci, -factum* [3a, tr.]): 'obrir'.\n- *proficiscor, profectus sum* (3a dep., intr.): 'dirigir-se'.\n- *uicus, -i* (m.): 'poblet'.",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la construcció «Cum in Italiam proficisceretur», digueu quina funció sintàctica fa *cum* i quin tipus d'oració introdueix.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 5-10 minuts) amb **dues** demandes: la **funció** de *cum* i el **tipus d'oració** que introdueix. La clau és distingir *cum* preposició (amb ablatiu) de *cum* conjunció (amb verb)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Mira què segueix *cum*: no hi ha cap ablatiu que en depengui (*in Italiam* és *in* + acusatiu), sinó un verb conjugat, *proficisceretur*. Per tant *cum* no és preposició, sinó **conjunció subordinant**.\n2. El verb està en **imperfet de subjuntiu** (*proficisceretur*, del deponent *proficiscor*) i l'oració explica en quines circumstàncies Cèsar envia Galba. *Cum* + subjuntiu (imperfet o plusquamperfet) en una narració és el ***cum* històric** (o narratiu), amb valor temporal-causal.\n3. Com que l'imperfet expressa simultaneïtat amb *misit*, es tradueix «quan es dirigia» o «mentre anava»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Cum* és una **conjunció subordinant** (no una preposició, perquè no regeix cap ablatiu, sinó que introdueix el verb *proficisceretur*). Introdueix una **oració subordinada adverbial de *cum* històric**, de valor **temporal-causal**, amb el verb en imperfet de subjuntiu (*proficisceretur*, del deponent *proficiscor*), que indica una acció simultània a la de la principal (*misit*): «quan es dirigia cap a Itàlia»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*cum* és una conjunció subordinant; introdueix una oració subordinada adverbial de *cum* històric (temporal-causal)."
+          }
+        ],
+        "nota": "Errors típics: dir que *cum* és preposició (com a *cum legione XII*, a la mateixa frase); dir només «temporal» sense esmentar el *cum* històric amb subjuntiu; analitzar *proficisceretur* com a passiva (és deponent: forma passiva i significat actiu)."
+      }
+    },
+    {
+      "id": "llati-2016-S-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «in fraganti»: enxampar uns lladres en plena acció",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "in fraganti",
+        "in flagranti",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (llengua, literatura o civilització romanes) [2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades]. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\na) Aquesta matinada els mossos d'esquadra han enxampat __________ uns lladres.\n\nLlatinismes: *in extremis*, *in fraganti*, *inter nos*, *maremàgnum*, *patria potestas*, *peccata minuta*, *quòrum*, *rigor mortis*, *sine die*, *sub iudice*, *superàvit*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adjectiu, adverbi); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*In fraganti* (deformació popular de *in flagranti [delicto]*, «en el delicte encara flamejant») vol dir «en el mateix moment de cometre el delicte». És una locució adverbial que acompanya típicament verbs com *enxampar*, *agafar* o *sorprendre*: els lladres van ser atrapats mentre robaven."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) Aquesta matinada els mossos d'esquadra han enxampat **in fraganti** uns lladres."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*in fraganti*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *inter nos* (entre nosaltres, en confiança), *maremàgnum* (gran confusió, aglomeració desordenada), *patria potestas* (autoritat del pare sobre els fills), *peccata minuta* (faltes lleus), *quòrum* (nombre mínim de membres perquè una votació sigui vàlida), *rigor mortis* (rigidesa cadavèrica), *superàvit* (excés d'ingressos sobre les despeses)."
+      }
+    },
+    {
+      "id": "llati-2016-S-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «sine die»: ajornar un projecte sense data",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "sine die",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (llengua, literatura o civilització romanes) [2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades]. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nb) El projecte s'ha ajornat __________ per falta de suport econòmic.\n\nLlatinismes: *in extremis*, *in fraganti*, *inter nos*, *maremàgnum*, *patria potestas*, *peccata minuta*, *quòrum*, *rigor mortis*, *sine die*, *sub iudice*, *superàvit*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adjectiu, adverbi); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Sine die* vol dir literalment «sense dia», és a dir, «sense data fixada». S'usa sobretot amb el verb *ajornar*: el projecte queda aturat i no se sap quan es reprendrà."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "b) El projecte s'ha ajornat **sine die** per falta de suport econòmic."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*sine die*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *inter nos* (entre nosaltres, en confiança), *maremàgnum* (gran confusió, aglomeració desordenada), *patria potestas* (autoritat del pare sobre els fills), *peccata minuta* (faltes lleus), *quòrum* (nombre mínim de membres perquè una votació sigui vàlida), *rigor mortis* (rigidesa cadavèrica), *superàvit* (excés d'ingressos sobre les despeses)."
+      }
+    },
+    {
+      "id": "llati-2016-S-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «in extremis»: un gol a l'últim moment",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "in extremis",
+        "llatinismes",
+        "expressions llatines"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (llengua, literatura o civilització romanes) [2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades]. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nc) L'equip amfitrió s'ha salvat del descens de categoria gràcies a un gol fet __________.\n\nLlatinismes: *in extremis*, *in fraganti*, *inter nos*, *maremàgnum*, *patria potestas*, *peccata minuta*, *quòrum*, *rigor mortis*, *sine die*, *sub iudice*, *superàvit*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adjectiu, adverbi); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*In extremis* vol dir «en els últims moments, a la desesperada». Expressa que el gol va arribar quan ja s'acabava el partit (o la lliga) i que va salvar l'equip just abans que fos massa tard."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "c) L'equip amfitrió s'ha salvat del descens de categoria gràcies a un gol fet **in extremis**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*in extremis*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *inter nos* (entre nosaltres, en confiança), *maremàgnum* (gran confusió, aglomeració desordenada), *patria potestas* (autoritat del pare sobre els fills), *peccata minuta* (faltes lleus), *quòrum* (nombre mínim de membres perquè una votació sigui vàlida), *rigor mortis* (rigidesa cadavèrica), *superàvit* (excés d'ingressos sobre les despeses)."
+      }
+    },
+    {
+      "id": "llati-2016-S-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Llatinisme «sub iudice»: un cas pendent de resolució judicial",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "sub iudice",
+        "llatinismes",
+        "expressions llatines",
+        "dret"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (llengua, literatura o civilització romanes) [2 punts: cada resposta correcta val 0,5 punts; les respostes errònies no seran penalitzades]. Escriviu en l'espai en blanc el llatinisme que considereu més adient per a completar la frase següent. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nd) Aquest cas està jurídicament __________ i els advocats no en poden parlar.\n\nLlatinismes: *in extremis*, *in fraganti*, *inter nos*, *maremàgnum*, *patria potestas*, *peccata minuta*, *quòrum*, *rigor mortis*, *sine die*, *sub iudice*, *superàvit*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3 de l'opció A (2 punts en total: cada resposta correcta val 0,5 punts; les respostes errònies **no** es penalitzen, així que respon-les totes). Llegeix la frase sencera i pregunta't quin significat ha de tenir el buit (i quina categoria: nom, adjectiu, adverbi); després busca a la llista el llatinisme que el té. Cada llatinisme només es pot fer servir una vegada."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Sub iudice* vol dir «sota el jutge», és a dir, pendent de resolució judicial. Mentre un cas és *sub iudice* no hi ha sentència ferma, i per això les parts i els advocats eviten fer-ne declaracions. L'adverbi *jurídicament* és una bona pista."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "d) Aquest cas està jurídicament **sub iudice** i els advocats no en poden parlar."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*sub iudice*"
+          }
+        ],
+        "nota": "Llatinismes de la llista que no s'usen: *inter nos* (entre nosaltres, en confiança), *maremàgnum* (gran confusió, aglomeració desordenada), *patria potestas* (autoritat del pare sobre els fills), *peccata minuta* (faltes lleus), *quòrum* (nombre mínim de membres perquè una votació sigui vàlida), *rigor mortis* (rigidesa cadavèrica), *superàvit* (excés d'ingressos sobre les despeses)."
+      }
+    },
+    {
+      "id": "llati-2016-S-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Tit Livi i l'Ab urbe condita, la gran història de Roma",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "tit livi",
+        "ab urbe condita",
+        "historiografia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (llengua, literatura o civilització romanes) [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n1. Va ser l'autor d'una immensa obra històrica sobre Roma.",
+      "figures": [],
+      "opcions": {
+        "a": "Ciceró.",
+        "b": "Tit Livi.",
+        "c": "Virgili.",
+        "d": "Horaci."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Si en pots descartar dues opcions, val la pena arriscar-se. Busca la paraula clau de l'enunciat (gènere, època, tipus d'obra) i relaciona-la amb l'autor."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**b) Tit Livi.** Tit Livi (59 aC - 17 dC), nascut a Pàdua, va escriure *Ab urbe condita* («Des de la fundació de la ciutat»), una història de Roma en **142 llibres** des dels orígens fins a l'any 9 aC; se'n conserven 35. Ciceró va ser orador i filòsof; Virgili, poeta èpic (*Eneida*); Horaci, poeta líric."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Tit Livi"
+          }
+        ],
+        "nota": "Repassa autors i gèneres: historiografia (Cèsar, Sal·lusti, Tit Livi), èpica (Virgili, *Eneida*), poesia epicodidàctica (Ovidi, *Metamorfosis*), lírica (Horaci, Catul), comèdia *palliata* (Plaute, s. III-II aC; Terenci, s. II aC), oratòria (Ciceró)."
+      }
+    },
+    {
+      "id": "llati-2016-S-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ovidi i les Metamorfosis, poema epicodidàctic",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "poesia èpica",
+        "poesia didàctica"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (llengua, literatura o civilització romanes) [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n2. Va escriure un poema epicodidàctic.",
+      "figures": [],
+      "opcions": {
+        "a": "Tit Livi.",
+        "b": "Horaci.",
+        "c": "Plaute.",
+        "d": "Ovidi."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Si en pots descartar dues opcions, val la pena arriscar-se. Busca la paraula clau de l'enunciat (gènere, època, tipus d'obra) i relaciona-la amb l'autor."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**d) Ovidi.** Les *Metamorfosis* d'Ovidi (43 aC - 17 dC) són un llarg poema en **hexàmetres** i quinze llibres que narra uns 250 mites de transformacions des del caos fins a l'època d'August: té la forma i l'ambició de l'**èpica** i el caràcter explicatiu, etiològic, de la poesia **didàctica**. Tit Livi és historiador, Horaci poeta líric i satíric, i Plaute comediògraf."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Ovidi"
+          }
+        ],
+        "nota": "Repassa autors i gèneres: historiografia (Cèsar, Sal·lusti, Tit Livi), èpica (Virgili, *Eneida*), poesia epicodidàctica (Ovidi, *Metamorfosis*), lírica (Horaci, Catul), comèdia *palliata* (Plaute, s. III-II aC; Terenci, s. II aC), oratòria (Ciceró)."
+      }
+    },
+    {
+      "id": "llati-2016-S-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Plaute, comediògraf del segle III aC",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "plaute",
+        "comèdia palliata",
+        "terenci",
+        "teatre llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (llengua, literatura o civilització romanes) [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3. Va néixer al segle III aC i va escriure *palliatae*.",
+      "figures": [],
+      "opcions": {
+        "a": "Virgili.",
+        "b": "Terenci.",
+        "c": "Plaute.",
+        "d": "Ciceró."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Si en pots descartar dues opcions, val la pena arriscar-se. Busca la paraula clau de l'enunciat (gènere, època, tipus d'obra) i relaciona-la amb l'autor."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**c) Plaute.** Titus Macci Plaute va néixer cap al 254 aC a Sàrsina (Úmbria) i va morir el 184 aC; va escriure **comèdies *palliatae*** (d'ambientació grega, adaptades de la Comèdia Nova), com *Miles gloriosus*, *Amfitrió* o *Aulularia*. **Terenci** també va escriure *palliatae*, però va néixer al **segle II aC** (cap al 185 aC), de manera que el detall de la data el descarta. Virgili i Ciceró són del segle I aC."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) Plaute"
+          }
+        ],
+        "nota": "Repassa autors i gèneres: historiografia (Cèsar, Sal·lusti, Tit Livi), èpica (Virgili, *Eneida*), poesia epicodidàctica (Ovidi, *Metamorfosis*), lírica (Horaci, Catul), comèdia *palliata* (Plaute, s. III-II aC; Terenci, s. II aC), oratòria (Ciceró)."
+      }
+    },
+    {
+      "id": "llati-2016-S-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Horaci, el gran poeta líric de Roma",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "horaci",
+        "odes",
+        "poesia lírica",
+        "carpe diem"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (llengua, literatura o civilització romanes) [2 punts: cada resposta correcta val 0,5 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte]. Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n4. Va ser un dels poetes lírics més grans de Roma.",
+      "figures": [],
+      "opcions": {
+        "a": "Virgili.",
+        "b": "Ovidi.",
+        "c": "Terenci.",
+        "d": "Horaci."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no descompten. Si en pots descartar dues opcions, val la pena arriscar-se. Busca la paraula clau de l'enunciat (gènere, època, tipus d'obra) i relaciona-la amb l'autor."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**d) Horaci.** Quint Horaci Flac (65-8 aC), membre del cercle de Mecenas, és l'autor de les ***Odes*** (*Carmina*), cim de la poesia lírica llatina, amb tòpics com el *carpe diem* o l'*aurea mediocritas*; també va escriure *Sàtires* i *Epístoles*. Virgili és sobretot poeta èpic i bucòlic; Ovidi, èpic-didàctic i elegíac; Terenci, comediògraf."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Horaci"
+          }
+        ],
+        "nota": "Repassa autors i gèneres: historiografia (Cèsar, Sal·lusti, Tit Livi), èpica (Virgili, *Eneida*), poesia epicodidàctica (Ovidi, *Metamorfosis*), lírica (Horaci, Catul), comèdia *palliata* (Plaute, s. III-II aC; Terenci, s. II aC), oratòria (Ciceró)."
+      }
+    },
+    {
+      "id": "llati-2016-S-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "comentari",
+      "punts": 2,
+      "titol": "Virgili, Eneida: Mercuri recorda a Eneas el seu destí a Cartago; Virgili, August i Mecenas",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "virgili",
+        "eneida",
+        "eneas",
+        "dido",
+        "mercuri",
+        "cercle de mecenas",
+        "august",
+        "lectures obligatòries"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "Així que amb els peus alats tocà les casetes de Cartago veu Eneas ocupat a construir fortificacions i a bastir nous edificis […]. El missatger l'abordà tot seguit: «Ara tu assentes els fonaments de l'alta Cartago i, sotmès a una dona, li basteixes una bella ciutat? Ai, que t'has oblidat del teu reialme i dels teus destins!»\n\n(Traducció de Joan Bellès)",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Llegiu el text següent, que pertany a una de les lectures obligatòries. En quinze línies com a mínim (unes cent cinquanta paraules), identifiqueu els tres personatges que hi són esmentats, expliqueu per què el missatger és enviat a Eneas, qui l'hi envia, quins són els destins de què li parla i quines decisions prendran aquests personatges i les conseqüències que se'n derivaran. A més, expliqueu la relació de l'autor del text i la seva obra amb August i Mecenas.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. El text no diu l'obra: l'has de reconèixer (Eneas a Cartago, un missatger amb peus alats) com el **llibre IV de l'*Eneida*** de Virgili. L'enunciat és una llista de demandes i cal respondre-les **totes**: (1) els tres personatges (el missatger, Eneas i la «dona»); (2) per què és enviat i qui l'envia; (3) quins són els destins; (4) quines decisions prenen Eneas i Dido i les conseqüències; (5) la relació de Virgili i l'*Eneida* amb August i Mecenas. Fes un paràgraf per a cada bloc."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Personatges**: el missatger alat és **Mercuri**; **Eneas**, l'heroi troià; la dona a qui està «sotmès» és **Dido**, reina de Cartago (no se n'esmenta el nom, però s'hi al·ludeix).\n2. **Per què i qui**: **Júpiter** l'envia perquè Eneas, enamorat de Dido, s'ha aturat a Cartago i oblida la seva missió.\n3. **Destins**: arribar a Itàlia i fundar un nou regne, origen d'Alba Longa i de Roma, que dominarà el món.\n4. **Decisions i conseqüències**: Eneas, *pius*, obeeix i marxa; Dido se suïcida després de maleir-lo; la maledicció explica míticament l'odi entre Roma i Cartago (guerres púniques).\n5. **August i Mecenas**: Virgili és del cercle de Mecenas, amic i conseller d'August, que promovia una literatura favorable al règim; l'*Eneida* fa d'Eneas (fill de Venus, pare d'Iulus) l'avantpassat de la *gens Iulia* i hi ha profecies sobre August."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Aquest fragment pertany al llibre IV de l'***Eneida*** de **Virgili**. El missatger dels peus alats és **Mercuri**, el missatger dels déus, enviat per **Júpiter** a **Eneas**, l'heroi troià. La dona a qui Eneas està «sotmès» és **Dido**, la reina de Cartago, que l'ha acollit i amb qui viu un amor apassionat. Per això Eneas s'entreté construint la ciutat d'una altra i ajorna el seu destí.\n\nAquest destí, decidit pels déus, és arribar a Itàlia i fundar-hi un nou regne, del qual sortiran Alba Longa i Roma, que arribarà a dominar el món. Eneas, heroi ***pius*** que posa el deure envers els déus per sobre dels sentiments, decideix obeir i abandonar Cartago. Dido, desesperada, el maleeix a ell i a la seva descendència i se suïcida; aquesta maledicció explica, en clau mítica, l'enemistat entre Roma i Cartago i les guerres púniques.\n\nVirgili formava part del **cercle de Mecenas**, amic i conseller d'**August**, que protegia escriptors com Horaci perquè lloessin el nou règim sense coaccions. L'*Eneida* vincula la grandesa de Roma amb un passat mític: Eneas, fill de Venus i pare d'Iulus, és l'avantpassat de la *gens Iulia*, la família d'August, que així obté un origen diví; i diverses profecies anuncien August com a restaurador de la pau i senyor universal."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Personatges: Mercuri (missatger dels déus), Eneas (heroi troià) i Dido (reina de Cartago)."
+          },
+          {
+            "apartat": null,
+            "valor": "Júpiter envia Mercuri perquè Eneas, retingut per l'amor de Dido, està ajornant el compliment del seu destí."
+          },
+          {
+            "apartat": null,
+            "valor": "Destí: fundar un nou reialme (a Itàlia) que arribarà a dominar tot el món."
+          },
+          {
+            "apartat": null,
+            "valor": "Eneas, pietós envers els déus, deixa Cartago i abandona Dido, que se suïcida després de maleir-lo a ell i la seva descendència (origen mític de les guerres púniques)."
+          },
+          {
+            "apartat": null,
+            "valor": "Virgili pertanyia al cercle de Mecenas (amb Horaci i Properci), que volia que els escriptors fossin propagandistes d'August sense forçar-los; l'*Eneida* fa d'Eneas, fill de Venus, l'avantpassat de la família d'August (ascendència divina) i conté profecies sobre August com a futur sobirà universal."
+          }
+        ],
+        "nota": "La resposta model té unes 209 paraules (el mínim és ~150). Errors típics: confondre el missatger amb un altre déu (és Mercuri, el dels peus alats); no esmentar qui l'envia (Júpiter); oblidar el bloc d'August i Mecenas, que és una part important de la pregunta; explicar tota l'*Eneida* sense centrar-se en l'episodi. La pauta oficial adverteix que el seu redactat és només orientatiu."
+      }
+    },
+    {
+      "id": "llati-2016-S-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Tàrraco i Emèrita Augusta: dues capitals provincials de la Hispània romana",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "tàrraco",
+        "emèrita augusta",
+        "romanització",
+        "hispània",
+        "urbanisme romà",
+        "fòrum",
+        "circ",
+        "amfiteatre"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *Tàrraco i Emèrita Augusta*. Compareu aquestes dues ciutats pel que fa a la importància que van tenir, pel que fa a l'urbanisme i els edificis públics, etcètera.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. És una **comparació**: no facis dues descripcions separades, sinó que organitza-la per aspectes (importància, comunicacions, situació, edificis) i assenyala semblances i diferències. Cita noms concrets de monuments: és el que dona punts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Importància**: totes dues van ser **capitals provincials**: Tàrraco, de la Hispània Citerior (Tarraconense); Emèrita Augusta (fundada el 25 aC per a veterans), de la Lusitània. Per això tenien **dos fòrums** (provincial i de la colònia).\n2. **Comunicacions**: Tàrraco, a la **Via Augusta**; Emèrita, a l'encreuament de vies (la **Via de la Plata**, de nord a sud).\n3. **Aigua**: aqüeductes (de **les Ferreres** a Tàrraco; **Los Milagros** a Emèrita).\n4. **Situació** (diferència): Tàrraco, a la costa, en terrasses sobre un turó; Emèrita, a l'interior, en terreny pla, vora el Guadiana, amb un gran **pont**.\n5. **Edificis d'espectacles**: totes dues tenen **circ, amfiteatre i teatre**, però en llocs diferents: a Tàrraco el circ és dins les muralles (separa la part baixa de la terrassa del fòrum provincial i el recinte de culte) i l'amfiteatre fora, vora el mar; a Emèrita el circ és fora de les muralles i el teatre i l'amfiteatre són junts dins del recinte."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Tàrraco** i **Emèrita Augusta** van ser dues de les ciutats més importants de la Hispània romana, ja que totes dues eren **capitals provincials**: Tàrraco, de la Hispània Citerior o Tarraconense, i Emèrita, fundada per August el 25 aC per a soldats veterans, de la Lusitània. Aquesta condició explica que totes dues tinguessin **dos fòrums**, un per a la colònia i un altre per a l'administració provincial, i que estiguessin ben comunicades: Tàrraco per la **Via Augusta**, i Emèrita per l'encreuament de vies, com la **Via de la Plata**. Totes dues es proveïen d'aigua per mitjà d'**aqüeductes**, com el de les Ferreres a Tàrraco i el de Los Milagros a Emèrita.\n\nLa seva situació, però, era diferent: Tàrraco és a la costa i s'aixeca en terrasses sobre un turó, mentre que Emèrita és a l'interior, en terreny pla, vora el Guadiana, que travessa un gran **pont** romà.\n\nTotes dues eren ciutats molt monumentals i tenien **teatre, amfiteatre i circ**, però distribuïts de manera diferent. A Tàrraco el circ era dins les muralles i separava la ciutat baixa de la terrassa superior, on hi havia el fòrum provincial i el recinte de culte imperial, i l'amfiteatre era fora, al costat del mar. A Emèrita, en canvi, el circ era fora de les muralles, i el teatre i l'amfiteatre es troben junts dins del recinte emmurallat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Totes dues capitals provincials: Tàrraco de la Hispània Citerior; Emèrita Augusta de la Lusitània. D'aquí, dos fòrums (provincial i de la colònia)."
+          },
+          {
+            "apartat": null,
+            "valor": "Bones comunicacions: Tàrraco per la Via Augusta; Emèrita per l'encreuament de dues vies (Via de la Plata, de nord a sud). Aqüeductes: les Ferreres (Tàrraco) i Los Milagros (Emèrita)."
+          },
+          {
+            "apartat": null,
+            "valor": "Diferent situació: Tàrraco vora el mar, en terrasses sobre un turó; Emèrita a l'interior, en terreny pla, vora el Guadiana (cabal regular), amb un gran pont."
+          },
+          {
+            "apartat": null,
+            "valor": "Monumentalització: circ, amfiteatre i teatre a totes dues. Tàrraco: circ dins les muralles (entre la part baixa i la terrassa del fòrum provincial i el recinte de culte), amfiteatre fora, vora el mar. Emèrita: circ fora de les muralles; teatre i amfiteatre junts al mateix turó, dins de les muralles."
+          }
+        ],
+        "nota": "La resposta model té unes 223 paraules (el mínim és ~150). Errors típics: descriure cada ciutat per separat sense comparar; confondre la Lusitània amb la Bètica (capital Corduba); situar Emèrita a la Via Augusta; dir que totes dues eren a la costa. La pauta oficial adverteix que el seu redactat és només orientatiu."
+      }
+    }
+  ]
+}
