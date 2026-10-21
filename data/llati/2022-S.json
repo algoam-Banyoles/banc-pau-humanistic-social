@@ -1,0 +1,1025 @@
+{
+  "examen": {
+    "id": "llati-2022-S",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2022,
+    "convocatoria": "setembre",
+    "serie": "3",
+    "pdf_examen": "pdfs/llati/2022-S-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2022-S-solucio.pdf",
+    "estructura": "Sèrie 3, convocatòria extraordinària (setembre). Quatre exercicis (10 punts): 1. Traducció d'un text de Cèsar (4 punts, obligatori); 2. Morfosintaxi sobre el mateix text (1 punt): cal triar l'opció A o la B, cadascuna amb dues qüestions (2.1 i 2.2) de 0,5 punts; 3. Llengua, literatura o civilització romanes (2 punts): cal triar l'opció A (completar 4 frases amb llatinismes d'una llista; 0,5 per encert, sense penalització) o la B (4 preguntes d'opció múltiple de literatura llatina; 0,5 per encert, −0,16 per error, les no contestades no descompten); 4. Exposició d'un tema de literatura o civilització (3 punts, mínim 15 línies, unes 150 paraules): cal triar l'opció A (el rapte d'Europa, *Metamorfosis* d'Ovidi, amb una pintura d'Erasmus Quellinus el Jove) o la B (la ciutat romana d'Empúries, amb un plànol). En aquest model l'exercici 2 no inclou etimologia i l'exposició val 3 punts."
+  },
+  "problemes": [
+    {
+      "id": "llati-2022-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 4,
+      "titol": "Traducció de Cèsar: Cassivel·laune fa atacar el campament naval romà",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "cèsar",
+        "de bello gallico",
+        "ablatiu absolut",
+        "oració completiva",
+        "cum històric",
+        "dum temporal",
+        "present històric"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Cassivel·laune encomana als governants de Kent assaltar per sorpresa el campament de la flota romana, però els soldats de Cèsar surten de sobte a escometre'ls**\n\nDum haec in his locis geruntur, Cassiuellaunus ad Cantium nuntios mittit atque regionis regibus imperat ut, coactis omnibus copiis, castra naualia de improuiso oppugnent. Cum ii ad castra uenissent, nostri, eruptione facta et multis eorum interfectis, suos incolumes reduxerunt.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, V, 22, 1-2\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Cantium, -i* (n.): Kent (regió del sud-est de Britània).\n- *Cassiuellaunus, -i* (m.): Cassivel·laune (capitost dels britans).\n- *castra, -orum* (n. pl.): campament.\n- *cogo, coegi, coactum* (3a, tr.): aplegar, reunir.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *dum* (conj.): mentre.\n- *eruptio, -onis* (f.): sortida sobtada, escomesa.\n- *interficio, interfeci, interfectum* (3a, tr.): matar.\n- *reduco, reduxi, reductum* (3a, tr.): retirar, replegar.",
+      "enunciat": "Feu la versió del text següent (4 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de Cèsar (*De bello Gallico*, V, 22) de dues oracions. Val **4 punts**, gairebé la meitat de l'examen: dedica-hi uns 35-40 minuts.\n\nMètode: (1) llegeix el títol, que ja explica el contingut (Cassivel·laune ordena als reis de Kent atacar el campament naval i els romans fan una sortida); (2) localitza els **verbs conjugats**: *geruntur*, *mittit*, *imperat*, *oppugnent*, *uenissent*, *reduxerunt*; (3) identifica els nexes (*dum*, *atque*, *ut*, *cum*, *et*) i les **tres construccions de participi en ablatiu** (ablatius absoluts); (4) fes una traducció literal i després poleix-la.\n\nParanys: *dum* + present d'indicatiu («mentre») amb el **present històric** *mittit*, *imperat* (es pot traduir en present o en passat, però amb coherència); *regionis regibus* (datiu + genitiu: «als reis de la regió»); *imperat ut* + subjuntiu = «ordena que»; *castra* és plural però vol dir «campament» (singular); *cum* + plusquamperfet de subjuntiu (*cum* històric); *multis eorum* (genitiu partitiu); *suos* (els seus homes) i el predicatiu *incolumes*."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Dum haec in his locis geruntur, Cassiuellaunus ad Cantium nuntios mittit atque regionis regibus imperat ut, coactis omnibus copiis, castra naualia de improuiso oppugnent.*\n\n- *Dum haec in his locis geruntur*: subordinada adverbial **temporal** (*dum* + present d'indicatiu, «mentre»). Verb *geruntur*, 3a pl. present d'indicatiu **passiu** de *gero* («són fets, s'esdevenen»); subjecte *haec* (pronom demostratiu, nominatiu neutre pl.: «aquestes coses, aquests fets»); *in his locis*: *in* + ablatiu pl., CC de lloc («en aquests llocs»).\n- Oració principal 1: verb *mittit* (3a sg. present d'indicatiu actiu de *mitto*, present històric); subjecte *Cassiuellaunus* (nominatiu sg.); CD *nuntios* (acusatiu pl. de *nuntius*: «missatgers, emissaris»); *ad Cantium*: *ad* + acusatiu, CC de direcció («a Kent»).\n- *atque*: conjunció copulativa.\n- Oració principal 2: verb *imperat* (3a sg. present d'indicatiu de *impero*, «ordena»); subjecte implícit Cassivel·laune; CI *regibus* (datiu pl. de *rex, regis*) amb el CN *regionis* (genitiu sg. de *regio, -onis*): «als reis de la regió».\n- *ut ... oppugnent*: subordinada substantiva **completiva** de CD de *imperat* (*ut* + present de subjuntiu *oppugnent*, 3a pl. de *oppugno*: «que ataquin»); subjecte implícit, els reis.\n- *coactis omnibus copiis*: **ablatiu absolut** (participi perfet passiu *coactis*, de *cogo*, + *copiis*, ablatiu pl. de *copia*, amb l'adjectiu *omnibus*): «un cop aplegades totes les tropes».\n- *castra naualia*: CD de *oppugnent* (acusatiu neutre pl.: *castra* + l'adjectiu *naualia*, de *naualis, -e*): «el campament naval».\n- *de improuiso*: locució adverbial, CC de manera: «d'improvís, per sorpresa»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Cum ii ad castra uenissent, nostri, eruptione facta et multis eorum interfectis, suos incolumes reduxerunt.*\n\n- *Cum ii ad castra uenissent*: subordinada adverbial **temporal-causal** (*cum* històric + plusquamperfet de subjuntiu *uenissent*, 3a pl. de *uenio*): «quan ells havien arribat / havent arribat ells»; subjecte *ii* (pronom *is*, nominatiu m. pl.: els britans); *ad castra*: CC de direcció («al campament»).\n- Oració principal: verb *reduxerunt* (3a pl. perfet d'indicatiu actiu de *reduco*: «retiraren, replegaren»); subjecte *nostri* (adjectiu possessiu substantivat, nominatiu m. pl.: «els nostres», és a dir, els romans).\n- *eruptione facta*: **ablatiu absolut** (*eruptione*, ablatiu sg. de *eruptio*, + participi perfet passiu *facta*, de *facio*): «feta una sortida sobtada».\n- *et multis eorum interfectis*: segon **ablatiu absolut** coordinat (*multis*, ablatiu pl., + participi *interfectis*, de *interficio*), amb el genitiu partitiu *eorum* («d'ells»): «i morts molts d'ells».\n- CD *suos* (possessiu substantivat, acusatiu m. pl.: «els seus», els seus homes) amb el **predicatiu** *incolumes* (acusatiu pl. de *incolumis, -e*: «sans i estalvis, incòlumes»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Mentre aquestes coses en aquests llocs són fetes, Cassivel·laune a Kent missatgers envia i als reis de la regió ordena que, aplegades totes les tropes, el campament naval d'improvís ataquin. Quan ells al campament havien arribat, els nostres, feta una sortida sobtada i morts molts d'ells, els seus incòlumes replegaren."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Mentre això passava en aquests llocs, Cassivel·laune envia missatgers a Kent i ordena als reis de la regió que, un cop aplegades totes les seves tropes, ataquin per sorpresa el campament naval. Quan ells van arribar al campament, els nostres, després de fer una sortida sobtada i de matar-ne molts, van replegar els seus homes sans i estalvis.\n\nTraducció orientativa oficial: «Mentre aquests fets s'esdevenen en aquests llocs, Cassivel·laune envia a Kent uns emissaris i ordena als reis de la regió que, un cop aplegades totes les seves tropes, ataquin el campament naval d'improvís. Havent arribat ells al campament, els nostres, feta una sortida sobtada i morts molts d'aquells, replegaren els seus, incòlumes.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Mentre aquests fets s'esdevenen en aquests llocs, Cassivel·laune envia a Kent uns emissaris i ordena als reis de la regió que, un cop aplegades totes les seves tropes, ataquin el campament naval d'improvís. Havent arribat ells al campament, els nostres, feta una sortida sobtada i morts molts d'aquells, replegaren els seus, incòlumes.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: *dum* temporal amb *haec* subjecte de *geruntur*; present històric *mittit*, *imperat*; *regionis regibus* CI amb CN; *ut ... oppugnent* completiva de CD; ablatiu absolut *coactis omnibus copiis*; *castra naualia* CD; *cum* històric amb *uenissent*; ablatius absoluts *eruptione facta* i *multis eorum interfectis*; *nostri* subjecte; *suos* CD i *incolumes* predicatiu."
+          }
+        ],
+        "nota": "Errors típics: traduir *haec* com a femení singular («aquesta») en lloc de neutre plural; no veure que *geruntur* és passiu; fer *regionis* CI (és genitiu, CN de *regibus*); traduir *ut* com a final («perquè») quan depèn d'*imperat* (completiva: «ordena que»); traduir els ablatius absoluts com a complements del verb; fer *multis* subjecte de *reduxerunt*; oblidar *incolumes*. Es pot mantenir el present històric o passar-lo a passat, però amb coherència temporal. Context: segona expedició de Cèsar a Britània (54 aC)."
+      }
+    },
+    {
+      "id": "llati-2022-S-e2-q1-a",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: subjecte de geruntur (haec) i CD d'oppugnent",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "subjecte",
+        "veu passiva",
+        "complement directe",
+        "pronom demostratiu",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cassivel·laune encomana als governants de Kent assaltar per sorpresa el campament de la flota romana, però els soldats de Cèsar surten de sobte a escometre'ls**\n\nDum haec in his locis geruntur, Cassiuellaunus ad Cantium nuntios mittit atque regionis regibus imperat ut, coactis omnibus copiis, castra naualia de improuiso oppugnent. Cum ii ad castra uenissent, nostri, eruptione facta et multis eorum interfectis, suos incolumes reduxerunt.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, V, 22, 1-2\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Cantium, -i* (n.): Kent (regió del sud-est de Britània).\n- *Cassiuellaunus, -i* (m.): Cassivel·laune (capitost dels britans).\n- *castra, -orum* (n. pl.): campament.\n- *cogo, coegi, coactum* (3a, tr.): aplegar, reunir.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *dum* (conj.): mentre.\n- *eruptio, -onis* (f.): sortida sobtada, escomesa.\n- *interficio, interfeci, interfectum* (3a, tr.): matar.\n- *reduco, reduxi, reductum* (3a, tr.): retirar, replegar.",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 2). Exercici 2 (morfosintaxi, 1 punt). Responeu a les qüestions següents sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En la construcció *Dum **haec** in his locis **geruntur***, digueu quina funció sintàctica fa el pronom *haec* respecte a la forma verbal passiva *geruntur*.",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "En la construcció *ut […] castra naualia de improuiso **oppugnent***, digueu quin sintagma fa de complement directe del verb *oppugnent*.",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), que valen 0,5 punts cadascuna (repartiment suposat; els criteris no el detallen). Preguntes curtes (5 minuts cadascuna): respon amb frases completes, citant el mot o sintagma llatí i dient-ne el cas i la funció."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*geruntur* és un verb en veu passiva (3a pl. present d'indicatiu de *gero*). En una oració passiva, el nominatiu que concorda amb el verb n'és el **subjecte** (pacient). *haec* és nominatiu/acusatiu neutre plural; com que el verb passiu no té CD i concorda en plural, *haec* és el subjecte."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El pronom demostratiu *haec* (nominatiu neutre plural de *hic, haec, hoc*) fa de **subjecte** (pacient) de la forma verbal passiva *geruntur*: «mentre aquestes coses són fetes / s'esdevenen»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Busca l'acusatiu que depèn de *oppugnent* («ataquin»): *castra* (acusatiu neutre plural) amb l'adjectiu concordat *naualia*. *de improuiso* és un CC de manera."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El complement directe d'*oppugnent* és el sintagma ***castra naualia*** (acusatiu neutre plural: substantiu *castra* + adjectiu *naualia*), «el campament naval»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "*haec* fa de subjecte de *geruntur*."
+          },
+          {
+            "apartat": "b",
+            "valor": "*castra naualia* fa de complement directe d'*oppugnent*."
+          }
+        ],
+        "nota": "Error típic: dir que *haec* és CD perquè la forma neutra coincideix en nominatiu i acusatiu; amb un verb passiu, el nominatiu és el subjecte. A 2.1b, no incloure *de improuiso* dins del CD."
+      }
+    },
+    {
+      "id": "llati-2022-S-e2-q2-a",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: les tres construccions d'ablatiu absolut del text",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi perfet",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cassivel·laune encomana als governants de Kent assaltar per sorpresa el campament de la flota romana, però els soldats de Cèsar surten de sobte a escometre'ls**\n\nDum haec in his locis geruntur, Cassiuellaunus ad Cantium nuntios mittit atque regionis regibus imperat ut, coactis omnibus copiis, castra naualia de improuiso oppugnent. Cum ii ad castra uenissent, nostri, eruptione facta et multis eorum interfectis, suos incolumes reduxerunt.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, V, 22, 1-2\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Cantium, -i* (n.): Kent (regió del sud-est de Britània).\n- *Cassiuellaunus, -i* (m.): Cassivel·laune (capitost dels britans).\n- *castra, -orum* (n. pl.): campament.\n- *cogo, coegi, coactum* (3a, tr.): aplegar, reunir.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *dum* (conj.): mentre.\n- *eruptio, -onis* (f.): sortida sobtada, escomesa.\n- *interficio, interfeci, interfectum* (3a, tr.): matar.\n- *reduco, reduxi, reductum* (3a, tr.): retirar, replegar.",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 2). Exercici 2 (morfosintaxi, 1 punt). Responeu a les qüestions següents sobre el text de l'exercici 1.\n\n2.2. Indiqueu les tres construccions d'ablatiu absolut que apareixen en el text.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), que valen 0,5 punts cadascuna (repartiment suposat; els criteris no el detallen). Preguntes curtes (5 minuts cadascuna): respon amb frases completes, citant el mot o sintagma llatí i dient-ne el cas i la funció."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Un ablatiu absolut és un **participi en ablatiu concordat amb un nom (o pronom) en ablatiu** que no depèn de cap altre mot de l'oració. Busca participis acabats en *-o, -a, -is*: *coactis* (de *cogo*), *facta* (de *facio*), *interfectis* (de *interficio*), i el nom concordat amb cadascun."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Les tres construccions d'ablatiu absolut són:\n\n1. ***coactis omnibus copiis*** («un cop aplegades totes les tropes»): participi *coactis* + substantiu *copiis* amb l'adjectiu *omnibus*.\n2. ***eruptione facta*** («feta una sortida sobtada»): substantiu *eruptione* + participi *facta*.\n3. ***multis eorum interfectis*** («morts molts d'ells»): adjectiu substantivat *multis* (amb el genitiu partitiu *eorum*) + participi *interfectis*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*coactis omnibus copiis*; *eruptione facta*; *multis eorum interfectis*."
+          }
+        ],
+        "nota": "Error típic: oblidar *eorum* dins del tercer ablatiu absolut o confondre *in his locis* (preposició + ablatiu, CC de lloc) amb un ablatiu absolut: no hi ha cap participi."
+      }
+    },
+    {
+      "id": "llati-2022-S-e2-q1-b",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: el sintagma regionis regibus i l'oració completiva ut ... oppugnent",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "complement indirecte",
+        "complement del nom",
+        "genitiu",
+        "oració completiva",
+        "impero ut",
+        "cèsar"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "**Cassivel·laune encomana als governants de Kent assaltar per sorpresa el campament de la flota romana, però els soldats de Cèsar surten de sobte a escometre'ls**\n\nDum haec in his locis geruntur, Cassiuellaunus ad Cantium nuntios mittit atque regionis regibus imperat ut, coactis omnibus copiis, castra naualia de improuiso oppugnent. Cum ii ad castra uenissent, nostri, eruptione facta et multis eorum interfectis, suos incolumes reduxerunt.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, V, 22, 1-2\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Cantium, -i* (n.): Kent (regió del sud-est de Britània).\n- *Cassiuellaunus, -i* (m.): Cassivel·laune (capitost dels britans).\n- *castra, -orum* (n. pl.): campament.\n- *cogo, coegi, coactum* (3a, tr.): aplegar, reunir.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *dum* (conj.): mentre.\n- *eruptio, -onis* (f.): sortida sobtada, escomesa.\n- *interficio, interfeci, interfectum* (3a, tr.): matar.\n- *reduco, reduxi, reductum* (3a, tr.): retirar, replegar.",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 2). Exercici 2 (morfosintaxi, 1 punt). Responeu a les qüestions següents sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Digueu quins elements constitueixen el sintagma nominal *regionis regibus* i quina funció fa aquest sintagma respecte al verb *imperat*.",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "En la construcció ***ut** […] castra naualia de improuiso oppugnent*, digueu quin tipus d'oració introdueix *ut* i quina funció fa l'oració respecte al verb *imperat*.",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), que valen 0,5 punts cadascuna (repartiment suposat; els criteris no el detallen). Preguntes curtes (5 minuts cadascuna): respon amb frases completes, citant el mot o sintagma llatí i dient-ne el cas i la funció."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*regibus* és datiu plural de *rex, regis* (3a declinació) i és el nucli; *regionis* és genitiu singular de *regio, -onis* i en fa de complement del nom. *impero* regeix **datiu** de la persona a qui s'ordena: per tant el sintagma és CI."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El sintagma *regionis regibus* està constituït pel substantiu ***regibus***, datiu plural, que n'és el **nucli**, i pel substantiu ***regionis***, genitiu singular, que li fa de **complement del nom** («els reis de la regió»). El sintagma fa de **complement indirecte** del verb *imperat*."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Amb verbs d'ordre, petició o voluntat (*impero, rogo, postulo*...), *ut* + subjuntiu introdueix una oració **substantiva completiva** que expressa el contingut de l'ordre: és el CD del verb. No és final («perquè»): Cassivel·laune no ordena «per tal que», sinó que ordena «que ataquin»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "El nexe *ut* introdueix una **oració subordinada substantiva (completiva)**, amb el verb en subjuntiu *oppugnent*, que fa la funció de **complement directe** del verb *imperat*: «ordena que ataquin el campament naval»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "*regibus* (datiu pl.) nucli i *regionis* (genitiu sg.) complement del nom; el sintagma és CI d'*imperat*."
+          },
+          {
+            "apartat": "b",
+            "valor": "*ut* introdueix una subordinada substantiva completiva que fa de CD d'*imperat*."
+          }
+        ],
+        "nota": "Error típic: confondre l'*ut* completiu amb l'*ut* final. Alguns manuals anomenen la funció «objecte» o CD; els criteris oficials diuen CD."
+      }
+    },
+    {
+      "id": "llati-2022-S-e2-q2-b",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: cum històric i funció de nostri",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "cum històric",
+        "oració temporal",
+        "subjecte",
+        "adjectiu substantivat",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cassivel·laune encomana als governants de Kent assaltar per sorpresa el campament de la flota romana, però els soldats de Cèsar surten de sobte a escometre'ls**\n\nDum haec in his locis geruntur, Cassiuellaunus ad Cantium nuntios mittit atque regionis regibus imperat ut, coactis omnibus copiis, castra naualia de improuiso oppugnent. Cum ii ad castra uenissent, nostri, eruptione facta et multis eorum interfectis, suos incolumes reduxerunt.\n\nJuli Cèsar, *Guerra de les Gàl·lies*, V, 22, 1-2\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Cantium, -i* (n.): Kent (regió del sud-est de Britània).\n- *Cassiuellaunus, -i* (m.): Cassivel·laune (capitost dels britans).\n- *castra, -orum* (n. pl.): campament.\n- *cogo, coegi, coactum* (3a, tr.): aplegar, reunir.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *dum* (conj.): mentre.\n- *eruptio, -onis* (f.): sortida sobtada, escomesa.\n- *interficio, interfeci, interfectum* (3a, tr.): matar.\n- *reduco, reduxi, reductum* (3a, tr.): retirar, replegar.",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 2). Exercici 2 (morfosintaxi, 1 punt). Responeu a les qüestions següents sobre el text de l'exercici 1.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En la construcció ***Cum** ii ad castra uenissent*, digueu quin tipus d'oració introdueix *cum*.",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu quina funció sintàctica fa l'adjectiu substantivat *nostri* respecte al verb *reduxerunt*.",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), que valen 0,5 punts cadascuna (repartiment suposat; els criteris no el detallen). Preguntes curtes (5 minuts cadascuna): respon amb frases completes, citant el mot o sintagma llatí i dient-ne el cas i la funció."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*cum* + subjuntiu (imperfet o plusquamperfet) en una narració en passat és el **cum històric**: oració adverbial temporal amb matís causal. Aquí *uenissent* és plusquamperfet de subjuntiu (anterioritat)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El nexe *cum* introdueix una **oració subordinada adverbial temporal-causal** (*cum* històric), amb el verb *uenissent* en plusquamperfet de subjuntiu: «quan ells havien arribat / havent arribat ells al campament»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*nostri* és el possessiu *noster, -tra, -trum* en nominatiu masculí plural, sense cap nom al qual acompanyi (substantivat: «els nostres», els romans). *reduxerunt* és 3a pl.: concorda amb *nostri*."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "L'adjectiu substantivat ***nostri*** (nominatiu masculí plural) fa de **subjecte** de la forma verbal *reduxerunt*: «els nostres replegaren...»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "*cum* introdueix una subordinada adverbial temporal-causal (*cum* històric)."
+          },
+          {
+            "apartat": "b",
+            "valor": "*nostri* fa de subjecte de *reduxerunt*."
+          }
+        ],
+        "nota": "Error típic: confondre *nostri* (subjecte) amb *suos* (CD). Amb *cum* + subjuntiu, n'hi ha prou de dir temporal (o temporal-causal) i precisar que és *cum* històric."
+      }
+    },
+    {
+      "id": "llati-2022-S-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme inri: «per a més inri»",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "inri",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 3). Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *in albis*, *súmmum*, *in extremis*, *inri*, *non plus ultra*, *rictus*, *primus inter pares*, *ídem*, *in situ*, *sub iudice*, *motu proprio*, *dura lex sed lex*, *rara avis*.\n\n3.1. Va entrar tard a la sala, va fer aixecar tota la filera d'espectadors per arribar a la seva localitat i, per a més __________, li va sonar el mòbil en alçar-se el teló!",
+      "figures": [],
+      "opcions": {
+        "A": "*in albis*",
+        "B": "*súmmum*",
+        "C": "*in extremis*",
+        "D": "*inri*",
+        "E": "*non plus ultra*",
+        "F": "*rictus*",
+        "G": "*primus inter pares*",
+        "H": "*ídem*",
+        "I": "*in situ*",
+        "J": "*sub iudice*",
+        "K": "*motu proprio*",
+        "L": "*dura lex sed lex*",
+        "M": "*rara avis*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quin significat ha de tenir el buit i busca el llatinisme que hi encaixa pel sentit i per la categoria gramatical. No se'n pot repetir cap: fes primer les que tinguis clares."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "L'expressió feta catalana és «**per a més inri**»: «per acabar-ho d'adobar, per si no n'hi havia prou». *INRI* són les sigles de *Iesus Nazarenus Rex Iudaeorum*, la inscripció burlesca que Pilat va fer posar a la creu; d'aquí el sentit d'«escarni, ofensa afegida». *Súmmum* o *non plus ultra* no formen aquesta locució."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*inri*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la llista: *in albis* (en blanc, sense saber res), *súmmum* (el màxim), *in extremis* (a l'últim moment), *inri* (burla, escarni; «per a més inri», per acabar-ho d'adobar), *non plus ultra* (el màxim, allò insuperable), *rictus* (ganyota), *primus inter pares* (el primer entre iguals), *ídem* (el mateix), *in situ* (al mateix lloc), *sub iudice* (pendent de resolució judicial), *motu proprio* (per iniciativa pròpia), *dura lex sed lex* (la llei és dura, però és la llei), *rara avis* (persona o cosa singular)."
+      }
+    },
+    {
+      "id": "llati-2022-S-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme in situ: investigació al mateix lloc",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "in situ",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 3). Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *in albis*, *súmmum*, *in extremis*, *inri*, *non plus ultra*, *rictus*, *primus inter pares*, *ídem*, *in situ*, *sub iudice*, *motu proprio*, *dura lex sed lex*, *rara avis*.\n\n3.2. El comissari es va traslladar a l'escenari del crim per a la investigació __________ dels fets.",
+      "figures": [],
+      "opcions": {
+        "A": "*in albis*",
+        "B": "*súmmum*",
+        "C": "*in extremis*",
+        "D": "*inri*",
+        "E": "*non plus ultra*",
+        "F": "*rictus*",
+        "G": "*primus inter pares*",
+        "H": "*ídem*",
+        "I": "*in situ*",
+        "J": "*sub iudice*",
+        "K": "*motu proprio*",
+        "L": "*dura lex sed lex*",
+        "M": "*rara avis*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "I",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quin significat ha de tenir el buit i busca el llatinisme que hi encaixa pel sentit i per la categoria gramatical. No se'n pot repetir cap: fes primer les que tinguis clares."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "El comissari es desplaça a l'escenari del crim: la investigació es fa «**al mateix lloc**» on van passar els fets, que és el significat d'*in situ* (literalment «en el lloc»)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*in situ*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la llista: *in albis* (en blanc, sense saber res), *súmmum* (el màxim), *in extremis* (a l'últim moment), *inri* (burla, escarni; «per a més inri», per acabar-ho d'adobar), *non plus ultra* (el màxim, allò insuperable), *rictus* (ganyota), *primus inter pares* (el primer entre iguals), *ídem* (el mateix), *in situ* (al mateix lloc), *sub iudice* (pendent de resolució judicial), *motu proprio* (per iniciativa pròpia), *dura lex sed lex* (la llei és dura, però és la llei), *rara avis* (persona o cosa singular)."
+      }
+    },
+    {
+      "id": "llati-2022-S-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme in extremis: a l'últim moment",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "in extremis",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 3). Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *in albis*, *súmmum*, *in extremis*, *inri*, *non plus ultra*, *rictus*, *primus inter pares*, *ídem*, *in situ*, *sub iudice*, *motu proprio*, *dura lex sed lex*, *rara avis*.\n\n3.3. La solució va arribar __________, quan ja s'havien donat per vençuts.",
+      "figures": [],
+      "opcions": {
+        "A": "*in albis*",
+        "B": "*súmmum*",
+        "C": "*in extremis*",
+        "D": "*inri*",
+        "E": "*non plus ultra*",
+        "F": "*rictus*",
+        "G": "*primus inter pares*",
+        "H": "*ídem*",
+        "I": "*in situ*",
+        "J": "*sub iudice*",
+        "K": "*motu proprio*",
+        "L": "*dura lex sed lex*",
+        "M": "*rara avis*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "C",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quin significat ha de tenir el buit i busca el llatinisme que hi encaixa pel sentit i per la categoria gramatical. No se'n pot repetir cap: fes primer les que tinguis clares."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "«Quan ja s'havien donat per vençuts» indica que la solució arriba **a l'últim moment**: *in extremis* (literalment «en els darrers moments»)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*in extremis*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la llista: *in albis* (en blanc, sense saber res), *súmmum* (el màxim), *in extremis* (a l'últim moment), *inri* (burla, escarni; «per a més inri», per acabar-ho d'adobar), *non plus ultra* (el màxim, allò insuperable), *rictus* (ganyota), *primus inter pares* (el primer entre iguals), *ídem* (el mateix), *in situ* (al mateix lloc), *sub iudice* (pendent de resolució judicial), *motu proprio* (per iniciativa pròpia), *dura lex sed lex* (la llei és dura, però és la llei), *rara avis* (persona o cosa singular)."
+      }
+    },
+    {
+      "id": "llati-2022-S-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme in albis: quedar-se en blanc",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "in albis",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 3). Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *in albis*, *súmmum*, *in extremis*, *inri*, *non plus ultra*, *rictus*, *primus inter pares*, *ídem*, *in situ*, *sub iudice*, *motu proprio*, *dura lex sed lex*, *rara avis*.\n\n3.4. Quan va ser el seu torn, es va quedar __________ i no va saber què dir.",
+      "figures": [],
+      "opcions": {
+        "A": "*in albis*",
+        "B": "*súmmum*",
+        "C": "*in extremis*",
+        "D": "*inri*",
+        "E": "*non plus ultra*",
+        "F": "*rictus*",
+        "G": "*primus inter pares*",
+        "H": "*ídem*",
+        "I": "*in situ*",
+        "J": "*sub iudice*",
+        "K": "*motu proprio*",
+        "L": "*dura lex sed lex*",
+        "M": "*rara avis*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "A",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quin significat ha de tenir el buit i busca el llatinisme que hi encaixa pel sentit i per la categoria gramatical. No se'n pot repetir cap: fes primer les que tinguis clares."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "«No va saber què dir»: es va quedar **en blanc**, sense saber res. És el sentit de «quedar-se *in albis*» (literalment «en blanc»)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*in albis*"
+          }
+        ],
+        "nota": "Repassa els llatinismes de la llista: *in albis* (en blanc, sense saber res), *súmmum* (el màxim), *in extremis* (a l'últim moment), *inri* (burla, escarni; «per a més inri», per acabar-ho d'adobar), *non plus ultra* (el màxim, allò insuperable), *rictus* (ganyota), *primus inter pares* (el primer entre iguals), *ídem* (el mateix), *in situ* (al mateix lloc), *sub iudice* (pendent de resolució judicial), *motu proprio* (per iniciativa pròpia), *dura lex sed lex* (la llei és dura, però és la llei), *rara avis* (persona o cosa singular)."
+      }
+    },
+    {
+      "id": "llati-2022-S-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ciceró i la conjuració de Catilina",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ciceró",
+        "catilina",
+        "oratòria",
+        "catilinàries",
+        "república"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 3). Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.1. Essent cònsol en exercici, Ciceró va haver d'afrontar la conspiració de",
+      "figures": [],
+      "opcions": {
+        "a": "Messal·la.",
+        "b": "Mecenas.",
+        "c": "Catilina.",
+        "d": "Jugurta."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses; si dubtes només entre dues, respondre té esperança positiva."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "L'any **63 aC**, essent cònsol, Ciceró va descobrir i denunciar la conjuració de **Luci Sergi Catilina**, que volia prendre el poder per la força; els quatre discursos que hi va pronunciar són les *Catilinàries* («Quo usque tandem abutere, Catilina, patientia nostra?»). Messal·la i Mecenas són protectors literaris de l'època d'August, i Jugurta, el rei númida contra qui Roma va lluitar (narrat per Sal·lusti)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) Catilina."
+          }
+        ],
+        "nota": "Preguntes de literatura llatina: cal conèixer els gèneres (èpica, lírica, elegia, comèdia, historiografia, oratòria), els autors principals i els cercles literaris de l'època d'August."
+      }
+    },
+    {
+      "id": "llati-2022-S-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Horaci i Virgili, difusors de la política moral d'August",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "august",
+        "horaci",
+        "virgili",
+        "cercle de mecenas",
+        "època d'august"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 3). Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.2. Els ideals de regeneració moral d'August van ser divulgats per escriptors com",
+      "figures": [],
+      "opcions": {
+        "a": "Nepot i Cèsar.",
+        "b": "Horaci i Virgili.",
+        "c": "Catul i Ciceró.",
+        "d": "Properci i Ovidi."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses; si dubtes només entre dues, respondre té esperança positiva."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Horaci** i **Virgili**, membres del **cercle de Mecenas**, van difondre els valors del programa augusti (pietat, retorn a la vida del camp, grandesa de Roma): les *Geòrgiques* i l'*Eneida* de Virgili, les *Odes* romanes i el *Carmen saeculare* d'Horaci. Nepot, Cèsar, Catul i Ciceró són d'època republicana; Properci i Ovidi, elegíacs amorosos, s'allunyen d'aquest programa (Ovidi fins i tot va ser desterrat)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Horaci i Virgili."
+          }
+        ],
+        "nota": "Preguntes de literatura llatina: cal conèixer els gèneres (èpica, lírica, elegia, comèdia, historiografia, oratòria), els autors principals i els cercles literaris de l'època d'August."
+      }
+    },
+    {
+      "id": "llati-2022-S-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Titus Livi, historiador",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "titus livi",
+        "historiografia",
+        "ab urbe condita",
+        "gèneres literaris"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 3). Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.3. Titus Livi va conrear el gènere literari de",
+      "figures": [],
+      "opcions": {
+        "a": "la historiografia.",
+        "b": "l'elegia.",
+        "c": "l'oratòria.",
+        "d": "l'èpica."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses; si dubtes només entre dues, respondre té esperança positiva."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Titus Livi (59 aC - 17 dC) és l'autor de l'***Ab urbe condita***, una història de Roma des de la fundació en 142 llibres (se'n conserven 35): és **historiografia**. L'elegia la conreen Tibul, Properci i Ovidi; l'oratòria, Ciceró; l'èpica, Virgili."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) la historiografia."
+          }
+        ],
+        "nota": "Preguntes de literatura llatina: cal conèixer els gèneres (èpica, lírica, elegia, comèdia, historiografia, oratòria), els autors principals i els cercles literaris de l'època d'August."
+      }
+    },
+    {
+      "id": "llati-2022-S-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Les Heroides d'Ovidi",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "heroides",
+        "elegia",
+        "gènere epistolar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 3). Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.4. L'obra d'Ovidi que constitueix un recull de cartes escrites per personatges mítics femenins als seus amants absents es titula",
+      "figures": [],
+      "opcions": {
+        "a": "*Amors*.",
+        "b": "*Heroides*.",
+        "c": "*Tristes*.",
+        "d": "*Pòntiques*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses; si dubtes només entre dues, respondre té esperança positiva."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Les ***Heroides*** són cartes en dístics elegíacs que heroïnes mítiques (Penèlope, Dido, Ariadna, Medea...) escriuen als seus amants absents. Els *Amors* són elegies amoroses; les *Tristes* i les *Pòntiques* (cartes des del Pont) són obres de l'exili a Tomis."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) *Heroides*."
+          }
+        ],
+        "nota": "Preguntes de literatura llatina: cal conèixer els gèneres (èpica, lírica, elegia, comèdia, historiografia, oratòria), els autors principals i els cercles literaris de l'època d'August."
+      }
+    },
+    {
+      "id": "llati-2022-S-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Metamorfosis d'Ovidi: el rapte d'Europa",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "rapte d'europa",
+        "júpiter",
+        "mercuri",
+        "messal·la corví",
+        "lectures obligatòries"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "El net d'Atlas [...] torna al cel, fent bategar les seves ales. El seu pare el crida a part i li diu, sense confessar-li que és l'amor el que el mou: «Fill meu, tu que sempre compleixes fidelment les meves ordres, no perdis temps i torna a baixar ràpidament, com fas sempre. Has d'anar a un país que mira la teva mare des de l'esquerra i que és anomenat la terra de Sidó pels seus habitants; has d'agafar el ramat reial, que veus pasturar lluny, a l'herba de la muntanya, i portar-lo cap a la platja.»\n\n(Traducció de Ferran Aguilera)",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 4). Llegiu el passatge de sota, que pertany a una de les lectures obligatòries, i mireu la imatge de la pintura d'Erasmus el Jove (1607-1678). Elaboreu un text de quinze línies com a mínim (unes cent cinquanta paraules) que expliqui l'argument de l'episodi responent a les qüestions següents:\n\n- A quina obra i a quin episodi concret de l'obra pertany el passatge.\n- Qui n'és l'autor i en quin entorn literari va desenvolupar la seva producció.\n- Qui és el net d'Atlas esmentat a l'inici del passatge i de qui és fill.\n- Per quin motiu el seu pare li encomana de dur el ramat reial cap a la platja.\n- Com es desenvolupen els fets i com es resolen un cop ha dut a terme la comesa del pare.",
+      "figures": [
+        {
+          "src": "img/llati/2022-S/e4-a.png",
+          "peu": "Erasmus Quellinus el Jove, *El rapte d'Europa*: Europa, asseguda sobre el toro (Júpiter), és portada mar enllà."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **3 punts** (uns 25-30 minuts). És un **text expositiu** continu, no una llista de respostes: mínim 15 línies (~150 paraules), però és millor arribar a 250-300 per cobrir les cinc qüestions. Segueix l'ordre de la consigna, un paràgraf per bloc: (1) obra i episodi; (2) autor i entorn literari; (3) qui és el net d'Atlas i de qui és fill; (4) per què Júpiter li encarrega el ramat; (5) desenvolupament i desenllaç. La pintura (una noia sobre un toro, al mar) és la pista definitiva."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Obra i episodi**: ramat reial, terra de Sidó (Fenícia), un pare mogut per l'amor + la pintura → **el rapte d'Europa**, final del llibre II de les *Metamorfosis* d'**Ovidi**.\n2. **Autor i entorn**: Publi Ovidi Nasó, final de l'època d'August, generació posterior a Virgili i Horaci; cercle de **Messal·la Corví**, suport de Tibul.\n3. **Net d'Atlas**: **Mercuri** (ales als peus, missatger), fill de Júpiter i de Maia, una de les Plèiades, filles d'Atlas i Plèione.\n4. **Motiu**: Júpiter vol seduir Europa, filla del rei Agènor, que juga a la platja.\n5. **Fets i desenllaç**: Júpiter es transforma en toro blanc, Europa s'hi acosta, hi puja i el déu se l'emporta per mar (fins a Creta)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El passatge pertany a l'episodi del **rapte d'Europa**, que tanca el llibre II de les ***Metamorfosis***, el gran recull de mites i llegendes grecs i romans que el poeta llatí **Publi Ovidi Nasó** va compondre en hexàmetres dactílics, units pel tema de la transformació.\n\nOvidi (43 aC - 17 dC) va desenvolupar la seva obra en els cercles literaris del final de l'època d'August. Pertanyia a una generació més jove que la de Virgili i Horaci i va formar part del cercle de Valeri **Messal·la Corví**, on va rebre el suport del poeta elegíac Tibul.\n\nEl net d'Atlas és **Mercuri**, fill de **Júpiter** i de **Maia**, una de les Plèiades, filles d'Atlas i Plèione. Júpiter, enamorat d'**Europa**, filla del rei Agènor de Fenícia (la terra de Sidó), li encomana que condueixi el ramat reial fins a la platja, on la princesa juga amb les seves companyes, perquè vol seduir-la sense revelar el seu amor.\n\nUn cop complerta l'ordre, Júpiter pren l'aparença d'un **toro** d'una blancor immaculada, bell i mans, i es barreja amb el ramat. Europa n'admira la bellesa i la docilitat; després d'un primer dubte, s'hi acosta, li ofereix flors i, finalment, gosa seure-li al llom. Llavors el déu s'endinsa a poc a poc dins l'aigua i se l'emporta mar enllà, mentre ella, espantada, mira la platja i s'agafa a una banya amb la mà dreta. Júpiter la portarà fins a Creta, on serà mare de Minos."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Obra i episodi: «El rapte d'Europa», *Metamorfosis*, recull de mites grecs i romans en hexàmetres de Publi Ovidi Nasó."
+          },
+          {
+            "apartat": null,
+            "valor": "Entorn: cercles literaris del final de l'època d'August; generació més jove que Virgili i Horaci; cercle de Valeri Messal·la Corví i suport de Tibul."
+          },
+          {
+            "apartat": null,
+            "valor": "Net d'Atlas: Mercuri, fill de Júpiter i de Maia (una de les set Plèiades, filles d'Atlas i Plèione)."
+          },
+          {
+            "apartat": null,
+            "valor": "Motiu: Júpiter vol seduir Europa, filla del rei Agènor de Fenícia, que juga a la platja amb les companyes."
+          },
+          {
+            "apartat": null,
+            "valor": "Desenvolupament: Júpiter pren la forma d'un toro blanc, bell i pacífic; Europa l'admira, el toca, el peixa i hi puja al llom; el toro entra al mar i se l'emporta segrestada, agafada a una banya."
+          }
+        ],
+        "nota": "Errors típics: confondre Mercuri amb Apol·lo o amb un altre déu; dir que Ovidi era del cercle de Mecenas (era el de Messal·la); oblidar que Júpiter amaga a Mercuri el motiu amorós. El model oficial és orientatiu i no s'ha de reproduir literalment. La resposta model fa unes 238 paraules (el mínim és ~150). Escriu un text cohesionat, no un esquema."
+      }
+    },
+    {
+      "id": "llati-2022-S-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 3,
+      "titol": "La ciutat romana d'Empúries",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "empúries",
+        "emporion",
+        "romanització",
+        "urbanisme romà",
+        "fòrum",
+        "domus",
+        "insulae",
+        "segona guerra púnica"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 4). El plànol adjunt correspon a una reconstrucció de l'Empúries romana. En quinze línies com a mínim (unes cent cinquanta paraules), desenvolupeu el tema: *La ciutat romana d'Empúries*, contestant les qüestions següents:\n\n- Digueu quins pobles habitaven la zona abans de l'arribada dels romans i a què es dedicaven.\n- Especifiqueu en quin segle hi arribaren els romans i per quin motiu.\n- Expliqueu-ne el procés d'assentament.\n- Descriviu l'estructura de la ciutat i digueu quins tipus d'habitatge hi havia.\n- Esmenteu els edificis públics que hi havia al fòrum i la seva funció.\n- Digueu quins edificis destinats a l'oci tenien els emporitans de l'època romana.\n- Expliqueu quan i per quins motius l'Empúries romana entrà en decadència.",
+      "figures": [
+        {
+          "src": "img/llati/2022-S/e4-b.png",
+          "peu": "Plànol de la ciutat romana d'Empúries: muralla, fòrum, *cardo maximus*, *domus*, cases humils, amfiteatre i palestra extramurs, i muralla d'unió amb la ciutat grega. Font: adaptació de R. Marcet i E. Sanmartí, *Empúries*, Diputació de Barcelona, 1989."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **3 punts** (uns 25-30 minuts). Cal un **text expositiu** continu de mínim 15 línies (~150 paraules) que respongui les set qüestions en ordre, un paràgraf per bloc. Amb set qüestions, és realista anar a unes 300 paraules. Aprofita el plànol: hi surten la muralla, el fòrum, el *cardo maximus*, les *domus*, les cases humils, l'amfiteatre, la palestra i la muralla d'unió amb la ciutat grega."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Pobles anteriors**: indigets (ibers; agricultura i ramaderia) i grecs de Focea (s. VI aC, comerç), separats per una muralla.\n2. **Arribada dels romans**: s. III aC, 218 aC, Segona Guerra Púnica, Gneu Corneli Escipió (tallar el pas als cartaginesos).\n3. **Assentament**: campament de Cató (195 aC) → ciutat a principis del s. I aC → unió amb la grega sota August (*Municipium Emporiae*).\n4. **Estructura i habitatge**: planta rectangular, muralla, *cardo* i *decumanus*, fòrum central; *insulae* i *domus*.\n5. **Fòrum**: temple capitolí, temples de culte imperial, basílica, cúria, *tabernae*.\n6. **Oci**: amfiteatre, palestra (extramurs), termes.\n7. **Decadència**: des del s. I dC; port colgat pel Fluvià i competència de Tàrraco i Bàrcino."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Abans de l'arribada dels romans, la zona de l'Empordà era habitada pels **indigets**, una tribu ibera que es dedicava a l'agricultura i la ramaderia. Al **segle VI aC** hi van arribar els **grecs** de Focea, amb una finalitat comercial, i van fundar *Emporion* («mercat»); indigets i grecs van conviure en un mateix recinte, separats per una muralla interior.\n\nEls romans hi van desembarcar per primera vegada l'any **218 aC** (segle III aC), durant la **Segona Guerra Púnica**: l'exèrcit de **Gneu Corneli Escipió** va arribar al port d'Empúries per tallar el pas per terra a les tropes cartagineses d'Anníbal.\n\nL'any **195 aC**, **Marc Porci Cató** hi va instal·lar un campament militar, embrió de la ciutat romana, que es va crear a principis del segle I aC. En època d'**August**, les ciutats grega i romana es van unir físicament i jurídicament en el ***Municipium Emporiae***.\n\nLa ciutat tenia planta rectangular, envoltada de **muralla**, amb dos carrers principals, el ***cardo*** i el ***decumanus***, i el **fòrum** al centre. La gent humil vivia en blocs de pisos (***insulae***) i els rics, en luxoses ***domus*** amb mosaics i peristils, com les dues que s'han excavat.\n\nAl fòrum hi havia el **temple** de la Tríada Capitolina (Júpiter, Juno i Minerva), dos temples petits de culte imperial, la **basílica** (judicis), la **cúria** (reunions polítiques) i botigues (***tabernae***). Per a l'oci, hi havia l'**amfiteatre** i la **palestra**, fora muralles, i les **termes**, lloc d'higiene i de trobada.\n\nA partir del **segle I dC** Empúries va entrar en una lenta **decadència**: el port es va inutilitzar pels sediments del riu Fluvià i la competència de **Tàrraco** i **Bàrcino** li va prendre la importància comercial."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Pobles anteriors: indigets (tribu ibera, agricultura i ramaderia) i grecs de Focea (s. VI aC, finalitat comercial), en un recinte separat per una muralla interior."
+          },
+          {
+            "apartat": null,
+            "valor": "Arribada: 218 aC, Segona Guerra Púnica; Gneu Corneli Escipió desembarca per tallar el pas als cartaginesos."
+          },
+          {
+            "apartat": null,
+            "valor": "Assentament: campament de Marc Porci Cató (195 aC), ciutat romana a principis del s. I aC; amb August, unió amb la grega: *Municipium Emporiae*."
+          },
+          {
+            "apartat": null,
+            "valor": "Estructura: rectangular, emmurallada, *cardo* i *decumanus*, fòrum central; habitatges: *insulae* i *domus* luxoses amb mosaics i peristils."
+          },
+          {
+            "apartat": null,
+            "valor": "Fòrum: temple de la Tríada Capitolina, dos temples de culte imperial, basílica (judicis), cúria (reunions polítiques) i *tabernae*."
+          },
+          {
+            "apartat": null,
+            "valor": "Oci: amfiteatre (extramurs), palestra (extramurs) i termes (descobertes l'any 2000)."
+          },
+          {
+            "apartat": null,
+            "valor": "Decadència: des del s. I dC, inutilització del port pels sediments del Fluvià i competència de Tàrraco i Bàrcino."
+          }
+        ],
+        "nota": "Errors típics: dir que els grecs van arribar amb els romans o confondre'ls; datar l'arribada romana al s. II aC (és el 218 aC, s. III aC); oblidar la unió amb la ciutat grega en època d'August. El model oficial és orientatiu. La resposta model fa unes 275 paraules (el mínim és ~150)."
+      }
+    }
+  ]
+}

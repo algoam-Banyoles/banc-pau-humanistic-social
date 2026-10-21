@@ -1,0 +1,967 @@
+{
+  "examen": {
+    "id": "llati-2023-J",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2023,
+    "convocatoria": "juny",
+    "serie": "1",
+    "pdf_examen": "pdfs/llati/2023-J-examen.pdf",
+    "pdf_solucio": null,
+    "estructura": "Quatre exercicis (10 punts): 1. Traducció d'un text de Cèsar, *Guerra civil* (4 punts, obligatori); 2. Morfosintaxi sobre el mateix text (1 punt): cal triar l'opció A o la B (dues qüestions cadascuna); 3. Llengua, literatura o civilització romanes (2 punts): cal triar l'opció A (completar 4 frases amb llatinismes d'una llista; 0,5 per encert, sense penalització) o la B (4 preguntes d'opció múltiple de literatura; 0,5 per encert i −0,16 per error); 4. Exposició (mínim 15 línies, unes 150 paraules) d'un tema de literatura o civilització (3 punts): cal triar l'opció A (Perseu i Andròmeda, *Metamorfosis* d'Ovidi) o la B (De Bàrcino a Barcelona, amb un plànol). No es disposa dels criteris oficials d'aquesta convocatòria: les solucions són d'elaboració pròpia."
+  },
+  "problemes": [
+    {
+      "id": "llati-2023-J-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 4,
+      "titol": "Traducció de Cèsar: arribada al campament i marxa cap a Ilerda",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "cèsar",
+        "de bello civili",
+        "ablatiu absolut",
+        "oració de relatiu",
+        "doble datiu",
+        "present històric",
+        "ilerda"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Cèsar arriba al campament amb la seva escorta de cavalleria i es prepara per enfrontar-se al general pompeià Afrani**\n\n**Eo biduo** Caesar cum equitibus quos sibi **reliquerat** in **castra** peruenit. Cognita **locorum** natura, ponti **castris**que **praesidio** sex cohortes **relinquit** atque omnia **impedimenta**, et postero die omnibus **copiis** ad **Ilerdam** **proficiscitur** et sub castris **Afrani** consistit.\n\nJuli Cèsar, *Guerra civil*, I, 41, 1-3\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Afranius, -i* (m.): Afrani (general de Pompeu).\n- *castra, -orum* (n. pl.): campament.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *eo biduo* (loc. adv.): al cap de dos dies.\n- *Ilerda, -ae* (f.): Ilerda (ciutat de la Tarraconense; avui, Lleida).\n- *impedimentum, -i* (n.): (mil., esp. pl.) bagatge, impedimenta.\n- *locus, -i* (m. i n.): lloc; (pl.) regió, terreny.\n- *praesidium, -i* (n.): protecció, guarnició; (mil.) *praesidio relinquere*, deixar com a guarnició.\n- *proficiscor, profectus sum* (3a, dep., intr.): anar-se'n, sortir.\n- *relinquo, reliqui, relictum* (3a, tr.): deixar, reservar.",
+      "enunciat": "Feu la versió del text següent (4 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de Cèsar (*De bello civili*, I, 41): la campanya d'Ilerda (49 aC) contra els llegats de Pompeu, Afrani i Petreu. Són dues oracions i el lèxic difícil ja està glossat. Val **4 punts**, el 40 % de la nota: dedica-hi uns 35-40 minuts.\n\nMètode: (1) llegeix el títol, que t'explica el contingut (Cèsar arriba al campament amb la cavalleria i es prepara per enfrontar-se a Afrani); (2) localitza els **verbs conjugats**: *reliquerat*, *peruenit*, *relinquit*, *proficiscitur*, *consistit*; (3) identifica l'ablatiu absolut *Cognita locorum natura* i la relativa *quos sibi reliquerat*; (4) fes una traducció literal i després poleix-la.\n\nParanys: *eo biduo* és una locució («al cap de dos dies»), no «en aquell bienni»; *praesidio* és un **datiu de finalitat** (amb *ponti castrisque*, doble datiu: «com a guarnició per al pont i el campament»); *sex cohortes* i *omnia impedimenta* són tots dos CD de *relinquit*, separats pel verb; *proficiscor* és **deponent** (forma passiva, significat actiu: «surt», no «és sortit»); *relinquit*, *proficiscitur* i *consistit* són **presents històrics**: pots traduir-los en present o en passat, però sigues coherent."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Eo biduo Caesar cum equitibus quos sibi reliquerat in castra peruenit.*\n\n- Verb principal: *peruenit*, 3a sg. perfet d'indicatiu actiu de *peruenio* («arribà»). Subjecte: *Caesar* (nominatiu sg.).\n- *Eo biduo*: locució adverbial (ablatiu de temps): «al cap de dos dies».\n- *cum equitibus*: *cum* + ablatiu pl. de *eques, -itis*: CC de companyia, «amb els genets».\n- *quos sibi reliquerat*: **subordinada adjectiva de relatiu**; *quos* (acusatiu pl. m.) té per antecedent *equitibus* i fa de CD de *reliquerat* (3a sg. plusquamperfet d'indicatiu de *relinquo*, «havia deixat, s'havia reservat»); *sibi*, datiu del pronom reflexiu, CI/datiu d'interès: «per a ell mateix». El plusquamperfet indica anterioritat: Cèsar s'havia quedat aquests genets com a escorta.\n- *in castra*: *in* + acusatiu (*castra, -orum*, n. pl.): CC de lloc a on, «al campament»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Cognita locorum natura, ponti castrisque praesidio sex cohortes relinquit atque omnia impedimenta, et postero die omnibus copiis ad Ilerdam proficiscitur et sub castris Afrani consistit.*\n\n- *Cognita locorum natura*: **ablatiu absolut**: *natura* (ablatiu sg.) és el subjecte i *cognita* (participi perfet passiu de *cognosco*, ablatiu sg. f.) el predicat; *locorum* (genitiu pl. de *locus*, «terreny») és CN de *natura*: «un cop coneguda la naturalesa del terreny».\n- Tres verbs coordinats amb el mateix subjecte el·líptic (Cèsar): *relinquit* (3a sg. present d'indicatiu de *relinquo*), *proficiscitur* (3a sg. present de *proficiscor*, deponent) i *consistit* (3a sg. present de *consisto*), units per *et ... et*.\n- Primer membre: *ponti castrisque praesidio*: **doble datiu**: *praesidio* (datiu de finalitat, «com a guarnició») i *ponti castrisque* (datius d'interès de *pons, pontis* i *castra*, coordinats per l'enclític *-que*). CD: *sex cohortes* (ac. pl.) *atque omnia impedimenta* (ac. pl. n.): «deixa sis cohorts i tot el bagatge com a guarnició del pont i del campament».\n- Segon membre: *postero die* (ablatiu de temps, «l'endemà»); *omnibus copiis* (ablatiu de companyia sense *cum*, habitual en llenguatge militar: «amb totes les tropes»); *ad Ilerdam* (*ad* + acusatiu, CC de lloc a on / direcció: «cap a Ilerda»).\n- Tercer membre: *sub castris Afrani* (*sub* + ablatiu, CC de lloc on: «al peu del campament»; *Afrani*, genitiu sg. de *Afranius*, CN de *castris*): «i s'atura al peu del campament d'Afrani»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Al cap de dos dies Cèsar amb els genets que per a si havia deixat al campament arribà. Coneguda la naturalesa dels llocs, al pont i al campament com a guarnició sis cohorts deixa i tots els bagatges, i el dia següent amb totes les tropes cap a Ilerda surt i sota el campament d'Afrani s'atura."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Al cap de dos dies, Cèsar va arribar al campament amb els genets que s'havia reservat. Un cop conegut el relleu del terreny, deixa sis cohorts i tot el bagatge com a guarnició del pont i del campament, i l'endemà surt amb totes les tropes cap a Ilerda i s'atura al peu del campament d'Afrani.\n\nTambé és correcte mantenir tots els verbs en passat: «... va deixar sis cohorts i tot el bagatge com a guarnició del pont i del campament, i l'endemà va sortir amb totes les tropes cap a Ilerda i es va aturar al peu del campament d'Afrani.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió proposada (no hi ha versió oficial disponible): «Al cap de dos dies, Cèsar va arribar al campament amb els genets que s'havia reservat. Un cop conegut el relleu del terreny, deixa sis cohorts i tot el bagatge com a guarnició del pont i del campament, i l'endemà surt amb totes les tropes cap a Ilerda i s'atura al peu del campament d'Afrani.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: *eo biduo* «al cap de dos dies»; relativa *quos sibi reliquerat* (antecedent *equitibus*, *quos* CD); ablatiu absolut *Cognita locorum natura*; doble datiu *ponti castrisque praesidio*; CD de *relinquit*: *sex cohortes* i *omnia impedimenta*; *omnibus copiis* ablatiu de companyia; *ad Ilerdam* direcció; *sub castris Afrani* situació; *proficiscitur* deponent; presents històrics."
+          }
+        ],
+        "nota": "Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí. Errors típics: fer *castra* singular «el castell» (és plurale tantum: «el campament»); traduir *praesidio* com un complement de lloc; oblidar *omnia impedimenta* com a segon CD; traduir *proficiscitur* en passiva; barrejar presents i passats sense criteri. Context: el 49 aC Cèsar lluita a Ilerda (Lleida) contra els llegats pompeians Afrani i Petreu; la campanya acabarà amb la rendició dels pompeians."
+      }
+    },
+    {
+      "id": "llati-2023-J-e2-q1-a",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: ablatiu absolut Cognita locorum natura",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi perfet",
+        "complement del nom",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cèsar arriba al campament amb la seva escorta de cavalleria i es prepara per enfrontar-se al general pompeià Afrani**\n\n**Eo biduo** Caesar cum equitibus quos sibi **reliquerat** in **castra** peruenit. Cognita **locorum** natura, ponti **castris**que **praesidio** sex cohortes **relinquit** atque omnia **impedimenta**, et postero die omnibus **copiis** ad **Ilerdam** **proficiscitur** et sub castris **Afrani** consistit.\n\nJuli Cèsar, *Guerra civil*, I, 41, 1-3\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Afranius, -i* (m.): Afrani (general de Pompeu).\n- *castra, -orum* (n. pl.): campament.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *eo biduo* (loc. adv.): al cap de dos dies.\n- *Ilerda, -ae* (f.): Ilerda (ciutat de la Tarraconense; avui, Lleida).\n- *impedimentum, -i* (n.): (mil., esp. pl.) bagatge, impedimenta.\n- *locus, -i* (m. i n.): lloc; (pl.) regió, terreny.\n- *praesidium, -i* (n.): protecció, guarnició; (mil.) *praesidio relinquere*, deixar com a guarnició.\n- *proficiscor, profectus sum* (3a, dep., intr.): anar-se'n, sortir.\n- *relinquo, reliqui, relictum* (3a, tr.): deixar, reservar.",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 2, morfosintaxi, 1 punt). Responeu sobre el text de l'exercici 1.\n\n2.1. Digueu com s'anomena la construcció formada per *Cognita locorum natura*; expliqueu els elements que la constitueixen i la relació sintàctica existent entre ells.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt en total): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), que valen aproximadament 0,5 punts cadascuna. Pregunta curta (uns 10 minuts). Respon amb frases completes i justifica cada funció amb la forma (cas, nombre) del mot. Segueix l'ordre de la consigna: nom de la construcció → elements (forma de cada mot) → relació sintàctica. No n'hi ha prou de dir «ablatiu absolut»."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*cognita* ve de *cognosco, cognoui, cognitum*: és participi perfet passiu; *natura* (1a declinació) pot ser nominatiu o ablatiu, però aquí no fa cap funció en l'oració principal (el subjecte de *relinquit* és Cèsar) → és ablatiu, concordat amb *cognita*. Participi + nom en ablatiu independents de la resta de l'oració = **ablatiu absolut**. El genitiu *locorum* depèn de *natura*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Cognita locorum natura* és un **ablatiu absolut**. Està format pel substantiu *natura* (ablatiu singular femení), que concorda en cas, gènere i nombre amb el participi perfet passiu *cognita* (de *cognosco*), també en ablatiu singular femení. El participi *cognita* fa de **predicat verbal** de la construcció i el substantiu *natura* n'és el **subjecte**; el genitiu plural *locorum* és **complement del nom** de *natura*. Equival a una subordinada temporal o causal: «un cop coneguda la naturalesa del terreny»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Ablatiu absolut: *natura* (subst. en ablatiu, subjecte) concorda amb el participi *cognita* (ablatiu, predicat verbal); *locorum* (genitiu) és CN de *natura*."
+          }
+        ],
+        "nota": "Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí. Errors típics: confondre l'ablatiu absolut amb un participi concertat; no esmentar la funció de *locorum*."
+      }
+    },
+    {
+      "id": "llati-2023-J-e2-q2-a",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: subjecte i CD de relinquit",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "subjecte el·líptic",
+        "complement directe",
+        "acusatiu",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cèsar arriba al campament amb la seva escorta de cavalleria i es prepara per enfrontar-se al general pompeià Afrani**\n\n**Eo biduo** Caesar cum equitibus quos sibi **reliquerat** in **castra** peruenit. Cognita **locorum** natura, ponti **castris**que **praesidio** sex cohortes **relinquit** atque omnia **impedimenta**, et postero die omnibus **copiis** ad **Ilerdam** **proficiscitur** et sub castris **Afrani** consistit.\n\nJuli Cèsar, *Guerra civil*, I, 41, 1-3\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Afranius, -i* (m.): Afrani (general de Pompeu).\n- *castra, -orum* (n. pl.): campament.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *eo biduo* (loc. adv.): al cap de dos dies.\n- *Ilerda, -ae* (f.): Ilerda (ciutat de la Tarraconense; avui, Lleida).\n- *impedimentum, -i* (n.): (mil., esp. pl.) bagatge, impedimenta.\n- *locus, -i* (m. i n.): lloc; (pl.) regió, terreny.\n- *praesidium, -i* (n.): protecció, guarnició; (mil.) *praesidio relinquere*, deixar com a guarnició.\n- *proficiscor, profectus sum* (3a, dep., intr.): anar-se'n, sortir.\n- *relinquo, reliqui, relictum* (3a, tr.): deixar, reservar.",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 2). Responeu sobre el text de l'exercici 1.\n\n2.2. Indiqueu el subjecte i el complement directe del verb *relinquit*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt en total): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), que valen aproximadament 0,5 punts cadascuna. Pregunta curta (uns 10 minuts). Respon amb frases completes i justifica cada funció amb la forma (cas, nombre) del mot. Atenció: aquí el subjecte **no** és explícit en la mateixa oració, i hi ha dos CD coordinats, un a cada banda del verb."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*relinquit* és 3a persona del singular. Cap nominatiu singular de la segona oració no hi pot concordar (*natura* és ablatiu de l'ablatiu absolut) → subjecte el·líptic, el mateix de l'oració anterior: *Caesar*. Busca els acusatius: *sex cohortes* (davant del verb) i, coordinat amb *atque*, *omnia impedimenta* (darrere)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El subjecte de *relinquit* és **el·líptic**: és *Caesar*, explícit en l'oració anterior (nominatiu singular, concorda amb el verb en 3a persona del singular). El complement directe són dos sintagmes en acusatiu plural coordinats per *atque*: ***sex cohortes*** i ***omnia impedimenta***."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Subjecte: *Caesar* (el·líptic, sobreentès de l'oració anterior). CD: *sex cohortes* i *omnia impedimenta*."
+          }
+        ],
+        "nota": "Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí. Errors típics: donar *natura* com a subjecte; oblidar *omnia impedimenta*; donar *praesidio* com a CD (és datiu de finalitat)."
+      }
+    },
+    {
+      "id": "llati-2023-J-e2-q1-b",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: la relativa quos sibi reliquerat",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "oració de relatiu",
+        "antecedent",
+        "pronom relatiu",
+        "complement directe",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cèsar arriba al campament amb la seva escorta de cavalleria i es prepara per enfrontar-se al general pompeià Afrani**\n\n**Eo biduo** Caesar cum equitibus quos sibi **reliquerat** in **castra** peruenit. Cognita **locorum** natura, ponti **castris**que **praesidio** sex cohortes **relinquit** atque omnia **impedimenta**, et postero die omnibus **copiis** ad **Ilerdam** **proficiscitur** et sub castris **Afrani** consistit.\n\nJuli Cèsar, *Guerra civil*, I, 41, 1-3\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Afranius, -i* (m.): Afrani (general de Pompeu).\n- *castra, -orum* (n. pl.): campament.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *eo biduo* (loc. adv.): al cap de dos dies.\n- *Ilerda, -ae* (f.): Ilerda (ciutat de la Tarraconense; avui, Lleida).\n- *impedimentum, -i* (n.): (mil., esp. pl.) bagatge, impedimenta.\n- *locus, -i* (m. i n.): lloc; (pl.) regió, terreny.\n- *praesidium, -i* (n.): protecció, guarnició; (mil.) *praesidio relinquere*, deixar com a guarnició.\n- *proficiscor, profectus sum* (3a, dep., intr.): anar-se'n, sortir.\n- *relinquo, reliqui, relictum* (3a, tr.): deixar, reservar.",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 2). Responeu sobre el text de l'exercici 1.\n\n2.1. En la construcció ***quos*** *sibi* ***reliquerat*** (subratllats a l'examen), digueu quin tipus d'oració introdueix *quos* i qui n'és l'antecedent; indiqueu també quina funció sintàctica fa respecte a *reliquerat*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt en total): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), que valen aproximadament 0,5 punts cadascuna. Pregunta curta (uns 10 minuts). Respon amb frases completes i justifica cada funció amb la forma (cas, nombre) del mot. Cal respondre tres coses: tipus d'oració, antecedent i funció de *quos*."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "*quos* és el pronom relatiu *qui, quae, quod* en acusatiu plural masculí → introdueix una **subordinada adjectiva de relatiu**. L'antecedent ha de concordar en gènere i nombre (no necessàriament en cas): *equitibus* (masculí plural). El cas el determina la funció dins la relativa: acusatiu → CD de *reliquerat* (el subjecte, Cèsar, és el·líptic)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*quos* és un pronom relatiu (acusatiu plural masculí) que introdueix una **oració subordinada adjectiva o de relatiu**. El seu antecedent és ***equitibus*** (ablatiu plural masculí), amb el qual concorda en gènere i nombre. Respecte a *reliquerat*, *quos* fa de **complement directe** (per això va en acusatiu): «els genets que s'havia reservat»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Subordinada adjectiva de relatiu; antecedent *equitibus*; *quos* és CD de *reliquerat*."
+          }
+        ],
+        "nota": "Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí. Errors típics: pensar que el relatiu ha de tenir el mateix cas que l'antecedent; dir que *Caesar* és l'antecedent."
+      }
+    },
+    {
+      "id": "llati-2023-J-e2-q2-b",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 0.5,
+      "titol": "Morfosintaxi: funcions d'ad Ilerdam i sub castris",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "complement circumstancial de lloc",
+        "lloc a on",
+        "lloc on",
+        "preposicions",
+        "cèsar"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Cèsar arriba al campament amb la seva escorta de cavalleria i es prepara per enfrontar-se al general pompeià Afrani**\n\n**Eo biduo** Caesar cum equitibus quos sibi **reliquerat** in **castra** peruenit. Cognita **locorum** natura, ponti **castris**que **praesidio** sex cohortes **relinquit** atque omnia **impedimenta**, et postero die omnibus **copiis** ad **Ilerdam** **proficiscitur** et sub castris **Afrani** consistit.\n\nJuli Cèsar, *Guerra civil*, I, 41, 1-3\n\n**Lèxic subratllat** (per ordre alfabètic):\n\n- *Afranius, -i* (m.): Afrani (general de Pompeu).\n- *castra, -orum* (n. pl.): campament.\n- *copia, -ae* (f.): (mil., esp. pl.) tropes, efectius.\n- *eo biduo* (loc. adv.): al cap de dos dies.\n- *Ilerda, -ae* (f.): Ilerda (ciutat de la Tarraconense; avui, Lleida).\n- *impedimentum, -i* (n.): (mil., esp. pl.) bagatge, impedimenta.\n- *locus, -i* (m. i n.): lloc; (pl.) regió, terreny.\n- *praesidium, -i* (n.): protecció, guarnició; (mil.) *praesidio relinquere*, deixar com a guarnició.\n- *proficiscor, profectus sum* (3a, dep., intr.): anar-se'n, sortir.\n- *relinquo, reliqui, relictum* (3a, tr.): deixar, reservar.",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 2). Responeu sobre el text de l'exercici 1.\n\n2.2.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Digueu quina funció sintàctica fa el sintagma preposicional *ad Ilerdam* respecte al verb *proficiscitur*.",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "Digueu quina funció sintàctica fa el sintagma preposicional *sub castris* respecte al verb *consistit*.",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 2 (1 punt en total): cal triar l'opció A o la B i fer-ne les dues qüestions (2.1 i 2.2), que valen aproximadament 0,5 punts cadascuna. Pregunta curta (uns 10 minuts). Respon amb frases completes i justifica cada funció amb la forma (cas, nombre) del mot. Pregunta sobre els complements de lloc: cal precisar quin tipus (a on / on) i relacionar-ho amb el cas que regeix la preposició."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "*ad* + acusatiu amb un verb de moviment (*proficiscor*, «sortir, anar-se'n») → direcció, lloc **a on**."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "*ad Ilerdam* (preposició *ad* + acusatiu singular de *Ilerda*) fa de **complement circumstancial de lloc «a on»** (direcció) de *proficiscitur*: «surt cap a Ilerda»."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "*sub* + ablatiu amb un verb de repòs (*consisto*, «aturar-se, fer alto») → situació, lloc **on**."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "*sub castris* (preposició *sub* + ablatiu plural de *castra*) fa de **complement circumstancial de lloc «on»** (situació) de *consistit*: «s'atura al peu del campament». El genitiu *Afrani* n'és el CN."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "CC de lloc a on (direcció)."
+          },
+          {
+            "apartat": "b",
+            "valor": "CC de lloc on (situació)."
+          }
+        ],
+        "nota": "Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí. Repartiment de punts suposat: 0,25 per apartat. Recorda: *in*/*ad* + acusatiu = moviment cap a; *in*/*sub* + ablatiu = situació; *ex*/*ab* + ablatiu = procedència."
+      }
+    },
+    {
+      "id": "llati-2023-J-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme maremàgnum: munió confusa",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "maremàgnum",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *ad nauseam*, *ínterim*, *non plus ultra*, *maremàgnum*, *rictus*, *coitus interruptus*, *ídem*, *placebo*, *ad kalendas Graecas*, *vox populi*, *beatus ille*, *stricto sensu*, *lapsus*, *referèndum*.\n\n3.1. Calia una guia de lectura que ajudés a ordenar el __________ de personatges i moments històrics d'aquella novel·la monumental.",
+      "figures": [],
+      "opcions": {
+        "A": "*ad nauseam*",
+        "B": "*ínterim*",
+        "C": "*non plus ultra*",
+        "D": "*maremàgnum*",
+        "E": "*rictus*",
+        "F": "*coitus interruptus*",
+        "G": "*ídem*",
+        "H": "*placebo*",
+        "I": "*ad kalendas Graecas*",
+        "J": "*vox populi*",
+        "K": "*beatus ille*",
+        "L": "*stricto sensu*",
+        "M": "*lapsus*",
+        "N": "*referèndum*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "D",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quin sentit i quina categoria (substantiu, adverbi...) ha de tenir el buit i tria el llatinisme que hi encaixa. No se'n pot repetir cap."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "El buit demana un substantiu masculí (*el ...*) que vol dir «gran quantitat desordenada»: *maremàgnum* (de *mare magnum*, «mar gran») designa una multitud confusa de coses o persones, que cal «ordenar» amb una guia de lectura."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*maremàgnum*"
+          }
+        ],
+        "nota": "Significat dels llatinismes de la llista: *ad nauseam* (fins a l'avorriment), *ínterim* (mentrestant; període provisional), *non plus ultra* (el màxim, insuperable), *maremàgnum* (munió confusa), *rictus* (contracció dels llavis, ganyota), *coitus interruptus*, *ídem* (el mateix), *placebo*, *ad kalendas Graecas* (mai), *vox populi* (de domini públic), *beatus ille* (elogi de la vida retirada), *stricto sensu* (en sentit estricte), *lapsus* (error involuntari), *referèndum* (consulta popular). Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí."
+      }
+    },
+    {
+      "id": "llati-2023-J-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme stricto sensu: en sentit estricte",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "stricto sensu",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *ad nauseam*, *ínterim*, *non plus ultra*, *maremàgnum*, *rictus*, *coitus interruptus*, *ídem*, *placebo*, *ad kalendas Graecas*, *vox populi*, *beatus ille*, *stricto sensu*, *lapsus*, *referèndum*.\n\n3.2. La propietat és, __________, allò que és propi; així doncs, allò que distingeix un element de tots els altres és propi d'aquest element.",
+      "figures": [],
+      "opcions": {
+        "A": "*ad nauseam*",
+        "B": "*ínterim*",
+        "C": "*non plus ultra*",
+        "D": "*maremàgnum*",
+        "E": "*rictus*",
+        "F": "*coitus interruptus*",
+        "G": "*ídem*",
+        "H": "*placebo*",
+        "I": "*ad kalendas Graecas*",
+        "J": "*vox populi*",
+        "K": "*beatus ille*",
+        "L": "*stricto sensu*",
+        "M": "*lapsus*",
+        "N": "*referèndum*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "L",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quin sentit i quina categoria (substantiu, adverbi...) ha de tenir el buit i tria el llatinisme que hi encaixa. No se'n pot repetir cap."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Entre comes hi va un inciset adverbial que matisa la definició: «la propietat és, en sentit estricte, allò que és propi». *Stricto sensu* vol dir literalment «en sentit estricte», oposat a *lato sensu*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*stricto sensu*"
+          }
+        ],
+        "nota": "Significat dels llatinismes de la llista: *ad nauseam* (fins a l'avorriment), *ínterim* (mentrestant; període provisional), *non plus ultra* (el màxim, insuperable), *maremàgnum* (munió confusa), *rictus* (contracció dels llavis, ganyota), *coitus interruptus*, *ídem* (el mateix), *placebo*, *ad kalendas Graecas* (mai), *vox populi* (de domini públic), *beatus ille* (elogi de la vida retirada), *stricto sensu* (en sentit estricte), *lapsus* (error involuntari), *referèndum* (consulta popular). Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí."
+      }
+    },
+    {
+      "id": "llati-2023-J-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme coitus interruptus: pràctica anticonceptiva",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "coitus interruptus",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *ad nauseam*, *ínterim*, *non plus ultra*, *maremàgnum*, *rictus*, *coitus interruptus*, *ídem*, *placebo*, *ad kalendas Graecas*, *vox populi*, *beatus ille*, *stricto sensu*, *lapsus*, *referèndum*.\n\n3.3. Freud va identificar la pràctica anticonceptiva del __________ com una de les causes de l'angoixa neuròtica.",
+      "figures": [],
+      "opcions": {
+        "A": "*ad nauseam*",
+        "B": "*ínterim*",
+        "C": "*non plus ultra*",
+        "D": "*maremàgnum*",
+        "E": "*rictus*",
+        "F": "*coitus interruptus*",
+        "G": "*ídem*",
+        "H": "*placebo*",
+        "I": "*ad kalendas Graecas*",
+        "J": "*vox populi*",
+        "K": "*beatus ille*",
+        "L": "*stricto sensu*",
+        "M": "*lapsus*",
+        "N": "*referèndum*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "F",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quin sentit i quina categoria (substantiu, adverbi...) ha de tenir el buit i tria el llatinisme que hi encaixa. No se'n pot repetir cap."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "La pista és «pràctica anticonceptiva»: l'únic de la llista que ho és, el *coitus interruptus* (literalment «coit interromput»). Freud el va relacionar amb la neurosi d'angoixa."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*coitus interruptus*"
+          }
+        ],
+        "nota": "Significat dels llatinismes de la llista: *ad nauseam* (fins a l'avorriment), *ínterim* (mentrestant; període provisional), *non plus ultra* (el màxim, insuperable), *maremàgnum* (munió confusa), *rictus* (contracció dels llavis, ganyota), *coitus interruptus*, *ídem* (el mateix), *placebo*, *ad kalendas Graecas* (mai), *vox populi* (de domini públic), *beatus ille* (elogi de la vida retirada), *stricto sensu* (en sentit estricte), *lapsus* (error involuntari), *referèndum* (consulta popular). Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí."
+      }
+    },
+    {
+      "id": "llati-2023-J-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Llatinisme ad kalendas Graecas: ajornar indefinidament",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "llatinismes",
+        "ad kalendas Graecas",
+        "llegat del llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Escriviu en els espais en blanc el llatinisme que considereu més adient per a completar cadascuna de les frases següents. Tingueu en compte que l'heu de triar de la llista que trobareu a continuació de les frases i que no en podeu repetir cap.\n\nLlatinismes: *ad nauseam*, *ínterim*, *non plus ultra*, *maremàgnum*, *rictus*, *coitus interruptus*, *ídem*, *placebo*, *ad kalendas Graecas*, *vox populi*, *beatus ille*, *stricto sensu*, *lapsus*, *referèndum*.\n\n3.4. Si no s'aprova el projecte abans de les eleccions, l'ampliació de l'hospital corre el risc de quedar ajornada __________.",
+      "figures": [],
+      "opcions": {
+        "A": "*ad nauseam*",
+        "B": "*ínterim*",
+        "C": "*non plus ultra*",
+        "D": "*maremàgnum*",
+        "E": "*rictus*",
+        "F": "*coitus interruptus*",
+        "G": "*ídem*",
+        "H": "*placebo*",
+        "I": "*ad kalendas Graecas*",
+        "J": "*vox populi*",
+        "K": "*beatus ille*",
+        "L": "*stricto sensu*",
+        "M": "*lapsus*",
+        "N": "*referèndum*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "I",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts i les errònies **no** es penalitzen, per tant respon-les totes. Llegeix la frase sencera, pensa quin sentit i quina categoria (substantiu, adverbi...) ha de tenir el buit i tria el llatinisme que hi encaixa. No se'n pot repetir cap."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "«Ajornar fins a les calendes gregues» vol dir «ajornar-ho per a mai»: els grecs no tenien calendes (el primer dia del mes al calendari romà), per tant és una data que no arriba mai. Expressió atribuïda a August per Suetoni."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*ad kalendas Graecas*"
+          }
+        ],
+        "nota": "Significat dels llatinismes de la llista: *ad nauseam* (fins a l'avorriment), *ínterim* (mentrestant; període provisional), *non plus ultra* (el màxim, insuperable), *maremàgnum* (munió confusa), *rictus* (contracció dels llavis, ganyota), *coitus interruptus*, *ídem* (el mateix), *placebo*, *ad kalendas Graecas* (mai), *vox populi* (de domini públic), *beatus ille* (elogi de la vida retirada), *stricto sensu* (en sentit estricte), *lapsus* (error involuntari), *referèndum* (consulta popular). Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí."
+      }
+    },
+    {
+      "id": "llati-2023-J-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Parts de la retòrica: l'actio",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "retòrica",
+        "oratòria",
+        "actio",
+        "ciceró"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.1. La part de la retòrica que s'ocupa de la declamació del discurs amb la dicció i els gestos adequats s'anomena",
+      "figures": [],
+      "opcions": {
+        "a": "*dispositio*.",
+        "b": "*elocutio*.",
+        "c": "*actio*.",
+        "d": "*compositio*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Les cinc parts de la retòrica són *inuentio* (trobar els arguments), *dispositio* (ordenar-los), *elocutio* (redactar amb estil), *memoria* (memoritzar) i ***actio*** o *pronuntiatio* (declamar amb la veu i els gestos adequats). La *compositio* és un aspecte de l'*elocutio* (l'ordre i el ritme de les paraules), no una part de la retòrica."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) *actio*."
+          }
+        ],
+        "nota": "Cal conèixer els gèneres literaris llatins (èpica, lírica, elegia, comèdia, tragèdia, historiografia, oratòria) i els seus autors principals. Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí."
+      }
+    },
+    {
+      "id": "llati-2023-J-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ciceró, orador: discursos polítics",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ciceró",
+        "oratòria",
+        "catilinàries",
+        "filípiques"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.2. Ciceró va escriure",
+      "figures": [],
+      "opcions": {
+        "a": "poesia elegíaca.",
+        "b": "discursos polítics.",
+        "c": "prosa historiogràfica.",
+        "d": "tragèdies."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Marc Tul·li Ciceró (106-43 aC) és el gran orador de Roma: discursos judicials i **polítics** (*Catilinàries*, *Filípiques*), a més de tractats retòrics i filosòfics i cartes. L'elegia és de Tibul, Properci i Ovidi; la historiografia, de Cèsar, Sal·lusti, Livi o Tàcit; les tragèdies, de Sèneca."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) discursos polítics."
+          }
+        ],
+        "nota": "Cal conèixer els gèneres literaris llatins (èpica, lírica, elegia, comèdia, tragèdia, historiografia, oratòria) i els seus autors principals. Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí."
+      }
+    },
+    {
+      "id": "llati-2023-J-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Comediògrafs romans: Plaute i Terenci",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "comèdia",
+        "plaute",
+        "terenci",
+        "teatre llatí"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.3. Els dos comediògrafs més famosos de Roma van ser",
+      "figures": [],
+      "opcions": {
+        "a": "Acci i Pacuvi.",
+        "b": "Enni i Sèneca.",
+        "c": "Horaci i Virgili.",
+        "d": "Plaute i Terenci."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "**Plaute** (s. III-II aC, *Amfitrió*, *Aulularia*, *Miles gloriosus*) i **Terenci** (s. II aC, *Andria*, *Adelphoe*) són els comediògrafs de la *palliata*. Acci i Pacuvi van ser autors de tragèdies; Enni, poeta èpic i tràgic; Sèneca, tràgic i filòsof; Horaci i Virgili, poetes de l'època d'August."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Plaute i Terenci."
+          }
+        ],
+        "nota": "Cal conèixer els gèneres literaris llatins (èpica, lírica, elegia, comèdia, tragèdia, historiografia, oratòria) i els seus autors principals. Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí."
+      }
+    },
+    {
+      "id": "llati-2023-J-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "L'Eneida, poema èpic",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "virgili",
+        "eneida",
+        "èpica",
+        "hexàmetre"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Encercleu la lletra que correspon a l'opció correcta en cada cas.\n\n3.4. L'*Eneida* de Virgili és un poema",
+      "figures": [],
+      "opcions": {
+        "a": "èpic.",
+        "b": "didàctic.",
+        "c": "tràgic.",
+        "d": "líric."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total; cal triar l'opció A o la B): cada resposta correcta val 0,5 punts; cada resposta incorrecta descompta 0,16 punts i les no contestades no descompten. Descarta primer les opcions clarament falses."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "L'*Eneida* (12 llibres en hexàmetres dactílics) narra les gestes d'Enees des de Troia fins al Laci: és l'**epopeia** nacional romana. Virgili va escriure poesia didàctica a les *Geòrgiques* i bucòlica a les *Bucòliques*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) èpic."
+          }
+        ],
+        "nota": "Cal conèixer els gèneres literaris llatins (èpica, lírica, elegia, comèdia, tragèdia, historiografia, oratòria) i els seus autors principals. Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí."
+      }
+    },
+    {
+      "id": "llati-2023-J-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "comentari",
+      "punts": 3,
+      "titol": "Metamorfosis d'Ovidi: Perseu i Andròmeda",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ovidi",
+        "metamorfosis",
+        "perseu",
+        "andròmeda",
+        "medusa",
+        "messala corví",
+        "exili a tomis",
+        "lectures obligatòries"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "El litoral s'omplí d'ovacions i d'aplaudiments que arribaren fins a les mansions elevades dels déus; Cassiopea i Cefeu, el pare, plens de joia, el saluden com a gendre, proclamant-lo auxiliador i salvador de la seva casa; lliure de cadenes, avança vers ell la donzella, recompensa i causa de la seva proesa. L'heroi agafa aigua i es renta les mans victorioses; perquè la duresa de la sorra no danyi el cap ple de serpents, estén per terra un jaç tou de fulles i de tiges de plantes submarines […].\n\n(Traducció de Ferran Aguilera)",
+      "enunciat": "Opció A (cal triar l'opció A o la B de l'exercici 4; 3 punts). Llegiu el passatge de sota, que pertany a una de les lectures obligatòries, i elaboreu un text expositiu de quinze línies com a mínim (unes cent cinquanta paraules) en què respongueu a les qüestions que hi ha a continuació:\n\n- A quina obra i a quin episodi concret d'aquesta obra pertany el passatge.\n- Qui n'és l'autor, en quin entorn literari va desenvolupar la seva producció i quin càstig se li va imposar per causa d'un dels seus poemes.\n- Qui són els joves protagonistes, quines són les circumstàncies prèvies respectives i com s'ajunten els seus destins.\n- En quin punt de l'episodi cal situar el passatge; per què els pares de la donzella saluden l'heroi com a gendre.\n- Què és «el cap ple de serpents» i quina transformació provocarà en les tiges de les plantes submarines el contacte amb ell.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **3 punts** (uns 25 minuts). És un **text expositiu** continu, no una llista: mínim 15 línies (~150 paraules), però convé arribar a 250-300 per respondre bé les cinc qüestions. Segueix l'ordre de la consigna, un paràgraf per bloc. Pistes del passatge: Cassiopea i Cefeu, una donzella alliberada de cadenes i un heroi que porta un «cap ple de serpents» → Perseu i Andròmeda."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Obra i episodi**: Perseu i Andròmeda, *Metamorfosis* d'Ovidi (llibre IV).\n2. **Autor i entorn**: Publi Ovidi Nasó, final de l'època d'August, generació posterior a Virgili i Horaci, cercle de Messala Corví (amb Tibul); exili a Tomis (8 dC) per *carmen et error* (l'*Ars amandi*).\n3. **Protagonistes**: Perseu (fill de Júpiter i Dànae), que torna d'haver matat Medusa; Andròmeda, encadenada per culpa de la supèrbia de Cassiopea, víctima d'un monstre marí. Perseu la veu, se n'enamora i pacta amb els pares.\n4. **Moment**: després de matar el monstre; el saluden com a gendre perquè ha complert el pacte (la mà d'Andròmeda era la recompensa).\n5. **El cap**: el de Medusa, que petrifica; les tiges s'endureixen i neix el corall."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El passatge pertany a l'episodi de **Perseu i Andròmeda**, del llibre IV de les ***Metamorfosis***, el poema epicodidàctic en hexàmetres dactílics en què **Publi Ovidi Nasó** reuneix uns dos-cents cinquanta mites grecs i romans units pel tema de la transformació.\n\nOvidi (43 aC - 17 dC) va escriure a la Roma del final de l'època d'August. Pertanyia a una generació més jove que la de Virgili i Horaci i va formar part del cercle literari de **Messala Corví**, on va tenir el suport del poeta Tibul. L'any 8 dC August el va **desterrar a Tomis**, a la vora del mar Negre, per «un poema i un error»: el poema era l'*Ars amandi*, contrari a la política moral de l'emperador.\n\nEls protagonistes són **Perseu**, fill de Júpiter i Dànae, que torna volant amb les sandàlies alades després d'haver tallat el cap a la Gorgona **Medusa**, i **Andròmeda**, filla dels reis d'Etiòpia Cefeu i Cassiopea, encadenada a una roca per ordre de l'oracle d'Ammon com a víctima d'un monstre marí, en expiació de la supèrbia de la seva mare, que s'havia vantat de la seva bellesa. Perseu la veu, se n'enamora i demana la seva mà als pares a canvi de salvar-la.\n\nEl passatge se situa just després de la lluita: Perseu ha matat el monstre i per això els pares el saluden com a **gendre**, perquè compleix el pacte i es casarà amb Andròmeda. «El cap ple de serpents» és el **cap de Medusa**, que encara petrifica. En contacte amb ell, les tiges de les plantes marines s'endureixen i es converteixen en pedra: és l'origen del **corall**, que les nimfes marines, meravellades, multipliquen."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Obra i episodi: «Perseu i Andròmeda», llibre IV de les *Metamorfosis* d'Ovidi (poema epicodidàctic en hexàmetres, mites de transformació)."
+          },
+          {
+            "apartat": null,
+            "valor": "Autor: Publi Ovidi Nasó, final de l'època d'August, cercle de Messala Corví (Tibul); desterrat a Tomis el 8 dC per *carmen et error* (l'*Ars amandi*)."
+          },
+          {
+            "apartat": null,
+            "valor": "Protagonistes: Perseu, que torna de matar Medusa amb les sandàlies alades; Andròmeda, encadenada a una roca per expiar la supèrbia de Cassiopea; Perseu se n'enamora i en demana la mà a canvi de salvar-la."
+          },
+          {
+            "apartat": null,
+            "valor": "Moment: just després de la mort del monstre marí; els pares el saluden com a gendre perquè ha complert el pacte."
+          },
+          {
+            "apartat": null,
+            "valor": "El cap ple de serpents és el de Medusa; en contacte amb ell, les plantes marines es petrifiquen: origen del corall."
+          }
+        ],
+        "nota": "Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí. Errors típics: confondre Andròmeda amb Ariadna o Perseu amb Teseu; dir que Ovidi era del cercle de Mecenas; oblidar la metamorfosi final (el corall), que és la que justifica l'episodi dins l'obra. La resposta model fa unes 272 paraules."
+      }
+    },
+    {
+      "id": "llati-2023-J-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 3,
+      "titol": "De Bàrcino a Barcelona: la ciutat romana",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "bàrcino",
+        "urbanisme romà",
+        "august",
+        "laietans",
+        "muralla",
+        "fòrum",
+        "romanització"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B de l'exercici 4; 3 punts). El plànol adjunt correspon a la reconstrucció del traçat de la Barcelona romana sobre el plànol actual del barri Gòtic. En quinze línies com a mínim (unes cent cinquanta paraules), desenvolupeu el tema: *De Bàrcino a Barcelona*, contestant les qüestions següents:\n\n- Digueu el nom llatí complet de la ciutat romana.\n- Indiqueu la seva ubicació geogràfica i especifiqueu quin poble habitava la zona en època preromana.\n- Digueu el nom del fundador i la cronologia de la fundació de la ciutat.\n- Descriviu-ne l'estructura urbanística i esmenteu els espais i edificis més importants dins i fora de les muralles.\n- Digueu quina modificació urbana es va realitzar entre els segles III i IV, i la causa que la motivà.\n- Esmenteu les restes de l'antiga Bàrcino conservades en la Barcelona actual.",
+      "figures": [
+        {
+          "src": "img/llati/2023-J/e4-b.png",
+          "peu": "Reconstrucció del traçat de Bàrcino sobre el barri Gòtic: muralla, Porta Praetoria, Porta Decumana, portes Principalis Dextra i Sinistra, Cardo Maximus, Decumanus Maximus, fòrum i temple."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Val **3 punts** (uns 25 minuts). Text expositiu continu de mínim 15 línies (~150 paraules); convé arribar a 250-300 per respondre les sis qüestions amb dades concretes. Fes servir el plànol: mostra la muralla, les quatre portes, els dos eixos (cardo i decumanus) i el fòrum amb el temple al centre. Segueix l'ordre de la consigna."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Nom**: *Colonia Iulia Augusta Faventia Paterna Barcino*.\n2. **Ubicació**: mont Tàber, vora el mar, entre el Llobregat i el Besòs, a la Via Augusta; poble preromà: els laietans (ibers).\n3. **Fundació**: August, cap al 15-10 aC (colònia de veterans).\n4. **Urbanisme**: traçat ortogonal, muralla amb quatre portes, cardo i decumanus que es creuen al fòrum (plaça de Sant Jaume) amb el temple d'August; fora muralles: necròpolis, aqüeductes, port, vil·les.\n5. **Segles III-IV**: nova muralla més potent amb torres, per les invasions de francs i alamans.\n6. **Restes**: columnes del temple, muralla i torres, aqüeducte, necròpolis de la Vila de Madrid, MUHBA."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El nom llatí complet de la ciutat era **Colonia Iulia Augusta Faventia Paterna Barcino**. Es va construir sobre el **mont Tàber**, un petit turó proper a la costa, a la plana situada entre els rius Llobregat i Besòs, al costat de la Via Augusta. En època preromana la zona estava habitada pels **laietans**, un poble iber.\n\nLa colònia va ser fundada per l'emperador **August** cap als anys **15-10 aC**, probablement per assentar-hi veterans de l'exèrcit. Tenia un traçat ortogonal, com un campament, envoltat per una muralla amb quatre portes; els dos carrers principals, el **cardo maximus** i el **decumanus maximus**, es creuaven al **fòrum**, l'actual plaça de Sant Jaume, presidit pel **temple dedicat a August**. Dins les muralles hi havia també termes, domus i tallers; a fora, les **necròpolis** a la vora dels camins, els **aqüeductes** que portaven l'aigua, el port i les vil·les agrícoles.\n\nEntre els segles III i IV es va aixecar una **nova muralla**, més gruixuda i alta, amb unes setanta-cinc torres, per la inseguretat provocada per les **invasions de francs i alamans** i la crisi del segle III.\n\nAvui encara es conserven les **columnes del temple d'August** (carrer del Paradís), trams de la **muralla** i torres (plaça Nova, plaça de Ramon Berenguer, carrer de la Tapineria), restes de l'**aqüeducte**, la **necròpolis de la plaça de la Vila de Madrid** i el conjunt arqueològic del subsòl del **Museu d'Història de Barcelona** (plaça del Rei)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Nom: *Colonia Iulia Augusta Faventia Paterna Barcino*."
+          },
+          {
+            "apartat": null,
+            "valor": "Ubicació: mont Tàber, a la costa, entre el Llobregat i el Besòs; poble preromà: els laietans."
+          },
+          {
+            "apartat": null,
+            "valor": "Fundador i cronologia: August, entre el 15 i el 10 aC."
+          },
+          {
+            "apartat": null,
+            "valor": "Urbanisme: traçat ortogonal emmurallat, quatre portes, cardo i decumanus maximus, fòrum i temple d'August; fora muralles necròpolis, aqüeductes, port i vil·les."
+          },
+          {
+            "apartat": null,
+            "valor": "Segles III-IV: construcció d'una nova muralla amb torres per les incursions de francs i alamans."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes: temple d'August, muralla i torres, aqüeducte, necròpolis de la Vila de Madrid, subsòl del MUHBA."
+          }
+        ],
+        "nota": "Els criteris oficials d'aquesta convocatòria no estan disponibles (el PDF de solució descarregat és una còpia de l'enunciat), de manera que la solució és d'elaboració pròpia, seguint el model de pautes de la PAU de llatí. Errors típics: atribuir la fundació a Juli Cèsar; confondre els laietans amb els ilergets (Lleida) o els indigets (Empúries); oblidar la causa de la segona muralla. La resposta model fa unes 237 paraules."
+      }
+    }
+  ]
+}

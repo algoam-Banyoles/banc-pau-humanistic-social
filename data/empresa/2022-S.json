@@ -1,0 +1,780 @@
+{
+  "examen": {
+    "id": "empresa-2022-S",
+    "assignatura": "empresa",
+    "materia": "Economia de l’empresa",
+    "any": 2022,
+    "convocatoria": "setembre",
+    "serie": "3",
+    "pdf_examen": "pdfs/empresa/2022-S-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2022-S-solucio.pdf",
+    "estructura": "Sèrie 3 (convocatòria extraordinària de setembre). Cal respondre QUATRE dels sis exercicis proposats (2,5 punts cadascun); si se’n responen més, només es valoren els quatre primers. Exercici 1: compte de pèrdues i guanys, impost sobre beneficis, balanç de situació i període mitjà de pagament. Exercici 2: VAN, termini de recuperació i TIR de tres projectes d’inversió. Exercici 3: frases per completar sobre finançament i comptabilitat, i rendibilitat financera. Exercici 4: anàlisi estratègica, vertader/fals sobre estratègia i creixement intern, diversificació i hòlding. Exercici 5: punt mort, benefici objectiu i societat limitada. Exercici 6: 5 preguntes de test (0,5 punts per encert, −0,15 per error, les no contestades no resten; l’exercici mai no pot donar nota negativa). Els errors de càlcul només es descompten una vegada."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2022-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Btalents, SA: compte de pèrdues i guanys, impost sobre beneficis, balanç de situació i període mitjà de pagament",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "compte de pèrdues i guanys",
+        "baii",
+        "impost sobre beneficis",
+        "balanç de situació",
+        "masses patrimonials",
+        "període mitjà de pagament",
+        "proveïdors"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2,
+        3,
+        4
+      ],
+      "text": "L’empresa Btalents, SA presenta, a 31 de desembre de 2021, una llista amb les dades comptables següents:\n\n| Concepte | Import (€) |\n|---|---:|\n| Bancs i institucions de crèdit | 28.000 |\n| Capital social | 100.000 |\n| Concessions administratives, propietat industrial i drets de traspàs | 15.000 |\n| Creditors per prestació de serveis | 27.000 |\n| Deutors | 10.000 |\n| Despeses financeres | 8.000 |\n| Despeses de personal | 90.000 |\n| Hisenda pública creditora per conceptes fiscals | 22.000 |\n| Import net de la xifra de negoci | 240.000 |\n| Instal·lacions tècniques | 80.000 |\n| Matèries primeres (existències) | 12.000 |\n| Organismes de la Seguretat Social deutors | 9.000 |\n| Productes acabats (existències) | 45.000 |\n| Resultat o benefici net (BN) de l’exercici | 50.000 |\n| Proveïments | 55.000 |\n| Variació d’existències de productes acabats i en curs (saldo deutor) | 10.000 |\n\n*Nota*: Pel que fa a les dades comptables d’aquesta llista que pertanyen al balanç de situació, tingueu present que tots els comptes de l’immobilitzat es presenten amb el valor net comptable (cost d’adquisició o cost de producció menys amortització acumulada).",
+      "enunciat": "Responeu els apartats 1.1, 1.2 i 1.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1.1",
+          "punts": 1,
+          "enunciat": "A partir de les dades de la taula que necessiteu, i sabent que la despesa d’amortització de l’immobilitzat té un valor d’11.000 €, elaboreu el compte de pèrdues i guanys de l’empresa Btalents, SA i calculeu l’impost sobre beneficis."
+        },
+        {
+          "id": "1.2",
+          "punts": 1,
+          "enunciat": "Elaboreu el balanç de situació d’aquesta empresa a 31 de desembre de 2021, incloent-hi només aquelles masses o elements patrimonials de la taula que necessiteu. Si, en algun cas, dins d’una massa patrimonial hi ha diferents elements patrimonials, cal que detalleu aquests elements; és a dir, no us limiteu a agrupar i a escriure directament el valor total de la massa patrimonial: heu d’especificar quines partides la integren."
+        },
+        {
+          "id": "1.3",
+          "punts": 0.5,
+          "enunciat": "Tenint en compte el balanç de situació que heu elaborat en l’apartat anterior sobre l’empresa Btalents, SA, quin creieu que és el període mitjà de pagament als proveïdors d’aquesta empresa? Justifiqueu la resposta sense fer cap càlcul."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de **comptabilitat** amb una llista barrejada de comptes de balanç i de resultats. El primer que cal fer és **classificar** cada partida: és una despesa o un ingrés (compte de pèrdues i guanys) o és un bé, un dret o una obligació (balanç)? Després: (1.1) compte de pèrdues i guanys escalonat i càlcul de l’impost **per diferència**, ja que el benefici net és una dada; (1.2) balanç detallat per masses i elements (si només poses els totals, perds punts); (1.3) una pregunta conceptual sense càlculs.\n\nTemps orientatiu: uns 25-30 minuts. Paranys: la **variació d’existències de productes acabats amb saldo deutor** resta als ingressos d’explotació (les existències han disminuït); l’**amortització** (11.000 €) no és a la taula però és una despesa d’explotació; i el **resultat de l’exercici** (50.000 €) va al patrimoni net del balanç."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Ingressos d’explotació**: import net de la xifra de negoci (240.000 €) menys la variació d’existències de productes acabats amb saldo deutor (10.000 €). Un saldo deutor vol dir que s’han venut productes fabricats en exercicis anteriors: és com una despesa, i per això es resta.\n2. **Despeses d’explotació**: proveïments (55.000), personal (90.000) i amortització (11.000).\n3. Resultat d’explotació = BAII (no hi ha ingressos financers).\n4. Resultat financer = −despeses financeres (8.000).\n5. BAI = BAII + resultat financer.\n6. **Impost**: no et donen el tipus impositiu, però sí el benefici net. Per tant: $\\text{Impost} = \\text{BAI} - \\text{BN}$."
+          },
+          {
+            "apartat": "1.1",
+            "titol": "Resposta model",
+            "cos": "**Compte de pèrdues i guanys de Btalents, SA (exercici 2021)**\n\n| Concepte | Import (€) |\n|---|---:|\n| Import net de la xifra de negocis | 240.000 |\n| Variació d’existències de productes acabats i en curs | −10.000 |\n| **Ingressos d’explotació** | **230.000** |\n| − Proveïments | −55.000 |\n| − Despeses de personal | −90.000 |\n| − Amortització de l’immobilitzat | −11.000 |\n| **Despeses d’explotació** | **−156.000** |\n| **= Resultat d’explotació (BAII)** | **74.000** |\n| − Despeses financeres | −8.000 |\n| **Resultat financer** | **−8.000** |\n| **= Resultat abans d’impostos (BAI)** | **66.000** |\n| − Impost sobre beneficis | −16.000 |\n| **= Resultat net de l’exercici (BN)** | **50.000** |\n\nCàlculs:\n\n- Ingressos d’explotació $= 240000 - 10000 = 230000$ €.\n- Despeses d’explotació $= 55000 + 90000 + 11000 = 156000$ €.\n- $\\text{BAII} = 230000 - 156000 = 74000$ €.\n- $\\text{BAI} = \\text{BAII} + \\text{resultat financer} = 74000 - 8000 = 66000$ €.\n- Com que coneixem el benefici net (50.000 €): $\\text{Impost} = \\text{BAI} - \\text{BN} = 66000 - 50000 = 16000$ €.\n\nL’impost sobre beneficis és de **16.000 €** (equival a un tipus efectiu de $16000/66000 \\approx 24{,}24\\,\\%$ del BAI)."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Classifica les partides de balanç en masses patrimonials:\n\n- **Actiu no corrent** (inversions a llarg termini): immobilitzat intangible (concessions, propietat industrial, drets de traspàs) i immobilitzat material (instal·lacions tècniques). Ja són valors nets, no cal restar amortització acumulada.\n- **Actiu corrent**, de menys a més liquiditat: existències (matèries primeres, productes acabats), realitzable (deutors, Seguretat Social deutora, que és un dret de cobrament) i disponible (bancs).\n- **Patrimoni net**: capital social i resultat de l’exercici.\n- **Passiu corrent**: creditors per prestació de serveis i Hisenda pública creditora (deutes a curt termini).\n- No hi ha cap deute a llarg termini: passiu no corrent = 0.\n\nCompte: **Organismes de la Seguretat Social deutors** és un dret de cobrament (actiu), mentre que **Hisenda pública creditora** és una obligació de pagament (passiu)."
+          },
+          {
+            "apartat": "1.2",
+            "titol": "Resposta model",
+            "cos": "**Balanç de situació de Btalents, SA a 31 de desembre de 2021 (€)**\n\n| ACTIU | Import (€) |\n|---|---:|\n| **ACTIU NO CORRENT** | **95.000** |\n| **Immobilitzat intangible** | **15.000** |\n| Concessions administratives, propietat industrial i drets de traspàs | 15.000 |\n| **Immobilitzat material** | **80.000** |\n| Instal·lacions tècniques | 80.000 |\n| **ACTIU CORRENT** | **104.000** |\n| **Existències** | **57.000** |\n| Matèries primeres | 12.000 |\n| Productes acabats | 45.000 |\n| **Realitzable** | **19.000** |\n| Deutors | 10.000 |\n| Organismes de la Seguretat Social deutors | 9.000 |\n| **Disponible** | **28.000** |\n| Bancs i institucions de crèdit | 28.000 |\n| **TOTAL ACTIU** | **199.000** |\n\n| PATRIMONI NET I PASSIU | Import (€) |\n|---|---:|\n| **PATRIMONI NET** | **150.000** |\n| Capital social | 100.000 |\n| Resultat de l’exercici | 50.000 |\n| **PASSIU NO CORRENT** | **0** |\n| **PASSIU CORRENT** | **49.000** |\n| Creditors per prestació de serveis | 27.000 |\n| Hisenda pública creditora per conceptes fiscals | 22.000 |\n| **TOTAL PATRIMONI NET I PASSIU** | **199.000** |\n\nComprovació: $\\text{Actiu} = 95000 + 104000 = 199000$ € i $\\text{PN} + \\text{Passiu} = 150000 + 0 + 49000 = 199000$ €. El balanç quadra.\n\nLes partides de despeses i ingressos (despeses financeres, despeses de personal, import net de la xifra de negoci, proveïments i variació d’existències) **no** van al balanç, sinó al compte de pèrdues i guanys."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Com plantejar-ho",
+            "cos": "El període mitjà de pagament (PMP) mesura quants dies triga l’empresa a pagar els seus **proveïdors** (els que li venen matèries primeres o mercaderies). Es calcula a partir del saldo del compte *Proveïdors* del passiu. Mira el passiu corrent: només hi ha creditors per prestació de serveis i Hisenda pública. **No hi ha cap compte de proveïdors** → no hi ha deutes pendents per compres → l’empresa paga al comptat."
+          },
+          {
+            "apartat": "1.3",
+            "titol": "Resposta model",
+            "cos": "El període mitjà de pagament als proveïdors de Btalents, SA és de **0 dies**. En el balanç de situació no hi figura cap deute amb proveïdors (el passiu corrent només inclou creditors per prestació de serveis i Hisenda pública creditora, que no són proveïdors d’existències). Si l’empresa no deu res als proveïdors tot i que fa compres (els proveïments són de 55.000 €), vol dir que les paga al comptat, en el moment de la compra; per tant, no gaudeix de cap ajornament de pagament i el seu PMP és zero.\n\nAixò implica que el període mitjà de maduració financer coincideix amb l’econòmic: l’empresa ha de finançar amb recursos propis tot el cicle d’explotació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1.1",
+            "valor": "Ingressos d’explotació 230.000 €; despeses d’explotació 156.000 €; resultat d’explotació = BAII = 74.000 €; resultat financer −8.000 €; BAI = 66.000 €; impost sobre beneficis = 16.000 €; BN = 50.000 €."
+          },
+          {
+            "apartat": "1.2",
+            "valor": "Actiu no corrent 95.000 € (intangible 15.000 + material 80.000); actiu corrent 104.000 € (existències 57.000, realitzable 19.000, disponible 28.000); total actiu 199.000 €. PN 150.000 € (capital 100.000 + resultat 50.000); passiu no corrent 0; passiu corrent 49.000 € (creditors 27.000 + Hisenda 22.000); total 199.000 €."
+          },
+          {
+            "apartat": "1.3",
+            "valor": "PMP = 0 dies: no hi ha cap deute amb proveïdors en el balanç, per tant paga les compres al comptat."
+          }
+        ],
+        "nota": "Errors típics: sumar la variació d’existències amb saldo deutor com si fos un ingrés (és una disminució d’existències, i resta); oblidar l’amortització, que no és a la taula; posar les despeses financeres dins del resultat d’explotació; incloure al balanç partides del compte de resultats; classificar la Seguretat Social deutora com a passiu. Al balanç, no n’hi ha prou de posar el total de cada massa: els criteris demanen detallar els elements.\n\nDiscrepància menor amb l’oficial: el balanç de la pauta porta la capçalera «a dia 31.12.2020», però l’enunciat diu 31 de desembre de 2021 (errada tipogràfica de la pauta; les xifres coincideixen)."
+      }
+    },
+    {
+      "id": "empresa-2022-S-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Boraprop: VAN i termini de recuperació de dos projectes, inconvenients del payback i viabilitat segons la TIR",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "van",
+        "termini de recuperació",
+        "payback",
+        "tir",
+        "valor residual",
+        "flux net de caixa",
+        "selecció d’inversions"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4,
+        5
+      ],
+      "text": "L’empresa Boraprop està estudiant la possibilitat d’invertir en un projecte i pot escollir entre dos projectes d’inversió amb les característiques següents:\n\n| Concepte | Projecte A | Projecte B |\n|---|---:|---:|\n| Inversió inicial | 50.000 € | 82.000 € |\n| Valor residual | 0 € | 12.000 € |\n| Durada en anys | 3 | 4 |\n| Cobraments anuals | 35.000 € | 45.000 € |\n| Pagaments anuals | 15.000 € | 25.000 € |\n\n*Nota*: Cost de capital (o taxa d’actualització o de descompte): 6 %.",
+      "enunciat": "Responeu els apartats 2.1, 2.2 i 2.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "punts": 0.75,
+          "enunciat": "Calculeu el valor actual net (VAN) de cada projecte i argumenteu-ne la viabilitat segons aquest criteri. Digueu quin dels dos projectes hauria de triar Boraprop i justifiqueu la resposta."
+        },
+        {
+          "id": "2.2",
+          "punts": 1.25,
+          "enunciat": "Calculeu el termini de recuperació (o payback) dels dos projectes. Quin projecte és més recomanable segons aquest criteri? Raoneu la resposta. A continuació, esmenteu dos inconvenients derivats del fet d’utilitzar aquest criteri de selecció d’inversions."
+        },
+        {
+          "id": "2.3",
+          "punts": 0.5,
+          "enunciat": "Ofereixen a l’empresa un tercer projecte, el projecte C, amb una inversió inicial de 30.000 €, una durada de 2 anys i una taxa interna de rendibilitat (TIR) del 5 %. Argumenteu la viabilitat del projecte C i la conveniència de triar aquest projecte en lloc de qualsevol dels altres dos (l’A o el B). Justifiqueu raonadament la resposta comparant els tres projectes, sense fer cap càlcul."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici clàssic de **selecció d’inversions** amb els tres criteris del temari: VAN (dinàmic), termini de recuperació (estàtic) i TIR. Primer calcula els **fluxos nets de caixa** de cada any (cobraments − pagaments) i recorda que el **valor residual** és un cobrament addicional de l’**últim any**. Escriu sempre la fórmula, la substitució i el resultat amb dues xifres decimals i €, i acaba cada apartat amb una conclusió raonada. Temps orientatiu: 25 minuts. Al 2.3 no cal (ni s’ha de) calcular res: es resol amb la relació entre VAN i TIR."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Fluxos nets de caixa (FNC):\n   - Projecte A: $35000 - 15000 = 20000$ € cada any (3 anys).\n   - Projecte B: $45000 - 25000 = 20000$ € els anys 1-3; l’any 4, $20000 + 12000 = 32000$ € (s’hi suma el valor residual).\n2. Fórmula: $\\text{VAN} = -A + \\sum_{t=1}^{n} \\dfrac{\\text{FNC}_t}{(1+k)^t}$, amb $k = 0{,}06$.\n3. Criteri: un projecte és viable si $\\text{VAN} > 0$; entre diversos projectes viables, es tria el de VAN més alt."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "**Projecte A**\n\n$$\\text{VAN}_A = -50000 + \\frac{20000}{1{,}06} + \\frac{20000}{1{,}06^2} + \\frac{20000}{1{,}06^3}$$\n\n$$\\text{VAN}_A = -50000 + 18867{,}92 + 17799{,}93 + 16792{,}39 = 3460{,}24 \\text{ €}$$\n\n**Projecte B**\n\n$$\\text{VAN}_B = -82000 + \\frac{20000}{1{,}06} + \\frac{20000}{1{,}06^2} + \\frac{20000}{1{,}06^3} + \\frac{32000}{1{,}06^4}$$\n\n$$\\text{VAN}_B = -82000 + 18867{,}92 + 17799{,}93 + 16792{,}39 + 25347{,}00 = -3192{,}76 \\text{ €}$$\n\n**Viabilitat**: el projecte A és viable, perquè el seu VAN és positiu (3.460,24 €): la suma dels fluxos nets de caixa actualitzats al moment 0 supera la inversió inicial, és a dir, el projecte recupera la inversió, remunera el capital al 6 % i encara genera un excedent de 3.460,24 € en valor actual. El projecte B **no** és viable, perquè el VAN és negatiu (−3.192,76 €): els fluxos actualitzats no arriben a cobrir la inversió inicial.\n\n**Elecció**: Boraprop hauria de triar el **projecte A**, l’únic amb VAN positiu."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "El termini de recuperació és el temps que es triga a recuperar la inversió inicial **sumant els fluxos sense actualitzar**. Fes la suma acumulada any a any fins a arribar a la inversió; si s’hi arriba a mitjan any, fes una regla de tres suposant que el flux es reparteix uniformement durant l’any.\n\n- A: acumulat $20000 \\to 40000 \\to 60000$. Després de 2 anys falten $10000$ €, que es recuperen en $\\dfrac{10000}{20000} \\cdot 12 = 6$ mesos.\n- B: acumulat $20000 \\to 40000 \\to 60000 \\to 92000$. Després de 3 anys falten $22000$ €. Els fluxos ordinaris de l’any 4 (20.000 €) no hi arriben ($80000 < 82000$), i el valor residual (12.000 €) es cobra quan acaba el projecte: la inversió es recupera als **4 anys**.\n\nDesprés, compara (menys temps = millor) i cita dos inconvenients del criteri."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "**Projecte A** (inversió de 50.000 €): el primer any es recuperen 20.000 €, el segon 20.000 € (acumulat 40.000 €) i del tercer només calen 10.000 €.\n\n$$x = \\frac{10000 \\cdot 12}{20000} = 6 \\text{ mesos}$$\n\nTermini de recuperació del projecte A: **2 anys i 6 mesos**.\n\n**Projecte B** (inversió de 82.000 €): 20.000 € + 20.000 € + 20.000 € = 60.000 € en tres anys; el quart any falten 22.000 €, i el flux ordinari (20.000 €) no és suficient: la inversió només es recupera en acabar el quart any, gràcies al valor residual (12.000 €), que s’obté al final del projecte. Termini de recuperació del projecte B: **4 anys**.\n\n**Projecte més recomanable**: segons aquest criteri, el **projecte A**, perquè recupera la inversió inicial en menys temps (2,5 anys davant de 4).\n\n**Inconvenients del termini de recuperació** (n’hi ha prou amb dos):\n\n1. No actualitza els fluxos de caixa, és a dir, no té en compte que els diners tenen un valor diferent en moments diferents (principi d’equivalència financera).\n2. No té en compte els fluxos de caixa que es generen després del moment en què es recupera la inversió; per tant, no mesura la rendibilitat total del projecte."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Recorda la relació entre els dos criteris dinàmics: la TIR és la taxa que fa el VAN igual a zero. Per tant:\n\n- Si $\\text{TIR} > k$ ⇔ $\\text{VAN}(k) > 0$ → viable.\n- Si $\\text{TIR} < k$ ⇔ $\\text{VAN}(k) < 0$ → no viable.\n\nAmb $k = 6\\,\\%$: el C té TIR = 5 % < 6 %; l’A té VAN > 0 a 6 % → TIR > 6 %; el B té VAN < 0 a 6 % → TIR < 6 %."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Resposta model",
+            "cos": "El projecte C **no és viable**: la seva TIR (5 %) és inferior al cost del capital (6 %), és a dir, la rendibilitat que genera no arriba a cobrir el cost dels recursos invertits. Per tant, no s’hauria de triar en lloc de l’A.\n\nComparant els tres projectes sense calcular: el projecte A té un VAN positiu calculat amb una taxa del 6 %, cosa que implica que la seva TIR és **superior** al 6 % i, per tant, és viable segons aquest criteri. El projecte B té un VAN negatiu al 6 %, de manera que la seva TIR és **inferior** al 6 % i tampoc no és viable.\n\nEn conclusió, l’empresa hauria de continuar triant el **projecte A**, l’únic dels tres que és viable; el C no s’hauria d’escollir, tot i que la inversió inicial i la durada siguin menors."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "FNC: A 20.000 €/any; B 20.000 € els anys 1-3 i 32.000 € l’any 4. VAN(A) = 3.460,24 € (viable); VAN(B) = −3.192,76 € (no viable). Cal triar A."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "Payback A = 2 anys i 6 mesos; payback B = 4 anys (es recupera al final gràcies al valor residual). Millor A. Inconvenients: no actualitza els fluxos; ignora els fluxos posteriors a la recuperació (també: no mesura la rendibilitat sinó la liquiditat)."
+          },
+          {
+            "apartat": "2.3",
+            "valor": "C: TIR 5 % < 6 % → no viable. A: VAN > 0 al 6 % → TIR > 6 % → viable. B: VAN < 0 → TIR < 6 % → no viable. Es tria A."
+          }
+        ],
+        "nota": "Errors típics: oblidar el valor residual del projecte B o sumar-lo a tots els anys; actualitzar els fluxos en el termini de recuperació (és un criteri estàtic); no interpretar el signe del VAN. Al 2.2, si algú aplica la regla de tres amb el flux total de l’any 4 (32.000 €) obtindria 3 anys i 8,25 mesos, però la pauta considera que el valor residual només es cobra en acabar el projecte, i el flux ordinari de l’any 4 (20.000 €) no basta per recuperar els 22.000 € que falten: per això el resultat oficial és 4 anys.\n\nComprovació amb Python: VAN(A) = 3.460,24 € i VAN(B) = −3.192,76 € (coincideixen amb l’oficial). Les TIR reals serien d’un 9,70 % (A) i un 4,41 % (B), coherents amb el raonament del 2.3."
+      }
+    },
+    {
+      "id": "empresa-2022-S-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Estructura financera, període de maduració, descompte d’efectes, partida doble, emprèstits i rendibilitat financera de Somatic",
+      "tema": "financament",
+      "temes_secundaris": [
+        "comptabilitat"
+      ],
+      "conceptes": [
+        "estructura financera",
+        "període mitjà de maduració",
+        "descompte d’efectes",
+        "partida doble",
+        "emprèstits",
+        "van i tir",
+        "rendibilitat financera"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Responeu els apartats 3.1 i 3.2.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "3.1",
+          "punts": 1.5,
+          "enunciat": "Empleneu els espais en blanc de les frases següents, referents als blocs d’informació econòmica financera de l’empresa i gestió financera, amb el mot o mots que hi faltin o amb la resposta adient. No cal que raoneu les respostes.\n\n*a*) L’estructura financera d’una empresa està formada pel _____.\n\n*b*) Si una empresa té un període mitjà de maduració econòmic llarg i, en canvi, té un període mitjà de maduració financer curt, el període mitjà de pagament serà llarg o curt? _____.\n\n*c*) El descompte d’efectes és una _____ a _____ termini.\n\n*d*) El fet que en les anotacions comptables la suma de les anotacions del deure sempre ha de ser igual a la suma de les anotacions de l’haver és un dels principis de la _____. Aquest principi o mètode consisteix a anotar simultàniament en dos comptes, com a mínim, la variació que es produeix en el patrimoni a causa de cada fet comptable.\n\n*e*) «Una font de finançament a la qual les petites empreses no poden accedir són els emprèstits.» Aquesta afirmació és vertadera o falsa? _____.\n\n*f*) «Si el VAN és positiu, aleshores la TIR serà superior a la taxa d’actualització utilitzada per a calcular el VAN.» Aquesta afirmació és vertadera o falsa? _____."
+        },
+        {
+          "id": "3.2",
+          "punts": 1,
+          "enunciat": "Calculeu la rendibilitat financera de l’empresa Somatic per a l’any 2021, tenint en compte la informació següent, i interpreteu el resultat obtingut.\n\n| Concepte | Import (milers de €) |\n|---|---:|\n| Resultat d’explotació | 450 |\n| Resultat financer | −25 |\n| Impost de societats | −100 |\n| Total actiu | 4.000 |\n| Total passiu | 2.500 |\n| Patrimoni net | 1.500 |"
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici mixt: el 3.1 són sis frases per completar (1,5 punts, 0,25 cada una) sobre finançament i comptabilitat, i el 3.2 és un càlcul curt de rendibilitat financera amb interpretació. Al 3.1 no cal raonar, però cal fer servir el vocabulari tècnic exacte. Al 3.2, el benefici net no es dona: s’ha d’obtenir del resultat d’explotació, el resultat financer i l’impost. Temps orientatiu: 15-20 minuts."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Com plantejar-ho",
+            "cos": "- *a*) Estructura **econòmica** = actiu (inversions); estructura **financera** = d’on surten els diners = patrimoni net + passiu.\n- *b*) $\\text{PMM financer} = \\text{PMM econòmic} - \\text{PMP}$. Si l’econòmic és llarg i el financer és curt, la diferència (el PMP) ha de ser **llarga**: els proveïdors financen bona part del cicle.\n- *c*) Descomptar efectes és avançar el cobrament de lletres al banc: és una **font de finançament** aliena a **curt** termini.\n- *d*) Anotar cada fet en el deure d’un compte i en l’haver d’un altre és el principi de la **partida doble**.\n- *e*) Els emprèstits (emissió d’obligacions) requereixen gran dimensió, solvència i, sovint, cotitzar: les pimes no hi poden accedir → **vertadera**.\n- *f*) Si VAN(k) > 0, cal una taxa més alta per anul·lar-lo; com que la TIR és la taxa que fa VAN = 0, TIR > k → **vertadera**."
+          },
+          {
+            "apartat": "3.1",
+            "titol": "Resposta model",
+            "cos": "*a*) L’estructura financera d’una empresa està formada pel **patrimoni net i el passiu**.\n\n*b*) El període mitjà de pagament serà **llarg**.\n\n*c*) El descompte d’efectes és una **font de finançament** a **curt** termini.\n\n*d*) És un dels principis de la **partida doble**.\n\n*e*) **Vertadera**.\n\n*f*) **Vertadera**."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Benefici net: $\\text{BN} = \\text{Resultat d’explotació} + \\text{Resultat financer} - \\text{Impost}$.\n2. Rendibilitat financera (ROE): $\\text{RF} = \\dfrac{\\text{BN}}{\\text{Patrimoni net}} \\cdot 100$.\n3. Interpretació: euros de benefici net per cada 100 € de recursos propis.\n\nEl total actiu i el total passiu no fan falta (serien per a la rendibilitat econòmica o ràtios d’endeutament): no et confonguis de denominador."
+          },
+          {
+            "apartat": "3.2",
+            "titol": "Resposta model",
+            "cos": "**Benefici net**:\n\n$$\\text{BN} = 450 - 25 - 100 = 325 \\text{ milers d’euros}$$\n\n**Rendibilitat financera**:\n\n$$\\text{RF} = \\frac{\\text{BN}}{\\text{PN}} \\cdot 100 = \\frac{325}{1500} \\cdot 100 = 21{,}67\\,\\%$$\n\n**Interpretació**: la rendibilitat financera mesura el rendiment que obtenen els propietaris pel capital que han aportat a l’empresa. Un 21,67 % vol dir que, per cada 100 € de recursos propis, Somatic ha obtingut 21,67 € de benefici net el 2021 (o 21,67 cèntims per cada euro). Com més alta és, més remuneració reben els inversors; és un valor elevat, clarament superior al que obtindrien amb una inversió sense risc, de manera que l’empresa és atractiva per als seus socis."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "3.1",
+            "valor": "a) patrimoni net i passiu; b) llarg; c) font de finançament / curt; d) partida doble; e) vertadera; f) vertadera."
+          },
+          {
+            "apartat": "3.2",
+            "valor": "BN = 450 − 25 − 100 = 325 milers €; RF = 325/1.500 = 21,67 %: per cada 100 € de recursos propis s’obtenen 21,67 € de benefici net."
+          }
+        ],
+        "nota": "Errors típics: al 3.1 *a*), confondre estructura financera (PN + passiu) amb estructura econòmica (actiu); al 3.2, dividir pel total actiu (seria la rendibilitat econòmica, i amb el BAII) o oblidar restar l’impost.\n\nLa pauta oficial dona 21,66 % (trunca 0,21666…); arrodonit correctament és 21,67 %. Totes dues respostes són vàlides."
+      }
+    },
+    {
+      "id": "empresa-2022-S-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2.5,
+      "titol": "Anàlisi estratègica, estratègies de creixement i internacionalització, missió i visió, pimes i hòlding",
+      "tema": "organitzacio",
+      "temes_secundaris": [
+        "empresa-entorn"
+      ],
+      "conceptes": [
+        "direcció estratègica",
+        "anàlisi estratègica",
+        "penetració de mercat",
+        "estratègia multidomèstica",
+        "deslocalització",
+        "visió i missió",
+        "creixement intern",
+        "hòlding"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7,
+        8
+      ],
+      "text": "",
+      "enunciat": "Responeu els apartats 4.1, 4.2 i 4.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "4.1",
+          "punts": 0.9,
+          "enunciat": "La direcció estratègica es compon d’un procés format per tres etapes que se succeeixen de manera consecutiva: l’anàlisi estratègica, l’elecció estratègica i la implantació de l’estratègia. Expliqueu tres elements que s’han d’estudiar per a fer l’anàlisi estratègica."
+        },
+        {
+          "id": "4.2",
+          "punts": 0.7,
+          "enunciat": "Marqueu amb una creu si les afirmacions següents són vertaderes o falses. **En els casos en què considereu que són falses, expliqueu per què.**\n\n| Afirmació | Vertadera | Falsa |\n|---|---|---|\n| *a*) L’estratègia de penetració del mercat és una estratègia de diversificació. | ☐ | ☐ |\n| *b*) L’estratègia multidomèstica consisteix en el fet que l’empresa descentralitza la seva organització i les decisions productives i de comerç en cada país en el qual opera. Així, dona una resposta personalitzada o més diferenciada per a cada filial d’aquesta empresa internacionalitzada, segons les característiques, els recursos i les necessitats locals del país on opera. | ☐ | ☐ |\n| *c*) La deslocalització és el trasllat d’activitats productives des de països industrialitzats fins a països en desenvolupament caracteritzats per tenir nivells sensiblement inferiors en la renda *per capita* i, per tant, en el salari mitjà de la població. | ☐ | ☐ |\n| *d*) La visió d’una empresa és la seva raó de ser i inclou els objectius que vol aconseguir en el present i els factors que són essencials per a assolir l’èxit. | ☐ | ☐ |\n| *e*) Entre les característiques de les pimes hi ha la capacitat de desenvolupament en mercats intersticials, és a dir, d’aprofitar els buits que deixen les grans empreses en els mercats. | ☐ | ☐ |"
+        },
+        {
+          "id": "4.3",
+          "punts": 0.9,
+          "enunciat": "Definiu *creixement intern*, expliqueu en què consisteix l’*estratègia de diversificació* i, pel que fa al creixement extern, expliqueu què és un *hòlding*."
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici totalment teòric sobre **estratègia empresarial**. Tres apartats curts: (4.1) explicar tres elements de l’anàlisi estratègica (0,3 punts cadascun), (4.2) vertader/fals amb justificació de les falses (si no expliques per què és falsa, no puntua), i (4.3) tres definicions. Respostes concises, de 3-5 línies per concepte, amb vocabulari tècnic. Temps orientatiu: 20 minuts. És un bon exercici per triar si domines la teoria, perquè no hi ha càlculs."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Com plantejar-ho",
+            "cos": "L’anàlisi estratègica respon a «on som i què volem». Té una part **externa** (entorn → amenaces i oportunitats), una d’**interna** (recursos i capacitats → punts forts i febles; és la base del DAFO) i una de **propòsit** (què volen els propietaris o directius: objectius). Explica cada element dient què s’hi estudia i per a què serveix."
+          },
+          {
+            "apartat": "4.1",
+            "titol": "Resposta model",
+            "cos": "Per fer l’anàlisi estratègica cal estudiar:\n\n1. **L’entorn**: els factors econòmics, socials, polítics, tecnològics i les característiques del sector i dels competidors que envolten l’empresa. Aquesta anàlisi externa permet identificar les **amenaces** que cal afrontar i les **oportunitats** que cal aprofitar.\n\n2. **La capacitat estratègica de l’empresa**: els recursos de què disposa (humans, financers, tecnològics, materials) i les capacitats i competències que pot desenvolupar com a organització. És una anàlisi interna que permet detectar els **punts febles** que cal corregir i els **punts forts** que cal potenciar.\n\n3. **Les expectatives dels propietaris o promotors** (i dels altres grups d’interès): cal que els propietaris o els gestors defineixin de manera clara i prèvia quins objectius volen assolir (millorar els beneficis, la posició competitiva, el valor de les accions en borsa…), ja que l’estratègia s’ha d’orientar a aconseguir-los."
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Com plantejar-ho",
+            "cos": "- *a*) Matriu d’Ansoff: penetració = producte actual en mercat actual → és una estratègia d’**especialització**, no de diversificació (que és producte nou en mercat nou).\n- *b*) Definició correcta de l’estratègia multidomèstica (adaptació local), oposada a la global (producte estandarditzat).\n- *c*) Definició correcta de deslocalització (motiu: costos laborals més baixos).\n- *d*) Confon visió i missió: la **missió** és la raó de ser present; la **visió** és la imatge de futur.\n- *e*) Correcta: les pimes es mouen bé en nínxols o mercats intersticials."
+          },
+          {
+            "apartat": "4.2",
+            "titol": "Resposta model",
+            "cos": "*a*) **Falsa**. L’estratègia de penetració del mercat consisteix a vendre més dels productes actuals en els mercats actuals; és una estratègia d’**especialització**. La diversificació implica oferir productes nous en mercats nous.\n\n*b*) **Vertadera**.\n\n*c*) **Vertadera**.\n\n*d*) **Falsa**. La definició correspon a la **missió** (la raó de ser de l’empresa en el present). La **visió** és la imatge de futur de l’empresa: com vol ser a llarg termini i quines metes pretén aconseguir.\n\n*e*) **Vertadera**."
+          },
+          {
+            "apartat": "4.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres conceptes de creixement empresarial:\n\n- **Creixement intern**: amb inversions pròpies (nous actius), sense comprar altres empreses.\n- **Diversificació** (Ansoff): nous productes per a nous mercats; pot ser relacionada (aprofita tecnologia o coneixement que ja té) o no relacionada.\n- **Hòlding**: forma de creixement **extern**; una societat que controla altres empreses perquè en té les accions."
+          },
+          {
+            "apartat": "4.3",
+            "titol": "Resposta model",
+            "cos": "**Creixement intern**: és l’augment de la capacitat productiva de l’empresa (i del seu patrimoni) mitjançant noves inversions fetes per la mateixa empresa, com ara noves instal·lacions, maquinària o llocs de treball, sense adquirir ni fusionar-se amb altres empreses. Pot servir per produir més del mateix producte o per diversificar la producció cap a nous mercats.\n\n**Estratègia de diversificació**: consisteix a créixer oferint **productes nous en mercats nous**. Pot ser relacionada, quan els nous productes tenen relació amb l’activitat original (tecnologia, canals, coneixement) i l’empresa en pot aprofitar l’avantatge competitiu, o no relacionada, quan l’empresa entra en activitats completament diferents per repartir el risc.\n\n**Hòlding**: és una societat que controla les activitats d’altres empreses perquè n’ha adquirit totes les accions o una part significativa. Les empreses del grup mantenen la seva personalitat jurídica, però la direcció estratègica la marca la societat matriu. Un dels avantatges principals és l’eficiència fiscal: la càrrega tributària sobre el resultat consolidat del grup pot ser menor que la suma de la de cada empresa per separat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "4.1",
+            "valor": "Entorn (amenaces i oportunitats); capacitat estratègica o recursos i competències interns (punts forts i febles); expectatives dels propietaris/promotors (objectius a assolir)."
+          },
+          {
+            "apartat": "4.2",
+            "valor": "a) Falsa: la penetració de mercat és d’especialització. b) Vertadera. c) Vertadera. d) Falsa: la visió és la imatge de futur, com vol ser a llarg termini. e) Vertadera."
+          },
+          {
+            "apartat": "4.3",
+            "valor": "Creixement intern: augment de la capacitat productiva amb noves inversions pròpies. Diversificació: nous productes (relacionats o no amb l’original) per a nous mercats. Hòlding: societat que controla altres empreses mitjançant la propietat de totes o bona part de les seves accions; avantatge d’eficiència fiscal."
+          }
+        ],
+        "nota": "Errors típics: al 4.2, marcar fals sense explicar el motiu (no puntua) o confondre missió i visió; al 4.1, citar només el DAFO sense explicar què s’estudia.\n\nMatís sobre la pauta del 4.3: l’oficial defineix la diversificació com «produir béns que tenen relació amb el producte original», que és en realitat la diversificació **relacionada** (o concèntrica); la definició general del temari és «nous productes en nous mercats», que inclou també la no relacionada. La resposta model inclou totes dues idees."
+      }
+    },
+    {
+      "id": "empresa-2022-S-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "problema",
+      "punts": 2.5,
+      "titol": "Verdures, SL: punt mort, unitats necessàries per a un benefici objectiu i característiques de la societat limitada",
+      "tema": "produccio",
+      "temes_secundaris": [
+        "empresa-entorn"
+      ],
+      "conceptes": [
+        "punt mort",
+        "llindar de rendibilitat",
+        "costos fixos",
+        "costos variables",
+        "benefici objectiu",
+        "societat de responsabilitat limitada",
+        "formes jurídiques"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        9,
+        10
+      ],
+      "text": "L’empresa familiar Verdures, SL es dedicava a la producció i venda de diferents productes hortícoles que conreava a les seves finques. Aquesta activitat li suposava cada any unes despeses molt elevades de mà d’obra i molta inversió en maquinària. Els costos fixos totals eren de 50.400 €/any i, quan feien els comptes anuals, sempre arribaven a la conclusió que la rendibilitat aconseguida no compensava tot l’esforç que hi dedicaven.\n\nPer això, van canviar l’estratègia i es van centrar en la producció i venda d’un sol producte de temporada, que van decidir comercialitzar en paquets d’1 kg. Amb aquesta nova estratègia:\n\n- els costos variables unitaris (els costos de producció i distribució) eren de 2,5 €/paquet;\n- cada paquet d’1 kg el venien a un preu de 18 €/paquet, ja que van considerar que inicialment el preu de venda al públic no havia de superar el llindar dels 20 €/paquet;\n- els costos fixos totals es van reduir considerablement i van passar a ser de 12.600 €/any (una quarta part dels costos fixos totals dels anys anteriors).",
+      "enunciat": "Responeu els apartats 5.1, 5.2 i 5.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "5.1",
+          "punts": 0.8,
+          "enunciat": "Tenint en compte la nova estratègia, calculeu el punt mort, és a dir, quants paquets d’1 kg havien de vendre per a no perdre ni guanyar diners. Interpreteu el resultat."
+        },
+        {
+          "id": "5.2",
+          "punts": 0.5,
+          "enunciat": "Fa uns mesos, veient que realment el seu producte tenia molt d’èxit perquè es tractava d’un producte de proximitat, l’empresa Verdures, SL va decidir canviar de nou l’estratègia ampliant els canals de comercialització mitjançant Internet. Per temes logístics, han canviat els envasos, però els paquets continuen sent d’1 kg. Els costos fixos totals ara són de 14.000 €/any i els costos variables unitaris han pujat a 3 €/paquet. Amb aquestes noves condicions, si el preu de venda és de 15 €/paquet, calculeu quants paquets haurien de produir i vendre per a aconseguir uns beneficis de 40.000 €."
+        },
+        {
+          "id": "5.3",
+          "punts": 1.2,
+          "enunciat": "L’empresa familiar Verdures, SL és una societat de responsabilitat limitada. Quin és el nombre mínim de socis que es necessita per a constituir-la? Quina responsabilitat té el soci o socis? Quin és el capital mínim que s’ha d’aportar per a la constitució d’una societat de responsabilitat limitada?"
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici assequible: dos càlculs de **punt mort** (llindar de rendibilitat) i una pregunta teòrica sobre la **societat limitada**, que és la que val més (1,2 punts). Fes servir només les dades de l’estratègia que demana cada apartat: els 50.400 € de costos fixos antics són informació de context i no entren en cap càlcul. Escriu la fórmula, substitueix, dona el resultat en paquets (nombre enter, arrodonit cap amunt) i interpreta’l. Temps orientatiu: 15-20 minuts."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Al punt mort, el benefici és zero: $p \\cdot q = CF + CV_u \\cdot q$. Aïllant:\n\n$$q^* = \\frac{CF}{p - CV_u}$$\n\nEl denominador $p - CV_u$ és el **marge de contribució unitari**: el que aporta cada paquet a cobrir els costos fixos. Com que no es poden vendre fraccions de paquet, s’arrodoneix **cap amunt**."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Resposta model",
+            "cos": "Dades: $CF = 12600$ €/any, $p = 18$ €/paquet, $CV_u = 2{,}5$ €/paquet.\n\n$$q^* = \\frac{CF}{p - CV_u} = \\frac{12600}{18 - 2{,}5} = \\frac{12600}{15{,}5} = 812{,}90 \\approx 813 \\text{ paquets}$$\n\n**Interpretació**: Verdures, SL ha de vendre **813 paquets** d’1 kg l’any per cobrir tots els costos (amb 813 paquets el benefici és pràcticament zero). Si en ven més, obté beneficis; si en ven menys, té pèrdues. Cada paquet aporta un marge de 15,50 € per cobrir els costos fixos."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Com plantejar-ho",
+            "cos": "És la mateixa equació del benefici, però en lloc d’igualar-la a zero, s’iguala al benefici desitjat:\n\n$$B = p \\cdot q - (CF + CV_u \\cdot q) \\quad\\Rightarrow\\quad q = \\frac{CF + B}{p - CV_u}$$"
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Resposta model",
+            "cos": "Dades: $CF = 14000$ €/any, $CV_u = 3$ €/paquet, $p = 15$ €/paquet, $B = 40000$ €.\n\n$$40000 = 15q - (14000 + 3q) = 12q - 14000$$\n\n$$12q = 54000 \\quad\\Rightarrow\\quad q = \\frac{54000}{12} = 4500 \\text{ paquets}$$\n\nVerdures, SL hauria de produir i vendre **4.500 paquets** d’1 kg per obtenir uns beneficis de 40.000 €.\n\nComprovació: ingressos $= 15 \\cdot 4500 = 67500$ €; costos $= 14000 + 3 \\cdot 4500 = 27500$ €; benefici $= 67500 - 27500 = 40000$ €."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Tres preguntes concretes (0,4 punts cadascuna): nombre mínim de socis, responsabilitat i capital mínim. Respon cadascuna en un paràgraf breu, amb la xifra o el concepte exacte i una línia d’explicació."
+          },
+          {
+            "apartat": "5.3",
+            "titol": "Resposta model",
+            "cos": "**Nombre de socis**: per constituir una societat de responsabilitat limitada n’hi ha prou amb **un sol soci** (societat limitada unipersonal); la llei no n’estableix cap màxim. Els socis poden ser persones físiques o jurídiques.\n\n**Responsabilitat dels socis**: és **limitada al capital aportat**. Els socis no responen dels deutes de la societat amb el seu patrimoni personal; com a màxim, poden perdre el que hi han aportat.\n\n**Capital mínim**: en el moment de l’examen (2022), el capital mínim per constituir una SL era de **3.000 €**, que s’havia de desemborsar íntegrament en el moment de la constitució. Pot ser una aportació dinerària o no dinerària (en espècie), sempre que el bé aportat es valori econòmicament; el capital es divideix en participacions socials."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "5.1",
+            "valor": "q* = 12.600 / (18 − 2,5) = 812,90 ≈ 813 paquets. Per sobre, beneficis; per sota, pèrdues."
+          },
+          {
+            "apartat": "5.2",
+            "valor": "40.000 = 15q − (14.000 + 3q) → 12q = 54.000 → q = 4.500 paquets."
+          },
+          {
+            "apartat": "5.3",
+            "valor": "Mínim 1 soci (sense màxim; persones físiques o jurídiques); responsabilitat limitada al capital aportat (no responen amb el patrimoni personal); capital mínim 3.000 € (aportació dinerària o en espècie)."
+          }
+        ],
+        "nota": "Errors típics: utilitzar els costos fixos antics (50.400 €) al 5.1; arrodonir cap avall el punt mort (812 paquets encara donen pèrdues); al 5.2, oblidar sumar el benefici als costos fixos.\n\nObservacions sobre la pauta: (1) escriu «12.600/18 – 2,5», sense parèntesis, però calcula correctament 12.600/15,5; (2) la interpretació oficial diu «obtindrà beneficis i menys pèrdues», que s’ha d’entendre com «si ven més, beneficis; si ven menys, pèrdues»; (3) afirma que la responsabilitat dels socis és «solidària entre els socis»: en una SL els socis no responen dels deutes socials, i la responsabilitat solidària només s’aplica, per exemple, a la realitat i la valoració de les aportacions no dineràries. (4) Actualització legal: la Llei 18/2022 (de creació i creixement d’empreses, en vigor des d’octubre de 2022, poc després d’aquest examen) va reduir el capital mínim de la SL a **1 €** (amb algunes cauteles mentre no s’arribi als 3.000 €). A l’examen de 2022 la resposta esperada era 3.000 €."
+      }
+    },
+    {
+      "id": "empresa-2022-S-e6-q1",
+      "exercici": 6,
+      "questio": 1,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ràtio de solvència (garantia) de 0,5: fallida tècnica",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "ràtio de solvència",
+        "ràtio de garantia",
+        "fallida tècnica"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Si una empresa presenta una ràtio de solvència (o de garantia) de 0,5, podem afirmar que",
+      "figures": [],
+      "opcions": {
+        "a": "no té problemes de liquiditat a llarg termini.",
+        "b": "no té problemes de liquiditat ni a curt ni a llarg termini.",
+        "c": "està en situació de fallida tècnica.",
+        "d": "ha tingut beneficis l’últim any."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten, i l’exercici mai no pot donar nota negativa). Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. La ràtio de solvència o de garantia és $\\dfrac{\\text{Actiu total}}{\\text{Passiu total (recursos aliens)}}$. Un valor de 0,5 vol dir que l’actiu només cobreix la meitat dels deutes: el patrimoni net és negatiu i l’empresa no podria pagar tots els seus deutes ni venent tot l’actiu. Aquesta situació és la **fallida tècnica**. Les opcions a) i b) diuen el contrari, i la d) no es pot deduir d’una ràtio de balanç (de fet, un PN negatiu acostuma a ser fruit de pèrdues acumulades)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2022-S-e6-q2",
+      "exercici": 6,
+      "questio": 2,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Emprèstits, lísing i rènting: recursos aliens a llarg termini",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "fonts de finançament",
+        "emprèstits",
+        "lísing",
+        "rènting",
+        "recursos aliens"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Els emprèstits d’obligacions, el lísing i el rènting són exemples de",
+      "figures": [],
+      "opcions": {
+        "a": "recursos propis amb caràcter intern (autofinançament).",
+        "b": "recursos aliens a curt termini.",
+        "c": "recursos propis amb caràcter extern.",
+        "d": "recursos aliens a llarg termini."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten, i l’exercici mai no pot donar nota negativa). Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. Les tres fonts suposen un deute amb tercers (obligacionistes, empresa de lísing o de rènting) que s’ha de retornar o pagar al llarg de diversos anys: són **recursos aliens a llarg termini** (passiu no corrent). No són recursos propis (ni autofinançament, opció a, ni aportacions dels socis, opció c), i no són a curt termini (b), com sí que ho serien el crèdit comercial o el descompte d’efectes."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2022-S-e6-q3",
+      "exercici": 6,
+      "questio": 3,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "La cadena de valor detecta debilitats i fortaleses",
+      "tema": "organitzacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "cadena de valor",
+        "anàlisi interna",
+        "dafo"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "L’anàlisi de la cadena de valor permet a una empresa detectar",
+      "figures": [],
+      "opcions": {
+        "a": "debilitats i amenaces.",
+        "b": "amenaces i oportunitats.",
+        "c": "debilitats i fortaleses.",
+        "d": "fortaleses i oportunitats."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten, i l’exercici mai no pot donar nota negativa). Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. La cadena de valor (Porter) analitza les activitats **internes** de l’empresa (primàries i de suport) per veure on crea valor i on no: és una eina d’anàlisi interna, que serveix per detectar **fortaleses i debilitats**. Les amenaces i oportunitats (opcions a, b i d) provenen de l’anàlisi **externa** (entorn, cinc forces)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2022-S-e6-q4",
+      "exercici": 6,
+      "questio": 4,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Efecte d’un augment del marge de contribució sobre el punt mort",
+      "tema": "produccio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "punt mort",
+        "marge de contribució",
+        "llindar de rendibilitat"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "Si el marge de contribució o de cobertura d’una empresa s’incrementa,",
+      "figures": [],
+      "opcions": {
+        "a": "el punt mort disminueix.",
+        "b": "el punt mort augmenta.",
+        "c": "el punt mort es queda igual.",
+        "d": "no podem afirmar res en relació amb el punt mort."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten, i l’exercici mai no pot donar nota negativa). Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. El punt mort és $q^* = \\dfrac{CF}{p - CV_u}$, on el denominador és el marge de contribució unitari. Si aquest marge augmenta (amb els mateixos costos fixos), cada unitat cobreix més costos fixos i calen **menys unitats** per arribar al benefici zero: el punt mort disminueix."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": ""
+      }
+    },
+    {
+      "id": "empresa-2022-S-e6-q5",
+      "exercici": 6,
+      "questio": 5,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Hisenda pública deutora: un dret de cobrament a curt termini",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "hisenda pública deutora",
+        "actiu corrent",
+        "realitzable"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        11
+      ],
+      "text": "",
+      "enunciat": "El compte d’Hisenda pública deutora representa",
+      "figures": [],
+      "opcions": {
+        "a": "un dret de cobrament a curt termini.",
+        "b": "una obligació de pagament a curt termini.",
+        "c": "una despesa per a l’empresa.",
+        "d": "un ingrés per a l’empresa."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6: cada resposta correcta val 0,5 punts i cada resposta errònia resta 0,15 punts (les no contestades no resten, i l’exercici mai no pot donar nota negativa). Amb quatre opcions, si en pots descartar dues amb seguretat, val la pena respondre."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. «Deutora» vol dir que Hisenda deu diners a l’empresa (per exemple, una devolució d’IVA o d’impostos): és un **dret de cobrament a curt termini**, que es registra a l’actiu corrent (realitzable). L’obligació de pagament (b) seria Hisenda pública **creditora**. No és un compte de despeses ni d’ingressos (c i d), sinó un compte de balanç."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": ""
+      }
+    }
+  ]
+}
