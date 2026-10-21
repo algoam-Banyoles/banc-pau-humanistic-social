@@ -1,0 +1,1377 @@
+{
+  "examen": {
+    "id": "llati-2011-J",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2011,
+    "convocatoria": "juny",
+    "serie": "1 i 4",
+    "pdf_examen": "pdfs/llati/2011-J-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2011-J-solucio.pdf",
+    "estructura": "Convocatòria de juny de 2011 (curs 2010-2011). El PDF conté dues sèries (1 i 4) amb la mateixa estructura: quatre exercicis (10 punts). L'exercici 1 és comú a les dues opcions: versió catalana d'un text llatí amb lèxic donat (5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B), la mateixa per als tres exercicis: 2. qüestió de morfosintaxi sobre el text (1 punt); 3. qüestió de llengua, literatura o civilització romanes (2 punts); 4. exposició d'un tema de literatura o civilització romanes (2 punts, mínim 15 línies, ~150 paraules).\n\nSèrie 1: Tit Livi, els Horacis i els Curiacis. Opció A: ablatiu absolut *Foedere icto*; associar quatre fragments a tòpics d'Horaci; exposició sobre la ciutat romana de Bàrcino. Opció B: els dos valors de *cum*; quatre preguntes d'opció múltiple sobre expressions llatines (0,50 per encert, −0,16 per error, les no contestades no puntuen); exposició sobre la guerra entre Roma i Alba Longa i el combat dels Horacis i els Curiacis.\n\nSèrie 4: Florus, Tul·lus Hostili desafia els albans. Opció A: ablatiu absolut *exercita iuuentute in mirum modum*; identificar quatre edificis públics romans a partir de textos antics; exposició sobre l'edat d'or de la literatura llatina. Opció B: oració de relatiu amb *cui* i funció de *regnum*; relacionar quatre expressions llatines amb set afirmacions (0,50 per encert, −0,16 per error); exposició sobre Empúries."
+  },
+  "problemes": [
+    {
+      "id": "llati-2011-J-s1-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "1",
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Tit Livi: els reis acorden el combat dels Horacis i els Curiacis",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "tit livi",
+        "horacis i curiacis",
+        "ablatiu absolut",
+        "oració final",
+        "cum temporal",
+        "cum preposició",
+        "present històric"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Els reis acorden que lluitin els Horacis i els Curiacis**\n\nIn duobus exercitibus erant trigemini fratres, Horatii Curiatiique. Cum trigeminis agunt reges, ut pro sua patria quisque dimicet ferro. Foedere icto, trigemini arma capiunt et in medium inter duas acies procedunt. Datur signum et terni iuuenes concurrunt. Cum arma primo concursu increpuerunt, horror spectantes perstringit.\n\nTIT LIVI, *Història de Roma*, 1, 24, 1; 1, 25, 1 i 3-4\n\n**Lèxic** (per ordre alfabètic):\n\n- *ago, egi, actum* (3a): 'parlar'.\n- *concurro, -rri, -rsum* (3a): 'entaular combat'.\n- *concursus, -us* (masculí): 'escomesa'.\n- *ferrum, -i* (neutre): 'espasa'.\n- *foedus, -eris* (neutre): 'pacte'.\n- *ico, ici, ictum* (3a): 'signar'.\n- *perstringo, -nxi, -ctum* (3a): 'sobreprendre'.\n- *pro* (preposició): 'en favor de'.\n- *spectans, -tis* (masculí i femení): 'espectador'.\n- *terni, -ae, -a* (adjectiu plural): 'grups de tres'.",
+      "enunciat": "Feu la versió catalana del text següent (5 punts). Aquest exercici és comú a les dues opcions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de **Tit Livi** (*Ab urbe condita*, llibre I) amb el famós episodi del combat entre els **Horacis** (romans) i els **Curiacis** (albans), en temps del rei Tul·lus Hostili. El títol ja t'explica el contingut. Val **5 punts**, la meitat de l'examen: dedica-hi uns 40 minuts.\n\nMètode: (1) localitza els **verbs conjugats** i separa les cinc oracions (punts): *erant*; *agunt* + *dimicet*; *capiunt*, *procedunt*; *datur*, *concurrunt*; *increpuerunt*, *perstringit*; (2) fixa't que gairebé tot és en **present històric** (narració viva): tradueix-lo en present, com fa la pauta, o en passat, però sigues coherent; (3) identifica les estructures: un **ablatiu absolut** (*Foedere icto*), una **oració final** amb *ut* + subjuntiu, una **passiva** (*datur*) i els dos usos de ***cum***: preposició (*Cum trigeminis*) i conjunció temporal (*Cum arma ... increpuerunt*).\n\nParanys: *agunt* aquí vol dir «parlar» (ho diu el lèxic), no «fer»; *quisque* és el subjecte de *dimicet*; *ferro* és ablatiu instrumental («amb l'espasa»); *arma* és neutre plural (acusatiu a la 3a oració, nominatiu a la 5a); *spectantes* és acusatiu (CD) i el subjecte de *perstringit* és *horror*."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*In duobus exercitibus erant trigemini fratres, Horatii Curiatiique.*\n\n- ***In duobus exercitibus***: *in* + ablatiu plural de *exercitus, -us* (4a), amb el numeral *duo* (ablatiu *duobus*): CC de lloc, «en els dos exèrcits».\n- ***erant***: 3a pl. imperfet d'indicatiu de *sum*, aquí amb valor existencial: «hi havia».\n- Subjecte: ***trigemini fratres*** (nominatiu pl.): «germans trigèmins».\n- ***Horatii Curiatiique***: aposició al subjecte (nominatius pl.), coordinats per l'enclític *-que*: «els Horacis i els Curiacis»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Cum trigeminis agunt reges, ut pro sua patria quisque dimicet ferro.*\n\nOració principal + subordinada.\n\n- ***Cum trigeminis***: **preposició** *cum* + ablatiu plural: CC de companyia, «amb els trigèmins».\n- ***agunt***: 3a pl. present d'indicatiu de *ago* («parlar»). Subjecte: ***reges*** (nominatiu pl. de *rex, regis*): «els reis parlen».\n- ***ut ... dimicet***: *ut* + present de subjuntiu (*dimico*, 1a, «lluitar»): **oració subordinada adverbial final**, «per tal que lluiti». (També es pot entendre com a completiva del verb de parlar: «parlen perquè / demanen que cadascun lluiti».)\n- Subjecte de *dimicet*: ***quisque*** (pronom indefinit, nominatiu): «cadascun».\n- ***pro sua patria***: *pro* + ablatiu, «en favor de la seva pàtria» (*sua*, possessiu reflexiu).\n- ***ferro***: ablatiu instrumental de *ferrum*: «amb l'espasa»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Foedere icto, trigemini arma capiunt et in medium inter duas acies procedunt.*\n\n- ***Foedere icto***: **ablatiu absolut**: *foedere* (ablatiu de *foedus, -eris*, neutre) + participi de perfet passiu *icto* (de *ico*, «signar»). Valor temporal: «signat el pacte, un cop signat el pacte».\n- Subjecte: ***trigemini*** (nominatiu pl.). Dues oracions coordinades per ***et***:\n  - ***arma capiunt***: *capiunt*, 3a pl. present de *capio* (3a mixta); CD *arma* (acusatiu pl. neutre): «agafen les armes».\n  - ***in medium inter duas acies procedunt***: *procedunt*, 3a pl. present de *procedo*, «avancen»; *in medium* (in + acusatiu, direcció), «cap al mig»; *inter duas acies* (inter + acusatiu pl. de *acies, -ei*, 5a), «entre els dos exèrcits (formats en línia de batalla)»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: quarta oració",
+            "cos": "*Datur signum et terni iuuenes concurrunt.*\n\n- ***Datur***: 3a sg. present d'indicatiu **passiu** de *do*. Subjecte: ***signum*** (nominatiu sg. neutre): «es dona el senyal».\n- ***et***: coordinació copulativa.\n- ***terni iuuenes***: subjecte (nominatiu pl.); *terni* és un distributiu, «en grups de tres» (ho dona el lèxic): «els grups de tres joves».\n- ***concurrunt***: 3a pl. present de *concurro*: «entaulen combat»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: cinquena oració",
+            "cos": "*Cum arma primo concursu increpuerunt, horror spectantes perstringit.*\n\n- ***Cum ... increpuerunt***: aquí *cum* és **conjunció subordinant temporal** (va amb un verb en forma personal, en indicatiu): «quan». *increpuerunt*: 3a pl. perfet d'indicatiu de *increpo* («ressonar, retrunyir»). Subjecte: ***arma*** (nominatiu pl. neutre).\n- ***primo concursu***: ablatiu de *primus concursus* (4a), CC de temps: «en la primera escomesa».\n- Principal: ***horror*** (subjecte, nominatiu sg.) ***perstringit*** (3a sg. present, «sobreprèn») ***spectantes*** (CD: acusatiu pl. de *spectans*, participi substantivat, «els espectadors»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "En els dos exèrcits hi havia germans trigèmins, els Horacis i els Curiacis. Amb els trigèmins parlen els reis, perquè cadascun lluiti amb l'espasa en favor de la seva pàtria. Signat el pacte, els trigèmins agafen les armes i avancen al mig entre els dos exèrcits. Es dona el senyal i els grups de tres joves entaulen combat. Quan les armes han retrunyit en la primera escomesa, l'horror sobreprèn els espectadors."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "En cadascun dels dos exèrcits hi havia uns germans trigèmins: els Horacis i els Curiacis. Els reis parlen amb els trigèmins perquè cadascun lluiti amb l'espasa en favor de la seva pàtria. Un cop signat el pacte, els trigèmins agafen les armes i avancen fins al mig dels dos exèrcits. Es dona el senyal i els dos grups de tres joves es llancen al combat. Quan, en la primera escomesa, les armes han retrunyit, l'horror s'apodera dels espectadors."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió orientativa de la pauta oficial: «En els dos exèrcits hi havia uns germans trigèmins, els Horacis i els Curiacis. Els reis parlen amb els trigèmins, per tal que cadascun lluiti amb l'espasa en favor de la seva pàtria. Signat el pacte, els trigèmins agafen les armes i avancen al mig entre els dos exèrcits. Es dóna el senyal i els grups de tres joves entaulen combat. Quan les armes han retrunyit en la primera escomesa, l'horror sobreprèn els espectadors.»"
+          }
+        ],
+        "nota": "La pauta diu que la versió correcta «pot adoptar formes distintes»: s'accepta traduir el present històric en passat («parlaren, agafaren...») si es fa de manera coherent. Errors típics: traduir *agunt* per «fan» o «actuen», no veure l'ablatiu absolut *Foedere icto*, fer de *spectantes* el subjecte («els espectadors sobreprenen l'horror») i confondre els dos *cum* (preposició + ablatiu / conjunció + verb). A la pauta oficial hi ha una errata («trigènims»)."
+      }
+    },
+    {
+      "id": "llati-2011-J-s1-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: l'ablatiu absolut Foedere icto",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi no concertat",
+        "participi de perfet",
+        "tit livi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Els reis acorden que lluitin els Horacis i els Curiacis**\n\nIn duobus exercitibus erant trigemini fratres, Horatii Curiatiique. Cum trigeminis agunt reges, ut pro sua patria quisque dimicet ferro. Foedere icto, trigemini arma capiunt et in medium inter duas acies procedunt. Datur signum et terni iuuenes concurrunt. Cum arma primo concursu increpuerunt, horror spectantes perstringit.\n\nTIT LIVI, *Història de Roma*, 1, 24, 1; 1, 25, 1 i 3-4\n\n**Lèxic** (per ordre alfabètic):\n\n- *ago, egi, actum* (3a): 'parlar'.\n- *concurro, -rri, -rsum* (3a): 'entaular combat'.\n- *concursus, -us* (masculí): 'escomesa'.\n- *ferrum, -i* (neutre): 'espasa'.\n- *foedus, -eris* (neutre): 'pacte'.\n- *ico, ici, ictum* (3a): 'signar'.\n- *perstringo, -nxi, -ctum* (3a): 'sobreprendre'.\n- *pro* (preposició): 'en favor de'.\n- *spectans, -tis* (masculí i femení): 'espectador'.\n- *terni, -ae, -a* (adjectiu plural): 'grups de tres'.",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En el text hi ha l'estructura sintàctica *Foedere icto*. Digueu el nom que rep i els elements que la formen.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues coses (uns 5 minuts): el **nom** de l'estructura i els **elements** que la formen (cada mot amb cas i categoria). No n'hi ha prou amb dir «ablatiu absolut»: cal analitzar-ne les peces."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *icto* és el **participi de perfet passiu** de *ico, ici, ictum* («signar»), en **ablatiu singular neutre**.\n2. *foedere* és l'**ablatiu singular** de *foedus, -eris* (neutre, 3a declinació), i concorda amb el participi.\n3. El conjunt no depèn de cap mot de l'oració principal (*trigemini arma capiunt...*): és un **participi no concertat**, anomenat **ablatiu absolut**. *foedere* fa de «subjecte» del participi, i el participi de «predicat».\n4. Valor: temporal-anterior (participi de perfet): «un cop signat el pacte»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Foedere icto* és una construcció de **participi no concertat**, anomenada **ablatiu absolut**. Està formada pel participi de perfet passiu ***icto*** (de *ico*, «signar»), en ablatiu singular neutre, que concorda amb el substantiu ***foedere*** (ablatiu singular de *foedus, -eris*, neutre), que n'és el subjecte. Té valor temporal: «signat el pacte, un cop signat el pacte»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Construcció de participi no concertat o **ablatiu absolut**."
+          },
+          {
+            "apartat": null,
+            "valor": "Formada per un participi en ablatiu (*icto*) que concorda amb un substantiu també en ablatiu (*foedere*)."
+          }
+        ],
+        "nota": "Error típic: dir que és un «participi concertat» (no concorda amb cap element de l'oració principal) o que *foedere* és un CC d'instrument. Convé indicar el temps del participi (perfet passiu) i el valor temporal."
+      }
+    },
+    {
+      "id": "llati-2011-J-s1-e3-a",
+      "exercici": 3,
+      "questio": null,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Tòpics d'Horaci: carpe diem, aurea mediocritas, beatus ille i non omnis moriar",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "horaci",
+        "tòpics literaris",
+        "carpe diem",
+        "aurea mediocritas",
+        "beatus ille",
+        "non omnis moriar",
+        "tradició clàssica"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "1. El cel pot, abans que no sonin  \nles campanades del matí,  \ndur-nos a la tomba.  \n**Mentrestant viviu satisfets** […],  \ni fins que us venci la cervesa  \nbeveu com ho feien els avis!  \nJohann Christian GÜNTHER. *Cançó d'estudiants*. Fragment\n\n2. Quina amant jo voldria i quina no, Flac, em preguntes?  \nNo la vull ni massa fàcil ni massa difícil.  \n**M'agrada allò que està al mig, entre una cosa i l'altra**.  \nNo vull allò que tortura ni vull allò que empatxa.  \nMARCIAL. *Epigrames*, 2, 57\n\n3. **Ditxós tu!** Ditxós tu, **que en ta masia,  \nlluny del brogit del món, vius en la calma**,  \ni en eixes nits d'hivern […]  \nta dona al nen més petit bressa  \ncantant dolces cançons […];  \ni el vent […] te porta el perfum aspre […]  \ndels reïnosos pins de la muntanya.  \nJoaquim Maria BARTRINA. «Epístola». Fragment\n\n4. M'he alçat un monument no fet per mans humanes […];  \ns'aixeca més amunt, la seva testa indòmita,  \nque l'obelisc alexandrí.  \n**No, tot no moriré** […]  \nsonarà el meu nom mentre davall la lluna  \nun sol poeta resti viu.  \nLa meva fama solcarà la terra russa  \ni tota llengua viva hi cantarà el meu nom […].  \nAleksandr Serguèievitx PUIXKIN. «M'he alçat un monument». Fragment",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts). Associeu cadascun dels fragments següents a un dels temes cabdals de la poesia d'Horaci. Fixeu-vos sobretot en els mots destacats en negreta.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Fragment 1 (Günther, *Cançó d'estudiants*).",
+          "punts": 0.5
+        },
+        {
+          "id": "2",
+          "enunciat": "Fragment 2 (Marcial, *Epigrames*, 2, 57).",
+          "punts": 0.5
+        },
+        {
+          "id": "3",
+          "enunciat": "Fragment 3 (Bartrina, «Epístola»).",
+          "punts": 0.5
+        },
+        {
+          "id": "4",
+          "enunciat": "Fragment 4 (Puixkin, «M'he alçat un monument»).",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Quatre fragments de poetes posteriors (alemany, llatí, català i rus) que reprenen **tòpics horacians**. Cal donar, per a cada fragment, el nom del tòpic (en llatí o la seva descripció en català: la pauta accepta les dues coses) i, millor encara, una frase que el justifiqui a partir dels mots en negreta. Uns 10 minuts; cada encert val previsiblement 0,5 punts."
+          },
+          {
+            "apartat": "1",
+            "titol": "Com plantejar-ho",
+            "cos": "La vida és breu (la tomba arriba aviat) → **mentrestant, gaudiu**: és la invitació a aprofitar el present, el ***carpe diem*** (*Odes* I, 11: *carpe diem, quam minimum credula postero*)."
+          },
+          {
+            "apartat": "2",
+            "titol": "Com plantejar-ho",
+            "cos": "«Allò que està al mig», ni massa ni massa poc: és l'elogi del terme mitjà, l'***aurea mediocritas*** (*Odes* II, 10). Marcial s'adreça precisament a un «Flac», com el cognom d'Horaci."
+          },
+          {
+            "apartat": "3",
+            "titol": "Com plantejar-ho",
+            "cos": "«Ditxós tu, que ... lluny del brogit del món, vius en la calma» de la masia: és la lloança de la vida senzilla al camp, el ***beatus ille*** (*Epodes* 2: *Beatus ille qui procul negotiis...*)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Com plantejar-ho",
+            "cos": "Un monument més alt que l'obelisc i «no, tot no moriré»: el poeta confia a assolir la immortalitat gràcies a la seva obra. És la traducció de *non omnis moriar* de l'oda III, 30: ***Exegi monumentum aere perennius***."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "1. ***Carpe diem***: la necessitat d'aprofitar el moment present, perquè la vida és breu i la mort pot arribar en qualsevol moment.\n\n2. ***Aurea mediocritas***: la bonesa del terme mitjà, l'equilibri entre els extrems.\n\n3. ***Beatus ille***: la felicitat de la vida senzilla i tranquil·la del camp, lluny del brogit de la ciutat.\n\n4. ***Exegi monumentum aere perennius*** / ***non omnis moriar***: l'ànsia d'immortalitat del poeta, que sobreviurà gràcies a la seva obra."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "*Carpe diem* (necessitat d'aprofitar el moment present)."
+          },
+          {
+            "apartat": "2",
+            "valor": "*Aurea mediocritas* (la bonesa de la mitjania)."
+          },
+          {
+            "apartat": "3",
+            "valor": "*Beatus ille* (avantatges de viure una vida senzilla)."
+          },
+          {
+            "apartat": "4",
+            "valor": "*Monumentum exegi aere perennius* (ànsies d'immortalitat del poeta)."
+          }
+        ],
+        "nota": "La pauta accepta tant l'expressió llatina com la denominació catalana del tòpic. No confonguis *beatus ille* (vida al camp) amb *locus amoenus* (descripció d'un paisatge ideal) ni *carpe diem* amb *tempus fugit* (que en seria el fonament)."
+      }
+    },
+    {
+      "id": "llati-2011-J-s1-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Història de la ciutat romana de Bàrcino: fundació, estructura, govern, muralla i restes",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "bàrcino",
+        "august",
+        "laietans",
+        "urbanisme romà",
+        "fòrum",
+        "muralla",
+        "hispània"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Expliqueu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: Història de la ciutat romana de Bàrcino (poble que habitava la zona en època preromana; cronologia i motiu de la fundació romana; nom del fundador i títol complet que li va atorgar; extensió i estructura de la ciutat; espais i edificis més importants; òrgans de govern; modificació urbana del segle III i causa que la va motivar; restes romanes que es conserven dins i fora del recinte emmurallat, etc.).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. L'enunciat és un guió de vuit punts: segueix-lo en ordre i no te'n deixis cap, perquè cadascun és un ítem de correcció."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Poble preromà**: els laietans (ibers).\n2. **Cronologia i motiu**: fundació augustal (final del s. I aC) per controlar el territori entre el Llobregat i el Besòs.\n3. **Fundador i títol**: August; *Colonia Iulia Augusta Faventia Paterna Barcino*.\n4. **Extensió i estructura**: ~10 ha sobre un turó, planta rectangular amb vèrtexs escapçats, quadrícula d'*insulae*, *cardo* i *decumanus*, quatre portes.\n5. **Edificis**: fòrum (pl. Sant Jaume) amb el temple d'August, termes, aqüeductes.\n6. **Govern**: duumvirs (i duumvirs quinquennals), edils, *ordo decurionum*.\n7. **Segle III**: nova muralla per motius de seguretat (incursions de pobles bàrbars).\n8. **Restes**: muralla, temple, termes, aqüeducte; fora muralla, necròpolis de la plaça de la Vila de Madrid."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La colònia de **Bàrcino** es va fundar a la fi del segle I aC (cap als anys 15-10 aC), en temps de l'emperador **August**, en el territori dels **laietans**, el poble iber que habitava el pla de Barcelona (amb oppida com el de Montjuïc). Va rebre el títol de ***Colonia Iulia Augusta Faventia Paterna Barcino***. El motiu de la fundació era controlar el territori i les vies de comunicació entre els rius Llobregat i Besòs, a tocar de la Via Augusta.\n\nLa ciutat, de nova planta, s'aixecava sobre un petit turó (el Mont Tàber) i ocupava unes 10-12 hectàrees, dins d'una muralla de forma gairebé rectangular. Tenia un traçat ortogonal d'*insulae* organitzat a partir del ***cardo*** i el ***decumanus***, que es creuaven al **fòrum** (l'actual plaça de Sant Jaume) i portaven a les quatre portes. Al fòrum hi havia el **temple d'August**; la ciutat tenia també termes, dos aqüeductes i, fora muralla, necròpolis.\n\nCom a colònia, la governaven dos **duumvirs**, els edils i l'***ordo decurionum***, a imitació de Roma. A finals del segle III dC, per l'amenaça de les **invasions de francs i alamans**, es va construir una nova **muralla** més gruixuda i amb nombroses torres.\n\nSe'n conserven trams de la muralla i torres, quatre columnes del temple d'August (carrer del Paradís), les restes del subsol de la plaça del Rei (MUHBA), arcades de l'aqüeducte i, fora del recinte, la necròpolis de la plaça de la Vila de Madrid."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Fundació per August al final del s. I aC, en territori dels laietans; *Colonia Iulia Augusta Fauentia Paterna Barcino*; unes 10 ha."
+          },
+          {
+            "apartat": null,
+            "valor": "Motiu: control dels eixos de penetració cap a l'interior (Llobregat i Besòs)."
+          },
+          {
+            "apartat": null,
+            "valor": "Ciutat de nova planta sobre un turó, rectangular amb vèrtexs escapçats; quadrícula d'*insulae* segons *cardo* i *decumanus*, que es creuaven al fòrum (pl. Sant Jaume), amb el temple d'August; quatre portes, dos aqüeductes, termes."
+          },
+          {
+            "apartat": null,
+            "valor": "Govern: dos duumvirs, dos duumvirs quinquennals, edils, *ordo decurionum*."
+          },
+          {
+            "apartat": null,
+            "valor": "Final del s. III / inici del IV dC: ampliació de les muralles per seguretat davant les incursions bàrbares."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes: muralla, temple, termes; necròpolis de la plaça de la Vila de Madrid."
+          }
+        ],
+        "nota": "La resposta model té 241 paraules (el mínim és ~150 paraules / 15 línies). Errors típics: atribuir la fundació a Cèsar (el títol *Iulia* pot confondre: el fundador és August), confondre els laietans amb els ilergets o els indigets, i oblidar la causa de la muralla del Baix Imperi (les invasions del segle III). La pauta oficial és un model orientatiu."
+      }
+    },
+    {
+      "id": "llati-2011-J-s1-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: cum preposició i cum conjunció temporal",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "cum",
+        "preposició d'ablatiu",
+        "conjunció temporal",
+        "oració subordinada adverbial",
+        "tit livi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Els reis acorden que lluitin els Horacis i els Curiacis**\n\nIn duobus exercitibus erant trigemini fratres, Horatii Curiatiique. Cum trigeminis agunt reges, ut pro sua patria quisque dimicet ferro. Foedere icto, trigemini arma capiunt et in medium inter duas acies procedunt. Datur signum et terni iuuenes concurrunt. Cum arma primo concursu increpuerunt, horror spectantes perstringit.\n\nTIT LIVI, *Història de Roma*, 1, 24, 1; 1, 25, 1 i 3-4\n\n**Lèxic** (per ordre alfabètic):\n\n- *ago, egi, actum* (3a): 'parlar'.\n- *concurro, -rri, -rsum* (3a): 'entaular combat'.\n- *concursus, -us* (masculí): 'escomesa'.\n- *ferrum, -i* (neutre): 'espasa'.\n- *foedus, -eris* (neutre): 'pacte'.\n- *ico, ici, ictum* (3a): 'signar'.\n- *perstringo, -nxi, -ctum* (3a): 'sobreprendre'.\n- *pro* (preposició): 'en favor de'.\n- *spectans, -tis* (masculí i femení): 'espectador'.\n- *terni, -ae, -a* (adjectiu plural): 'grups de tres'.",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En dues oracions del text hi ha el mot *cum* amb un valor morfològic diferent: «Cum trigeminis agunt reges» i «Cum arma primo concursu increpuerunt». Digueu quin valor té *cum* en cada cas.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dos casos (0,5 punts cadascun, uns 5 minuts): digues la **categoria** de *cum* en cada frase i justifica-ho amb el que el segueix."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. A *Cum trigeminis agunt reges*, *cum* va seguit d'un nom en **ablatiu** (*trigeminis*) i no introdueix cap verb: és una **preposició** d'ablatiu que forma un CC de companyia («amb els trigèmins»).\n\n2. A *Cum arma primo concursu increpuerunt*, *cum* introdueix un verb conjugat (*increpuerunt*, perfet d'indicatiu) amb el seu subjecte (*arma*): és una **conjunció subordinant** que encapçala una oració **adverbial temporal** («quan»). (*arma* no pot ser el terme de la preposició: és neutre plural, nominatiu o acusatiu, no ablatiu.)"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "En el primer cas, *cum* és una **preposició d'ablatiu**: regeix *trigeminis* i forma un complement circumstancial de companyia («amb els trigèmins»). En el segon, *cum* és una **conjunció subordinant** que introdueix una **oració subordinada adverbial temporal** amb el verb en indicatiu (*increpuerunt*): «quan les armes han retrunyit»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Primer cas: preposició d'ablatiu."
+          },
+          {
+            "apartat": null,
+            "valor": "Segon cas: conjunció que introdueix una oració subordinada adverbial temporal."
+          }
+        ],
+        "nota": "Recorda que *cum* conjunció també pot ser causal, concessiu o «històric» (amb subjuntiu). Amb indicatiu, com aquí, és temporal."
+      }
+    },
+    {
+      "id": "llati-2011-J-s1-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ad kalendas Graecas: sine die, ajornar indefinidament",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "ad kalendas graecas",
+        "sine die"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts, per cada resposta incorrecta es descomptaran 0,16 punts i les preguntes no contestades no puntuen.) Indiqueu l'expressió llatina que equival a cadascuna de les expressions destacades en negreta.\n\n1. Per tal d'evitar que la decisió s'ajorni ***ad kalendas Graecas***, ens haurem d'esforçar a trobar-hi una solució.",
+      "figures": [],
+      "opcions": {
+        "a": "*Sub iudice*.",
+        "b": "*Sine die*.",
+        "c": "*In extremis*.",
+        "d": "*Per se*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre qüestions a 0,5 punts; cada error descompta 0,16 i les no contestades no puntuen. Cal conèixer el significat de les expressions llatines d'ús corrent en català i buscar la que té el mateix sentit que el fragment en negreta (no la que s'hi assembla per la forma)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Ad kalendas Graecas* vol dir «fins a les calendes gregues», és a dir, **mai**: les calendes (primer dia del mes) eren pròpies del calendari romà i els grecs no en tenien. Ajornar una cosa *ad kalendas Graecas* és ajornar-la indefinidament: ***sine die*** («sense dia», sense data fixada). *Sub iudice* = «pendent de resolució judicial»; *in extremis* = «en el darrer moment»; *per se* = «per si mateix»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) *Sine die*."
+          }
+        ],
+        "nota": "Llatinismes de les altres opcions: a) *Sub iudice*; c) *In extremis*; d) *Per se*."
+      }
+    },
+    {
+      "id": "llati-2011-J-s1-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Maremàgnum: totum revolutum, barreja confusa",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "maremàgnum",
+        "totum revolutum"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts, per cada resposta incorrecta es descomptaran 0,16 punts i les preguntes no contestades no puntuen.) Indiqueu l'expressió llatina que equival a cadascuna de les expressions destacades en negreta.\n\n2. La seva explicació va ser poc clara, una mena de **maremàgnum** confús i desordenat.",
+      "figures": [],
+      "opcions": {
+        "a": "*Totum reuolutum*.",
+        "b": "Súmmum.",
+        "c": "Agenda.",
+        "d": "Quid."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre qüestions a 0,5 punts; cada error descompta 0,16 i les no contestades no puntuen. Cal conèixer el significat de les expressions llatines d'ús corrent en català i buscar la que té el mateix sentit que el fragment en negreta (no la que s'hi assembla per la forma)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Maremàgnum* (del llatí *mare magnum*, «mar gran») designa una **barreja confusa i desordenada** de coses. L'equivalent és ***totum reuolutum*** («tot remenat»), un llatinisme macarrònic per a una gran confusió. *Súmmum* = «el grau màxim»; *agenda* = «coses que s'han de fer»; *quid* = «el punt essencial»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) *Totum reuolutum*."
+          }
+        ],
+        "nota": "Llatinismes de les altres opcions: b) Súmmum; c) Agenda; d) Quid."
+      }
+    },
+    {
+      "id": "llati-2011-J-s1-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Postdata: post scriptum",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "post scriptum",
+        "postdata"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts, per cada resposta incorrecta es descomptaran 0,16 punts i les preguntes no contestades no puntuen.) Indiqueu l'expressió llatina que equival a cadascuna de les expressions destacades en negreta.\n\n3. La informació es va afegir com a **postdata**, perquè alguns dels signants ja havien marxat i no es va poder modificar el text de la carta.",
+      "figures": [],
+      "opcions": {
+        "a": "*Verbi gratia*.",
+        "b": "*Bis*.",
+        "c": "*A posteriori*.",
+        "d": "*Post scriptum*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre qüestions a 0,5 punts; cada error descompta 0,16 i les no contestades no puntuen. Cal conèixer el significat de les expressions llatines d'ús corrent en català i buscar la que té el mateix sentit que el fragment en negreta (no la que s'hi assembla per la forma)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Una **postdata** és el que s'afegeix a una carta després de la data i la signatura. En llatí és ***post scriptum*** («escrit després»), abreujat P. S. *Verbi gratia* = «per exemple»; *bis* = «dues vegades»; *a posteriori* = «després d'un fet, basant-se en l'experiència» (no designa un text afegit)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) *Post scriptum*."
+          }
+        ],
+        "nota": "Llatinismes de les altres opcions: a) *Verbi gratia*; b) *Bis*; c) *A posteriori*."
+      }
+    },
+    {
+      "id": "llati-2011-J-s1-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Hic et nunc: ipso facto, immediatament",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "hic et nunc",
+        "ipso facto"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts, per cada resposta incorrecta es descomptaran 0,16 punts i les preguntes no contestades no puntuen.) Indiqueu l'expressió llatina que equival a cadascuna de les expressions destacades en negreta.\n\n4. Si les mesures de xoc no s'apliquen ***hic et nunc***, no tindran cap efecte.",
+      "figures": [],
+      "opcions": {
+        "a": "*De iure*.",
+        "b": "*In crescendo*.",
+        "c": "*Ipso facto*.",
+        "d": "*Stricto sensu*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre qüestions a 0,5 punts; cada error descompta 0,16 i les no contestades no puntuen. Cal conèixer el significat de les expressions llatines d'ús corrent en català i buscar la que té el mateix sentit que el fragment en negreta (no la que s'hi assembla per la forma)."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Hic et nunc* vol dir «aquí i ara», és a dir, **immediatament**. De les opcions, l'única amb aquest sentit és ***ipso facto*** («pel mateix fet», i per extensió «immediatament, a l'acte»). *De iure* = «segons el dret»; *in crescendo* = «augmentant progressivament»; *stricto sensu* = «en sentit estricte»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) *Ipso facto*."
+          }
+        ],
+        "nota": "Llatinismes de les altres opcions: a) *De iure*; b) *In crescendo*; d) *Stricto sensu*."
+      }
+    },
+    {
+      "id": "llati-2011-J-s1-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "serie": "1",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "La guerra entre Roma i Alba Longa: el combat dels Horacis i els Curiacis i la mort d'Horàcia",
+      "tema": "cultura",
+      "temes_secundaris": [
+        "literatura"
+      ],
+      "conceptes": [
+        "tit livi",
+        "horacis i curiacis",
+        "tul·lus hostili",
+        "alba longa",
+        "monarquia romana",
+        "història de roma"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). El text que acabeu de traduir parla d'un episodi de la *Història de Roma* de Tit Livi, a propòsit de la guerra entre les ciutats d'Alba Longa i Roma. Expliqueu, en quinze línies com a mínim (unes cent cinquanta paraules), l'origen d'aquesta guerra; el pacte entre els dos cabdills rivals previ al combat; el desenvolupament i el desenllaç de la lluita, i l'episodi final que protagonitzen Horàcia i el seu germà.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. Quatre blocs obligats: origen de la guerra, pacte, combat (desenvolupament i desenllaç) i episodi d'Horàcia. Fes un paràgraf per a cadascun."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Origen**: rapinyes mútues entre pagesos romans i albans; Tul·lus Hostili, rei guerrer, ho aprofita.\n2. **Pacte**: per no perdre tants homes, que lluitin dos grups de trigèmins (Horacis per Roma, Curiacis per Alba); el poble guanyador comandarà l'altre.\n3. **Combat**: moren dos Horacis; els tres Curiacis, ferits. L'Horaci il·lès fuig per separar-los i els mata un per un; victòria de Roma.\n4. **Horàcia**: promesa d'un Curiaci, plora en veure el seu vestit entre les despulles; el germà la mata per haver plorat un enemic oblidant la victòria i els germans morts."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La guerra entre **Roma** i **Alba Longa**, en temps del rei **Tul·lus Hostili**, va ser gairebé una guerra civil, perquè els romans descendien dels albans. Va començar per una qüestió de **rapinyes mútues** entre pagesos romans i albans, que el rei Tul·lus, de caràcter molt bel·licós, va aprofitar com a excusa per declarar la guerra.\n\nQuan els dos exèrcits eren a punt de lluitar, el cabdill albà, Meci Fufeci, va advertir Tul·lus que una gran batalla afebliria tots dos pobles davant dels etruscs. Van **pactar** que lluitessin només dos grups de **trigèmins**: els **Horacis** per Roma i els **Curiacis** per Alba, amb la condició que el poble vencedor dominaria l'altre.\n\nEn la primera escomesa van morir dos Horacis i els tres Curiacis van quedar ferits. L'Horaci supervivent, il·lès, va fingir que fugia perquè els seus perseguidors se separessin; després es va girar i els va matar un a un. Així Roma va vèncer.\n\nEn tornar a Roma amb les despulles dels vençuts, el va sortir a rebre la seva germana **Horàcia**, promesa d'un dels Curiacis. En reconèixer el mantell que ella mateixa havia teixit, va plorar el seu promès en comptes d'alegrar-se de la victòria. L'Horaci, indignat, la va matar amb l'espasa dient que així moriria qualsevol romana que plorés un enemic. Jutjat per aquest crim, el poble el va absoldre per la intercessió del seu pare."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Guerra gairebé civil entre Alba i Roma, nascuda de rapinyes mútues entre pagesos, aprofitada pel bel·licós Tul·lus Hostili."
+          },
+          {
+            "apartat": null,
+            "valor": "El comandant albà adverteix del perill de tantes morts; pacten que lluitin dos grups de trigèmins (Horacis per Roma, Curiacis per Alba) i que el poble guanyador comandi l'altre."
+          },
+          {
+            "apartat": null,
+            "valor": "Moren dos Horacis i els tres Curiacis queden ferits; l'Horaci il·lès corre per cansar-los i els mata successivament: victòria de Roma."
+          },
+          {
+            "apartat": null,
+            "valor": "Horàcia, promesa d'un Curiaci, plora en veure el vestit que li havia teixit; el germà la mata per haver oblidat els germans morts i la victòria romana."
+          }
+        ],
+        "nota": "La resposta model té 227 paraules (el mínim és ~150 paraules / 15 línies). No cal citar Meci Fufeci ni el judici d'Horaci, però sumen. Errors típics: dir que guanyen els albans, o barrejar l'episodi amb el rapte de les sabines. La pauta oficial és un model orientatiu."
+      }
+    },
+    {
+      "id": "llati-2011-J-s4-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Florus: Tul·lus Hostili, rei guerrer, desafia els albans",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "florus",
+        "tul·lus hostili",
+        "horacis i curiacis",
+        "ablatiu absolut",
+        "oració de relatiu",
+        "passiva",
+        "present històric"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "**Guerra del rei Tul·lus Hostili contra els albans**\n\nExcipit Numam Pompilium Tullus Hostilius, cui in honorem uirtutis regnum ultro datum est. Hic omnem militarem disciplinam artemque belli condidit. Itaque exercita iuuentute in mirum modum, prouocauit Albanos. Vtriusque populi fata permissa sunt Horatiis Curiatiisque, trigeminis fratribus. Anceps, pulchra et mirabilis contentio fuit.\n\nLUCI ANNEU FLORUS, *Epítom de la història de Tit Livi*, 1, 3\n\n**Lèxic** (per ordre alfabètic):\n\n- *condo, -didi, -ditum* (3a): 'crear'.\n- *contentio, -onis* (femení): 'lluita'.\n- *excipio, -cepi, -ceptum* (3a): 'succeir a'.\n- *exerceo, -ui, -itum* (2a): 'entrenar'.\n- *fatum, -i* (neutre): 'destí'.\n- *permitto, -misi, -missum* (3a): 'confiar'.\n- *prouoco* (1a): 'desafiar'.\n- *uterque, utraque, utrumque* (adjectiu indefinit): 'tots dos'.",
+      "enunciat": "Feu la versió catalana del text següent (5 punts). Aquest exercici és comú a les dues opcions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de **Florus** (s. II dC), que resumeix Tit Livi: el pas del rei Numa Pompili a **Tul·lus Hostili**, tercer rei de Roma, i el desafiament als albans que acabarà amb el combat dels Horacis i els Curiacis. Val **5 punts**: uns 40 minuts.\n\nMètode: (1) separa les cinc oracions i localitza els verbs: *excipit* + *datum est*; *condidit*; *prouocauit*; *permissa sunt*; *fuit*; (2) identifica les estructures: una **oració de relatiu** en datiu (*cui*), dues **passives** (*datum est*, *permissa sunt*), un **ablatiu absolut** (*exercita iuuentute*) i una oració copulativa amb tres atributs.\n\nParanys: a la primera frase el **subjecte va darrere** (*Tullus Hostilius*) i *Numam Pompilium* és acusatiu (CD de *excipit*, «succeir a»): és Tul·lus qui succeeix Numa, no a l'inrevés. *Excipit* és present històric (la pauta el tradueix en passat). *fata* és neutre plural (subjecte de *permissa sunt*). *anceps* (no és al lèxic) vol dir «dubtós, indecís»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Excipit Numam Pompilium Tullus Hostilius, cui in honorem uirtutis regnum ultro datum est.*\n\n- ***Excipit***: 3a sg. present (històric) de *excipio*, «succeir a».\n- Subjecte: ***Tullus Hostilius*** (nominatiu). CD: ***Numam Pompilium*** (acusatiu; *Numa, -ae* és masculí de la 1a).\n- ***cui***: pronom relatiu, datiu sg., antecedent *Tullus Hostilius*: introdueix una **oració subordinada adjectiva (de relatiu)**; hi fa de **CI**: «a qui».\n- ***in honorem uirtutis***: *in* + acusatiu (finalitat/causa), amb *uirtutis* (genitiu de *uirtus*) com a CN: «en honor del (seu) valor».\n- ***regnum***: subjecte (nominatiu sg. neutre) de ***datum est***, 3a sg. perfet d'indicatiu passiu de *do*: «fou donat».\n- ***ultro***: adverbi, «espontàniament, per iniciativa pròpia (dels altres)»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Hic omnem militarem disciplinam artemque belli condidit.*\n\n- ***Hic***: demostratiu, nominatiu sg. masculí, subjecte (es refereix a Tul·lus): «aquest».\n- ***condidit***: 3a sg. perfet d'indicatiu de *condo*, «va crear».\n- CD (dos elements coordinats per *-que*): ***omnem militarem disciplinam*** (acusatiu sg. femení: «tota la disciplina / organització militar») i ***artem belli*** (*artem*, acusatiu de *ars, artis*; *belli*, genitiu de *bellum*, CN): «l'art de la guerra»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Itaque exercita iuuentute in mirum modum, prouocauit Albanos.*\n\n- ***Itaque***: conjunció conclusiva, «així doncs».\n- ***exercita iuuentute in mirum modum***: **ablatiu absolut**: *iuuentute* (ablatiu de *iuuentus, -utis*, «la joventut») + participi de perfet passiu *exercita* (de *exerceo*, «entrenar»), en ablatiu femení sg.; *in mirum modum* (in + acusatiu) és un CC de manera, «de manera admirable». Valor temporal: «un cop entrenada la joventut...».\n- ***prouocauit***: 3a sg. perfet de *prouoco*, «va desafiar»; CD ***Albanos*** (acusatiu pl.): «els albans»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: quarta oració",
+            "cos": "*Vtriusque populi fata permissa sunt Horatiis Curiatiisque, trigeminis fratribus.*\n\n- Subjecte: ***fata*** (nominatiu pl. de *fatum*, neutre), amb el CN ***utriusque populi*** (genitiu sg. de *uterque populus*): «els destins de tots dos pobles».\n- ***permissa sunt***: 3a pl. perfet d'indicatiu passiu de *permitto*, «foren confiats» (*permissa* concorda en neutre pl. amb *fata*).\n- CI: ***Horatiis Curiatiisque*** (datiu pl., coordinats per *-que*), amb l'aposició ***trigeminis fratribus*** (datiu pl.): «als Horacis i als Curiacis, germans trigèmins»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: cinquena oració",
+            "cos": "*Anceps, pulchra et mirabilis contentio fuit.*\n\n- Oració copulativa: ***fuit*** (3a sg. perfet de *sum*).\n- Subjecte: ***contentio*** (nominatiu sg. femení): «la lluita».\n- Atributs (nominatiu sg. femení): ***anceps*** («indecisa, dubtosa»), ***pulchra*** («bella, gloriosa») i ***mirabilis*** («admirable»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Succeeix Numa Pompili Tul·lus Hostili, a qui, en honor del seu valor, el regne fou donat espontàniament. Aquest va crear tota la disciplina militar i l'art de la guerra. Així doncs, entrenada la joventut de manera admirable, va desafiar els albans. Els destins de tots dos pobles foren confiats als Horacis i als Curiacis, germans trigèmins. Indecisa, bella i admirable fou la lluita."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A Numa Pompili el va succeir Tul·lus Hostili, a qui van oferir espontàniament el regne en reconeixement del seu valor. Aquest va crear tota l'organització militar i l'art de la guerra. Així, doncs, després d'haver entrenat la joventut d'una manera admirable, va desafiar els albans. Els destins de tots dos pobles van ser confiats als Horacis i als Curiacis, germans trigèmins. La lluita fou incerta, gloriosa i admirable."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió orientativa de la pauta oficial: «A Numa Pompili li va succeir Tul·lus Hostili, a qui li fou ofert espontàniament el regne en consideració al seu valor. Aquest va crear tota l'organització militar i l'art de la guerra. Així doncs, una vegada entrenada la juventud de manera admirable, va desafiar els albans. Els destins d'un i altre poble foren confiats als Horacis i als Curiacis, germans trigèmins. La lluita fou indecisa, gloriosa i admirable.»"
+          }
+        ],
+        "nota": "La pauta diu que la versió correcta «pot adoptar formes distintes». Errors típics: fer de *Numam Pompilium* el subjecte («Numa Pompili va succeir Tul·lus»), no veure que *regnum* és el subjecte de la passiva *datum est*, traduir *fata* com a femení singular i no reconèixer l'ablatiu absolut *exercita iuuentute*. A la pauta oficial hi ha una errata: «juventud» per «joventut»."
+      }
+    },
+    {
+      "id": "llati-2011-J-s4-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: l'ablatiu absolut exercita iuuentute in mirum modum",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi no concertat",
+        "participi de perfet",
+        "complement circumstancial de manera",
+        "florus"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "**Guerra del rei Tul·lus Hostili contra els albans**\n\nExcipit Numam Pompilium Tullus Hostilius, cui in honorem uirtutis regnum ultro datum est. Hic omnem militarem disciplinam artemque belli condidit. Itaque exercita iuuentute in mirum modum, prouocauit Albanos. Vtriusque populi fata permissa sunt Horatiis Curiatiisque, trigeminis fratribus. Anceps, pulchra et mirabilis contentio fuit.\n\nLUCI ANNEU FLORUS, *Epítom de la història de Tit Livi*, 1, 3\n\n**Lèxic** (per ordre alfabètic):\n\n- *condo, -didi, -ditum* (3a): 'crear'.\n- *contentio, -onis* (femení): 'lluita'.\n- *excipio, -cepi, -ceptum* (3a): 'succeir a'.\n- *exerceo, -ui, -itum* (2a): 'entrenar'.\n- *fatum, -i* (neutre): 'destí'.\n- *permitto, -misi, -missum* (3a): 'confiar'.\n- *prouoco* (1a): 'desafiar'.\n- *uterque, utraque, utrumque* (adjectiu indefinit): 'tots dos'.",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En el text hi ha l'estructura sintàctica *exercita iuuentute in mirum modum*. Digueu el nom que rep i els elements que la formen.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "El **nom** de l'estructura i els **elements** que la formen, amb la seva anàlisi (uns 5 minuts). Hi ha tres peces: participi, substantiu i un complement del participi."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *exercita*: **participi de perfet passiu** de *exerceo* («entrenar»), **ablatiu singular femení**.\n2. *iuuentute*: **ablatiu singular** de *iuuentus, -utis* (femení, 3a), concorda amb el participi i n'és el subjecte.\n3. *in mirum modum*: *in* + acusatiu, **complement circumstancial de manera** que modifica el participi («de manera admirable»).\n4. El conjunt no concorda amb cap element de l'oració principal (el subjecte de *prouocauit* és Tul·lus): és un **ablatiu absolut** (participi no concertat), amb valor temporal: «un cop entrenada la joventut...»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Exercita iuuentute in mirum modum* és una construcció de **participi no concertat**, anomenada **ablatiu absolut**. La formen el participi de perfet passiu ***exercita*** (de *exerceo*), en ablatiu singular femení, que concorda amb el substantiu ***iuuentute*** (ablatiu singular de *iuuentus, -utis*), que en fa de subjecte; el participi està modificat pel complement circumstancial de manera ***in mirum modum*** («de manera admirable»). Valor temporal: «un cop entrenada la joventut de manera admirable»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Construcció de participi no concertat o **ablatiu absolut**."
+          },
+          {
+            "apartat": null,
+            "valor": "Participi de passat en ablatiu (*exercita*) que concorda amb un substantiu en ablatiu (*iuuentute*), modificat pel CC *in mirum modum*."
+          }
+        ],
+        "nota": "Error típic: oblidar el paper de *in mirum modum* (complement del participi) o analitzar *exercita* com a nominatiu neutre plural (la forma coincideix, però aquí concorda amb l'ablatiu *iuuentute*)."
+      }
+    },
+    {
+      "id": "llati-2011-J-s4-e3-a",
+      "exercici": 3,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Edificis públics de la ciutat romana: circ, amfiteatre, termes i teatre",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "circ",
+        "amfiteatre",
+        "termes",
+        "teatre",
+        "hipocaust",
+        "urbanisme romà",
+        "espectacles"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts). Identifiqueu l'edifici públic propi d'una ciutat romana a què es refereix cadascun dels fragments següents.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Aquest edifici és la imatge del cel. Les dotze portes d'on surten els cavalls representen els dotze mesos; els quatre cavalls evoquen les estacions; els quatre colors representen els elements; l'auriga subjecta quatre cavalls, tal com fa el Sol. Els carros competeixen per fer la volta a les metes, les quals representen la sortida i la posta de sol; al mig s'alça l'obelisc (*Antologia llatina*).",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "En els jocs oferts pel cèsar, uns quants elefants van fer alguns passos maldestres, com si es tractés d'una dansa. El que habitualment feien era llançar a l'aire armes que ni el vent no podia bellugar o bé simular combats de gladiadors entre ells. També van passar la corda i fins i tot un grup de quatre bèsties en van transportar una altra en una llitera, fent veure que era una prenyada (Plini el Vell).",
+          "punts": 0.5
+        },
+        {
+          "id": "c",
+          "enunciat": "El terra d'aquesta habitació de l'edifici s'ha de construir de la manera següent. De primer s'ha d'enllosar el sòl, mirant que faci pendent cap al forn, per tal que les flames d'aquest puguin recórrer més fàcilment la cambra buida que hi ha sota el terra de l'habitació. Una vegada enllosat, a sobre s'hi han de construir unes columnetes de maons espaiades regularment per tal que sostinguin les rajoles que formaran el veritable nivell de circulació de l'habitació (Vitruvi).",
+          "punts": 0.5
+        },
+        {
+          "id": "d",
+          "enunciat": "Uns tendals de colors, estesos a la part alta de l'edifici, ondulen aguantats per pals i bigues; a sota, voleiant, amb els seus reflexos acoloreixen tot el públic assegut a la càvea, tota la decoració de l'escena i les files dels senadors, de les matrones i de les estàtues dels déus (Lucreci).",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Quatre fragments d'autors antics que descriuen un edifici públic: cal dir quin és i, per assegurar la nota, citar el detall del text que ho demostra. Uns 10 minuts (previsiblement 0,5 punts cadascun)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Cavalls, auriga, carros que fan la volta a les **metes** i l'**obelisc** al mig (sobre l'*spina*): curses de quadrigues → **circ**."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Jocs oferts pel cèsar amb **elefants** i **combats de gladiadors** (*uenationes* i *munera*) → **amfiteatre**."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Un **forn** i una cambra buida sota el terra sostingut per **columnetes de maons**: és l'**hipocaust**, la calefacció per terra de les sales calentes (*caldarium*) → **termes**."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "**Tendals** (el *uelum* o *uelarium*), el públic a la **càvea**, la **decoració de l'escena** i les files dels senadors → **teatre**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "a) **Circ**: hi tenien lloc les curses de carros; l'obelisc s'alçava a l'*spina* i les metes eren els extrems on giraven els carros.\n\nb) **Amfiteatre**: s'hi feien les lluites de gladiadors i els espectacles amb feres (*uenationes*).\n\nc) **Termes**: el text descriu l'hipocaust, el sistema de calefacció per sota del paviment del *caldarium*.\n\nd) **Teatre**: el *uelum* cobria la càvea, i l'escena (*scaenae frons*) estava decorada; s'hi representaven comèdies i tragèdies."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Circ."
+          },
+          {
+            "apartat": "b",
+            "valor": "Amfiteatre."
+          },
+          {
+            "apartat": "c",
+            "valor": "Termes."
+          },
+          {
+            "apartat": "d",
+            "valor": "Teatre."
+          }
+        ],
+        "nota": "La pauta oficial numera les respostes 1-4 (1. Circ – 2. Amfiteatre – 3. Termes – 4. Teatre), mentre que l'examen fa servir les lletres a)-d): l'ordre és el mateix. Error típic: confondre circ i amfiteatre (curses de carros al circ; gladiadors i feres a l'amfiteatre) o amfiteatre i teatre (la càvea i l'escena són del teatre)."
+      }
+    },
+    {
+      "id": "llati-2011-J-s4-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "L'edat d'or de la literatura llatina: Virgili, Horaci, Ovidi i Tit Livi sota August",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "edat d'or",
+        "august",
+        "mecenàs",
+        "virgili",
+        "horaci",
+        "ovidi",
+        "tit livi",
+        "eneida"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        13
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Expliqueu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: L'edat d'or de la literatura llatina: Virgili, Horaci, Ovidi i Tit Livi. Descriviu el context sociopolític en què s'esdevé la seva producció literària; comenteu les dades biogràfiques de cadascun dels autors referides a les seves relacions mútues i a les que mantingueren amb August i amb la família imperial i expliqueu la singularitat d'Ovidi en aquest cas, i indiqueu el nom del conseller de l'emperador que va facilitar la relació literària i personal. Esmenteu el gènere literari principal que va conrear cadascun i exemplifiqueu-lo amb el títol d'alguna de les seves obres.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. Cinc ítems: (1) context sociopolític; (2) relacions dels autors entre ells i amb August; (3) singularitat d'Ovidi; (4) nom del conseller (Mecenàs); (5) gènere i una obra de cada autor. Amb quatre autors, és fàcil oblidar-ne un: fes-te un esquema abans."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Context**: fi de les guerres civils (Àccium, 31 aC), pau augusta, regeneració moral, propaganda del règim.\n2. **Mecenàs**: conseller d'August i protector d'un cercle literari.\n3. **Virgili** (èpica, *Eneida*) i **Horaci** (lírica, *Odes*): amics, tots dos del cercle de Mecenàs, malgrat el passat (terres confiscades / lluita a Filips).\n4. **Tit Livi** (historiografia, *Ab urbe condita*): preceptor de Claudi, idealitza el passat.\n5. **Ovidi** (elegia, *Art d'estimar*, *Tristes*): fora de l'ideari augustal, desterrat al mar Negre per un *carmen et error*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Després de la victòria d'Octavi sobre Antoni a Àccium (31 aC), Roma va entrar en un període de **pau** (*pax Augusta*). **August** va impulsar una **restauració moral i religiosa** basada en les antigues virtuts romanes i va voler que els escriptors exaltessin el seu govern i l'origen diví de la seva família. Per aconseguir-ho va comptar amb el seu conseller **Mecenàs**, que va reunir al seu voltant un cercle literari.\n\n**Virgili**, que havia perdut part de les terres en les confiscacions d'Octavi, i el seu amic **Horaci**, que havia lluitat amb Brutus contra Octavi a Filips, van entrar al cercle de Mecenàs (Virgili hi va introduir Horaci) i es van convertir en els grans poetes del règim: Virgili, amb l'**èpica** de l'***Eneida*** (a més de les *Bucòliques* i les *Geòrgiques*); Horaci, amb la **lírica** de les ***Odes*** i el *Cant secular*.\n\n**Tit Livi**, historiador, va escriure la ***Història de Roma*** (*Ab urbe condita*), una idealització del passat republicà amb exemples morals, i va ser preceptor del futur emperador Claudi.\n\n**Ovidi** és l'excepció: poeta **elegíac** (*Amors*, *Art d'estimar*) i autor de les *Metamorfosis*, no va combregar amb l'ideari moral d'August i va ser **desterrat** a Tomis, al mar Negre (8 dC), per un *carmen et error*. Des de l'exili va escriure les *Tristes* i les *Pòntiques*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Context: després de vèncer Antoni, August instaura la pau i una regeneració moral basada en les antigues virtuts; vol escriptors que n'exaltin l'obra."
+          },
+          {
+            "apartat": null,
+            "valor": "Mecenàs, aristòcrata i conseller cultural, amb un cercle literari del qual formen part Virgili i Horaci, amics entre ells."
+          },
+          {
+            "apartat": null,
+            "valor": "Ovidi (poeta elegíac: *Tristes*, *Pòntiques*, *Art d'estimar*) no combrega amb l'ideari moral i és desterrat al mar Negre per un *carmen et error*."
+          },
+          {
+            "apartat": null,
+            "valor": "Tit Livi, preceptor del futur emperador Claudi; la *Història de Roma* idealitza el passat republicà amb exemples morals."
+          },
+          {
+            "apartat": null,
+            "valor": "Virgili (malgrat la pèrdua de terres) i Horaci (malgrat haver lluitat contra Octavi) esdevenen propagandistes: *Eneida* (èpica) i *Odes* IV i *Carmen saeculare* (lírica)."
+          }
+        ],
+        "nota": "La resposta model té 217 paraules (el mínim és ~150 paraules / 15 línies). Errors típics: situar Ovidi al cercle de Mecenàs (era del de Messal·la i va ser desterrat), oblidar el nom de Mecenàs, o no donar el gènere i una obra de cada autor. La pauta parla de «llibre quart de les *Odes*» per a la propaganda d'Horaci."
+      }
+    },
+    {
+      "id": "llati-2011-J-s4-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: l'oració de relatiu introduïda per cui i la funció de regnum",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "oració de relatiu",
+        "pronom relatiu",
+        "datiu",
+        "subjecte",
+        "veu passiva",
+        "florus"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        14
+      ],
+      "text": "**Guerra del rei Tul·lus Hostili contra els albans**\n\nExcipit Numam Pompilium Tullus Hostilius, cui in honorem uirtutis regnum ultro datum est. Hic omnem militarem disciplinam artemque belli condidit. Itaque exercita iuuentute in mirum modum, prouocauit Albanos. Vtriusque populi fata permissa sunt Horatiis Curiatiisque, trigeminis fratribus. Anceps, pulchra et mirabilis contentio fuit.\n\nLUCI ANNEU FLORUS, *Epítom de la història de Tit Livi*, 1, 3\n\n**Lèxic** (per ordre alfabètic):\n\n- *condo, -didi, -ditum* (3a): 'crear'.\n- *contentio, -onis* (femení): 'lluita'.\n- *excipio, -cepi, -ceptum* (3a): 'succeir a'.\n- *exerceo, -ui, -itum* (2a): 'entrenar'.\n- *fatum, -i* (neutre): 'destí'.\n- *permitto, -misi, -missum* (3a): 'confiar'.\n- *prouoco* (1a): 'desafiar'.\n- *uterque, utraque, utrumque* (adjectiu indefinit): 'tots dos'.",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «Excipit Numam Pompilium Tullus Hostilius, cui in honorem uirtutis regnum ultro datum est», digueu el tipus d'oració que introdueix *cui* i la funció sintàctica de *regnum*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues dades (0,5 punts cadascuna, uns 5 minuts): el tipus d'oració que encapçala *cui* i la funció de *regnum*. Justifica-les breument."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. ***cui*** és el datiu singular del **pronom relatiu** *qui, quae, quod*; té per antecedent *Tullus Hostilius*. Per tant introdueix una **oració subordinada adjectiva o de relatiu** (dins d'ella, *cui* fa de CI: «a qui»).\n\n2. El verb de la relativa és ***datum est***, perfet **passiu** de *do* (neutre singular). ***regnum*** és nominatiu singular neutre (concorda amb *datum*): és el **subjecte** pacient de la passiva («el regne li fou donat»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Cui* introdueix una **oració subordinada adjectiva o de relatiu**, que té per antecedent *Tullus Hostilius* (dins la relativa, *cui*, en datiu, fa de complement indirecte). ***Regnum*** (nominatiu singular neutre) és el **subjecte** del verb en passiva *datum est*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Cui* introdueix una oració subordinada adjectiva o de relatiu."
+          },
+          {
+            "apartat": null,
+            "valor": "*Regnum* és el subjecte de *datum est*."
+          }
+        ],
+        "nota": "Error típic: fer de *regnum* el CD (com que la forma neutra és ambigua, cal veure que el verb és passiu i que *datum* hi concorda) o confondre *cui* (datiu del relatiu) amb la conjunció *cum*."
+      }
+    },
+    {
+      "id": "llati-2011-J-s4-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Facta non uerba: fets i no paraules",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "locucions llatines",
+        "facta non uerba"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        14
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts, per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Cada expressió llatina de la columna de l'esquerra es pot considerar el resum d'UNA de les afirmacions de la columna de la dreta. Establiu les correspondències correctes entre els números i les lletres (per exemple: 1c, 2a, etcètera).\n\n1. *Facta non uerba*",
+      "figures": [],
+      "opcions": {
+        "a": "Es pot dubtar de tot, però el sol fet de dubtar ja implica que hom existeix.",
+        "b": "Equivocar-se no és greu; sí que ho és no esmenar l'equivocació.",
+        "c": "Per a evitar la temptació és millor mantenir-se'n allunyat.",
+        "d": "La notícia es va escampar ràpidament arreu.",
+        "e": "La millor manera de mantenir la pau és preparar-se per a la guerra.",
+        "f": "Si algú té pressa per a aconseguir un objectiu, de primer li cal reflexionar tranquil·lament sobre la manera de fer-ho.",
+        "g": "El que importa és actuar, no parlar."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "g",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre expressions per relacionar amb set afirmacions (en sobren tres). Cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no puntuen. Tradueix literalment l'expressió llatina i busca l'afirmació que en desenvolupa la idea."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Facta non uerba* = «fets, no paraules» (*factum*, «fet»; *uerbum*, «paraula»). Resumeix la idea que **el que importa és actuar, no parlar** (g)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "1g: El que importa és actuar, no parlar."
+          }
+        ],
+        "nota": "Correspondències oficials: 1g – 2f – 3a – 4c. Les afirmacions sobrants resumeixen altres expressions: b) *errare humanum est, perseverare diabolicum*; d) *fama uolat*; e) *si uis pacem, para bellum*."
+      }
+    },
+    {
+      "id": "llati-2011-J-s4-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Festina lente: afanya't a poc a poc",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "locucions llatines",
+        "festina lente",
+        "august"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        14
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts, per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Cada expressió llatina de la columna de l'esquerra es pot considerar el resum d'UNA de les afirmacions de la columna de la dreta. Establiu les correspondències correctes entre els números i les lletres (per exemple: 1c, 2a, etcètera).\n\n2. *Festina lente*",
+      "figures": [],
+      "opcions": {
+        "a": "Es pot dubtar de tot, però el sol fet de dubtar ja implica que hom existeix.",
+        "b": "Equivocar-se no és greu; sí que ho és no esmenar l'equivocació.",
+        "c": "Per a evitar la temptació és millor mantenir-se'n allunyat.",
+        "d": "La notícia es va escampar ràpidament arreu.",
+        "e": "La millor manera de mantenir la pau és preparar-se per a la guerra.",
+        "f": "Si algú té pressa per a aconseguir un objectiu, de primer li cal reflexionar tranquil·lament sobre la manera de fer-ho.",
+        "g": "El que importa és actuar, no parlar."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "f",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre expressions per relacionar amb set afirmacions (en sobren tres). Cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no puntuen. Tradueix literalment l'expressió llatina i busca l'afirmació que en desenvolupa la idea."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Festina lente* = «afanya't lentament» (imperatiu de *festino*, «afanyar-se» + adverbi *lente*), lema atribuït a August. És una paradoxa: si tens pressa per arribar a un objectiu, primer cal reflexionar amb calma sobre com fer-ho (f)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "2f: Si algú té pressa per a aconseguir un objectiu, de primer li cal reflexionar tranquil·lament sobre la manera de fer-ho."
+          }
+        ],
+        "nota": "Correspondències oficials: 1g – 2f – 3a – 4c. Les afirmacions sobrants resumeixen altres expressions: b) *errare humanum est, perseverare diabolicum*; d) *fama uolat*; e) *si uis pacem, para bellum*."
+      }
+    },
+    {
+      "id": "llati-2011-J-s4-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Cogito ergo sum: penso, per tant existeixo",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "locucions llatines",
+        "cogito ergo sum",
+        "descartes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        14
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts, per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Cada expressió llatina de la columna de l'esquerra es pot considerar el resum d'UNA de les afirmacions de la columna de la dreta. Establiu les correspondències correctes entre els números i les lletres (per exemple: 1c, 2a, etcètera).\n\n3. *Cogito ergo sum*",
+      "figures": [],
+      "opcions": {
+        "a": "Es pot dubtar de tot, però el sol fet de dubtar ja implica que hom existeix.",
+        "b": "Equivocar-se no és greu; sí que ho és no esmenar l'equivocació.",
+        "c": "Per a evitar la temptació és millor mantenir-se'n allunyat.",
+        "d": "La notícia es va escampar ràpidament arreu.",
+        "e": "La millor manera de mantenir la pau és preparar-se per a la guerra.",
+        "f": "Si algú té pressa per a aconseguir un objectiu, de primer li cal reflexionar tranquil·lament sobre la manera de fer-ho.",
+        "g": "El que importa és actuar, no parlar."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre expressions per relacionar amb set afirmacions (en sobren tres). Cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no puntuen. Tradueix literalment l'expressió llatina i busca l'afirmació que en desenvolupa la idea."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Cogito ergo sum* = «penso, per tant soc», la cèlebre formulació de **Descartes**: es pot dubtar de tot, però el fet mateix de dubtar (de pensar) demostra que qui dubta existeix (a)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "3a: Es pot dubtar de tot, però el sol fet de dubtar ja implica que hom existeix."
+          }
+        ],
+        "nota": "Correspondències oficials: 1g – 2f – 3a – 4c. Les afirmacions sobrants resumeixen altres expressions: b) *errare humanum est, perseverare diabolicum*; d) *fama uolat*; e) *si uis pacem, para bellum*."
+      }
+    },
+    {
+      "id": "llati-2011-J-s4-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Vade retro: allunya't de la temptació",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "locucions llatines",
+        "vade retro"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        14
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts, per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Cada expressió llatina de la columna de l'esquerra es pot considerar el resum d'UNA de les afirmacions de la columna de la dreta. Establiu les correspondències correctes entre els números i les lletres (per exemple: 1c, 2a, etcètera).\n\n4. *Vade retro*",
+      "figures": [],
+      "opcions": {
+        "a": "Es pot dubtar de tot, però el sol fet de dubtar ja implica que hom existeix.",
+        "b": "Equivocar-se no és greu; sí que ho és no esmenar l'equivocació.",
+        "c": "Per a evitar la temptació és millor mantenir-se'n allunyat.",
+        "d": "La notícia es va escampar ràpidament arreu.",
+        "e": "La millor manera de mantenir la pau és preparar-se per a la guerra.",
+        "f": "Si algú té pressa per a aconseguir un objectiu, de primer li cal reflexionar tranquil·lament sobre la manera de fer-ho.",
+        "g": "El que importa és actuar, no parlar."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre expressions per relacionar amb set afirmacions (en sobren tres). Cada encert val 0,5 punts, cada error descompta 0,16 i les no contestades no puntuen. Tradueix literalment l'expressió llatina i busca l'afirmació que en desenvolupa la idea."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Vade retro* = «vés enrere», de l'expressió evangèlica *Vade retro, Satana*, que Jesús adreça al temptador. S'usa per rebutjar una temptació i mantenir-se'n allunyat (c)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "4c: Per a evitar la temptació és millor mantenir-se'n allunyat."
+          }
+        ],
+        "nota": "Correspondències oficials: 1g – 2f – 3a – 4c. Les afirmacions sobrants resumeixen altres expressions: b) *errare humanum est, perseverare diabolicum*; d) *fama uolat*; e) *si uis pacem, para bellum*."
+      }
+    },
+    {
+      "id": "llati-2011-J-s4-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Empúries: nuclis grec, indígena i romà; Escipió, Cató i Cèsar; estructura de la ciutat romana",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "empúries",
+        "colonització grega",
+        "gneu corneli escipió",
+        "cató",
+        "juli cèsar",
+        "segona guerra púnica",
+        "urbanisme romà"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        15
+      ],
+      "text": "Aleshores ja eren dues ciutats, separades per una muralla. L'una l'ocupaven els grecs, oriünds de Focea […]; l'altra, els hispans […]. Un tercer poble va ser el dels colons romans, que hi foren establerts pel diví Cèsar, després de la desfeta dels fills de Pompeu. Actualment tots tres pobles resten units en un de sol, després d'haver estat acceptats com a ciutadans romans, de primer els hispans i després els grecs.\n\nTit Livi, *Història de Roma*, 34",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Tit Livi, en el llibre 34 de la *Història de Roma*, en referir-se a una ciutat romana de Catalunya, escriu el text citat. Expliqueu, en quinze línies com a mínim (unes cent cinquanta paraules), de quina ciutat es tracta. Indiqueu la situació dels diferents nuclis urbans preromans i la influència dels diversos accidents geogràfics (riu, port, turó, etc.) en la seva configuració. Digueu quina relació hi van tenir Gneu Corneli Escipió, Marc Porci Cató i Gai Juli Cèsar i per quins motius. Descriviu l'estructura de la ciutat romana: cronologia, situació en el terreny, superfície, traçat i tipologia i ubicació dels espais i dels edificis públics conservats.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. Primer cal **identificar la ciutat**: les pistes són els grecs de Focea, els hispans (indígenes) i els colons de Cèsar → **Empúries**. Després, quatre blocs: nuclis preromans i geografia; Escipió, Cató i Cèsar; estructura de la ciutat romana; restes conservades."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Identificació**: Empúries (*Emporion*, «mercat»).\n2. **Nuclis preromans**: Paleàpolis (illot), Neàpolis (terra ferma), nucli indiget; riu Fluvià, port arrecerat, illot → comerç.\n3. **Escipió** (218 aC, desembarcament a la 2a guerra púnica, base militar al turó); **Cató** (195 aC, sufoca la revolta indígena); **Cèsar** (45 aC, assenta veterans després de la victòria sobre els pompeians).\n4. **Ciutat romana**: inici del s. I aC, al turó, 22 ha, rectangular, emmurallada, traçat hipodàmic (*cardo*/*decumanus*), fòrum amb Capitoli, termes; unió amb el nucli grec.\n5. **Restes**: amfiteatre i palestra fora muralles, *domus*."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Es tracta d'**Empúries** (*Emporion*, en llatí *Emporiae*), al golf de Roses. Cap al 600-575 aC, mercaders **grecs de Focea** (via Massàlia) es van establir en un illot davant la costa, a prop de la desembocadura del **Fluvià**: la **Paleàpolis** (avui Sant Martí d'Empúries). A mitjan segle VI aC van passar a terra ferma i hi van fundar la **Neàpolis**, al costat d'un nucli indígena dels **indigets**. L'illot, el **port** arrecerat i el riu oferien condicions immillorables per al comerç.\n\nPer aquesta situació estratègica, **Gneu Corneli Escipió** hi va desembarcar el 218 aC, al començament de la **segona guerra púnica**, i els romans hi van establir un campament al **turó** que dominava la ciutat grega. **Marc Porci Cató** hi va tornar el 195 aC per sufocar la revolta dels pobles indígenes. Cap al 100 aC el campament es va convertir en una ciutat romana, i **Juli Cèsar** hi va establir veterans després de vèncer els fills de Pompeu (Munda, 45 aC). Amb August, els tres nuclis es van unir en un sol municipi.\n\nLa ciutat romana, al turó, ocupava unes **22 hectàrees**, era rectangular, emmurallada i amb traçat ortogonal a partir del *cardo* i el *decumanus*. Al seu encreuament hi havia el **fòrum**, amb el **Capitoli** i pòrtics; a prop, termes. Fora muralles es conserven l'**amfiteatre** i la **palestra**, i dins, grans *domus* amb mosaics."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Municipi d'Empúries: mercat grec a l'illot (Paleàpolis) a la desembocadura del Fluvià; a mitjan s. VI aC, Neàpolis a terra ferma; nucli indígena dels indigets; illot i port arrecerat, ideals per al comerç."
+          },
+          {
+            "apartat": null,
+            "valor": "Gneu Corneli Escipió hi desembarca el 218 aC (2a guerra púnica) i hi fa una base militar al turó; Marc Porci Cató la fa servir el 195 aC per acabar amb la resistència indígena."
+          },
+          {
+            "apartat": null,
+            "valor": "A inici del s. I aC la base esdevé un tercer nucli urbà; Cèsar hi assenta legionaris llicenciats després de la victòria sobre els pompeians (45 aC)."
+          },
+          {
+            "apartat": null,
+            "valor": "Ciutat romana al turó: planta rectangular, traçat hipodàmic regular, 22 ha, muralles; *cardo* i *decumanus*, fòrum amb pòrtic i Capitoli, termes; muralla oriental desmuntada a mitjan s. I aC per unir-se al nucli grec."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes d'un amfiteatre i d'una palestra fora muralles, i dues cases de personatges benestants."
+          }
+        ],
+        "nota": "La resposta model té 226 paraules (el mínim és ~150 paraules / 15 línies). Les dates de la fundació grega (c. 600-575 aC) i l'esment de Munda i del municipi augustal són dades afegides a la pauta, que no les exigeix. Error típic: confondre Empúries amb Tàrraco (fundada pels Escipions, però no té nucli grec) o atribuir la ciutat romana a Cató."
+      }
+    }
+  ]
+}

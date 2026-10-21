@@ -1,0 +1,730 @@
+{
+  "examen": {
+    "id": "llati-2011-S",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2011,
+    "convocatoria": "setembre",
+    "serie": "2",
+    "pdf_examen": "pdfs/llati/2011-S-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2011-S-solucio.pdf",
+    "estructura": "Sèrie 2, convocatòria de setembre. Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un text de Florus (*Epítom de la història de Tit Livi*) sobre els fets del regnat de Numa (5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B). Opció A: 2. morfosintaxi: funcions de *Numa* i *quem* (1 punt); 3. quatre preguntes d'opció múltiple sobre llatinismes i abreviatures (am, verbigràcia, RIP, *sancta sanctorum*; 2 punts, 0,50 per encert, −0,16 per error, les no contestades no puntuen); 4. exposició sobre l'episodi de Lucrècia (Tit Livi, llibre I) a partir d'una pintura de Cranach i un text de Shakespeare (2 punts, mínim 15 línies, ~150 paraules). Opció B: 2. morfosintaxi: tipus d'oració introduïda per *quem* i antecedent (1 punt); 3. vuit afirmacions per atribuir a Plaute, a Terenci o a tots dos (2 punts, sense penalització); 4. comentari sobre les ciutats romanes de Catalunya: Emporion, Barcino, Tarraco i Ilerda (2 punts, mínim 15 línies, ~150 paraules)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2011-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Florus: els fets del regnat de Numa Pompili",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia",
+        "cultura"
+      ],
+      "conceptes": [
+        "florus",
+        "numa pompili",
+        "monarquia romana",
+        "oració de relatiu",
+        "oració final",
+        "present històric",
+        "religió romana"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Fets del regnat de Numa**\n\nSuccedit Romulo Numa, quem Romani petiuerunt ob inclitam eius religionem. Ille sacra et caerimonias omnemque cultum deorum docuit; ille pontifices, augures ceteraque sacerdotia creauit annumque in duodecim menses discripsit. Denique ferocem populum redegit ut imperium religione atque iustitia gubernaret.\n\nLuci Anneu Florus, *Epítom de la història de Tit Livi*, 1, 2\n\n**Lèxic** (per ordre alfabètic):\n\n- *cultus, -us* (masculí): 'culte'.\n- *discribo, -psi, -ptum* (3a): 'distribuir'.\n- *ob* (preposició): 'a causa de'.\n- *peto, -iui, -itum* (3a): 'anar a buscar'.\n- *redigo, -egi, -actum* (3a): 'encaminar'.\n- *religio, -onis* (femení): 'rectitud'.\n- *sacerdotium, -ii* (neutre): 'sacerdoci'.\n- *sacra, -orum* (neutre plural): 'sacrificis'.\n- *succedo, -cessi, -cessum* (3a): 'succeir'.",
+      "enunciat": "Feu la versió catalana del text següent (5 punts). Aquest exercici és comú a les dues opcions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text de **Florus** (s. II dC), que resumeix la història de Roma a partir de Tit Livi. Explica què va fer **Numa Pompili**, el segon rei de Roma, successor de Ròmul: va organitzar la religió romana (sacrificis, cerimònies, col·legis sacerdotals) i el calendari. El text és curt i la sintaxi és senzilla. Val **5 punts**, la meitat de l'examen: dedica-hi uns 40 minuts.\n\nMètode: (1) el títol t'avança el contingut; (2) localitza els **verbs conjugats**: *succedit*, *petiuerunt*, *docuit*, *creauit*, *discripsit*, *redegit*, *gubernaret*; (3) busca els subjectes i els complements de cadascun; (4) fes una traducció literal i després poleix-la.\n\nParanys: *succedit* és **present** (el perfet seria *successit*): és un **present històric**, que pots traduir en present o en passat; *Romulo* és **datiu** (el regeix *succedo*, verb compost), no ablatiu; el subjecte de la primera oració és ***Numa*** (nominatiu de la 1a declinació, masculí), que va **darrere** del verb; *quem* és un relatiu en acusatiu; *eius* és el genitiu de *is, ea, id* i equival al possessiu «la seva»; *religio* té aquí el sentit que dona el lèxic, 'rectitud' (no «religió»); *ut* + subjuntiu introdueix una oració **final**."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Succedit Romulo Numa, quem Romani petiuerunt ob inclitam eius religionem.*\n\nOració principal amb una subordinada de relatiu.\n\n- Verb principal: ***succedit***: 3a sg. del present d'indicatiu actiu de *succedo, -cessi, -cessum* (3a): «succeeix» (present històric).\n- Subjecte: ***Numa*** (nominatiu sg., 1a declinació, masculí).\n- ***Romulo***: datiu sg. de *Romulus, -i*, complement del verb compost *succedo* (CI / complement de règim): «a Ròmul».\n- ***quem***: pronom relatiu, acusatiu masculí sg.; antecedent *Numa*; fa de **CD** de *petiuerunt*. Introdueix una **oració subordinada adjectiva o de relatiu**.\n- Subjecte de la relativa: ***Romani*** (nominatiu pl.): «els romans».\n- Verb: ***petiuerunt***: 3a pl. del perfet d'indicatiu actiu de *peto, -iui, -itum*: «van anar a buscar».\n- ***ob inclitam eius religionem***: *ob* + acusatiu, **CC de causa**. *religionem* (acusatiu de *religio, -onis*) amb l'adjectiu concordat *inclitam* («famosa, cèlebre») i el genitiu *eius* (CN, «d'ell» = «la seva»): «a causa de la seva famosa rectitud»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Ille sacra et caerimonias omnemque cultum deorum docuit; ille pontifices, augures ceteraque sacerdotia creauit annumque in duodecim menses discripsit.*\n\nTres oracions: la primera, separada per punt i coma; la segona i la tercera, coordinades per l'enclític ***-que***. El subjecte de totes és ***ille*** (demostratiu, nominatiu masc. sg.: «ell», és a dir, Numa), repetit en anàfora per remarcar l'obra del rei.\n\n- ***docuit***: 3a sg. del perfet d'indicatiu de *doceo, -ui, -ctum* (2a): «va ensenyar».\n- CD de *docuit* (tres elements coordinats per *et* i *-que*): ***sacra*** (acusatiu neutre pl. de *sacra, -orum*: «els sacrificis»), ***caerimonias*** (acusatiu fem. pl.: «les cerimònies») i ***omnem cultum*** (acusatiu masc. sg. de *cultus, -us*, 4a declinació, amb l'adjectiu *omnem*: «tot el culte»). ***deorum***: genitiu pl. de *deus*, CN de *cultum*: «dels déus / als déus». *Doceo* admet doble acusatiu (el de persona s'hi sobreentén: «els va ensenyar [als romans]»).\n- ***creauit***: 3a sg. del perfet d'indicatiu de *creo* (1a): «va crear».\n- CD de *creauit*: ***pontifices*** i ***augures*** (acusatius pl. de la 3a declinació: «els pontífexs, els àugurs») i ***cetera sacerdotia*** (acusatiu neutre pl. + adjectiu *ceterus*: «la resta de sacerdocis»).\n- ***annum***: acusatiu sg. de *annus*, CD de *discripsit*.\n- ***in duodecim menses***: *in* + acusatiu (*menses*, de *mensis, -is*, amb el numeral indeclinable *duodecim*): CC de resultat o finalitat: «en dotze mesos».\n- ***discripsit***: 3a sg. del perfet d'indicatiu de *discribo, -psi, -ptum*: «va distribuir»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Denique ferocem populum redegit ut imperium religione atque iustitia gubernaret.*\n\nOració principal + subordinada adverbial final.\n\n- ***Denique***: adverbi, «finalment».\n- Verb principal: ***redegit***: 3a sg. del perfet d'indicatiu de *redigo, -egi, -actum*: «va encaminar». Subjecte el·líptic: Numa.\n- ***ferocem populum***: CD, acusatiu masc. sg. (*populus, -i* + l'adjectiu de la 3a declinació *ferox, -ocis*): «el poble ferotge, violent».\n- ***ut ... gubernaret***: *ut* + **imperfet de subjuntiu** (3a sg. de *guberno*, 1a), oració subordinada adverbial **final** (concordança de temps amb el perfet *redegit*): «perquè governés, per tal que governés». El subjecte sobreentès és el poble (*populus*).\n- ***imperium***: acusatiu neutre sg., CD de *gubernaret*: «l'imperi, el poder».\n- ***religione atque iustitia***: ablatius sg. coordinats per *atque*, **CC de manera / instrument**: «amb rectitud i justícia»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "«Succeeix a Ròmul Numa, al qual els romans van anar a buscar a causa de la famosa rectitud d'ell. Ell va ensenyar els sacrificis i les cerimònies i tot el culte dels déus; ell va crear els pontífexs, els àugurs i els altres sacerdocis i va distribuir l'any en dotze mesos. Finalment va encaminar el poble ferotge perquè governés l'imperi amb rectitud i justícia.»"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "«A Ròmul el va succeir Numa, a qui els romans van anar a buscar per la seva famosa rectitud. Ell els va ensenyar els sacrificis, les cerimònies i tot el culte als déus; ell va crear els pontífexs, els àugurs i la resta de sacerdocis, i va distribuir l'any en dotze mesos. Finalment, va encaminar aquell poble ferotge perquè governés l'imperi amb rectitud i justícia.»\n\nContext: **Numa Pompili**, sabí de Cures, segon dels set reis de Roma (segons la tradició, 715-673 aC), és el rei pacífic i religiós per excel·lència, en contrast amb el guerrer Ròmul. La tradició li atribueix la creació dels col·legis de **pontífexs** (encapçalats pel *pontifex maximus*) i d'**àugurs**, els flamines i les vestals, i la reforma del calendari: l'any de Ròmul, de deu mesos, va passar a tenir-ne **dotze** (s'hi van afegir gener i febrer)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «A Ròmul el succeeix Numa, que els romans van anar a buscar a causa de la fama de la seva rectitud. Ell va ensenyar-los els sacrificis i les cerimònies i tot el culte als déus; ell va crear els pontífexs, els àugurs i la resta de sacerdocis i va distribuir l'any en dotze mesos. Finalment va encaminar el poble violent per tal que governés l'imperi amb rectitud i justícia.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: *Numa* subjecte de *succedit* (present històric) i *Romulo* datiu; *quem* relatiu CD de *petiuerunt*, antecedent *Numa*; *ob* + acusatiu, causa; *ille* subjecte de *docuit*, *creauit* i *discripsit*; triple CD de *docuit*; *ut* + imperfet de subjuntiu, oració final; *religione atque iustitia* ablatius de manera."
+          }
+        ],
+        "nota": "Errors típics: prendre *Romulo* com a subjecte («Ròmul succeeix Numa», a l'inrevés de la història) o traduir-lo com a ablatiu; traduir *religio* com a «religió» quan el lèxic diu 'rectitud'; no veure que *eius* és un possessiu («la seva»); fer *menses* nominatiu; oblidar l'enclític *-que* de *omnemque* i *annumque*; traduir *ut* com a comparatiu («com») en lloc de final. La pauta oficial tradueix *inclitam* amb un substantiu («la fama de la seva rectitud»): també és correcte l'adjectiu («la seva famosa rectitud»). Tant el present («succeeix») com el passat («va succeir») són acceptables per a *succedit*."
+      }
+    },
+    {
+      "id": "llati-2011-S-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: funcions sintàctiques de Numa i de quem",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "funcions sintàctiques",
+        "subjecte",
+        "complement directe",
+        "pronom relatiu",
+        "numa pompili"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Fets del regnat de Numa**\n\nSuccedit Romulo Numa, quem Romani petiuerunt ob inclitam eius religionem. Ille sacra et caerimonias omnemque cultum deorum docuit; ille pontifices, augures ceteraque sacerdotia creauit annumque in duodecim menses discripsit. Denique ferocem populum redegit ut imperium religione atque iustitia gubernaret.\n\nLuci Anneu Florus, *Epítom de la història de Tit Livi*, 1, 2",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). Identifiqueu les funcions sintàctiques de *Numa* i de *quem* en la frase «Succedit Romulo Numa, quem Romani petiuerunt ob inclitam eius religionem».",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Es demanen **dues funcions sintàctiques** (0,5 punts cadascuna, aproximadament). N'hi ha prou amb una resposta breu, però justifica-la amb el cas i el verb del qual depèn cada mot: «subjecte» sol, sense dir de quin verb, és una resposta incompleta. Uns 5 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Numa**: és un nom de la 1a declinació, masculí; aquí està en **nominatiu** singular. El verb *succedit* (3a persona del singular) necessita un subjecte en nominatiu singular: *Romani* és plural i forma part de la relativa, i *Romulo* és datiu. Per tant, *Numa* és el **subjecte de *succedit***.\n\n2. **quem**: és el pronom relatiu *qui, quae, quod* en **acusatiu masculí singular** (concorda en gènere i nombre amb l'antecedent *Numa*, però el cas depèn de la seva funció dins la relativa). Dins de la relativa, el subjecte de *petiuerunt* és *Romani*; l'acusatiu *quem* n'és el **complement directe**: «els romans van anar a buscar *(a qui?)* Numa»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Numa* és el **subjecte** del verb *succedit* (nominatiu singular): «A Ròmul el succeeix Numa». *Quem* és un pronom relatiu en acusatiu masculí singular, l'antecedent del qual és *Numa*, i fa de **complement directe** del verb *petiuerunt* dins l'oració de relatiu, el subjecte de la qual és *Romani*: «a qui els romans van anar a buscar»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Numa* és el subjecte de *succedit*."
+          },
+          {
+            "apartat": null,
+            "valor": "*Quem* és el complement directe de *petiuerunt*."
+          }
+        ],
+        "nota": "Errors típics: dir que *Numa* és CD perquè va darrere del verb (en llatí l'ordre no marca la funció: ho fa el cas); confondre la funció de *quem* amb la del seu antecedent (el relatiu pren el cas de la seva funció dins la relativa, no el de l'antecedent); dir que *quem* és subjecte de *petiuerunt* (el subjecte és *Romani*)."
+      }
+    },
+    {
+      "id": "llati-2011-S-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: l'oració de relatiu introduïda per quem i el seu antecedent",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "oració de relatiu",
+        "pronom relatiu",
+        "antecedent",
+        "subordinada adjectiva"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Fets del regnat de Numa**\n\nSuccedit Romulo Numa, quem Romani petiuerunt ob inclitam eius religionem. Ille sacra et caerimonias omnemque cultum deorum docuit; ille pontifices, augures ceteraque sacerdotia creauit annumque in duodecim menses discripsit. Denique ferocem populum redegit ut imperium religione atque iustitia gubernaret.\n\nLuci Anneu Florus, *Epítom de la història de Tit Livi*, 1, 2",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). Digueu el tipus d'oració introduïda pel pronom *quem* i identifiqueu-ne l'antecedent en la frase «Succedit Romulo Numa, quem Romani petiuerunt ob inclitam eius religionem».",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues preguntes curtes: **quin tipus d'oració** introdueix *quem* i **quin n'és l'antecedent**. Respon les dues i justifica-les (concordança en gènere i nombre). Uns 5 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *Quem* és una forma del pronom relatiu *qui, quae, quod* (acusatiu masculí singular). Un pronom relatiu introdueix una **oració subordinada adjectiva o de relatiu**: fa la funció d'un adjectiu que complementa un nom de l'oració principal.\n\n2. L'**antecedent** és el nom al qual es refereix el relatiu: ha de concordar amb ell en **gènere i nombre** (no necessàriament en cas). *Quem* és masculí singular; a l'oració principal, els noms masculins singulars són *Romulo* i *Numa*. Pel sentit i per la posició (just davant del relatiu), l'antecedent és ***Numa***: van anar a buscar Numa, el nou rei, no Ròmul.\n\n3. Pots afegir-hi la funció de *quem* (CD de *petiuerunt*) per mostrar que entens l'estructura."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Quem* introdueix una **oració subordinada adjectiva o de relatiu** (*quem Romani petiuerunt ob inclitam eius religionem*). El seu **antecedent** és ***Numa***, amb què concorda en gènere (masculí) i nombre (singular). El relatiu està en acusatiu perquè dins la seva oració fa de complement directe de *petiuerunt*: «Numa, a qui els romans van anar a buscar...»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "És una oració subordinada adjectiva o de relatiu."
+          },
+          {
+            "apartat": null,
+            "valor": "L'antecedent de *quem* és *Numa*."
+          }
+        ],
+        "nota": "Errors típics: dir que l'antecedent és *Romulo* (també és masculí singular, però el sentit i la proximitat indiquen *Numa*); exigir que el relatiu concordi en cas amb l'antecedent (*Numa* és nominatiu i *quem* acusatiu: el relatiu concorda només en gènere i nombre); confondre l'oració de relatiu amb una completiva."
+      }
+    },
+    {
+      "id": "llati-2011-S-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "am: ante meridiem, «abans del migdia»",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "am",
+        "ante meridiem",
+        "abreviatures llatines",
+        "llatinismes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Indiqueu l'expressió destacada en negreta que equival a cadascun dels mots següents.\n\n1. am",
+      "figures": [],
+      "opcions": {
+        "a": "Ciceró va ser assassinat el 43 **aC**.",
+        "b": "August va morir l'any 14 **de la nostra era**.",
+        "c": "El vol amb destinació a Roma no sortirà fins a les onze **del matí**.",
+        "d": "Va arribar a la reunió a les cinc en punt **de la tarda**."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre llatinismes o abreviatures llatines, i per a cadascun cal triar quina expressió destacada en negreta hi equival. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen: si dubtes entre dues opcions, val la pena arriscar-se. Pensa en l'expressió llatina completa i tradueix-la."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*am* és l'abreviatura de ***ante meridiem***, «abans del migdia»: les onze **del matí**. Els distractors: **de la tarda** correspon a *pm* (*post meridiem*, «després del migdia»); **de la nostra era** equival a dC o AD (*Anno Domini*), i **aC** vol dir «abans de Crist»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) del matí"
+          }
+        ],
+        "nota": "Truc: escriu l'expressió llatina completa (*ante meridiem*, *verbi gratia*, *requiescat in pace*, *sancta sanctorum*) i tradueix-la mot a mot; després descarta els distractors que només s'assemblen per la forma."
+      }
+    },
+    {
+      "id": "llati-2011-S-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Verbigràcia: verbi gratia, «per exemple»",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "verbigràcia",
+        "verbi gratia",
+        "llatinismes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Indiqueu l'expressió destacada en negreta que equival a cadascun dels mots següents.\n\n2. Verbigràcia",
+      "figures": [],
+      "opcions": {
+        "a": "Pot parlar de qualsevol tema referit a la natura; **per exemple**, de les energies alternatives, del canvi climàtic o de les aus migratòries, entre d'altres.",
+        "b": "En Jaume té una gran **facilitat de paraula**; coneix molt bé els recursos retòrics i els aplica amb molta intel·ligència.",
+        "c": "El Govern li ha concedit l'**indult** d'una part de la pena a què havia estat condemnat.",
+        "d": "La Paula tenia una **gràcia especial** explicant acudits."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre llatinismes o abreviatures llatines, i per a cadascun cal triar quina expressió destacada en negreta hi equival. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen: si dubtes entre dues opcions, val la pena arriscar-se. Pensa en l'expressió llatina completa i tradueix-la."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Verbigràcia* ve de ***verbi gratia***, literalment «per gràcia (a favor) de la paraula», és a dir, «per posar un exemple»: equival a **per exemple** (abreviat *v. g.*). Els distractors juguen amb els dos mots: *verbum* «paraula» (**facilitat de paraula**) i *gratia* «gràcia, favor» (**indult**, **gràcia especial**)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) per exemple"
+          }
+        ],
+        "nota": "Truc: escriu l'expressió llatina completa (*ante meridiem*, *verbi gratia*, *requiescat in pace*, *sancta sanctorum*) i tradueix-la mot a mot; després descarta els distractors que només s'assemblen per la forma."
+      }
+    },
+    {
+      "id": "llati-2011-S-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "RIP: requiescat in pace, «descansi en pau»",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "rip",
+        "requiescat in pace",
+        "abreviatures llatines",
+        "inri"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Indiqueu l'expressió destacada en negreta que equival a cadascun dels mots següents.\n\n3. RIP",
+      "figures": [],
+      "opcions": {
+        "a": "El senyor Anastasi Dalmau Roca ha mort a l'edat de setanta-nou anys. **Descansi en pau**.",
+        "b": "Al capdamunt de la creu en què Crist va morir crucificat, els romans van escriure ***Rex Iudaeorum Primus***, 'primer rei dels jueus'.",
+        "c": "La tarda que plovia vaig relliscar i, per a més **burla**, vaig anar a parar damunt d'un toll d'aigua.",
+        "d": "Dues setmanes abans de l'estrena, el director i els actors van presentar el **tràiler** de la nova pel·lícula."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre llatinismes o abreviatures llatines, i per a cadascun cal triar quina expressió destacada en negreta hi equival. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen: si dubtes entre dues opcions, val la pena arriscar-se. Pensa en l'expressió llatina completa i tradueix-la."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*RIP* és l'abreviatura de ***requiescat in pace***, «que descansi en pau», fórmula de les làpides i les esqueles: equival a **Descansi en pau**. Els distractors fan pensar en una altra sigla, INRI: l'opció b és una falsa expansió (INRI vol dir *Iesus Nazarenus Rex Iudaeorum*, «Jesús de Natzaret, rei dels jueus»), i l'opció c remet a l'expressió «per a més inri», que vol dir justament «per a més burla». **Tràiler** no hi té cap relació."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) Descansi en pau"
+          }
+        ],
+        "nota": "Truc: escriu l'expressió llatina completa (*ante meridiem*, *verbi gratia*, *requiescat in pace*, *sancta sanctorum*) i tradueix-la mot a mot; després descarta els distractors que només s'assemblen per la forma."
+      }
+    },
+    {
+      "id": "llati-2011-S-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Sancta sanctorum: el lloc més sagrat, «santuari»",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "sancta sanctorum",
+        "llatinismes",
+        "genitiu partitiu"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Indiqueu l'expressió destacada en negreta que equival a cadascun dels mots següents.\n\n4. *Sancta sanctorum*",
+      "figures": [],
+      "opcions": {
+        "a": "El **temple** de la Sagrada Família és una obra arquitectònica excepcional.",
+        "b": "La cova d'Altamira és el **santuari** de l'art rupestre hispànic i fins i tot mundial.",
+        "c": "Olot té un museu singular d'imatges de **sants i santes**.",
+        "d": "L'avi de la Maria va aparèixer **sa i estalvi** al cap de tres dies d'haver-se perdut."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre llatinismes o abreviatures llatines, i per a cadascun cal triar quina expressió destacada en negreta hi equival. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen: si dubtes entre dues opcions, val la pena arriscar-se. Pensa en l'expressió llatina completa i tradueix-la."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Sancta sanctorum*** significa literalment «el sant (el lloc sagrat) dels sants», és a dir, «el més sagrat de tots»: era la part més interior i santa del temple de Jerusalem. En sentit figurat designa un lloc reservat i venerat, el lloc de referència d'una cosa: la cova d'Altamira com a **santuari** de l'art rupestre. Els paranys són **sants i santes** (traducció literal mal entesa), **temple** (un edifici qualsevol, no el lloc més sagrat) i **sa i estalvi** (semblança fonètica amb *sanus*)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) santuari"
+          }
+        ],
+        "nota": "Truc: escriu l'expressió llatina completa (*ante meridiem*, *verbi gratia*, *requiescat in pace*, *sancta sanctorum*) i tradueix-la mot a mot; després descarta els distractors que només s'assemblen per la forma."
+      }
+    },
+    {
+      "id": "llati-2011-S-e3-b",
+      "exercici": 3,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Plaute o Terenci? Vuit afirmacions sobre els dos comediògrafs",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "plaute",
+        "terenci",
+        "comèdia llatina",
+        "fabula palliata",
+        "cercle dels escipions",
+        "seruus callidus"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts). De la sèrie d'afirmacions que hi ha a continuació, n'hi ha unes que es poden atribuir només a Plaute, d'altres només a Terenci i algunes a tots dos indistintament. Marqueu una creu o dues segons el que correspongui en cada cas (Plaute / Terenci). No es penalitzaran les respostes errònies.\n\n1. Va pertànyer al cercle intel·lectual dels Escipions.\n2. El protagonista de la major part de les seves comèdies és un esclau que embolica contínuament l'acció.\n3. Va escriure exclusivament *fabulae palliatae*.\n4. L'acció de les seves comèdies es desenvolupa sempre a Grècia.\n5. En les seves obres critica la civilització hel·lènica com a bressol de tots els vicis.\n6. Un dels temes principals de les seves obres és l'educació dels joves.\n7. Tot i que escrivia en llatí, no havia nascut ni a Roma ni a la regió del Laci.\n8. L'objectiu de les seves obres és transmetre uns principis de comportament ètic.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Va pertànyer al cercle intel·lectual dels Escipions.",
+          "punts": 0.25
+        },
+        {
+          "id": "2",
+          "enunciat": "El protagonista de la major part de les seves comèdies és un esclau que embolica contínuament l'acció.",
+          "punts": 0.25
+        },
+        {
+          "id": "3",
+          "enunciat": "Va escriure exclusivament *fabulae palliatae*.",
+          "punts": 0.25
+        },
+        {
+          "id": "4",
+          "enunciat": "L'acció de les seves comèdies es desenvolupa sempre a Grècia.",
+          "punts": 0.25
+        },
+        {
+          "id": "5",
+          "enunciat": "En les seves obres critica la civilització hel·lènica com a bressol de tots els vicis.",
+          "punts": 0.25
+        },
+        {
+          "id": "6",
+          "enunciat": "Un dels temes principals de les seves obres és l'educació dels joves.",
+          "punts": 0.25
+        },
+        {
+          "id": "7",
+          "enunciat": "Tot i que escrivia en llatí, no havia nascut ni a Roma ni a la regió del Laci.",
+          "punts": 0.25
+        },
+        {
+          "id": "8",
+          "enunciat": "L'objectiu de les seves obres és transmetre uns principis de comportament ètic.",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Vuit afirmacions (0,25 punts cadascuna); cal marcar Plaute, Terenci o totes dues caselles. Els errors **no** es penalitzen: respon-les totes. Abans de començar, recorda les grans diferències: **Plaute** (c. 254-184 aC, d'Úmbria): comèdia popular, embolics, esclau astut, jocs de paraules, burla dels costums grecs. **Terenci** (c. 190-159 aC, de Cartago): cercle dels Escipions, comèdia refinada i moralitzadora, psicologia dels personatges, educació dels joves. **Comú**: les dues són *palliatae* ambientades a Grècia i cap dels dos no era de Roma ni del Laci."
+          },
+          {
+            "apartat": "1",
+            "titol": "Explicació",
+            "cos": "**Terenci.** Va formar part del cercle d'Escipió Emilià, grup d'aristòcrates admiradors de la cultura grega (Leli, Polibi, Panaci). Plaute, anterior, escrivia per al gran públic sense aquest patronatge."
+          },
+          {
+            "apartat": "2",
+            "titol": "Explicació",
+            "cos": "**Plaute.** L'esclau astut (*seruus callidus*), com Palestrió al *Miles gloriosus* o Pseudol, és el motor de l'embolic. A Terenci els esclaus tenen un paper més secundari i el centre són les relacions familiars."
+          },
+          {
+            "apartat": "3",
+            "titol": "Explicació",
+            "cos": "**Tots dos.** Les seves comèdies són *palliatae*: d'argument i ambientació grecs (els personatges porten el *pallium* grec), adaptades de la Comèdia Nova grega (Menandre, Dífil, Filèmon...)."
+          },
+          {
+            "apartat": "4",
+            "titol": "Explicació",
+            "cos": "**Tots dos.** Com a *palliatae*, transcorren en ciutats gregues (sobretot Atenes), encara que Plaute hi introdueixi moltes referències a la vida romana."
+          },
+          {
+            "apartat": "5",
+            "titol": "Explicació",
+            "cos": "**Plaute.** Es burla dels costums grecs: el verb *pergraecari* («viure a la grega») vol dir disbauxar-se. Terenci, del cercle filohel·lènic dels Escipions, admira la cultura grega."
+          },
+          {
+            "apartat": "6",
+            "titol": "Explicació",
+            "cos": "**Terenci.** Als *Adelphoe* («Els germans») contraposa dos models d'educació (sever i tolerant); el tema dels pares i els fills és central a la seva obra."
+          },
+          {
+            "apartat": "7",
+            "titol": "Explicació",
+            "cos": "**Tots dos.** Plaute va néixer a Sàrsina, a l'Úmbria, i Terenci (*Afer*, «l'africà»), a Cartago."
+          },
+          {
+            "apartat": "8",
+            "titol": "Explicació",
+            "cos": "**Terenci.** La seva comèdia, més refinada i psicològica, té una intenció moral (*humanitas*: *Homo sum, humani nihil a me alienum puto*). Plaute busca sobretot fer riure."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "Terenci"
+          },
+          {
+            "apartat": "2",
+            "valor": "Plaute"
+          },
+          {
+            "apartat": "3",
+            "valor": "Plaute i Terenci"
+          },
+          {
+            "apartat": "4",
+            "valor": "Plaute i Terenci"
+          },
+          {
+            "apartat": "5",
+            "valor": "Plaute"
+          },
+          {
+            "apartat": "6",
+            "valor": "Terenci"
+          },
+          {
+            "apartat": "7",
+            "valor": "Plaute i Terenci"
+          },
+          {
+            "apartat": "8",
+            "valor": "Terenci"
+          }
+        ],
+        "nota": "Les afirmacions comunes (3, 4 i 7) són les que més es fallen: cal marcar les dues caselles. Recorda també que la *fabula togata* (ambientada a Roma) és d'altres autors, no de Plaute ni de Terenci."
+      }
+    },
+    {
+      "id": "llati-2011-S-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "La violació i el suïcidi de Lucrècia i la fi de la monarquia (Tit Livi, llibre I)",
+      "tema": "cultura",
+      "temes_secundaris": [
+        "literatura"
+      ],
+      "conceptes": [
+        "tit livi",
+        "ab urbe condita",
+        "lucrècia",
+        "tarquini el superb",
+        "sext tarquini",
+        "brut",
+        "fi de la monarquia",
+        "república romana"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "«Així, la dona jeu inofensiva sota l'espasa de Tarquini, escoltant el que li diu, aterrida i tremolosa, com una au en sentir les campanetes del falcó. \"Aquesta nit t'he de posseir\", li diu Tarquini. \"Si t'hi negues, només em restarà forçar-te; després et mataré al llit i, una vegada fet, assassinaré algun esclau teu menyspreable. Per acabar alhora amb el teu honor i amb la teva vida, el col·locaré entre els teus braços [...]\".»\n\nWilliam Shakespeare",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (exposició d'un tema de literatura o de civilització romanes, 2 punts). A continuació, teniu una pintura de Lucas Cranach, *el Vell* (1472-1553), i un text de William Shakespeare que s'inspiren en un episodi que explica Tit Livi en el llibre primer de la *Història de Roma*. Identifiqueu-lo i expliqueu-lo en quinze línies com a mínim (unes cent cinquanta paraules): context i escenari de l'acció; protagonistes; causes, desenvolupament i desenllaç, i conseqüències històriques que se'n van derivar.",
+      "figures": [
+        {
+          "src": "img/llati/2011-S/e4-a.png",
+          "peu": "Lucas Cranach el Vell, *Lucrècia*: la dona, amb un punyal a la mà, a punt de clavar-se'l al pit."
+        }
+      ],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Primer cal **identificar** l'episodi: una dona amb un punyal a punt de clavar-se'l (Cranach) i el fill de Tarquini que amenaça una dona de matar-la i posar-li un esclau als braços (Shakespeare, *La violació de Lucrècia*, 1594) → **Lucrècia**. Després, seguir l'ordre que demana la consigna: (1) context i escenari; (2) protagonistes; (3) causes, desenvolupament i desenllaç; (4) conseqüències històriques. Mínim 15 línies (~150 paraules); uns 20 minuts."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Context**: darrer rei de Roma, Tarquini el Superb (tirà etrusc); setge d'Àrdea; Col·làcia, casa de Col·latí.\n2. **Protagonistes**: Lucrècia; el seu marit Luci Tarquini Col·latí; Sext Tarquini, fill del rei; el pare, Espuri Lucreci; Luci Juni Brut.\n3. **Causes i desenvolupament**: l'aposta sobre la virtut de les esposes; Lucrècia, l'única que treballa; el desig de Sext; la visita nocturna i l'amenaça (la que cita Shakespeare); la violació.\n4. **Desenllaç**: Lucrècia ho explica al pare i al marit, demana venjança i se suïcida (el punyal de Cranach).\n5. **Conseqüències**: Brut jura venjança sobre el punyal, revolta, expulsió dels Tarquinis (509 aC), fi de la monarquia i inici de la República (dos cònsols). Lucrècia queda com a model de *pudicitia* de la matrona romana."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'episodi és la violació i el suïcidi de **Lucrècia**, que Tit Livi narra al llibre I per explicar la fi de la monarquia. L'acció passa durant el setge d'**Àrdea**, ciutat dels rútuls, en temps del darrer rei, **Tarquini el Superb**. Al campament, els joves prínceps discuteixen sobre quina esposa és més virtuosa i **Tarquini Col·latí** elogia la seva, Lucrècia. Decideixen comprovar-ho per sorpresa: troben les nores del rei de banquet, mentre que Lucrècia fila la llana amb les esclaves a Col·làcia. **Sext Tarquini**, fill del rei, se n'encapritxa i uns dies després hi torna en absència del marit. Lucrècia l'acull com a hoste, però a la nit ell entra a la seva cambra amb l'espasa i l'amenaça: si no cedeix, la matarà i hi deixarà al costat un esclau mort, per fer creure que l'ha sorpresa en adulteri. Per por a aquesta deshonra, ella cedeix. L'endemà crida el seu pare, Espuri Lucreci, i el seu marit, que arriba amb **Luci Juni Brut**; els explica el crim, els fa jurar venjança i, tot i que l'exculpen, es clava un punyal perquè cap dona deshonrada no pugui posar-la com a excusa. Brut, amb el punyal ensangonat, alça el poble contra els Tarquinis, que són expulsats de Roma (509 aC). Així s'acaba la monarquia i s'instaura la **República**, amb dos cònsols: Brut i Col·latí."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Identificació: suïcidi de Lucrècia, episodi amb què Tit Livi explica el pas de la monarquia a la República."
+          },
+          {
+            "apartat": null,
+            "valor": "Context: setge d'Àrdea per Tarquini el Superb; els joves de la casa reial discuteixen sobre la fidelitat de les esposes; Col·latí lloa Lucrècia, l'única que no troben banquetejant."
+          },
+          {
+            "apartat": null,
+            "valor": "Desenvolupament: Sext Tarquini, fill del rei, s'hi presenta en absència del marit, l'amenaça de matar-la i posar-li al costat un esclau mort (adulteri) i la força."
+          },
+          {
+            "apartat": null,
+            "valor": "Desenllaç: Lucrècia ho explica al pare i a l'espòs i, tot i que l'exculpen, se suïcida amb un punyal perquè cap dona deshonrada no pugui excusar-se en ella."
+          },
+          {
+            "apartat": null,
+            "valor": "Conseqüències (no les desenvolupa la pauta, però les demana l'enunciat): Brut encapçala la revolta, expulsió dels Tarquinis i inici de la República (509 aC)."
+          }
+        ],
+        "nota": "La resposta model té 223 paraules (el mínim és d'unes 150; la consigna té moltes demandes). Errors típics: confondre Lucrècia amb Virgínia (episodi dels decemvirs, que també acaba amb la caiguda d'un règim) o amb Cleòpatra (que en pintura apareix amb una serp, no amb un punyal); confondre Sext Tarquini amb el rei; oblidar les conseqüències polítiques, que la consigna demana explícitament (la pauta oficial s'atura al suïcidi)."
+      }
+    },
+    {
+      "id": "llati-2011-S-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Les ciutats romanes de Catalunya: Emporion, Barcino, Tarraco i Ilerda",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "romanització",
+        "tarraco",
+        "barcino",
+        "emporion",
+        "ilerda",
+        "colònia",
+        "municipi",
+        "batalla d'ilerda"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (exposició d'un tema de literatura o de civilització romanes, 2 punts). A Catalunya, els romans van fundar o colonitzar quatre ciutats importants: Emporion, Barcino, Tarraco i Ilerda. Feu un comentari, en quinze línies com a mínim (unes cent cinquanta paraules), centrant-vos en els aspectes següents: època de fundació o primer contacte amb els romans; especifiqueu quines van tenir estatus de colònia i quines de municipi; digueu quina ciutat va ser la més important i per què; identifiqueu la ciutat que va ser escenari d'una guerra civil entre els romans, quan va succeir aquest fet i qui en van ser els protagonistes, i esmenteu en quines d'aquestes ciutats hi ha restes d'amfiteatre, de teatre, de temples, d'aqüeducte i de muralles.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "La consigna demana **cinc punts concrets**; la manera més segura de no deixar-ne cap és seguir-ne l'ordre, un bloc per punt: (1) fundació o primer contacte; (2) colònia / municipi; (3) la ciutat més important i per què; (4) la guerra civil (lloc, data, protagonistes); (5) restes monumentals per ciutat. Mínim 15 línies (~150 paraules). Uns 20 minuts. Les dades (dates, estatus) compten molt a la correcció."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Cronologia**: 218 aC, desembarcament d'Escipió a Empúries (segona guerra púnica) i base a Tàrraco; Empúries romana i Ilerda, s. II-I aC; Bàrcino, època d'August (finals del s. I aC).\n2. **Estatus**: colònies = Tarraco (*Colonia Iulia Urbs Triumphalis Tarraco*) i Barcino (*Colonia Iulia Augusta Faventia Paterna Barcino*); municipis = Emporiae i Ilerda.\n3. **La més important**: Tarraco, capital de la Hispània Citerior / Tarraconense.\n4. **Guerra civil**: Ilerda, 49 aC, Cèsar contra els pompeians Afrani i Petrei; victòria de Cèsar.\n5. **Restes**: fes-ne una llista per tipus de monument (és més fàcil de corregir i de recordar):\n\n| Monument | Ciutats |\n|---|---|\n| Amfiteatre | Tarraco, Empúries |\n| Teatre | Tarraco |\n| Temples | Empúries (Capitoli), Barcino (August), Tarraco |\n| Aqüeducte | Tarraco, Barcino |\n| Muralles | Empúries, Tarraco, Barcino |"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Els romans van arribar a Catalunya el **218 aC**, durant la segona guerra púnica contra Anníbal: Gneu Corneli Escipió va desembarcar a **Emporion**, colònia grega, i va establir a **Tarraco** una base militar. La ciutat romana d'Empúries, però, no es va fundar fins a començament del s. I aC; **Ilerda**, antiga ciutat ilergeta, es va romanitzar entre finals del s. II aC i començament del s. I aC, i **Barcino** es va fundar en època d'August, els darrers anys del s. I aC. Tarraco i Barcino van tenir l'estatus de **colònia**; Emporiae i Ilerda, el de **municipi**. La més important va ser **Tarraco**, perquè va ser la capital de la província de la Hispània Citerior (després Tarraconense), residència del governador i centre del culte imperial; August mateix hi va residir. Ilerda va ser l'escenari de la **batalla d'Ilerda** (49 aC), en la guerra civil entre **Juli Cèsar** i els legats de **Pompeu**, Afrani i Petrei, que va acabar amb la victòria de Cèsar. Pel que fa a les restes, hi ha amfiteatre a Tarraco i a Empúries; teatre, només a Tarraco; temples a Empúries (el Capitoli), a Barcino (el temple d'August) i a Tarraco; aqüeductes a Tarraco (el Pont del Diable) i a Barcino, i muralles a Empúries, Tarraco i Barcino."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Empúries i Ilerda, municipis; Bàrcino i Tàrraco, colònies."
+          },
+          {
+            "apartat": null,
+            "valor": "Tàrraco, fundada el 218 aC (segona guerra púnica); a Empúries els romans hi desembarquen el 218 aC, però la ciutat romana és de començament del s. I aC; Ilerda, entre finals del s. II i començament del s. I aC; Bàrcino, darrers anys del s. I aC."
+          },
+          {
+            "apartat": null,
+            "valor": "Tàrraco, la més important: capital de la Hispània Citerior (després Tarraconense)."
+          },
+          {
+            "apartat": null,
+            "valor": "Ilerda: batalla de la guerra civil entre Cèsar i els partidaris de Pompeu, el 49 aC, amb victòria de Cèsar."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes: amfiteatre a Tàrraco i Empúries; teatre només a Tàrraco; temples a Empúries (Capitoli), Bàrcino (August) i Tàrraco; aqüeductes a Tàrraco i Bàrcino; muralles a Empúries, Tàrraco i Bàrcino."
+          }
+        ],
+        "nota": "La resposta model té 211 paraules (el mínim és d'unes 150; la consigna té cinc demandes). Errors típics: dir que Empúries va ser fundada pels romans (era una colònia grega focea, fundada cap al 600-575 aC; els romans hi van desembarcar el 218 aC); posar Bàrcino com la ciutat més important (ho era Tàrraco); confondre la batalla d'Ilerda amb la de Farsàlia; atribuir a Bàrcino el teatre o l'amfiteatre. Segueix les dades de la pauta oficial per a les restes monumentals."
+      }
+    }
+  ]
+}

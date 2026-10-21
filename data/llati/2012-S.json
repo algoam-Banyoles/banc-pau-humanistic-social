@@ -1,0 +1,772 @@
+{
+  "examen": {
+    "id": "llati-2012-S",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2012,
+    "convocatoria": "setembre",
+    "serie": "4",
+    "pdf_examen": "pdfs/llati/2012-S-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2012-S-solucio.pdf",
+    "estructura": "Sèrie 4, convocatòria de setembre. Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un text del *Primer Mitògraf del Vaticà* (Eneas fuig de Troia i funda Enos a Tràcia; 5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B). Opció A: 2. morfosintaxi sobre la concordança de *monitus* i el participi concertat *responsis deorum monitus* (1 punt); 3. quatre buits d'opció múltiple sobre la traducció del proemi de l'*Eneida* (2 punts, 0,50 per encert, −0,16 per error, les no contestades no puntuen); 4. exposició sobre els amfiteatres romans (2 punts, mínim 15 línies, ~150 paraules). Opció B: 2. morfosintaxi sobre la concordança de *fabricatis* i l'ablatiu absolut *uiginti nauibus fabricatis* (1 punt); 3. quatre expressions catalanes per substituir per llatinismes (2 punts, mateix barem); 4. exposició sobre els enganys de Palestrió al *Miles gloriosus* de Plaute (2 punts, mínim 15 línies, ~150 paraules)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2012-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció del Primer Mitògraf del Vaticà: Eneas fuig de Troia i funda Enos a Tràcia",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "eneas",
+        "mitògraf del vaticà",
+        "ablatiu absolut",
+        "participi concertat",
+        "verb deponent",
+        "oració de relatiu",
+        "doble acusatiu",
+        "llatí medieval"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Eneas fuig de Troia i comença el seu periple**\n\nAeneas, Veneris et Anchisae filius, in euersione Troiae deos Penates et patrem et filium Ascanium ex incendio rapuit et cum his in Idam montem uenit; ibique uiginti nauibus fabricatis, responsis deorum monitus, mare ingressus est et ad Thraciam uenit; ibique condidit ciuitatem, quam Aenum —id est de suo nomine— uocauit.\n\n*Primer Mitògraf del Vaticà*, 2, 100, 1\n\n**Lèxic** (per ordre alfabètic):\n\n- *Aenus, -i* (femení): 'Enos' (ciutat de Tràcia).\n- *condo, -didi, -ditum* (3a): 'fundar'.\n- *ingredior, -gressus* (3a): 'penetrar'.\n- *moneo, -ui, -itum* (2a): 'advertir'.\n- *responsum, -i*: 'profecia'.",
+      "enunciat": "Feu la versió catalana del text següent (5 punts). Aquest exercici és comú a les dues opcions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text d'un mitògraf medieval (el **Primer Mitògraf del Vaticà**, recull anònim de mites en llatí) que resumeix l'inici del viatge d'**Eneas** després de la caiguda de Troia: la mateixa història que explica Virgili al llibre III de l'*Eneida*. El llatí és senzill i molt narratiu. Hi ha **tres blocs** separats per punt i coma. Val **5 punts**, la meitat de l'examen: dedica-hi uns 40 minuts.\n\nMètode: (1) el títol t'avança el contingut (fugida de Troia i inici del periple); (2) localitza els **verbs conjugats**: *rapuit*, *uenit*, *ingressus est*, *uenit*, *condidit*, *uocauit* (tots en **perfet d'indicatiu**, el temps de la narració); (3) identifica les estructures: una **aposició** (*Veneris et Anchisae filius*), un **ablatiu absolut** (*uiginti nauibus fabricatis*), un **participi concertat** (*responsis deorum monitus*), un **verb deponent** (*ingressus est*) i una **oració de relatiu** amb doble acusatiu (*quam Aenum ... uocauit*); (4) fes una traducció literal i després poleix-la.\n\nParanys: *ingressus est* té forma passiva però és **deponent** (significat actiu: «va penetrar, es va endinsar»); *mare* és acusatiu neutre (CD de *ingressus est*), no ablatiu; *his* remet a les persones i els déus que Eneas salva; *Aenum* és un nom de ciutat **femení** de la 2a declinació (ho diu el lèxic) i fa de predicatiu del CD *quam*; *suo* és un possessiu reflexiu que remet a Eneas («el seu propi nom»)."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Aeneas, Veneris et Anchisae filius, in euersione Troiae deos Penates et patrem et filium Ascanium ex incendio rapuit et cum his in Idam montem uenit;*\n\nDues oracions coordinades per ***et***, amb el mateix subjecte.\n\n- Subjecte: ***Aeneas*** (nominatiu sg.).\n- Aposició: ***Veneris et Anchisae filius***: *filius* (nominatiu, concorda amb *Aeneas*) + dos genitius coordinats, CN: *Veneris* (de *Venus, -eris*) i *Anchisae* (de *Anchises, -ae*): «fill de Venus i d'Anquises».\n- ***in euersione Troiae***: *in* + ablatiu de *euersio, -onis* («destrucció»), CC de temps; *Troiae*, genitiu, CN: «durant la destrucció de Troia».\n- Verb 1: ***rapuit***: 3a sg. perfet d'indicatiu actiu de *rapio, rapui, raptum* (3a mixta): «va arrabassar, va emportar-se ràpidament».\n- CD (tres elements coordinats per *et ... et*): ***deos Penates*** (acusatiu pl. de *deus* + *Penates*, «els déus Penats», protectors de la llar), ***patrem*** (acusatiu de *pater*) i ***filium Ascanium*** (acusatiu + aposició): «els déus Penats, el pare i el fill Ascani».\n- ***ex incendio***: *ex* + ablatiu, CC de lloc d'on: «de l'incendi».\n- Verb 2: ***uenit***: 3a sg. perfet d'indicatiu de *uenio, ueni, uentum* (4a): «va arribar».\n- ***cum his***: *cum* + ablatiu pl. del demostratiu *hic, haec, hoc*, CC de companyia: «amb ells».\n- ***in Idam montem***: *in* + acusatiu (direcció), *Idam* (de *Ida, -ae*) + aposició *montem*: «al mont Ida»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*ibique uiginti nauibus fabricatis, responsis deorum monitus, mare ingressus est et ad Thraciam uenit;*\n\nDues oracions coordinades per ***et***; el subjecte continua essent Eneas.\n\n- ***ibique***: adverbi *ibi* («allí») + enclític copulatiu *-que* («i»): «i allí».\n- ***uiginti nauibus fabricatis***: **ablatiu absolut** (participi no concertat). *nauibus* (ablatiu pl. de *nauis, -is*) n'és el subjecte, amb el numeral indeclinable *uiginti*; *fabricatis* (participi de perfet passiu de *fabrico*, 1a) n'és el predicat. No depèn de cap element de l'oració principal. Valor temporal: «construïdes vint naus, després de construir vint naus».\n- ***responsis deorum monitus***: **participi concertat**. *monitus* és participi de perfet passiu de *moneo* («advertir»), nominatiu sg. masculí: concorda amb el subjecte *Aeneas*. *responsis* (ablatiu pl. de *responsum*, «profecia») és el complement agent sense preposició (ablatiu de cosa/instrument), i *deorum* (genitiu pl.) n'és el CN: «advertit per les profecies dels déus».\n- Verb 1: ***ingressus est***: 3a sg. perfet d'indicatiu del **deponent** *ingredior, ingressus sum* (3a): forma passiva i significat actiu, «va penetrar, es va endinsar».\n- CD: ***mare***: acusatiu sg. de *mare, -is* (neutre, 3a): «el mar». *mare ingressus est* = «es va fer a la mar».\n- Verb 2: ***uenit***: «va arribar». ***ad Thraciam***: *ad* + acusatiu, CC de direcció: «a Tràcia»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*ibique condidit ciuitatem, quam Aenum —id est de suo nomine— uocauit.*\n\n- ***ibique***: «i allí».\n- Verb principal: ***condidit***: 3a sg. perfet d'indicatiu de *condo, condidi, conditum* (3a): «va fundar».\n- CD: ***ciuitatem***: acusatiu sg. de *ciuitas, -atis*: «una ciutat».\n- Oració subordinada adjectiva (de relatiu): ***quam ... uocauit***. *quam*: pronom relatiu, acusatiu sg. femení, antecedent *ciuitatem*, **CD de *uocauit***. *uocauit*: 3a sg. perfet d'indicatiu de *uoco* (1a): «va anomenar». ***Aenum***: acusatiu de *Aenus, -i* (femení), **complement predicatiu del CD** (doble acusatiu amb els verbs de dir/anomenar): «que va anomenar Enos».\n- Incís ***id est de suo nomine***: *id est* «és a dir»; *de* + ablatiu, *suo nomine* (possessiu reflexiu, remet a Eneas): «és a dir, a partir del seu nom» (Aen-eas → Aen-us)."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Eneas, de Venus i d'Anquises fill, en la destrucció de Troia els déus Penats i el pare i el fill Ascani de l'incendi va arrabassar i amb ells al Ida mont va arribar; i allí, vint naus construïdes, per les profecies dels déus advertit, el mar va penetrar i a Tràcia va arribar; i allí va fundar una ciutat, que Enos —és a dir, a partir del seu nom— va anomenar."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Eneas, fill de Venus i d'Anquises, durant la destrucció de Troia va salvar de l'incendi els déus Penats, el seu pare i el seu fill Ascani, i amb ells va arribar al mont Ida; i allí, després de construir vint naus, advertit per les profecies dels déus, es va fer a la mar i va arribar a Tràcia; i allí va fundar una ciutat, que va anomenar Enos, és a dir, a partir del seu propi nom."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Eneas, fill de Venus i d'Aquises, en la destrucció de Troia va arrabassar de l'incendi els déus Penats, el seu pare i el seu fill Ascani i amb ells va arribar al Mont Ida; i allí, després de construir vint naus, advertit per les profecies dels déus, es va fer a la mar i va arribar a Tràcia i hi va fundar una ciutat, que va anomenar Enos, a partir del seu nom.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: *filius* aposició d'*Aeneas*; triple CD de *rapuit* (*deos Penates*, *patrem*, *filium Ascanium*); *cum his* CC de companyia; ablatiu absolut *uiginti nauibus fabricatis*; participi concertat *monitus* (concorda amb Eneas) amb *responsis* com a agent; *ingressus est* deponent amb *mare* com a CD; relatiu *quam* (CD) i *Aenum* predicatiu (doble acusatiu)."
+          }
+        ],
+        "nota": "Errors típics: traduir *ingressus est* en passiva («va ser penetrat»); fer *mare* ablatiu («pel mar»); no veure que *Veneris* i *Anchisae* són genitius i traduir «Venus i Anquises» com a subjectes; fer *responsis* datiu («a les profecies»); convertir *quam Aenum uocauit* en «que va anomenar Eneas» (*Aenum* és la ciutat, Enos). La versió oficial escriu «Aquises»; la forma catalana habitual és **Anquises**. Context: Enos (Ainos), a la costa de Tràcia, és la primera ciutat que funda Eneas al seu periple; a l'*Eneida* (llibre III) Virgili la situa a Tràcia i hi narra el prodigi de Polidor."
+      }
+    },
+    {
+      "id": "llati-2012-S-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: concordança de monitus i el participi concertat responsis deorum monitus",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "participi concertat",
+        "participi de perfet",
+        "concordança",
+        "complement agent",
+        "eneas"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**Eneas fuig de Troia i comença el seu periple**\n\nAeneas, Veneris et Anchisae filius, in euersione Troiae deos Penates et patrem et filium Ascanium ex incendio rapuit et cum his in Idam montem uenit; ibique uiginti nauibus fabricatis, responsis deorum monitus, mare ingressus est et ad Thraciam uenit; ibique condidit ciuitatem, quam Aenum —id est de suo nomine— uocauit.\n\n*Primer Mitògraf del Vaticà*, 2, 100, 1\n\n**Lèxic** (per ordre alfabètic):\n\n- *Aenus, -i* (femení): 'Enos' (ciutat de Tràcia).\n- *condo, -didi, -ditum* (3a): 'fundar'.\n- *ingredior, -gressus* (3a): 'penetrar'.\n- *moneo, -ui, -itum* (2a): 'advertir'.\n- *responsum, -i*: 'profecia'.",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «[Aeneas], uiginti nauibus fabricatis, responsis deorum monitus, mare ingressus est», digueu amb quin mot concorda *monitus* i com s'anomena l'estructura sintàctica *responsis deorum monitus*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues preguntes curtes (0,5 punts cadascuna, uns 5 minuts): (1) amb quin mot concorda *monitus*; (2) com s'anomena l'estructura *responsis deorum monitus*. N'hi ha prou amb una resposta precisa i justificada en una o dues línies. Atenció: a la mateixa frase hi ha un **participi concertat** i un **ablatiu absolut**; no els confonguis."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *monitus* és un participi de perfet passiu de *moneo* («advertir») en **nominatiu singular masculí**. Busca un nom en nominatiu singular masculí: a la frase només hi ha el subjecte, ***Aeneas*** (entre claudàtors perquè ve de la frase anterior; també ho és la seva aposició *filius*).\n\n2. Com que el participi concorda amb un element que té funció a l'oració principal (el subjecte), l'estructura és un **participi concertat**. *responsis* (ablatiu) n'és el complement agent i *deorum* el CN: «advertit per les profecies dels déus»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Monitus* (participi de perfet passiu de *moneo*, nominatiu singular masculí) concorda amb ***Aeneas*** (el subjecte de la frase; també amb la seva aposició *filius*).\n\nL'estructura *responsis deorum monitus* és un **participi concertat**: el participi concorda en cas, gènere i nombre amb el subjecte de l'oració principal i en depèn. *responsis* és l'ablatiu agent i *deorum* el seu complement del nom: «advertit per les profecies dels déus»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Monitus* concorda amb *Aeneas* (o amb *filius*)."
+          },
+          {
+            "apartat": null,
+            "valor": "És una construcció de participi concertat."
+          }
+        ],
+        "nota": "Errors típics: dir que *monitus* concorda amb *responsis* o *deorum* (estan en ablatiu i genitiu plural); anomenar-la «ablatiu absolut» (l'ablatiu absolut no concorda amb cap element de l'oració principal). Les pautes accepten *Aeneas* o *filius* com a mot amb què concorda."
+      }
+    },
+    {
+      "id": "llati-2012-S-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: concordança de fabricatis i l'ablatiu absolut uiginti nauibus fabricatis",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi no concertat",
+        "participi de perfet",
+        "concordança",
+        "eneas"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**Eneas fuig de Troia i comença el seu periple**\n\nAeneas, Veneris et Anchisae filius, in euersione Troiae deos Penates et patrem et filium Ascanium ex incendio rapuit et cum his in Idam montem uenit; ibique uiginti nauibus fabricatis, responsis deorum monitus, mare ingressus est et ad Thraciam uenit; ibique condidit ciuitatem, quam Aenum —id est de suo nomine— uocauit.\n\n*Primer Mitògraf del Vaticà*, 2, 100, 1\n\n**Lèxic** (per ordre alfabètic):\n\n- *Aenus, -i* (femení): 'Enos' (ciutat de Tràcia).\n- *condo, -didi, -ditum* (3a): 'fundar'.\n- *ingredior, -gressus* (3a): 'penetrar'.\n- *moneo, -ui, -itum* (2a): 'advertir'.\n- *responsum, -i*: 'profecia'.",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «[Aeneas], uiginti nauibus fabricatis, responsis deorum monitus, mare ingressus est», digueu amb quin mot concorda *fabricatis* i com s'anomena l'estructura sintàctica *uiginti nauibus fabricatis*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues preguntes curtes (0,5 punts cadascuna, uns 5 minuts): (1) amb quin mot concorda *fabricatis*; (2) com s'anomena l'estructura *uiginti nauibus fabricatis*. N'hi ha prou amb una resposta precisa i justificada en una o dues línies. Atenció: a la mateixa frase hi ha un **participi concertat** i un **ablatiu absolut**; no els confonguis."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *fabricatis* és un participi de perfet passiu de *fabrico* («construir») en **ablatiu plural femení**. Busca un nom en ablatiu plural: ***nauibus*** (ablatiu pl. de *nauis, -is*, femení). *uiginti* és un numeral indeclinable que també el determina.\n\n2. El grup nom + participi en ablatiu no fa cap funció dins de l'oració principal (el subjecte és Eneas i el CD *mare*): és un **ablatiu absolut** o **participi no concertat**, amb valor temporal d'anterioritat: «després de construir vint naus»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Fabricatis* (participi de perfet passiu de *fabrico*, ablatiu plural femení) concorda amb ***nauibus*** (ablatiu plural de *nauis*).\n\nL'estructura *uiginti nauibus fabricatis* és un **ablatiu absolut** (o **participi no concertat**): el nom *nauibus* (en fa de subjecte) i el participi *fabricatis* (en fa de predicat) van en ablatiu i no depenen de cap element de l'oració principal. Té valor temporal: «construïdes vint naus, després de construir vint naus»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Fabricatis* concorda amb *nauibus*."
+          },
+          {
+            "apartat": null,
+            "valor": "És una construcció de participi no concertat o ablatiu absolut."
+          }
+        ],
+        "nota": "Errors típics: dir que *fabricatis* concorda amb *uiginti* (és un numeral indeclinable que acompanya el nom) o amb *responsis* (un altre ablatiu plural, però d'una altra estructura); anomenar-la «participi concertat». Les pautes accepten els dos noms: «ablatiu absolut» i «participi no concertat»."
+      }
+    },
+    {
+      "id": "llati-2012-S-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Arma uirumque cano: «Canto les armes i l'heroi»",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "virgili",
+        "eneida",
+        "proemi",
+        "arma uirumque cano"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Encercleu la lletra de l'opció correcta per a cada espai en blanc, per tal de completar els fragments següents, que corresponen a la traducció dels primers trenta-tres versos del primer llibre de l'*Eneida* de Virgili.\n\n1. Canto ____ i l'heroi que, seguint el destí, fou el primer d'arribar a Itàlia, procedent de les costes de Troia, i a les riberes de Lavínium.",
+      "figures": [],
+      "opcions": {
+        "a": "la reina",
+        "b": "les armes",
+        "c": "l'home",
+        "d": "el viatge"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre fragments de la **traducció del proemi de l'*Eneida*** (llibre I, vv. 1-33) amb un buit. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen. Si recordes l'original llatí (*Arma uirumque cano...*), la resposta és immediata; si dubtes entre dues opcions, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "És la traducció del primer vers de l'*Eneida*: ***Arma uirumque cano**, Troiae qui primus ab oris / Italiam fato profugus Lauiniaque uenit / litora*. *Arma* = «les armes» (la guerra) i *uirum* = «l'heroi» (Eneas). Virgili anuncia així que la seva epopeia combina guerra (com la *Ilíada*) i viatge d'un home (com l'*Odissea*). «L'home» és un parany: l'heroi ja hi és, a continuació del buit."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) les armes"
+          }
+        ],
+        "nota": "Proemi de l'*Eneida*: proposició (*Arma uirumque cano*), invocació a la Musa (*Musa, mihi causas memora*) i causes de la ira de Juno: el judici de Paris, l'odi a la nissaga troiana (Dàrdanos), els honors a Ganimedes i el destí de Cartago, la seva ciutat preferida. Acaba amb *Tantae molis erat Romanam condere gentem* (v. 33)."
+      }
+    },
+    {
+      "id": "llati-2012-S-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "La ira rancorosa de Juno, causa dels patiments d'Eneas",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "virgili",
+        "eneida",
+        "juno",
+        "proemi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Encercleu la lletra de l'opció correcta per a cada espai en blanc, per tal de completar els fragments següents, que corresponen a la traducció dels primers trenta-tres versos del primer llibre de l'*Eneida* de Virgili.\n\n2. Ell fou llargament sacsejat en terra i en mar per la violència dels déus, a causa de la ira rancorosa de ____.",
+      "figures": [],
+      "opcions": {
+        "a": "Venus",
+        "b": "Dido",
+        "c": "Juno",
+        "d": "Diana"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre fragments de la **traducció del proemi de l'*Eneida*** (llibre I, vv. 1-33) amb un buit. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen. Si recordes l'original llatí (*Arma uirumque cano...*), la resposta és immediata; si dubtes entre dues opcions, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Original: *multum ille et terris iactatus et alto / ui superum, saeuae memorem **Iunonis** ob iram* (vv. 3-4). **Juno** és l'enemiga dels troians durant tota l'obra. Venus, en canvi, és la mare i protectora d'Eneas; Dido és la reina de Cartago que l'acollirà (llibres I-IV); Diana no hi té cap paper rellevant."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) Juno"
+          }
+        ],
+        "nota": "Proemi de l'*Eneida*: proposició (*Arma uirumque cano*), invocació a la Musa (*Musa, mihi causas memora*) i causes de la ira de Juno: el judici de Paris, l'odi a la nissaga troiana (Dàrdanos), els honors a Ganimedes i el destí de Cartago, la seva ciutat preferida. Acaba amb *Tantae molis erat Romanam condere gentem* (v. 33)."
+      }
+    },
+    {
+      "id": "llati-2012-S-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Invocació a la Musa al proemi de l'Eneida",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "virgili",
+        "eneida",
+        "musa",
+        "invocació",
+        "proemi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Encercleu la lletra de l'opció correcta per a cada espai en blanc, per tal de completar els fragments següents, que corresponen a la traducció dels primers trenta-tres versos del primer llibre de l'*Eneida* de Virgili.\n\n3. Recorda-me'n, oh ____, les causes: per quina ofensa a la seva divinitat, per quin ressentiment la reina dels déus obligà un home notable per la seva pietat a passar tants perills.",
+      "figures": [],
+      "opcions": {
+        "a": "Reina",
+        "b": "Juno",
+        "c": "Júpiter",
+        "d": "Musa"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre fragments de la **traducció del proemi de l'*Eneida*** (llibre I, vv. 1-33) amb un buit. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen. Si recordes l'original llatí (*Arma uirumque cano...*), la resposta és immediata; si dubtes entre dues opcions, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Original: ***Musa**, mihi causas memora, quo numine laeso, / quidue dolens regina deum...* (vv. 8-9). Com a l'èpica homèrica, el poeta **invoca la Musa** perquè li expliqui els fets. No pot ser Juno ni «Reina», perquè la reina dels déus és justament la causant dels perills de què es parla en tercera persona; Júpiter tampoc no és la divinitat inspiradora del poeta. L'«home notable per la seva pietat» és l'*insignem pietate uirum*: la *pietas* és la virtut característica d'Eneas."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Musa"
+          }
+        ],
+        "nota": "Proemi de l'*Eneida*: proposició (*Arma uirumque cano*), invocació a la Musa (*Musa, mihi causas memora*) i causes de la ira de Juno: el judici de Paris, l'odi a la nissaga troiana (Dàrdanos), els honors a Ganimedes i el destí de Cartago, la seva ciutat preferida. Acaba amb *Tantae molis erat Romanam condere gentem* (v. 33)."
+      }
+    },
+    {
+      "id": "llati-2012-S-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "El judici de Paris, ultratge a la bellesa de Juno",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "virgili",
+        "eneida",
+        "judici de paris",
+        "juno",
+        "guerra de troia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Encercleu la lletra de l'opció correcta per a cada espai en blanc, per tal de completar els fragments següents, que corresponen a la traducció dels primers trenta-tres versos del primer llibre de l'*Eneida* de Virgili.\n\n4. Encara no s'han esborrat de l'ànim de la dea els motius de rancúnia: resta encara assentat al fons del seu cor ____, ultratge a la seva bellesa menyspreada.",
+      "figures": [],
+      "opcions": {
+        "a": "el judici de Paris",
+        "b": "el rapte d'Hèlena",
+        "c": "la mort d'Aquil·les",
+        "d": "la supèrbia d'Agamèmnon"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre fragments de la **traducció del proemi de l'*Eneida*** (llibre I, vv. 1-33) amb un buit. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen. Si recordes l'original llatí (*Arma uirumque cano...*), la resposta és immediata; si dubtes entre dues opcions, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Original: *manet alta mente repostum / **iudicium Paridis** spretaeque iniuria formae* (vv. 26-27). Paris, príncep troià, havia de decidir quina era la deessa més bella entre Juno, Minerva i Venus, i va donar la poma d'or a Venus a canvi de l'amor d'Hèlena. Juno se'n va sentir menyspreada i odia els troians. El rapte d'Hèlena n'és una conseqüència (i la causa de la guerra), però no és l'«ultratge a la seva bellesa»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) el judici de Paris"
+          }
+        ],
+        "nota": "Proemi de l'*Eneida*: proposició (*Arma uirumque cano*), invocació a la Musa (*Musa, mihi causas memora*) i causes de la ira de Juno: el judici de Paris, l'odi a la nissaga troiana (Dàrdanos), els honors a Ganimedes i el destí de Cartago, la seva ciutat preferida. Acaba amb *Tantae molis erat Romanam condere gentem* (v. 33)."
+      }
+    },
+    {
+      "id": "llati-2012-S-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Plus: una quantitat de diners afegida",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "plus",
+        "superàvit"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Indiqueu l'expressió llatina que equival a cadascuna de les expressions destacades en negreta.\n\n1. Va fer la feina tan bé que li van donar **més diners**.",
+      "figures": [],
+      "opcions": {
+        "a": "Un *superavit*.",
+        "b": "Un *accessit*.",
+        "c": "Una *addenda*.",
+        "d": "Un *plus*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): quatre frases catalanes amb una expressió en negreta que cal substituir per un **llatinisme** equivalent. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen. Tradueix literalment cada opció llatina i comprova quina encaixa amb el sentit de la frase."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Plus* significa en llatí «més»; en català designa una **gratificació o quantitat suplementària** de diners. *Superavit* («ha sobrat») és l'excés d'ingressos sobre les despeses; *accessit* («s'ha acostat») és el premi immediatament inferior al primer; *addenda* («coses que s'han d'afegir») és un afegit a un escrit."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Un *plus*."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal i el sentit actual: *plus*, *superàvit*, *accèssit*, *addenda*, *quid*, *desideratum*, *ultimàtum*, *quid pro quo*, *inri*, *lapsus*, *gravamen*, *summum*, *id est*, *motu proprio*, *a posteriori*, *lato sensu*..."
+      }
+    },
+    {
+      "id": "llati-2012-S-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "El quid de la qüestió: el punt essencial",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "quid",
+        "quid pro quo"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Indiqueu l'expressió llatina que equival a cadascuna de les expressions destacades en negreta.\n\n2. En definitiva, el **punt essencial** de la qüestió és trobar la manera adequada de minimitzar l'impacte ambiental.",
+      "figures": [],
+      "opcions": {
+        "a": "*Desideratum*.",
+        "b": "*Ultimatum*.",
+        "c": "*Quid pro quo*.",
+        "d": "*Quid*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): quatre frases catalanes amb una expressió en negreta que cal substituir per un **llatinisme** equivalent. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen. Tradueix literalment cada opció llatina i comprova quina encaixa amb el sentit de la frase."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Quid* («què») designa el **punt essencial** d'una qüestió: «el *quid* de la qüestió». *Desideratum* és allò que es desitja; *ultimatum*, la darrera proposta abans de trencar unes negociacions; *quid pro quo* («una cosa per una altra»), una confusió o un intercanvi."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) *Quid*."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal i el sentit actual: *plus*, *superàvit*, *accèssit*, *addenda*, *quid*, *desideratum*, *ultimàtum*, *quid pro quo*, *inri*, *lapsus*, *gravamen*, *summum*, *id est*, *motu proprio*, *a posteriori*, *lato sensu*..."
+      }
+    },
+    {
+      "id": "llati-2012-S-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Per a més inri: per acabar-ho d'adobar",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "inri",
+        "lapsus"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Indiqueu l'expressió llatina que equival a cadascuna de les expressions destacades en negreta.\n\n3. La tarda que plovia vaig relliscar i, per a més **ridícul**, vaig anar a parar damunt d'un toll d'aigua.",
+      "figures": [],
+      "opcions": {
+        "a": "*Gravamen*.",
+        "b": "*Summum*.",
+        "c": "*Inri*.",
+        "d": "*Lapsus*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): quatre frases catalanes amb una expressió en negreta que cal substituir per un **llatinisme** equivalent. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen. Tradueix literalment cada opció llatina i comprova quina encaixa amb el sentit de la frase."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*INRI* són les inicials de *Iesus Nazarenus Rex Iudaeorum*, el rètol de burla posat a la creu de Jesús; per això «per a més *inri*» vol dir «per a més escarni o **ridícul**». *Gravamen* és una càrrega o impost; *summum*, el grau màxim; *lapsus*, una errada involuntària (la relliscada en sentit figurat, un parany)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "c) *Inri*."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal i el sentit actual: *plus*, *superàvit*, *accèssit*, *addenda*, *quid*, *desideratum*, *ultimàtum*, *quid pro quo*, *inri*, *lapsus*, *gravamen*, *summum*, *id est*, *motu proprio*, *a posteriori*, *lato sensu*..."
+      }
+    },
+    {
+      "id": "llati-2012-S-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Id est: és a dir",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "id est",
+        "catàbasi",
+        "eneida"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts. Cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i les qüestions no contestades no puntuen.) Indiqueu l'expressió llatina que equival a cadascuna de les expressions destacades en negreta.\n\n4. La «catàbasi», **és a dir**, la baixada de l'heroi al món subterrani, és un dels episodis essencials de l'*Eneida*.",
+      "figures": [],
+      "opcions": {
+        "a": "*Motu proprio*.",
+        "b": "*Id est*.",
+        "c": "*A posteriori*.",
+        "d": "*Lato sensu*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): quatre frases catalanes amb una expressió en negreta que cal substituir per un **llatinisme** equivalent. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no puntuen. Tradueix literalment cada opció llatina i comprova quina encaixa amb el sentit de la frase."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Id est* significa literalment «això és», és a dir, introdueix una explicació (n'hi ha un exemple al text de l'exercici 1: *Aenum —id est de suo nomine— uocauit*). *Motu proprio* = «per iniciativa pròpia»; *a posteriori* = «després, a partir de l'experiència»; *lato sensu* = «en sentit ampli». La catàbasi d'Eneas es narra al llibre VI."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) *Id est*."
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal i el sentit actual: *plus*, *superàvit*, *accèssit*, *addenda*, *quid*, *desideratum*, *ultimàtum*, *quid pro quo*, *inri*, *lapsus*, *gravamen*, *summum*, *id est*, *motu proprio*, *a posteriori*, *lato sensu*..."
+      }
+    },
+    {
+      "id": "llati-2012-S-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Els amfiteatres romans: etimologia, forma i parts, espectacles i restes a Catalunya",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "amfiteatre",
+        "gladiadors",
+        "uenationes",
+        "naumàquia",
+        "tàrraco",
+        "empúries",
+        "espectacles"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (exposició d'un tema de literatura o de civilització romanes, 2 punts). Expliqueu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *Els amfiteatres romans*. Digueu l'etimologia del mot *amfiteatre*; expliqueu la forma d'aquests edificis i les parts de què constaven; enumereu i expliqueu els diferents tipus d'espectacles que s'hi feien i qui hi prenia part; esmenteu les ciutats romanes de Catalunya que en conserven restes i on es troben en relació amb les muralles.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de **2 punts**, mínim 15 línies (~150 paraules); uns 20 minuts. La consigna té **quatre demandes** i cadascuna puntua: (1) etimologia; (2) forma i parts; (3) tipus d'espectacles i qui hi participava; (4) restes a Catalunya i situació respecte de les muralles. Fes un paràgraf per demanda i usa els termes llatins (*cauea*, *harena*, *munus*, *uenationes*...). No el confonguis amb el teatre (semicircular, representacions dramàtiques) ni amb el circ (allargat, curses de carros)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Etimologia**: grec *amphi-* («a banda i banda») + *théatron*: «teatre doble», per la planta oval.\n\n2. **Parts**: càvea (graderia) amb vomitoris (accessos), arena, podi que separa arena i càvea, soterranis.\n\n3. **Espectacles**: *munera gladiatoria* (tipus de gladiadors: reciari, traci, samnita, *secutor*); *uenationes* (feres entre elles o contra *uenatores*, exhibicions); naumàquies (combats navals simulats).\n\n4. **Catalunya**: Tàrraco (amfiteatre de pedra, al costat del mar) i Empúries (planta d'un amfiteatre de fusta); tots dos **fora muralles**, per la mida i per l'afluència de públic."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "La paraula *amfiteatre* prové del grec: el prefix *amphi-* («a banda i banda, ambdós») i *théatron* («teatre»). Significa, doncs, «teatre doble»: la seva planta oval o el·líptica és com si s'unissin dos teatres pel diàmetre de les escenes.\n\nLes parts principals de l'edifici eren la **càvea** (*cauea*) o graderia, a la qual el públic accedia per unes obertures anomenades **vomitoris** (*uomitoria*); l'**arena** (*harena*), l'espai central cobert de sorra on es feien els espectacles, envoltada per un **podi** (*podium*) elevat que la separava de la graderia, i el **soterrani**, sota l'arena, on hi havia les gàbies de les feres i els muntacàrregues.\n\nS'hi oferien tres tipus d'espectacles. Els **combats de gladiadors** (*munus gladiatorium*), lluitadors professionals, sovint esclaus o condemnats, de diversos tipus: reciaris (amb xarxa i trident), tracis, samnites i *secutores*. Les **caceres** (*uenationes*): lluites entre feres o entre feres i homes (*uenatores*), exhibicions i doma d'animals exòtics. I, de vegades, les **naumàquies** (*naumachiae*), simulacions realistes de combats navals.\n\nA Catalunya es conserven les restes de l'amfiteatre de pedra de **Tàrraco** (Tarragona), arran de mar, i la planta d'un amfiteatre de fusta a **Empúries**; en tots dos casos l'edifici és **fora muralles**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Etimologia: *amfi-* «ambdós» + *teatre* = «teatre doble» (planta oval)."
+          },
+          {
+            "apartat": null,
+            "valor": "Parts: càvea (*cauea*) amb vomitoris (*uomitoria*), arena (*harena*), podi (*podium*), soterrani."
+          },
+          {
+            "apartat": null,
+            "valor": "Espectacles: combats de gladiadors (*munus gladiatorium*: reciaris, tracis, samnites o *secutores*), caceres (*uenationes*) i naumàquies (*naumachiae*)."
+          },
+          {
+            "apartat": null,
+            "valor": "Catalunya: amfiteatre de pedra a Tarragona i planta d'un de fusta a Empúries; tots dos fora muralles."
+          }
+        ],
+        "nota": "La resposta model té 192 paraules (el mínim demanat és d'unes 150; n'hi ha més perquè la consigna té quatre demandes). Errors típics: dir que a l'amfiteatre s'hi feien curses de carros (circ) o obres de teatre; donar una etimologia llatina; oblidar dir on són les restes respecte de la muralla. A Tarragona es conserven també el circ i el teatre: no els barregis amb l'amfiteatre."
+      }
+    },
+    {
+      "id": "llati-2012-S-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Els tres enganys de Palestrió al Miles gloriosus de Plaute",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "plaute",
+        "miles gloriosus",
+        "palestrió",
+        "pirgopolinices",
+        "comèdia",
+        "esclau astut"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (exposició d'un tema de literatura o de civilització romanes, 2 punts). Expliqueu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *Els enganys ordits per Palestrió en el* Miles gloriosus *de Plaute*. Expliqueu detalladament de quins enganys es tracta; digueu en quin moment de l'obra es produeixen i amb quin objectiu; esmenteu els personatges que ajuden Palestrió a fer-los realitat i els personatges que són objecte d'engany.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de **2 punts**, mínim 15 línies (~150 paraules); uns 20 minuts. La consigna demana, per a cada engany: **en què consisteix**, **quan** es produeix, **amb quin objectiu**, **qui ajuda** Palestrió i **qui és enganyat**. Ordena-ho cronològicament (primer, segon, tercer engany) i dona els noms dels personatges ben escrits. No et limitis a resumir tota la comèdia."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Situació**: Palestrió, esclau de Plèusicles, ha caigut en mans del soldat Pirgopolinices, que té Filocomàsia; Plèusicles s'allotja a casa del veí Periplectomen.\n\n2. **Primer engany** (inici de l'obra): la **germana bessona**. Objectiu: fer callar Esceledre, que ha vist Filocomàsia besant un jove. Ajudants: Filocomàsia i Periplectomen. Enganyat: Esceledre.\n\n3. **Segon engany**: la falsa **esposa de Periplectomen** enamorada del soldat. Objectiu: que Pirgopolinices deixi anar Filocomàsia. Ajudants: Acrotelèucia (la cortesana que fa d'esposa) i Milfidipa (la serventa, amb l'anell). Enganyat: Pirgopolinices.\n\n4. **Tercer engany** (final): Plèusicles disfressat de **mariner borni** s'emporta Filocomàsia al port. Enganyat: Pirgopolinices, que acaba apallissat."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "A la comèdia *Miles gloriosus* de Plaute, l'esclau **Palestrió**, que serveix el soldat fanfarró **Pirgopolinices**, vol alliberar Filocomàsia, la noia que el soldat ha raptat, i reunir-la amb el seu jove amo, Plèusicles. Per aconseguir-ho ordeix **tres enganys**.\n\nEl **primer** es produeix a l'inici de l'obra, quan **Esceledre**, un altre esclau del soldat, veu Filocomàsia besant-se amb un jove a la casa del veí i amenaça de dir-ho a l'amo. Palestrió li fa creure que la noia que ha vist és una **germana bessona** de Filocomàsia, arribada amb el seu promès i allotjada a casa del veí. Hi col·laboren **Filocomàsia**, que fa els dos papers passant per un forat de la paret mitgera, i el vell **Periplectomen**, el veí.\n\nEl **segon** i el **tercer** tenen com a objectiu enredar Pirgopolinices. Palestrió li fa creure que l'esposa de Periplectomen s'ha enamorat bojament d'ell i vol divorciar-se, perquè el soldat, vanitós, decideixi deslliurar-se de Filocomàsia. La falsa esposa és **Acrotelèucia**, una cortesana, i la seva serventa **Milfidipa** porta al soldat l'anell com a penyora d'amor.\n\nFinalment, **Plèusicles** es disfressa de **mariner borni** i va a buscar Filocomàsia per portar-la al port, suposadament perquè s'embarqui amb la seva mare. El soldat hi accedeix, la noia fuig amb el seu enamorat (i amb Palestrió) i Pirgopolinices, enxampat a casa del veí, rep una pallissa."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Primer engany: Esceledre ha vist Filocomàsia petonejant-se amb un jove; Palestrió s'inventa una germana bessona arribada amb el seu promès i allotjada a casa del veí. Hi col·laboren Filocomàsia i Periplectomen; l'enganyat és Esceledre."
+          },
+          {
+            "apartat": null,
+            "valor": "Segon engany: fer creure a Pirgopolinices que la dona de Periplectomen s'ha enamorat d'ell i vol divorciar-se, perquè alliberi Filocomàsia. Hi intervenen Acrotelèucia (que fa d'esposa) i Milfidipa (que porta l'anell)."
+          },
+          {
+            "apartat": null,
+            "valor": "Tercer engany: Plèusicles, disfressat de mariner borni, s'emporta Filocomàsia al port amb el pretext que salpi amb la seva mare; el soldat hi accedeix perquè creu que la veïna l'estima."
+          }
+        ],
+        "nota": "La resposta model té 221 paraules (el mínim demanat és d'unes 150; n'hi ha més perquè la consigna demana molts detalls). Errors típics: confondre els noms (Periplectomen és el veí; Plèusicles, el jove enamorat; Esceledre, l'esclau vigilant); oblidar l'objectiu de cada engany; atribuir els enganys a Plèusicles. Palestrió és l'**esclau astut** (*seruus callidus*), personatge tipus de la comèdia plautina, i el soldat fanfarró, el *miles gloriosus* que dona títol a l'obra."
+      }
+    }
+  ]
+}

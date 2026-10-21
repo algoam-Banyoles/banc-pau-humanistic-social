@@ -1,0 +1,783 @@
+{
+  "examen": {
+    "id": "llati-2013-S",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2013,
+    "convocatoria": "setembre",
+    "serie": "1",
+    "pdf_examen": "pdfs/llati/2013-S-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2013-S-solucio.pdf",
+    "estructura": "Sèrie 1, convocatòria de setembre. Quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un text llatí de Giovanni Boccaccio (*Dones famoses*, «Dido, reina de Cartago»: la mort de Dido i la veneració dels cartaginesos; 5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B). Opció A: 2. morfosintaxi sobre la concordança de *caesis* i l'ablatiu absolut *caerimoniis uariis seruatis* (1 punt); 3. quatre preguntes d'opció múltiple sobre la ciutat romana (2 punts, 0,50 per encert, −0,16 per error, les no contestades no descompten); 4. exposició sobre *L'art d'estimar* d'Ovidi (2 punts, mínim 15 línies, ~150 paraules). Opció B: 2. morfosintaxi sobre la funció de *cultrum* i *quem* (1 punt); 3. quatre frases catalanes per completar amb expressions llatines (2 punts, mateix barem); 4. exposició sobre la ciutat romana de Mèrida (2 punts, mínim 15 línies, ~150 paraules)."
+  },
+  "problemes": [
+    {
+      "id": "llati-2013-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció de Boccaccio: la mort de Dido i la veneració dels cartaginesos",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "boccaccio",
+        "dido",
+        "cartago",
+        "ablatiu absolut",
+        "oració de relatiu",
+        "dum temporal",
+        "perfet d'indicatiu",
+        "llatí medieval"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**La mort de Dido. La veneració dels seus conciutadans**\n\nDido in sublimiore ciuitatis parte rogum ingentem construxit et, caerimoniis uariis seruatis ac hostiis plurimis caesis, illum conscendit. Cultrum, quem sub uestibus gesserat, exseruit et in eum se praecipitauit. Reginam exsanguem cum lacrimis publicis et maerore ciues extulerunt et, dum stetit Carthago, aris templisque eam coluerunt.\n\nGiovanni Boccaccio, «Dido, reina de Cartago». A: *Dones famoses*\n\n**Lèxic** (per ordre alfabètic):\n\n- *caedo, cecidi, caesum* (3a): 'sacrificar'.\n- *colo, colui, cultum* (3a): 'venerar'.\n- *exfero, extuli, elatum* (irregular): 'emportar-se'.\n- *exsero, exserui, exsertum* (3a): 'treure'.\n- *hostia, -ae* (femení): 'víctima'.\n- *seruo* (1a): 'acomplir'.\n- *sto, steti, statum* (1a): 'perdurar, mantenir-se dret'.",
+      "enunciat": "Feu la versió del text següent (5 punts).",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text en llatí de Giovanni Boccaccio (s. XIV, *De mulieribus claris*, «Dones famoses») sobre el suïcidi de **Dido**, la reina fundadora de Cartago, i el culte que li van retre els seus ciutadans. És un llatí senzill i molt clàssic. Hi ha **tres oracions** (separades per punts). Val **5 punts**, la meitat de l'examen: dedica-hi uns 40 minuts.\n\nMètode: (1) el títol ja t'avança el contingut (mort de Dido + veneració); (2) localitza els **verbs conjugats**: *construxit*, *conscendit*, *gesserat*, *exseruit*, *praecipitauit*, *extulerunt*, *stetit*, *coluerunt* (gairebé tots en **perfet d'indicatiu**, el temps de la narració; *gesserat* és plusquamperfet); (3) identifica les estructures: dos **ablatius absoluts** coordinats (*caerimoniis uariis seruatis ac hostiis plurimis caesis*), una **oració de relatiu** (*quem ... gesserat*) i una **temporal** amb *dum* (*dum stetit Carthago*); (4) fes una traducció literal i després poleix-la.\n\nParanys: *sublimiore* és un **comparatiu** (ablatiu sg.) que es pot traduir com a superlatiu relatiu («la part més elevada»); *illum* i *eum* són pronoms que remeten a *rogum* i a *cultrum*: cal traduir-los amb un pronom («hi», «el»), no amb un nom nou; *extulerunt* és el perfet de l'irregular *exfero/effero* (mira el lèxic: *extuli*); *stetit* és el perfet de *sto* («va perdurar»), no de *sisto*; *eam* (acusatiu femení) és Dido, la reina, i no Cartago."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Dido in sublimiore ciuitatis parte rogum ingentem construxit et, caerimoniis uariis seruatis ac hostiis plurimis caesis, illum conscendit.*\n\nDues oracions coordinades per ***et***, amb el mateix subjecte.\n\n- Subjecte: ***Dido*** (nominatiu sg.).\n- Verb 1: ***construxit***: 3a sg. perfet d'indicatiu actiu de *construo, -struxi, -structum* (3a): «va construir».\n- CD: ***rogum ingentem***: acusatiu sg. de *rogus, -i* («pira, foguera funerària») + adjectiu *ingens, -entis* (2a classe): «una pira enorme».\n- ***in sublimiore ciuitatis parte***: *in* + ablatiu, CC de lloc on. *sublimiore*: ablatiu sg. del comparatiu de *sublimis, -e* («elevat»), concorda amb *parte* (ablatiu sg. de *pars, partis*); *ciuitatis*: genitiu sg. de *ciuitas*, CN de *parte*. «A la part més alta de la ciutat».\n- ***caerimoniis uariis seruatis***: **ablatiu absolut** (participi no concertat). *caerimoniis uariis* (ablatiu pl.) n'és el subjecte i *seruatis* (participi de perfet passiu de *seruo*, «acomplir») el predicat: «acomplertes diverses cerimònies».\n- ***ac hostiis plurimis caesis***: segon **ablatiu absolut**, coordinat per *ac*. *hostiis* (ablatiu pl. de *hostia*, «víctima») + *plurimis* (superlatiu de *multus*) + *caesis* (participi de perfet passiu de *caedo*, «sacrificar»): «sacrificades moltíssimes víctimes».\n- Verb 2: ***conscendit***: 3a sg. perfet d'indicatiu de *conscendo* (3a): «va pujar (a)». CD: ***illum*** (acusatiu sg. masc. del demostratiu *ille*), que remet a *rogum*: «hi va pujar»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Cultrum, quem sub uestibus gesserat, exseruit et in eum se praecipitauit.*\n\n- Verb 1: ***exseruit***: 3a sg. perfet d'indicatiu de *exsero* (3a): «va treure». Subjecte implícit: Dido.\n- CD: ***Cultrum***: acusatiu sg. de *culter, cultri* (masculí, 2a decl.): «el punyal, el ganivet».\n- Oració subordinada adjectiva (de relatiu): ***quem sub uestibus gesserat***. *quem*: pronom relatiu, acusatiu sg. masculí, antecedent *cultrum*; és el **CD de *gesserat***. *gesserat*: 3a sg. plusquamperfet d'indicatiu de *gero, gessi, gestum* (3a): «havia portat» (anterioritat respecte de *exseruit*). *sub uestibus*: *sub* + ablatiu pl. de *uestis*, CC de lloc: «sota els vestits».\n- Verb 2 (coordinat per *et*): ***praecipitauit***: 3a sg. perfet d'indicatiu de *praecipito* (1a): «va precipitar, va llançar». ***se***: pronom reflexiu, acusatiu, CD: «es va llançar». ***in eum***: *in* + acusatiu (direcció), *eum* = el punyal: «(a) sobre d'ell»."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Reginam exsanguem cum lacrimis publicis et maerore ciues extulerunt et, dum stetit Carthago, aris templisque eam coluerunt.*\n\nDues oracions coordinades per ***et***, amb el mateix subjecte.\n\n- Subjecte: ***ciues***: nominatiu pl. de *ciuis, -is*: «els ciutadans».\n- Verb 1: ***extulerunt***: 3a pl. perfet d'indicatiu de l'irregular *exfero (effero), extuli, elatum*: «es van emportar» (aquí, en processó fúnebre).\n- CD: ***Reginam exsanguem***: acusatiu sg. de *regina* + adjectiu *exsanguis, -e* (2a classe, «sense sang, morta»): «la reina morta».\n- ***cum lacrimis publicis et maerore***: *cum* + ablatiu, CC de manera: «amb llàgrimes públiques (plors de tot el poble) i tristesa». *maerore*: ablatiu sg. de *maeror, -oris*.\n- Oració subordinada adverbial temporal: ***dum stetit Carthago***: *dum* + perfet d'indicatiu = «mentre, tot el temps que». *stetit*: 3a sg. perfet de *sto, steti* («perdurar, mantenir-se dreta»); subjecte *Carthago*.\n- Verb 2: ***coluerunt***: 3a pl. perfet d'indicatiu de *colo, colui, cultum* (3a): «van venerar». CD: ***eam*** (acusatiu sg. femení d'*is, ea, id*), que remet a la reina.\n- ***aris templisque***: ablatius pl. de *ara, -ae* i *templum, -i*, coordinats per l'enclític *-que*: CC d'instrument/mitjà: «amb altars i temples»."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "Dido a la més elevada de la ciutat part una pira enorme va construir i, acomplertes diverses cerimònies i sacrificades moltíssimes víctimes, a ella va pujar. El punyal, que sota els vestits havia portat, va treure i sobre ell es va llançar. La reina sense sang amb llàgrimes públiques i tristesa els ciutadans es van emportar i, mentre es va mantenir dreta Cartago, amb altars i temples la van venerar."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Dido va construir una pira enorme a la part més elevada de la ciutat i, un cop acomplertes diverses cerimònies i sacrificades moltíssimes víctimes, hi va pujar. Va treure el punyal que havia amagat sota els vestits i s'hi va llançar al damunt. Els ciutadans es van emportar la reina morta enmig del plor de tot el poble i d'una gran tristesa i, mentre Cartago es va mantenir dempeus, la van venerar amb altars i temples."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (orientativa): «Dido va construir una pira ingent a la part més elevada de la ciutat i, una vegada acomplerts els diferents ritus i sacrificada una gran quantitat de víctimes, hi va pujar. Va treure el punyal que havia dut sota els vestits i s'hi va precipitar al damunt. Els ciutadans van emportar-se la reina morta amb planys públics i una gran tristesa i, mentre Cartago va romandre dempeus, la varen venerar amb altars i temples.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Claus: *sublimiore* comparatiu amb valor de superlatiu relatiu; dos ablatius absoluts coordinats (*caerimoniis ... seruatis*, *hostiis ... caesis*); *illum* = la pira i *eum* = el punyal; relatiu *quem* (CD de *gesserat*, plusquamperfet); *se* CD reflexiu; *ciues* subjecte i *reginam exsanguem* CD de *extulerunt*; temporal *dum stetit Carthago*; *aris templisque* ablatius instrumentals; *eam* = la reina."
+          }
+        ],
+        "nota": "Errors típics: traduir *sublimiore* com a «més sublim» sense sentit locatiu; no reconèixer els ablatius absoluts i fer *caerimoniis* o *hostiis* complements de *construxit*; prendre *illum* com a subjecte («aquell va pujar»); fer *cultrum* subjecte o confondre'l amb *cultum* (supí de *colo*); fer *reginam* subjecte de *extulerunt* (el subjecte és *ciues*, nominatiu plural); traduir *stetit* com «va estar» i perdre el sentit de «perdurar»; atribuir *eam* a Cartago. Context: segons la llegenda (Justí, i l'*Eneida* de Virgili en una versió diferent), Dido o Elissa, fugida de Tir, fundà Cartago; Boccaccio segueix la versió «històrica» en què es suïcida per no casar-se amb el rei Iarbas, i no per amor a Eneas. La versió oficial diu «ingent» i «ritus»: qualsevol traducció fidel i ben redactada és vàlida."
+      }
+    },
+    {
+      "id": "llati-2013-S-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: concordança de caesis i l'ablatiu absolut caerimoniis uariis seruatis",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "ablatiu absolut",
+        "participi de perfet",
+        "concordança",
+        "participi no concertat",
+        "boccaccio"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "**La mort de Dido. La veneració dels seus conciutadans**\n\nDido in sublimiore ciuitatis parte rogum ingentem construxit et, caerimoniis uariis seruatis ac hostiis plurimis caesis, illum conscendit. Cultrum, quem sub uestibus gesserat, exseruit et in eum se praecipitauit. Reginam exsanguem cum lacrimis publicis et maerore ciues extulerunt et, dum stetit Carthago, aris templisque eam coluerunt.\n\nGiovanni Boccaccio, «Dido, reina de Cartago». A: *Dones famoses*\n\n**Lèxic** (per ordre alfabètic):\n\n- *caedo, cecidi, caesum* (3a): 'sacrificar'.\n- *colo, colui, cultum* (3a): 'venerar'.\n- *exfero, extuli, elatum* (irregular): 'emportar-se'.\n- *exsero, exserui, exsertum* (3a): 'treure'.\n- *hostia, -ae* (femení): 'víctima'.\n- *seruo* (1a): 'acomplir'.\n- *sto, steti, statum* (1a): 'perdurar, mantenir-se dret'.",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «[Dido], caerimoniis uariis seruatis ac hostiis plurimis caesis, illum conscendit», digueu amb quina paraula concorda *caesis* i amb quin nom es coneix l'estructura *caerimoniis uariis seruatis*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues preguntes curtes (0,5 punts cadascuna, uns 5 minuts): (1) amb quin mot concorda *caesis*; (2) com s'anomena l'estructura *caerimoniis uariis seruatis*. N'hi ha prou amb una resposta precisa i justificada en una o dues línies."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *caesis* és un participi de perfet passiu de *caedo* («sacrificar») en ablatiu plural. Ha de concordar en cas, gènere i nombre amb un nom en ablatiu plural femení del seu entorn: *hostiis* (ablatiu pl. de *hostia, -ae*, femení). *plurimis* també concorda amb *hostiis*, però és un adjectiu, no el nom.\n\n2. *caerimoniis uariis seruatis* té un nom en ablatiu (*caerimoniis*) i un participi en ablatiu que hi concorda (*seruatis*), sense cap relació sintàctica amb la resta de l'oració principal (el subjecte és Dido i el CD *illum*). És, doncs, un **ablatiu absolut** o **participi no concertat**, amb valor temporal: «un cop acomplertes diverses cerimònies»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Caesis* (participi de perfet passiu de *caedo*, ablatiu plural femení) concorda amb ***hostiis*** (ablatiu plural de *hostia*), amb el qual forma l'estructura *hostiis plurimis caesis*.\n\nL'estructura *caerimoniis uariis seruatis* és un **ablatiu absolut** (o **participi no concertat**): el nom *caerimoniis* (en fa de subjecte) i el participi *seruatis* (en fa de predicat) van en ablatiu i no depenen de cap element de l'oració principal. Té valor temporal: «un cop acomplertes diverses cerimònies»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Caesis* concorda amb *hostiis*."
+          },
+          {
+            "apartat": null,
+            "valor": "L'estructura és un participi no concertat o ablatiu absolut."
+          }
+        ],
+        "nota": "Errors típics: dir que *caesis* concorda amb *plurimis* (és un adjectiu que també concorda amb *hostiis*) o amb *caerimoniis* (és una altra estructura); anomenar l'ablatiu absolut «participi concertat» (el concertat concorda amb un element de l'oració principal). Les pautes accepten els dos noms: «ablatiu absolut» i «participi no concertat»."
+      }
+    },
+    {
+      "id": "llati-2013-S-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Traçat hipodàmic de les ciutats romanes",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "urbanisme",
+        "traçat hipodàmic",
+        "hipòdam de milet",
+        "ciutat romana"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Indiqueu l'opció que correspon a cadascuna de les definicions següents.\n\n1. Quadrícula geomètrica, quadrada o rectangular, similar a un tauler d'escacs, que definia el traçat de les ciutats romanes de nova fundació.",
+      "figures": [],
+      "opcions": {
+        "a": "Traçat hipòstil.",
+        "b": "Traçat hipodàmic.",
+        "c": "Traçat hipostàtic.",
+        "d": "Traçat castrametal."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre definicions sobre la **ciutat romana** (urbanisme i religió). Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no descompten. Llegeix la definició, descarta les opcions que pertanyen al món grec o a la casa romana, i si pots eliminar-ne dues, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "El **traçat hipodàmic** (o ortogonal) deu el nom a l'arquitecte grec **Hipòdam de Milet** (s. V aC), que va planificar ciutats amb carrers rectes que es tallen en angle recte. Roma el va adoptar a les ciutats de nova fundació (colònies), sovint a partir de la planta del campament militar. *Hipòstil* designa una sala amb el sostre sostingut per columnes; *hipostàtic* és un terme teològic/filosòfic; *castrametal* (relatiu al campament) és un distractor que s'hi assembla, però no és el nom tècnic del traçat."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Traçat hipodàmic."
+          }
+        ],
+        "nota": "Vocabulari bàsic de la ciutat romana: *cardo* (N-S) i *decumanus* (E-O), fòrum, basílica, cúria, Capitoli (Júpiter, Juno i Minerva), termes, teatre, amfiteatre, circ, aqüeducte, clavegueram (*cloaca*), muralla i necròpolis fora muralles."
+      }
+    },
+    {
+      "id": "llati-2013-S-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "El fòrum, centre de la ciutat romana",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "urbanisme",
+        "fòrum",
+        "ciutat romana",
+        "àgora"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Indiqueu l'opció que correspon a cadascuna de les definicions següents.\n\n2. Lloc que era el centre de la vida política, religiosa i social d'una ciutat romana.",
+      "figures": [],
+      "opcions": {
+        "a": "Àgora.",
+        "b": "Peristil.",
+        "c": "Atri.",
+        "d": "Fòrum."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre definicions sobre la **ciutat romana** (urbanisme i religió). Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no descompten. Llegeix la definició, descarta les opcions que pertanyen al món grec o a la casa romana, i si pots eliminar-ne dues, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "El **fòrum** era la gran plaça pública de la ciutat romana, situada normalment a la cruïlla del *cardo maximus* i el *decumanus maximus*. Hi havia el temple principal, la basílica (judicis i negocis), la cúria (seu del senat local) i botigues. L'**àgora** n'és l'equivalent **grec**, no romà; el **peristil** i l'**atri** són parts de la casa romana (*domus*)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) Fòrum."
+          }
+        ],
+        "nota": "Vocabulari bàsic de la ciutat romana: *cardo* (N-S) i *decumanus* (E-O), fòrum, basílica, cúria, Capitoli (Júpiter, Juno i Minerva), termes, teatre, amfiteatre, circ, aqüeducte, clavegueram (*cloaca*), muralla i necròpolis fora muralles."
+      }
+    },
+    {
+      "id": "llati-2013-S-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Decumani: els carrers est-oest",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "urbanisme",
+        "decumanus",
+        "cardo",
+        "ciutat romana"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Indiqueu l'opció que correspon a cadascuna de les definicions següents.\n\n3. Carrers que travessaven les ciutats romanes en direcció est-oest.",
+      "figures": [],
+      "opcions": {
+        "a": "*Decumani*.",
+        "b": "*Viae*.",
+        "c": "*Cardines*.",
+        "d": "*Calles*."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre definicions sobre la **ciutat romana** (urbanisme i religió). Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no descompten. Llegeix la definició, descarta les opcions que pertanyen al món grec o a la casa romana, i si pots eliminar-ne dues, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Els carrers **est-oest** eren els ***decumani*** (el principal, el *decumanus maximus*), i els **nord-sud** eren els ***cardines*** (el principal, el *cardo maximus*). És fàcil confondre'ls: la resposta *c* és el distractor més perillós. *Viae* són vies o camins en general (com la *Via Augusta*) i *calles* (de *callis*) són senders."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) *Decumani*."
+          }
+        ],
+        "nota": "Vocabulari bàsic de la ciutat romana: *cardo* (N-S) i *decumanus* (E-O), fòrum, basílica, cúria, Capitoli (Júpiter, Juno i Minerva), termes, teatre, amfiteatre, circ, aqüeducte, clavegueram (*cloaca*), muralla i necròpolis fora muralles."
+      }
+    },
+    {
+      "id": "llati-2013-S-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "La tríada capitolina, titular del temple del fòrum",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "religió romana",
+        "tríada capitolina",
+        "capitoli",
+        "júpiter",
+        "fòrum"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Indiqueu l'opció que correspon a cadascuna de les definicions següents.\n\n4. Divinitats a qui estava dedicat habitualment el temple més important de la ciutat romana, situat en el fòrum.",
+      "figures": [],
+      "opcions": {
+        "a": "Apol·lo i Venus.",
+        "b": "Júpiter, Juno i Minerva.",
+        "c": "Júpiter i Esculapi.",
+        "d": "Juno, Venus i Diana."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts en total): quatre definicions sobre la **ciutat romana** (urbanisme i religió). Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no descompten. Llegeix la definició, descarta les opcions que pertanyen al món grec o a la casa romana, i si pots eliminar-ne dues, val la pena arriscar-se."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "El temple principal del fòrum era el **Capitoli**, dedicat a la **tríada capitolina**: **Júpiter** (*Optimus Maximus*), **Juno** i **Minerva**, com el gran temple del turó del Capitoli de Roma. Moltes colònies en reproduïen el model. Les altres opcions combinen déus importants (Apol·lo, Venus, Esculapi, Diana) que tenien temples propis, però no eren la tríada oficial."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) Júpiter, Juno i Minerva."
+          }
+        ],
+        "nota": "Vocabulari bàsic de la ciutat romana: *cardo* (N-S) i *decumanus* (E-O), fòrum, basílica, cúria, Capitoli (Júpiter, Juno i Minerva), termes, teatre, amfiteatre, circ, aqüeducte, clavegueram (*cloaca*), muralla i necròpolis fora muralles."
+      }
+    },
+    {
+      "id": "llati-2013-S-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "L'art d'estimar d'Ovidi: objectiu, els tres llibres, episodis mitològics i gènere elegíac-didàctic",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "ovidi",
+        "art d'estimar",
+        "ars amatoria",
+        "elegia",
+        "poesia didàctica",
+        "dístic elegíac",
+        "dèdal i ícar"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (exposició d'un tema de literatura o de civilització romanes, 2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *L'art d'estimar*, d'Ovidi. Expliqueu l'objectiu i l'estructura de l'obra; enumereu els llibres de què consta i l'argument de cadascun; esmenteu-ne algun episodi de caire mitològic al·ludit per l'autor; identifiqueu el gènere literari de l'obra i expliqueu-ne les característiques generals, i enumereu altres obres d'Ovidi que pertanyin al mateix gènere.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts, uns 20-25 minuts. Mínim **15 línies (~150 paraules)**. La consigna té **cinc demandes** i cal respondre-les totes, en ordre: (1) objectiu i estructura; (2) els tres llibres i l'argument de cadascun; (3) algun episodi mitològic; (4) gènere literari i característiques; (5) altres obres d'Ovidi del mateix gènere. Fes un paràgraf per demanda: així el corrector veu de seguida que no te n'has deixat cap."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Presentació i objectiu**: poema d'Ovidi (època d'August) per ensenyar l'art de seduir i de conservar l'amor.\n2. **Estructura**: tres llibres segons el destinatari: I (homes: com conquerir), II (homes: com conservar l'amor), III (dones: com seduir i mantenir l'amor).\n3. **Episodi mitològic**: n'hi ha prou amb un de ben explicat (Dèdal i Ícar, al llibre II, és el més conegut; també Pasífae, Ulisses i Calipso, Ariadna...).\n4. **Gènere**: entre l'**elegia** (forma: dístics elegíacs; tema: l'amor) i la **poesia didàctica** (el poeta fa de mestre que ensenya una matèria; to paròdic).\n5. **Altres obres**: elegíaques (*Amors*, *Heroides*, *Tristes*, *Pòntiques*) i didàctiques (*Remeis a l'amor*, *Cosmètics per a la cara*, *Fastos*)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "L'***Ars amatoria*** (*L'art d'estimar*) és un poema d'**Ovidi** (43 aC-17 dC), escrit cap a l'1 aC, que pretén ensenyar l'art de la seducció: com conquerir la persona estimada i com conservar-ne l'amor.\n\nL'obra consta de **tres llibres**. El **primer**, adreçat als homes, explica on es poden trobar noies (el teatre, el circ, els banquets) i com conquerir-les. El **segon**, també per als homes, ensenya a conservar l'amor de la noia ja seduïda. El **tercer** s'adreça a les dones i els explica les tècniques de seducció femenines i com mantenir l'amor dels homes.\n\nOvidi il·lustra els consells amb **episodis mitològics**: al llibre II narra la fugida de **Dèdal i Ícar** amb ales de cera, i també al·ludeix als amors de Pasífae i el toro o a Ulisses i Calipso.\n\nPel **gènere**, és una obra a cavall entre l'**elegia** i la **poesia didàctica**: és elegíaca per la forma (escrita en **dístics elegíacs**) i pel tema, l'amor; i és didàctica perquè el poeta es presenta com a mestre (*praeceptor amoris*) que instrueix el lector en una matèria, amb to paròdic i irònic.\n\nAltres obres elegíaques d'Ovidi són els *Amors*, les *Heroides*, les *Tristes* i les *Pòntiques*; i, del vessant didàctic, els *Remeis a l'amor*, els *Cosmètics per a la cara* i els *Fastos*."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Objectiu: introduir lectors i lectores en les tècniques de la seducció mútua (l'art d'enamorar)."
+          },
+          {
+            "apartat": null,
+            "valor": "Tres llibres: I, als homes, com seduir les dones; II, als homes, com conservar l'amor de la noia seduïda; III, a les noies, tècniques de seducció femenina i com mantenir l'amor dels homes."
+          },
+          {
+            "apartat": null,
+            "valor": "Gènere a cavall entre l'elegia (dístics elegíacs, tema amorós) i la poesia didàctica (l'autor vol ensinistrar el lector en una matèria)."
+          },
+          {
+            "apartat": null,
+            "valor": "Altres obres: elegíaques (*Heroides*, *Tristes*, *Pòntiques*) i de to didàctic (*Remeis a l'amor*, *Cosmètics per a la cara*, *Fastos*, *Metamorfosis*)."
+          },
+          {
+            "apartat": null,
+            "valor": "Algun episodi mitològic: Dèdal i Ícar, els amors de Pasífae i el toro, Ulisses i Calipso, etc."
+          }
+        ],
+        "nota": "La resposta model té 210 paraules (el mínim demanat és d'unes 150; n'hi ha més perquè la consigna té cinc demandes). Errors típics: oblidar l'episodi mitològic o la llista d'obres; dir que és una epopeia (és en dístics, no en hexàmetres); confondre-la amb les *Metamorfosis*. Observació sobre les pautes: la pauta oficial inclou les *Metamorfosis* entre els poemes «amb un marcat to didàctic», però normalment es classifiquen com a **poema èpic-mitològic** en hexàmetres; i no esmenta els *Amors*, que són l'obra elegíaca amorosa més clara d'Ovidi (convé citar-los). Recorda que l'*Ars amatoria* va ser un dels motius (el *carmen*) de l'exili d'Ovidi a Tomis l'any 8 dC."
+      }
+    },
+    {
+      "id": "llati-2013-S-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: funció de cultrum (CD de exseruit) i del relatiu quem (CD de gesserat)",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "complement directe",
+        "pronom relatiu",
+        "oració de relatiu",
+        "acusatiu",
+        "boccaccio"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "**La mort de Dido. La veneració dels seus conciutadans**\n\nDido in sublimiore ciuitatis parte rogum ingentem construxit et, caerimoniis uariis seruatis ac hostiis plurimis caesis, illum conscendit. Cultrum, quem sub uestibus gesserat, exseruit et in eum se praecipitauit. Reginam exsanguem cum lacrimis publicis et maerore ciues extulerunt et, dum stetit Carthago, aris templisque eam coluerunt.\n\nGiovanni Boccaccio, «Dido, reina de Cartago». A: *Dones famoses*\n\n**Lèxic** (per ordre alfabètic):\n\n- *caedo, cecidi, caesum* (3a): 'sacrificar'.\n- *colo, colui, cultum* (3a): 'venerar'.\n- *exfero, extuli, elatum* (irregular): 'emportar-se'.\n- *exsero, exserui, exsertum* (3a): 'treure'.\n- *hostia, -ae* (femení): 'víctima'.\n- *seruo* (1a): 'acomplir'.\n- *sto, steti, statum* (1a): 'perdurar, mantenir-se dret'.",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «Cultrum, quem sub uestibus gesserat, exseruit et in eum se praecipitauit», digueu la funció sintàctica de *cultrum* i la de *quem*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues funcions sintàctiques (0,5 punts cadascuna, uns 5 minuts). Cal dir la funció **i de quin verb depèn** cada mot: no n'hi ha prou amb «complement directe»; especifica'n el verb."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *Cultrum* és acusatiu singular de *culter, cultri* (masculí, 2a declinació, «punyal»). Està fora de la subordinada (que comença a *quem* i acaba a *gesserat*), de manera que depèn del verb principal *exseruit* («va treure»): és el **CD de *exseruit***.\n\n2. *Quem* és el pronom relatiu en acusatiu singular masculí (concorda en gènere i nombre amb l'antecedent *cultrum*; el cas el decideix la seva funció dins la relativa). Dins l'oració de relatiu el verb és *gesserat* («havia portat») i el subjecte és Dido (implícit): *quem* n'és el **CD**."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "***Cultrum*** (acusatiu singular de *culter, cultri*) és el **complement directe de *exseruit***: «va treure el punyal».\n\n***Quem*** (pronom relatiu, acusatiu singular masculí, amb antecedent *cultrum*) introdueix una oració subordinada adjectiva de relatiu i hi fa de **complement directe de *gesserat***: «que (el punyal) havia portat sota els vestits»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Cultrum* és objecte directe de *exseruit*."
+          },
+          {
+            "apartat": null,
+            "valor": "*Quem* és objecte directe de *gesserat*."
+          }
+        ],
+        "nota": "Errors típics: dir que *cultrum* és subjecte (és acusatiu, i el subjecte és Dido); dir que *quem* «concorda amb *cultrum*» sense donar-ne la funció, o fer-lo CD de *exseruit*. Recorda la regla del relatiu: concorda amb l'antecedent en **gènere i nombre**, però el **cas** depèn de la funció dins la seva pròpia oració."
+      }
+    },
+    {
+      "id": "llati-2013-S-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Quid pro quo: un intercanvi recíproc",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "quid pro quo",
+        "casus belli"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cada espai en blanc per tal que la frase tingui sentit.\n\n1. El president va titllar l'intercanvi de _________________ raonable i lògic entre administracions que actuen amb lleialtat institucional.",
+      "figures": [],
+      "opcions": {
+        "a": "*delirium tremens*",
+        "b": "*quid pro quo*",
+        "c": "*casus belli*",
+        "d": "*placebo*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): quatre frases catalanes amb un buit que s'ha d'omplir amb una **expressió llatina** d'ús actual. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada opció i prova-la a la frase: només una en manté el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Quid pro quo*** significa literalment «una cosa per una altra»: un intercanvi de favors o una compensació recíproca, que és exactament el que descriu la frase («intercanvi ... entre administracions»). En català també pot voler dir «malentès». *Delirium tremens* és el deliri dels alcohòlics; *casus belli*, «motiu de guerra»; *placebo* («agradaré»), una substància sense efecte terapèutic."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "b) quid pro quo"
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal i el sentit actual (*quid pro quo*, *opera prima*, *alter ego*, *rara auis*, *ex-libris*, *in albis*, *sub iudice*, *in articulo mortis*, *casus belli*, *motu proprio*, *ipso facto*, *a priori*...). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2013-S-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Opera prima: la primera obra d'un autor",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "opera prima",
+        "alter ego"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cada espai en blanc per tal que la frase tingui sentit.\n\n2. El documental *Conxita Badia no existeix*, ______________ d'Eulàlia Domènech, recupera una de les grans figures oblidades de la música catalana del segle XX.",
+      "figures": [],
+      "opcions": {
+        "a": "*opera prima*",
+        "b": "*alter ego*",
+        "c": "*prima donna*",
+        "d": "*rara auis*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): quatre frases catalanes amb un buit que s'ha d'omplir amb una **expressió llatina** d'ús actual. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada opció i prova-la a la frase: només una en manté el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***Opera prima*** és la «primera obra» d'un autor o d'una autora (aquí, el primer documental de la directora). *Alter ego* és «un altre jo», algú que és com un mateix o el doble d'un personatge; *prima donna* (expressió italiana, no llatina) és la cantant principal d'una òpera, i aquí podria temptar perquè Conxita Badia era cantant, però la frase parla de l'obra d'Eulàlia Domènech; *rara auis* és una persona o cosa excepcional."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) opera prima"
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal i el sentit actual (*quid pro quo*, *opera prima*, *alter ego*, *rara auis*, *ex-libris*, *in albis*, *sub iudice*, *in articulo mortis*, *casus belli*, *motu proprio*, *ipso facto*, *a priori*...). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2013-S-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ex-libris: la marca de propietat d'un llibre",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "ex-libris",
+        "accèssit"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cada espai en blanc per tal que la frase tingui sentit.\n\n3. En catalogar els volums que va comprar als Encants, n'ha trobat uns quants amb _____________ del seu besavi.",
+      "figures": [],
+      "opcions": {
+        "a": "el *rictus*",
+        "b": "el *memorandum*",
+        "c": "l'*accessit*",
+        "d": "l'*ex-libris*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): quatre frases catalanes amb un buit que s'ha d'omplir amb una **expressió llatina** d'ús actual. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada opció i prova-la a la frase: només una en manté el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Un ***ex-libris*** («dels llibres de...») és l'etiqueta, el segell o la inscripció que indica a qui pertany un llibre. Encaixa amb «volums» i «del seu besavi». El *rictus* és una contracció dels llavis (un gest); el *memorandum* («que s'ha de recordar»), una nota o informe; l'*accèssit* («s'ha acostat»), el guardó inferior al premi en un concurs."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "d) l'ex-libris"
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal i el sentit actual (*quid pro quo*, *opera prima*, *alter ego*, *rara auis*, *ex-libris*, *in albis*, *sub iudice*, *in articulo mortis*, *casus belli*, *motu proprio*, *ipso facto*, *a priori*...). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2013-S-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "In albis: quedar-se en blanc",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "expressions llatines",
+        "llatinismes",
+        "in albis",
+        "sub iudice"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts: cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció que correspon a cada espai en blanc per tal que la frase tingui sentit.\n\n4. Sempre que el professor li preguntava alguna cosa davant els altres alumnes, quedava _______________.",
+      "figures": [],
+      "opcions": {
+        "a": "*in albis*",
+        "b": "*in articulo mortis*",
+        "c": "*sub iudice*",
+        "d": "*in mente*"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts en total): quatre frases catalanes amb un buit que s'ha d'omplir amb una **expressió llatina** d'ús actual. Cada encert val 0,50 punts, cada error descompta 0,16 i les no contestades no descompten. Tradueix literalment cada opció i prova-la a la frase: només una en manté el sentit."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "***In albis*** («en blanc») vol dir no saber què dir o no entendre res: «quedar-se en blanc». *In articulo mortis* és «a punt de morir»; *sub iudice*, «pendent de resolució judicial»; *in mente*, «en la ment»: no tenen sentit amb el verb *quedar* en aquest context."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "a) in albis"
+          }
+        ],
+        "nota": "Convé tenir una llista de llatinismes freqüents amb la traducció literal i el sentit actual (*quid pro quo*, *opera prima*, *alter ego*, *rara auis*, *ex-libris*, *in albis*, *sub iudice*, *in articulo mortis*, *casus belli*, *motu proprio*, *ipso facto*, *a priori*...). Amb la penalització de −0,16, si pots descartar dues opcions, val la pena arriscar-se."
+      }
+    },
+    {
+      "id": "llati-2013-S-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "La ciutat romana de Mèrida (Emerita Augusta): fundació, estatus, urbanisme i monuments conservats",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "mèrida",
+        "emerita augusta",
+        "august",
+        "lusitània",
+        "colònia",
+        "urbanisme",
+        "hispània romana"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (exposició d'un tema de literatura o de civilització romanes, 2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *La ciutat romana de Mèrida*. Expliqueu la cronologia i el motiu de la fundació romana d'aquesta ciutat; digueu-ne el nom del fundador i el títol complet que li va atorgar, la província de la qual fou capital i el seu estatus jurídic; expliqueu l'extensió i l'estructura de la ciutat; enumereu-ne els espais i edificis religiosos, politicoadministratius i d'oci més importants, i digueu quines restes romanes es conserven dins i fora del recinte emmurallat o prop de la ciutat.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts, uns 20-25 minuts. Mínim **15 línies (~150 paraules)**. La consigna és molt detallada i el corrector hi buscarà dades concretes: (1) data i motiu de la fundació; (2) fundador i nom complet; (3) província i estatus jurídic; (4) extensió i estructura urbana; (5) edificis religiosos, politicoadministratius i d'oci; (6) restes conservades dins i fora de la muralla. Segueix aquest ordre, un paràgraf per bloc."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Fundació**: 25 aC, per August, per assentar veterans (*emeriti*) de les guerres càntabres i controlar el pas del Guadiana i les comunicacions sud-nord.\n2. **Nom i estatus**: *Colonia Augusta Emerita*; capital de la **Lusitània**; **colònia** romana (fundació militar i propagandística).\n3. **Urbanisme**: unes 80 ha; muralla amb torres i quatre portes als extrems del *cardo* i el *decumanus maximus*; quadrícula ortogonal amb clavegueram.\n4. **Edificis**: dos fòrums (municipal i provincial), temple del culte imperial («temple de Diana»); teatre i amfiteatre (intramurs, aprofitant el pendent) i circ (extramurs); tres aqüeductes.\n5. **Restes**: dins: teatre, amfiteatre, temple, «arc de Trajà», cases, muralla; fora: circ, aqüeductes, necròpolis, pont sobre el Guadiana."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "**Mèrida** va ser fundada l'any **25 aC** per ordre de l'emperador **August**, després de les guerres càntabres. El motiu era doble: assentar-hi els **soldats veterans** llicenciats de les legions i controlar un punt clau de comunicacions, el pas del riu Guadiana per la via que unia el sud de la península amb el nord-oest.\n\nAugust li va donar el títol de ***Colonia Augusta Emerita*** (*emeriti* eren els veterans). Fou la **capital de la província de Lusitània** i tenia l'estatus jurídic de **colònia** de ciutadans romans.\n\nLa ciutat ocupava unes **80 hectàrees** dins d'una **muralla** amb torres i quatre portes als extrems del *cardo maximus* i del *decumanus maximus*. Els carrers formaven una **quadrícula ortogonal**, amb clavegueram a sota.\n\nTenia **dos fòrums**, el municipal i el provincial; al fòrum municipal hi havia el **temple del culte imperial** (l'anomenat «temple de Diana»). Per al lleure hi havia el **teatre** i l'**amfiteatre**, dins muralles, i el **circ**, fora. L'aigua arribava per **tres aqüeductes**.\n\nDins el recinte emmurallat es conserven el teatre, l'amfiteatre, el temple de Diana, l'«arc de Trajà», cases senyorials i trams de muralla; fora, el circ, els aqüeductes (com el dels Miracles), les necròpolis i el **pont sobre el Guadiana**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Fundada per August el 25 aC com a punt neuràlgic de comunicacions (via del sud cap al nord i el nord-oest, accés al Guadalquivir i la Mediterrània)."
+          },
+          {
+            "apartat": null,
+            "valor": "Nom: *Colonia Augusta Emerita*; capital de la Lusitània; estatus de colònia, amb component militar (veterans) i propagandístic."
+          },
+          {
+            "apartat": null,
+            "valor": "Unes 80 ha, muralla amb torres i quatre portes als extrems del *cardo maximus* i del *decumanus maximus*; quadrícula ortogonal amb clavegueram; tres aqüeductes; dos fòrums (provincial i municipal)."
+          },
+          {
+            "apartat": null,
+            "valor": "Temple del culte imperial («temple de Diana»); teatre i amfiteatre intramurs (aprofitant els talussos) i circ fora muralles."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes dins la muralla: teatre, amfiteatre, temple, cases senyorials, «arc de Trajà», muralles; fora: circ, tres aqüeductes, necròpolis i pont sobre el Guadiana."
+          }
+        ],
+        "nota": "La resposta model té 200 paraules (el mínim demanat és d'unes 150; n'hi ha més perquè la consigna demana moltes dades). Errors típics: atribuir la fundació a Juli Cèsar o a Trajà (l'«arc de Trajà» és un nom popular, no la data de fundació); dir que el «temple de Diana» era dedicat a Diana (era del culte imperial); situar el circ dins muralles; confondre la Lusitània amb la Bètica o la Tarraconense. Dades complementàries que sumen: el teatre el va fer construir Agripa (16-15 aC); l'aqüeducte dels Miracles i els embassaments de Proserpina i Cornalvo."
+      }
+    }
+  ]
+}

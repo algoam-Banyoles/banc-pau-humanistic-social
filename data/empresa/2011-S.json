@@ -1,0 +1,906 @@
+{
+  "examen": {
+    "id": "empresa-2011-S",
+    "assignatura": "empresa",
+    "materia": "Economia de l’empresa",
+    "any": 2011,
+    "convocatoria": "setembre",
+    "serie": "2",
+    "pdf_examen": "pdfs/empresa/2011-S-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2011-S-solucio.pdf",
+    "estructura": "Sèrie 2 de la convocatòria de setembre de 2011 (curs 2010-2011). L’exercici 1 és obligatori (4 punts): selecció d’inversions amb VAN i TIR dels projectes Heràclit i Parmènides, i segmentació de mercat. Després cal triar UNA de les dues opcions (A o B) i respondre’n els exercicis 2, 3, 4 i 5 (6 punts). **Opció A**: exercici 2, dues preguntes de test sobre formes jurídiques (0,5 punts per encert; cada error descompta un 33 % de la puntuació de la pregunta; les no contestades no resten); exercici 3, balanç de situació amb el resultat com a incògnita, fons de maniobra, ràtio de tresoreria i rendibilitat financera (3 punts); exercici 4, cinc afirmacions de vertader o fals raonades sobre estratègia i creixement (1 punt); exercici 5, pla d’empresa i esperit emprenedor (1 punt). **Opció B**: exercici 2, anàlisi DAFO (1 punt); exercici 3, compte de pèrdues i guanys, rendibilitat econòmica i financera (3 punts); exercici 4, quatre afirmacions de vertader o fals sobre formes jurídiques i pla d’empresa (1 punt); exercici 5, PIME i deslocalització (1 punt). Tots els càlculs s’han verificat amb Python."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2011-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "2",
+      "tipus": "problema",
+      "punts": 4,
+      "titol": "Projectes Heràclit i Parmènides: VAN al 7 %, TIR d’un flux únic i segmentació de mercat",
+      "tema": "financament",
+      "temes_secundaris": [
+        "marqueting"
+      ],
+      "conceptes": [
+        "van",
+        "tir",
+        "flux de caixa net",
+        "cost del capital",
+        "selecció d’inversions",
+        "segmentació de mercat",
+        "estratègia d’enfocament"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        1
+      ],
+      "text": "Un empresari ha de triar entre dos projectes d’inversió, Heràclit i Parmènides, que requereixen un mateix desemborsament inicial de 60.000 unitats monetàries, amb un cost del capital del 7 %. Els cobraments i els pagaments estimats per als pròxims quatre anys per als dos projectes són els que es recullen en les taules següents:\n\n| *Projecte Heràclit* | Any 1 | Any 2 | Any 3 | Any 4 |\n|---|---:|---:|---:|---:|\n| Cobraments | 90.000 | 100.000 | 110.000 | 120.000 |\n| Pagaments | 65.000 | 70.000 | 75.000 | 80.000 |\n\n| *Projecte Parmènides* | Any 1 | Any 2 | Any 3 | Any 4 |\n|---|---:|---:|---:|---:|\n| Cobraments | 60.000 | 80.000 | 90.000 | 100.000 |\n| Pagaments | 60.000 | 65.000 | 70.000 | 75.000 |",
+      "enunciat": "Exercici obligatori. A partir de les dades anteriors, responeu els apartats següents.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Determineu quin projecte d’inversió és més recomanable segons un criteri que tingui en compte l’equivalència financera. Justifiqueu la resposta.",
+          "punts": 1
+        },
+        {
+          "id": "b",
+          "enunciat": "En cas que el projecte triat en l’apartat anterior esdevingués inviable tècnicament, recomanaríeu substituir-lo per l’altra opció? Justifiqueu la resposta.",
+          "punts": 1
+        },
+        {
+          "id": "c",
+          "enunciat": "Plantegeu el càlcul de la taxa interna de rendibilitat (TIR) d’un tercer projecte d’inversió amb el mateix desemborsament inicial que els anteriors i amb un únic flux de caixa net de 90.000 unitats monetàries al final del quart any. En quin cas recomanaríeu aquesta tercera opció?",
+          "punts": 1
+        },
+        {
+          "id": "d",
+          "enunciat": "Els projectes d’inversió que es planteja l’empresari d’aquest exercici són conseqüència de voler aplicar una estratègia d’enfocament. En aquest context, definiu el concepte de *segmentació de mercat* i comenteu, com a mínim, cinc variables o criteris que s’utilitzen habitualment per a segmentar el mercat.",
+          "punts": 1
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici obligatori de **selecció d’inversions** (4 punts: 3 de càlcul i 1 de teoria de màrqueting). El primer pas sempre és convertir cobraments i pagaments en **fluxos de caixa nets** (FCN = cobraments − pagaments) per a cada any. Després:\n\n- «Criteri que tingui en compte l’equivalència financera» vol dir un **mètode dinàmic**: el **VAN** (o la TIR). El termini de recuperació (payback) simple **no** serveix, perquè no actualitza els fluxos.\n- Escriu sempre la fórmula, la substitució i el resultat amb unitats, i **justifica** la decisió.\n\nTemps orientatiu: 25-30 minuts. Error típic: oblidar que a Parmènides l’any 1 el flux és 0 (cobraments = pagaments)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Fluxos nets: Heràclit 25.000, 30.000, 35.000 i 40.000; Parmènides 0, 15.000, 20.000 i 25.000.\n2. Fórmula del VAN: $VAN = -A + \\dfrac{Q_1}{(1+k)} + \\dfrac{Q_2}{(1+k)^2} + \\dfrac{Q_3}{(1+k)^3} + \\dfrac{Q_4}{(1+k)^4}$ amb $k = 0{,}07$.\n3. Calcula els dos VAN i tria el més alt (sempre que sigui positiu)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Fem servir el **valor actual net (VAN)**, que té en compte l’equivalència financera perquè actualitza tots els fluxos al moment del desemborsament inicial amb el cost del capital (7 %).\n\nFluxos de caixa nets (cobraments − pagaments):\n\n| | Any 1 | Any 2 | Any 3 | Any 4 |\n|---|---:|---:|---:|---:|\n| Heràclit | 25.000 | 30.000 | 35.000 | 40.000 |\n| Parmènides | 0 | 15.000 | 20.000 | 25.000 |\n\n$VAN_{H} = -60000 + \\dfrac{25000}{1{,}07} + \\dfrac{30000}{1{,}07^2} + \\dfrac{35000}{1{,}07^3} + \\dfrac{40000}{1{,}07^4}$\n\n$VAN_{H} = -60000 + 23364{,}49 + 26203{,}16 + 28570{,}43 + 30515{,}81 = 48653{,}88$ u.m.\n\n$VAN_{P} = -60000 + \\dfrac{0}{1{,}07} + \\dfrac{15000}{1{,}07^2} + \\dfrac{20000}{1{,}07^3} + \\dfrac{25000}{1{,}07^4}$\n\n$VAN_{P} = -60000 + 0 + 13101{,}58 + 16325{,}96 + 19072{,}38 = -11500{,}08$ u.m.\n\n**Decisió**: és més recomanable el projecte **Heràclit**, perquè té un VAN positiu i més alt: un cop recuperada la inversió i remunerat el capital al 7 %, genera un excedent actualitzat de 48.653,88 u.m. El projecte Parmènides té VAN negatiu: no arriba a cobrir la inversió amb la rendibilitat exigida."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "La pregunta és si Parmènides és una bona alternativa **per si mateix**. La clau és el signe del seu VAN: si és negatiu, el projecte destrueix valor i s’ha de rebutjar encara que sigui l’única opció disponible."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "**No**, no recomanaríem substituir Heràclit per Parmènides. El VAN de Parmènides és negatiu (−11.500,08 u.m.): la diferència entre cobraments i pagaments actualitzats al 7 % no arriba a cobrir el desemborsament inicial de 60.000 u.m. De fet, la suma dels fluxos sense actualitzar és exactament 60.000 u.m. (0 + 15.000 + 20.000 + 25.000), de manera que la seva TIR és del 0 %, molt per sota del cost del capital del 7 %. Fer aquest projecte suposaria perdre diners en termes actuals; és millor no invertir."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "1. La TIR és la taxa $r$ que fa el VAN igual a zero: $-60000 + \\dfrac{90000}{(1+r)^4} = 0$.\n2. Aïlla: $(1+r)^4 = \\dfrac{90000}{60000} = 1{,}5$, d’on $r = 1{,}5^{1/4} - 1$.\n3. Compara la TIR amb el cost del capital (7 %) i calcula també el VAN al 7 % per comparar-lo amb Heràclit (la TIR sola no permet ordenar projectes amb fluxos diferents)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "La TIR és la taxa d’actualització que anul·la el VAN:\n\n$VAN = -60000 + \\dfrac{90000}{(1+r)^4} = 0 \\;\\Rightarrow\\; (1+r)^4 = \\dfrac{90000}{60000} = 1{,}5$\n\n$r = 1{,}5^{1/4} - 1 = 1{,}1067 - 1 = 0{,}1067 \\Rightarrow TIR = 10{,}67\\ \\%$\n\nCom que la TIR (10,67 %) és superior al cost del capital (7 %), el projecte és efectuable. El seu VAN al 7 % és:\n\n$VAN = -60000 + \\dfrac{90000}{1{,}07^4} = -60000 + 68660{,}57 = 8660{,}57$ u.m.\n\nAquest VAN és positiu però inferior al d’Heràclit (48.653,88 u.m.) i superior al de Parmènides (−11.500,08 u.m.). Per tant, **només recomanaríem el tercer projecte si el projecte Heràclit no es pogués fer** (per exemple, si fos inviable tècnicament): en aquest cas seria preferible a Parmènides i a no invertir."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Defineix la segmentació: dividir el mercat en grups **homogenis** internament i diferents entre si.\n2. Relaciona-la amb l’estratègia d’enfocament (concentrar-se en un segment concret).\n3. Esmenta **com a mínim cinc** variables, millor agrupades: geogràfiques, sociodemogràfiques, psicogràfiques, de comportament i relacionades amb el producte. Posa un exemple de cada una."
+          },
+          {
+            "apartat": "d",
+            "titol": "Resposta model",
+            "cos": "La **segmentació de mercat** és el procés que consisteix a dividir el mercat d’un bé o servei en diversos grups més petits de consumidors, internament homogenis (amb necessitats i comportaments semblants) i diferents entre si, per adaptar-hi l’oferta i les accions de màrqueting. L’**estratègia d’enfocament** precisament consisteix a concentrar-se en un o pocs d’aquests segments i servir-los millor que la competència.\n\nVariables o criteris habituals de segmentació:\n\n1. **Geogràfics**: país, regió, ciutat, mida de la població, clima, zona urbana o rural.\n2. **Demogràfics**: edat, sexe, mida i cicle de vida de la família.\n3. **Socioeconòmics**: nivell de renda, professió, nivell de formació, classe social.\n4. **Psicogràfics**: estil de vida, personalitat, valors, aficions.\n5. **De comportament**: freqüència d’ús, fidelitat a la marca, beneficis buscats, moment de compra.\n6. **Relacionats amb el producte**: preu, qualitat, disseny, utilitat, envàs que prefereix cada grup."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "FCN: H = 25.000/30.000/35.000/40.000; P = 0/15.000/20.000/25.000. Mètode del VAN (o TIR). VAN Heràclit = 48.653,88 u.m.; VAN Parmènides = −11.500,08 u.m. Es tria Heràclit."
+          },
+          {
+            "apartat": "b",
+            "valor": "No: Parmènides té VAN negatiu; no s’hauria de fer."
+          },
+          {
+            "apartat": "c",
+            "valor": "$-60000 + 90000/(1+r)^4 = 0$ ⇒ TIR = 10,67 %. VAN al 7 % = 8.660,57 u.m. (entre el d’Heràclit i el de Parmènides): només si Heràclit no és possible."
+          },
+          {
+            "apartat": "d",
+            "valor": "Definició de segmentació (grups petits i homogenis) i almenys cinc criteris: de producte (preu, disseny, qualitat...), geogràfics, sociodemogràfics (edat, sexe, renda, formació) i psicològics (estil de vida, personalitat...)."
+          }
+        ],
+        "nota": "Tots els càlculs s’han verificat amb Python i coincideixen amb la pauta oficial (VAN 48.653,88 i −11.500,08; TIR 10,67 %; VAN del tercer projecte 8.660,57). La pauta escriu «r = 10,67» sense el símbol %: és un 10,67 %. Errors típics: fer servir el payback (no té en compte l’equivalència financera), oblidar l’any 1 de Parmènides (flux 0) i, a l’apartat c, recomanar el tercer projecte només perquè la TIR supera el 7 % sense comparar-lo amb Heràclit."
+      }
+    },
+    {
+      "id": "empresa-2011-S-e2-q1-a",
+      "exercici": 2,
+      "questio": 1,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Forma jurídica amb un mínim de tres socis",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "formes jurídiques",
+        "societat cooperativa",
+        "societat anònima",
+        "societat limitada",
+        "nombre de socis"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2
+      ],
+      "text": "",
+      "enunciat": "Opció A. Indiqueu la resposta correcta. No cal que ho justifiqueu. Escriviu el número de cada qüestió i la lletra corresponent en el quadern de respostes.\n\n**2.1.** En quin tipus de societat el nombre mínim de socis és tres?",
+      "figures": [],
+      "opcions": {
+        "a": "En una societat anònima.",
+        "b": "En una societat de responsabilitat limitada.",
+        "c": "En una societat cooperativa.",
+        "d": "Totes les respostes anteriors són certes."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 2 de l’**opció A** (2 qüestions de 0,5 punts). Cada resposta correcta val 0,5 punts; per cada resposta errònia es descompta un 33 % de la puntuació de la pregunta (≈ 0,165 punts); les no contestades no resten. No cal justificar-ho: només cal escriure el número i la lletra."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. Les **cooperatives** de primer grau necessiten un mínim de tres socis. En canvi, la societat anònima i la societat de responsabilitat limitada es poden constituir amb **un sol soci** (societats unipersonals), de manera que a), b) i d) són falses."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2011-S-e2-q2-a",
+      "exercici": 2,
+      "questio": 2,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Formes empresarials sense capital mínim",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "formes jurídiques",
+        "empresari individual",
+        "capital social mínim",
+        "responsabilitat il·limitada"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        2
+      ],
+      "text": "",
+      "enunciat": "Opció A. Indiqueu la resposta correcta. No cal que ho justifiqueu. Escriviu el número de cada qüestió i la lletra corresponent en el quadern de respostes.\n\n**2.2.** No tenen mínim de capital social",
+      "figures": [],
+      "opcions": {
+        "a": "les societats anònimes.",
+        "b": "els empresaris individuals.",
+        "c": "les societats de responsabilitat limitada.",
+        "d": "les societats limitades."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 2 de l’**opció A** (2 qüestions de 0,5 punts). Cada resposta correcta val 0,5 punts; per cada resposta errònia es descompta un 33 % de la puntuació de la pregunta (≈ 0,165 punts); les no contestades no resten. No cal justificar-ho: només cal escriure el número i la lletra."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. L’**empresari individual** no ha d’aportar cap capital mínim, perquè respon dels deutes amb tot el seu patrimoni present i futur (responsabilitat il·limitada). La societat anònima (60.101,21 € el 2011) i la societat de responsabilitat limitada o societat limitada (3.005,06 €, que són la mateixa forma: c) i d)) sí que en tenen."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial. Les xifres de capital mínim són les vigents el 2011; des del 2022 la SL ja es pot constituir amb 1 €, però la resposta continua sent b)."
+      }
+    },
+    {
+      "id": "empresa-2011-S-e3-a",
+      "exercici": 3,
+      "questio": null,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "problema",
+      "punts": 3,
+      "titol": "Números i Més Números (opció A): balanç amb el resultat com a incògnita, fons de maniobra, ràtio de tresoreria i rendibilitat financera",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "balanç de situació",
+        "masses patrimonials",
+        "resultat de l’exercici",
+        "fons de maniobra",
+        "ràtio de tresoreria",
+        "rendibilitat financera"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "El gerent de l’empresa Números i Més Números ens ha presentat la llista següent de dades comptables i saldos amb data 31 de desembre de 2010:\n\n| *Concepte* | *Import (€)* |\n|---|---:|\n| Bancs i institucions de crèdit | 45.000 |\n| Capital social | 100.000 |\n| Concessions administratives | 2.500 |\n| Creditors per prestació de serveis | 15.000 |\n| Deutors | 35.000 |\n| Equips per a processos d’informació | 15.000 |\n| Organismes de la Seguretat Social deutors | 15.000 |\n| Productes acabats | 7.500 |\n| Proveïdors | 10.000 |\n| Proveïdors de l’immobilitzat a llarg termini | 5.000 |\n| Resultat de l’exercici | ? |\n| Terrenys i béns naturals (destinats a la venda) | 25.000 |\n| Utillatge | 5.000 |",
+      "enunciat": "Opció A. A partir de les dades anteriors, responeu els apartats següents.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Elaboreu el balanç de situació ordenat per masses patrimonials i calculeu el resultat de l’exercici.",
+          "punts": 2
+        },
+        {
+          "id": "b",
+          "enunciat": "Calculeu i interpreteu el fons de maniobra de l’empresa.",
+          "punts": 0.5
+        },
+        {
+          "id": "c",
+          "enunciat": "Determineu la ràtio de tresoreria i la rendibilitat financera de l’empresa.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de **comptabilitat** (3 punts, el de més pes de l’opció A). L’apartat a) val 2 punts: classificar bé cada compte en la seva massa patrimonial i trobar el resultat com a **xifra que quadra el balanç** (Actiu = PN + Passiu). Després, fons de maniobra i dues ràtios amb **interpretació**.\n\nOrdena l’actiu de menor a major liquiditat (no corrent → existències → realitzable → disponible) i el costat del finançament de menor a major exigibilitat (PN → passiu no corrent → passiu corrent). Temps: 25-30 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Actiu no corrent**: concessions administratives (intangible); utillatge i equips per a processos d’informació (material); terrenys i béns naturals destinats a la venda (que no es fan servir en l’activitat): **inversions immobiliàries**, segons la pauta.\n2. **Actiu corrent**: productes acabats (existències); deutors i Seguretat Social deutora (realitzable); bancs (disponible).\n3. **Passiu**: proveïdors d’immobilitzat a llarg termini (no corrent); proveïdors i creditors per prestació de serveis (corrent).\n4. **Resultat** = Total actiu − Capital − Passiu."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Balanç de situació de Números i Més Números a 31-12-2010 (en €):\n\n| ACTIU | € | PATRIMONI NET I PASSIU | € |\n|---|---:|---|---:|\n| **Actiu no corrent** | **47.500** | **Patrimoni net** | **120.000** |\n| *Immobilitzat intangible* | 2.500 | Capital social | 100.000 |\n| Concessions administratives | 2.500 | Resultat de l’exercici | 20.000 |\n| *Immobilitzat material* | 20.000 | **Passiu no corrent** | **5.000** |\n| Utillatge | 5.000 | Proveïdors d’immobilitzat a llarg termini | 5.000 |\n| Equips per a processos d’informació | 15.000 | **Passiu corrent** | **25.000** |\n| *Inversions immobiliàries* | 25.000 | Proveïdors | 10.000 |\n| Terrenys i béns naturals | 25.000 | Creditors per prestació de serveis | 15.000 |\n| **Actiu corrent** | **102.500** | | |\n| *Existències*: productes acabats | 7.500 | | |\n| *Realitzable*: deutors | 35.000 | | |\n| *Realitzable*: organismes de la Seguretat Social deutors | 15.000 | | |\n| *Disponible*: bancs i institucions de crèdit | 45.000 | | |\n| **TOTAL ACTIU** | **150.000** | **TOTAL PATRIMONI NET I PASSIU** | **150.000** |\n\nCàlcul del resultat de l’exercici:\n\n$\\text{Actiu} = 47500 + 102500 = 150000$ €\n\n$\\text{Resultat} = \\text{Actiu} - \\text{Capital} - \\text{Passiu} = 150000 - 100000 - 5000 - 25000 = 20000$ €\n\nPerquè el balanç quadri, el **resultat de l’exercici és de 20.000 € (benefici)**."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "$FM = AC - PC$ (o bé $FM = PN + PNC - ANC$; han de donar el mateix, i és una bona comprovació). Interpreta el signe: si és positiu, els recursos permanents financen tot l’actiu no corrent i una part del corrent."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "$FM = AC - PC = 102500 - 25000 = 77500$ €\n\nComprovació: $FM = (PN + PNC) - ANC = (120000 + 5000) - 47500 = 77500$ €\n\n**Interpretació**: el fons de maniobra és positiu. Això vol dir que l’actiu no corrent està finançat íntegrament amb recursos permanents (patrimoni net i passiu no corrent) i que, a més, aquests recursos financen 77.500 € d’actiu corrent. L’actiu corrent és més que suficient per atendre els deutes a curt termini: l’empresa té una **situació financera equilibrada** (fins i tot amb un cert excés de recursos ociosos a curt termini)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Ràtio de tresoreria** (*acid test*): $\\dfrac{\\text{Realitzable} + \\text{Disponible}}{\\text{Passiu corrent}}$ (deixa fora les existències, que són l’actiu corrent menys líquid).\n2. **Rendibilitat financera**: $\\dfrac{\\text{Benefici net}}{\\text{Patrimoni net}}$, amb el resultat trobat a l’apartat a).\n3. Tot i que l’enunciat diu només «determineu», val la pena afegir una frase d’interpretació."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "**Ràtio de tresoreria**:\n\n$\\dfrac{\\text{Realitzable} + \\text{Disponible}}{\\text{Passiu corrent}} = \\dfrac{50000 + 45000}{25000} = 3{,}8$\n\nPer cada euro de deute a curt termini, l’empresa té 3,8 € de realitzable i disponible. El valor és molt superior a l’habitualment recomanat (al voltant d’1), de manera que no hi ha cap problema per pagar els deutes a curt termini; fins i tot pot indicar un excés de recursos líquids poc rendibles.\n\n**Rendibilitat financera**:\n\n$RF = \\dfrac{\\text{Benefici net}}{\\text{Patrimoni net}} = \\dfrac{20000}{120000} = 0{,}1667 = 16{,}67\\ \\%$\n\nPer cada 100 € de recursos propis, els socis obtenen 16,67 € de benefici."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "ANC 47.500 (intangible 2.500; material 20.000; inversions immobiliàries 25.000). AC 102.500 (existències 7.500; realitzable 50.000; disponible 45.000). PN 120.000; PNC 5.000; PC 25.000. Total 150.000 €. Resultat de l’exercici = 20.000 €."
+          },
+          {
+            "apartat": "b",
+            "valor": "FM = 102.500 − 25.000 = 77.500 € (= 5.000 + 120.000 − 47.500). FM > 0: situació financera equilibrada."
+          },
+          {
+            "apartat": "c",
+            "valor": "Ràtio de tresoreria = (50.000 + 45.000) / 25.000 = 3,8. Rendibilitat financera = 20.000 / 120.000 = 0,1667 (16,67 %)."
+          }
+        ],
+        "nota": "Tots els resultats s’han recalculat amb Python i coincideixen amb la pauta. Notes: (1) la pauta classifica els «terrenys i béns naturals (destinats a la venda)» com a **inversions immobiliàries** dins de l’actiu no corrent; algun llibre els podria posar com a actius no corrents mantinguts per a la venda, però el total del balanç i el resultat no canvien, i sí que canviaria el fons de maniobra si es posessin a l’actiu corrent, de manera que convé seguir el criteri de la pauta. (2) Alguns manuals defineixen la ràtio de tresoreria com a disponible / passiu corrent (= 45.000 / 25.000 = 1,8); la pauta fa servir l’*acid test* (realitzable + disponible). Indica sempre la fórmula que fas servir. (3) Error típic: posar els organismes de la Seguretat Social *deutors* al passiu: són un dret de cobrament (actiu corrent realitzable)."
+      }
+    },
+    {
+      "id": "empresa-2011-S-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals: lideratge en costos i diferenciació, creixement intern i extern, valor afegit i fusió/adquisició",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "estratègies competitives",
+        "lideratge en costos",
+        "diferenciació",
+        "creixement intern",
+        "creixement extern",
+        "valor afegit",
+        "fusió",
+        "adquisició d’empreses"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Opció A. Expliqueu raonadament si les afirmacions següents són certes o falses:",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "L’estratègia de lideratge en costos explota els avantatges competitius de les característiques singulars dels productes o serveis que s’ofereixen.",
+          "punts": 0.2
+        },
+        {
+          "id": "b",
+          "enunciat": "L’estratègia de lideratge en costos es basa a aconseguir que els clients estiguin disposats a pagar un preu més elevat pels productes o serveis que ofereix una empresa a causa d’alguna diferència amb els dels seus competidors.",
+          "punts": 0.2
+        },
+        {
+          "id": "c",
+          "enunciat": "Per a una empresa, l’inconvenient principal del creixement intern és la lentitud que presenta, ja que només s’hi destinen els recursos propis de l’empresa. A més, és més car que el creixement extern.",
+          "punts": 0.2
+        },
+        {
+          "id": "d",
+          "enunciat": "El *valor afegit* és el valor que l’empresa suma a un producte o servei a partir de l’activitat econòmica que genera aquesta empresa.",
+          "punts": 0.2
+        },
+        {
+          "id": "e",
+          "enunciat": "L’*adquisició d’empreses* és la unió de diverses societats per a crear-ne una de nova.",
+          "punts": 0.2
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de teoria de l’opció A (1 punt, 0,2 per afirmació) sobre estratègies competitives, creixement de l’empresa i valor afegit. Cada afirmació s’ha de qualificar de **certa o falsa** i s’ha de **justificar**: sense explicació no es puntua. Una bona estratègia és dir de què parla realment l’afirmació quan és falsa (per exemple, «això és la diferenciació, no el lideratge en costos»). Si una afirmació té dues parts, valora-les per separat. Temps: 8-10 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "**Falsa.** Explotar els avantatges que donen les característiques singulars (úniques) dels productes o serveis és l’estratègia de **diferenciació**. El **lideratge en costos** consisteix a produir amb costos més baixos que la competència (economies d’escala, eficiència, tecnologia) per poder vendre a preus inferiors o obtenir més marge."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "**Falsa.** Aconseguir que els clients paguin un preu més alt perquè perceben una diferència respecte dels competidors és, de nou, l’estratègia de **diferenciació**. El lideratge en costos competeix precisament pel preu baix."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "**Parcialment certa, però globalment falsa.** La primera part és **certa**: el creixement intern (invertir en noves instal·lacions, nous productes...) és lent, i això pot ser un gran inconvenient si els competidors creixen de manera externa, molt més ràpida. La segona part és **falsa**: generalment el creixement **extern** és més car que l’intern, perquè quan es compra una empresa en funcionament s’ha de pagar un sobrepreu (fons de comerç, clientela, marca)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Resposta model",
+            "cos": "**Certa.** El valor afegit és la diferència entre el valor de la producció (el que l’empresa ven) i el valor dels béns i serveis que ha comprat a altres empreses per fer-la: és el valor nou que crea la mateixa empresa amb la seva activitat, i que serveix per remunerar els factors productius (salaris, interessos, beneficis...)."
+          },
+          {
+            "apartat": "e",
+            "titol": "Resposta model",
+            "cos": "**Falsa.** La unió de diverses societats per crear-ne una de nova és la **fusió pura** (fusió d’empreses). En l’**adquisició** o compra, una empresa compra totes o una part de les accions d’una altra i n’obté el control, però ambdues poden continuar existint; en l’**absorció**, l’empresa absorbida desapareix i s’integra en el patrimoni de l’absorbent."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Falsa: és la definició de diferenciació."
+          },
+          {
+            "apartat": "b",
+            "valor": "Falsa: és la definició de diferenciació."
+          },
+          {
+            "apartat": "c",
+            "valor": "Primera frase certa (lentitud); segona falsa: el creixement extern sol ser més car (sobrepreu per comprar una empresa en funcionament)."
+          },
+          {
+            "apartat": "d",
+            "valor": "Certa."
+          },
+          {
+            "apartat": "e",
+            "valor": "Falsa: és la fusió (pura); en l’absorció una de les empreses desapareix i s’integra en l’absorbent."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial. A l’afirmació c), la pauta valora per separat cada frase: no n’hi ha prou de dir «falsa», cal reconèixer que la lentitud sí que és un inconvenient del creixement intern."
+      }
+    },
+    {
+      "id": "empresa-2011-S-e5-a",
+      "exercici": 5,
+      "questio": null,
+      "opcio": "A",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Finalitat del pla d’empresa i concepte d’esperit emprenedor",
+      "tema": "emprenedoria",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pla d’empresa",
+        "pla de negoci",
+        "viabilitat",
+        "esperit emprenedor",
+        "emprenedor"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        3
+      ],
+      "text": "",
+      "enunciat": "Opció A. Responeu les dues qüestions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "5.1",
+          "enunciat": "Quina és la finalitat del pla d’empresa o pla de negoci que s’elabora en tot projecte empresarial?",
+          "punts": 0.5
+        },
+        {
+          "id": "5.2",
+          "enunciat": "Què entenem per *esperit emprenedor*?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues preguntes curtes de teoria sobre **emprenedoria** (0,5 punts cadascuna). Respostes de 6-10 línies: definició + desenvolupament breu. Temps: 8 minuts."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Com plantejar-ho",
+            "cos": "Explica que el pla d’empresa analitza la **viabilitat** del projecte i serveix de **planificació**; i després la doble finalitat: **interna** (eina de gestió de l’emprenedor) i **externa** (targeta de presentació per a inversors, bancs, proveïdors i clients)."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Resposta model",
+            "cos": "El pla d’empresa o pla de negoci és el document en què l’emprenedor descriu i planifica el seu projecte empresarial en tots els àmbits (màrqueting, producció, organització i recursos humans, aspectes jurídics i pla economicofinancer). La seva finalitat és **analitzar la viabilitat** del projecte: estudiar-ne els aspectes clau, detectar-ne els inconvenients i riscos abans de començar, i fer de pont entre la situació actual i la situació futura desitjada.\n\nTé una **doble finalitat**:\n\n- **Interna**: és una eina de treball per a l’emprenedor; la planificació permet organitzar, dirigir i controlar l’empresa i comparar després els resultats reals amb els previstos.\n- **Externa**: és la targeta de presentació del projecte davant de tercers; facilita aconseguir finançament (bancs, inversors, subvencions) i convèncer socis, proveïdors i clients."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Defineix l’esperit emprenedor com un conjunt de **valors, aptituds i actituds** i enumera’n uns quants (iniciativa, creativitat, assumpció de riscos...), lligant-los a la capacitat d’engegar un projecte empresarial."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Resposta model",
+            "cos": "L’**esperit emprenedor** és el conjunt de valors, aptituds i actituds d’una persona que la fan capaç d’identificar una oportunitat de negoci i de posar en marxa un projecte empresarial per aprofitar-la. Inclou característiques com la **iniciativa**, la **creativitat** i la capacitat d’innovar, la **confiança en un mateix**, l’empenta, el **lideratge**, la intuïció, la responsabilitat, la **capacitat d’assumir riscos**, la capacitat de treball i la **perseverança** davant les dificultats, i la capacitat de treballar en equip."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "5.1",
+            "valor": "Planificació estratègica que analitza la viabilitat del projecte i n’identifica els inconvenients; doble finalitat: interna (eina de treball, organització, direcció i control) i externa (targeta de presentació per obtenir recursos i convèncer proveïdors i clients)."
+          },
+          {
+            "apartat": "5.2",
+            "valor": "Conjunt de valors, aptituds i actituds (iniciativa, confiança, empenta, creativitat, lideratge, intuïció, responsabilitat, assumpció de riscos, perseverança, treball en equip) necessaris per engegar un projecte empresarial."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial. Error típic a 5.1: limitar-se a dir «per veure si el negoci funcionarà» sense esmentar la doble funció interna i externa."
+      }
+    },
+    {
+      "id": "empresa-2011-S-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Finalitat i elements de l’anàlisi DAFO i DAFO d’una botiga de jocs d’ordinador",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "emprenedoria"
+      ],
+      "conceptes": [
+        "anàlisi dafo",
+        "fortaleses",
+        "debilitats",
+        "amenaces",
+        "oportunitats",
+        "entorn de l’empresa"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "",
+      "enunciat": "Opció B. Responeu les dues qüestions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "enunciat": "Quina és la finalitat de l’anàlisi DAFO? Descriviu-ne els elements.",
+          "punts": 0.5
+        },
+        {
+          "id": "2.2",
+          "enunciat": "Elaboreu l’anàlisi DAFO corresponent a la idea de negoci d’una botiga especialitzada en jocs d’ordinador i d’Internet.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de teoria aplicada de l’opció B (1 punt). A 2.1 cal explicar la finalitat **i** els quatre elements; a 2.2, aplicar-los a un cas concret: com a mínim **un factor de cada quadrant**, ben classificat entre interns (D, F) i externs (A, O). La resposta és oberta: qualsevol exemple coherent puntua. Temps: 8-10 minuts."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Què és: diagnòstic intern (fortaleses, debilitats) i extern (amenaces, oportunitats).\n2. Per a què serveix: definir l’estratègia més convenient.\n3. Definició breu de cada element."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "L’**anàlisi DAFO** és una tècnica de diagnòstic que identifica, d’una banda, les **fortaleses i debilitats internes** de l’empresa i, de l’altra, les **amenaces i oportunitats externes** del seu entorn. La seva **finalitat** és definir les estratègies més convenients: aprofitar les fortaleses i les oportunitats, i corregir les debilitats i afrontar les amenaces. Es pot aplicar a empreses, a administracions públiques i fins i tot a persones.\n\nElements:\n\n- **Debilitats** (internes): limitacions de l’empresa que li impedeixen afrontar una amenaça o aprofitar una oportunitat.\n- **Amenaces** (externes): factors de l’entorn que posen en perill l’empresa.\n- **Fortaleses** (internes): capacitats i recursos que permeten aprofitar una oportunitat o fer front a una amenaça.\n- **Oportunitats** (externes): factors de l’entorn que, si l’empresa els aprofita, li poden donar avantatges o beneficis."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Pensa en la botiga: què depèn d’ella (coneixements, local, inversió en equips) i què ve de fora (competència, tendències de consum, venda per Internet). Presenta-ho en una matriu 2 × 2."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "| | Aspectes negatius | Aspectes positius |\n|---|---|---|\n| **Interns** | **Debilitats**: cal una actualització contínua de les versions i les novetats dels jocs, i una inversió elevada i renovada en ordinadors per a la sala de jocs; empresa nova i poc coneguda. | **Fortaleses**: coneixements tècnics i experiència dels promotors en jocs d’ordinador, que permeten oferir un servei especialitzat i un bon assessorament; tracte proper amb el client. |\n| **Externs** | **Amenaces**: competència indirecta dels cibercafès en l’àrea de jocs i de les grans superfícies; creixement de la descàrrega i la compra de jocs per Internet; pirateria. | **Oportunitats**: poca competència directa de botigues especialitzades; mercat dels videojocs i del joc en línia en creixement; possibilitat d’organitzar tornejos i activitats per fidelitzar clients. |"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "Identifica fortaleses i debilitats internes i amenaces i oportunitats externes; finalitat: definir les estratègies més convenients. Definició de cada element."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "Resposta oberta. Exemple oficial: D = actualització contínua de jocs i inversió en ordinadors; F = coneixements tècnics i experiència dels promotors; A = competència indirecta dels cibercafès; O = poca competència de botigues especialitzades."
+          }
+        ],
+        "nota": "La pauta diu que la resposta de 2.2 és oberta. La pauta oficial escriu a l’oportunitat «poca competència indirecta»: segurament vol dir poca competència *directa* (poques botigues especialitzades). Error típic: posar factors externs com a fortaleses o debilitats."
+      }
+    },
+    {
+      "id": "empresa-2011-S-e3-b",
+      "exercici": 3,
+      "questio": null,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "problema",
+      "punts": 3,
+      "titol": "Números i Més Números (opció B): compte de pèrdues i guanys, rendibilitat econòmica i rendibilitat financera",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "compte de pèrdues i guanys",
+        "resultat d’explotació",
+        "baii",
+        "variació d’existències",
+        "rendibilitat econòmica",
+        "rendibilitat financera"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        4
+      ],
+      "text": "El gerent de l’empresa Números i Més Números ens ha presentat la llista següent de dades comptables i saldos amb data 31 de desembre de 2010:\n\n| *Concepte* | *Deutor (€)* | *Creditor (€)* |\n|---|---:|---:|\n| Altres ingressos d’explotació | 0 | 100.000 |\n| Amortització de l’immobilitzat | 10.000 | 0 |\n| Compres | 155.000 | 0 |\n| Despeses de personal | 25.000 | 0 |\n| Despeses financeres | 20.000 | 0 |\n| Import net de la xifra de negocis | 0 | 250.000 |\n| Impost sobre beneficis | 2.500 | 0 |\n| Ingressos financers | 0 | 30.000 |\n| Variació de les existències de productes acabats i en curs | 10.000 | 0 |\n| Variació de matèries primeres | 7.500 | 0 |\n\nTenint en compte que l’actiu total ascendeix a 570.000 € i el patrimoni net, a 750.000 €, responeu a les qüestions següents:",
+      "enunciat": "Opció B. A partir de les dades anteriors, responeu els apartats següents.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Presenteu el compte de pèrdues i guanys.",
+          "punts": 1.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Calculeu i interpreteu la rendibilitat econòmica.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "Determineu i interpreteu la rendibilitat financera.",
+          "punts": 0.75
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de **comptabilitat** de l’opció B (3 punts): compte de pèrdues i guanys (1,5 punts) i dues rendibilitats amb la seva **interpretació**. La clau és el **signe** de cada partida: els saldos *deutors* són despeses (o disminucions d’existències) i els *creditors*, ingressos. Temps: 25 minuts.\n\nAtenció: les dades de l’enunciat són incoherents (un patrimoni net de 750.000 € més gran que l’actiu total de 570.000 € és impossible, perquè implicaria un passiu negatiu). La pauta ho reconeix i demana calcular igualment amb aquestes xifres."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Variació d’existències de productes acabats** amb saldo deutor (10.000): les existències han disminuït; resta dels ingressos d’explotació.\n2. **Variació de matèries primeres** amb saldo deutor (7.500): també han disminuït; se suma a les compres per obtenir els **aprovisionaments** ($155000 + 7500 = 162500$).\n3. Estructura en cascada: resultat d’explotació (BAII) → resultat financer → BAI → impost → resultat net."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "| Compte de pèrdues i guanys | € |\n|---|---:|\n| Import net de la xifra de negocis | 250.000 |\n| Variació d’existències de productes acabats i en curs | −10.000 |\n| Altres ingressos d’explotació | 100.000 |\n| Aprovisionaments (compres 155.000 + variació de matèries primeres 7.500) | −162.500 |\n| Despeses de personal | −25.000 |\n| Amortització de l’immobilitzat | −10.000 |\n| **Resultat d’explotació (BAII)** | **142.500** |\n| Ingressos financers | 30.000 |\n| Despeses financeres | −20.000 |\n| **Resultat financer** | **10.000** |\n| **Resultat abans d’impostos (BAI)** | **152.500** |\n| Impost sobre beneficis | −2.500 |\n| **Resultat de l’exercici (benefici net)** | **150.000** |\n\n$BAII = (250000 - 10000 + 100000) - (162500 + 25000 + 10000) = 340000 - 197500 = 142500$ €\n\n$\\text{Resultat financer} = 30000 - 20000 = 10000$ €\n\n$BAI = 142500 + 10000 = 152500$ €; $\\quad BN = 152500 - 2500 = 150000$ €"
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "$RE = \\dfrac{BAII}{\\text{Actiu total}}$. Fes servir el BAII (no el benefici net), perquè la RE mesura el rendiment dels actius independentment de com es financen."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "$RE = \\dfrac{BAII}{\\text{Actiu total}} = \\dfrac{142500}{570000} = 0{,}25 = 25\\ \\%$\n\n**Interpretació**: la rendibilitat econòmica mesura la capacitat dels actius de l’empresa per generar beneficis, independentment de com s’han finançat; és una mesura de l’eficiència de la gestió. Per cada 100 € invertits en l’actiu, l’empresa obté 25 € de benefici abans d’interessos i impostos, un valor alt que indica una gestió eficient."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "$RF = \\dfrac{\\text{Benefici net}}{\\text{Patrimoni net}}$. Interpreta-la des del punt de vista dels socis i, si vols, compara-la amb la RE."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "$RF = \\dfrac{BN}{\\text{Patrimoni net}} = \\dfrac{150000}{750000} = 0{,}20 = 20\\ \\%$\n\n**Interpretació**: la rendibilitat financera relaciona el benefici net amb els recursos propis. Per cada 100 € aportats pels socis (patrimoni net), l’empresa ha obtingut aquest exercici 20 € de benefici net. És el rendiment que obtenen els propietaris per la seva inversió; és un bon resultat si es compara, per exemple, amb el que oferirien inversions alternatives sense risc."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Ingressos d’explotació 340.000 (250.000 − 10.000 + 100.000); despeses d’explotació 197.500 (aprovisionaments 162.500, personal 25.000, amortització 10.000); BAII 142.500; resultat financer 10.000; BAI 152.500; impost 2.500; resultat net 150.000 €."
+          },
+          {
+            "apartat": "b",
+            "valor": "RE = 142.500 / 570.000 = 25 %: eficiència dels actius per generar valor independentment del finançament."
+          },
+          {
+            "apartat": "c",
+            "valor": "RF = 150.000 / 750.000 = 20 %: rendibilitat obtinguda pels socis."
+          }
+        ],
+        "nota": "Tots els càlculs s’han verificat amb Python i coincideixen amb la pauta. La mateixa pauta adverteix que les dades són incoherents (el patrimoni net no pot superar l’actiu total), però que els resultats són correctes a partir d’aquests valors: a l’examen, calcula amb les dades donades i, si de cas, comenta-ho en una línia. Errors típics: sumar la variació de productes acabats com a ingrés (amb saldo deutor resta), oblidar la variació de matèries primeres als aprovisionaments, i calcular la RE amb el benefici net en lloc del BAII."
+      }
+    },
+    {
+      "id": "empresa-2011-S-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Vertader o fals: SRL i empresari individual, esperit emprenedor i pla de producció",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "emprenedoria"
+      ],
+      "conceptes": [
+        "formes jurídiques",
+        "societat de responsabilitat limitada",
+        "empresari individual",
+        "responsabilitat il·limitada",
+        "esperit emprenedor",
+        "pla de producció",
+        "pla de màrqueting"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció B. Expliqueu raonadament si les afirmacions següents són certes o falses:",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "En una societat de responsabilitat limitada, el nombre mínim de socis és un, la responsabilitat està limitada al capital aportat i el capital mínim per a constituir-la és de 60.101,21 €.",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "En el cas d’un empresari individual, el nombre de socis és un, no hi ha capital mínim per a constituir l’empresa i la responsabilitat està limitada al capital aportat.",
+          "punts": 0.25
+        },
+        {
+          "id": "c",
+          "enunciat": "L’esperit emprenedor és una condició necessària i suficient per a posar en marxa un negoci.",
+          "punts": 0.25
+        },
+        {
+          "id": "d",
+          "enunciat": "El pla de producció consisteix a planificar les principals variables del màrqueting: producte, preu, promoció i distribució.",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de teoria de l’opció B (1 punt, 0,25 per afirmació) sobre formes jurídiques i el pla d’empresa. Cada afirmació s’ha de qualificar de **certa o falsa** i s’ha de **justificar**: sense explicació no es puntua. Una bona estratègia és dir de què parla realment l’afirmació quan és falsa (per exemple, «això és la diferenciació, no el lideratge en costos»). Si una afirmació té dues parts, valora-les per separat. Temps: 8 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "**Falsa.** És cert que en una SRL el nombre mínim de socis és un i que la responsabilitat està limitada al capital aportat, però el capital mínim per constituir-la (el 2011) era de **3.005,06 €**, no de 60.101,21 €. Els 60.101,21 € corresponen al capital mínim de la **societat anònima**."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "**Falsa.** L’empresari individual no té capital mínim, però la seva responsabilitat és **il·limitada**: respon dels deutes de l’empresa amb tot el seu patrimoni personal, present i futur, no només amb el capital aportat."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "**Falsa.** L’esperit emprenedor és una condició **necessària**, però **no suficient**: per posar en marxa un negoci també calen una idea viable, recursos financers, coneixements de gestió, un pla d’empresa ben fet, etc."
+          },
+          {
+            "apartat": "d",
+            "titol": "Resposta model",
+            "cos": "**Falsa.** Planificar producte, preu, promoció i distribució (les 4P) correspon al **pla de màrqueting**. El **pla de producció** descriu el procés productiu, els recursos materials i humans necessaris, la tecnologia, la logística (compres, transport, magatzems) i la selecció de proveïdors."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Falsa: el capital mínim de la SRL és 3.005,06 €; 60.101,21 € és el de la SA."
+          },
+          {
+            "apartat": "b",
+            "valor": "Falsa: l’empresari individual té responsabilitat il·limitada."
+          },
+          {
+            "apartat": "c",
+            "valor": "Falsa: és necessària però no suficient."
+          },
+          {
+            "apartat": "d",
+            "valor": "Falsa: són les variables del pla de màrqueting; el pla de producció descriu procés, recursos, tecnologia, logística i proveïdors."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial. Les xifres de capital mínim són les vigents el 2011 (des del 2022 la SL es pot constituir amb 1 €)."
+      }
+    },
+    {
+      "id": "empresa-2011-S-e5-b",
+      "exercici": 5,
+      "questio": null,
+      "opcio": "B",
+      "serie": "2",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "PIME: concepte, avantatges i inconvenients, i deslocalització d’empreses",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "pime",
+        "dimensió de l’empresa",
+        "economies d’escala",
+        "deslocalització",
+        "globalització"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció B. Responeu les dues qüestions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "5.1",
+          "enunciat": "Què entenem per *PIME*? Esmenteu tres avantatges i tres inconvenients que tenen les PIME respecte de les grans empreses.",
+          "punts": 0.75
+        },
+        {
+          "id": "5.2",
+          "enunciat": "Què entenem per *deslocalització d’empreses*?",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Dues preguntes de teoria de l’opció B: 5.1 val 0,75 punts (definició + 3 avantatges + 3 inconvenients; compta que tots sis hi siguin) i 5.2 val 0,25 (definició precisa en 2-3 línies). Temps: 8 minuts."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Definició amb criteris quantitatius (treballadors i volum de negoci).\n2. Tres avantatges respecte de les grans: flexibilitat, proximitat al client, millor clima laboral.\n3. Tres inconvenients: poc poder negociador, pocs recursos per a R+D+i i finançament, no aprofiten economies d’escala."
+          },
+          {
+            "apartat": "5.1",
+            "titol": "Resposta model",
+            "cos": "Les **PIME** (petites i mitjanes empreses) són les empreses que tenen **menys de 250 treballadors** i un volum de negoci anual que **no supera els 50 milions d’euros** (o un balanç que no supera els 43 milions).\n\n**Avantatges** respecte de les grans empreses:\n\n1. Dimensió i estructura organitzativa més **flexibles**, que els permeten adaptar-se més ràpidament als canvis del mercat.\n2. Relació **més propera amb els clients**, que els permet oferir un tracte personalitzat.\n3. **Menys conflictivitat laboral** i relacions més directes entre direcció i treballadors.\n\n**Inconvenients**:\n\n1. **Poca capacitat negociadora** amb proveïdors i clients.\n2. **Recursos insuficients** per invertir en recerca, innovació i desenvolupament, i més dificultats per obtenir finançament.\n3. Impossibilitat d’aprofitar **economies d’escala**, de manera que els costos unitaris de producció són més alts."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Defineix-ho com un trasllat d’activitat d’un país desenvolupat a un de menys desenvolupat i digues **per què** (reduir costos, sobretot salarials)."
+          },
+          {
+            "apartat": "5.2",
+            "titol": "Resposta model",
+            "cos": "La **deslocalització d’empreses** és el trasllat, total o parcial, de les instal·lacions productives d’una empresa des d’un país desenvolupat cap a països en desenvolupament, amb l’objectiu de reduir els costos de producció, principalment gràcies als salaris més baixos (i, sovint, a una regulació laboral, fiscal o ambiental menys exigent)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "5.1",
+            "valor": "Menys de 250 treballadors i volum de negoci inferior a 50 milions €. Avantatges: flexibilitat i adaptació, proximitat als clients, menys conflictivitat laboral. Inconvenients: poca capacitat negociadora, pocs recursos per a R+D+i, no aprofiten economies d’escala."
+          },
+          {
+            "apartat": "5.2",
+            "valor": "Trasllat total o parcial de la producció d’un país desenvolupat a països en desenvolupament per reduir costos (salaris més baixos)."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial. A 5.1, cada element que falti resta: assegura’t d’escriure la definició i exactament tres avantatges i tres inconvenients."
+      }
+    }
+  ]
+}

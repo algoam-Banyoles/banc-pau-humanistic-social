@@ -1,0 +1,1564 @@
+{
+  "examen": {
+    "id": "llati-2013-J",
+    "assignatura": "llati",
+    "materia": "Llatí",
+    "any": 2013,
+    "convocatoria": "juny",
+    "serie": "4 i 3",
+    "pdf_examen": "pdfs/llati/2013-J-examen.pdf",
+    "pdf_solucio": "pdfs/llati/2013-J-solucio.pdf",
+    "estructura": "Convocatòria de juny de 2013. El PDF conté dues sèries (4 i 3, en aquest ordre) amb la mateixa estructura: quatre exercicis (10 punts). L'exercici 1 és comú: traducció d'un text amb lèxic donat (5 punts). Els exercicis 2, 3 i 4 s'agrupen en dues opcions i cal triar-ne UNA sencera (A o B), la mateixa per als tres: 2. morfosintaxi (1 punt); 3. exercici de llengua, literatura o civilització romanes (2 punts); 4. exposició d'un tema de literatura o civilització (2 punts, mínim 15 línies, ~150 paraules).\n\n**Sèrie 4**: traducció d'Eutropi, *Breviari*, 1,1 – 2,2 (Ròmul i els primers temps de Roma). Opció A: funció i antecedent del relatiu *qui*; completar un text sobre les termes amb 8 buits (0,25 cadascun, sense descompte); Tit Livi. Opció B: *cum* històric i *haberet*; identificar quatre il·lustracions d'episodis de l'*Eneida* (0,5 cadascuna, sense descompte); els temples romans.\n\n**Sèrie 3**: traducció de l'*Expositio Monacensis* I (vida de Virgili). Opció A: anàlisi de *principum*; expressions llatines (opció múltiple, 0,5 per encert i −0,16 per error); Ciceró orador. Opció B: anàlisi d'*ossa*; personatges de l'*Eneida* (opció múltiple, 0,5 per encert i −0,16 per error); construccions romanes extraurbanes."
+  },
+  "problemes": [
+    {
+      "id": "llati-2013-J-s4-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció d'Eutropi: Ròmul funda Roma, crea el senat i rapta les sabines",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "eutropi",
+        "breviarium ab urbe condita",
+        "ròmul",
+        "oració de relatiu",
+        "ablatiu absolut",
+        "cum històric",
+        "rapte de les sabines"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "**Els primers temps de Roma**\n\nRomanum imperium a Romulo exordium habet, qui cum Remo fratre uno partu editus est. Is urbem exiguam in Palatino monte constituit. Condita urbe, multitudinem finitimorum ibi recepit, centum ex senioribus legit, quos senatores nominauit. Cum uxores populus suus non haberet, inuitauit ad spectaculum uicinas Romae nationes atque earum uirgines rapuit.\n\nFlavi Eutropi, *Breviari d'història de Roma*, 1,1 – 2,2\n\n**Lèxic** (per ordre alfabètic):\n\n- *edo, edidi, editum* (3a): 'infantar, parir'.\n- *condo, condidi, conditum* (3a): 'fundar'.\n- *lego, legi, lectum* (3a): 'elegir'.",
+      "enunciat": "Feu la versió del text següent (5 punts). Exercici comú a les dues opcions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text d'Eutropi (segle IV dC), autor d'un resum d'història de Roma en llatí molt senzill, ideal per a la selectivitat. Són **quatre oracions** separades per punts i expliquen la fundació de Roma: el naixement de Ròmul, la fundació al Palatí, la creació del senat i el rapte de les sabines. Val **5 punts**, la meitat de l'examen: dedica-hi uns 40-45 minuts.\n\nMètode: (1) el títol i el que saps de la llegenda de Ròmul t'ajuden molt; (2) localitza els **verbs conjugats**: *habet*, *editus est*, *constituit*, *recepit*, *legit*, *nominauit*, *haberet*, *inuitauit*, *rapuit*; (3) identifica les estructures: una **relativa** (*qui ... editus est*), un **ablatiu absolut** (*Condita urbe*), una altra **relativa** (*quos ... nominauit*) i una oració de ***cum* històric** (*Cum ... haberet*); (4) fes una traducció literal i poleix-la.\n\nParanys: *habet* és un present històric (es pot traduir en passat); *editus est* és passiva ('va ser infantat'); *legit* és perfet (*lēgit*, del lèxic *lego, legi*), no present; *senioribus* és comparatiu de *senex*; *Romae* depèn de *uicinas* ('veïns de Roma'); *earum* (genitiu femení plural) es refereix a *nationes*."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Romanum imperium a Romulo exordium habet, qui cum Remo fratre uno partu editus est.*\n\n- Verb principal: ***habet***, 3a sg. present d'indicatiu de *habeo* (present històric).\n- Subjecte: ***Romanum imperium*** (nominatiu singular neutre).\n- CD: ***exordium*** (acusatiu singular neutre): 'començament, origen'.\n- ***a Romulo***: *a* + ablatiu, procedència/origen: 'a partir de Ròmul'.\n- Subordinada de relatiu: ***qui*** (nominatiu singular masculí), antecedent *Romulo*, és el subjecte de ***editus est*** (perfet d'indicatiu passiu d'*edo*, 3a: 'va ser infantat').\n- ***cum Remo fratre***: *cum* + ablatiu, complement de companyia; *fratre* és aposició de *Remo*.\n- ***uno partu***: ablatiu singular (*partus, -us*, 4a declinació), circumstancial: 'en un sol part' (eren bessons)."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Is urbem exiguam in Palatino monte constituit.*\n\n- Verb: ***constituit***, 3a sg. perfet d'indicatiu de *constituo* ('fundar, establir').\n- Subjecte: ***Is*** (nominatiu singular masculí del demostratiu *is, ea, id*): 'ell' = Ròmul.\n- CD: ***urbem exiguam*** (acusatiu singular femení): 'una ciutat petita'.\n- ***in Palatino monte***: *in* + ablatiu, complement de lloc on: 'al mont Palatí'."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Condita urbe, multitudinem finitimorum ibi recepit, centum ex senioribus legit, quos senatores nominauit.*\n\n- ***Condita urbe***: **ablatiu absolut** (participi perfet passiu de *condo* + *urbe*): 'un cop fundada la ciutat'.\n- Primer verb: ***recepit*** (perfet de *recipio*: 'va acollir, va rebre'); CD ***multitudinem*** i el genitiu ***finitimorum*** (adjectiu substantivat: 'dels veïns') com a complement del nom; ***ibi*** adverbi de lloc ('allà, hi').\n- Segon verb, coordinat per asíndeton: ***legit*** (perfet de *lego, legi*: 'va elegir'); CD ***centum*** (numeral indeclinable: 'cent [homes]'); ***ex senioribus***: *ex* + ablatiu partitiu, *senioribus* és el comparatiu de *senex*: 'd'entre els més ancians'.\n- Relativa: ***quos*** (acusatiu plural masculí, antecedent *centum*) és CD de ***nominauit*** (perfet de *nomino*) i ***senatores*** n'és el predicatiu: 'als quals va anomenar senadors'.\n- El subjecte de tots els verbs és Ròmul (el·líptic)."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: quarta oració",
+            "cos": "*Cum uxores populus suus non haberet, inuitauit ad spectaculum uicinas Romae nationes atque earum uirgines rapuit.*\n\n- Subordinada: ***Cum*** + ***haberet*** (imperfet de subjuntiu): ***cum* històric**, amb valor temporal-causal: 'com que no tenia'. Subjecte ***populus suus***; CD ***uxores*** (acusatiu plural: 'esposes, dones').\n- Principal: dos verbs coordinats per ***atque***: ***inuitauit*** (perfet d'*inuito*) i ***rapuit*** (perfet de *rapio*: 'va raptar'). Subjecte el·líptic: Ròmul.\n- CD d'*inuitauit*: ***uicinas ... nationes*** (acusatiu plural femení: 'els pobles veïns'); ***Romae*** és datiu regit per l'adjectiu *uicinus* ('veïns de/a Roma'); ***ad spectaculum***: *ad* + acusatiu, direcció/finalitat: 'a un espectacle'.\n- CD de *rapuit*: ***uirgines***; ***earum*** (genitiu plural femení d'*is, ea, id*, referit a *nationes*) n'és el complement del nom: 'les noies d'ells (d'aquests pobles)'."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "«L'imperi romà té el (seu) començament a partir de Ròmul, el qual amb el (seu) germà Rem en un sol part va ser infantat. Ell una ciutat petita en el mont Palatí va fundar. Fundada la ciutat, una multitud de veïns allà va rebre, cent d'entre els més vells va elegir, als quals va anomenar senadors. Com que el seu poble no tenia esposes, va convidar a un espectacle els pobles veïns de Roma i les noies d'aquells va raptar.»"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "«L'imperi romà va tenir el seu origen en Ròmul, que va néixer en un mateix part amb el seu germà Rem. Ell va fundar una petita ciutat al mont Palatí. Un cop fundada la ciutat, hi va acollir una gran quantitat de veïns i en va escollir cent dels més grans, als quals va anomenar senadors. Com que el seu poble no tenia esposes, va convidar a un espectacle els pobles veïns de Roma i en va raptar les noies.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (pauta): «L'imperi romà va tenir el seu començament a partir de Ròmul, el qual va ser infantat amb el seu germà Rem en un únic part. Ell va fundar una petita ciutat en el mont Palatí. Una vegada fundada la ciutat, hi va rebre una gran quantitat de veïns, en va elegir cent dels més ancians, que va anomenar senadors. Com que el seu poble no tenia dones, va convidar a un espectacle els pobles veïns de Roma i va raptar les seves noies.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Estructures clau: relativa *qui ... editus est* (antecedent *Romulo*); ablatiu absolut *Condita urbe*; relativa *quos ... nominauit* amb predicatiu *senatores*; comparatiu *senioribus*; *cum* històric amb imperfet de subjuntiu (*haberet*); *Romae* regit per *uicinas*; *earum* referit a *nationes*."
+          }
+        ],
+        "nota": "La pauta diu que «la versió correcta del text pot adoptar formes distintes»: es valora entendre l'estructura. Errors típics: traduir *editus est* en actiu ('va infantar'); prendre *legit* com a present; no veure l'ablatiu absolut *Condita urbe*; traduir *senioribus* com a 'senyors' (és el comparatiu de *senex*, d'on ve *senatores*); fer *Romae* subjecte o locatiu sense sentit; no relacionar *earum* amb *nationes*. Context: és la llegenda del **rapte de les sabines**. La pauta oficial escriu «un gran quantitat» (errada tipogràfica per «una gran quantitat»)."
+      }
+    },
+    {
+      "id": "llati-2013-J-s4-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: la funció del relatiu qui, el seu antecedent (Romulo) i la concordança",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "oració de relatiu",
+        "pronom relatiu",
+        "antecedent",
+        "concordança",
+        "eutropi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "Romanum imperium a Romulo exordium habet, qui cum Remo fratre uno partu editus est. Is urbem exiguam in Palatino monte constituit. Condita urbe, multitudinem finitimorum ibi recepit, centum ex senioribus legit, quos senatores nominauit. Cum uxores populus suus non haberet, inuitauit ad spectaculum uicinas Romae nationes atque earum uirgines rapuit.\n\nFlavi Eutropi, *Breviari d'història de Roma*, 1,1 – 2,2",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «Romanum imperium a Romulo exordium habet, qui cum Remo fratre uno partu editus est», indiqueu la funció sintàctica de *qui*, assenyaleu-ne l'antecedent i digueu en què hi concorda.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts) amb **tres** demandes: funció de *qui*, antecedent i concordança. Respon-les totes tres i de manera explícita."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *qui* és nominatiu singular masculí del relatiu *qui, quae, quod*.\n2. Dins de la seva oració, el verb és *editus est* (passiu) i no té cap altre subjecte: *qui* n'és el **subjecte**.\n3. L'antecedent ha de ser un mot masculí singular de la principal amb sentit: *Romulo* (qui va néixer amb Rem és Ròmul, no l'imperi; *imperium* i *exordium* són neutres).\n4. Regla: el relatiu concorda amb l'antecedent en **gènere i nombre**; el cas depèn de la funció (per això *qui* és nominatiu i *Romulo* ablatiu)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Qui* és el **subjecte** del verb *editus est* de l'oració de relatiu. El seu antecedent és ***Romulo***, i hi concorda en **gènere (masculí) i nombre (singular)**; no hi concorda en cas, perquè el cas del relatiu depèn de la funció que fa dins de la seva oració (*qui* és nominatiu perquè és subjecte, mentre que *Romulo* és ablatiu, regit per *a*). Traducció: «Ròmul, **el qual** va ser infantat amb el seu germà Rem en un sol part»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Qui* és el subjecte d'*editus est*."
+          },
+          {
+            "apartat": null,
+            "valor": "Antecedent: *Romulo*."
+          },
+          {
+            "apartat": null,
+            "valor": "Hi concorda en gènere i nombre (masculí singular)."
+          }
+        ],
+        "nota": "Errors típics: dir que l'antecedent és *imperium* (és neutre: el relatiu seria *quod*); dir que concorda en cas. Com que *editus* és masculí singular, també confirma que el subjecte és Ròmul."
+      }
+    },
+    {
+      "id": "llati-2013-J-s4-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: l'oració de cum històric i la forma haberet (imperfet de subjuntiu)",
+      "tema": "sintaxi",
+      "temes_secundaris": [
+        "morfologia"
+      ],
+      "conceptes": [
+        "cum històric",
+        "subjuntiu",
+        "imperfet de subjuntiu",
+        "oració subordinada adverbial",
+        "eutropi"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "Romanum imperium a Romulo exordium habet, qui cum Remo fratre uno partu editus est. Is urbem exiguam in Palatino monte constituit. Condita urbe, multitudinem finitimorum ibi recepit, centum ex senioribus legit, quos senatores nominauit. Cum uxores populus suus non haberet, inuitauit ad spectaculum uicinas Romae nationes atque earum uirgines rapuit.\n\nFlavi Eutropi, *Breviari d'història de Roma*, 1,1 – 2,2",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «Cum uxores populus suus non haberet, inuitauit ad spectaculum uicinas Romae nationes atque earum uirgines rapuit», digueu el tipus d'oració que introdueix *cum* i el temps i el mode de la forma *haberet*.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts). Cal dir: (1) quina mena d'oració introdueix *cum* i (2) el temps i el mode de *haberet*. Les dues coses estan relacionades: *cum* + subjuntiu."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. Analitza *haberet*: tema de present *habe-* + sufix **-re-** + desinència *-t* → **imperfet de subjuntiu**, 3a sg. (*haberem, haberes, haberet...*).\n2. *Cum* pot ser preposició (+ ablatiu) o conjunció. Aquí introdueix un verb conjugat: és **conjunció**.\n3. *Cum* + subjuntiu (imperfet o plusquamperfet) en un relat en passat = ***cum* històric** (o narratiu): subordinada adverbial de valor **temporal-causal**.\n4. El sentit confirma el matís causal: «**com que** el seu poble no tenia dones, va convidar...»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "*Cum* introdueix una **oració subordinada adverbial de *cum* històric** (o narratiu), amb valor **temporal-causal**: «com que el seu poble no tenia dones». La forma ***haberet*** és la 3a persona del singular del **pretèrit imperfet de subjuntiu** del verb *habeo, -es, -ere, habui, habitum* (2a conjugació). El subjuntiu és el mode propi del *cum* històric, i l'imperfet expressa una acció simultània a la del verb principal en passat (*inuitauit*, *rapuit*)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Oració subordinada adverbial de *cum* històric, amb valor temporal-causal."
+          },
+          {
+            "apartat": null,
+            "valor": "*haberet*: pretèrit imperfet de subjuntiu (3a sg. d'*habeo*)."
+          }
+        ],
+        "nota": "Errors típics: confondre *cum* conjunció amb la preposició *cum* + ablatiu; dir que *haberet* és indicatiu o condicional. Recorda: l'imperfet de subjuntiu es forma amb l'infinitiu de present + desinència (*habere-t*)."
+      }
+    },
+    {
+      "id": "llati-2013-J-s4-e3-a",
+      "exercici": 3,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Les termes romanes: completar una descripció amb apoditeri, caldari, hipocaust, tepidari, frigidari i laconicum",
+      "tema": "cultura",
+      "temes_secundaris": [
+        "lexic-etimologia"
+      ],
+      "conceptes": [
+        "termes",
+        "apoditeri",
+        "caldari",
+        "tepidari",
+        "frigidari",
+        "hipocaust",
+        "laconicum",
+        "pompeia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "Tots es van dirigir a (1) __________ del fòrum, el punt de trobada d'aquella gent alegre, xerraire i ociosa. Van entrar a la primera habitació, (2) __________, vestidor on es preparaven per fer les seves ablucions. Dos finestrals tamisaven una llum suau; al voltant de l'habitació hi havia un banc, on es van asseure per escoltar el poeta Flavi, que va recitar una oda meravellosa. Acabada la lectura, es van despullar i van passar a (3) __________, on hi havia un braser, una pica i unes piscines calentes; l'escalfor de la sala provenia de (4) __________, que era una cambra subterrània per on circulava aire calent; les parets estaven pintades de vermell carmesí i el fals terra estava recobert de (5) __________ que representava unes nimfes jugant amb les ones. Des d'allí van passar a (6) __________, una habitació temperada que servia de transició a (7) __________, on van prendre un bany en una petita piscina d'aigua freda. Qui volia també va poder prendre una sauna en (8) __________.\n\nAdaptació feta a partir del text d'Edward Bulwer-Lytton, *The last days of Pompeii* ('Els últims dies de Pompeia')",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,25 punts i no es penalitzaran les respostes errònies). Completeu el text següent, que descriu un edifici romà, amb UNA de les quinze opcions que us proposem a continuació. Escriviu en l'espai en blanc la lletra de l'opció que correspon en cada cas.\n\n*a*) l'atri, *b*) una pintura, *c*) el *laconicum*, *d*) l'apoditeri, *e*) les metes, *f*) l'hipocaust, *g*) el frigidari, *h*) un estuc, *i*) el velàrium, *j*) les termes, *k*) el temple, *l*) la palestra, *m*) el tepidari, *n*) un mosaic, *o*) el caldari.\n\n(Els buits del text s'han numerat de l'1 al 8 per facilitar-ne la correcció.)",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "1",
+          "enunciat": "Buit 1.",
+          "punts": 0.25
+        },
+        {
+          "id": "2",
+          "enunciat": "Buit 2.",
+          "punts": 0.25
+        },
+        {
+          "id": "3",
+          "enunciat": "Buit 3.",
+          "punts": 0.25
+        },
+        {
+          "id": "4",
+          "enunciat": "Buit 4.",
+          "punts": 0.25
+        },
+        {
+          "id": "5",
+          "enunciat": "Buit 5.",
+          "punts": 0.25
+        },
+        {
+          "id": "6",
+          "enunciat": "Buit 6.",
+          "punts": 0.25
+        },
+        {
+          "id": "7",
+          "enunciat": "Buit 7.",
+          "punts": 0.25
+        },
+        {
+          "id": "8",
+          "enunciat": "Buit 8.",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici de 2 punts: **vuit buits** a 0,25 punts cadascun, sense descompte per errors (omple'ls tots). Hi ha 15 opcions per a 8 buits, és a dir, 7 distractors (l'atri, les metes del circ, el velàrium de l'amfiteatre, el temple, la palestra, una pintura, un estuc). Llegeix tot el text abans de començar: les pistes són la funció de cada sala (vestidor, sala calenta, sala temperada, aigua freda, sauna)."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "Segueix el **recorregut del banyista** a les termes: s'entra a les **termes** (1) → es desvesteix a l'**apoditeri** (2, vestidor) → passa a la sala calenta, el **caldari** (3, amb piscines calentes), escalfada per l'**hipocaust** (4, cambra subterrània amb aire calent sota el terra sobreaixecat) → el terra decorat amb un **mosaic** (5) → el **tepidari** (6, sala temperada de transició) → el **frigidari** (7, piscina d'aigua freda) → la sauna seca és el ***laconicum*** (8).\n\nPistes lingüístiques: *calidarium* < *calidus* 'calent'; *tepidarium* < *tepidus* 'tebi'; *frigidarium* < *frigidus* 'fred'; *apodyterium* < grec *apodyo* 'desvestir-se'; *hypocaustum* < grec 'cremat per sota'; *laconicum* 'a la manera dels laconis (espartans)'."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "1. *j*) les termes\n2. *d*) l'apoditeri\n3. *o*) el caldari\n4. *f*) l'hipocaust\n5. *n*) un mosaic\n6. *m*) el tepidari\n7. *g*) el frigidari\n8. *c*) el *laconicum*"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "1",
+            "valor": "*j*) les termes"
+          },
+          {
+            "apartat": "2",
+            "valor": "*d*) l'apoditeri"
+          },
+          {
+            "apartat": "3",
+            "valor": "*o*) el caldari"
+          },
+          {
+            "apartat": "4",
+            "valor": "*f*) l'hipocaust"
+          },
+          {
+            "apartat": "5",
+            "valor": "*n*) un mosaic"
+          },
+          {
+            "apartat": "6",
+            "valor": "*m*) el tepidari"
+          },
+          {
+            "apartat": "7",
+            "valor": "*g*) el frigidari"
+          },
+          {
+            "apartat": "8",
+            "valor": "*c*) el *laconicum*"
+          }
+        ],
+        "nota": "La pauta oficial només dona set lletres (j – d – o – f – n – m – g –) i deixa en blanc la vuitena; per l'enunciat («una sauna») la resposta és clarament *c*) el *laconicum*, l'única opció restant que hi encaixa. Error típic: confondre tepidari i frigidari (el text diu que el tepidari és la sala «temperada» de transició) o posar l'hipocaust com a sala on es banyaven."
+      }
+    },
+    {
+      "id": "llati-2013-J-s4-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Eneida, il·lustració 1: Laocoont i les serps",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "laocoont",
+        "cavall de troia",
+        "eneida",
+        "virgili",
+        "escultura hel·lenística"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts i no es penalitzaran les respostes errònies). Identifiqueu cadascuna de les il·lustracions següents amb un dels nou episodis de l'*Eneida*, de Virgili, que us proposem a continuació. Escriviu en l'espai en blanc l'episodi que correspon en cada cas.\n\nIl·lustració 1.",
+      "figures": [
+        {
+          "src": "img/llati/2013-J/s4-e3-q1-b.png",
+          "peu": "Grup escultòric: un home barbut i dos joves lluitant contra unes serps que els envolten."
+        }
+      ],
+      "opcions": {
+        "a": "La mort de Pal·lant",
+        "b": "La fugida d'Eneas de Troia",
+        "c": "La mort de Turn",
+        "d": "L'aparició de Mercuri a Eneas a Cartago",
+        "e": "L'episodi de Nis i Euríal",
+        "f": "La mort de Laocoont",
+        "g": "La trobada d'Eneas amb Anquises als inferns",
+        "h": "La mort de Dido",
+        "i": "L'arribada d'Eneas a Cartago"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "f",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre il·lustracions a 0,5 punts, sense descompte per errors. Hi ha nou episodis per a quatre imatges. Busca a cada imatge el **detall que identifica** l'escena (serps, un home que en porta un altre a l'esquena, una dona amb una espasa, dos joves guerrers...) i relaciona'l amb el que saps de cada llibre de l'*Eneida*."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Les **serps** que envolten un home barbut i dos joves són inconfusibles: és el famós grup hel·lenístic del **Laocoont** (Museus Vaticans). Al llibre II de l'*Eneida*, el sacerdot troià Laocoont avisa que no es fiïn del cavall de fusta («temo els grecs fins i tot quan porten regals») i hi clava una llança; tot seguit dues serps sortides del mar l'ofeguen amb els seus fills. Els troians ho interpreten com un càstig diví i entren el cavall a la ciutat. Resposta: *f*) La mort de Laocoont."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*f*) La mort de Laocoont."
+          }
+        ],
+        "nota": "Distractor possible: la mort de Turn o de Pal·lant (morts en combat, sense serps)."
+      }
+    },
+    {
+      "id": "llati-2013-J-s4-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Eneida, il·lustració 2: Eneas fuig de Troia amb Anquises i Ascani",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "eneas",
+        "anquises",
+        "ascani",
+        "pietas",
+        "eneida",
+        "virgili"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts i no es penalitzaran les respostes errònies). Identifiqueu cadascuna de les il·lustracions següents amb un dels nou episodis de l'*Eneida*, de Virgili, que us proposem a continuació. Escriviu en l'espai en blanc l'episodi que correspon en cada cas.\n\nIl·lustració 2.",
+      "figures": [
+        {
+          "src": "img/llati/2013-J/s4-e3-q2-b.png",
+          "peu": "Estatueta de terracota: un guerrer que porta un ancià a les espatlles i duu de la mà un nen."
+        }
+      ],
+      "opcions": {
+        "a": "La mort de Pal·lant",
+        "b": "La fugida d'Eneas de Troia",
+        "c": "La mort de Turn",
+        "d": "L'aparició de Mercuri a Eneas a Cartago",
+        "e": "L'episodi de Nis i Euríal",
+        "f": "La mort de Laocoont",
+        "g": "La trobada d'Eneas amb Anquises als inferns",
+        "h": "La mort de Dido",
+        "i": "L'arribada d'Eneas a Cartago"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre il·lustracions a 0,5 punts, sense descompte per errors. Hi ha nou episodis per a quatre imatges. Busca a cada imatge el **detall que identifica** l'escena (serps, un home que en porta un altre a l'esquena, una dona amb una espasa, dos joves guerrers...) i relaciona'l amb el que saps de cada llibre de l'*Eneida*."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Un guerrer que porta **un ancià a l'esquena** i **un nen de la mà** és la imatge clàssica d'**Eneas fugint de Troia en flames** amb el seu pare Anquises (que porta els penats, els déus de la llar) i el seu fill Ascani (Iulus), al llibre II. És el símbol de la ***pietas*** d'Eneas: respecte pels déus, el pare i la pàtria. Resposta: *b*) La fugida d'Eneas de Troia."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*b*) La fugida d'Eneas de Troia."
+          }
+        ],
+        "nota": "No el confonguis amb la trobada amb Anquises als inferns (llibre VI): allà Anquises és una ombra i Eneas no el pot abraçar."
+      }
+    },
+    {
+      "id": "llati-2013-J-s4-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Eneida, il·lustració 3: La mort de Dido",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "dido",
+        "cartago",
+        "eneas",
+        "eneida",
+        "virgili",
+        "llibre iv"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts i no es penalitzaran les respostes errònies). Identifiqueu cadascuna de les il·lustracions següents amb un dels nou episodis de l'*Eneida*, de Virgili, que us proposem a continuació. Escriviu en l'espai en blanc l'episodi que correspon en cada cas.\n\nIl·lustració 3.",
+      "figures": [
+        {
+          "src": "img/llati/2013-J/s4-e3-q3-b.png",
+          "peu": "Escultura d'una dona que es clava una espasa al pit, dempeus sobre una pira d'objectes."
+        }
+      ],
+      "opcions": {
+        "a": "La mort de Pal·lant",
+        "b": "La fugida d'Eneas de Troia",
+        "c": "La mort de Turn",
+        "d": "L'aparició de Mercuri a Eneas a Cartago",
+        "e": "L'episodi de Nis i Euríal",
+        "f": "La mort de Laocoont",
+        "g": "La trobada d'Eneas amb Anquises als inferns",
+        "h": "La mort de Dido",
+        "i": "L'arribada d'Eneas a Cartago"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "h",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre il·lustracions a 0,5 punts, sense descompte per errors. Hi ha nou episodis per a quatre imatges. Busca a cada imatge el **detall que identifica** l'escena (serps, un home que en porta un altre a l'esquena, una dona amb una espasa, dos joves guerrers...) i relaciona'l amb el que saps de cada llibre de l'*Eneida*."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Una **dona amb una espasa** contra el pit, damunt d'una **pira** amb armes i objectes, és **Dido**, la reina de Cartago (escultura de Claude-Augustin Cayot, Louvre). Al llibre IV, quan Eneas l'abandona per obeir els déus i anar cap a Itàlia, Dido fa preparar una pira amb els records de l'heroi, s'hi enfila i es clava l'espasa d'Eneas, tot maleint-lo (origen mític de l'odi entre Cartago i Roma). Resposta: *h*) La mort de Dido."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*h*) La mort de Dido."
+          }
+        ],
+        "nota": "L'arribada d'Eneas a Cartago i l'aparició de Mercuri també són del cicle de Dido, però no hi ha cap mort."
+      }
+    },
+    {
+      "id": "llati-2013-J-s4-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Eneida, il·lustració 4: Nis i Euríal",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "nis i euríal",
+        "amistat",
+        "eneida",
+        "virgili",
+        "llibre ix"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts i no es penalitzaran les respostes errònies). Identifiqueu cadascuna de les il·lustracions següents amb un dels nou episodis de l'*Eneida*, de Virgili, que us proposem a continuació. Escriviu en l'espai en blanc l'episodi que correspon en cada cas.\n\nIl·lustració 4.",
+      "figures": [
+        {
+          "src": "img/llati/2013-J/s4-e3-q4-b.png",
+          "peu": "Grup escultòric: un jove guerrer amb casc sosté el cos d'un altre jove mort estès a terra."
+        }
+      ],
+      "opcions": {
+        "a": "La mort de Pal·lant",
+        "b": "La fugida d'Eneas de Troia",
+        "c": "La mort de Turn",
+        "d": "L'aparició de Mercuri a Eneas a Cartago",
+        "e": "L'episodi de Nis i Euríal",
+        "f": "La mort de Laocoont",
+        "g": "La trobada d'Eneas amb Anquises als inferns",
+        "h": "La mort de Dido",
+        "i": "L'arribada d'Eneas a Cartago"
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "e",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre il·lustracions a 0,5 punts, sense descompte per errors. Hi ha nou episodis per a quatre imatges. Busca a cada imatge el **detall que identifica** l'escena (serps, un home que en porta un altre a l'esquena, una dona amb una espasa, dos joves guerrers...) i relaciona'l amb el que saps de cada llibre de l'*Eneida*."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Dos **joves guerrers**, l'un mort a terra i l'altre que el protegeix mentre és ferit, representen **Nis i Euríal** (grup de Jean-Baptiste Roman, Louvre). Al llibre IX, aquests dos amics troians surten de nit del campament per avisar Eneas, fan una matança entre els rútuls adormits, però són descoberts: Euríal és capturat i Nis, en lloc de fugir, torna per salvar-lo i mor damunt el cos del seu amic. És el gran exemple d'**amistat** de l'*Eneida*. Resposta: *e*) L'episodi de Nis i Euríal."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*e*) L'episodi de Nis i Euríal."
+          }
+        ],
+        "nota": "Distractors: la mort de Pal·lant (un sol jove, mort per Turn) i la mort de Turn (mort per Eneas al final del poema). Aquí hi ha dos joves junts: és Nis i Euríal."
+      }
+    },
+    {
+      "id": "llati-2013-J-s4-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "La figura i l'obra de Tit Livi: biografia, Ab urbe condita, objectius, extensió i fonts",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "tit livi",
+        "ab urbe condita",
+        "historiografia",
+        "august",
+        "època d'august"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *La figura i l'obra de Tit Livi*. Indiqueu-ne les dades biogràfiques; digueu el títol, el tema i el gènere literari de la seva obra; expliqueu-ne els objectius principals, l'extensió i les fonts que va usar per a redactar-la.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. L'enunciat detalla tots els punts que cal tractar: fes-ne una llista abans d'escriure i segueix-ne l'ordre, amb un paràgraf per a cada bloc. Es valora el contingut (dades concretes, termes llatins correctes) i la redacció ordenada."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Biografia**: Patavium (Pàdua), c. 59 aC – 17 dC; família benestant; a Roma, amic d'August però no polític ni membre dels cercles literaris (Mecenàs); idees republicanes, però favorable a la reforma moral d'August.\n2. **Obra**: *Ab urbe condita*, gènere **historiografia**; tema: la història de Roma des de la fundació fins a la seva època.\n3. **Extensió**: 142 llibres publicats per grups de deu (dècades); se'n conserven uns 35.\n4. **Objectius** (pròleg): commemorar les gestes del primer poble del món; mostrar les virtuts que el van fer gran i la decadència moral posterior (guerres civils); donar suport a la regeneració moral d'August → finalitat **didàctica i moral** (*exempla*).\n5. **Fonts**: els analistes romans, historiadors grecs com Polibi, Cató i Cèsar."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Tit Livi va néixer a *Patavium* (Pàdua) cap al 59 aC, en una família benestant de l'elit municipal, i va morir el 17 dC. Ja adult es va instal·lar a Roma, on va guanyar-se l'amistat d'August, però, a diferència de la majoria d'historiadors romans, no va fer carrera política ni va formar part del cercle de Mecenàs. De conviccions republicanes, va donar suport, en canvi, a la reforma moral que impulsava l'emperador.\n\nLa seva única obra és ***Ab urbe condita*** ('Des de la fundació de la ciutat'), del gènere **historiogràfic**: narra la història de Roma des dels orígens llegendaris fins a la seva època. Constava de **142 llibres**, publicats per entregues, probablement en grups de deu (dècades); només se'n conserven uns **35**.\n\nAl pròleg explica els seus objectius: recordar les gestes del primer poble del món, mostrar quins homes i quines virtuts van fer gran Roma i com la decadència moral la va dur a les guerres civils, i col·laborar així amb la regeneració d'August. La seva història té, doncs, una finalitat **didàctica i moral**: els fets del passat són exemples per a les generacions futures. Com a fonts va fer servir sobretot els **analistes** romans, historiadors grecs com **Polibi** i autors anteriors com **Cató** i **Cèsar**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Biografia: Pàdua, c. 59 aC – 17 dC; família acomodada; amistat amb August, sense carrera política ni cercles literaris; republicà però favorable a la reforma moral d'August."
+          },
+          {
+            "apartat": null,
+            "valor": "Obra: *Ab urbe condita*, historiografia; història de Roma des de la fundació mítica fins a l'època de l'autor."
+          },
+          {
+            "apartat": null,
+            "valor": "Extensió: 142 llibres publicats per entregues (de deu en deu); se'n conserven uns 35."
+          },
+          {
+            "apartat": null,
+            "valor": "Objectius: recordar les gestes del poble romà; mostrar la grandesa i la decadència moral (guerres civils); col·laborar amb la reforma d'August; objectiu didàctic i ètic."
+          },
+          {
+            "apartat": null,
+            "valor": "Fonts: els últims analistes romans, autors grecs com Polibi, historiadors anteriors com Cató i Cèsar."
+          }
+        ],
+        "nota": "La resposta model té unes 207 paraules (el mínim és ~150). La pauta avisa que el seu redactat és «un simple model» que no s'ha de copiar: es valoren els continguts. Errors típics: atribuir-li càrrecs polítics (com a Sal·lusti o Cèsar), confondre el títol amb els *Annales* de Tàcit o oblidar els objectius morals."
+      }
+    },
+    {
+      "id": "llati-2013-J-s4-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Els temples romans: origen, parts (podi, vestíbul, cella), tipologia, culte i restes a Catalunya i Hispània",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "temple romà",
+        "cella",
+        "podi",
+        "capitoli",
+        "tríade capitolina",
+        "temple de vic",
+        "temple d'august de barcelona"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *Els temples romans*. Expliqueu-ne l'origen, l'estructura i la tipologia; digueu com s'anomenaven les parts principals de què constaven i quina funció tenien; on se celebraven els ritus; on solia estar el temple principal d'una ciutat, a qui solia estar dedicat i qui s'ocupava del culte. Finalment, enumereu, com a mínim, tres ciutats de Catalunya o de la península Ibèrica que conservin restes de temples romans.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. L'enunciat detalla tots els punts que cal tractar: fes-ne una llista abans d'escriure i segueix-ne l'ordre, amb un paràgraf per a cada bloc. Es valora el contingut (dades concretes, termes llatins correctes) i la redacció ordenada."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Origen**: temple etrusc + elements grecs.\n2. **Estructura**: planta rectangular (rarament circular); **podium**, escala frontal, ***uestibulum*** (pòrtic amb columnes), ***cella*** (estàtua del déu, accés només dels sacerdots).\n3. **Tipologia** pel nombre de columnes de la façana: tetràstil (Empúries), hexàstil (Barcelona, Vic, Mèrida, Évora), octàstil (Tarragona).\n4. **Ritus**: a l'**ara** (altar) davant del temple, amb els fidels a fora.\n5. **Capitoli**: al fòrum, dedicat a la **tríade capitolina** (Júpiter, Juno, Minerva); també temples als emperadors divinitzats; culte a càrrec dels **col·legis sacerdotals**.\n6. **Restes**: Vic, Barcelona, Tarragona, Empúries; Évora, Mèrida, Pollentia (Alcúdia)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "El temple romà deriva del **temple etrusc**, al qual es van afegir elements dels temples grecs. Normalment tenia planta rectangular, tot i que n'hi havia de circulars, i s'alçava sobre un **podi** (*podium*), una base elevada que només tenia una **escala d'accés frontal**. Les parts principals eren el ***uestibulum***, un pòrtic davanter amb una o dues fileres de columnes, i la ***cella***, la sala interior on hi havia l'estàtua de la divinitat i on només podien entrar els sacerdots; la *cella* solia estar envoltada de columnes o pilastres.\n\nSegons el nombre de columnes de la façana, els temples podien ser **tetràstils** (quatre, com a Empúries), **hexàstils** (sis, com a Barcelona, Vic o Mèrida) o **octàstils** (vuit, com a Tarragona).\n\nEls ritus i sacrificis es feien a l'exterior, a l'**ara** (altar) situada davant del temple, en presència dels fidels, que no entraven a dins. El temple principal de cada ciutat era el **Capitoli**, situat al **fòrum** i dedicat a la **tríade capitolina**: Júpiter, Juno i Minerva; en època imperial també se'n van dedicar als emperadors divinitzats. Del culte se n'ocupaven els **col·legis sacerdotals**.\n\nA Catalunya en queden restes a **Vic**, **Barcelona** (temple d'August, al carrer del Paradís), **Tarragona** i **Empúries**; a la Península, destaquen el temple d'**Évora** (Portugal), molt ben conservat, i els de **Mèrida** i **Pollentia** (Alcúdia)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Origen etrusc amb afegits grecs; planta rectangular (excepcionalment circular)."
+          },
+          {
+            "apartat": null,
+            "valor": "Parts: podi, escala frontal, *uestibulum* (pòrtic de columnes), *cella* (estàtua del déu, accés restringit als sacerdots), envoltada de columnes o pilastres."
+          },
+          {
+            "apartat": null,
+            "valor": "Tipologia per columnes frontals: tetràstil (Empúries), hexàstil (Barcelona, Vic, Mèrida, Évora), octàstil (Tarragona)."
+          },
+          {
+            "apartat": null,
+            "valor": "Ritus a l'ara davant del temple, amb els fidels a fora."
+          },
+          {
+            "apartat": null,
+            "valor": "Temple principal: el Capitoli, al fòrum, dedicat a la tríade capitolina (Júpiter, Juno i Minerva); també temples als emperadors divinitzats; culte a càrrec dels col·legis sacerdotals."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes: Vic, Tarragona, Barcelona, Empúries; Évora, Mèrida, Alcúdia (Pollentia)."
+          }
+        ],
+        "nota": "La resposta model té unes 217 paraules (el mínim és ~150). La pauta avisa que el seu redactat és «un simple model» que no s'ha de copiar: es valoren els continguts. Errors típics: dir que els fidels entraven a la *cella* per resar (els ritus eren a l'exterior), oblidar el podi o donar menys de tres ciutats amb restes."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "3",
+      "tipus": "traduccio",
+      "punts": 5,
+      "titol": "Traducció d'una vida de Virgili: de Màntua a Roma, mort a Bríndisi i sepultura a Nàpols",
+      "tema": "traduccio",
+      "temes_secundaris": [
+        "sintaxi",
+        "morfologia"
+      ],
+      "conceptes": [
+        "virgili",
+        "biografia",
+        "ablatiu absolut",
+        "operam dare",
+        "complement de direcció",
+        "august"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        10
+      ],
+      "text": "**La vida de Virgili**\n\nVergilius fuit Mantuanus. Mantua et in diuersis locis operam litteris dedit; postea, amissis agris paternis, Romam uenit et suo ingenio fauorem Augusti et principum ac populi omnis sibi comparauit. Tandem in Brundisio naturae concessit et iussu Augusti eius ossa Neapolim translata sunt —prout ipse optauit— sepultaque in via Puteolana.\n\n*Expositio Monacensis* I\n\n**Lèxic** (per ordre alfabètic):\n\n- *comparo* (1a): 'procurar'.\n- *concedo, -cessi, -cessum* (3a): 'sucumbir'.\n- *princeps, -cipis*: 'líder'.\n- *Puteolanus, -a, -um*: 'de Putèols' (ciutat prop de Nàpols).\n- *transfero, -tuli, -latum* (irregular): 'traslladar'.",
+      "enunciat": "Feu la versió del text següent (5 punts). Exercici comú a les dues opcions.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Text biogràfic breu sobre Virgili (d'una *vita* medieval conservada a Munic) amb **tres oracions**. Val **5 punts**: dedica-hi uns 40-45 minuts. Ajuda molt saber la vida de Virgili: nascut a Màntua, va perdre les terres en les confiscacions per als veterans, va tenir la protecció d'August i Mecenàs, va morir a Bríndisi (19 aC) i va ser enterrat a Nàpols.\n\nVerbs conjugats: *fuit*, *dedit*, *uenit*, *comparauit*, *concessit*, *translata sunt*, *optauit* i el *sepulta* [*sunt*] el·líptic. Estructures: l'expressió ***operam dare* + datiu** ('dedicar-se a'), un **ablatiu absolut** (*amissis agris paternis*), noms de ciutat sense preposició (*Mantua*, *Romam*, *Neapolim*), l'eufemisme ***naturae concedere*** ('morir') i una passiva perifràstica de perfet (*translata sunt*).\n\nParanys: *Mantua* és ablatiu (lloc on), no subjecte; *uenit* és perfet (*vēnit*); *principum* és genitiu plural de *princeps* (no de *principium*); *sibi* és reflexiu; *eius* es refereix a Virgili."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: primera oració",
+            "cos": "*Vergilius fuit Mantuanus.*\n\n- Verb copulatiu ***fuit*** (perfet de *sum*); subjecte ***Vergilius***; atribut ***Mantuanus*** ('mantuà, de Màntua')."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: segona oració",
+            "cos": "*Mantua et in diuersis locis operam litteris dedit; postea, amissis agris paternis, Romam uenit et suo ingenio fauorem Augusti et principum ac populi omnis sibi comparauit.*\n\n- Primer verb: ***dedit*** (perfet de *do*) amb ***operam*** (CD) i ***litteris*** (datiu): ***operam dare* + datiu** = 'dedicar-se a les lletres'.\n- ***Mantua*** (ablatiu de lloc on, sense preposició) ***et in diuersis locis*** (*in* + ablatiu): 'a Màntua i en diversos llocs'.\n- ***amissis agris paternis***: **ablatiu absolut** (participi perfet passiu d'*amitto*): 'perduts els camps paterns' → 'després de perdre els camps del seu pare'.\n- ***Romam uenit***: *Romam* acusatiu de direcció sense preposició (nom de ciutat); *uenit* perfet de *uenio*.\n- ***comparauit*** (perfet de *comparo*, 'procurar'), coordinat per *et*: CD ***fauorem***, del qual depenen tres genitius (CN): ***Augusti***, ***principum*** (genitiu plural de *princeps*: 'dels líders') i ***populi omnis***; ***suo ingenio***: ablatiu instrumental ('amb el seu talent'); ***sibi***: datiu reflexiu d'interès ('es va procurar per a ell')."
+          },
+          {
+            "apartat": null,
+            "titol": "Anàlisi: tercera oració",
+            "cos": "*Tandem in Brundisio naturae concessit et iussu Augusti eius ossa Neapolim translata sunt —prout ipse optauit— sepultaque in via Puteolana.*\n\n- ***naturae concessit***: *concessit* (perfet de *concedo*, 'sucumbir') + datiu *naturae*: 'va sucumbir a la naturalesa' = **va morir** (eufemisme). ***in Brundisio***: lloc on. ***Tandem***: 'finalment'.\n- Segona oració, coordinada per *et*: subjecte ***eius ossa*** (*ossa* nominatiu plural neutre d'*os, ossis*; *eius* genitiu, CN: 'els seus ossos'); verb ***translata sunt*** (perfet passiu de *transfero*); ***iussu Augusti***: ablatiu de causa (*iussus, -us*) + genitiu: 'per ordre d'August'; ***Neapolim***: acusatiu de direcció (*Neapolis, -is*).\n- ***prout ipse optauit***: subordinada adverbial modal/comparativa: 'tal com ell mateix va desitjar'.\n- ***sepultaque*** [*sunt*]: participi neutre plural concordat amb *ossa*, amb *sunt* el·líptic, coordinat amb l'enclític *-que*: 'i enterrats'; ***in via Puteolana***: lloc on."
+          },
+          {
+            "apartat": null,
+            "titol": "Traducció literal",
+            "cos": "«Virgili fou mantuà. A Màntua i en diversos llocs donà dedicació a les lletres; després, perduts els camps paterns, vingué a Roma i amb el seu talent el favor d'August i dels líders i de tot el poble per a ell es procurà. Finalment a Bríndisi va cedir a la natura i per ordre d'August els seus ossos a Nàpols van ser traslladats —tal com ell mateix desitjà— i enterrats a la via de Putèols.»"
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "«Virgili era de Màntua. Es va dedicar a les lletres a Màntua i en diversos llocs; després, quan va perdre les terres del seu pare, va anar a Roma i, gràcies al seu talent, es va guanyar el favor d'August, dels líders i de tot el poble. Finalment va morir a Bríndisi i, per ordre d'August, els seus ossos van ser traslladats a Nàpols —tal com ell mateix havia desitjat— i enterrats a la via de Putèols.»"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Versió oficial (pauta): «Virgili fou mantuà. A Màntua i en diferents llocs es va dedicar a les lletres; després, en haver perdut els camps del seu pare, va anar a Roma i amb el seu enginy es va procurar el favor d'August, dels líders i de tot el poble. Finalment va sucumbir a la naturalesa [va morir] a Bríndisi i, per ordre d'August, els seus ossos van ser traslladats a Nàpols –tal com ell mateix va desitjar– i enterrats a la via de Putèols.»"
+          },
+          {
+            "apartat": null,
+            "valor": "Estructures clau: *operam dare* + datiu; ablatius de lloc i acusatius de direcció sense preposició (*Mantua*, *Romam*, *Neapolim*); ablatiu absolut *amissis agris paternis*; genitius CN de *fauorem*; *naturae concessit* (= va morir); passiva *translata sunt* (subjecte *ossa*) i *sepulta* [*sunt*] el·líptic."
+          }
+        ],
+        "nota": "La pauta és «orientativa»: s'accepten versions diverses si respecten l'estructura. Errors típics: fer *Mantua* subjecte; traduir *operam dedit* literalment sense sentit; no reconèixer l'ablatiu absolut; confondre *principum* (de *princeps*) amb *principium*; traduir *naturae concessit* com 'va concedir a la natura'; no veure el *sunt* el·líptic de *sepulta*. El text diu *via* amb *v* (la resta del text escriu *u*)."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e2-a",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: anàlisi de principum (genitiu plural) i funció de complement del nom de fauorem",
+      "tema": "morfologia",
+      "temes_secundaris": [
+        "sintaxi"
+      ],
+      "conceptes": [
+        "genitiu",
+        "complement del nom",
+        "tercera declinació",
+        "princeps",
+        "virgili"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "Vergilius fuit Mantuanus. Mantua et in diuersis locis operam litteris dedit; postea, amissis agris paternis, Romam uenit et suo ingenio fauorem Augusti et principum ac populi omnis sibi comparauit. Tandem in Brundisio naturae concessit et iussu Augusti eius ossa Neapolim translata sunt —prout ipse optauit— sepultaque in via Puteolana.\n\n*Expositio Monacensis* I",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «[Vergilius] suo ingenio fauorem Augusti et principum ac populi omnis sibi comparauit», analitzeu morfològicament *principum* i digueu-ne la funció sintàctica.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts) amb dues parts: **anàlisi morfològica** (lema, declinació, gènere, cas i nombre) i **funció sintàctica**."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. El lèxic dona *princeps, -cipis*: tema *princip-*, 3a declinació (tema en consonant).\n2. La terminació **-um** a la 3a declinació és el **genitiu plural** (*principum*).\n3. Està coordinat per *et* i *ac* amb *Augusti* i *populi omnis*, també genitius: tots tres depenen de *fauorem*.\n4. Un genitiu que depèn d'un substantiu és **complement del nom**: «el favor d'August, **dels líders** i de tot el poble»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "***Principum*** és el **genitiu plural** masculí de *princeps, principis* ('líder'), substantiu de la **3a declinació** (tema en consonant). Fa la funció de **complement del nom** de ***fauorem***, coordinat amb *Augusti* i *populi omnis*: «el favor d'August, **dels líders** i de tot el poble»."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Principum*: genitiu plural (de *princeps, -cipis*, 3a declinació)."
+          },
+          {
+            "apartat": null,
+            "valor": "Funció: complement del nom de *fauorem*."
+          }
+        ],
+        "nota": "Errors típics: confondre la terminació *-um* amb un acusatiu singular de la 2a declinació (o un neutre de *principium*); dir que és CD de *comparauit* (el CD és *fauorem*)."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e2-b",
+      "exercici": 2,
+      "questio": null,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 1,
+      "titol": "Morfosintaxi: anàlisi d'ossa (nominatiu plural neutre) i funció de subjecte de translata sunt",
+      "tema": "morfologia",
+      "temes_secundaris": [
+        "sintaxi"
+      ],
+      "conceptes": [
+        "nominatiu",
+        "subjecte",
+        "neutre plural",
+        "tercera declinació",
+        "veu passiva",
+        "virgili"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        14
+      ],
+      "text": "Vergilius fuit Mantuanus. Mantua et in diuersis locis operam litteris dedit; postea, amissis agris paternis, Romam uenit et suo ingenio fauorem Augusti et principum ac populi omnis sibi comparauit. Tandem in Brundisio naturae concessit et iussu Augusti eius ossa Neapolim translata sunt —prout ipse optauit— sepultaque in via Puteolana.\n\n*Expositio Monacensis* I",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 2 (morfosintaxi, 1 punt). En la frase «iussu Augusti eius ossa Neapolim translata sunt», analitzeu morfològicament *ossa* i digueu-ne la funció sintàctica.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta d'1 punt (uns 10 minuts): **anàlisi morfològica** de *ossa* (lema, declinació, gènere, cas, nombre) i **funció sintàctica**."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. *ossa* ve d'*os, ossis* (n.) 'os', 3a declinació. **Compte**: no és *os, oris* 'boca'.\n2. La terminació **-a** en un neutre de la 3a declinació és nominatiu o acusatiu plural.\n3. El verb *translata sunt* és **passiu** i el participi *translata* és neutre plural: necessita un subjecte neutre plural en nominatiu → *ossa*.\n4. Per tant, *ossa* és **subjecte** (pacient) de *translata sunt*: «els seus ossos van ser traslladats»."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "***Ossa*** és el **nominatiu plural** del substantiu neutre *os, ossis* ('os'), de la **3a declinació**. Fa la funció de **subjecte** del verb en veu passiva ***translata sunt***, amb el qual concorda (el participi *translata* és neutre plural): «per ordre d'August, **els seus ossos** van ser traslladats a Nàpols». *Eius* n'és el complement del nom."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*Ossa*: nominatiu plural (neutre, d'*os, ossis*, 3a declinació)."
+          },
+          {
+            "apartat": null,
+            "valor": "Funció: subjecte de *translata sunt*."
+          }
+        ],
+        "nota": "Errors típics: dir que és acusatiu (CD) perquè la forma és ambigua: en passiva no hi ha CD i el participi concorda amb el subjecte; confondre *os, ossis* amb *os, oris*."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e3-q1-a",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Primus inter pares: el líder entre iguals",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "primus inter pares",
+        "expressions llatines",
+        "llatinismes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció en què els mots destacats en negreta poden ser substituïts per l'expressió proposada.\n\n1. *Primus inter pares*.",
+      "figures": [],
+      "opcions": {
+        "a": "L'autoritat moral que ha adquirit amb els anys li atorga, de fet, el paper de **líder** en el consell de direcció.",
+        "b": "Va guanyar el torneig perquè va ser clarament el **més veloç** de tots els participants.",
+        "c": "En el món del *heavy* sempre ha estat un **personatge molt peculiar**.",
+        "d": "Va ser un **individu amatent a acollir tota novetat**, pel sol fet que la seva adopció li semblava un senyal de distinció."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts): quatre qüestions a 0,5 punts; cada error descompta 0,16 i les no contestades no descompten (contesta només si n'estàs prou segur). Cal saber el **significat** de l'expressió llatina (o del mot d'origen llatí) i comprovar quina frase manté el sentit si hi substitueixes el fragment en negreta. Compte amb els distractors que s'hi assemblen per la forma (*nauseam* → 'nàusees', *salis* → 'sal')."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Primus inter pares* significa 'el primer entre iguals': algú que té la mateixa categoria que els altres però que, de fet, exerceix el **lideratge** (així es presentava August, *princeps*). Encaixa a la frase a): en el consell de direcció té «el paper de *primus inter pares*». b) no hi va bé: 'el més veloç' és una superioritat real en una competició, no una primacia entre iguals; c) seria *rara avis*; d) descriu un esnob."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*a*) L'autoritat moral que ha adquirit amb els anys li atorga, de fet, el paper de **líder** en el consell de direcció."
+          }
+        ],
+        "nota": "Distractor b): *primus* fa pensar en «el primer» d'una cursa, però l'expressió parla de lideratge entre iguals."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e3-q2-a",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Ad nauseam: fins a l'avorriment",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "ad nauseam",
+        "expressions llatines",
+        "llatinismes"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció en què els mots destacats en negreta poden ser substituïts per l'expressió proposada.\n\n2. *Ad nauseam*.",
+      "figures": [],
+      "opcions": {
+        "a": "Va repetir la seva argumentació **fins a avorrir-nos**.",
+        "b": "Algunes persones són més propenses **a les nàusees** que d'altres.",
+        "c": "Els metges no van parar **fins que li van provocar el vòmit**.",
+        "d": "Si continuen les retallades, l'estat del benestar enfila **cap a un deteriorament irreparable**."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts): quatre qüestions a 0,5 punts; cada error descompta 0,16 i les no contestades no descompten (contesta només si n'estàs prou segur). Cal saber el **significat** de l'expressió llatina (o del mot d'origen llatí) i comprovar quina frase manté el sentit si hi substitueixes el fragment en negreta. Compte amb els distractors que s'hi assemblen per la forma (*nauseam* → 'nàusees', *salis* → 'sal')."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Ad nauseam* vol dir literalment 'fins al mareig, fins a la nàusea', però s'usa en sentit figurat: repetir una cosa **fins a l'avorriment**, fins a fer-se pesat. Per això la resposta és a): «Va repetir la seva argumentació *ad nauseam*». Les opcions b) i c) prenen el sentit físic de la nàusea i el vòmit, que no és el de l'expressió; d) correspondria a una altra idea (deteriorament)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*a*) Va repetir la seva argumentació **fins a avorrir-nos**."
+          }
+        ],
+        "nota": "Error típic: triar b) o c) per la semblança formal amb «nàusea»."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e3-q3-a",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Cum grano salis: amb seny i prudència",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "cum grano salis",
+        "expressions llatines",
+        "llatinismes"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció en què els mots destacats en negreta poden ser substituïts per l'expressió proposada.\n\n3. *Cum grano salis*.",
+      "figures": [],
+      "opcions": {
+        "a": "Va rebre la notícia **amb alegria**.",
+        "b": "Les qüestions delicades han de ser tractades **amb seny i prudència**.",
+        "c": "En un terratrèmol cal actuar **amb molta rapidesa**.",
+        "d": "Va acceptar l'encàrrec **amb molt de gust**."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts): quatre qüestions a 0,5 punts; cada error descompta 0,16 i les no contestades no descompten (contesta només si n'estàs prou segur). Cal saber el **significat** de l'expressió llatina (o del mot d'origen llatí) i comprovar quina frase manté el sentit si hi substitueixes el fragment en negreta. Compte amb els distractors que s'hi assemblen per la forma (*nauseam* → 'nàusees', *salis* → 'sal')."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Cum grano salis* significa literalment 'amb un gra de sal'; la sal simbolitza l'enteniment i el seny (com quan diem «tenir poca sal a la closca»). L'expressió vol dir prendre's o fer les coses **amb seny, mesura i prudència**, sense precipitar-se. Resposta: b). Les altres opcions (alegria, rapidesa, de gust) no hi tenen relació; d) pot temptar perquè associem la sal al gust."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*b*) Les qüestions delicades han de ser tractades **amb seny i prudència**."
+          }
+        ],
+        "nota": "Distractor d): la sal fa pensar en el «gust», però l'expressió fa referència al seny, no al plaer."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e3-q4-a",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Prorrateig: la distribució proporcional",
+      "tema": "lexic-etimologia",
+      "temes_secundaris": [],
+      "conceptes": [
+        "prorrateig",
+        "pro rata",
+        "lèxic d'origen llatí",
+        "llatinismes"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        12
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Encercleu la lletra de l'opció en què els mots destacats en negreta poden ser substituïts per l'expressió proposada.\n\n4. El prorrateig.",
+      "figures": [],
+      "opcions": {
+        "a": "Si no voleu equivocar-vos, cal que sospeseu **els pros i els contres** d'aquesta decisió.",
+        "b": "Aquest país ha assolit **el grau de producció** per persona més elevat de tots els països del seu entorn econòmic.",
+        "c": "El contribuent podrà sol·licitar **la distribució proporcional** per trimestres de la taxa sobre el servei de recollida d'escombraries.",
+        "d": "Gràcies a l'experiència acumulada, és fàcil calcular **el quocient** òptim d'infants per professor que afavoreix el procés d'aprenentatge."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció A (2 punts): quatre qüestions a 0,5 punts; cada error descompta 0,16 i les no contestades no descompten (contesta només si n'estàs prou segur). Cal saber el **significat** de l'expressió llatina (o del mot d'origen llatí) i comprovar quina frase manté el sentit si hi substitueixes el fragment en negreta. Compte amb els distractors que s'hi assemblen per la forma (*nauseam* → 'nàusees', *salis* → 'sal')."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "*Prorrateig* ve de l'expressió llatina ***pro rata (parte)***, 'segons la part calculada, proporcionalment' (*ratus*, participi de *reor*, 'calcular'). El prorrateig és **repartir una quantitat de manera proporcional** entre diverses persones o períodes: sol·licitar el prorrateig per trimestres d'una taxa. Resposta: c). a) juga amb *pro* ('a favor', «els pros»), b) amb la idea de 'producció' i d) amb la de 'ràtio/quocient'."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*c*) El contribuent podrà sol·licitar **la distribució proporcional** per trimestres de la taxa sobre el servei de recollida d'escombraries."
+          }
+        ],
+        "nota": "Distractor a): «els pros i els contres» també té *pro*, però no té res a veure amb repartir proporcionalment."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e3-q1-b",
+      "exercici": 3,
+      "questio": 1,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Eneida: la Sibil·la de Cumes i el ram d'or",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "sibil·la de cumes",
+        "ram d'or",
+        "inferns",
+        "llibre vi",
+        "eneida",
+        "virgili"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        14
+      ],
+      "text": "«Un arbre ombrívol amaga un branquilló que és d'or, consagrat a la Juno infernal; tot el bosc el tapa i les ombres el tenen reclòs en valls obscures. Però no és possible de penetrar en les profunditats de la terra si abans no has arrencat de l'arbre aquest brot de fulles d'or.»",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Identifiqueu el personatge de l'*Eneida* que pronuncia cadascun dels fragments següents.\n\n1. Qui pronuncia aquest fragment?",
+      "figures": [],
+      "opcions": {
+        "a": "Venus.",
+        "b": "Mercuri.",
+        "c": "Sibil·la.",
+        "d": "Anquises."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre fragments a 0,5 punts; cada error descompta 0,16 i les no contestades no descompten. Identifica l'**episodi** de cada fragment (de què parla, a qui s'adreça) i pensa qui hi parla. Tres fragments són del llibre VI (baixada als inferns) i un del llibre III."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Qui explica a Eneas com **baixar als inferns** és la **Sibil·la de Cumes**, sacerdotessa d'Apol·lo (llibre VI). Li diu que primer ha de trobar i arrencar el **ram d'or** consagrat a Prosèrpina (la «Juno infernal»), ofrena imprescindible per entrar al món dels morts. Resposta: c) Sibil·la."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*c*) Sibil·la."
+          }
+        ],
+        "nota": "Distractor d): Anquises és qui Eneas vol veure als inferns, però no és qui li explica com entrar-hi."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e3-q2-b",
+      "exercici": 3,
+      "questio": 2,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Eneida: Anquises mostra a Eneas la futura glòria de Roma",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "anquises",
+        "desfilada dels herois",
+        "august",
+        "llibre vi",
+        "eneida",
+        "virgili"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        14
+      ],
+      "text": "«Ara gira cap aquí els teus ulls, contempla aquesta nissaga i els teus romans. Aquest és Cèsar, i tota la descendència de Iulus que un dia apareixerà sota la immensa volta del cel. Sí, aquest és l'home que tantes vegades t'has sentit prometre, Cèsar August, que instaurarà novament l'edat d'or del Laci.»",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Identifiqueu el personatge de l'*Eneida* que pronuncia cadascun dels fragments següents.\n\n2. Qui pronuncia aquest fragment?",
+      "figures": [],
+      "opcions": {
+        "a": "Dido.",
+        "b": "Anquises.",
+        "c": "Turn.",
+        "d": "Euríal."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre fragments a 0,5 punts; cada error descompta 0,16 i les no contestades no descompten. Identifica l'**episodi** de cada fragment (de què parla, a qui s'adreça) i pensa qui hi parla. Tres fragments són del llibre VI (baixada als inferns) i un del llibre III."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Als **Camps Elisis** (llibre VI), l'ombra d'**Anquises** mostra al seu fill la **desfilada de les ànimes** dels futurs romans il·lustres: Ròmul, els reis, els herois de la República i, sobretot, **Cèsar August**, que portarà una nova edat d'or. És el passatge més clarament propagandístic de l'obra. Resposta: b) Anquises."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*b*) Anquises."
+          }
+        ],
+        "nota": "Clau: només un personatge mort i amb visió de futur, el pare d'Eneas, pot ensenyar-li «els teus romans»."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e3-q3-b",
+      "exercici": 3,
+      "questio": 3,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Eneida: Eneas parla a l'ombra de Dido als inferns",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "eneas",
+        "dido",
+        "inferns",
+        "llibre vi",
+        "eneida",
+        "virgili"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        14
+      ],
+      "text": "«Ai dissortada, ¿m'arribà, doncs, verídicament la notícia que havies mort i que havies cercat la fi amb l'espasa? ¿Vaig ser jo, ai!, la causa de la teva mort? Juro pels estels que fou a contracor, oh reina, que vaig allunyar-me de la teva terra.»",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Identifiqueu el personatge de l'*Eneida* que pronuncia cadascun dels fragments següents.\n\n3. Qui pronuncia aquest fragment?",
+      "figures": [],
+      "opcions": {
+        "a": "Eneas.",
+        "b": "Juno.",
+        "c": "Anna.",
+        "d": "Creüsa."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre fragments a 0,5 punts; cada error descompta 0,16 i les no contestades no descompten. Identifica l'**episodi** de cada fragment (de què parla, a qui s'adreça) i pensa qui hi parla. Tres fragments són del llibre VI (baixada als inferns) i un del llibre III."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Als inferns (llibre VI), als Camps del Plor, **Eneas** troba l'ombra de **Dido** («oh reina»), que s'havia mort amb l'espasa quan ell la va abandonar. Eneas li demana perdó i jura que va marxar contra la seva voluntat, per ordre dels déus; Dido, muda, li gira l'esquena i se'n va amb el seu primer marit, Siqueu. Resposta: a) Eneas."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*a*) Eneas."
+          }
+        ],
+        "nota": "Distractor c): Anna, la germana de Dido, també plora la seva mort (llibre IV), però no va ser ella qui va abandonar la reina."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e3-q4-b",
+      "exercici": 3,
+      "questio": 4,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "test",
+      "punts": 0.5,
+      "titol": "Eneida: Aquemènides, el company d'Ulisses abandonat a l'illa dels Ciclops",
+      "tema": "literatura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "aquemènides",
+        "ciclops",
+        "polifem",
+        "llibre iii",
+        "eneida",
+        "virgili"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        14
+      ],
+      "text": "«Vaig néixer a Ítaca, vaig acompanyar el dissortat Ulisses; vaig partir cap a Troia a causa de la pobresa del meu pare. Quan els meus companys fugiren de l'estatge cruel, s'oblidaren de mi i em deixaren abandonat aquí, a la vasta caverna del Ciclop. És un estatge fosc per dins, immens. Ell és un gegant i arriba a tocar les altes estrelles; és horrible mirar-lo i ningú no gosaria parlar-li.»",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 3 (2 punts; cada resposta correcta val 0,50 punts; per cada resposta incorrecta es descomptaran 0,16 punts i per les qüestions no contestades no hi haurà cap descompte). Identifiqueu el personatge de l'*Eneida* que pronuncia cadascun dels fragments següents.\n\n4. Qui pronuncia aquest fragment?",
+      "figures": [],
+      "opcions": {
+        "a": "Odisseu.",
+        "b": "Laocoont.",
+        "c": "Pal·lant.",
+        "d": "Aquemènides."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici 3, opció B (2 punts): quatre fragments a 0,5 punts; cada error descompta 0,16 i les no contestades no descompten. Identifica l'**episodi** de cada fragment (de què parla, a qui s'adreça) i pensa qui hi parla. Tres fragments són del llibre VI (baixada als inferns) i un del llibre III."
+          },
+          {
+            "apartat": null,
+            "titol": "Explicació",
+            "cos": "Al **llibre III**, quan els troians arriben a Sicília, a la terra dels Ciclops, troben **Aquemènides**, un grec company d'**Ulisses** que havia quedat oblidat a la cova de **Polifem** quan Ulisses i els seus van fugir. Els suplica que se l'enduguin i els avisa del perill. Resposta: d) Aquemènides."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "*d*) Aquemènides."
+          }
+        ],
+        "nota": "Distractor a): no pot ser Odisseu (Ulisses) perquè el que parla diu que va «acompanyar el dissortat Ulisses»."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e4-a",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "A",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Ciceró orador: biografia, ideari polític (concordia ordinum), gèneres, estil i grans discursos",
+      "tema": "literatura",
+      "temes_secundaris": [
+        "cultura"
+      ],
+      "conceptes": [
+        "ciceró",
+        "oratòria",
+        "catilinàries",
+        "filípiques",
+        "pro archia",
+        "concordia ordinum",
+        "homo nouus"
+      ],
+      "dificultat": 3,
+      "pagines": [
+        13
+      ],
+      "text": "",
+      "enunciat": "Opció A (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *Ciceró orador*. Indiqueu-ne les dades biogràfiques principals i descriviu les idees més importants del seu ideari polític; digueu els gèneres literaris que va conrear i el lloc que ocupa en la seva obra la producció oratòria; expliqueu les característiques del seu estil com a orador; esmenteu alguns dels seus discursos més importants i coneguts, i digueu per què ho són.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. L'enunciat detalla tots els punts que cal tractar: fes-ne una llista abans d'escriure i segueix-ne l'ordre, amb un paràgraf per a cada bloc. Es valora el contingut (dades concretes, termes llatins correctes) i la redacció ordenada."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Biografia**: Arpinum, 106 aC; família eqüestre; estudis a Roma, Grècia i Àsia; *homo nouus*; *cursus honorum* fins al consolat (63 aC): conjuració de Catilina; exili (58-57 aC); enfrontament amb Marc Antoni després del 44 aC; mort per ordre d'Antoni (43 aC, segon triumvirat).\n2. **Ideari**: ***concordia ordinum*** (entesa entre senadors, cavallers i plebs) i defensa de la república tradicional.\n3. **Gèneres**: tractats filosòfics i polítics, retòrica, cartes i, sobretot, **oratòria** (més de 50 discursos conservats).\n4. **Estil**: de l'asianisme a una via mitjana propera a l'aticisme: puresa de llengua, claredat, ordre lògic, període ampli i rítmic.\n5. **Discursos**: *Catilinàries*, *Filípiques*, *Pro Archia* (i per què són importants)."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Marc Tul·li Ciceró va néixer a *Arpinum* el 106 aC, en una família de l'orde eqüestre. Va estudiar a Roma i després a Grècia i a l'Àsia Menor. Com a ***homo nouus***, sense avantpassats magistrats, va fer tot el *cursus honorum* fins al **consolat** (63 aC), quan va descobrir i reprimir la **conjuració de Catilina**. L'execució sense judici dels conjurats li va valer l'**exili** (58 aC), del qual va tornar l'any següent gràcies a Pompeu. Després de la mort de Cèsar (44 aC) es va enfrontar a Marc Antoni, que el va fer assassinar el 43 aC.\n\nEl seu ideari polític defensava la **república** tradicional i la ***concordia ordinum***, l'entesa entre senadors, cavallers i poble per salvar el bé comú.\n\nVa escriure tractats filosòfics i polítics, obres de retòrica i cartes, però l'**oratòria** és el centre de la seva obra: se'n conserven més de cinquanta discursos. El seu estil, d'arrel **asiànica**, va evolucionar cap a la sobrietat **àtica**: llengua pura, claredat, ordre lògic i períodes amplis i rítmics.\n\nEls més coneguts són les ***Catilinàries***, contra el cop d'estat de Catilina; les ***Filípiques***, contra Marc Antoni, que li van costar la vida; i el ***Pro Archia***, defensa del poeta Àrquias i elogi de les lletres, considerat un manifest de l'humanisme."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Biografia: Arpinum (106 aC), família eqüestre, estudis a Roma, Grècia i Àsia Menor; *homo nouus*; cònsol el 63 aC (conjuració de Catilina); exili (58 aC) i retorn gràcies a Pompeu; atacs a Marc Antoni després del 44 aC; assassinat per ordre d'Antoni (43 aC)."
+          },
+          {
+            "apartat": null,
+            "valor": "Ideari: *concordia ordinum* (unió de noblesa, cavallers i plebs) per salvar la república; defensor de la legalitat republicana."
+          },
+          {
+            "apartat": null,
+            "valor": "Gèneres: tractats politicofilosòfics, retòrica, epistolografia i, sobretot, oratòria (més de 50 discursos)."
+          },
+          {
+            "apartat": null,
+            "valor": "Estil: d'arrel asiànica, evoluciona cap a l'aticisme (puresa de llengua, rebuig de l'artifici, manca d'afectació, coherència i lògica expositiva)."
+          },
+          {
+            "apartat": null,
+            "valor": "Discursos: *Catilinàries* (contra Catilina), *Filípiques* (contra Marc Antoni), *Pro Archia* (manifest de l'humanisme)."
+          }
+        ],
+        "nota": "La resposta model té unes 209 paraules (el mínim és ~150). La pauta avisa que el seu redactat és «un simple model» que no s'ha de copiar: es valoren els continguts. Errades a la pauta oficial: diu que va tornar de l'exili el «59 aC» (de fet, el 57 aC; l'exili és del 58) i que va morir «fins a la constitució del primer triumvirat» (va ser el **segon** triumvirat, el 43 aC; el primer, de Cèsar, Pompeu i Cras, és del 60 aC). Errors típics dels alumnes: confondre les *Catilinàries* amb les *Filípiques* o no explicar per què són importants els discursos."
+      }
+    },
+    {
+      "id": "llati-2013-J-s3-e4-b",
+      "exercici": 4,
+      "questio": null,
+      "opcio": "B",
+      "serie": "3",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "Construccions romanes extraurbanes: necròpolis, vies, aqüeductes i vil·les; la Via Augusta i les restes a Catalunya",
+      "tema": "cultura",
+      "temes_secundaris": [],
+      "conceptes": [
+        "vies romanes",
+        "via augusta",
+        "aqüeductes",
+        "necròpolis",
+        "vil·la romana",
+        "obra pública",
+        "pont del diable"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        15
+      ],
+      "text": "",
+      "enunciat": "Opció B (cal triar l'opció A o la B, que inclou els exercicis 2, 3 i 4). Exercici 4 (2 punts). Desenvolupeu, en quinze línies com a mínim (unes cent cinquanta paraules), el tema següent: *Construccions romanes extraurbanes: necròpolis, vies, aqüeductes i vil·les*. Expliqueu amb detall la funció de cadascuna i digueu-ne la ubicació habitual amb referència a la ciutat; expliqueu breument la tècnica constructiva de les vies i dels aqüeductes; digueu quina era la via principal que travessava Catalunya, i enumereu algunes ciutats de Catalunya o de la península Ibèrica que conserven restes romanes de vies, d'aqüeductes i de ponts.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exposició de 2 punts (uns 20-25 minuts), **mínim 15 línies (~150 paraules)**. L'enunciat detalla tots els punts que cal tractar: fes-ne una llista abans d'escriure i segueix-ne l'ordre, amb un paràgraf per a cada bloc. Es valora el contingut (dades concretes, termes llatins correctes) i la redacció ordenada."
+          },
+          {
+            "apartat": null,
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Necròpolis**: cementiris, fora muralles, a banda i banda de les vies d'accés (la llei prohibia enterrar dins la ciutat).\n2. **Vil·les**: cases de camp, prop de la ciutat i de les vies, en terres fèrtils: *pars urbana* (residència de l'amo) i *pars rustica* (explotació agrícola).\n3. **Aqüeductes**: porten l'aigua de les fonts a la ciutat per pendent; canal (*specus*) excavat o sobre arcs, impermeabilitzat amb morter, cobert i amb registres.\n4. **Vies**: comunicació i exèrcit; capes: *statumen*, *rudus*, *nucleus* i *pauimentum/stratum* entre vores de pedra.\n5. **Via Augusta**.\n6. **Restes**: via de Capsacosta; aqüeductes de Tarragona (pont del Diable), Barcelona, Sant Jaume dels Domenys, Mèrida, Segòvia; ponts de Martorell, Alcántara, Salamanca."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta model",
+            "cos": "Les **necròpolis** eren els cementiris. Com que la llei prohibia enterrar els morts dins la ciutat, es construïen **fora muralles**, a banda i banda de les **vies** d'accés. Les **vil·les** eren cases de camp situades en terres fèrtils properes a la ciutat i a les vies; tenien una *pars urbana*, la residència del propietari, i una *pars rustica*, amb les instal·lacions de l'explotació agrícola.\n\nEls **aqüeductes** portaven l'aigua des de les fonts fins a la ciutat aprofitant un pendent constant. L'aigua circulava per un canal excavat a la roca o elevat sobre **arcs**, impermeabilitzat amb morter i cobert, amb registres per fer-ne el manteniment.\n\nLes **vies** servien per moure exèrcits, persones i mercaderies. Es traçava el recorregut, es limitava l'amplada amb dues fileres de pedres i s'hi posaven capes successives: pedres grosses sense morter (*statumen*), grava amb morter (*rudus*), pedra triturada (*nucleus*) i, a sobre, grans lloses (*stratum*). La via principal de Catalunya era la **Via Augusta**.\n\nEn queden restes a **Capsacosta** (via), a **Tarragona**, **Barcelona** i **Sant Jaume dels Domenys** (aqüeductes) i a **Martorell** (pont); a la Península, els aqüeductes de **Mèrida** i **Segòvia** i els ponts d'**Alcántara** i **Salamanca**."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Necròpolis: cementiris a banda i banda de les vies d'accés, fora de la ciutat."
+          },
+          {
+            "apartat": null,
+            "valor": "Vil·les: cases de camp prop de la ciutat i de les vies, en llocs fèrtils; *uilla rustica* (explotació agrícola) i *uilla urbana* (residència de l'amo)."
+          },
+          {
+            "apartat": null,
+            "valor": "Aqüeductes: duen l'aigua de les deus a la ciutat; canal excavat o sobre arcs, arrebossat amb morter impermeable, cobert i amb registres."
+          },
+          {
+            "apartat": null,
+            "valor": "Vies: traçat, dues fileres de pedres laterals, *statumen*, *rudus*, *nucleus* i *stratum* (lloses)."
+          },
+          {
+            "apartat": null,
+            "valor": "Via principal de Catalunya: la Via Augusta."
+          },
+          {
+            "apartat": null,
+            "valor": "Restes: via de Capsacosta; aqüeductes de Tarragona, Barcelona, Sant Jaume dels Domenys, Mèrida, Segòvia; ponts de Martorell, Salamanca i Alcántara."
+          }
+        ],
+        "nota": "La resposta model té unes 191 paraules (el mínim és ~150). La pauta avisa que el seu redactat és «un simple model» que no s'ha de copiar: es valoren els continguts. Errors típics: situar les necròpolis dins la ciutat; confondre l'aqüeducte amb les cisternes o les clavegueres; anomenar la Via Augusta «Via Àpia» (aquesta anava de Roma a Bríndisi)."
+      }
+    }
+  ]
+}

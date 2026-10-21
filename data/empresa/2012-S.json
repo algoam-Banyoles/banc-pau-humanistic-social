@@ -1,0 +1,991 @@
+{
+  "examen": {
+    "id": "empresa-2012-S",
+    "assignatura": "empresa",
+    "materia": "Economia de l’empresa",
+    "any": 2012,
+    "convocatoria": "setembre",
+    "serie": "4",
+    "pdf_examen": "pdfs/empresa/2012-S-examen.pdf",
+    "pdf_solucio": "pdfs/empresa/2012-S-solucio.pdf",
+    "estructura": "Sèrie 4 de la convocatòria de setembre de 2012 (curs 2011-2012). Cal respondre CINC dels sis exercicis (2 punts cadascun); si es responen tots, només es valoren els cinc primers. (1) Rendibilitat econòmica i financera i ràtio de liquiditat de dues pimes (Pim i Pom); (2) balanç de situació amb el resultat de l’exercici com a incògnita, capital i reserves, i el facturatge; (3) selecció d’inversions: VAN al 5 % de dos projectes i valor residual que els iguala; (4) qüestions sobre la compra de Cacaolat per Damm i Cobega (estratègia corporativa, creixement extern, internacionalització, deslocalització); (5) punt mort d’una empresa d’espectacles infantils i capital mínim d’una cooperativa; (6) 8 preguntes de test. Al test, cada resposta correcta val 0,25 punts i cada errònia resta 0,08 punts; les no contestades no resten."
+  },
+  "problemes": [
+    {
+      "id": "empresa-2012-S-e1",
+      "exercici": 1,
+      "questio": null,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Pim, SL i Pom, SL: rendibilitat econòmica i financera, ràtio de liquiditat i comparació econòmica i financera",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "rendibilitat econòmica",
+        "rendibilitat financera",
+        "ràtio de liquiditat",
+        "fons de maniobra",
+        "passiu corrent",
+        "anàlisi econòmica i financera"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        1
+      ],
+      "text": "Pim, SL i Pom, SL són dues PIME que des de fa uns quants mesos comercialitzen el seu producte a la comarca de l’Alt Empordà. Les dues empreses ens han facilitat les dades següents:\n\n| | Pim, SL | Pom, SL |\n|---|---:|---:|\n| Actiu corrent | 100.000 € | 75.000 € |\n| Actiu total | 230.000 € | 275.000 € |\n| Patrimoni net | 100.000 € | 180.000 € |\n| Fons de maniobra | 40.000 € | −10.000 € |\n| BAII | 34.500 € | 68.750 € |\n| Benefici net | 22.500 € | 54.000 € |",
+      "enunciat": "A partir de les dades anteriors, responeu els apartats a, b i c.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Calculeu la rendibilitat econòmica i la rendibilitat financera de cada empresa. Interpreteu els resultats obtinguts.",
+          "punts": 0.75
+        },
+        {
+          "id": "b",
+          "enunciat": "Calculeu la ràtio de liquiditat de cada empresa. Analitzeu el resultat obtingut.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "De les tres ràtios calculades (rendibilitat econòmica, rendibilitat financera i ràtio de liquiditat), quines són ràtios econòmiques i quines són ràtios financeres? A partir dels resultats obtinguts per aquestes ràtios, expliqueu quina de les dues empreses té una situació millor des del punt de vista de l’anàlisi econòmica i des del punt de vista de l’anàlisi financera.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Exercici d’**anàlisi de ràtios** amb dues empreses. Cal saber tres fórmules i, sobretot, **interpretar** cada resultat (la pauta dona punts per la interpretació, no només pel número).\n\n- **Rendibilitat econòmica (RE)** $= \\dfrac{BAII}{\\text{Actiu total}} \\cdot 100$: rendiment de tots els recursos invertits.\n- **Rendibilitat financera (RF)** $= \\dfrac{\\text{Benefici net}}{\\text{Patrimoni net}} \\cdot 100$: rendiment dels recursos propis (el que guanyen els socis).\n- **Ràtio de liquiditat** $= \\dfrac{\\text{Actiu corrent}}{\\text{Passiu corrent}}$.\n\nTrampa de l’enunciat: **no et donen el passiu corrent**; l’has de deduir del fons de maniobra ($FM = AC - PC$). Temps orientatiu: 15-20 minuts."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. RE de Pim $= \\dfrac{34500}{230000} \\cdot 100 = 15\\ \\%$.\n2. RE de Pom $= \\dfrac{68750}{275000} \\cdot 100 = 25\\ \\%$.\n3. RF de Pim $= \\dfrac{22500}{100000} \\cdot 100 = 22{,}5\\ \\%$.\n4. RF de Pom $= \\dfrac{54000}{180000} \\cdot 100 = 30\\ \\%$.\n\nDesprés de cada càlcul, digues què vol dir: «per cada 100 € invertits en l’actiu, l’empresa obté X € de BAII» o «per cada 100 € de capital propi, els socis obtenen X € de benefici net»."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "**Rendibilitat econòmica** $= \\dfrac{BAII}{\\text{Actiu total}} \\cdot 100$. Mesura la capacitat de l’empresa per remunerar tots els capitals invertits, siguin propis o aliens.\n\n- Pim: $RE = \\dfrac{34500}{230000} \\cdot 100 = 15\\ \\%$. Per cada 100 € invertits en l’actiu, Pim obté 15 € de benefici abans d’interessos i impostos.\n- Pom: $RE = \\dfrac{68750}{275000} \\cdot 100 = 25\\ \\%$. Per cada 100 € invertits en l’actiu, Pom obté 25 €.\n\n**Rendibilitat financera** $= \\dfrac{\\text{Benefici net}}{\\text{Patrimoni net}} \\cdot 100$. Mesura la capacitat de l’empresa per remunerar els recursos propis (els socis).\n\n- Pim: $RF = \\dfrac{22500}{100000} \\cdot 100 = 22{,}5\\ \\%$. Per cada 100 € aportats pels socis, s’obtenen 22,5 € de benefici net.\n- Pom: $RF = \\dfrac{54000}{180000} \\cdot 100 = 30\\ \\%$. Per cada 100 € de recursos propis, s’obtenen 30 € de benefici net.\n\n**Interpretació**: Pom és més rendible que Pim tant des del punt de vista de l’actiu (25 % davant 15 %) com des del punt de vista dels socis (30 % davant 22,5 %). En totes dues empreses la RF supera la RE, cosa que indica que l’endeutament els resulta favorable (efecte palanquejament positiu)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Dedueix el passiu corrent del fons de maniobra: $PC = AC - FM$.\n   - Pim: $PC = 100000 - 40000 = 60000$ €.\n   - Pom: $PC = 75000 - (-10000) = 85000$ €.\n2. Calcula la ràtio: $\\dfrac{AC}{PC}$.\n3. Compara amb els valors de referència (entre 1,5 i 2, o com a mínim per sobre d’1). Un fons de maniobra negatiu ja t’avisa que la ràtio de Pom serà inferior a 1."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Primer calculem el passiu corrent a partir del fons de maniobra ($FM = AC - PC$, per tant $PC = AC - FM$):\n\n- Pim: $PC = 100000 - 40000 = 60000$ €.\n- Pom: $PC = 75000 - (-10000) = 85000$ €.\n\n**Ràtio de liquiditat** $= \\dfrac{\\text{Actiu corrent}}{\\text{Passiu corrent}}$:\n\n- Pim: $\\dfrac{100000}{60000} = 1{,}67$. El valor és adequat (es troba dins l’interval de referència, entre 1,5 i 2): l’empresa pot fer front als deutes a curt termini amb el seu actiu corrent i encara li queda un marge de seguretat.\n- Pom: $\\dfrac{75000}{85000} = 0{,}88$. La ràtio és inferior a 1: l’actiu corrent és més petit que el passiu corrent (fons de maniobra negatiu). Pom pot tenir problemes per pagar els deutes a curt termini; presenta una situació d’inestabilitat financera i un risc d’insolvència a curt termini elevat (suspensió de pagaments o concurs de creditors)."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Classifica**: les ràtios que relacionen beneficis amb inversions o capitals (RE i RF) són **econòmiques**; la ràtio que relaciona elements del balanç per veure la capacitat de pagament (liquiditat) és **financera**.\n2. **Compara** en cada vessant: econòmicament guanya qui és més rendible; financerament guanya qui pot pagar els deutes.\n3. Conclou que cap empresa és millor en tot: cal combinar totes dues anàlisis."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "La **rendibilitat econòmica** i la **rendibilitat financera** són ràtios de l’**anàlisi econòmica**, perquè relacionen el benefici obtingut amb els recursos utilitzats per obtenir-lo. La **ràtio de liquiditat** és una ràtio de l’**anàlisi financera**, perquè estudia la capacitat de l’empresa per atendre els seus deutes (en aquest cas, els de curt termini).\n\nDes del punt de vista **econòmic**, **Pom** té una situació millor: és més rendible (RE del 25 % i RF del 30 %, davant el 15 % i el 22,5 % de Pim).\n\nDes del punt de vista **financer**, en canvi, **Pim** està millor: té una liquiditat adequada (1,67), mentre que Pom té un fons de maniobra negatiu i una ràtio de liquiditat de 0,88, és a dir, un problema de liquiditat que, si no el corregeix (per exemple, convertint deute a curt termini en deute a llarg termini o ampliant capital), la podria portar a una situació de concurs de creditors malgrat ser molt rendible."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "RE Pim = 34.500/230.000 = 15 %; RE Pom = 68.750/275.000 = 25 %. RF Pim = 22.500/100.000 = 22,5 %; RF Pom = 54.000/180.000 = 30 %. Interpretació: euros de benefici per cada 100 € d’actiu (RE) o de capital propi (RF)."
+          },
+          {
+            "apartat": "b",
+            "valor": "PC = AC − FM: Pim 60.000 €, Pom 85.000 €. Liquiditat Pim = 1,667 (adequada, entre 1 i 2 o entre 1,5 i 2); Pom = 0,882 (< 1: problemes per pagar els deutes a curt termini, risc d’insolvència alt)."
+          },
+          {
+            "apartat": "c",
+            "valor": "RE i RF són ràtios econòmiques; la liquiditat és financera. Econòmicament és millor Pom (més rendible); financerament és millor Pim. Pom té un problema de liquiditat que la podria portar a concurs de creditors."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial (RE 15 % i 25 %, RF 22,5 % i 30 %, liquiditat 1,667 i 0,882). Error típic: calcular la liquiditat sense deduir el passiu corrent, o fer $PC = 75000 - 10000$ oblidant que el fons de maniobra de Pom és negatiu (el correcte és $75000 + 10000 = 85000$ €). No n’hi ha prou amb el número: cada ràtio s’ha d’interpretar. L’enunciat diu «la ràtio» (femení, segons la normativa de l’IEC); la pauta fa servir «el rati»: totes dues formes s’accepten."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e2",
+      "exercici": 2,
+      "questio": null,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Servei Ràpid, SA: balanç amb el resultat de l’exercici com a incògnita, capital i reserves, i el facturatge",
+      "tema": "comptabilitat",
+      "temes_secundaris": [
+        "financament"
+      ],
+      "conceptes": [
+        "balanç de situació",
+        "masses patrimonials",
+        "resultat de l’exercici",
+        "capital social",
+        "reserves",
+        "finançament propi",
+        "factoring"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        2
+      ],
+      "text": "L’empresa Servei Ràpid, SA, dedicada als serveis i al manteniment industrials, presenta les dades comptables següents, amb data 31 de desembre de 2011:\n\n| Concepte | Import (€) |\n|---|---:|\n| Aplicacions informàtiques | 200 |\n| Bancs i institucions de crèdit | 3.000 |\n| Caixa | 180 |\n| Capital | 5.600 |\n| Clients | 435 |\n| Creditors per prestació de serveis | 279 |\n| Deutes a curt termini | 195 |\n| Deutes a llarg termini | 1.000 |\n| Deutors | 175 |\n| Elements de transport | 1.750 |\n| Existències comercials | 275 |\n| Hisenda Pública creditora per conceptes fiscals | 375 |\n| Hisenda Pública deutora per diversos conceptes | 1.010 |\n| Instal·lacions tècniques | 1.500 |\n| Inversions en construccions | 1.600 |\n| Maquinària | 3.300 |\n| Mobiliari | 250 |\n| Organismes creditors de la Seguretat Social | 325 |\n| Proveïdors | 850 |\n| Proveïdors de l’immobilitzat a llarg termini | 1.350 |\n| Reserves | 1.750 |\n| Resultat de l’exercici | ? |",
+      "enunciat": "Responeu els apartats 2.1, 2.2 i 2.3.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "2.1",
+          "enunciat": "Presenteu el balanç de situació ordenat per masses patrimonials i calculeu l’import del resultat de l’exercici.",
+          "punts": 1
+        },
+        {
+          "id": "2.2",
+          "enunciat": "Què tenen en comú el *capital* i les *reserves*? Què origina aquests dos conceptes?",
+          "punts": 0.5
+        },
+        {
+          "id": "2.3",
+          "enunciat": "Què és el *facturatge*? Quin inconvenient té?",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "L’apartat 2.1 és un balanç clàssic amb una **incògnita**: el resultat de l’exercici. Com que l’actiu sempre és igual al patrimoni net més el passiu, el resultat és la xifra que fa **quadrar** el balanç. Els apartats 2.2 i 2.3 són teoria breu (3-5 línies cadascun).\n\nTemps orientatiu: 15 minuts per al balanç i 5 minuts per a la teoria. Classifica cada compte abans de sumar i comprova les sumes al final."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Com plantejar-ho",
+            "cos": "1. **Actiu no corrent**: aplicacions informàtiques (intangible, 200 €); instal·lacions tècniques, maquinària, elements de transport i mobiliari (material, $1500 + 3300 + 1750 + 250 = 6800$ €); inversions en construccions (inversions immobiliàries, 1.600 €). Total: 8.600 €.\n2. **Actiu corrent**: existències (275 €), realitzable (clients, deutors i Hisenda Pública deutora: $435 + 175 + 1010 = 1620$ €) i disponible (bancs i caixa: 3.180 €). Total: 5.075 €.\n3. **Total actiu** $= 8600 + 5075 = 13675$ €.\n4. **Passiu no corrent**: proveïdors de l’immobilitzat a llarg termini i deutes a llarg termini $= 1350 + 1000 = 2350$ €.\n5. **Passiu corrent**: proveïdors, creditors per prestació de serveis, deutes a curt termini, Hisenda Pública creditora i Seguretat Social creditora $= 850 + 279 + 195 + 375 + 325 = 2024$ €.\n6. **Patrimoni net** $= 13675 - 2350 - 2024 = 9301$ €; resultat $= 9301 - 5600 - 1750 = 1951$ €.\n\nAtenció a les dues Hisendes: la **deutora** és un dret (actiu realitzable) i la **creditora**, una obligació (passiu corrent)."
+          },
+          {
+            "apartat": "2.1",
+            "titol": "Resposta model",
+            "cos": "**Balanç de situació de Servei Ràpid, SA a 31-12-2011** (€)\n\n| Actiu | Import |\n|---|---:|\n| **Actiu no corrent** | **8.600** |\n| Immobilitzat intangible: Aplicacions informàtiques | 200 |\n| **Immobilitzat material** | **6.800** |\n| Instal·lacions tècniques | 1.500 |\n| Maquinària | 3.300 |\n| Elements de transport | 1.750 |\n| Mobiliari | 250 |\n| Inversions immobiliàries: Inversions en construccions | 1.600 |\n| **Actiu corrent** | **5.075** |\n| **Existències**: Existències comercials | **275** |\n| **Realitzable** | **1.620** |\n| Clients | 435 |\n| Deutors | 175 |\n| Hisenda Pública deutora per diversos conceptes | 1.010 |\n| **Disponible** | **3.180** |\n| Bancs i institucions de crèdit | 3.000 |\n| Caixa | 180 |\n| **TOTAL ACTIU** | **13.675** |\n\n| Patrimoni net i passiu | Import |\n|---|---:|\n| **Patrimoni net** | **9.301** |\n| Capital | 5.600 |\n| Reserves | 1.750 |\n| Resultat de l’exercici | 1.951 |\n| **Passiu no corrent** | **2.350** |\n| Proveïdors de l’immobilitzat a llarg termini | 1.350 |\n| Deutes a llarg termini | 1.000 |\n| **Passiu corrent** | **2.024** |\n| Proveïdors | 850 |\n| Creditors per prestació de serveis | 279 |\n| Deutes a curt termini | 195 |\n| Hisenda Pública creditora per conceptes fiscals | 375 |\n| Organismes creditors de la Seguretat Social | 325 |\n| **TOTAL PATRIMONI NET I PASSIU** | **13.675** |\n\n**Resultat de l’exercici** = Actiu total − Passiu no corrent − Passiu corrent − Capital − Reserves $= 13675 - 2350 - 2024 - 5600 - 1750 = 1951$ €. És un **benefici de 1.951 €**."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Com plantejar-ho",
+            "cos": "Respon les dues preguntes per separat: (1) què tenen en comú → tots dos són **recursos propis** (patrimoni net); (2) d’on surt cadascun → el capital, de les **aportacions dels socis**; les reserves, dels **beneficis no distribuïts**."
+          },
+          {
+            "apartat": "2.2",
+            "titol": "Resposta model",
+            "cos": "El capital i les reserves són **recursos propis** de l’empresa: formen part del **patrimoni net** i són fonts de **finançament propi**, que no s’han de retornar a cap creditor.\n\nEl seu origen és diferent:\n\n- El **capital** prové de les **aportacions dels socis** en el moment de constituir la societat o en ampliacions de capital posteriors. Les poden fer persones individuals, empreses o grups d’empreses (finançament propi extern).\n- Les **reserves** provenen dels **beneficis no distribuïts**: la part del resultat obtingut per l’activitat de l’empresa que no es reparteix com a dividends i es reté a l’empresa (autofinançament o finançament propi intern)."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Com plantejar-ho",
+            "cos": "Defineix el facturatge (*factoring*) amb els seus elements clau: cessió dels drets de cobrament de clients a una empresa especialitzada (el **factor**), que avança els diners i assumeix el risc d’impagament. Acaba amb l’inconvenient principal: el **cost elevat**."
+          },
+          {
+            "apartat": "2.3",
+            "titol": "Resposta model",
+            "cos": "El **facturatge** (*factoring*) és una font de finançament a curt termini que consisteix a **cedir els drets de cobrament sobre els clients** (factures i lletres) a una entitat especialitzada, anomenada **factor**. El factor avança l’import a l’empresa, de manera que aquesta obté **liquiditat immediata**, i a més es fa càrrec de la gestió del cobrament i, normalment, assumeix el **risc d’insolvència** dels clients (impagats i morosos).\n\nEl seu principal **inconvenient** és l’**elevat cost**: el factor cobra comissions i interessos per l’avançament i pel risc que assumeix, de manera que l’empresa no cobra l’import íntegre de les factures."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "2.1",
+            "valor": "ANC 8.600 € (intangible 200 + material 6.800 + inversions immobiliàries 1.600); AC 5.075 € (existències 275 + realitzable 1.620 + disponible 3.180); total actiu 13.675 €. PNC 2.350 €; PC 2.024 €; PN 9.301 € (capital 5.600 + reserves 1.750 + resultat 1.951). Resultat de l’exercici = 1.951 €."
+          },
+          {
+            "apartat": "2.2",
+            "valor": "Tots dos són recursos propis (finançament propi). El capital prové de les aportacions dels socis (constitució o ampliacions); les reserves, dels beneficis no distribuïts."
+          },
+          {
+            "apartat": "2.3",
+            "valor": "Cessió dels drets de crèdit sobre clients (factures i lletres) a un factor, que dona liquiditat immediata i evita impagats (assumeix el risc d’insolvència). Inconvenient principal: el cost elevat."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial (total actiu 13.675 €; resultat 1.951 €). La pauta col·loca les inversions en construccions a l’actiu no corrent com a **inversions immobiliàries** (immobles que no s’utilitzen en l’activitat, sinó per obtenir rendes o plusvàlues). Errors típics: posar la Hisenda Pública deutora al passiu, posar els proveïdors de l’immobilitzat a llarg termini a l’actiu o al passiu corrent, i oblidar justificar com s’obté el resultat (cal mostrar el càlcul)."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e3",
+      "exercici": 3,
+      "questio": null,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Projectes Blanc i Negre: VAN al 5 %, efecte del calendari dels fluxos i valor residual que iguala els VAN",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "valor actual net",
+        "van",
+        "cost del capital",
+        "actualització",
+        "valor residual",
+        "selecció d’inversions"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        3
+      ],
+      "text": "Un empresari ha de triar entre dos projectes d’inversió, Blanc o Negre, que requereixen un mateix desemborsament inicial de 300.000 unitats monetàries, amb un cost del capital del 5 %. Els fluxos de caixa nets estimats per als pròxims cinc anys estan recollits en la taula següent:\n\n| Projecte d’inversió | Any 1 | Any 2 | Any 3 | Any 4 | Any 5 |\n|---|---:|---:|---:|---:|---:|\n| Projecte Blanc | 90.000 | 100.000 | 110.000 | 120.000 | 130.000 |\n| Projecte Negre | 130.000 | 120.000 | 110.000 | 100.000 | 90.000 |\n\n*Fluxos de caixa nets (€)*",
+      "enunciat": "Responeu els apartats a, b i c.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Determineu quin és el millor projecte segons un criteri que tingui en compte l’equivalència financera. Justifiqueu la resposta.",
+          "punts": 0.75
+        },
+        {
+          "id": "b",
+          "enunciat": "Els dos projectes, Blanc i Negre, tenen els mateixos valors per als fluxos de caixa nets, però en períodes de temps diferents. Justifiqueu la diferència en els valors actuals nets, si és que són diferents.",
+          "punts": 0.5
+        },
+        {
+          "id": "c",
+          "enunciat": "Quin valor residual per al final del cinquè any hauria de tenir el projecte Blanc perquè els dos projectes fossin indiferents segons el criteri del valor actual net (VAN)?",
+          "punts": 0.75
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "«Un criteri que tingui en compte l’**equivalència financera**» vol dir un mètode **dinàmic**, que actualitza els diners del futur: el **VAN** (també valdria la TIR, però amb el cost del capital donat el VAN és el directe). No serveix el termini de recuperació simple, que és estàtic.\n\n$$VAN = -D_0 + \\sum_{t=1}^{n} \\frac{F_t}{(1+k)^t}$$\n\nTemps orientatiu: 20 minuts. Escriu la fórmula amb tots els termes, i després el resultat; amb calculadora, guarda els valors amb decimals per no acumular errors d’arrodoniment a l’apartat c."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Actualitza cada flux al 5 %: divideix per $1{,}05^t$.\n2. Suma els valors actualitzats i resta el desemborsament de 300.000 €.\n3. Tria el projecte amb el **VAN més alt** (tots dos són positius, per tant tots dos són viables).\n\nValors actualitzats:\n\n| Any | Factor $1/1{,}05^t$ | Blanc | Negre |\n|---|---:|---:|---:|\n| 1 | 0,952381 | 85.714,29 | 123.809,52 |\n| 2 | 0,907029 | 90.702,95 | 108.843,54 |\n| 3 | 0,863838 | 95.022,14 | 95.022,14 |\n| 4 | 0,822702 | 98.724,30 | 82.270,25 |\n| 5 | 0,783526 | 101.858,40 | 70.517,35 |\n| **Suma** | | **472.022,07** | **480.462,80** |"
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Utilitzem el **valor actual net (VAN)**, que actualitza els fluxos de caixa al moment inicial amb el cost del capital (5 %) i, per tant, té en compte que els diners de diferents moments no són equivalents.\n\n$VAN_{Blanc} = -300000 + \\dfrac{90000}{1{,}05} + \\dfrac{100000}{1{,}05^2} + \\dfrac{110000}{1{,}05^3} + \\dfrac{120000}{1{,}05^4} + \\dfrac{130000}{1{,}05^5} = 172022{,}07$ €\n\n$VAN_{Negre} = -300000 + \\dfrac{130000}{1{,}05} + \\dfrac{120000}{1{,}05^2} + \\dfrac{110000}{1{,}05^3} + \\dfrac{100000}{1{,}05^4} + \\dfrac{90000}{1{,}05^5} = 180462{,}80$ €\n\nTots dos projectes són viables (VAN > 0), però **escollim el projecte Negre**, perquè té el VAN més alt: un cop recuperada la inversió i remunerat el capital al 5 %, genera 180.462,80 € en valor actual, 8.440,73 € més que el Blanc."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Observa que la suma dels fluxos sense actualitzar és la mateixa (550.000 € en tots dos). La diferència ve del **moment** en què arriben: com més tard es cobra un flux, més es redueix en actualitzar-lo (es divideix per $1{,}05^t$ amb $t$ més gran)."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Sí, els VAN són diferents. La suma dels fluxos de caixa sense actualitzar és igual en els dos projectes (550.000 €), però el **projecte Negre** obté els **fluxos més grans en els primers anys** (130.000 € i 120.000 €), que s’actualitzen amb factors de descompte més petits, mentre que el projecte Blanc els obté al final, quan l’actualització en redueix més el valor. Com que un euro d’avui val més que un euro d’aquí a cinc anys (es pot reinvertir i guanyar interessos), el projecte que cobra abans té un VAN superior."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "El valor residual (VR) és un cobrament addicional al final de l’any 5, que s’actualitza amb $1{,}05^5$. Planteja la igualtat $VAN_{Blanc} + \\dfrac{VR}{1{,}05^5} = VAN_{Negre}$ i aïlla VR."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "Amb un valor residual al final de l’any 5, el VAN del projecte Blanc passa a ser:\n\n$VAN_{Blanc} = 172022{,}07 + \\dfrac{VR}{1{,}05^5}$\n\nPerquè els dos projectes siguin indiferents, els VAN han de ser iguals:\n\n$172022{,}07 + \\dfrac{VR}{1{,}05^5} = 180462{,}80$\n\n$VR = (180462{,}80 - 172022{,}07) \\cdot 1{,}05^5 = 8440{,}73 \\cdot 1{,}2762816 = 10772{,}75$ €\n\nEl projecte Blanc hauria de tenir un **valor residual de 10.772,75 €** al final del cinquè any perquè els dos projectes fossin indiferents segons el VAN."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "VAN Blanc = 172.022,07 €; VAN Negre = 180.462,80 €. Es tria el projecte Negre (VAN més alt)."
+          },
+          {
+            "apartat": "b",
+            "valor": "La suma dels fluxos és igual, però el Negre obté els fluxos més grans en els primers anys, que s’actualitzen menys: per això el seu VAN és superior."
+          },
+          {
+            "apartat": "c",
+            "valor": "172.022,07 + VR/1,05^5 = 180.462,80 → VR = 8.440,73 · 1,05^5 = 10.772,75 €."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial (verificat amb Python: VAN Blanc 172.022,07 €, VAN Negre 180.462,80 €, VR 10.772,75 €). Error típic a c): no actualitzar el valor residual (respondre 8.440,73 €) o actualitzar-lo amb un exponent diferent de 5. A l’apartat a), si fas servir el termini de recuperació no puntua: no té en compte l’equivalència financera."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e4",
+      "exercici": 4,
+      "questio": null,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "oberta",
+      "punts": 2,
+      "titol": "La nova Cacaolat de Damm i Cobega: estratègia corporativa, creixement extern, internacionalització i deslocalització",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [
+        "organitzacio"
+      ],
+      "conceptes": [
+        "estratègia corporativa",
+        "creixement extern",
+        "participació en societats",
+        "internacionalització",
+        "deslocalització",
+        "sinergies"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        4
+      ],
+      "text": "El mes de novembre del 2011 apareixia la notícia següent en un mitjà de comunicació:\n\n> El jutjat mercantil número 6 de Barcelona ha adjudicat la unitat productiva de Cacaolat a l’aliança formada per Damm, Cobega i Victory Turnaround. El grup invertirà 66 milions: 62 per a adaptar l’antiga fàbrica de Damm a Santa Coloma de Gramenet, on el 2013 traslladaran tota la producció de batuts, i 4 més per a modernitzar la planta d’Utebo (Saragossa), on es continuarà fent la llet condensada.\n>\n> Damm i Cobega seran els socis industrials, per l’experiència que acumulen en el sector de les begudes, i es repartiran a parts iguals la majoria d’accions: el 49 % cadascuna, mentre que Victory en mantindrà el 2 %. La nova Cacaolat serà una empresa autònoma i independent dels seus accionistes, tant pel que fa a la gestió com pel que fa a la producció i a la comercialització.\n>\n> El fabricant de cerveses i l’embotelladora de la Coca-Cola aprofitaran les sinergies i volen portar el Cacaolat a tot l’Estat i també a fora. Principalment al nord d’Àfrica, on Cobega ja té presència i on també distribuiran llet condensada, i també pensa en el sud de França. Pel que fa a producte, s’anirà més enllà i s’ampliarà la gamma de batuts.\n>\n> La decisió judicial ha valorat molt positivament el fet que l’oferta inclogui ja una nova planta a Santa Coloma de Gramenet, propietat de Damm, un pla industrial per a la planta de Saragossa, una forta capacitat financera i un pla social per a tots els treballadors.\n\n*Informació extreta d’El Punt Avui (9/11/2011)*",
+      "enunciat": "A partir de la notícia, responeu les qüestions següents.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Quin tipus de decisió estratègica explica el text? Justifiqueu la resposta.",
+          "punts": 0.5
+        },
+        {
+          "id": "b",
+          "enunciat": "Quin tipus de creixement s’hi explica?",
+          "punts": 0.5
+        },
+        {
+          "id": "c",
+          "enunciat": "El nou grup té intenció d’internacionalitzar la companyia? Per què?",
+          "punts": 0.5
+        },
+        {
+          "id": "d",
+          "enunciat": "Considereu que la nova empresa seguirà un procés de deslocalització? Justifiqueu la resposta.",
+          "punts": 0.5
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Quatre preguntes curtes de teoria aplicades a una notícia real. A cada apartat: **anomena el concepte**, **defineix-lo** en una o dues frases i **justifica’l amb una dada del text** (percentatges, països, plantes). Sense la connexió amb el text no s’obté la puntuació sencera.\n\nTemps orientatiu: 12-15 minuts (uns 3 minuts per apartat, 4-6 línies cadascun)."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Recorda els tres nivells d’estratègia: **corporativa** (en quins negocis/mercats és l’empresa, com creix; la decideix l’alta direcció), **de negoci** (com competeix en un mercat: costos, diferenciació) i **funcional** (cada departament). Comprar una empresa i decidir on produir i a quins països anar és una decisió de la cúpula: estratègia corporativa."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "El text explica una decisió d’**estratègia corporativa**. És una decisió presa pels directius dels nivells jeràrquics més alts de Damm i Cobega (el consell d’administració o de direcció): entrar en un nou negoci comprant la unitat productiva de Cacaolat, invertir-hi 66 milions, decidir on es produirà (Santa Coloma de Gramenet i Utebo) i a quins mercats s’adreçarà (tot l’Estat, el nord d’Àfrica i el sud de França). Les estratègies corporatives fixen els criteris i les orientacions generals en què s’han de basar la resta de decisions de l’empresa; són, per tant, el marc de referència per a les estratègies de negoci i funcionals."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "Distingeix **creixement intern** (amb inversions pròpies: noves plantes, nous productes) i **extern** (adquirint o participant en altres empreses: fusió, absorció, adquisició, participació, aliances). Aquí Damm i Cobega entren a Cacaolat comprant-ne una part del capital: creixement extern per **participació en societats**, amb un 49 % cadascuna."
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Es tracta d’un **creixement extern**, perquè Damm i Cobega no creen la capacitat productiva des de zero, sinó que adquireixen una empresa que ja existeix (Cacaolat). Concretament, és una **participació en societats**: una empresa compra part del capital social d’una altra amb la intenció de controlar-la de manera total o parcial, i cap de les empreses perd la seva personalitat jurídica (la nova Cacaolat serà autònoma i independent dels seus accionistes). Com que cada soci industrial adquireix el **49 %** de les accions (menys del 50 %), cadascun té individualment una **participació minoritària**, tot i que conjuntament controlen el 98 %. A més, l’operació té forma d’aliança o **cooperació** entre empreses (Damm, Cobega i Victory) per aprofitar sinergies."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "Defineix internacionalització (obertura a mercats estrangers) i cita els països del text."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "**Sí.** La internacionalització és l’obertura d’una empresa als mercats internacionals, és a dir, el conjunt d’operacions que fa per vincular-se amb mercats estrangers (exportació, implantació de filials, acords amb distribuïdors...). El text diu que Damm i Cobega volen portar el Cacaolat «a tot l’Estat i també a fora», **principalment al nord d’Àfrica**, on Cobega ja té presència i xarxa de distribució, i al **sud de França**. Per tant, hi ha una clara intenció d’internacionalitzar la companyia, aprofitant les sinergies i l’experiència dels nous socis."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Defineix deslocalització (traslladar la producció o una part a un altre país, normalment menys desenvolupat, per reduir costos) i compara-ho amb el que diu el text: les plantes es queden a Santa Coloma de Gramenet i Utebo. No confonguis vendre a l’estranger (internacionalització comercial) amb produir a l’estranger (deslocalització)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Resposta model",
+            "cos": "**No.** La deslocalització és un fenomen lligat a la globalització que consisteix a **traslladar** alguna de les fases de la cadena de producció, o tot el procés productiu, a un altre país, normalment menys desenvolupat, amb l’objectiu de reduir costos (sobretot laborals) o obtenir incentius fiscals o financers i augmentar així la rendibilitat. Segons el text, la nova Cacaolat farà tot el contrari: invertirà 62 milions per traslladar tota la producció de batuts a la fàbrica de **Santa Coloma de Gramenet** i 4 milions per modernitzar la planta d’**Utebo (Saragossa)**, i la decisió judicial ha valorat el pla social per a tots els treballadors. L’empresa vol vendre a l’estranger, però mantenint la producció a Catalunya i a l’Aragó."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Estratègia corporativa: presa pels directius dels nivells jeràrquics més elevats; fixa els criteris i el marc de referència per a la resta de decisions."
+          },
+          {
+            "apartat": "b",
+            "valor": "Creixement extern per participació en societats (compra de part del capital sense que cap empresa perdi la personalitat jurídica); control minoritari per a cada empresa (49 % < 50 %)."
+          },
+          {
+            "apartat": "c",
+            "valor": "Sí: internacionalització = obertura als mercats internacionals; volen portar Cacaolat al nord d’Àfrica i al sud de França."
+          },
+          {
+            "apartat": "d",
+            "valor": "No: deslocalitzar és traslladar la producció a un país menys desenvolupat per reduir costos; el text indica que es mantindran les plantes de Catalunya i Aragó."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial. A b) la pauta parla de «participació en societats» amb control minoritari; també és raonable mencionar que és una adquisició d’una unitat productiva per part d’una aliança d’empreses, sempre que quedi clar que és **creixement extern**. A d), error típic: confondre internacionalització (vendre fora) amb deslocalització (produir fora)."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e5",
+      "exercici": 5,
+      "questio": null,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "problema",
+      "punts": 2,
+      "titol": "Xerinola, espectacles infantils: punt mort, cost variable unitari i preu, resultat amb 145 espectacles i capital mínim d’una cooperativa",
+      "tema": "produccio",
+      "temes_secundaris": [
+        "empresa-entorn"
+      ],
+      "conceptes": [
+        "llindar de rendibilitat",
+        "punt mort",
+        "costos fixos",
+        "cost variable unitari",
+        "preu de venda",
+        "cooperativa",
+        "capital mínim"
+      ],
+      "dificultat": 2,
+      "pagines": [
+        5
+      ],
+      "text": "Xerinola és una empresa que abans d’iniciar el negoci té previst analitzar-ne la viabilitat econòmica. L’activitat de l’empresa es basarà en l’organització d’espectacles infantils per a cases de colònies. L’empresa ha estimat que per començar a obtenir beneficis, és a dir, per cobrir els costos totals, ha de fer 225 espectacles l’any. En aquest cas, preveu obtenir uns ingressos totals de 225.000 €.",
+      "enunciat": "Responeu els apartats a, b, c i d.",
+      "figures": [],
+      "opcions": {},
+      "apartats": [
+        {
+          "id": "a",
+          "enunciat": "Des d’un punt de vista de la viabilitat econòmica, com s’anomena i què representa fer 225 espectacles?",
+          "punts": 0.25
+        },
+        {
+          "id": "b",
+          "enunciat": "L’empresa Xerinola preveu uns costos fixos anuals de 90.000 €. Calculeu el cost variable que representen els 225 espectacles, el cost variable d’un sol espectacle i el preu de venda que haurà de tenir cada espectacle.",
+          "punts": 0.75
+        },
+        {
+          "id": "c",
+          "enunciat": "Calculeu si fent 145 espectacles anuals, l’empresa Xerinola obtindrà un resultat superior a zero.",
+          "punts": 0.75
+        },
+        {
+          "id": "d",
+          "enunciat": "Tenint en compte que aquesta empresa ha decidit constituir-se com a cooperativa, quin és el capital mínim que ha d’aportar?",
+          "punts": 0.25
+        }
+      ],
+      "solucio": {
+        "resposta": null,
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Problema de **llindar de rendibilitat** «al revés»: et donen el punt mort (225 espectacles) i els ingressos en aquest punt, i has de deduir-ne els costos variables i el preu. La clau és recordar que **al punt mort els ingressos totals són iguals als costos totals** (benefici zero).\n\n- $IT = p \\cdot Q$; $CT = CF + CV_u \\cdot Q$; $B = IT - CT$.\n\nTemps orientatiu: 15 minuts. L’apartat d) és de formes jurídiques: una frase."
+          },
+          {
+            "apartat": "a",
+            "titol": "Com plantejar-ho",
+            "cos": "Identifica el concepte (punt mort o llindar de rendibilitat) i defineix-lo: quantitat en què $IT = CT$ i el benefici és zero; per sobre hi ha beneficis i per sota, pèrdues."
+          },
+          {
+            "apartat": "a",
+            "titol": "Resposta model",
+            "cos": "Fer 225 espectacles és arribar al **punt mort** o **llindar de rendibilitat**: el volum de producció i vendes en què els **ingressos totals igualen els costos totals**. En aquest punt l’empresa no guanya ni perd (benefici zero): amb els ingressos cobreix exactament tots els costos, fixos i variables. Si Xerinola fa més de 225 espectacles l’any obtindrà beneficis; si en fa menys, tindrà pèrdues."
+          },
+          {
+            "apartat": "b",
+            "titol": "Com plantejar-ho",
+            "cos": "1. Al punt mort $CT = IT = 225000$ €.\n2. $CV = CT - CF = 225000 - 90000 = 135000$ €.\n3. $CV_u = \\dfrac{CV}{Q} = \\dfrac{135000}{225} = 600$ € per espectacle.\n4. $p = \\dfrac{IT}{Q} = \\dfrac{225000}{225} = 1000$ € per espectacle.\n\nComprovació amb la fórmula del punt mort: $Q^* = \\dfrac{CF}{p - CV_u} = \\dfrac{90000}{1000 - 600} = 225$ espectacles. ✔"
+          },
+          {
+            "apartat": "b",
+            "titol": "Resposta model",
+            "cos": "Com que amb 225 espectacles l’empresa és al punt mort, els costos totals coincideixen amb els ingressos totals: $CT = IT = 225000$ €.\n\n**Cost variable total**: $CT = CF + CV \\Rightarrow 225000 = 90000 + CV \\Rightarrow CV = 135000$ €.\n\n**Cost variable unitari**: $CV_u = \\dfrac{135000}{225} = 600$ € per espectacle.\n\n**Preu de venda unitari**: $p = \\dfrac{IT}{Q} = \\dfrac{225000}{225} = 1000$ € per espectacle.\n\nComprovació: $Q^* = \\dfrac{CF}{p - CV_u} = \\dfrac{90000}{1000 - 600} = 225$ espectacles. Cada espectacle aporta un marge de contribució de 400 € per cobrir els costos fixos."
+          },
+          {
+            "apartat": "c",
+            "titol": "Com plantejar-ho",
+            "cos": "145 < 225, per tant ja saps que hi haurà pèrdues; però l’enunciat diu «calculeu»: fes el compte de resultats amb $Q = 145$."
+          },
+          {
+            "apartat": "c",
+            "titol": "Resposta model",
+            "cos": "No. Amb 145 espectacles l’empresa no arriba al punt mort (225), de manera que tindrà pèrdues:\n\n- Ingressos totals: $IT = 1000 \\cdot 145 = 145000$ €.\n- Costos totals: $CT = 90000 + 600 \\cdot 145 = 90000 + 87000 = 177000$ €.\n- Resultat: $B = 145000 - 177000 = -32000$ €.\n\nTambé es pot calcular com $B = 145 \\cdot (1000 - 600) - 90000 = 58000 - 90000 = -32000$ €.\n\nXerinola tindria unes **pèrdues de 32.000 €**: el marge de contribució dels 145 espectacles (58.000 €) no és suficient per cobrir els costos fixos (90.000 €)."
+          },
+          {
+            "apartat": "d",
+            "titol": "Com plantejar-ho",
+            "cos": "Pregunta de formes jurídiques. Segons la pauta oficial de 2012, la normativa de cooperatives no exigia cap capital mínim legal per a la constitució."
+          },
+          {
+            "apartat": "d",
+            "titol": "Resposta model",
+            "cos": "Per constituir una **cooperativa** la normativa vigent el 2012 **no exigia un capital mínim** legal: el capital social el fixen els estatuts i el formen les aportacions obligatòries dels socis. (A diferència de la societat limitada, que en aquell moment requeria 3.000 €, i de la societat anònima, que en requeria 60.000 €.)"
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": "a",
+            "valor": "Punt mort o llindar de rendibilitat: IT = CT, benefici zero; a partir de 225 espectacles hi ha beneficis."
+          },
+          {
+            "apartat": "b",
+            "valor": "CV = 225.000 − 90.000 = 135.000 €; CVu = 135.000/225 = 600 €; preu = 225.000/225 = 1.000 €."
+          },
+          {
+            "apartat": "c",
+            "valor": "No: IT = 145.000 €; CT = 90.000 + 600 · 145 = 177.000 €; resultat = −32.000 € (pèrdues)."
+          },
+          {
+            "apartat": "d",
+            "valor": "Per a la constitució d’una cooperativa no es requereix un capital mínim (segons la pauta)."
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial (CV 135.000 €, CVu 600 €, p 1.000 €, resultat −32.000 €; verificat amb Python). Apartat d): la resposta oficial reflecteix la llei de cooperatives catalana vigent el 2012; la llei actual (Llei 12/2015, de cooperatives) fixa un capital social mínim de 3.000 €, de manera que avui la resposta seria diferent: si et surt una pregunta semblant, segueix el que t’hagin explicat amb la normativa del teu curs. Error típic a b): calcular el preu com $CF/Q$ o oblidar que al punt mort $CT = IT$."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e6-q1",
+      "exercici": 6,
+      "questio": 1,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Ordenació del passiu del balanç",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "passiu",
+        "exigibilitat",
+        "balanç de situació"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "El passiu del balanç de situació s’ordena",
+      "figures": [],
+      "opcions": {
+        "a": "de major a menor liquiditat.",
+        "b": "de menor a major liquiditat.",
+        "c": "de major a menor exigibilitat.",
+        "d": "de menor a major exigibilitat."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. El costat del patrimoni net i el passiu s’ordena segons l’**exigibilitat** (quan s’han de retornar els recursos), de **menor a major**: primer el patrimoni net (no exigible), després el passiu no corrent (exigible a llarg termini) i, al final, el passiu corrent (exigible a curt termini). La liquiditat és el criteri de l’actiu, no del passiu; per això a) i b) són falses, i c) és l’ordre invers."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e6-q2",
+      "exercici": 6,
+      "questio": 2,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Ordenació de l’actiu del balanç",
+      "tema": "comptabilitat",
+      "temes_secundaris": [],
+      "conceptes": [
+        "actiu",
+        "liquiditat",
+        "balanç de situació"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "L’actiu del balanç de situació s’ordena",
+      "figures": [],
+      "opcions": {
+        "a": "de major a menor liquiditat.",
+        "b": "de menor a major liquiditat.",
+        "c": "de major a menor exigibilitat.",
+        "d": "de menor a major exigibilitat."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. Segons el Pla general de comptabilitat, l’actiu s’ordena de **menor a major liquiditat**: primer l’actiu no corrent (immobilitzat, el menys líquid) i, dins l’actiu corrent, existències, realitzable i, finalment, disponible (caixa i bancs). L’exigibilitat és el criteri del passiu."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e6-q3",
+      "exercici": 6,
+      "questio": 3,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Element que no cal per calcular el VAN",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "van",
+        "tir",
+        "cost del capital",
+        "fluxos de caixa"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Quin dels elements següents NO és necessari per a calcular el valor actual net (VAN)?",
+      "figures": [],
+      "opcions": {
+        "a": "El cost de capital.",
+        "b": "La taxa de rendibilitat interna.",
+        "c": "Els fluxos nets de caixa.",
+        "d": "El desemborsament inicial."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. El VAN es calcula amb el desemborsament inicial, els fluxos nets de caixa i la taxa d’actualització (cost del capital): $VAN = -D_0 + \\sum \\frac{F_t}{(1+k)^t}$. La **TIR** no s’hi necessita: és un altre criteri de selecció d’inversions, i precisament és la taxa que fa el VAN igual a zero."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e6-q4",
+      "exercici": 6,
+      "questio": 4,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Element patrimonial que és finançament propi",
+      "tema": "financament",
+      "temes_secundaris": [],
+      "conceptes": [
+        "recursos propis",
+        "reserves",
+        "finançament propi",
+        "patrimoni net"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Dels elements patrimonials següents, quin pertany als recursos propis (o al finançament propi)?",
+      "figures": [],
+      "opcions": {
+        "a": "Emprèstit.",
+        "b": "Reserves.",
+        "c": "Crèdit a llarg termini.",
+        "d": "Préstec a curt termini."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "b",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **b)**. Les **reserves** són beneficis no distribuïts que es queden a l’empresa: formen part del patrimoni net (recursos propis). L’emprèstit, el crèdit a llarg termini i el préstec a curt termini són deutes amb tercers, és a dir, **recursos aliens** (passiu)."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: b)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e6-q5",
+      "exercici": 6,
+      "questio": 5,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Quan és adequat el creixement intern",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "creixement intern",
+        "creixement extern",
+        "imitació",
+        "avantatge competitiu"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "El creixement intern de l’empresa és adequat",
+      "figures": [],
+      "opcions": {
+        "a": "si es vol un creixement ràpid.",
+        "b": "si el producte està saturat (mercat madur).",
+        "c": "en la fase d’introducció del producte.",
+        "d": "si es vol dificultar la imitació del producte."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "d",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **d)**. El creixement intern (inversions pròpies, R+D, noves plantes) és lent, però permet que l’empresa desenvolupi coneixements i tecnologia propis, difícils de copiar: protegeix el producte de la **imitació**. Si es vol créixer de pressa (a) o el mercat està saturat (b), és més adequat el creixement extern (comprar o fusionar-se amb empreses que ja hi són). L’opció c) no és un criteri que defineixi el tipus de creixement."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: d)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e6-q6",
+      "exercici": 6,
+      "questio": 6,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Estratègia de referència per a tota l’empresa",
+      "tema": "organitzacio",
+      "temes_secundaris": [],
+      "conceptes": [
+        "estratègia corporativa",
+        "estratègia de negoci",
+        "estratègia funcional",
+        "nivells d’estratègia"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Una estratègia de referència per a tots els àmbits de l’empresa, com produir amb la màxima qualitat possible, és una",
+      "figures": [],
+      "opcions": {
+        "a": "estratègia corporativa.",
+        "b": "estratègia de negoci.",
+        "c": "estratègia funcional.",
+        "d": "estratègia puntual."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "a",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **a)**. La paraula clau és «de referència per a **tots els àmbits** de l’empresa»: les estratègies **corporatives** les defineix l’alta direcció i fixen el marc en què s’han d’emmarcar les estratègies de negoci (cada unitat de negoci) i les funcionals (cada departament). Una estratègia funcional afectaria només una àrea (per exemple, producció), i «estratègia puntual» no és un nivell d’estratègia."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: a)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e6-q7",
+      "exercici": 6,
+      "questio": 7,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Subscripció i desemborsament del capital d’una SA",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "societat anònima",
+        "capital subscrit",
+        "capital desemborsat",
+        "formes jurídiques"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        6
+      ],
+      "text": "",
+      "enunciat": "Per poder constituir una societat anònima que ha emès un capital de 100.000 €, cal que aquest hagi estat",
+      "figures": [],
+      "opcions": {
+        "a": "totalment subscrit i desemborsat.",
+        "b": "parcialment subscrit i totalment desemborsat.",
+        "c": "totalment subscrit i parcialment desemborsat.",
+        "d": "parcialment subscrit i desemborsat."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. En constituir una societat anònima, el capital ha d’estar **totalment subscrit** (totes les accions han de tenir propietari), però només cal **desemborsar-ne almenys el 25 %** (la resta són dividends passius, que els socis aporten més endavant). Per això no cal que estigui totalment desemborsat (a). En canvi, a la societat limitada el capital s’ha de subscriure i desemborsar íntegrament."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    },
+    {
+      "id": "empresa-2012-S-e6-q8",
+      "exercici": 6,
+      "questio": 8,
+      "opcio": null,
+      "serie": "4",
+      "tipus": "test",
+      "punts": 0.25,
+      "titol": "Responsabilitat de l’empresari individual autònom",
+      "tema": "empresa-entorn",
+      "temes_secundaris": [],
+      "conceptes": [
+        "empresari individual",
+        "autònom",
+        "responsabilitat il·limitada",
+        "formes jurídiques"
+      ],
+      "dificultat": 1,
+      "pagines": [
+        7
+      ],
+      "text": "",
+      "enunciat": "La senyora Crispí és autònoma, de manera que",
+      "figures": [],
+      "opcions": {
+        "a": "ha de respondre davant de tercers amb tot el seu patrimoni empresarial.",
+        "b": "la seva responsabilitat és limitada en alguns casos.",
+        "c": "ha de respondre davant de tercers amb tot el seu patrimoni empresarial i particular.",
+        "d": "la seva responsabilitat és sempre limitada."
+      },
+      "apartats": [],
+      "solucio": {
+        "resposta": "c",
+        "passos": [
+          {
+            "apartat": null,
+            "titol": "Com enfocar-ho",
+            "cos": "Pregunta de test de l’exercici 6 (8 qüestions, 2 punts en total): cada resposta correcta val 0,25 punts i per cada resposta errònia es descompten 0,08 punts; les preguntes no contestades no resten. No cal justificar la resposta."
+          },
+          {
+            "apartat": null,
+            "titol": "Resposta raonada",
+            "cos": "La resposta correcta és la **c)**. L’empresari individual (autònom) té **responsabilitat il·limitada**: respon dels deutes de l’empresa no només amb els béns afectes al negoci, sinó també amb el seu **patrimoni personal** (present i futur). L’opció a) és incompleta perquè deixa fora el patrimoni particular."
+          }
+        ],
+        "resultats": [
+          {
+            "apartat": null,
+            "valor": "Resposta correcta: c)"
+          }
+        ],
+        "nota": "Coincideix amb la pauta oficial."
+      }
+    }
+  ]
+}
